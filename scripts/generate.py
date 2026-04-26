@@ -17,7 +17,7 @@ from urllib.parse import urlparse, parse_qs
 from jinja2 import Environment, FileSystemLoader
 
 ARC    = Path(__file__).parent.parent
-SITE   = ARC.parent / "liveband-site"
+SITE   = ARC / "liveband-site"
 DATA   = ARC / "data"
 TMPL   = ARC / "templates"
 STATIC   = ARC / "static"

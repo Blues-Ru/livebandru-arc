@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 .venv/
 
-# Build output (lives outside this repo)
+# Build output
 liveband-site/
-liveband-site-*/
 
 # macOS
 .DS_Store
