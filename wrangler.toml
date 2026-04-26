@@ -1,6 +1,7 @@
 name = "liveband-media"
 main = "media-worker.js"
 compatibility_date = "2025-01-01"
+account_id = "677b2fbb69edb3bc8e8839ae5feeb2cb"
 
 [[routes]]
 pattern = "www.liveband.ru/band/*/images/*"

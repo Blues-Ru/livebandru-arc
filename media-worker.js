@@ -18,7 +18,7 @@ const MEDIA_BASE = 'https://internal-media.blues.ru/livebandru-media';
 //   /band/{token}/images/{file}  — band photos
 //   /club/{token}/images/{file}  — club photos
 //   /band/{token}/music/{file}   — band MP3s (relative links from /band/{token}/music/ page)
-const MEDIA_RE = /^\/(band|club)\/([^/]+)\/(?:images|music)\/([^/]+)$/;
+const MEDIA_RE = new RegExp('^/(band|club)/([^/]+)/(images|music)/([^/]+)$');
 
 export default {
   async fetch(request) {
