@@ -1,0 +1,14 @@
+id: 195
+token: rossis
+name: Rossi's Club
+alive: true
+address: Зодчего Росси, 1/3
+subway: Гостиный Двор
+phone: (812) 710-40-16
+city_id: 2
+clips:
+- id: 208
+  type: weblink
+  url: http://www.rossis.ru/
+  name: Официальный сайт
+  sort_order: 0

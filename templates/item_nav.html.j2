@@ -1,0 +1,27 @@
+{# Context menu navigation — matches itemnav.xsl exactly #}
+<p class="nopr" id="tags" style="margin:0 0 2px 3px;">
+  <small>
+    {% if item_type_name %}{{ item_type_name }}{% endif %}
+    {% for cat in item_categories %}
+    / <a href="{{ cat.url }}/">{{ cat.title }}</a>&#32;
+    {% endfor %}
+    {% if not item_alive %}
+    &#160;
+    {% if item_type == 'band' %}<span class="grayed">не играет</span>{% endif %}
+    {% if item_type == 'club' %}<span class="grayed">закрыт</span>{% endif %}
+    {% endif %}
+  </small>
+</p>
+<h1>{{ item_title }}</h1>
+
+<table class="nopr" id="contextMenu">
+  <tr>
+    {% for page in item_pages %}
+    {% if page.url == current_page_url %}
+    <td><b>{{ page.title }}</b></td>
+    {% else %}
+    <td><a href="{{ page.url }}">{{ page.title }}</a></td>
+    {% endif %}
+    {% endfor %}
+  </tr>
+</table>

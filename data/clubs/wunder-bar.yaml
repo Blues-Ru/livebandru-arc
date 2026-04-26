@@ -1,0 +1,14 @@
+id: 855
+token: wunder-bar
+name: Wunder Bar
+alive: true
+address: Берсеневский переулок, 3/10, стр. 7
+subway: Кропоткинская
+phone: +7(495)233-73-78
+city_id: 1
+clips:
+- id: 8041
+  type: weblink
+  url: http://wundermoscow.ru
+  name: Официальный сайт
+  sort_order: 0

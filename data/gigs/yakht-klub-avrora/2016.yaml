@@ -1,0 +1,27 @@
+- id: 61980
+  date: '2016-11-26'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 861
+  club_name: Яхт-клуб "Аврора"
+  club_token: yakht-klub-avrora
+- id: 61981
+  date: '2016-12-24'
+  time: '20:00'
+  band_name: Борис Булкин и Stainles Blues Band
+  club_id: 861
+  club_name: Яхт-клуб "Аврора"
+  club_token: yakht-klub-avrora
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 61982
+  date: '2016-12-10'
+  time: '20:00'
+  band_name: Лекс и команда
+  club_id: 861
+  club_name: Яхт-клуб "Аврора"
+  club_token: yakht-klub-avrora

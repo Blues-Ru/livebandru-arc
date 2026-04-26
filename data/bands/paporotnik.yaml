@@ -1,0 +1,23 @@
+id: 260
+token: paporotnik
+name: Оркестр "Папоротник"
+aliases: 'Оркестр Папоротник
+
+  Папоротник'
+alive: true
+url: http://www.paporotnik.net
+city_id: 1
+genre_id: 2
+secondary_genre_id: 8
+clips:
+- id: 866
+  type: weblink
+  url: http://www.paporotnik.net
+  name: Официальный сайт
+  sort_order: 99
+- id: 867
+  type: photo
+  url: paporotnik.jpg
+  sort_order: 0
+  width: 425
+  height: 334

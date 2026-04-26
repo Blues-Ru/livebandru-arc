@@ -1,0 +1,30 @@
+- id: 24140
+  date: '2012-01-19'
+  time: '18:30'
+  band_name: Валерий Киселев и ансамбль классического джаза
+  club_id: 464
+  club_name: Дом Ученых
+  club_token: domuch
+  comments: Программа "Blues from New Orlean"
+- id: 25320
+  date: '2012-02-11'
+  time: '19:00'
+  band_name: Уильям Паркер (контрабас), Роман Столяр (фортепиано), Владимир Толкачев
+    (альт-саксофон), Сергей Беличенко (ударные)
+  club_id: 464
+  club_name: Дом Ученых
+  club_token: domuch
+  price: 400 руб.
+  comments: Малый зал
+- id: 30056
+  date: '2012-10-19'
+  time: '18:30'
+  band_name: 'Ансамбль классического джаза Валерия Киселева: "Harlem Nocturne" - посвящение
+    Дюку Эллингтону'
+  club_id: 464
+  club_name: Дом Ученых
+  club_token: domuch
+  extra_bands:
+  - id: 601
+    name: Ансамбль классического джаза Валерия Киселева
+    token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva

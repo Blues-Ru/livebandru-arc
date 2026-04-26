@@ -1,0 +1,43 @@
+- id: 27767
+  date: '2012-05-12'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 482
+  club_name: Арт-кафе "С утра до утра"
+  club_token: s-utra-do-utra
+- id: 27857
+  date: '2012-06-22'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 482
+  club_name: Арт-кафе "С утра до утра"
+  club_token: s-utra-do-utra
+- id: 28586
+  date: '2012-06-29'
+  time: '21:00'
+  band_name: Павел Козлов & Alright Band
+  club_id: 482
+  club_name: Арт-кафе "С утра до утра"
+  club_token: s-utra-do-utra
+  price: бесплатный
+  comments: "Прозвучат новые песни и все Ваши любимые хиты!\r\nКоллектив выступит\
+    \ в оригинальном золотом составе! ВЫ как всегда услышите: Джаз, Фанк, Блюз, Свинг,\
+    \ Латино, Фьюжн, Лаунж, Босса-нова, Битлз и Депеш Мод!"
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 30814
+  date: '2012-10-20'
+  time: '20:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 482
+  club_name: Арт-кафе "С утра до утра"
+  club_token: s-utra-do-utra
+  comments: Wolf Mail & High School

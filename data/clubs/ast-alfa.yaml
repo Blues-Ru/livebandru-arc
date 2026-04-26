@@ -1,0 +1,15 @@
+id: 831
+token: ast-alfa
+name: АСТ-Альфа
+aliases: Артклуб-галерея АСТ-Альфа
+alive: true
+address: г.Котельники, ул. Кузьминская, 17
+subway: Котельники
+city_id: 1
+comments: правое крыло
+clips:
+- id: 7440
+  type: weblink
+  url: http://astalpha.ru/yeshchyo/art-klub/
+  name: Официальный сайт
+  sort_order: 0

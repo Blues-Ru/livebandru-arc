@@ -1,0 +1,386 @@
+- id: 72704
+  date: '2018-06-06'
+  time: '20:00'
+  band_name: Антон Боев и ATAVA Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72714
+  date: '2018-06-28'
+  time: '20:00'
+  band_name: Jazz band MOVE
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+  extra_bands:
+  - id: 733
+    name: Jazz Band Move
+    token: jazz-band-move
+- id: 72705
+  date: '2018-06-07'
+  time: '20:00'
+  band_id: 504
+  band_name: Bingo Paprika
+  band_token: bingo-paprika
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72706
+  date: '2018-06-08'
+  time: '20:00'
+  band_name: Funk Corporation
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72709
+  date: '2018-06-18'
+  time: '20:00'
+  band_name: Джем с М-Артель
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 72710
+  date: '2018-06-19'
+  time: '20:00'
+  band_name: Квинтет Сергея Кондратьева
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72711
+  date: '2018-06-25'
+  time: '20:00'
+  band_name: Джем с М-Артель
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 72712
+  date: '2018-06-26'
+  time: '20:00'
+  band_name: Moscow Organ Quartet
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72532
+  date: '2018-05-23'
+  time: '20:00'
+  band_name: Moscow Jazz Ensemble
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72527
+  date: '2018-05-07'
+  time: '20:00'
+  band_name: Наталья Скворцова
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72528
+  date: '2018-05-10'
+  time: '20:00'
+  band_name: Майя ЗаведиЯ & Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72529
+  date: '2018-05-16'
+  time: '20:00'
+  band_name: Григорий Зайцев band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72530
+  date: '2018-05-20'
+  time: '20:00'
+  band_name: Moscow Organ Quartet
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72531
+  date: '2018-05-21'
+  time: '20:00'
+  band_id: 694
+  band_name: М-АРТель
+  band_token: m-artel
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72533
+  date: '2018-05-29'
+  time: '20:00'
+  band_name: Jazz Forever Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72534
+  date: '2018-05-31'
+  time: '20:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72707
+  date: '2018-06-13'
+  time: '20:00'
+  band_name: Avant Step Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72708
+  date: '2018-06-17'
+  time: '20:00'
+  band_name: Maria Art Quartet
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 72713
+  date: '2018-06-27'
+  time: '20:00'
+  band_name: Nikolay Mosieenko Quintet
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73595
+  date: '2018-07-04'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73598
+  date: '2018-07-17'
+  time: '20:00'
+  band_name: Avant Step Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73596
+  date: '2018-07-08'
+  time: '20:00'
+  band_name: Проект Николая Кольцова
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73597
+  date: '2018-07-09'
+  time: '20:00'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73599
+  date: '2018-07-18'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73601
+  date: '2018-07-26'
+  time: '20:00'
+  band_id: 733
+  band_name: Jazz Band Move
+  band_token: jazz-band-move
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73602
+  date: '2018-07-31'
+  time: '20:00'
+  band_name: Moscow Organ Quartet
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 73600
+  date: '2018-07-24'
+  time: '20:00'
+  band_name: Квинтет Сергея Кондратьева
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75112
+  date: '2018-10-04'
+  time: '20:00'
+  band_id: 504
+  band_name: Bingo Paprika
+  band_token: bingo-paprika
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75113
+  date: '2018-10-10'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75114
+  date: '2018-10-17'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75116
+  date: '2018-10-31'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75117
+  date: '2018-10-11'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75119
+  date: '2018-10-21'
+  time: '20:00'
+  band_id: 694
+  band_name: М-АРТель
+  band_token: m-artel
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75122
+  date: '2018-10-29'
+  time: '20:00'
+  band_name: D'n'K
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75115
+  date: '2018-10-24'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75118
+  date: '2018-10-15'
+  time: '20:00'
+  band_name: Avant Step Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75120
+  date: '2018-10-23'
+  time: '20:00'
+  band_name: VV Trio
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75121
+  date: '2018-10-25'
+  time: '20:00'
+  band_name: Майя ЗаведиЯ & Band
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75440
+  date: '2018-11-21'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75441
+  date: '2018-11-28'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75442
+  date: '2018-11-16'
+  time: '23:00'
+  band_name: Жюль Верн
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75443
+  date: '2018-11-20'
+  time: '20:00'
+  band_name: VV Trio
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75444
+  date: '2018-11-22'
+  time: '20:00'
+  band_id: 733
+  band_name: Jazz Band Move
+  band_token: jazz-band-move
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75445
+  date: '2018-11-19'
+  time: '20:00'
+  band_name: Beatum
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75446
+  date: '2018-11-13'
+  time: '20:00'
+  band_name: D'n'K
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75447
+  date: '2018-11-12'
+  time: '20:00'
+  band_name: Джем с М-Артель
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 75448
+  date: '2018-11-27'
+  time: '20:00'
+  band_name: D'n'K
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75449
+  date: '2018-11-29'
+  time: '20:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75438
+  date: '2018-11-07'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar
+- id: 75439
+  date: '2018-11-14'
+  time: '20:00'
+  band_name: Jazz & Rock'n'Roll Jam
+  club_id: 748
+  club_name: Hidden Bar
+  club_token: hidden-bar

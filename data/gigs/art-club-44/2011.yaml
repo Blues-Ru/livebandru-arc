@@ -1,0 +1,16 @@
+- id: 17402
+  date: '2011-04-17'
+  time: '19:00'
+  band_name: Bullet Blues Band (Днепропетровск), Slow Roll, Landcruisers, Bartosz
+    Leczycki (Польша)
+  club_id: 424
+  club_name: Арт-Клуб "44"
+  club_token: art-club-44
+  price: 50 грн.
+  extra_bands:
+  - id: 139
+    name: Bullet Blues Band
+    token: bullet-blues-band
+  - id: 422
+    name: Slow Roll
+    token: slow-roll

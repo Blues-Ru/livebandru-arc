@@ -1,0 +1,26 @@
+id: 2
+token: jazz
+name: джаз
+aliases: 'jazz
+
+  джазовый
+
+  джазовая
+
+  джазовые'
+clips:
+- id: 151
+  type: weblink
+  url: http://www.jazz.ru
+  name: Джаз в России
+  sort_order: 99
+- id: 152
+  type: rss
+  url: http://community.livejournal.com/jazz_ru/data/rss
+  sort_order: 99
+- id: 2186
+  type: rss
+  url: http://jazzru.wordpress.com/feed/
+  name: 'Джазовые новости: "Полный джаз 2.0"'
+  comments: Сетевая версия журнала "Джаз.Ру"
+  sort_order: 50

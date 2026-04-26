@@ -1,0 +1,374 @@
+- id: 40793
+  date: '2014-01-08'
+  time: '20:00'
+  band_name: 'Трио Nostalji (Санкт-Петербург): Марина Романцова (вокал, саксофон),
+    Юрий Дерлюгов (гитара, бэк-вокал), Александр Ивашкевич (фортепиано) и Дмитрий
+    Кротиков (вокал)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 40794
+  date: '2014-01-15'
+  time: '20:00'
+  band_name: Feelin's и Валерий Пономарев (труба, США)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  extra_bands:
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+- id: 40795
+  date: '2014-01-22'
+  time: '20:00'
+  band_name: Николай Массальский (Москва). Программа "Голос" - виртуозные вокальные
+    импровизации
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 40796
+  date: '2014-01-29'
+  time: '20:00'
+  band_name: 'Трио Happy55 (Воронеж): Ярослав Борисов (клавишные), Александр Битюцких
+    (ударные) и Геннадий Чухлов (кларнет, синтезатор)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 41009
+  date: '2014-01-12'
+  time: '18:00'
+  band_name: 'Вокальный квинтет "Мама Jazz": Элла Хрусталева, Людмила Харченко, Елена
+    Юркевич, Наталья Калинина, Ирина Новоселова'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  comments: Джазовые стандарты, хиты советской и мировой эстрады, романсы в авторских
+    аранжировках Эллы Хрусталевой.
+- id: 41977
+  date: '2014-02-26'
+  time: '20:00'
+  band_name: Jam session "Февральские вьюги"
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 41978
+  date: '2014-02-19'
+  time: '20:00'
+  band_name: Feelin's и Ольга Старостенко
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб.
+- id: 41979
+  date: '2014-02-16'
+  time: '18:00'
+  band_name: Джаз-стандарт-квинтет Pan de Сosta
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 41980
+  date: '2014-02-14'
+  time: '19:30'
+  band_name: Дмитрий Mitz Ельков (саксофон)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 42648
+  date: '2014-03-26'
+  time: '20:00'
+  band_name: Элла Хрусталева и Станислав Глушенков
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 42649
+  date: '2014-03-19'
+  time: '20:00'
+  band_name: Boris Savoldelli (вокал, Италия)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 1000 руб.
+- id: 42650
+  date: '2014-03-12'
+  time: '20:00'
+  band_name: OverDrive Blues Band (Ярославль)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 42651
+  date: '2014-03-05'
+  time: '20:00'
+  band_name: Екатерина Черноусова (Москва) и джаз-стандарт-квинет Pan de Costa (Рязань)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 42652
+  date: '2014-03-08'
+  time: '20:00'
+  band_name: Станислав Глушенков (гитара) и Константин Панкратов (бас-гитара)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: бесплатный
+- id: 43169
+  date: '2014-04-23'
+  time: '20:00'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб.
+- id: 43170
+  date: '2014-04-16'
+  time: '20:00'
+  band_name: Overdrive Blues Band (Ярославль)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 43171
+  date: '2014-04-09'
+  time: '20:00'
+  band_name: Екатерина Лавринова и Ticket to the jazz (Тула)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 43172
+  date: '2014-04-02'
+  time: '20:00'
+  band_name: Feelin's, Вадим Денисов и Ольга Старостенко
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 45614
+  date: '2014-08-27'
+  time: '19:00'
+  band_name: Jam-session "Джазовый спас"
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 45615
+  date: '2014-08-20'
+  time: '19:00'
+  band_name: Гитарный джаз
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 300 руб.
+- id: 45616
+  date: '2014-08-13'
+  time: '19:00'
+  band_name: VSV-трио (Вологда-Ярославль-Череповец)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 400 руб.
+- id: 45617
+  date: '2014-08-06'
+  time: '19:00'
+  band_name: Kseniya Akimova Project (Ксения Акимова - клавишные, Владимир Владычкин
+    - саксофон, Айк Григорян - труба, Роман Харин - бас-гитара, Дмитрий Потейчук -
+    ударные)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 450 руб.
+- id: 44509
+  date: '2014-06-19'
+  time: '18:00'
+  band_name: 'МузЭнергоТур 2014: Angel Ontalva & Vasco Trilla (Испания-Португалия),
+    Hellmuller-Risso-Zanoli (Швейцария-Италия), Marc Egea (колесная лира, Испания),
+    Authentic Light Orchestra (Швейцария-Армения), Mad Kluster Trio (Франция), Udi
+    Shlomo (барабан, Норвегия), Feelin''s (Россия), АКМ (Россия)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 800 руб.
+- id: 44510
+  date: '2014-06-25'
+  time: '19:00'
+  band_name: Мама Jazz и Карусель music
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб.
+- id: 44508
+  date: '2014-06-04'
+  time: '19:00'
+  band_name: Feelin's, Ольга Старостенко (вокал) и Алексей Кузнецов (гитара)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 750 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 44952
+  date: '2014-07-23'
+  time: '19:00'
+  band_name: Авторский вечер Константина Панкратова
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 450 руб.
+- id: 44953
+  date: '2014-07-16'
+  time: '19:00'
+  band_name: 'Гитарные формы: Алексей Кузнецов (Москва), Виталий Гудков (Коломна),
+    Станислав Глушенков (Рязань) и Андрей Карнаухов (Рязань)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 46268
+  date: '2014-09-24'
+  time: '19:00'
+  band_name: Константин Панкратов. Авторский вечер "Импровизируя с Есениным"
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46269
+  date: '2014-09-17'
+  time: '19:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46270
+  date: '2014-09-15'
+  time: '19:00'
+  band_name: Maya Azucena и Feelin's, при уч. Стэффорда Хантера (тромбон, оркестр
+    Дюка Эллингтона)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46271
+  date: '2014-09-03'
+  time: '19:00'
+  band_name: Любовь Труфанова (вокал)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46489
+  date: '2014-10-01'
+  time: '20:00'
+  band_name: Сергей Филатов (клавиши) и Виталий Кись (гитара)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 600 руб.
+- id: 46832
+  date: '2014-10-08'
+  time: '20:00'
+  band_name: Карусель music (Спасск)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46833
+  date: '2014-10-19'
+  time: '19:00'
+  band_name: AS Band @ St Olga
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46834
+  date: '2014-10-22'
+  time: '20:00'
+  band_name: ВСВ-трио (Вологда-Ярославль-Череповец)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб. (600 в день концерта)
+- id: 46835
+  date: '2014-10-29'
+  time: '20:00'
+  band_name: Джем-сейшн "Джазовая революция"
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 46836
+  date: '2014-11-05'
+  time: '20:00'
+  band_name: Екатерина Черноусова (Москва) и Pan De Costa
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб. (600 в день концерта)
+- id: 46837
+  date: '2014-11-12'
+  time: '20:00'
+  band_name: 'Гитарные формы: Алексей Кузнецов (Москва), Игорь Захаров (Воскресенск),
+    Станислав Глушенков (Рязань)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб. (600 в день концерта)
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 46838
+  date: '2014-11-19'
+  time: '20:00'
+  band_name: Feelin's и Boris Savoldelli (вокал, Италия)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 1000 руб. (1100 в день концерта)
+- id: 46839
+  date: '2014-11-24'
+  time: '20:00'
+  band_name: New York All Stars Trio Арка Овруцкого (США)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 1000 руб. (1100 в день концерта)
+- id: 46840
+  date: '2014-12-05'
+  time: '20:00'
+  band_name: Антон Горбунов (бас-гитара, Москва)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб. (600 в день концерта)
+- id: 46841
+  date: '2014-12-10'
+  time: '20:00'
+  band_name: Николай Массальский (Москва)
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  price: 500 руб. (600 в день концерта)
+- id: 46842
+  date: '2014-12-24'
+  time: '20:00'
+  band_name: Предновогодний джем-сейшн
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+- id: 47420
+  date: '2014-11-25'
+  time: '19:00'
+  band_name: 'Фестиваль "Jazz Фонтан 2014": New York All Star Trio (США) и вокалист
+    Boris Savoldelli (Италия) в совместном проекте с группой Feelin''s (Россия)'
+  club_id: 389
+  club_name: Фонтан
+  club_token: fontan
+  comments: Большой зал МКЦ

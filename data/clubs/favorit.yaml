@@ -1,0 +1,13 @@
+id: 209
+token: favorit
+name: Арт Кафе Фаворит
+alive: true
+address: 2-я Никольская, 4
+phone: (4922) 37-33-73
+city_id: 3
+clips:
+- id: 350
+  type: weblink
+  url: http://vk.com/club14500669
+  name: Страница ВКонтакте
+  sort_order: 0

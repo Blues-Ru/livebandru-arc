@@ -1,0 +1,14 @@
+id: 320
+token: nogu-svelo
+name: Ногу свело!
+aliases: Ногу свело
+alive: true
+url: http://nogu-svelo.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 1196
+  type: weblink
+  url: http://nogu-svelo.ru/
+  name: Официальный сайт
+  sort_order: 99

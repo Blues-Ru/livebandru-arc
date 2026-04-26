@@ -1,0 +1,48 @@
+id: 249
+token: acollective
+name: Acollective
+alive: true
+city_id: 20
+genre_id: 4
+secondary_genre_id: 7
+musicians:
+- name: Roy
+  instruments: Vocals, Harmonica, Acoustic Guitar, Bells
+- name: Idan
+  instruments: Vocals, Piano, Keys, Hammond, Melodica, Accordion, Pedal Steel
+- name: Daniel
+  instruments: Guitars, Samplers, Drum Loops, Stylophone, Keys, Glockenspiel
+- name: Joseph
+  instruments: Guitars, Percussion, Mandolin, Bouzouki
+- name: Hamudi
+  instruments: Saxophones, Keys, EWI, Flute, Bitch-Slap, Woodwinds
+- name: Slonim
+  instruments: Bass, Tenor Hum, Cowbell
+clips:
+- id: 816
+  type: youtube
+  url: http://www.youtube.com/?v=_SDwCpSOfeY
+  name: Acollective - Dot Comma (Nekuda Psik)
+  comments: ALL PHOTOS BY TAL ARGOV  Acollective - Live @ Tmuna, TLV, 2/4/10  http://www.collectivemusic.net
+    http://www.myspace.com/hacollective http://www.myspace.com/idanrab http://www.myspace.com/royrie
+  sort_order: 99
+- id: 817
+  type: youtube
+  url: http://www.youtube.com/?v=aipYAeCyUPE
+  name: Acollective - A King And A Queen (Okkervil River cover)
+  comments: 'Acollective - A King And A Queen (Okkervil River cover)  Acollective:
+    http://www.collectivemusic.net http://www.myspace.com/joinacollective  http://www.monocrave.com/hacollective-he.php'
+  sort_order: 199
+- id: 818
+  type: youtube
+  url: http://www.youtube.com/?v=j24W2f1QSmA
+  name: Acollective - What You Care? (Do The Shalom!)
+  comments: "ALL PHOTOS BY TAL ARGOV\r\n\r\nAcollective - Live @ Tmuna, TLV, 2/4/10\r\
+    \n\r\nhttp://www.collectivemusic.net\r\nhttp://www.myspace.com/hacollective\r\n\
+    http://www.myspace.com/idanrab\r\nhttp://www.myspace.com/royrie"
+  sort_order: 299
+- id: 815
+  type: weblink
+  url: http://www.myspace.com/joinacollective/
+  name: Страница на MySpace
+  sort_order: 99

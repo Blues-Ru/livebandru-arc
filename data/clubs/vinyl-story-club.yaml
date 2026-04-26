@@ -1,0 +1,19 @@
+id: 351
+token: vinyl-story-club
+name: Vinyl Story Club
+alive: true
+address: просп. Испытателей, 26, корп. 2, литера А
+subway: Комендантский Проспект
+phone: (812) 334-31-18
+city_id: 2
+clips:
+- id: 1320
+  type: weblink
+  url: http://www.vinylstoryclub.com
+  name: Официальный сайт
+  sort_order: 99
+- id: 1322
+  type: weblink
+  url: http://vk.com/club12588680
+  name: Страница ВКонтакте
+  sort_order: 199

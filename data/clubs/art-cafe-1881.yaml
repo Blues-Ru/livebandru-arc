@@ -1,0 +1,13 @@
+id: 160
+token: art-cafe-1881
+name: Арт-Кафе 1881
+alive: true
+address: Жуковский, Жуковского, 5
+phone: +7-(495)-556-9264
+city_id: 1
+clips:
+- id: 120
+  type: weblink
+  url: http://1881.ru/
+  name: Официальный сайт
+  sort_order: 0

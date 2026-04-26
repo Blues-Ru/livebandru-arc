@@ -1,0 +1,193 @@
+id: 123
+token: jumble-tone
+name: Jumble Tone
+alive: true
+url: http://www.jumbletone.ru/
+city_id: 1
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Надежда Толстова
+  instruments: вокал
+- name: Дмитрий Слесаренко
+  instruments: бас-гитара
+- name: Кирилл Капицын
+  instruments: гитара
+- name: Роберто Муньос-Сальгадо
+  instruments: ударные
+- name: Андрей Слесаренко
+  instruments: звук
+clips:
+- id: 101
+  type: weblink
+  url: http://www.jumbletone.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1989
+  type: photo
+  url: jumble-tone1.jpg
+  name: Jumble Tone
+  sort_order: 99
+  width: 800
+  height: 600
+- id: 1994
+  type: photo
+  url: jumble-tone6.jpg
+  name: Jumble Tone
+  sort_order: 4
+  width: 800
+  height: 550
+- id: 1995
+  type: photo
+  url: jumble-tone7.jpg
+  name: Кирилл Капицын
+  sort_order: 2
+  width: 800
+  height: 550
+- id: 1996
+  type: photo
+  url: jumble-tone8.jpg
+  name: Дмитрий Слесаренко
+  sort_order: 1
+  width: 800
+  height: 550
+- id: 1997
+  type: photo
+  url: jumble-tone9.jpg
+  name: Нпдежда Толстова
+  sort_order: 3
+  width: 550
+  height: 800
+- id: 1998
+  type: photo
+  url: jumble-tone10.jpg
+  name: Jumble Tone
+  sort_order: 0
+  width: 800
+  height: 550
+- id: 1981
+  type: mp3
+  url: jumble-tone-6.mp3
+  name: Fly Me To The Moon
+  sort_order: 75
+- id: 1982
+  type: mp3
+  url: jumble-tone-7.mp3
+  name: I Know A Little
+  sort_order: 82
+- id: 1983
+  type: mp3
+  url: jumble-tone-8.mp3
+  name: Walking On Sunshine
+  sort_order: 25
+- id: 504
+  type: weblink
+  url: http://www.youtube.com/user/jumbletoneblues
+  name: youtube.com/user/jumbletoneblues
+  comments: Jumble Tone Blues на YouTube
+  sort_order: 300
+- id: 1984
+  type: mp3
+  url: jumble-tone-9.mp3
+  name: Rock Around The Clock
+  sort_order: 0
+- id: 1990
+  type: photo
+  url: jumble-tone21.jpg
+  name: Jumble Tone
+  sort_order: 50
+  width: 800
+  height: 550
+- id: 1991
+  type: photo
+  url: jumble-tone3.jpg
+  name: Роберто Муньос-Сальгадо
+  sort_order: 25
+  width: 800
+  height: 550
+- id: 1992
+  type: photo
+  url: jumble-tone4.jpg
+  name: Jumble Tone
+  sort_order: 13
+  width: 800
+  height: 550
+- id: 417
+  type: mp3
+  url: jumble-tone.mp3
+  name: Jumble Tone Blues - Mary Had A Little Lamb
+  comments: Записано в ноябре 2009 г. на студии "GMoscow Sound"
+  sort_order: 88
+- id: 1980
+  type: mp3
+  url: jumble-tone-5.mp3
+  name: Jumble Tone - Good Good Lovin'
+  sort_order: 50
+- id: 1993
+  type: photo
+  url: jumble-tone5.jpg
+  name: Jumble Tone
+  sort_order: 7
+  width: 800
+  height: 550
+- id: 418
+  type: mp3
+  url: jumble-tone-2.mp3
+  name: Jumble Tone Blues - Go-Go-Train
+  comments: Записано в ноябре 2009 г. на студии "GMoscow Sound"
+  sort_order: 85
+- id: 508
+  type: mp3
+  url: jumble-tone-3.mp3
+  name: They're Red Hot (Live)
+  comments: Rock'n'roll night in Ray Club
+  sort_order: 200
+- id: 509
+  type: mp3
+  url: jumble-tone-4.mp3
+  name: Tutti Frutti (Live)
+  comments: Rock'n'roll night in Ray Club
+  sort_order: 300
+- id: 1985
+  type: youtube
+  url: http://www.youtube.com/?v=l8rnTp5mhRE
+  name: Rock Around The Clock
+  comments: Jumble Tone in Hotel Metropol Moscow. www.jumbletone.ru
+  sort_order: 99
+- id: 1986
+  type: youtube
+  url: http://www.youtube.com/?v=_Q-KCRXVbG0
+  name: Fly Me To The Moon
+  comments: Jumble Tone in Hotel Metropol Moscow. www.jumbletone.ru
+  sort_order: 50
+- id: 1987
+  type: youtube
+  url: http://www.youtube.com/?v=dm1hDyS9zLE
+  name: Good Good Lovin'
+  comments: Jumble Tone in Hotel Metropol Moscow. www.jumbletone.ru
+  sort_order: 0
+reviews:
+- id: 22
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Jumble Tone
+  text: 'Jumble Tone - современное сочетание музыкальных оттенков во всем разнообразии
+    их настроений: от нежной романтики до безудержного веселья, от меланхоличной мелодии
+    до бешеного ритма в стиле свинг. Море позитива и ярких красок, эмоции гитарного
+    соло и энергия ритм-секции, а сильный женский вокал раскроет Вам все нюансы музыкальных
+    настроений.
+
+
+    Музыканты Jumble Tone – смелые экспериментаторы, талантливые исполнители, выходят
+    за рамки традиционности и рушат границы стилей. Свежий взгляд, оригинальная подача,
+    умение сохранить индивидуальность музыкального произведения, представив его в
+    новом свете.
+
+
+    На концертах группы чувствуется жизнь – музыка забирает в мир, где разные стили
+    живут в гармонии. Отважьтесь вспомнить и заново насладиться великими хитами прошлого,
+    окунуться в настоящее и заглянуть в будущее.'
+  verified: true
+  created: '2010-08-27'
+  is_press_release: true

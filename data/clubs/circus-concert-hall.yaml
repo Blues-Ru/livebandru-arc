@@ -1,0 +1,14 @@
+id: 599
+token: circus-concert-hall
+name: Circus Concert Hall
+alive: true
+address: Конюшенная пл., 2
+subway: Невский Проспект
+phone: +7(812)922-20-50
+city_id: 2
+clips:
+- id: 3368
+  type: weblink
+  url: http://vk.com/clubcircus
+  name: Официальный сайт
+  sort_order: 0

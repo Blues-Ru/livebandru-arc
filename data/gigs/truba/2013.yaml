@@ -1,0 +1,190 @@
+- id: 33067
+  date: '2013-01-09'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 33068
+  date: '2013-01-12'
+  time: '20:00'
+  band_name: Traffic
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 300 руб.
+- id: 33069
+  date: '2013-01-17'
+  time: '20:00'
+  band_name: Рви Меха Оркестр
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 250 руб.
+- id: 33474
+  date: '2013-01-30'
+  time: '20:30'
+  band_name: Jazz Jam Session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 34106
+  date: '2013-02-16'
+  time: '20:00'
+  band_name: Apple Jam
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+- id: 34107
+  date: '2013-02-20'
+  time: '20:00'
+  band_name: Jazz jam session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 37482
+  date: '2013-08-13'
+  time: '20:00'
+  band_id: 625
+  band_name: Alcorub Band
+  band_token: alcorub
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 200 руб.
+- id: 38467
+  date: '2013-09-04'
+  time: '20:00'
+  band_name: Jam session "Полтос"
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 38468
+  date: '2013-09-11'
+  time: '20:00'
+  band_name: Jam session "Полтос"
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 38469
+  date: '2013-09-18'
+  time: '20:00'
+  band_name: Jam session "Полтос"
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 38470
+  date: '2013-09-25'
+  time: '20:00'
+  band_name: Jam session "Полтос"
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 38471
+  date: '2013-10-02'
+  time: '20:00'
+  band_name: Jam session "Полтос"
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 39196
+  date: '2013-10-17'
+  time: '19:00'
+  band_name: Сергей Летов & трио Dikeman - Kugel - Van Der Weide (Голландия, Амстердам)
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 500 руб.
+  comments: John Dikeman (саксофоны), Raoul van der Weide (контрабас), Klaus Kugel
+    (ударные)
+- id: 39197
+  date: '2013-10-16'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 50 руб.
+- id: 39198
+  date: '2013-10-12'
+  time: '20:00'
+  band_name: Apple Jam
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 250 руб.
+- id: 39199
+  date: '2013-10-13'
+  time: '20:00'
+  band_name: Дуэт inFocus
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 200 руб.
+- id: 39235
+  date: '2013-10-22'
+  time: '19:00'
+  band_id: 625
+  band_name: Alcorub Band
+  band_token: alcorub
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 200 руб.
+- id: 40149
+  date: '2013-11-23'
+  time: '20:00'
+  band_name: '"Выходной День"'
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 250 руб.
+- id: 40150
+  date: '2013-11-26'
+  time: '20:00'
+  band_name: Ohotin Blues Band, Alcorub Band
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  extra_bands:
+  - id: 625
+    name: Alcorub Band
+    token: alcorub
+- id: 40151
+  date: '2013-11-28'
+  time: '20:00'
+  band_name: Донкихоты
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 250 руб.
+- id: 40146
+  date: '2013-11-20'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+- id: 40147
+  date: '2013-11-27'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+- id: 40148
+  date: '2013-11-22'
+  time: '20:00'
+  band_name: Старлайт Бэнд
+  club_id: 189
+  club_name: Труба
+  club_token: truba
+  price: 250 руб.

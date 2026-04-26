@@ -1,0 +1,23 @@
+id: 112
+token: kalinov-most
+name: Калинов мост
+alive: true
+url: http://www.kalinovmost.ru
+city_id: 19
+genre_id: 3
+secondary_genre_id: 4
+musicians:
+- name: Дмитрий Ревякин
+  instruments: гитара, вокал
+- name: Виктор Чаплыгин
+  instruments: барабаны, перкуссия
+- name: Константин Ковачев
+  instruments: гитара
+- name: Андрей Баслык
+  instruments: бас-гитара
+clips:
+- id: 66
+  type: weblink
+  url: http://www.kalinovmost.ru/
+  name: Официальный сайт
+  sort_order: 0

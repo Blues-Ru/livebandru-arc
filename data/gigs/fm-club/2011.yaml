@@ -1,0 +1,592 @@
+- id: 15001
+  date: '2011-01-27'
+  time: '20:00'
+  band_name: Искра Гранат
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15025
+  date: '2011-01-29'
+  time: '21:00'
+  band_name: Бобры
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15378
+  date: '2011-02-10'
+  time: '21:00'
+  band_id: 358
+  band_name: Монгол Шуудан
+  band_token: mongol-shuudan
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15415
+  date: '2011-02-12'
+  time: '20:00'
+  band_name: Raw Сats 88, Telescopes
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15434
+  date: '2011-02-13'
+  time: '20:00'
+  band_name: 7Б
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15405
+  date: '2011-02-11'
+  time: '21:00'
+  band_name: Вовка Кожекин и Феликс Лахути
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 15376
+  date: '2011-02-10'
+  time: '21:00'
+  band_name: Compatriotes International Orchestra
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15646
+  date: '2011-02-21'
+  time: '21:00'
+  band_name: АН-3
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15724
+  date: '2011-02-26'
+  time: '21:00'
+  band_name: Echoes
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15739
+  date: '2011-02-27'
+  time: '20:00'
+  band_name: Паприка, Radio Koyan
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15659
+  date: '2011-02-22'
+  time: '20:00'
+  band_name: Разные люди
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15670
+  date: '2011-02-23'
+  time: '21:00'
+  band_name: БеZ Daты, Шашки
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15682
+  date: '2011-02-24'
+  time: '21:00'
+  band_name: ОТТА-Оркестр
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15733
+  date: '2011-02-27'
+  time: '20:00'
+  band_name: Теплая трасса
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 15698
+  date: '2011-02-25'
+  time: '20:00'
+  band_name: The Queers (USA)
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16061
+  date: '2011-03-04'
+  time: '21:00'
+  band_name: Александр Ф. Скляр
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16133
+  date: '2011-03-08'
+  time: '19:00'
+  band_name: Real Jam
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16304
+  date: '2011-03-11'
+  time: '20:00'
+  band_name: Радуга, Сахарный человек
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16333
+  date: '2011-03-12'
+  time: '20:00'
+  band_name: Арбат Бит
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16276
+  date: '2011-03-10'
+  time: '19:30'
+  band_name: Радиоснег, Familia, Нина на дне
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16385
+  date: '2011-03-16'
+  time: '20:30'
+  band_name: Алексей Гоман
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16353
+  date: '2011-03-13'
+  time: '20:00'
+  band_name: Игорь Лучин и Стаж
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16438
+  date: '2011-03-19'
+  time: '19:00'
+  band_name: Ундервуд
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16725
+  date: '2011-03-23'
+  time: '21:00'
+  band_name: Perfect me
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16719
+  date: '2011-03-22'
+  time: '21:00'
+  band_name: Жозефина
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16747
+  date: '2011-03-24'
+  time: '21:00'
+  band_name: Zband
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16823
+  date: '2011-03-27'
+  time: '20:00'
+  band_name: Garage Band
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 16873
+  date: '2011-03-31'
+  time: '21:00'
+  band_name: Placebo party
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17251
+  date: '2011-04-08'
+  time: '21:00'
+  band_name: Znaki
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17288
+  date: '2011-04-09'
+  time: '21:00'
+  band_name: Kirma
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17515
+  date: '2011-04-13'
+  time: '20:00'
+  band_name: D'or Blues, Бобровая хатка, Вельветовый оркестр
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17312
+  date: '2011-04-10'
+  time: '19:00'
+  band_name: Promenad, Дарья Масальская
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17548
+  date: '2011-04-14'
+  time: '20:00'
+  band_name: Radio City
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17579
+  date: '2011-04-16'
+  time: '21:00'
+  band_name: Контакты
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17627
+  date: '2011-04-17'
+  time: '18:00'
+  band_name: The Hot Heads, Fourth I.D.
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18188
+  date: '2011-04-28'
+  time: '20:00'
+  band_name: Монада, Tommy Tommy, Lari Nais
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17963
+  date: '2011-04-22'
+  time: '21:00'
+  band_name: Gaina
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 17987
+  date: '2011-04-23'
+  time: '20:00'
+  band_name: Муха
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18002
+  date: '2011-04-24'
+  time: '20:00'
+  band_name: Garage Band
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18158
+  date: '2011-04-27'
+  time: '21:00'
+  band_name: Солнце Лауры
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18154
+  date: '2011-04-26'
+  time: '20:00'
+  band_name: Zoop
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18241
+  date: '2011-05-01'
+  time: '19:30'
+  band_name: Корсар, Аляска, Pent Haus
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18213
+  date: '2011-04-29'
+  time: '21:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18683
+  date: '2011-05-10'
+  time: '20:00'
+  band_name: Линия OUT, Валерий Гаина
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18700
+  date: '2011-05-12'
+  time: '21:00'
+  band_name: Tony Watkins & Smokebreakers
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18961
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Los Templos
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 18962
+  date: '2011-05-28'
+  time: '20:00'
+  band_name: Карл Хламкин и ОгнеОпаснОркестр, Мосбрас
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 350 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 18964
+  date: '2011-06-24'
+  time: '21:00'
+  band_name: Александр Ф. Скляр
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 600/800 р.
+- id: 18632
+  date: '2011-05-02'
+  time: '20:00'
+  band_name: Небесная канцелярия
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18656
+  date: '2011-05-07'
+  time: '20:00'
+  band_name: Сергей Летов
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 18957
+  date: '2011-05-20'
+  time: '20:00'
+  band_name: Река, МирТ
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 18958
+  date: '2011-05-21'
+  time: '20:00'
+  band_name: Фиги, Бензобак, The Sun, Червона Рутта
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 18959
+  date: '2011-05-22'
+  time: '19:00'
+  band_name: Заводная Птица
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 18960
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: СуХие
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 18963
+  date: '2011-06-17'
+  time: '21:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400/500 р.
+- id: 18952
+  date: '2011-05-14'
+  time: '20:00'
+  band_name: Лампасы
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300/400 р.
+- id: 18954
+  date: '2011-05-17'
+  time: '20:00'
+  band_name: Евгения Малахова и Сергей Загребнев
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 18953
+  date: '2011-05-15'
+  time: '20:00'
+  band_name: Orange Juice
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 18955
+  date: '2011-05-18'
+  time: '20:00'
+  band_name: Сны Луи, 40 градусов, e11even
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 18956
+  date: '2011-05-19'
+  time: '20:00'
+  band_name: L.E.T.O.
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300/400 р.
+- id: 19606
+  date: '2011-06-04'
+  time: '20:00'
+  band_name: Баба, Fokuss
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 19838
+  date: '2011-05-29'
+  time: '20:00'
+  band_name: Lobsters
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 19843
+  date: '2011-05-30'
+  time: '20:00'
+  band_name: Арс-Пегас
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 20142
+  date: '2011-06-07'
+  time: '20:00'
+  band_name: Мост Мирабо, Роман Шебалин, Йонас Новикас
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 20177
+  date: '2011-06-10'
+  time: '20:00'
+  band_name: Subway Сейшн
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 20752
+  date: '2011-06-30'
+  time: '19:00'
+  band_name: Влад Демьян, Павел Башинский
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250/350р.
+- id: 20753
+  date: '2011-07-01'
+  time: '20:00'
+  band_name: Force Major - 5 лет группе
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 20754
+  date: '2011-07-02'
+  time: '20:00'
+  band_id: 344
+  band_name: С.О.К.
+  band_token: s-o-k
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 20755
+  date: '2011-07-05'
+  time: '20:00'
+  band_name: Richie's Blues Band, Sanchillo & Bratetsky
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+  extra_bands:
+  - id: 285
+    name: Richie's Blues Band
+    token: richies-blues-band
+- id: 20756
+  date: '2011-07-06'
+  time: '20:00'
+  band_name: MC Джадай
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 350 руб.
+  comments: Презентация клипа - "Рафаэлло-Мохито"
+- id: 20757
+  date: '2011-07-07'
+  time: '20:00'
+  band_name: Миша Лузин
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+  comments: Премьера двух новых клипов
+- id: 20758
+  date: '2011-07-08'
+  time: '21:00'
+  band_name: Александр Ф. Скляр
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 600/800 р.
+- id: 20759
+  date: '2011-07-09'
+  time: '20:00'
+  band_name: Raggaenauts, Maintainers
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200/300р.
+- id: 23867
+  date: '2011-12-04'
+  time: '20:00'
+  band_name: 3 Товарища, Les Fleurs
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 23898
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Triatom
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 23888
+  date: '2011-12-06'
+  time: '20:00'
+  band_name: ДасВидос
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 23805
+  date: '2011-12-02'
+  time: '20:00'
+  band_name: Fillin
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 23831
+  date: '2011-12-03'
+  time: '20:00'
+  band_name: Real Jam
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club

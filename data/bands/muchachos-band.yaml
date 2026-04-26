@@ -1,0 +1,29 @@
+id: 574
+token: muchachos-band
+name: Muchachos Band
+alive: true
+url: http://www.myspace.com/muchachosband
+city_id: 6
+genre_id: 2
+secondary_genre_id: 13
+musicians:
+- name: Лазар Карденас
+  instruments: перкуссия
+- name: Игнат Кравцов
+  instruments: барабаны
+- name: Александр Булатов
+  instruments: бас-гитара
+- name: Платон Газелериди
+  instruments: клавишные
+- name: Павел Овчинников
+  instruments: труба, вокал
+- name: Руслан Борисов
+  instruments: тромбон
+- name: Андрей Плетнев
+  instruments: саксофон, вокал
+clips:
+- id: 3288
+  type: weblink
+  url: http://www.myspace.com/muchachosband
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,23 @@
+id: 489
+token: time-n-place
+name: Time'n Place
+aliases: 'Клуб-ресторан "Time & Place"
+
+  Time & Place'
+alive: true
+address: 1-й Люсиновский пер., 3б
+subway: Добрынинская, Серпуховская
+phone: +7 (499) 237-6701
+city_id: 1
+clips:
+- id: 2469
+  type: weblink
+  url: http://timenplace.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2470
+  type: photo
+  url: time-place.jpg
+  sort_order: 0
+  width: 150
+  height: 150

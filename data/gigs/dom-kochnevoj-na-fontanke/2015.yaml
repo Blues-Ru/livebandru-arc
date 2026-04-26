@@ -1,0 +1,50 @@
+- id: 51307
+  date: '2015-06-04'
+  time: '19:00'
+  band_name: 'Джазовая вечеринка с Владимиром Фейертагом: A Cappella Band Plus Five'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke
+- id: 51306
+  date: '2015-05-14'
+  time: '19:00'
+  band_name: 'Джазовая вечеринка с Владимиром Фейертагом: программа "Незабываемые
+    мелодии Гарольда Арлена" (к 105-летию композитора) - Андрей Половко (тенор-саксофон)
+    и Евгений Пономарев (фортепиано)'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke
+- id: 51308
+  date: '2015-06-17'
+  time: '19:00'
+  band_name: 'Джазовая вечеринка с Владимиром Фейертагом: программа "Романтическая
+    музыка Тихвина" - дуэт Игорь Володин (фортепиано, Тихвин)/Максим Некрасов (губная
+    гармоника, Санкт-Петербург)'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke
+- id: 54363
+  date: '2015-10-22'
+  time: '19:00'
+  band_name: '"Джазовая вечеринка с Владимиром Фейертагом": Александр Маслов (фортепиано)'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke
+- id: 54364
+  date: '2015-11-14'
+  time: '19:00'
+  band_name: '"Джазовая вечеринка с Владимиром Фейертагом": Алексей Чижик - Павел
+    Чижик ("Битва на двух, вибрафонах")'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 55155
+  date: '2015-12-17'
+  band_name: 'Вечер инструментального вокала: Jazz W.A.V.E.'
+  club_id: 807
+  club_name: Дом Кочневой на Фонтанке
+  club_token: dom-kochnevoj-na-fontanke

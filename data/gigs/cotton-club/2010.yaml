@@ -1,0 +1,1207 @@
+- id: 11400
+  date: '2010-01-10'
+  time: '20:00'
+  band_id: 100
+  band_name: Jazz Fabrique
+  band_token: jazz-fabrique
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11422
+  date: '2010-01-15'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11434
+  date: '2010-01-01'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11435
+  date: '2010-01-02'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11436
+  date: '2010-01-03'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11437
+  date: '2010-01-04'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11438
+  date: '2010-01-05'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11439
+  date: '2010-01-06'
+  time: '21:00'
+  band_name: Каникулы!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11440
+  date: '2010-01-11'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11441
+  date: '2010-01-12'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт.
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11442
+  date: '2010-01-13'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11443
+  date: '2010-01-14'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11444
+  date: '2010-01-15'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11445
+  date: '2010-01-16'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11446
+  date: '2010-01-16'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11447
+  date: '2010-01-17'
+  time: '20:00'
+  band_id: 100
+  band_name: Jazz Fabrique
+  band_token: jazz-fabrique
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11540
+  date: '2010-01-18'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11541
+  date: '2010-01-19'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт.
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11542
+  date: '2010-01-20'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11543
+  date: '2010-01-21'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11544
+  date: '2010-01-22'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11545
+  date: '2010-01-22'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11546
+  date: '2010-01-23'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11547
+  date: '2010-01-23'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11548
+  date: '2010-01-24'
+  time: '20:00'
+  band_id: 100
+  band_name: Jazz Fabrique
+  band_token: jazz-fabrique
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11549
+  date: '2010-01-25'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11550
+  date: '2010-01-26'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт.
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11551
+  date: '2010-01-27'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11597
+  date: '2010-02-02'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11598
+  date: '2010-02-03'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11609
+  date: '2010-02-27'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11626
+  date: '2010-02-04'
+  time: '21:00'
+  band_name: Наталья Липницкая и Jazz Sisters
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 300 руб.
+- id: 11627
+  date: '2010-02-05'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11628
+  date: '2010-02-06'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11629
+  date: '2010-02-08'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11630
+  date: '2010-02-09'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11631
+  date: '2010-02-10'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11632
+  date: '2010-02-11'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11633
+  date: '2010-02-12'
+  time: '21:00'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11634
+  date: '2010-02-12'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11637
+  date: '2010-02-15'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11638
+  date: '2010-02-16'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11639
+  date: '2010-02-17'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11640
+  date: '2010-02-18'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11641
+  date: '2010-02-20'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 600 руб.
+  extra_bands:
+  - id: 92
+    name: Петр Подгородецкий
+    token: podgorodetsky
+- id: 11642
+  date: '2010-02-20'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11643
+  date: '2010-02-19'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11397
+  date: '2010-01-07'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11398
+  date: '2010-01-08'
+  time: '19:00'
+  band_name: Elvis Day Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11399
+  date: '2010-01-09'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11635
+  date: '2010-02-13'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11636
+  date: '2010-02-13'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11644
+  date: '2010-02-22'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11645
+  date: '2010-02-23'
+  time: '21:00'
+  band_name: Саша и Маша Разумные. Акустический дуэт
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11646
+  date: '2010-02-24'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11647
+  date: '2010-02-25'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11648
+  date: '2010-02-26'
+  time: '21:00'
+  band_name: John Nemeth (US) ***** при поддержке The Jumping Cats
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: от 700 руб
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 11650
+  date: '2010-02-27'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11679
+  date: '2010-02-14'
+  time: '20:00'
+  band_name: Milonga Casa del Tango - вечер Аргентинского Танго!
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11684
+  date: '2010-02-19'
+  time: '21:00'
+  band_name: Санчилло/Братецкий – "Секретная Лаборатория"
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11693
+  date: '2010-03-20'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11696
+  date: '2010-02-28'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11699
+  date: '2010-03-03'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11700
+  date: '2010-03-04'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11701
+  date: '2010-03-05'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11702
+  date: '2010-03-05'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11703
+  date: '2010-03-06'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11704
+  date: '2010-03-06'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11552
+  date: '2010-01-28'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11553
+  date: '2010-01-29'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 600 руб.
+- id: 11554
+  date: '2010-01-29'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11555
+  date: '2010-02-01'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11556
+  date: '2010-01-31'
+  time: '20:00'
+  band_id: 100
+  band_name: Jazz Fabrique
+  band_token: jazz-fabrique
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11697
+  date: '2010-03-01'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11698
+  date: '2010-03-02'
+  time: '21:00'
+  band_name: "Moonshine\r\nАкустический дуэт\r\nЮрия Новгородского и Евгения Глухова\r\
+    \n+ специальный гость"
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11705
+  date: '2010-03-07'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11720
+  date: '2010-03-19'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11721
+  date: '2010-03-20'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11599
+  date: '2010-02-05'
+  time: '21:00'
+  band_id: 88
+  band_name: Omar Itcovici & The Kingsize
+  band_token: omar
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: '700'
+- id: 11600
+  date: '2010-02-06'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11811
+  date: '2010-03-21'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11812
+  date: '2010-03-22'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11813
+  date: '2010-03-23'
+  time: '21:00'
+  band_name: Саша и Маша Разумные Акустический дуэт
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11814
+  date: '2010-03-24'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11815
+  date: '2010-03-25'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11816
+  date: '2010-03-26'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+  extra_bands:
+  - id: 92
+    name: Петр Подгородецкий
+    token: podgorodetsky
+- id: 11817
+  date: '2010-03-26'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11818
+  date: '2010-03-27'
+  time: '21:00'
+  band_name: Витамин "B"
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11819
+  date: '2010-03-27'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11820
+  date: '2010-03-28'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11821
+  date: '2010-03-29'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11876
+  date: '2010-03-31'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11877
+  date: '2010-04-01'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 300 руб.
+- id: 11878
+  date: '2010-04-02'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11879
+  date: '2010-04-02'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11880
+  date: '2010-04-03'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11881
+  date: '2010-04-03'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11891
+  date: '2010-04-13'
+  time: '21:00'
+  band_name: 'Moonshine, акустика : Юрий Новгородский, Евгений Глухов и специальный
+    гость!'
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11706
+  date: '2010-03-08'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11707
+  date: '2010-03-09'
+  time: '21:00'
+  band_name: "Саша и Маша Разумные\r\nАкустический дуэт"
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11708
+  date: '2010-03-10'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11709
+  date: '2010-03-11'
+  time: '21:00'
+  band_name: Сабина Вартанова
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11710
+  date: '2010-03-12'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11711
+  date: '2010-03-12'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11892
+  date: '2010-04-12'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11893
+  date: '2010-04-14'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11894
+  date: '2010-04-15'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11895
+  date: '2010-04-16'
+  time: '21:00'
+  band_name: '***Billy T Band, Norway'
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 600 руб.
+- id: 11896
+  date: '2010-04-19'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11897
+  date: '2010-04-20'
+  time: '21:00'
+  band_name: Саша и Маша Разумные
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11898
+  date: '2010-04-21'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11899
+  date: '2010-04-22'
+  time: '20:00'
+  band_name: '***Праздничная Milonga школы Casa del Tango "ТАНГО ЛАБОРАТОРИЯ"'
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+- id: 11916
+  date: '2010-04-24'
+  time: '21:00'
+  band_id: 103
+  band_name: Eirik Bergene
+  band_token: eirik-bergene
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11712
+  date: '2010-03-13'
+  time: '21:00'
+  band_name: '***Boris Savoldelli (Италия) при поддержке Jazz.ru в рамках фестиваля
+    "МузЭнерго"'
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11713
+  date: '2010-03-13'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11714
+  date: '2010-03-14'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11715
+  date: '2010-03-15'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11716
+  date: '2010-03-16'
+  time: '21:00'
+  band_name: Moonshine Акустический дуэт Юрия Новгородского и Евгения Глухова + гостья
+    Настя Концевая (вокал)
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11717
+  date: '2010-03-17'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11718
+  date: '2010-03-18'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11719
+  date: '2010-03-19'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11882
+  date: '2010-04-04'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 11883
+  date: '2010-04-05'
+  time: '20:00'
+  band_name: Swingdance Party
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 150 руб.
+- id: 11885
+  date: '2010-04-06'
+  time: '21:00'
+  band_name: Саша и Маша Разумные
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11886
+  date: '2010-04-07'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11887
+  date: '2010-04-08'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 400 руб.
+- id: 11888
+  date: '2010-04-09'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 500 руб.
+- id: 11889
+  date: '2010-04-09'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: бесплатный
+- id: 11890
+  date: '2010-04-11'
+  time: '20:00'
+  band_name: Milonga школы Casa del Tango вечеринка Аргентинского Танго
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 200 руб.
+- id: 12027
+  date: '2010-04-29'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 123
+  club_name: Cotton Club
+  club_token: cotton-club
+  price: 300 руб.
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick

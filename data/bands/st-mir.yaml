@@ -1,0 +1,40 @@
+id: 28
+token: st-mir
+name: Станция Мир
+aliases: 'Владимир Кожекин
+
+  Вовка Кожекин'
+alive: true
+url: http://stmir.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 7
+clips:
+- id: 932
+  type: rss
+  url: http://staroveroff.livejournal.com/data/rss
+  sort_order: 299
+- id: 928
+  type: weblink
+  url: http://stmir.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 929
+  type: weblink
+  url: http://mir.sporu.net/
+  name: Неофициальный сайт
+  sort_order: 199
+- id: 930
+  type: rss
+  url: http://kozhekin.livejournal.com/data/rss
+  sort_order: 99
+- id: 931
+  type: rss
+  url: http://roman-grinev.livejournal.com/data/rss
+  sort_order: 199
+- id: 1552
+  type: photo
+  url: st-mir.jpg
+  sort_order: 0
+  width: 200
+  height: 288

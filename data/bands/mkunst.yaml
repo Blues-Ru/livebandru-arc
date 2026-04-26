@@ -1,0 +1,20 @@
+id: 166
+token: mkunst
+name: Markscheider Kunst
+aliases: Маркшейдер Кунст
+alive: true
+url: http://www.mkunst.ru
+city_id: 1
+genre_id: 12
+secondary_genre_id: 5
+clips:
+- id: 346
+  type: weblink
+  url: http://www.mkunst.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 347
+  type: weblink
+  url: http://www.myspace.com/mkunst
+  name: Страница на MySpace
+  sort_order: 100

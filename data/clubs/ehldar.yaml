@@ -1,0 +1,14 @@
+id: 509
+token: ehldar
+name: Эльдар
+alive: true
+address: Ленинский проспект, 105
+subway: Проспект Вернадского
+phone: +7(495)735-9944, 735-9968
+city_id: 1
+clips:
+- id: 2675
+  type: weblink
+  url: http://kinoklub-eldar.ru/
+  name: Официальный сайт
+  sort_order: 0

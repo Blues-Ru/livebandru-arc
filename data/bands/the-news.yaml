@@ -1,0 +1,41 @@
+id: 278
+token: the-news
+name: The News
+alive: true
+url: http://www.thenewsmusic.narod.ru
+city_id: 19
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Сергей Ревякин
+  instruments: вокал, гитара
+- name: Аркадий Фетисов
+  instruments: клавишные
+- name: Владимир Амбросимов
+  instruments: гитара, вокал
+- name: Стас Ковальский
+  instruments: бас, вокал
+- name: Валерий Фомин
+  instruments: ударные
+clips:
+- id: 921
+  type: photo
+  url: the-news.jpg
+  sort_order: 0
+  width: 600
+  height: 451
+- id: 913
+  type: mp3
+  url: the-news.mp3
+  name: Blue Cafe
+  sort_order: 99
+- id: 914
+  type: mp3
+  url: the-news-2.mp3
+  name: Road To Hell
+  sort_order: 199
+- id: 915
+  type: mp3
+  url: the-news-3.mp3
+  name: Cocaine
+  sort_order: 299

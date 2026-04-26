@@ -1,0 +1,17 @@
+id: 179
+token: griboedov
+name: Грибоедов
+aliases: 'Грибоедов клуб
+
+  Грибоедов, GHill'
+alive: true
+address: Воронежская, 2а
+subway: Лиговский проспект
+phone: (812) 764-43-55
+city_id: 2
+clips:
+- id: 188
+  type: weblink
+  url: http://www.griboedovclub.ru/
+  name: Официальный сайт
+  sort_order: 0

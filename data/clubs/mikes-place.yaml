@@ -1,0 +1,19 @@
+id: 191
+token: mikes-place
+name: Mike's Place
+alive: true
+address: Herbert Samuel 86
+phone: (057) 944-4045
+city_id: 21
+clips:
+- id: 196
+  type: youtube
+  url: http://www.youtube.com/?v=XZH6gBGzCNs
+  name: Gov't Mule at Mike's Place Tel-Aviv
+  comments: Gov't Mule at Mike's Place Tel-Aviv
+  sort_order: 0
+- id: 696
+  type: weblink
+  url: http://www.MikesPlaceBars.com
+  name: Официальный сайт
+  sort_order: 99

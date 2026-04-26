@@ -1,0 +1,15 @@
+id: 162
+token: esh
+name: Esh
+aliases: Группа "Esh"
+alive: true
+url: http://eshjazz.com/
+city_id: 1
+genre_id: 13
+secondary_genre_id: 2
+clips:
+- id: 249
+  type: weblink
+  url: http://eshjazz.com/
+  name: Официальный сайт
+  sort_order: 0

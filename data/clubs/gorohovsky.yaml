@@ -1,0 +1,26 @@
+id: 228
+token: gorohovsky
+name: Квартирники у Гороховского
+alive: true
+address: Бабушкина, 29к2
+subway: Елизаровская
+phone: +7-921-7443687
+city_id: 2
+comments: Встреча всех зрителей у эскалатора ст. м. Елизаровская
+clips:
+- id: 538
+  type: weblink
+  url: http://www.kvartirniki.spb.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 540
+  type: weblink
+  url: http://my.mail.ru/community/kvartirniki.spb
+  name: Комьюнити на mail.ru
+  sort_order: 200
+- id: 956
+  type: youtube
+  url: http://www.youtube.com/?v=rfQfg6WbB-o
+  name: 5 лет Квартирникам у Гороховского
+  comments: Юбилейный квартирник. Фильм Ольги Глушковой
+  sort_order: 99

@@ -1,0 +1,21 @@
+id: 420
+token: chocolade-factory
+name: Шоколадная фабрика
+aliases: Арт-этаж, концерты, выставки, мастер-классы
+alive: true
+address: Рабочая, 38
+subway: Площадь Ильича, Римская
+phone: +7 (916) 143-43-66
+city_id: 1
+comments: двухэтажное здание с белыми колоннами
+clips:
+- id: 1874
+  type: weblink
+  url: http://www.shokoladnayafabrika.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1875
+  type: weblink
+  url: http://vk.com/club9311470
+  name: Страница ВКонтакте
+  sort_order: 100

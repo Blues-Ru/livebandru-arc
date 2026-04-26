@@ -1,0 +1,23 @@
+id: 614
+token: blueszont
+name: Блюззонт
+alive: true
+city_id: 96
+genre_id: 16
+musicians:
+- name: С.Филиппов
+  instruments: ударные
+- name: И.Сулимов
+  instruments: бас
+- name: В.Полянкин
+  instruments: гитара, вокал
+clips:
+- id: 3849
+  type: weblink
+  url: http://vk.com/bluezzont
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 3850
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

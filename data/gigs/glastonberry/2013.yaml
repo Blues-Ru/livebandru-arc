@@ -1,0 +1,59 @@
+- id: 36747
+  date: '2013-06-06'
+  time: '21:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 449
+  club_name: Glastonberry Pub
+  club_token: glastonberry
+- id: 36748
+  date: '2013-06-09'
+  time: '21:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 449
+  club_name: Glastonberry Pub
+  club_token: glastonberry
+- id: 38649
+  date: '2013-10-17'
+  time: '20:00'
+  band_name: Михаил Чернов (саксофон), Дмитрий Архангельский (клавишные) и Кэйти Мун
+    (вокал)
+  club_id: 449
+  club_name: Glastonberry Pub
+  club_token: glastonberry
+  price: 600/800 руб.
+- id: 39785
+  date: '2013-11-30'
+  time: '17:00'
+  band_name: 'Фестиваль "Свинговый бум": Motive Band, Бигбэнд Аверкина, Savoy Tando
+    Stompers, Dancing Moose Band, Belleville, Trad Jazz Band, Facepalmers, Lex & Team,
+    Blues Party, Пижоны, Вадим Иващенко & The Boneshakers, Shaky Jake, Дроздов-Бэнд'
+  club_id: 449
+  club_name: Glastonberry Pub
+  club_token: glastonberry
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 573
+    name: Shaky Jake
+    token: shaky-jake
+  - id: 172
+    name: Пижоны
+    token: pijony
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 39973
+  date: '2013-11-30'
+  time: '17:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 449
+  club_name: Glastonberry Pub
+  club_token: glastonberry
+  comments: Фестиваль "Свинговый бум"

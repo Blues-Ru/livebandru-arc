@@ -1,0 +1,14 @@
+id: 911
+token: academ-jazz
+name: Академ Джаз Клуб
+alive: true
+address: Смоленская, Арбатская
+subway: Арбат, 38/1, стр. 1
+phone: +7 (495) 532-47-23
+city_id: 1
+clips:
+- id: 9499
+  type: weblink
+  url: https://academjazzclub.ru
+  name: Официальный сайт
+  sort_order: 0

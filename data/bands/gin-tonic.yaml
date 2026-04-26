@@ -1,0 +1,17 @@
+id: 178
+token: gin-tonic
+name: Джин Тоник
+alive: true
+url: http://www.gin-tonic.ru/
+city_id: 1
+genre_id: 3
+references:
+- id: 281
+  name: Pozitive Orchestra
+  token: pozitive-orchestra
+clips:
+- id: 405
+  type: weblink
+  url: http://www.gin-tonic.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,23 @@
+id: 894
+token: art-sreda-v-model-t
+name: Арт-среда в MODEL T
+alive: true
+address: 1-я Ямская, 8
+subway: Марьина Роща
+city_id: 1
+clips:
+- id: 8911
+  type: weblink
+  url: https://vk.com/artsredamoscow
+  name: Официальный сайт
+  sort_order: 0
+- id: 8918
+  type: weblink
+  url: https://vk.com/artsredamoscow
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 8919
+  type: weblink
+  url: https://www.facebook.com/artsredamoscow/
+  name: Страница на FaceBook
+  sort_order: 200

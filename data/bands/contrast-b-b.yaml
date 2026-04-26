@@ -1,0 +1,32 @@
+id: 165
+token: contrast-b-b
+name: Contrast Blues Band
+alive: true
+url: http://contrastbb.narod.ru/
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Владимир Петров
+  instruments: клавишные, вокал
+- name: Александр Богданов
+  instruments: гитара, вокал
+- name: Сергей Кузнецов
+  instruments: ударные
+- name: Виктор Кудрявцев
+  instruments: бас, вокал
+- name: Татьяна Веселкова
+  instruments: вокал
+clips:
+- id: 342
+  type: weblink
+  url: http://contrastbb.narod.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 343
+  type: photo
+  url: contrast-b-b.jpg
+  name: Contrast Blues Band
+  sort_order: 0
+  width: 313
+  height: 449

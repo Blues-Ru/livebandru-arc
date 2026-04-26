@@ -1,0 +1,325 @@
+- id: 31802
+  date: '2013-01-18'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31811
+  date: '2013-01-19'
+  time: '22:00'
+  band_name: Saint Petersburg Ska Jazz Review
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34112
+  date: '2013-02-26'
+  time: '21:00'
+  band_name: Grand Jam
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34113
+  date: '2013-02-28'
+  time: '22:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34470
+  date: '2013-03-08'
+  time: '22:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34471
+  date: '2013-03-09'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34472
+  date: '2013-03-20'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34473
+  date: '2013-03-23'
+  time: '22:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34474
+  date: '2013-03-29'
+  time: '22:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34475
+  date: '2013-04-12'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34476
+  date: '2013-02-27'
+  time: '21:00'
+  band_name: Led Zeppelin party c Plumbum Dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 212
+    name: Plumbum Dreams
+    token: plumbum-dreams
+- id: 34477
+  date: '2013-03-01'
+  time: '22:00'
+  band_name: Keep It
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34478
+  date: '2013-03-01'
+  time: '22:00'
+  band_name: Парк Горького, музыканты группы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34479
+  date: '2013-03-02'
+  time: '22:00'
+  band_name: Группа W/
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34480
+  date: '2013-03-02'
+  time: '22:00'
+  band_name: Royal Drive
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34481
+  date: '2013-03-03'
+  time: '20:00'
+  band_name: Brooklyn
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34482
+  date: '2013-03-06'
+  time: '21:00'
+  band_name: Black Sabbath Party с группой Sabbath Inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 133
+    name: Sabbath Inside
+    token: sabbath-inside
+- id: 34483
+  date: '2013-03-07'
+  time: '21:00'
+  band_name: Ромарио
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34484
+  date: '2013-03-08'
+  time: '22:00'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34485
+  date: '2013-03-09'
+  time: '22:00'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34486
+  date: '2013-03-12'
+  time: '21:00'
+  band_name: Grand Jam
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34487
+  date: '2013-03-14'
+  time: '21:00'
+  band_name: Четвергов-Party
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 34488
+  date: '2013-03-15'
+  time: '22:00'
+  band_name: Александр Кутиков и Нюанс
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34489
+  date: '2013-03-15'
+  time: '22:00'
+  band_name: Москва-Манчестер
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34490
+  date: '2013-03-16'
+  time: '22:00'
+  band_name: В.И.А. The Champions
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34491
+  date: '2013-03-16'
+  time: '22:00'
+  band_name: Манго-Манго
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34492
+  date: '2013-03-19'
+  time: '21:00'
+  band_name: 'Борис Гребенщиков и Аквариум: "Домашний концерт"'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34493
+  date: '2013-03-21'
+  time: '21:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34494
+  date: '2013-03-22'
+  time: '22:00'
+  band_name: Keep It
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34495
+  date: '2013-03-22'
+  time: '22:00'
+  band_name: Лампасы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34496
+  date: '2013-03-23'
+  time: '22:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34497
+  date: '2013-03-24'
+  time: '17:00'
+  band_name: Фестиваль "Живые"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34498
+  date: '2013-03-29'
+  time: '22:00'
+  band_name: Ночь в стиле Англии 60-х
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 34499
+  date: '2013-03-30'
+  time: '20:00'
+  band_name: 'Фестиваль британского рока "Go Moscow!": The Chain, We Are The Physics,
+    Some Velvet Morning, Red Elvises (USA)'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 136
+    name: Red Elvises
+    token: red-elvises
+- id: 34500
+  date: '2013-04-04'
+  time: '21:00'
+  band_name: 'Крематорий: Квартирник'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 138
+    name: Крематорий
+    token: crematory
+- id: 34501
+  date: '2013-04-13'
+  time: '22:00'
+  band_name: Saint Petersburg Ska Jazz Review
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 35696
+  date: '2013-06-23'
+  time: '19:00'
+  band_id: 340
+  band_name: Blues Enclave
+  band_token: blues-enclave
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: "Bomb Lane Band & Friends\r\n\r\nBomb Lane Band представлет свой второй\
+    \ CD в клубе Music Town\r\nВ программе участвуют Blues Enclave, Bomb Lane Band,\
+    \ Евгений Маргулис, \r\n\r\nпри участии\r\nLofty Band и Country Side"
+- id: 38568
+  date: '2013-10-30'
+  time: '21:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500-700 руб.
+- id: 38564
+  date: '2013-10-10'
+  time: '21:00'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500-700 руб.

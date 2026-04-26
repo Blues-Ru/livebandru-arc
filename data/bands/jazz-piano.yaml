@@ -1,0 +1,22 @@
+id: 330
+token: jazz-piano
+name: Jazz-Piano
+alive: true
+url: http://lopezbrothers.ru/
+city_id: 1
+genre_id: 2
+musicians:
+- name: edro Alexander Alfonso Lopez
+  instruments: фортепиано
+clips:
+- id: 1252
+  type: photo
+  url: jazz-piano.jpg
+  sort_order: 0
+  width: 768
+  height: 1024
+- id: 1253
+  type: weblink
+  url: http://lopezbrothers.ru/
+  name: Официальный сайт
+  sort_order: 99

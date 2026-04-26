@@ -1,0 +1,14 @@
+id: 410
+token: simple-pleasures
+name: Simple Pleasures
+alive: true
+address: Сретенка, 22/1
+subway: Cухаревская
+phone: (495) 607-1521
+city_id: 1
+clips:
+- id: 1821
+  type: weblink
+  url: http://www.simplepleasure.su/
+  name: Официальный сайт
+  sort_order: 0

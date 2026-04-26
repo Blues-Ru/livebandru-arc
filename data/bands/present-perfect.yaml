@@ -1,0 +1,55 @@
+id: 559
+token: present-perfect
+name: Present Perfect Band
+alive: true
+url: http://presentperfectband.com/ru
+city_id: 2
+genre_id: 3
+secondary_genre_id: 16
+musicians:
+- name: Олег Муромцев
+  instruments: гитара
+- name: Антон Спартаков
+  instruments: гитара
+- name: Андрей Городецкий
+  instruments: бас-гитара
+- name: Константин Пушкин
+  instruments: ударные
+- name: Александр Медведев
+  instruments: терменвокс
+clips:
+- id: 2972
+  type: weblink
+  url: http://www.facebook.com/ppband
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 2973
+  type: weblink
+  url: http://vk.com/ppband
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 2971
+  type: youtube
+  url: http://www.youtube.com/?v=363LEbSuVEM
+  name: '"Черноморская" (официальный клип)'
+  comments: Клип группы Present Perfect на песню "Черноморская" с альбома "5000000".
+    www.presentperfectband.com presentperfectband.kroogi.com
+  sort_order: 200
+- id: 2969
+  type: youtube
+  url: http://www.youtube.com/?v=qVLPgs8_szs
+  name: '"Блюз об заклад" (фрагмент)'
+  comments: Концерт в московском Летчике 25  октября
+  sort_order: 0
+- id: 2970
+  type: youtube
+  url: http://www.youtube.com/?v=kpY8sw7Vrh8
+  name: '"5 000 000" (официальный клип)'
+  comments: Клип на песню "5000000" группы PRESENT PERFECT BAND, посвященный 50-летию
+    полета Белки и Стрелки.
+  sort_order: 100
+- id: 2967
+  type: weblink
+  url: http://presentperfectband.com/ru
+  name: Официальный сайт
+  sort_order: 0

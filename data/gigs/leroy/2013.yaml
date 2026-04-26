@@ -1,0 +1,57 @@
+- id: 35401
+  date: '2013-04-19'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 38025
+  date: '2013-09-14'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 38589
+  date: '2013-10-18'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 39112
+  date: '2013-10-26'
+  time: '21:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 39126
+  date: '2013-10-11'
+  time: '20:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 40032
+  date: '2013-11-30'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy

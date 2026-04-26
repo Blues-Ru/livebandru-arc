@@ -1,0 +1,13 @@
+id: 173
+token: alcohol
+name: Алкоголь
+alive: true
+url: http://www.alcoholmusic.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 385
+  type: weblink
+  url: http://www.alcoholmusic.ru/
+  name: Официальный сайт
+  sort_order: 0

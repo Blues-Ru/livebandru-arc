@@ -1,0 +1,14 @@
+id: 463
+token: nautilus
+name: Наутилус
+alive: true
+address: 1-я ул. Ямского поля, 17
+subway: Белорусская
+phone: (499) 257-07-17
+city_id: 1
+clips:
+- id: 2173
+  type: weblink
+  url: http://www.nautilus-club.com/
+  name: Официальный сайт
+  sort_order: 0

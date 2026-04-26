@@ -1,0 +1,43 @@
+id: 516
+token: freeky-cleen
+name: Freeky Cleen
+alive: true
+url: http://freekycleen.org.ua/
+city_id: 16
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Илья Полищук
+  instruments: гитара, вокал, губная гармоника, бас-гитара
+clips:
+- id: 2364
+  type: photo
+  url: freeky-cleen.jpg
+  name: Lonesome Desert
+  sort_order: 0
+  width: 2592
+  height: 3888
+- id: 2360
+  type: weblink
+  url: http://freekycleen.org.ua/
+  name: Официальный сайт
+  comments: Официальный сайт рок-н-рольно-блюзовой группы FREEKY CLEEN
+  sort_order: 0
+- id: 2361
+  type: mp3
+  url: freeky-cleen.mp3
+  name: Gamblin' Woman
+  comments: забойная блюз-роковая вещь
+  sort_order: 99
+- id: 2362
+  type: youtube
+  url: http://www.youtube.com/?v=TeekntAHbVY
+  name: Freeky Cleen -  Without You
+  comments: Акустическая  баллада  "Without You" от FREEKY CLEEN
+  sort_order: 99
+- id: 2363
+  type: weblink
+  url: http://freeky-music.org.ua/mp3/?dir=Freeky%20Cleen%20-%20Acoustic%20Blues%20Jams/
+  name: ссылка на альбом Acoustic Blues Jams
+  comments: ссылка на альбом Acoustic Blues Jams
+  sort_order: 100

@@ -1,0 +1,37 @@
+- id: 41845
+  date: '2014-02-23'
+  time: '18:00'
+  band_name: Большой джазовый оркестр п/у Петра Востокова
+  club_id: 729
+  club_name: Московский Еврейский Общинный Центр
+  club_token: moskovskij-evrejskij-obshchinnyj-centr
+  price: 100 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 42020
+  date: '2014-03-02'
+  time: '17:00'
+  band_name: Игрь Бриль
+  club_id: 729
+  club_name: Московский Еврейский Общинный Центр
+  club_token: moskovskij-evrejskij-obshchinnyj-centr
+  price: 100 руб.
+- id: 42021
+  date: '2014-04-06'
+  time: '17:00'
+  band_name: Седой джаз
+  club_id: 729
+  club_name: Московский Еврейский Общинный Центр
+  club_token: moskovskij-evrejskij-obshchinnyj-centr
+  price: 100 руб.
+- id: 46653
+  date: '2014-11-02'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 729
+  club_name: Московский Еврейский Общинный Центр
+  club_token: moskovskij-evrejskij-obshchinnyj-centr

@@ -1,0 +1,31 @@
+id: 113
+token: mellow-yellow
+name: Mellow Yellow
+alive: false
+city_id: 1
+genre_id: 1
+secondary_genre_id: 4
+musicians:
+- name: Юрий Новгородский
+  instruments: гитара, вокал, мандолина
+- name: Денис Назаров
+  instruments: мандолина, клавиши, бузуки, вокал
+- name: Евгений Глухов
+  instruments: бас-гитара, вокал
+- name: Ольга Олейникова
+  instruments: вокал, флейта, перкуссия
+references:
+- id: 61
+  name: 26 Герц
+  token: 26herz
+- id: 109
+  name: The Backstage
+  token: backstage
+- id: 580
+  name: Folkline
+  token: folkline
+clips:
+- id: 3926
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

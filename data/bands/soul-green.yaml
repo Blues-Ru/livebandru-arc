@@ -1,0 +1,104 @@
+id: 738
+token: soul-green
+name: Soul Green
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Федор Романенко
+  instruments: гитара, вокал
+- name: Петр Репин
+  instruments: орган, пианино, вокал
+- name: Александр Понкратов
+  instruments: бас
+- name: Эдуард Ружанский
+  instruments: ударные
+clips:
+- id: 8742
+  type: weblink
+  url: https://www.facebook.com/SoulGreenBand/
+  name: Страница на FaceBook
+  sort_order: 0
+- id: 8743
+  type: youtube
+  url: https://www.youtube.com/watch?v=jIjbJqbcCDM
+  name: Soul Green - Time Is Tight / Green Onions / Moanin' / Strut
+  comments: Live at the Roadhouse Blues Club, September 24, 2017
+  sort_order: 0
+- id: 8747
+  type: photo
+  url: soul-green-fedor.jpg
+  name: Федор Романенко
+  sort_order: 100
+  width: 499
+  height: 454
+- id: 8745
+  type: youtube
+  url: https://www.youtube.com/watch?v=pLiAotB2_oM
+  name: Soul Green - They Say
+  comments: As recorded by Tad Robinson & Alex Schultz, Roadhouse Club, 24.09.2017
+  sort_order: 50
+- id: 8749
+  type: photo
+  url: soul-green-sasha.jpg
+  name: Александр Понкратов
+  sort_order: 300
+  width: 1000
+  height: 725
+- id: 8750
+  type: photo
+  url: soul-green-ed.jpg
+  name: Эдуард Ружанский
+  sort_order: 400
+  width: 559
+  height: 1000
+- id: 8746
+  type: photo
+  url: soul-green.jpg
+  sort_order: 0
+  width: 1587
+  height: 893
+- id: 8748
+  type: photo
+  url: soul-green-peter.jpg
+  name: Петр Репин
+  sort_order: 200
+  width: 673
+  height: 1251
+- id: 8744
+  type: youtube
+  url: https://www.youtube.com/watch?v=z4-rAVXMqIQ
+  name: Soul Green - Blues for Boo Boo
+  comments: Instrumental by Kirl Fletcher, Roadhouse Club, Moscow, 24.09.2017
+  sort_order: 100
+- id: 8752
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 485
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Soul Green - новая московская группа, 2017 года рождения, играет соул, блюз
+    и фанк с мощными органом и гитарой. В сет-листе разноообразные инструменталы для
+    органного комбо, лиричные соул-хиты и крутые свинговые джамп-блюзовые номера.
+
+
+    Играет на страте и поет Федя Романенко - основатель сайта blues.ru, организатор
+    блюзовых гастролей и обладатель настоящего Хаммонда C3 (на котором сам не умеет
+    играть!). Петя Репин - известный в Москве блюзовый пианист, Хаммонд-органист и
+    вокалист, фронтмен группы The Junkbusters. Саша Понкратов - бас и Эд Ружанский
+    - ударные - опытные участники многих московских блюзовых ритм-секций.
+
+
+    На концерте Soul Green вы совершите волнующее музыкальное путешествие через Новый
+    Орлеан, Мемфис, Детройт на Западное Побережье, и на машине времени из 1960-х в
+    2000-е. Известные старые хиты, которые играет Soul Green, и откопанные из ила
+    жемчужины разных жанров объединяет то, что в каждой песне есть свой грув, который
+    группа заставляет звучать снова, и красота, которой Soul Green жаждет делиться
+    с публикой.'
+  verified: true
+  created: '2017-11-29'
+  is_press_release: true

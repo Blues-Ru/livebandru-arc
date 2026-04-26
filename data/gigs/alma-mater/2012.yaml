@@ -1,0 +1,15 @@
+- id: 25734
+  date: '2012-02-23'
+  time: '16:00'
+  band_name: '"Игры в Джаз": Трио Даниила Крамера и Роман Мирошниченко (гитара)'
+  club_id: 282
+  club_name: Альма-Матер
+  club_token: alma-mater
+  price: 1500 руб.
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 366
+    name: Роман Мирошниченко
+    token: roman-miro

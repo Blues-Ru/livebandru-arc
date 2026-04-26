@@ -1,0 +1,24 @@
+id: 141
+token: blues-time
+name: Blues Time
+alive: true
+address: М.Кисловский пер., 11
+subway: Арбатская, Пушкинская
+phone: 291-6513
+city_id: 1
+comments: В помещении ресторана Лабарданс
+clips:
+- id: 67
+  type: weblink
+  url: http://bluestime.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 68
+  type: rss
+  url: http://community.livejournal.com/bluestime_club/data/rss
+  sort_order: 99
+- id: 78
+  type: rss
+  url: http://bluestime.ru/feed/
+  name: Новости сайта
+  sort_order: 199

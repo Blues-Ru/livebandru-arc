@@ -1,0 +1,54 @@
+- id: 71070
+  date: '2018-03-06'
+  time: '19:00'
+  band_name: Клив Джонс (вокал, США) и ансамбль Тима Дорофеева (Архангельск)
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+- id: 72082
+  date: '2018-04-25'
+  time: '19:00'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+- id: 72268
+  date: '2018-05-22'
+  time: '19:00'
+  band_name: 'XIII Arkhangelsk Blues Festival: Tony Remy (Англия) & Band (Архангельск-Ярославль-Москва);
+    Андрей Кондаков (клавишные, Санкт-Петербург); JD Walter (вокал, США), Олег Юданов
+    (барабаны, Архангельск), Тим Дорофеев (гитара, Архангельск); The Cards (Сша, Англия,
+    Голландия) - Paul Quinn (гитара и губная гармоника - Великобритания), Harrison
+    Young (вокал, бас - США), Kоеn Herfst (барабаны, Нидерланды)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 674
+    name: Tony Remy
+    token: tony-remy
+- id: 72613
+  date: '2018-05-21'
+  time: '19:00'
+  band_name: 'XIII Arkhangelsk Blues Festival: Lil Jimmi Reed (гитара, вокал - США);
+    Юрий Новгородский (гитара, Москва), Юрий Горелов (бас, Москва), Владимир Воеводин
+    (барабаны, Москва); Guitar Summit - Тим Дорофеев (гитара, Архангельск), Виктор
+    Колесов (гитара, Вологда), Ксения Федулова (гитара, Москва), Алексей Барандов
+    (барабаны, Архангельск), Петр Ившин (барабаны, Москва), Николай Клишин (бас, Архангельск),
+    Сергей Кузнецов (саксофон, губная гармоника, Архангельск); Dynamic James Blues
+    Orchestra (Москва)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james

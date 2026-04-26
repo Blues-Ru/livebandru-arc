@@ -1,0 +1,15 @@
+id: 774
+token: lunar-cape
+name: Lunar Cape
+aliases: Мыс Луны
+alive: true
+url: http://lunar-cape.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 11
+clips:
+- id: 9823
+  type: weblink
+  url: http://lunar-cape.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,42 @@
+- id: 13387
+  date: '2010-11-03'
+  time: '20:00'
+  band_name: Сердце
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 13394
+  date: '2010-11-04'
+  time: '20:00'
+  band_name: Ансамбль "ПоZитивA"
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 12142
+  date: '2010-06-23'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 12257
+  date: '2010-06-15'
+  time: '20:00'
+  band_name: Эдуард Губайдуллин
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 12612
+  date: '2010-08-25'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.

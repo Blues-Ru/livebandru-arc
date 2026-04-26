@@ -1,0 +1,14 @@
+id: 480
+token: route-66
+name: Route 66
+alive: true
+address: Жилянская, 87/30
+subway: Вокзальная
+phone: +38 (044) 584-3865
+city_id: 16
+clips:
+- id: 2354
+  type: weblink
+  url: http://route66.com.ua
+  name: Официальный сайт
+  sort_order: 0

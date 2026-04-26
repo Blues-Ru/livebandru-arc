@@ -1,0 +1,17 @@
+id: 135
+token: dom
+name: Дом
+aliases: 'КЦ "Дом"
+
+  Культурный Центр "Дом"'
+alive: true
+address: Б.Овчинниковский пер., 24, стр. 4
+subway: Новокузнецкая
+phone: (495) 953 72 36, 953 72 42
+city_id: 1
+clips:
+- id: 44
+  type: weblink
+  url: http://www.dom.com.ru
+  name: Официальный сайт
+  sort_order: 0

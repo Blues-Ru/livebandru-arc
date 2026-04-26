@@ -1,0 +1,51 @@
+id: 301
+token: aka-blues-band
+name: AKA Blues Band
+alive: true
+url: http://akabluesband.livejournal.com/
+city_id: 14
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Михаил  Козлоффский
+  instruments: гитара
+- name: Ресь Thoughtless
+  instruments: бас
+- name: Михаил Спирин
+  instruments: гитара
+- name: Алина Дунаева
+  instruments: вокал
+- name: Володя Сигал
+  instruments: ударные
+clips:
+- id: 1060
+  type: mp3
+  url: akabluesband.mp3
+  name: Jazz
+  sort_order: 99
+- id: 1061
+  type: mp3
+  url: akabluesband-2.mp3
+  name: Minor Blues
+  sort_order: 199
+- id: 1081
+  type: rss
+  url: http://akabluesband.livejournal.com/data/rss
+  sort_order: 99
+- id: 1071
+  type: weblink
+  url: http://ps.org.ua/artist/aka_bluesband
+  name: перекресток
+  sort_order: 199
+- id: 1063
+  type: photo
+  url: akabluesband-2.jpg
+  name: 26 июля 2010
+  sort_order: 100
+  width: 604
+  height: 402
+- id: 1070
+  type: weblink
+  url: http://vk.com/id91599727
+  name: Страница ВКонтакте
+  sort_order: 99

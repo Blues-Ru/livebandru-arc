@@ -1,0 +1,1798 @@
+- id: 27173
+  date: '2012-05-13'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27815
+  date: '2012-05-26'
+  time: '13:00'
+  band_name: Jerry Bergonzi (USA) - мастер-класс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27826
+  date: '2012-05-23'
+  time: '20:00'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27827
+  date: '2012-05-24'
+  time: '20:00'
+  band_name: М-Artель, презентация альбома "Точка Сборки"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27690
+  date: '2012-06-17'
+  time: '18:00'
+  band_name: Летний концерт студентов Молодежной джазовой студии "C-Jam Club"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 27816
+  date: '2012-05-14'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27817
+  date: '2012-05-15'
+  time: '20:00'
+  band_name: BazzDay Stars - открытие нового сезона басовых вторников
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27818
+  date: '2012-05-16'
+  time: '20:00'
+  band_name: Квинтет Феликса Лахути
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27819
+  date: '2012-05-17'
+  time: '20:00'
+  band_name: Дмитрий Илугдин Трио - Никитский Бульвар
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 514
+    name: Никитский Бульвар
+    token: nikitskiy-bulvar
+- id: 27820
+  date: '2012-05-18'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27821
+  date: '2012-05-19'
+  time: '17:00'
+  band_name: 'Проект 5Oclock: Квартет Даниила Федорова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27822
+  date: '2012-05-19'
+  time: '20:00'
+  band_name: Павел Чекмаковский (гитара) и его квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27823
+  date: '2012-05-20'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27824
+  date: '2012-05-21'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27825
+  date: '2012-05-22'
+  time: '20:00'
+  band_name: FuzzionDay Special
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27829
+  date: '2012-05-26'
+  time: '16:00'
+  band_name: MusOceanFest
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27834
+  date: '2012-05-31'
+  time: '20:00'
+  band_name: Антон Горбунов - презентация альбома Bass Magic
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27835
+  date: '2012-06-01'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27836
+  date: '2012-06-03'
+  time: '13:00'
+  band_name: Ришар Бона (бас-гитара, вокал) - мастер-класс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27828
+  date: '2012-05-25'
+  time: '20:00'
+  band_name: Martin Miller (гитара, Германия) & Антон Давидянц (бас-гитара) - The
+    First Encounter
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27830
+  date: '2012-05-27'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27831
+  date: '2012-05-28'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27832
+  date: '2012-05-29'
+  time: '20:00'
+  band_name: BazzDay Stars - Дмитрий "Ветеран" Честных
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 27833
+  date: '2012-05-30'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 28152
+  date: '2012-06-02'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 28479
+  date: '2012-06-16'
+  time: '17:00'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 28614
+  date: '2012-06-20'
+  time: '20:00'
+  band_name: Павел Чекмаковский
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28615
+  date: '2012-06-21'
+  time: '20:00'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28618
+  date: '2012-06-25'
+  time: '20:00'
+  band_name: Monday Drummer
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28619
+  date: '2012-06-26'
+  time: '20:00'
+  band_name: BazzDay Stars - Антон Горбунов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28620
+  date: '2012-06-27'
+  time: '20:00'
+  band_name: Феликс Лахути, презентация альбома "UniversaLove"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 28622
+  date: '2012-06-29'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28473
+  date: '2012-06-07'
+  time: '20:00'
+  band_name: Marimba Plus, Евгений Лебедев (фортепиано), Татьяна Шишкова (вокал)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатно
+  extra_bands:
+  - id: 512
+    name: Marimba Plus
+    token: marimba-plus
+- id: 28616
+  date: '2012-06-22'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28617
+  date: '2012-06-24'
+  time: '20:00'
+  band_name: Екатерина Черноусова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28621
+  date: '2012-06-28'
+  time: '20:00'
+  band_name: '"Koudede" (Нигер)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29606
+  date: '2012-09-02'
+  time: '17:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+  comments: "GoaT's NoteS - Goat's NoteS - московский коллектив новой импровизационной\
+    \ музыки, в котором собрались музыканты самых разных направлений и устремлений.\
+    \ Ансамбль сформирован двумя страстными любителями спонтанного музицирования -\
+    \ пианистом Григорием Сандомирским и контрабасистом Владимиром Кудрявцевым. Эклектичная\
+    \ музыка ансамбля абсолютно непредсказуема: созерцательная лирика в один момент\
+    \ сменяется дикими танцами, переходящими в песни неведомых народов, минималистическое\
+    \ музицирование взрывается безумной какофонией. Наполненные юмором и самоиронией\
+    \ выступления коллектива не дают слушателю расслабиться ни на секунду.\r\n\r\n\
+    Музыка, которая \r\nрождается из непосредственного взаимодействия, контакта между\
+    \ этими музыкантами полна строгости и иронии, безумного напряжения и лирики, самозабвенной\
+    \ экспрессии и медитативности. Каждый концерт \r\nпревращается в неповторимое\
+    \ приключение, в котором невозможно \r\nпредсказать развитие событий. В каком-то\
+    \ смысле это передвижная \r\nлаборатория звука и стиля, где раз от раза ставится\
+    \ новый эксперимент, суть его составляет сам процесс поиска и открытия, и именно\
+    \ он неизменно захватывает внимание публики. \r\n\r\nМария Логофет - скрипка,\
+    \ голос\r\nГригорий Сандомирский - фортепиано, мелодика, перкуссия, голос\r\n\
+    Илья Вилков - тромбон\r\nПтр Талалай - барабаны, электроника\r\nспециальные гости:\r\
+    \nВладимир Черницын - контрабас\r\nЮрий Севастьянов - саксофоны\r\n\r\nмузыка,\
+    \ фото и видео - на сайте http://goatsnotes.com/\r\n\r\nКонцертное видео:\r\n\
+    http://www.youtube.com/playlist?list=PLDDD05E33884C9A10\r\nhttp://www.youtube.com/playlist?list=PLC31063A9D044D5C5\r\
+    \nhttp://www.youtube.com/playlist?list=PLDE545B2CFC3E27EE"
+- id: 29615
+  date: '2012-09-01'
+  time: '17:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29616
+  date: '2012-09-01'
+  time: '20:00'
+  band_name: Алексей Козлов и Арсенал, Ольга Олейникова, Дмитрий Назаров - Любимые
+    песни хиппи
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29617
+  date: '2012-09-02'
+  time: '20:00'
+  band_name: Old Friends Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+  comments: Алексей Николаев (тенор-саксофон, США), Иван Фармаковский (рояль), Антон
+    Ревнюк (контрабас), Эдуард Зизак (барабаны)
+- id: 29618
+  date: '2012-09-03'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29619
+  date: '2012-09-04'
+  time: '20:00'
+  band_name: Authentic Light Orchestra (Швейцария)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+  comments: Valeri Tolstov (флейты, этнические инструменты, гитара), Veronika Stalder
+    (вокал), Hovannes Djibian (клавишные), Mikayel Matnishyan (виолончель), Beat Gisler
+    (бас), Andy Brugger (ударные)
+- id: 29620
+  date: '2012-09-05'
+  time: '20:00'
+  band_name: Martin Miller (Germany) & Антон Давидянц - The, First Encounter
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29707
+  date: '2012-09-06'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29708
+  date: '2012-09-07'
+  time: '20:00'
+  band_name: Алексей Козлов и Арсенал, Ольга Олейникова, Дмитрий Назаров
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 29709
+  date: '2012-09-08'
+  time: '20:00'
+  band_id: 332
+  band_name: Вячеслав Горский
+  band_token: gorsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29710
+  date: '2012-09-09'
+  time: '20:00'
+  band_name: Apple.Sin - "Дарвин"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29711
+  date: '2012-09-10'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29712
+  date: '2012-09-12'
+  time: '20:00'
+  band_id: 591
+  band_name: Chiefs Band
+  band_token: chiefs-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29713
+  date: '2012-09-13'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29714
+  date: '2012-09-14'
+  time: '20:00'
+  band_name: Алексей Козлов и Арсенал, Ольга, Олейникова, Дмитрий Назаро
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29715
+  date: '2012-09-15'
+  time: '20:00'
+  band_name: FX Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29716
+  date: '2012-09-16'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29717
+  date: '2012-09-17'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29718
+  date: '2012-09-18'
+  time: '20:00'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29719
+  date: '2012-09-19'
+  time: '20:00'
+  band_name: Алексей Дегусаров (гитара), Олеся Ялунина (вокал)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29720
+  date: '2012-09-20'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29721
+  date: '2012-09-21'
+  time: '20:00'
+  band_name: Алексей Козлов и Арсенал, Ольга Олейникова, Дмитрий Назаров
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 29722
+  date: '2012-09-22'
+  time: '20:00'
+  band_name: Pervoe Solnce - концерт-презентация альбома "Моменты Радости"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29723
+  date: '2012-09-23'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29724
+  date: '2012-09-24'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29725
+  date: '2012-09-25'
+  time: '20:00'
+  band_name: ProgDay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29726
+  date: '2012-09-26'
+  time: '20:00'
+  band_name: Anatoly Gerasimov Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 370
+    name: Анатолий Герасимов
+    token: anatoly-gerasimov
+- id: 29727
+  date: '2012-09-27'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29728
+  date: '2012-09-28'
+  time: '20:00'
+  band_name: Алексей Козлов и Арсенал, Ольга Олейникова, Дмитрий Назаров
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 29729
+  date: '2012-09-29'
+  time: '20:00'
+  band_name: Funk Fest
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 29730
+  date: '2012-09-30'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28790
+  date: '2012-06-30'
+  time: '20:00'
+  band_name: Алексей Козлов приглашает танцевать
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28792
+  date: '2012-07-01'
+  time: '20:00'
+  band_name: Трио Владимира Нестеренко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28794
+  date: '2012-07-03'
+  time: '20:00'
+  band_name: Алексей Заволокин в Трио Алима Настаева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28796
+  date: '2012-07-05'
+  time: '20:00'
+  band_name: Jazzator
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28797
+  date: '2012-07-06'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал", концерт-посвящение великим музыкантам
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28800
+  date: '2012-07-09'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28803
+  date: '2012-07-13'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал", экскурс в историю блюза
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28807
+  date: '2012-07-18'
+  time: '20:00'
+  band_name: Саша Магерова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28808
+  date: '2012-07-19'
+  time: '20:00'
+  band_name: Дмитрий Илугдин , трио "Никитский бульвар"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 514
+    name: Никитский Бульвар
+    token: nikitskiy-bulvar
+- id: 28810
+  date: '2012-07-21'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28811
+  date: '2012-07-23'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28812
+  date: '2012-07-24'
+  time: '19:00'
+  band_name: ProgDay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28813
+  date: '2012-07-25'
+  time: '20:00'
+  band_name: Миша Ряженка, презентация CD / DVD проекта "The Experiments", при уч.
+    Антона Беляева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28814
+  date: '2012-07-27'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28815
+  date: '2012-07-28'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28816
+  date: '2012-07-30'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28791
+  date: '2012-06-30'
+  time: '23:00'
+  band_name: Think twice - New soul
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28793
+  date: '2012-07-02'
+  time: '20:00'
+  band_name: Monday Drummer - Валерий Волошин (мастер-класс). Ударные музыкальные
+    инстументы
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28795
+  date: '2012-07-04'
+  time: '20:00'
+  band_name: The Doors Are Opened Group
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28798
+  date: '2012-07-07'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал" (танцевальная музыка прошлого века)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28799
+  date: '2012-07-08'
+  time: '20:00'
+  band_name: Positive Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28801
+  date: '2012-07-10'
+  time: '20:00'
+  band_name: Феликс Лахути, день рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 28802
+  date: '2012-07-11'
+  time: '20:00'
+  band_name: Трио Евгения Лебедева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28804
+  date: '2012-07-14'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 28805
+  date: '2012-07-16'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28806
+  date: '2012-07-17'
+  time: '20:00'
+  band_name: М-Артель
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 28809
+  date: '2012-07-20'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал" - пьесы из новых альбомов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29187
+  date: '2012-08-01'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29189
+  date: '2012-08-03'
+  time: '20:00'
+  band_name: Любимые поп-рок-хиты Алексея Козлова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29190
+  date: '2012-08-05'
+  time: '20:00'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29194
+  date: '2012-08-10'
+  time: '20:00'
+  band_name: 'Latin Jazz: Виктория Урусова (вокал), Эрнесто Симпсон (ударные), Леонид
+    Сендерский (саксофон), Евгений Лебедев (фортепиано), Антон Горбунов (бас-гитара)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 29196
+  date: '2012-08-12'
+  time: '20:00'
+  band_name: Трио Алекса Ростоцкого
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 29188
+  date: '2012-08-02'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  comments: Автобиографический концерт Маэстро
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29191
+  date: '2012-08-06'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29192
+  date: '2012-08-08'
+  time: '20:00'
+  band_name: Юрий Щеткин & "BrushUp"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29193
+  date: '2012-08-09'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  comments: '"Битлз", самба, боссанова!'
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29195
+  date: '2012-08-11'
+  time: '20:00'
+  band_name: Любимые поп-рок хиты Алексея Козлова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 29197
+  date: '2012-08-13'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29198
+  date: '2012-08-14'
+  time: '20:00'
+  band_name: Kostarev Group
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29199
+  date: '2012-08-15'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 29200
+  date: '2012-08-16'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29201
+  date: '2012-08-17'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29202
+  date: '2012-08-19'
+  time: '20:00'
+  band_name: Hendrik Meurkens (губная гармоника, вибрафон) и Квартет Алексея Подымкина
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29203
+  date: '2012-08-20'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29204
+  date: '2012-08-21'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29205
+  date: '2012-08-22'
+  time: '20:00'
+  band_name: Karmen Moxie & Andrey Barbashov Occasion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29206
+  date: '2012-08-23'
+  time: '20:00'
+  band_name: Алим Настаев Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29207
+  date: '2012-08-24'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29208
+  date: '2012-08-25'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 29209
+  date: '2012-08-26'
+  time: '20:00'
+  band_name: Anatoly Gerasimov Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 370
+    name: Анатолий Герасимов
+    token: anatoly-gerasimov
+- id: 29210
+  date: '2012-08-27'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29211
+  date: '2012-08-28'
+  time: '19:00'
+  band_name: 'ProgDay: Disen Gage, Трамвай Фантазий и Batisfera'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 597
+    name: Disen Gage
+    token: disen-gage
+- id: 29212
+  date: '2012-08-29'
+  time: '20:00'
+  band_name: Осипов Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 29213
+  date: '2012-08-30'
+  time: '20:00'
+  band_name: Orchestra 2.0
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 29214
+  date: '2012-08-31'
+  time: '20:00'
+  band_name: Алексей Козлов и ансамбль "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30540
+  date: '2012-10-01'
+  time: '20:00'
+  band_name: 'Monday Drummer: Игорь Джавад-заде (барабаны), пятидесятилетие музыканта'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30541
+  date: '2012-10-02'
+  time: '20:00'
+  band_name: 'BazzDay Stars: Алексей Заволокин (бас-гитара), Петр Ившин (барабаны),
+    Тимур Некрасов (саксофон), Евгений Ревнюк (клавишные), Сергей Рощупкин (гитара)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 256
+    name: Laber Band
+    token: laber-band
+- id: 30542
+  date: '2012-10-03'
+  time: '20:00'
+  band_name: Джаз-бас театр Алекса Ростоцкого - проект "Метаморфозы
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 30543
+  date: '2012-10-04'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30544
+  date: '2012-10-05'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30545
+  date: '2012-10-11'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30546
+  date: '2012-10-19'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30547
+  date: '2012-10-31'
+  time: '20:00'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Платный
+- id: 30548
+  date: '2012-10-30'
+  time: '20:00'
+  band_name: Free Spoken Band (Екатеринбург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30549
+  date: '2012-10-06'
+  time: '15:00'
+  band_name: Roz Vitalis (Санкт-Петербург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30550
+  date: '2012-10-06'
+  time: '20:00'
+  band_name: Asketics (Карелия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30551
+  date: '2012-10-07'
+  time: '17:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30552
+  date: '2012-10-07'
+  time: '20:00'
+  band_name: Джазу в России - 90 лет! Действо о В.Парнахе, основателе нашего первого
+    джаз-бэнда
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30553
+  date: '2012-10-07'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30554
+  date: '2012-10-08'
+  time: '20:00'
+  band_name: Monday Drummer с Игорем Джавад-Заде (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30564
+  date: '2012-10-21'
+  time: '20:00'
+  band_name: 'Kostarev Group - презентация диска "KosMoBob: Vegetarian"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30565
+  date: '2012-10-17'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30566
+  date: '2012-10-28'
+  time: '20:00'
+  band_name: Борис Голик (вокал) и Николай Массальский (вокал), Александр Родовский
+    (гитара) и Дмитрий Толпегов (тромбон)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30567
+  date: '2012-10-25'
+  time: '20:00'
+  band_name: 'Saxday: Илья Морозов, Алексей Леон-Рейес, Алексей Жуков, Азат Баязитов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30568
+  date: '2012-10-24'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30569
+  date: '2012-10-21'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30555
+  date: '2012-10-09'
+  time: '20:00'
+  band_name: Трио Ольги Глебец
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30556
+  date: '2012-10-10'
+  time: '20:00'
+  band_name: Трио Евгения Лебедева (фортепиано)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30557
+  date: '2012-10-12'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30558
+  date: '2012-10-13'
+  time: '20:00'
+  band_name: 'Алексею Козлову - 77: Юрий Погиба (клавишные), Сергей Слободин (бас-гитара),
+    Эдуард Петрухин (ударные), Ольга Олейникова (вокал), Дмитрий Назаров (гитра, вокал)
+    и др.'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000 руб.
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 30559
+  date: '2012-10-14'
+  time: '15:00'
+  band_name: Fortuna brass
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30560
+  date: '2012-10-14'
+  time: '20:00'
+  band_name: Квартет Алексея Круглова и Яака Соояара (Россия-Эстония)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30561
+  date: '2012-10-14'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 30562
+  date: '2012-10-16'
+  time: '20:00'
+  band_name: 'ArtBeat Project: Анна Королева (саксофон, вокал), Дмитрий Илугдин (клавишные),
+    Феликс Лахути (электроскрипка), Антон Горбунов (бас) и Петр Ившин (ударные)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 30563
+  date: '2012-10-18'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 30834
+  date: '2012-11-04'
+  time: '17:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Pay what you want
+  comments: "Предвкушая выход своего дебютного альбома на знаменитой фирме Leo Records,\
+    \ импровизаторы из GoaT's NoteS дают в Москве два особенных концерта с участием\
+    \ одного из своих основателей, контрабасиста Владимира Кудрявцева, с недавних\
+    \ пор живущего во Франции. Именно звучание контрабаса Кудрявцева наполняет музыку\
+    \ ансамбля характерным смысловым \"мясом\"\r\n\r\n4 ноября в клубе Алексея Козлова\
+    \ к GoaT's NoteS присоединятся замечательные гости - саксофонист Юрий Севастьянов\
+    \ и мультиинструменталист Кирилл Паренчук - и вам представится шанс услышать практически\
+    \ единственный в своем роде небольшой импровизирующий оркестр."
+- id: 30789
+  date: '2012-08-22'
+  time: '20:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31963
+  date: '2012-12-02'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31212
+  date: '2012-11-01'
+  time: '17:00'
+  band_name: Dominidue Di Piazza (бас-гитара, Франция), квартет Made in France и Cathy
+    Palvair (вокал, Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  comments: Мастер-класс и концерт
+- id: 31213
+  date: '2012-11-02'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31214
+  date: '2012-11-09'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31215
+  date: '2012-11-16'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31236
+  date: '2012-11-15'
+  time: '20:00'
+  band_name: Одиссей Богусевич и Winter Sun Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31237
+  date: '2012-11-17'
+  time: '17:00'
+  band_name: Анжелика Матвеева и трио Владимира Нестеренко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31238
+  date: '2012-11-17'
+  time: '20:00'
+  band_name: Трио Вячеслава Горского
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31216
+  date: '2012-11-03'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31217
+  date: '2012-11-04'
+  time: '20:00'
+  band_name: Дмитрий Яковлев и квинтет "In Time"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 31218
+  date: '2012-11-04'
+  time: '22:00'
+  band_name: SumJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31219
+  date: '2012-11-22'
+  time: '20:00'
+  band_id: 541
+  band_name: Priot Ensemble
+  band_token: priot
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31220
+  date: '2012-11-20'
+  time: '20:00'
+  band_name: Квинтет Феликса Лахути
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31221
+  date: '2012-11-07'
+  time: '20:00'
+  band_name: Gayana Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31222
+  date: '2012-11-08'
+  time: '20:00'
+  band_name: Анна Клесун (вокал) & Esh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 162
+    name: Esh
+    token: esh
+- id: 31223
+  date: '2012-11-10'
+  time: '20:00'
+  band_name: Asketics
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31224
+  date: '2012-11-11'
+  time: '20:00'
+  band_name: Dr.Nick & Olga Oleynickova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 31225
+  date: '2012-11-11'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31226
+  date: '2012-11-13'
+  time: '20:00'
+  band_name: Павел Чекмаковский (гитара)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31227
+  date: '2012-11-23'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31228
+  date: '2012-11-28'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31229
+  date: '2012-11-06'
+  time: '20:00'
+  band_name: Valery Stepanov and Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 31230
+  date: '2012-11-24'
+  time: '20:00'
+  band_name: Антон Горбунов (бас-гитара)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  comments: Концерт-презентация альбома "Idea Fix" (2003/2012), Art Beat Music
+- id: 31231
+  date: '2012-11-25'
+  time: '19:00'
+  band_id: 271
+  band_name: Art Ceilidh
+  band_token: art-ceilidh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31232
+  date: '2012-11-25'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31233
+  date: '2012-11-18'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31234
+  date: '2012-11-29'
+  time: '17:00'
+  band_name: 'SaxDay или Александр Осейчук представляет: ансамбли Александра Осейчука
+    и Жанны Ильмер'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31235
+  date: '2012-11-14'
+  time: '20:00'
+  band_name: Анна Королева (вокал, саксофон)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 31666
+  date: '2012-11-18'
+  time: '16:00'
+  band_id: 506
+  band_name: Post-Jazz Trio
+  band_token: post-jazz-trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31961
+  date: '2012-12-07'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31962
+  date: '2012-11-30'
+  time: '20:00'
+  band_name: Трио Дмитрия Илугдина (рояль)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31965
+  date: '2012-12-16'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31966
+  date: '2012-12-23'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31969
+  date: '2012-12-03'
+  time: '20:00'
+  band_name: Impact Fuze
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31970
+  date: '2012-12-04'
+  time: '20:00'
+  band_name: Пронин и The Dopies
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31971
+  date: '2012-12-05'
+  time: '20:00'
+  band_name: 'Фестиваль "News from Helsinki": Kalle Kalima и K-18, Kari Ikonen Trio,
+    Tonight at Noon'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 300 руб.
+- id: 31972
+  date: '2012-12-08'
+  time: '20:00'
+  band_name: The Flower Kings (Швеция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000 руб.
+- id: 31973
+  date: '2012-12-09'
+  time: '20:00'
+  band_name: Белый острог
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31974
+  date: '2012-12-11'
+  time: '19:30'
+  band_name: Фрэнк Заппа фест
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31975
+  date: '2012-12-13'
+  time: '20:00'
+  band_name: Sketchy Black Dog (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 31968
+  date: '2012-12-02'
+  time: '20:00'
+  band_name: Андрей Звонков (гитара) и Дмитрий Севастьянов (ударные) - презентация
+    альбома "Zoolect"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31976
+  date: '2012-12-18'
+  time: '20:00'
+  band_name: YuFive
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31964
+  date: '2012-12-09'
+  time: '22:00'
+  band_name: SunJam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 31967
+  date: '2012-12-01'
+  time: '20:00'
+  band_name: 'Вечер музыки Германа Лукьянова (альтгорн, цугфлейта, свисток): квинтет
+    саксофонов п/у Сергея Рязанцева, джаз-оркестр "Орфей" п/у Игоря Кантюкова, ансамбль
+    "Каданс" Германа Лукьянова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 451
+    name: Ансамбль "Каданс" Германа Лукьянова
+    token: kadans-lukiyanov
+- id: 32131
+  date: '2012-12-15'
+  time: '20:00'
+  band_name: Энвер Измайлов (гитара)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.

@@ -1,0 +1,30 @@
+id: 11
+token: tabula-rasa
+name: Tabula Rasa
+aliases: Табула Раса
+alive: true
+address: Мельникова, 7
+subway: Пролетарская
+phone: (495) 646-74-24
+city_id: 1
+comments: в здании ДК ГПЗ
+clips:
+- id: 1886
+  type: weblink
+  url: http://www.tabulaclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1888
+  type: weblink
+  url: http://www.facebook.com/pages/Tabula-Rasa/138499336212217
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 1889
+  type: rss
+  url: http://community.livejournal.com/tabularasa_club/data/rss
+  sort_order: 99
+- id: 1887
+  type: weblink
+  url: http://vk.com/club385997
+  name: Страница ВКонтакте
+  sort_order: 100

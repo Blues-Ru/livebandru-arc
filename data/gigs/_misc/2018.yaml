@@ -1,0 +1,1165 @@
+- id: 70285
+  date: '2018-01-13'
+  time: '20:00'
+  band_name: Любовь и Рок-н-Ролл. Каверы в диапазоне от Jealous Guy до Lambada, от
+    Return to Sender до Bessa Me Mucho и "Элен и ребят". Песни на английском, русском,
+    французском, португальском, испанском языках. Ретро, рок-н-ролл, поп.
+  club_name: Заводные яйца
+  city_id: 2
+  price: Б/п
+- id: 70286
+  date: '2018-01-20'
+  time: '20:00'
+  band_name: '"Любовь и Рок-н-Ролл". Каверы в диапазоне от Jealous Guy до Lambada,
+    от Return to Sender до Bessa Me Mucho и "Элен и ребят". Песни на английском, русском,
+    французском, португальском, испанском языках. Ретро, рок-н-ролл, поп.'
+  club_name: Заводные яйца
+  city_id: 2
+  price: Б/п
+  extra_bands:
+  - id: 756
+    name: '"Любовь и Рок-н-Ролл"'
+    token: lovernr
+- id: 70423
+  date: '2018-01-28'
+  time: '19:30'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_name: Кафе ПанноРама
+  city_id: 138
+- id: 70425
+  date: '2018-02-06'
+  time: '20:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_name: Джаз Кафе "Underground"
+  city_id: 41
+- id: 70426
+  date: '2018-02-07'
+  time: '19:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_name: Театр Металлургов
+  city_id: 55
+- id: 70325
+  date: '2018-01-13'
+  time: '21:00'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: Husky Bar
+  city_id: 2
+  price: бесплатный
+- id: 70422
+  date: '2018-02-02'
+  time: '21:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_name: Паб Лондон
+  city_id: 69
+- id: 70366
+  date: '2018-02-07'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club
+  city_id: 17
+  price: бесплатный
+- id: 70419
+  date: '2018-02-01'
+  time: '19:30'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_name: Pinta Haus
+  city_id: 7
+- id: 71019
+  date: '2018-03-02'
+  time: '21:00'
+  band_name: Leonid & Friends
+  club_name: Мумий Тролль
+  city_id: 1
+- id: 70992
+  date: '2018-02-10'
+  time: '21:00'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: Husky Bar
+  city_id: 2
+  price: бесплатный
+  comments: Адрес клуба 4-ая Красноармейская, 12
+- id: 71013
+  date: '2018-05-26'
+  time: '13:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Latviabeerfest / Riga, Latvia
+  city_id: 1
+- id: 71014
+  date: '2018-06-02'
+  time: '16:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Gdynia Blues Festival / Poland
+  city_id: 1
+- id: 71123
+  date: '2018-03-16'
+  time: '22:30'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Connolly station Irish pub
+  city_id: 1
+  price: бесплатный
+  comments: Connolly station Irish pub acoustic set                                                  Столешников
+    пер., 8
+- id: 71124
+  date: '2018-03-17'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Бар Другой. Владимир
+  city_id: 3
+  comments: Бар Другой. Владимир, Большая Московская ул., 14
+- id: 71681
+  date: '2018-04-27'
+  time: '22:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Connolly Station Pub
+  city_id: 1
+- id: 71684
+  date: '2018-06-11'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Мумий Тролль Бар
+  city_id: 1
+- id: 71611
+  date: '2018-04-07'
+  time: '20:00'
+  band_id: 756
+  band_name: '"Любовь и Рок-н-Ролл"'
+  band_token: lovernr
+  club_name: Заводные яйца
+  city_id: 2
+  price: Вход бесплатный
+- id: 71682
+  date: '2018-05-24'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Egle / Riga, Latvia
+  city_id: 1
+- id: 71125
+  date: '2018-03-23'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Sherwood pub
+  city_id: 1
+  price: бесплатный
+  comments: Sherwood pub, Шараповская д.7, Мытищи
+- id: 71130
+  date: '2018-03-08'
+  time: '17:00'
+  band_name: 'Программа "Оттенки": The Jamtlemen при уч. Евгения Борца и Константина
+    Гевондяна, специальный гость - Анна Голодная (вокал). Выставка полотен Бориса
+    Витолло'
+  club_name: Галерея Нико
+  city_id: 1
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 71523
+  date: '2018-03-10'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: Husky Bar
+  city_id: 2
+  price: бесплатный
+- id: 71591
+  date: '2018-03-28'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club
+  city_id: 17
+  price: бесплатный
+- id: 71612
+  date: '2018-04-20'
+  time: '20:00'
+  band_id: 756
+  band_name: '"Любовь и Рок-н-Ролл"'
+  band_token: lovernr
+  club_name: Заводные яйца
+  city_id: 2
+  price: Б/п
+- id: 71544
+  date: '2018-03-31'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Shamrock pub (Королев)
+  city_id: 1
+  price: бесплатный
+  comments: Московская обл., Королев, микрорайон Костино, просп. Космонавтов, 27б.  +7
+    (495) 628-08-99. http://pubshamrock.ru/ начало в 22.00
+- id: 71561
+  date: '2018-07-06'
+  time: '19:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Suwalki Blues Festival / Poland
+  city_id: 1
+- id: 71614
+  date: '2018-04-13'
+  time: '19:00'
+  band_id: 757
+  band_name: Holy Blacksmith
+  band_token: holyblacksmith
+  club_name: Артмуза
+  city_id: 2
+- id: 71562
+  date: '2018-06-23'
+  time: '17:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Valassky spalicek / Czech Republic
+  city_id: 1
+- id: 71563
+  date: '2018-06-03'
+  time: '18:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: First Summer Festival
+  city_id: 69
+- id: 72111
+  date: '2018-04-06'
+  time: '20:00'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: SourGood Гончарная 23
+  city_id: 2
+  price: бесплатный
+  comments: "Уже в эту пятницу группа ZebraWood Blues Band выступит в баре SourGood!\r\
+    \nОтличная возможность встретиться с друзьями и послушать зажигательный блюз рок\
+    \ в исполнении любимой группы!\r\n\r\nГруппа основана в 2017 году музыкантами\
+    \ уже давно выступающими на клубной сцене Санкт-Петербурга и России.  В основу\
+    \ репертуара положены хиты стиля блюз-рок таких исполнителей как: Jimi Hendrix,\
+    \ Stevie Ray Vaughan, Gary Moore, Eric Clapton, B.B. King и новых течений Rival\
+    \ Sons, Radio Moscow."
+- id: 72112
+  date: '2018-04-07'
+  time: '21:00'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: Full House Наб.Канала Грибоедова 27
+  city_id: 2
+  price: бесплатный
+  comments: "7 апреля трио ZebraWood играют в акустике в Full House Bar\r\n Наб. канала\
+    \ Грибоедова, 27"
+- id: 72167
+  date: '2018-05-19'
+  time: '18:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Весенний Mотовернисаж, КЦ Рублево
+  city_id: 1
+- id: 73188
+  date: '2018-07-14'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Money Honey Sloon / Санкт-Питербург
+  city_id: 1
+- id: 72133
+  date: '2018-04-18'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club ул. Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 72233
+  date: '2018-05-30'
+  time: '22:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Artilerijas Pagrabi / Daugavpils, Latvia
+  city_id: 1
+- id: 72231
+  date: '2018-07-07'
+  time: '19:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Festival Blues Express / Zlotow, Poland
+  city_id: 1
+- id: 72234
+  date: '2018-05-31'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Mjazzga Club, Elblag, Poland
+  city_id: 1
+- id: 72232
+  date: '2018-07-13'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Rock'N'Road '18 / Карелия
+  city_id: 1
+- id: 72551
+  date: '2018-05-04'
+  time: '20:00'
+  band_id: 756
+  band_name: '"Любовь и Рок-н-Ролл"'
+  band_token: lovernr
+  club_name: Заводные яйца
+  city_id: 2
+  price: б/п
+- id: 72552
+  date: '2018-05-18'
+  time: '20:00'
+  band_id: 756
+  band_name: '"Любовь и Рок-н-Ролл"'
+  band_token: lovernr
+  club_name: Заводные яйца
+  city_id: 2
+  price: б/п
+- id: 72622
+  date: '2018-05-09'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Greenwich Pub / Cочи
+  city_id: 1
+- id: 72623
+  date: '2018-05-11'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Harat's pub / Красная Поляна
+  city_id: 1
+- id: 72626
+  date: '2018-09-09'
+  time: '16:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Фестиваль "Цветочный джем" в Парке Фили
+  city_id: 1
+- id: 72649
+  date: '2018-05-18'
+  time: '19:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Larionov Grill & Bar / Профсоюзная
+  city_id: 1
+- id: 72681
+  date: '2018-05-26'
+  time: '20:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Larionov Grill Bar  на Профсоюзной
+  city_id: 1
+  price: бесплатный
+- id: 72624
+  date: '2018-05-12'
+  time: '22:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Harat's pub / Сочи
+  city_id: 1
+- id: 72625
+  date: '2018-08-19'
+  time: '12:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Времена и Эпохи (Охотный ряд)
+  city_id: 1
+- id: 72679
+  date: '2018-06-08'
+  time: '20:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Мумий Тролль Бар
+  city_id: 1
+- id: 72680
+  date: '2018-05-30'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 72650
+  date: '2018-05-18'
+  time: '22:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Connolly Station Pub
+  city_id: 1
+- id: 72651
+  date: '2018-06-09'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Бар "Перепел"
+  city_id: 24
+- id: 72652
+  date: '2018-09-01'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Larionov Grill & Bar (Профсоюзная)
+  city_id: 1
+- id: 72653
+  date: '2018-08-11'
+  time: '23:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Old School Pub
+  city_id: 1
+- id: 73118
+  date: '2018-07-08'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Blues Club Gdynia / Poland
+  city_id: 1
+- id: 73189
+  date: '2018-08-12'
+  time: '18:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Времена и Эпохи (Охотный ряд)
+  city_id: 1
+- id: 73190
+  date: '2018-08-25'
+  time: '18:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Valge Daami / Haapsalu, Estonia
+  city_id: 1
+- id: 73191
+  date: '2018-09-09'
+  time: '19:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Бар Молодежь
+  city_id: 1
+- id: 74238
+  date: '2018-10-06'
+  time: '23:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Old School Pub
+  city_id: 1
+- id: 73645
+  date: '2018-07-27'
+  time: '19:00'
+  band_name: 'Открытие фестиваля Present Perfect: Roy Ayers и Larry Heard'
+  club_name: Порт Севкабель
+  city_id: 2
+- id: 73668
+  date: '2018-07-25'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 73673
+  date: '2018-08-18'
+  time: '21:40'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Мумий Тролль Бар
+  city_id: 1
+- id: 73663
+  date: '2018-08-02'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Оранжерея
+  city_id: 1
+  price: бесплатный
+  comments: "Тамара Оген Band\r\n\r\nBlues&Country\r\n\r\nБэнд Тамары Оген - московский\
+    \ коллектив, который исполняет блюз и кантри разных эпох: и старый delta, и piedmont,\
+    \ и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные знаменитым\
+    \ блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\n \r\n\r\n\
+    Группу отличает большая любовь к редким, и оттого еще более притягательным песням\
+    \ разных авторов - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip\
+    \ James, Guy Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\
+    \n\r\n \r\n\r\nОдна из отличительных черт Бэнда Тамары Оген - все песни в оригиналах\
+    \ игрались на гитаре, но были переаранжированы для фортепиано-соло (программа\
+    \ Тамары Оген \"Blues Mysteries\"). Впоследствии было решено обогатить их партиями\
+    \ баса и барабанов.\r\n\r\n \r\n\r\nВ процессе работы над песнями порой рождаются\
+    \ совершенно неожиданные решения ритмов, гармоний и мелодий. И это только радует:\
+    \ песни обретают второе дыхание, начинают играть другими гранями - и открывают\
+    \ еще больший простор для творчества.\r\n\r\n \r\n\r\nТамара Оген - вокал, фортепиано\r\
+    \n\r\nВасилий Мотылец - бас-гитара\r\n\r\nСергей Чекмаренко - барабаны"
+- id: 73676
+  date: '2018-08-22'
+  time: '21:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Imagine
+  city_id: 1
+  price: бесплатный
+  comments: "Бэнд Тамары Оген исполняет блюз и кантри разных эпох: и старый delta,\
+    \ и piedmont, и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные\
+    \ знаменитым блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\
+    \nГруппу отличает большая любовь к редким, и оттого еще более притягательным песням\
+    \ разных авторов - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip\
+    \ James, Guy Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\
+    \n\r\nОдна из отличительных черт Бэнда Тамары Оген - все песни в оригиналах игрались\
+    \ на гитаре, но были переаранжированы для фортепиано-соло (программа Тамары Оген\
+    \ \"Blues Mysteries\"). Впоследствии было решено обогатить их партиями баса и\
+    \ барабанов. \r\n\r\nВ процессе работы над песнями порой рождаются совершенно\
+    \ неожиданные решения ритмов, гармоний и мелодий. И это только радует: песни обретают\
+    \ второе дыхание, начинают играть другими гранями - и открывают еще больший простор\
+    \ для творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец -\
+    \ бас-гитара\r\nСергей Чекмаренко - барабаны"
+- id: 73677
+  date: '2018-08-24'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Лиса и Гусь
+  city_id: 1
+  price: бесплатный
+  comments: "Бэнд Тамары Оген исполняет блюз и кантри разных эпох: и старый delta,\
+    \ и piedmont, и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные\
+    \ знаменитым блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\
+    \nГруппу отличает большая любовь к редким, и оттого еще более притягательным песням\
+    \ разных авторов - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip\
+    \ James, Guy Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\
+    \n\r\nОдна из отличительных черт Бэнда Тамары Оген - все песни в оригиналах игрались\
+    \ на гитаре, но были переаранжированы для фортепиано-соло (программа Тамары Оген\
+    \ \"Blues Mysteries\"). Впоследствии было решено обогатить их партиями баса и\
+    \ барабанов. \r\n\r\nВ процессе работы над песнями порой рождаются совершенно\
+    \ неожиданные решения ритмов, гармоний и мелодий. И это только радует: песни обретают\
+    \ второе дыхание, начинают играть другими гранями - и открывают еще больший простор\
+    \ для творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец -\
+    \ бас-гитара\r\nСергей Чекмаренко - барабаны"
+- id: 74186
+  date: '2018-08-26'
+  time: '20:00'
+  band_name: Мороз
+  club_name: Арт. бар "Свобода" на территории Хлебозавода
+  city_id: 1
+- id: 74187
+  date: '2018-08-28'
+  time: '20:00'
+  band_name: Мороз
+  club_name: Арт. Галерея "Открытый клуб"
+  city_id: 1
+- id: 74188
+  date: '2018-09-13'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Оранжерея
+  city_id: 1
+  price: бесплатный
+  comments: "Элегантный блюз с огоньком.\r\n\r\nБэнд Тамары Оген исполняет блюз и\
+    \ кантри разных эпох: и старый delta, и piedmont, и блюз 50-х, и кантри 60-х,\
+    \ и совсем современные вещи, написанные знаменитым блюзменом Joe Bonamassa, аранжировщиком\
+    \ и гитаристом Vilray.\r\n\r\nГруппу отличает большая любовь к редким, и оттого\
+    \ еще более притягательным песням разных авторов - J.B.Lenoir, Stevie Ray Vaughan,\
+    \ Blind Blake, John Denver, Skip James, Guy Davis, Bob Dylan, Roy Rogers, Blind\
+    \ Willie McTell и многих других.\r\n\r\nОдна из отличительных черт Бэнда Тамары\
+    \ Оген - все песни в оригиналах игрались на гитаре, но были переаранжированы для\
+    \ фортепиано-соло (программа Тамары Оген \"Blues Mysteries\"). Впоследствии было\
+    \ решено обогатить их партиями баса и барабанов. \r\n\r\nВ процессе работы над\
+    \ песнями порой рождаются совершенно неожиданные решения ритмов, гармоний и мелодий.\
+    \ И это только радует: песни обретают второе дыхание, начинают играть другими\
+    \ гранями - и открывают еще больший простор для творчества.\r\n\r\nТамара Оген\
+    \ - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара\r\nСергей Чекмаренко - барабаны"
+- id: 74220
+  date: '2018-09-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Московский
+  city_id: 1
+  price: бесплатный
+- id: 74221
+  date: '2018-09-29'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Профсоюзная
+  city_id: 1
+  price: бесплатный
+- id: 74222
+  date: '2018-09-15'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Чертаново
+  city_id: 1
+  price: бесплатный
+- id: 74621
+  date: '2018-09-08'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Billy McDaniel
+  city_id: 1
+  price: бесплатный
+- id: 74622
+  date: '2018-09-21'
+  time: '19:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Larionov Grill & Bar
+  city_id: 1
+  price: бесплатный
+- id: 74623
+  date: '2018-10-13'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Billy McDaniel
+  city_id: 1
+  price: бесплатный
+- id: 74649
+  date: '2018-09-27'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Виктория и Алберт
+  city_id: 1
+  price: бесплатный
+- id: 74615
+  date: '2018-10-13'
+  time: '21:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Labirint Space г.Ступино МО
+  city_id: 1
+- id: 74656
+  date: '2018-10-18'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Виктория и Алберт
+  city_id: 1
+  price: бесплатный
+- id: 74659
+  date: '2018-09-28'
+  time: '22:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: OktoberFest Kolbasoff на Симферопольском
+  city_id: 1
+- id: 74658
+  date: '2018-10-20'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Чертаново
+  city_id: 1
+  price: бесплатный
+- id: 74650
+  date: '2018-10-04'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Виктория и Алберт
+  city_id: 1
+  price: бесплатный
+- id: 74653
+  date: '2018-10-12'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Виктория и Алберт
+  city_id: 1
+  price: бесплатный
+- id: 74654
+  date: '2018-10-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Московский
+  city_id: 1
+  price: бесплатный
+- id: 75166
+  date: '2018-10-29'
+  time: '19:30'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: АртМуза, 13 линия В.О. 70-72.
+  city_id: 2
+  price: бесплатный
+- id: 74960
+  date: '2018-10-05'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: Husky Bar
+  city_id: 2
+  price: бесплатный
+- id: 75103
+  date: '2018-10-19'
+  time: '22:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Колбасофф на Симферопольском
+  city_id: 1
+- id: 75104
+  date: '2018-10-26'
+  time: '22:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Колбасофф на Сокольниках
+  city_id: 1
+- id: 75106
+  date: '2018-11-24'
+  time: '23:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Old School Pub
+  city_id: 1
+- id: 75107
+  date: '2018-12-08'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Кубок Е.П.Р.С.Т. по буги-вуги
+  city_id: 36
+- id: 75108
+  date: '2018-10-05'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Бар Дичь / Фрязино
+  city_id: 1
+- id: 75109
+  date: '2018-10-20'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Гриль-Бар Б&M / Дмитров
+  city_id: 1
+- id: 75102
+  date: '2018-10-13'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Larionov Grill & Bar (Профсоюзная)
+  city_id: 1
+- id: 75105
+  date: '2018-11-09'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Оттепель
+  city_id: 1
+- id: 75101
+  date: '2018-10-04'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Коленки пчелы
+  city_id: 1
+- id: 75111
+  date: '2018-12-14'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Max Brau
+  city_id: 3
+- id: 75140
+  date: '2018-12-15'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Confederates MCC Russia. Lobnya
+  city_id: 1
+- id: 75139
+  date: '2018-10-12'
+  time: '23:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Bar Microbe
+  city_id: 1
+- id: 75146
+  date: '2018-10-21'
+  time: '21:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Imagine
+  city_id: 1
+  price: бесплатный
+  comments: "Magnet Vox исполняет блюз и кантри разных эпох: и старый delta, и piedmont,\
+    \ и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные знаменитым\
+    \ блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\nГруппу отличает\
+    \ большая любовь к редким, и оттого еще более притягательным песням разных авторов\
+    \ - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip James, Guy\
+    \ Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\n\r\nОдна\
+    \ из отличительных черт Magnet Vox - все песни в оригиналах игрались на гитаре,\
+    \ но были переаранжированы для фортепиано-соло (программа Тамары Оген \"Blues\
+    \ Mysteries\"). Впоследствии было решено обогатить их партиями баса и барабанов.\
+    \ \r\n\r\nВ процессе работы над песнями порой рождаются совершенно неожиданные\
+    \ решения ритмов, гармоний и мелодий. И это только радует: песни обретают второе\
+    \ дыхание, начинают играть другими гранями - и открывают еще больший простор для\
+    \ творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара,\
+    \ вокал\r\nСергей Чекмаренко - барабаны"
+- id: 75150
+  date: '2018-10-17'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Let's Rock Bar
+  city_id: 1
+- id: 75186
+  date: '2018-11-24'
+  time: '21:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Пумба бар
+  city_id: 1
+- id: 75218
+  date: '2018-11-23'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Виктория и Алберт - Трехгорный вал 14 с1
+  city_id: 1
+  price: бесплатный
+- id: 75226
+  date: '2018-11-16'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Бар Дичь / Фрязино
+  city_id: 1
+- id: 75151
+  date: '2018-11-23'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Коленки пчелы
+  city_id: 1
+- id: 75183
+  date: '2018-12-09'
+  time: '21:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Imagine
+  city_id: 1
+  price: бесплатный
+  comments: "Magnet Vox исполняет блюз и кантри разных эпох: и старый delta, и piedmont,\
+    \ и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные знаменитым\
+    \ блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\nГруппу отличает\
+    \ большая любовь к редким, и оттого еще более притягательным песням разных авторов\
+    \ - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip James, Guy\
+    \ Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\n\r\nОдна\
+    \ из отличительных черт Magnet Vox - все песни в оригиналах игрались на гитаре,\
+    \ но были переаранжированы для фортепиано-соло (программа Тамары Оген \"Blues\
+    \ Mysteries\"). Впоследствии было решено обогатить их партиями баса и барабанов.\
+    \ \r\n\r\nВ процессе работы над песнями порой рождаются совершенно неожиданные\
+    \ решения ритмов, гармоний и мелодий. И это только радует: песни обретают второе\
+    \ дыхание, начинают играть другими гранями - и открывают еще больший простор для\
+    \ творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара,\
+    \ вокал\r\nСергей Чекмаренко - барабаны"
+- id: 75220
+  date: '2018-11-24'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Чертаново
+  city_id: 1
+  price: бесплатный
+- id: 75222
+  date: '2018-12-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Ларионов Профсоюзная
+  city_id: 1
+  price: бесплатный
+- id: 75223
+  date: '2018-11-02'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Live Stars Club
+  city_id: 1
+- id: 75224
+  date: '2018-11-03'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Vikings MCC
+  city_id: 24
+- id: 75225
+  date: '2018-11-10'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Larionov Grill & Bar
+  city_id: 1
+- id: 75227
+  date: '2018-11-17'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Brownbar
+  city_id: 1
+- id: 75515
+  date: '2018-11-04'
+  time: '15:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Парк Сокольники
+  city_id: 1
+- id: 75564
+  date: '2018-12-28'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Ретро-кафе Ссср / Павловский посад
+  city_id: 1
+- id: 75565
+  date: '2018-12-22'
+  time: '23:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Old School Pub
+  city_id: 1
+- id: 75567
+  date: '2018-12-07'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Рыбачка Соня
+  city_id: 1
+- id: 75568
+  date: '2018-12-01'
+  time: '21:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Колбасофф на Симферопольском
+  city_id: 1
+- id: 75612
+  date: '2018-12-07'
+  time: '20:00'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_name: SiCaffe, Гороховая 2
+  city_id: 2
+  price: бесплатный
+- id: 75573
+  date: '2018-12-11'
+  time: '19:00'
+  band_name: Gregg-Kofi Brown (гитара, США) и Caribbean Jazz Report Алксандра Василевского
+    (Санкт-Петербург)
+  club_name: ДК Строитель
+  city_id: 140
+- id: 76172
+  date: '2018-12-15'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Hartong Pub
+  city_id: 86
+  price: бесплатно
+  comments: "15 декабря Boogie Child electric blues rock set  \r\nHARTONG PUB Beer&Food\
+    \ \r\nг. Белгород, пр-т Ватутина 5б \r\nhttps://vk.com/hartongpub начало в 22.00\
+    \ ,\r\nРезерв столов: (4722) 55-99-00  \r\nвход свободный кто будет в Белгороде\
+    \ заходите WELCOME"
+- id: 76176
+  date: '2018-12-23'
+  time: '16:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Усадьба "Архангельское"
+  city_id: 1
+- id: 76155
+  date: '2018-12-22'
+  time: '19:30'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Арт-Чердак
+  city_id: 1
+  comments: "Рисование картин под музыку.\r\n\r\nMagnet Vox исполняет блюз и кантри\
+    \ разных эпох: и старый delta, и piedmont, и блюз 50-х, и кантри 60-х, и совсем\
+    \ современные вещи, написанные знаменитым блюзменом Joe Bonamassa, аранжировщиком\
+    \ и гитаристом Vilray.\r\n\r\nГруппу отличает большая любовь к редким, и оттого\
+    \ еще более притягательным песням разных авторов - J.B.Lenoir, Stevie Ray Vaughan,\
+    \ Blind Blake, John Denver, Skip James, Guy Davis, Bob Dylan, Roy Rogers, Blind\
+    \ Willie McTell и многих других.\r\n\r\nОдна из отличительных черт Magnet Vox\
+    \ - все песни в оригиналах игрались на гитаре, но были переаранжированы для фортепиано-соло\
+    \ (программа Тамары Оген \"Blues Mysteries\"). Впоследствии было решено обогатить\
+    \ их партиями баса и барабанов. \r\n\r\nВ процессе работы над песнями порой рождаются\
+    \ совершенно неожиданные решения ритмов, гармоний и мелодий. И это только радует:\
+    \ песни обретают второе дыхание, начинают играть другими гранями - и открывают\
+    \ еще больший простор для творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\
+    \nВасилий Мотылец - бас-гитара, вокал\r\nСергей Чекмаренко - барабаны"
+- id: 76157
+  date: '2018-12-11'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Jack&Jane
+  city_id: 1
+- id: 76158
+  date: '2018-12-13'
+  time: '20:00'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Let's Rock Bar
+  city_id: 1
+- id: 76168
+  date: '2018-12-27'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_name: Оранжерея
+  city_id: 1
+  comments: "Magnet Vox исполняет блюз и кантри разных эпох: и старый delta, и piedmont,\
+    \ и блюз 50-х, и кантри 60-х, и совсем современные вещи, написанные знаменитым\
+    \ блюзменом Joe Bonamassa, аранжировщиком и гитаристом Vilray.\r\n\r\nГруппу отличает\
+    \ большая любовь к редким, и оттого еще более притягательным песням разных авторов\
+    \ - J.B.Lenoir, Stevie Ray Vaughan, Blind Blake, John Denver, Skip James, Guy\
+    \ Davis, Bob Dylan, Roy Rogers, Blind Willie McTell и многих других.\r\n\r\nОдна\
+    \ из отличительных черт Magnet Vox - все песни в оригиналах игрались на гитаре,\
+    \ но были переаранжированы для фортепиано-соло (программа Тамары Оген \"Blues\
+    \ Mysteries\"). Впоследствии было решено обогатить их партиями баса и барабанов.\
+    \ \r\n\r\nВ процессе работы над песнями порой рождаются совершенно неожиданные\
+    \ решения ритмов, гармоний и мелодий. И это только радует: песни обретают второе\
+    \ дыхание, начинают играть другими гранями - и открывают еще больший простор для\
+    \ творчества.\r\n\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара,\
+    \ вокал\r\nСергей Чекмаренко - барабаны"
+- id: 76179
+  date: '2018-12-22'
+  time: '15:30'
+  band_id: 744
+  band_name: Moscow Beatballs
+  band_token: moscow-beatballs
+  club_name: Усадьба "Архангельское"
+  city_id: 1
+- id: 76173
+  date: '2018-12-21'
+  time: '20:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Патрик Паб
+  city_id: 1
+  price: бесплатный
+  comments: "Boogie Child electric blues rock set в\r\nРесторан Патрик паб\r\n г.\
+    \ Люберцы торговый центр Светофор. Начало в 20.00 free \r\nhttps://vk.com/patrik_pub\
+    \ http://patrik.pub/stock.html"

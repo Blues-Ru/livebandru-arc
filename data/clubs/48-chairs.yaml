@@ -1,0 +1,31 @@
+id: 709
+token: 48-chairs
+name: 48 Chairs
+aliases: Jazz Bar 48 Chairs
+alive: true
+address: Рубинштейна, д. 5
+subway: Владимирская, Достоевская, Маяковская
+phone: +7(812)315-77-75, +7(921)387-70-85
+city_id: 2
+clips:
+- id: 4605
+  type: weblink
+  url: http://www.48chairs.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5450
+  type: photo
+  url: 48-chairs.jpg
+  sort_order: 0
+  width: 1503
+  height: 1024
+- id: 5451
+  type: photo
+  url: 48-chairs-2.jpg
+  sort_order: 100
+  width: 1503
+  height: 1024
+- id: 5452
+  type: youtube
+  url: http://www.youtube.com/?v=ZlhmOyNXMtM
+  sort_order: 99

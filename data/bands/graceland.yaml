@@ -1,0 +1,12 @@
+id: 235
+token: graceland
+name: Graceland
+alive: true
+city_id: 52
+genre_id: 16
+clips:
+- id: 728
+  type: weblink
+  url: http://www.realmusic.ru/graceland/
+  name: Страница на RealMusic
+  sort_order: 99

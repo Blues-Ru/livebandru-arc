@@ -1,0 +1,147 @@
+id: 272
+token: inna-world
+name: Inna World
+aliases: Инна Тудакова
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 2
+clips:
+- id: 1353
+  type: mp3
+  url: inna-world.mp3
+  name: My heart belongs to daddy
+  sort_order: 99
+- id: 1356
+  type: photo
+  url: inna-world.jpg
+  sort_order: 0
+  width: 600
+  height: 399
+- id: 1351
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 1357
+  type: photo
+  url: inna-world-2.jpg
+  sort_order: 100
+  width: 247
+  height: 370
+- id: 1358
+  type: photo
+  url: inna-world-3.jpg
+  sort_order: 50
+  width: 500
+  height: 750
+- id: 2257
+  type: youtube
+  url: http://www.youtube.com/?v=Ybtqv4U43lg
+  name: '"Ball And Chain"'
+  comments: Композиция Дженис Джоплин
+  sort_order: 499
+- id: 1354
+  type: mp3
+  url: inna-world-2.mp3
+  name: Jonny, wenn du Geburtstag hast
+  sort_order: 199
+- id: 1355
+  type: mp3
+  url: inna-world-3
+  name: I want a man
+  sort_order: 299
+- id: 2254
+  type: youtube
+  url: http://www.youtube.com/?v=b-Rr420OI3Q
+  name: '"Ain''t no sunshine"'
+  comments: Песня, задумчиво исполненная когда-то Bill Withers, и совершенно в другую
+    плоскость уведенную INNA WORLD...    Инна Тудакова -- вокал, Евгений Кудряшов
+    -- гитара, Арсений Колесник -- клавиши, Алексей
+  sort_order: 199
+- id: 2255
+  type: youtube
+  url: http://www.youtube.com/?v=7YUoKREhI7Q
+  name: '"These Foolish Things"'
+  comments: 'Композиция, которую мир XX века знал в исполнении легендарной Billie
+    Holiday.
+
+    INNA WORLD сыграли её так, как хочет мир сегодня.
+
+
+    INNA WORLD
+
+
+    Инна Тудакова -- вокал,
+
+    Евгений Кудряшов -- гитара,
+
+    Арсений'
+  sort_order: 299
+- id: 2256
+  type: youtube
+  url: http://www.youtube.com/?v=AvG7RwDrB9c
+  name: '"Джанис"'
+  comments: 'Блюз-посвящение Джанис Джоплин  Слова и музыка Е. Фроловой Аранжировка
+    И. Тудакова Музыканты: Синкин, Марченко, etc  ДЖАНИС  Джанис, научи меня Быть
+    как солнце, жечь как пламя, Джанис, научи'
+  sort_order: 399
+- id: 2258
+  type: youtube
+  url: http://www.youtube.com/?v=fbecj54QfAU
+  name: '"Shake a hand"'
+  comments: '"Shake a Hand" is a 1953 single written by trumpeter and bandleader Joe
+    Morris and originally performed by Faye Adams, whose version hit number one on
+    the R&B chart for nine weeks. == Что в переводе'
+  sort_order: 0
+- id: 2259
+  type: youtube
+  url: http://www.youtube.com/?v=89HR14NAj0U
+  name: '"Jardin d''hiver"'
+  sort_order: 599
+- id: 2261
+  type: weblink
+  url: http://www.youtube.com/innaworldproject
+  name: YouTube
+  sort_order: 100
+- id: 2262
+  type: weblink
+  url: http://www.facebook.com/pages/Inna-World/172157422829744
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 2263
+  type: weblink
+  url: http://vk.com/club13581391
+  name: Страница ВКонтакте
+  sort_order: 300
+reviews:
+- id: 43
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Проект "INNA WORLD" или Произнесите вслух
+  text: 'Проект "INNA WORLD" – винтажное путешествие в блюз. И произнося название
+    вслух, вы улавливаете, как имя солистки указывает на внутренний мир блюза – а
+    он нарративный, нервный, нюансный. Новая программа включает в себя кавер-версии
+    мировых хитов от 20-х до 90-х и собственные композиции.
+
+
+    "Inna World" – выразительный мир блюза, но не только. Для солистки проекта Инны
+    Тудаковой сегодня нет песен, которые невозможно спеть. После выхода двух альбомов
+    критики называли Инну "русской Пиаф и Дженис Джоплин", поражаясь заряженности
+    исполнения, а масс-медиа изящно писали, что у нее нет "ни пола, ни потолка", имея
+    в виду особую манеру исполнения "мужских" песен Вертинского и Петра Лещенко.
+
+
+    В новой программе рядом стоят джоплиновская "Ball and Chain" и блюз-посвящение
+    "Джанис", почти уже "ветхозаветная" холлидеевская "These Foolish Things" и зимний
+    французский шепоток от Henri Salvador, казалось бы, неожиданная здесь, пружинящая
+    "Say, say, say" Джексона/Маккартни и свежий винтажный блюз "Легко", от кокеровской
+    "Summer in the city" летят искры, а "Ain''t No Sunshine" так вообще никто никогда
+    не пел.
+
+
+    Несколько языков, жанровые переплетения – все это внешние проявления "Inna World",
+    внутренние можно уловить только сердцем.'
+  verified: false
+  created: '2010-10-01'
+  is_press_release: true

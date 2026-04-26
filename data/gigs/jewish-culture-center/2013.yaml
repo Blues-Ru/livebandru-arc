@@ -1,0 +1,48 @@
+- id: 33065
+  date: '2013-01-24'
+  time: '20:00'
+  band_name: Brilliant Jazz Club
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+- id: 33066
+  date: '2013-01-26'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 600 руб.
+  comments: Джаз-караоке
+- id: 34077
+  date: '2013-02-21'
+  time: '20:00'
+  band_name: Brilliant Jazz Club
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 2000-3000 руб.
+- id: 34078
+  date: '2013-02-24'
+  time: '20:00'
+  band_name: 'Джаз-гостиная "Импровизация нового века": GoaT''s NoteS'
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 300 руб.
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 34952
+  date: '2013-04-28'
+  time: '20:00'
+  band_name: 'Джаз-гостиная Михаила Митропольского, цикл "Импровизация нового века":
+    Leo Trio - Francois Carrier (альт-саксофон, Канада), Алексей Лапин (Санкт-Петербург,
+    рояль), Michael Lambert (ударные, Канада)'
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 500 руб.

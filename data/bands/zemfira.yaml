@@ -1,0 +1,13 @@
+id: 200
+token: zemfira
+name: Земфира
+alive: true
+url: http://www.zemfira.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 521
+  type: weblink
+  url: http://www.zemfira.ru/
+  name: Официальный сайт
+  sort_order: 0

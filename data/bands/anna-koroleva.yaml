@@ -1,0 +1,24 @@
+id: 161
+token: anna-koroleva
+name: Анна Королева и группа Jump
+aliases: 'Анна Королева
+
+  Анна Королева (вокал, саксофон) и Jump
+
+  Анна Королева (вокал, саксофон) и группа "Jump"'
+alive: true
+url: http://www.anna-koroleva.com
+city_id: 1
+genre_id: 2
+clips:
+- id: 248
+  type: weblink
+  url: http://www.anna-koroleva.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 2105
+  type: photo
+  url: anna-koroleva.jpg
+  sort_order: 0
+  width: 319
+  height: 468

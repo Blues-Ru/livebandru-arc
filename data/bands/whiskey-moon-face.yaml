@@ -1,0 +1,21 @@
+id: 693
+token: whiskey-moon-face
+name: Whiskey Moon Face
+alive: true
+city_id: 77
+genre_id: 2
+secondary_genre_id: 4
+musicians:
+- name: Louisa Jones
+  instruments: accordion, double bass, vocals
+- name: Dakota Jim
+  instruments: double bass, accordion, vocals
+- name: Ewan Bleach
+  instruments: clarinet, saxophone
+clips:
+- id: 6071
+  type: weblink
+  url: http://www.vk.com/whiskeymoonface
+  name: Страница ВКонтакте
+  comments: Whiskey Moon Face в России
+  sort_order: 99

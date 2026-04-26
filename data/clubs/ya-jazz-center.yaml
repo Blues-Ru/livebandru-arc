@@ -1,0 +1,19 @@
+id: 250
+token: ya-jazz-center
+name: Городской джазовый центр
+alive: true
+address: Ярославль, ул. Б. Октябрьская, 50
+phone: +7(4852)72-96-28
+city_id: 18
+clips:
+- id: 6082
+  type: weblink
+  url: http://www.vk.com/jazzcenter
+  name: Официальный сайт
+  sort_order: 0
+- id: 8691
+  type: photo
+  url: ya-jazz-center.jpg
+  sort_order: 0
+  width: 586
+  height: 604

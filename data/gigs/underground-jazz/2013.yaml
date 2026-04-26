@@ -1,0 +1,261 @@
+- id: 32850
+  date: '2013-01-02'
+  time: '20:00'
+  band_name: Даша Лайм (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 32851
+  date: '2013-01-03'
+  time: '20:00'
+  band_name: Алена Артеменко (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 32854
+  date: '2013-01-06'
+  time: '20:00'
+  band_name: Алена Артеменко (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 32855
+  date: '2013-01-07'
+  time: '20:00'
+  band_name: Даша Лайм (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 32564
+  date: '2013-01-23'
+  time: '20:00'
+  band_name: Grace Garland (вокал, Нью Йорк) и Александр Гуреев (саксофон, Москва)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32852
+  date: '2013-01-04'
+  time: '20:00'
+  band_name: Саша Клокова (вокал), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 32853
+  date: '2013-01-05'
+  time: '20:00'
+  band_name: Наталья Николаева (вокал), Владислав Сухих (саксофон), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 33432
+  date: '2013-01-27'
+  time: '20:00'
+  band_name: Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 33433
+  date: '2013-01-26'
+  time: '20:00'
+  band_name: Алена Артеменко (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 33434
+  date: '2013-01-25'
+  time: '20:00'
+  band_name: Даша Лайм (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 34066
+  date: '2013-02-17'
+  time: '20:00'
+  band_name: Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 34067
+  date: '2013-02-16'
+  time: '20:00'
+  band_name: Владислав Сухих (саксофон), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 34068
+  date: '2013-02-15'
+  time: '20:00'
+  band_name: Даша Лайм (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 34924
+  date: '2013-03-26'
+  time: '20:00'
+  band_name: 'Джаз-проект "In love" Россия-Германия: Алексей Подымкин (рояль, Москва),
+    Андрей Лобанов (труба, Германия), Ольга Юшкова (вокал, Новокузнецк), Дмитрий Аверчинков
+    (контрабас, Новосибирск), Евгений Суворов (ударные, Новосибирск)'
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 850 руб.
+- id: 35540
+  date: '2013-04-17'
+  time: '20:00'
+  band_name: Lisa Henry, Joel Holmes, Олег Бутман
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 35910
+  date: '2013-05-15'
+  time: '20:00'
+  band_name: Трио Томаса Зиффлинга (Германия)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 35911
+  date: '2013-04-27'
+  time: '20:00'
+  band_name: Саша Клокова (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 35912
+  date: '2013-04-28'
+  time: '19:00'
+  band_name: Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 36272
+  date: '2013-05-24'
+  time: '20:00'
+  band_name: Саша Клокова (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 36274
+  date: '2013-06-04'
+  time: '20:00'
+  band_name: Paulette McWilliams (вокал, США)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 36273
+  date: '2013-05-25'
+  time: '20:00'
+  band_name: Владислав Сухих (саксофон), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 38042
+  date: '2013-08-17'
+  time: '21:00'
+  band_name: Александра Клокова (вокал), Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 38091
+  date: '2013-09-10'
+  time: '20:00'
+  band_name: Bobby Harden (вокал, США)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 38394
+  date: '2013-09-07'
+  time: '20:00'
+  band_name: Сергей Старостин (Москва) с программой "Этногриль"
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: бесплатный
+- id: 38582
+  date: '2013-10-09'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 39172
+  date: '2013-10-13'
+  time: '20:00'
+  band_name: Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 39173
+  date: '2013-10-12'
+  time: '20:00'
+  band_name: Наталья Николаева (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 39174
+  date: '2013-11-13'
+  time: '20:00'
+  band_name: Two Siberians
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 850 руб.
+- id: 39175
+  date: '2013-11-14'
+  time: '20:00'
+  band_name: Джейсон Палмер (труба, США) и квартет Алексея Подымкина (Москва)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 39916
+  date: '2013-11-08'
+  time: '20:00'
+  band_name: Наталья Николаева (вокал), Алексей Пиоттух (контрабас), Евгений Миронов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 39917
+  date: '2013-11-09'
+  time: '20:00'
+  band_name: Светлана Попадуко (вокал), Алексей Пиоттух (контрабас), Георгий Фефелов
+    (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 39918
+  date: '2013-11-10'
+  time: '20:00'
+  band_name: Георгий Фефелов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 40290
+  date: '2013-12-04'
+  time: '20:00'
+  band_name: Carmen Bradford (вокал, США)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.

@@ -1,0 +1,14 @@
+id: 860
+token: teatr-ehstrady-im-arkadiya-rajkina
+name: Театр Эстрады им. Аркадия Райкина
+alive: true
+address: Санкт-Петербург, ул. Большая Конюшенная, 27
+subway: Невский проспект
+phone: +7(812)314-66-61
+city_id: 2
+clips:
+- id: 8070
+  type: weblink
+  url: http://estrada.spb.ru
+  name: Официальный сайт
+  sort_order: 0

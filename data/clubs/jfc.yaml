@@ -1,0 +1,50 @@
+id: 35
+token: jfc
+name: JFC Jazz Club
+aliases: JFC
+alive: true
+address: Шпалерная, 33
+subway: Чернышевская
+phone: (812) 272-9850
+city_id: 2
+clips:
+- id: 184
+  type: weblink
+  url: http://jfc-club.spb.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2787
+  type: photo
+  url: jfc.jpg
+  sort_order: 0
+  width: 1024
+  height: 682
+- id: 2789
+  type: photo
+  url: jfc-2.jpg
+  sort_order: 100
+  width: 1024
+  height: 682
+- id: 2788
+  type: youtube
+  url: http://www.youtube.com/?v=v6rruO1f9Nc
+  name: JAZZ PHIL JFC JAZ CLUB
+  comments: концерт в JFC Jazz Club 31.07.2011Филипп Мещеряков -- контрабас, бас-гитараМаксим
+    Некрасов -- губная гармоникаГеннадий Рубцов -- гитараАлександр Алексеев -- клавишные,
+    фортепианоАлександр По
+  sort_order: 99
+- id: 2790
+  type: photo
+  url: jfc-3.jpg
+  name: А.Кондаков ELECTRIC PROJECT
+  sort_order: 200
+  width: 1024
+  height: 682
+reviews:
+- id: 249
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  verified: true
+  created: '2011-11-01'
+  is_press_release: true

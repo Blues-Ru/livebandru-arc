@@ -1,0 +1,14 @@
+id: 360
+token: old-europe
+name: Старая Европа
+alive: true
+address: Кржижановского, 24/35, корп. 3
+subway: Профсоюзная
+phone: (499) 124-86-44
+city_id: 1
+clips:
+- id: 1349
+  type: weblink
+  url: http://www.evrostar.ru/
+  name: Официальный сайт
+  sort_order: 0

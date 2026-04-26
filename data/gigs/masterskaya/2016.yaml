@@ -1,0 +1,107 @@
+- id: 59382
+  date: '2016-06-07'
+  time: '21:00'
+  band_name: Квартет Ивана Барышникова
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  comments: Иван Барышников - саксофон, Анатолий Корчагин - клавишные, Роман Плотников
+    - контрабас, Антон Кузнецов - ударные инструменты
+- id: 59383
+  date: '2016-06-09'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 59384
+  date: '2016-06-10'
+  time: '21:00'
+  band_name: Sig trio
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  comments: Зиг - фортепиано, виолончель, Виктор Пивторыпавло - ударные, перкуссия,
+    Павел Протасов - контрабас
+- id: 59385
+  date: '2016-06-11'
+  time: '21:00'
+  band_name: Jose Moryan & Live band
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 59387
+  date: '2016-06-15'
+  time: '21:00'
+  band_name: Квартет Ивана Барышникова
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  comments: Иван Барышников - саксофон, Анатолий Корчагин - клавишные, Роман Плотников
+    - контрабас, Антон Кузнецов - ударные инструменты
+- id: 59389
+  date: '2016-06-17'
+  time: '20:00'
+  band_name: Cotton Air
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 59391
+  date: '2016-06-23'
+  time: '21:00'
+  band_name: Надя Алексеева и Bairro do sol
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 59392
+  date: '2016-06-24'
+  time: '21:00'
+  band_name: New Quartet Ильи Зырянова
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  comments: Юрий Севастьянов - тенор саксофон, Илья Зырянов - гитара, Алексей Беккер
+    - барабаны, Олег Фомин - контрабас
+- id: 59386
+  date: '2016-06-12'
+  time: '21:00'
+  band_name: Anatoly Ice, Felix Lahuti, Iskra
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 59388
+  date: '2016-06-22'
+  time: '21:00'
+  band_name: Квартет Ивана Барышникова
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  comments: Иван Барышников - саксофон, Анатолий Корчагин - клавишные, Роман Плотников
+    - контрабас, Антон Кузнецов - ударные инструменты
+- id: 59390
+  date: '2016-06-17'
+  time: '22:00'
+  band_name: Неправильные пчелы
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: бесплатный
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 60589
+  date: '2016-09-09'
+  time: '20:00'
+  band_name: '30-летие подпольного джазового журнала "Дело": Ансамбль Московских Композиторов
+    п/у Андрея Соловьева; Трио Антона Пономарева'
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: бесплатный

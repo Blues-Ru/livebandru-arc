@@ -1,0 +1,18 @@
+id: 285
+token: thecrypt
+name: The Crypt
+alive: true
+address: Abu Gosh village center, outdoors under  the Crusader church
+phone: 054-6407144
+city_id: 47
+clips:
+- id: 807
+  type: weblink
+  url: http://www.facebook.com/Abu.Gosh.Festival
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 808
+  type: weblink
+  url: http://www.agfestival.co.il/?id=712
+  name: Официальный сайт
+  sort_order: 199

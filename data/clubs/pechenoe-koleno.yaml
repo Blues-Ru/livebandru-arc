@@ -1,0 +1,17 @@
+id: 645
+token: pechenoe-koleno
+name: Печеное колено
+alive: true
+address: 8 марта, 40 корп 1-2
+phone: (3532) 431-531
+city_id: 96
+clips:
+- id: 3851
+  type: weblink
+  url: http://vk.com/club32186076
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 3852
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

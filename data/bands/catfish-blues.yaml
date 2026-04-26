@@ -1,0 +1,21 @@
+id: 436
+token: catfish-blues
+name: Catfish Blues
+alive: true
+city_id: 36
+genre_id: 1
+musicians:
+- name: Александр Щеглов
+  instruments: гитара, вокал
+clips:
+- id: 2063
+  type: weblink
+  url: http://vk.com/club16370371
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2064
+  type: photo
+  url: catfish-blues.jpg
+  sort_order: 0
+  width: 200
+  height: 142

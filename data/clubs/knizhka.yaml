@@ -1,0 +1,13 @@
+id: 245
+token: knizhka
+name: Книжка
+alive: true
+address: Мира, 14
+phone: 279-98-89
+city_id: 37
+clips:
+- id: 562
+  type: weblink
+  url: http://www.knizka.ru/
+  name: Официальный сайт
+  sort_order: 0

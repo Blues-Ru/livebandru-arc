@@ -1,0 +1,22 @@
+id: 685
+token: honky-tonk-road-house
+name: Honky Tonk Road House
+aliases: Honky Tonk Roadhouse
+alive: true
+address: 1-й Угрешский проезд,10
+city_id: 1
+clips:
+- id: 4309
+  type: weblink
+  url: http://www.facebook.com/pages/Honky-Tonk-Road-House/221855811234303
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 4310
+  type: weblink
+  url: http://vk.com/club46955622
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 4311
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,93 @@
+id: 671
+token: jon-amor
+name: Jon Amor
+aliases: The Hoax, Amor, Jon Amor Blues Group
+alive: true
+url: http://jonamor.tumblr.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Jon Amor
+  instruments: guitar/vocals
+- name: Алексей Сечкин
+  instruments: клавишные
+- name: Денис Назаров
+  instruments: бас-гитара
+- name: Данила Ленци
+  instruments: ударные
+- name: Михаил Данилов
+  instruments: перкуссия, гармоника, слайд-гитара
+clips:
+- id: 5942
+  type: photo
+  url: jon-amor.jpg
+  sort_order: 0
+  width: 500
+  height: 500
+- id: 5941
+  type: weblink
+  url: http://jonamor.tumblr.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 9821
+  type: youtube
+  url: https://www.youtube.com/watch?v=2rZ3jwTPeAc
+  name: Jon Amor - The Devils Back Yard
+  comments: "Promotional Music Video \r\nProduced by Cumbria Film Collective"
+  sort_order: 100
+- id: 9820
+  type: youtube
+  url: https://www.youtube.com/watch?v=JjYEllbJSBU
+  name: JON AMOR - "Red Telephone" Music Video
+  comments: 'Official music video for "Red Telephone", a brand new song by Jon Amor,
+    from the album "Colour In The Sky":
+
+    https://jonamor.bandcamp.com/album/colour-in-the-sky
+
+
+    Filmed & Edited by David Doherty, Octo'
+  sort_order: 0
+reviews:
+- id: 414
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Jon Amor - Гулливер Британского блюз-рока
+  text: 'Двухметровый Jon Amor - один из ведущих британских блюз-роковых гитаристов
+    последних 20-25 лет. Неоднократный номинат и обладатель British Blues Awards в
+    нескольких номинациях.
+
+
+    Он - лидер группы The Hoax, лидер двух своих side-проектов AMOR и Jon Amor Blues
+    Group, а последние пять лет - еще и участник новой блюз-роковой супер-группы The
+    Boom Band, организованной зимой 2013/14 года при участии его друзей гитаристов
+    Маркуса Бонфанти, Мэтта Тэйлора, клавишника Падди Милнера и еще ряда звездных
+    музыкантов. The Boom Band в 2014 году выпустил одноименный студийный альбом, в
+    том числе и лимитрованный релиз на виниле, и получил несколько номинаций на British
+    Blues Awards. Ежегодно накануне Рождества проект давал несколько аншлаговых концертов
+    в Британии, причем первый концерт в легендарном лондонском клубе HalfMoon Putney
+    был записан и издан на альбоме The Moon Goes Boom, а в предновогоднем концерте
+    The Boom Band принимали участие в качестве специальных гостей легенды британского
+    ритм-блюза Ван Моррисон, Уилко Джонсон и Пол Джонс.
+
+
+    В активе у Джона Эймора несколько альбомов, записанных в составе The Hoax, включая
+    последний 2013 года, за который он был номинирован на British Blues Awards 2014
+    в трех номинациях - как лучший гитрист, лучшая группа и лучший сонг-райтер, плюс
+    пять сольных альбомов и неисчислимое множество альбомов, в которых он принял участие
+    в качестве специального гостя или сессионного музыканта.
+
+
+    Его стилю присущи в равной степени и пулеметная скорострельность соло, и чеканные
+    риффы, и тонкий лиризм.
+
+
+    Впервые Джон Эймор приезжал в Росиию летом 2014 года и отыграл несколько концертов
+    в Москве и Ст.Петербурге.
+
+
+    Второй тур Эймора в России состоялся с 24 по 28 апреля 2019 года.'
+  verified: true
+  created: '2014-07-24'
+  is_press_release: true

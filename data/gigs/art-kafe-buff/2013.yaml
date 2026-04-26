@@ -1,0 +1,46 @@
+- id: 36062
+  date: '2013-05-26'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 633
+  club_name: Арт-кафе Буфф
+  club_token: art-kafe-buff
+  price: 350 руб.
+- id: 38359
+  date: '2013-09-15'
+  time: '21:00'
+  band_name: Бал свинговой музыки. Большой Джазовый Оркестр п/у Петра Востокова
+  club_id: 633
+  club_name: Арт-кафе Буфф
+  club_token: art-kafe-buff
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 39093
+  date: '2013-10-27'
+  time: '20:00'
+  band_name: 'Бал свинговой музыки: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 633
+  club_name: Арт-кафе Буфф
+  club_token: art-kafe-buff
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 39781
+  date: '2013-11-30'
+  time: '20:00'
+  band_name: 'Большой Джазовый Оркестр п/у Петра Востокова: бал свинговой музыки'
+  club_id: 633
+  club_name: Арт-кафе Буфф
+  club_token: art-kafe-buff
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo

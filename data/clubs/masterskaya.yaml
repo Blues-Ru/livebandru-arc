@@ -1,0 +1,17 @@
+id: 174
+token: masterskaya
+name: Мастерская
+aliases: 'Клуб-театр "Мастерская"
+
+  Театр и клуб "Мастерская"'
+alive: true
+address: Пушечная ул., д. 4
+subway: Лубянка, Театральная
+phone: +7(495)621-90-43
+city_id: 1
+clips:
+- id: 165
+  type: weblink
+  url: http://www.mstrsk.ru/
+  name: Официальный сайт
+  sort_order: 0

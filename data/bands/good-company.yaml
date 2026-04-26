@@ -1,0 +1,14 @@
+id: 557
+token: good-company
+name: Good Company
+alive: true
+url: http://www.thegoodcompany.ru
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 2909
+  type: weblink
+  url: http://www.thegoodcompany.ru
+  name: Официальный сайт
+  sort_order: 0

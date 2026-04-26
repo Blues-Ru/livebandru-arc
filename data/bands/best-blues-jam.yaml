@@ -1,0 +1,116 @@
+id: 577
+token: best-blues-jam
+name: Best Blues Jam
+alive: true
+url: http://www.cafeblues.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Михаил Кистанов
+  instruments: гитара, вокал
+- name: Ксения Федулова
+  instruments: гитара, вокал
+- name: Анна Парагис
+  instruments: вокал
+- name: Влад Бабанов
+  instruments: вокал
+- name: Евгений Кудряшов
+  instruments: гитара, вокал
+- name: Сергей Спицин
+  instruments: бас
+- name: Кирилл Степурко
+  instruments: ударные
+- name: специальные гости
+  instruments: все
+clips:
+- id: 3409
+  type: weblink
+  url: http://www.cafeblues.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3412
+  type: weblink
+  url: http://vk.com/bestbluesjam
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 3413
+  type: youtube
+  url: http://www.youtube.com/?v=SaFE8mfpln8
+  name: Best Blues Jam каждую среду в Кафе Блюз
+  comments: "Каждую среду на сцене Кафе БЛЮЗ (На Кантемировской) новая вечеринка Best\
+    \ Blues Jam. Начало в 20-00. Вход БЕСПЛАТНЫЙ!\r\nhttp://vkontakte.ru/bestbluesjam\r\
+    \nhttp://www.bassguru.ru \r\nhttp://www.cafeblues.ru"
+  sort_order: 99
+- id: 3414
+  type: youtube
+  url: http://www.youtube.com/?v=Fuo50iZ5jrM
+  name: BEST BLUES JAM - Валерий "Индеец" Сеткин - Sweet Home Allabama
+  comments: 'Валерий "Индеец" Сеткин - клавишные, вокал
+
+    Михаил Кистанов - гитара
+
+    Сергей Спицын - бас
+
+    Андрей Приставка - ударные'
+  sort_order: 199
+- id: 3415
+  type: youtube
+  url: http://www.youtube.com/?v=LkwhLMBmunw
+  name: Rocksteady - Karmen Moxie - Вечеринка BEST BLUES JAM
+  comments: 'каждую среду Вечеринка BEST BLUES JAM с участием лучших музыкантов Москвы
+
+    Добро пожаловать!
+
+
+    http://vk.com/bestbluesjam
+
+    Karmen Moxie - вокал
+
+    Михаил Кистанов - гитара
+
+    Павел Семилетков - гитара
+
+    Сергей С'
+  sort_order: 299
+- id: 3417
+  type: photo
+  url: best-blues-jam.jpg
+  sort_order: 0
+  width: 700
+  height: 1000
+- id: 3416
+  type: youtube
+  url: http://www.youtube.com/?v=IzpprGB4up4
+  name: Денис Мажуков - Whole Lotta Shakin' Going On (Вечеринка Best Blues Jam)
+  comments: 'Денис Мажуков - клавишные, вокал
+
+    Михаил Кистанов - гитара
+
+    Сергей Спицын - бас
+
+    Владимир Воеводин - ударные'
+  sort_order: 399
+reviews:
+- id: 296
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Best Blues Jam - это грандиозный еженедельный фестиваль живой музыки. Основой
+    Best Blues Jam являются лучшие молодые блюзовые музыканты Москвы, к которым в
+    качестве специальных гостей присоединяются настоящие звезды и мастера жанра. Во
+    время концерта на сцене создаются новые группы и рождаются интереснейшие музыкальные
+    идеи. Уникальной особенностью Best Blues Jam является возможность лично пообщаться
+    с музыкантами, что создаст у вас ощущение полноправного участия в действии.
+
+
+    Каждую среду мы с нетерпением ждем вас!
+
+
+    Начало в 20-00. Вход СВОБОДНЫЙ!
+
+
+    М. Кантемировская, Пролетарский пр-т, дом 20, строение 1. Тел.: 325-71-11'
+  verified: true
+  created: '2012-05-28'
+  is_press_release: true

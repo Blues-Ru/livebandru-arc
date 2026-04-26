@@ -1,0 +1,18 @@
+id: 35
+token: boris-bulkin
+name: Борис Булкин Бэнд
+aliases: Борис Булкин
+alive: false
+url: http://www.borisbulkin.com/
+city_id: 1
+genre_id: 1
+references:
+- id: 4
+  name: Stainless Blues Band
+  token: stainless
+clips:
+- id: 384
+  type: weblink
+  url: http://www.borisbulkin.com/
+  name: Официальный сайт
+  sort_order: 0

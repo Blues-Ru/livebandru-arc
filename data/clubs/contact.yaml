@@ -1,0 +1,15 @@
+id: 151
+token: contact
+name: Контакт
+alive: true
+address: ул. Новорязанская, 26 стр. 1
+subway: Комсомольская, Бауманская
+phone: (495) 228-0305
+city_id: 1
+comments: В одном здании с магазином "Копейка"
+clips:
+- id: 91
+  type: weblink
+  url: http://www.rcontact.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,71 @@
+id: 247
+token: barrocade
+name: The Barrocade Ensemble
+aliases: Barrocade
+alive: true
+url: http://www.barrocade.co.il
+city_id: 20
+genre_id: 4
+musicians:
+- name: Amit Tiefenbrunn
+  instruments: Viola da Gamba
+- name: Boaz Berney
+  instruments: Traverso
+- name: Shlomit Sivan
+  instruments: Baroque Violin
+- name: Yizhar Karshon
+  instruments: Harpsichord
+- name: Yacob Reuven
+  instruments: Mandoline
+- name: Eitan Hoffer
+  instruments: Theorbo & Lute
+- name: Ye'ela Avital
+  instruments: Soprano
+- name: Alexandra Polin
+  instruments: Viola da Gamba
+- name: Kimberly Reine
+  instruments: Traverso
+- name: Alon Portal
+  instruments: Double Bass
+- name: Katya Polin
+  instruments: Recorder & Viola
+- name: Yasuko Hirata
+  instruments: Baroque Violin
+clips:
+- id: 798
+  type: weblink
+  url: http://www.haaretz.com/culture/arts-leisure/soundbox-fiddler-on-the-move-1.284994
+  name: Haarets
+  sort_order: 99
+- id: 799
+  type: weblink
+  url: http://www.barrocade.co.il/
+  name: Официальный сайт
+  sort_order: 199
+- id: 800
+  type: weblink
+  url: http://www.facebook.com/pages/Barrocade/172692931183#!/pages/Barrocade/172692931183?v=app_2344061033
+  name: Страница на FaceBook
+  sort_order: 299
+- id: 803
+  type: youtube
+  url: http://www.youtube.com/?v=T3MM7vA1p4g
+  sort_order: 0
+- id: 805
+  type: youtube
+  url: http://www.youtube.com/?v=n--upe5VZ7w
+  name: Keren Hadar - Nonsense Songs
+  sort_order: 200
+- id: 802
+  type: weblink
+  url: http://www.myspace.com/barrocade
+  name: Страница на MySpace
+  sort_order: 399
+- id: 804
+  type: youtube
+  url: http://www.youtube.com/?v=1oNReA9NiH8
+  name: Folksongs - Luciano Berio - Keren Hadar
+  comments: 'Soprano: Keren Hadar; Flute: Amy Braun; Clarinet: Ilan Schul; Viola:
+    Petra Whale; Cello: Yoed Nir; Harp: Steven Fitzpatrick; Percussion: Karen Phenpimon-Zehavi,
+    Chen Zimbalista; Vocal advisor: Dorit A'
+  sort_order: 100

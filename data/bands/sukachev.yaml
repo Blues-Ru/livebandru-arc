@@ -1,0 +1,28 @@
+id: 242
+token: sukachev
+name: Гарик Сукачев
+aliases: 'Гарик Сукачев и Неприкасаемые
+
+  Неприкасаемые'
+alive: true
+url: http://www.neprikasaemye.ru
+city_id: 1
+genre_id: 3
+clips:
+- id: 755
+  type: weblink
+  url: http://www.neprikasaemye.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 756
+  type: photo
+  url: sukachev.jpg
+  name: Гарик Сукачев
+  sort_order: 0
+  width: 800
+  height: 1168
+- id: 758
+  type: weblink
+  url: http://www.neprikasaemye.ru/main.shtm
+  name: Старый сайт
+  sort_order: 199

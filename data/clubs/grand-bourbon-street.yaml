@@ -1,0 +1,14 @@
+id: 554
+token: grand-bourbon-street
+name: Grand Bourbon Street
+alive: true
+address: Потаповский пер., 5, стр.2
+subway: Чистые пруды, Тургеневская
+phone: (495) 223-10-98
+city_id: 1
+clips:
+- id: 3003
+  type: weblink
+  url: http://www.grand-bourbon.ru/
+  name: Официальный сайт
+  sort_order: 0

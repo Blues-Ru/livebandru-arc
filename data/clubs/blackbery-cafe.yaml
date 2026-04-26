@@ -1,0 +1,14 @@
+id: 621
+token: blackbery-cafe
+name: BlackBery cafe
+alive: true
+address: просп. Академика Сахарова, 10
+subway: Сретегский Бульвар, Тургеневская, Красные Ворота
+phone: +7 (495) 926-16-40
+city_id: 1
+clips:
+- id: 3570
+  type: weblink
+  url: http://www.ginzaproject.ru
+  name: Официальный сайт
+  sort_order: 0

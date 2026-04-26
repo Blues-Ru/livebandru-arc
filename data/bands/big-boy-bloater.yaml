@@ -1,0 +1,102 @@
+id: 769
+token: big-boy-bloater
+name: Big Boy Bloater
+aliases: Big Boy Bloater and the Limits
+alive: true
+url: http://www.bigboybloater.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Big Boy Bloater
+  instruments: guitar, vocal
+- name: Роман Площенко
+  instruments: бас-гитара
+- name: Егор Горкин
+  instruments: барабаны
+clips:
+- id: 9343
+  type: weblink
+  url: http://www.bigboybloater.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 9346
+  type: youtube
+  url: https://www.youtube.com/watch?v=4yawUjmbj84
+  name: Big Boy Bloater & The LiMiTs - Friday Night's Alright For Drinking
+  comments: '? The album "Pills" is out now on CD and limited edition vinyl. Get it
+    from http://smarturl.it/BBB-OnlineStore"Every single line in this song refers
+    to something that''s happened to me where I live,'
+  sort_order: 199
+- id: 9347
+  type: youtube
+  url: https://www.youtube.com/watch?v=vSXij501EjM
+  name: Big Boy Bloater & The LiMiTs - Luxury Hobo Blues
+  comments: "Official Lyric Video for Big Boy Bloater & The LiMiTs' 'Luxury Hobo Blues'\
+    \ from their debut on Provogue \"Luxury Hobo\". \n\nOrder your copy on CD or Vinyl\
+    \ here: http://www.mascotlabelgroup.com/big-boy-bl"
+  sort_order: 149
+- id: 9348
+  type: photo
+  url: big-boy-bloater.jpg
+  sort_order: 0
+  width: 960
+  height: 960
+- id: 9345
+  type: youtube
+  url: https://www.youtube.com/watch?v=FlHEAavAd6A
+  name: Big Boy Bloater & The LiMiTs - Pills
+  sort_order: 99
+reviews:
+- id: 500
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '"Один из величайших блюзменов современности" Джулз Холланд, ВВС
+
+
+    "Я - фанат Биг Боя Блоатера. Харизматичный парень с мощным голосом!" Имельда Мэй
+
+
+    "Лучший ритм-н-блюзовый гитарист и певец Британии" The Blues Magazine
+
+
+    Биг Бой Блоатер - британский гитарист, певец, автор песен, радиоведущий и актер.
+    Возможно, назвать блюзового музыканта "умным" - не самое точное определение, но,
+    в случае с Биг Боем Блоатером, это не преувеличение - в его песнях все "по-умному"
+    - нет избитой 12-тактовой прогрессии, нет безумных попыток затмить Стиви Рей Вона,
+    и нет этих пошлых "без твой любви, детка..." Напротив, его кажущиеся простыми
+    песни, основанные на блюзе, совсем не так просты. Они хирургически точны в аранжировках,
+    содержат добрую порцию и ритм-н-блюза, и рокабилли, и сайкобилли, и даже соула,
+    сдобрены глэмом, пауэр-попом и "южняком". Тексты его ироничных песен, хотя и крутятся
+    вокруг вечных тем типа безденежья, неустроенности и любовных/семейных драм, разительно
+    отличаются от усредненной банальной блюзовой баллады и частенько поднимаются до
+    высокой поэзии, отражая реальную жизнь в двадцать первом веке.
+
+
+    Взяв в руки гитару в начале 80-х, во времена засилья новой волны и зарождения
+    ''новой волны британского хэви-метал'', он начал играть свою музыку, основанную
+    на любви к корневому блюзу и ритм-блюзу, причем играть настолько по-своему, чем
+    довольно скоро удивил и критиков, и корифеев жанра. С начала 90-х Блоатер постоянно
+    гастролирует по Британии, Штатам и Континентальной Европе, регулярно играет с
+    грандами блюза и ритм-блюза на крупнейших фестивалях и резидентно играет в популярных
+    клубах Лондона с собственной командой the Limits или сольно, как one-man band
+    show. Его шоу всегда подкупают позитивной энергией и ненавязчивой подачей, а сам
+    он - неотразимой харизмой, искренностью, самоиронией и добродушием. Его голос
+    сравнивали с Хаулин'' Вулфом и Томом Уэйтсом, и по результатам голосования читателей
+    журнала Тhe Blues Magazine в 2016 году в списке "Тhe top 100 ''Best Blues Voices
+    of All Time" Блоатер занял 87-ю строчку. Как радио ведущий, Биг Бой Блоатер представлял
+    еженедельную программу The Blues Magazine Show на Team Rock Radio.
+
+
+    Вместе с the Limits и сольно выпустил более десяти альбомов. Последний альбом
+    2018 года Pills, как и предыдущий Luxury Hobo 2016 года, плотно ротировались на
+    радио, занимая верхние строчки в рейтинге IBBA, и принесли Блоатеру заслуженные
+    номинации на British Blues Awards.
+
+
+    В свой первый приезд в Россию в середине марта 2019 года Биг Бой Блоатер привезет
+    плотный сет из лучших песен - в программе блюз, блюз-рок, ритм-н-блюз и соул.'
+  verified: true
+  created: '2018-12-21'
+  is_press_release: true

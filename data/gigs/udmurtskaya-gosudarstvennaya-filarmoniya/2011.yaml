@@ -1,0 +1,31 @@
+- id: 23195
+  date: '2011-11-24'
+  time: '19:00'
+  band_name: 'Игорь Бутман@50: Биг-бэнд Игоря Бутмана и Аллан Харрис (вокал, США)'
+  club_id: 532
+  club_name: Удмуртская государственная филармония
+  club_token: udmurtskaya-gosudarstvennaya-filarmoniya
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 23196
+  date: '2011-11-25'
+  time: '19:00'
+  band_name: I remember Joe Zawinul (Джаз Бас Театр Алекса Ростоцкого)
+  club_id: 532
+  club_name: Удмуртская государственная филармония
+  club_token: udmurtskaya-gosudarstvennaya-filarmoniya
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 23197
+  date: '2011-11-26'
+  time: '19:00'
+  band_name: Moscow Art Trio
+  club_id: 532
+  club_name: Удмуртская государственная филармония
+  club_token: udmurtskaya-gosudarstvennaya-filarmoniya
+  comments: Михаил Альперин (рояль, мелодика), Аркадий Шилклопер (валторна, флюгельгорн,
+    альпийский рог), Сергей Старостин (вокал, кларнет, духовые народные инструменты)

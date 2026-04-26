@@ -1,0 +1,128 @@
+id: 392
+token: jw-jones
+name: JW-Jones
+aliases: JW Jones
+alive: true
+url: http://www.jw-jones.com/
+genre_id: 1
+musicians:
+- name: JW-Jones
+  instruments: гитара, вокал
+clips:
+- id: 1778
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=2385434206
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 1771
+  type: weblink
+  url: http://www.jw-jones.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1772
+  type: youtube
+  url: http://www.youtube.com/?v=NuIfTn89lcY
+  name: JW Jones Promo Video
+  sort_order: 99
+- id: 1773
+  type: youtube
+  url: http://www.youtube.com/?v=0YdRKuHbYm0
+  name: JW-Jones - Off The Market (live)
+  comments: JW-Jones live at Rainbow Bistro, Ottawa, ON - Canada  May 1, 2010
+  sort_order: 499
+- id: 1774
+  type: youtube
+  url: http://www.youtube.com/?v=ZNiaLt9O9Xw
+  name: JW Jones with guest John Nemeth - Blue Broadway
+  sort_order: 299
+- id: 1776
+  type: photo
+  url: jw-jones-2.jpg
+  name: JW-Jones
+  sort_order: 0
+  width: 1728
+  height: 1576
+- id: 1777
+  type: weblink
+  url: http://twitter.com/jwjonesblues
+  name: Твиттер @jwjonesblues
+  sort_order: 100
+- id: 1793
+  type: youtube
+  url: http://www.youtube.com/?v=0OmX8z8aRJ0
+  name: JW-Jones featuring Little Charlie Baty - Real Gone Lover - Sep 2009
+  comments: Blues at the Beach Festival - Virginia Beach, VA, USA  - September 12,
+    2009
+  sort_order: 399
+- id: 1794
+  type: youtube
+  url: http://www.youtube.com/?v=8Qp3fVPg8oI
+  name: JW-Jones - Howlin' with Hubert (live)
+  comments: JW-Jones live at Rainbow Bistro, Ottawa, ON - Canada  May 1, 2010
+  sort_order: 599
+- id: 1775
+  type: photo
+  url: jw-jones.jpg
+  sort_order: 99
+  width: 1524
+  height: 1524
+reviews:
+- id: 113
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: 16-19 марта 2011 - гастроли JW-Jones в Москве!
+  text: 'Один из самых лучших блюзменов Канады, гитарист и вокалист JW-Jones приезжает
+    в Россию!
+
+
+    Jones представит песни с последнего альбома "Midnight Memphis Sun", а также новые
+    композиции, которые можно услышать только на его живых выступлениях. JW Jones
+    активно выступает по всему миру (Штаты, Европа, Австралия и Бразилия) , зрители
+    давно признали его шоу одним из наиболее энергичных и впечатляющих на блюзовой
+    сцене.
+
+
+    JW-Jones выступал совместно со многими блюзовыми звездами современности (The Fabulous
+    Thunderbirds, Little Charlie & The Nightcats, Rod Piazza, Anson Funderburgh with
+    Sam Myers, The Mannish Boys и легендарным Hubert Sumlin).
+
+
+    Один из Братьев Блюз, известный актер и пропагандист блюза, Dan Aykroyd после
+    выступления вместе с группой JW-Jones сказал: "Изумительная группа, я играл с
+    лучшими!"
+
+
+    На новом диске JW-Jones "Midnight Memphis Sun", вышедшем в 2010 году, в качестве
+    специальных гостей записались такие признанные легенды блюза как Hubert Sumlin
+    и Charlie Musselwhite. На предыдущих дисках в качестве гостей сыграли David ''Fathead''
+    Newman (саксофонист Ray Charles), Little Charlie Baty, Junior Watson, Colin James
+    и Kim Wilson, который также был продюсером диска "My Kind of Evil" в 2004ом году.
+
+
+    В 2009 году, один из главных гитарных журналов "Guitar World Magazine" выпустил
+    диск "Guitar Masters Vol. 2", на котором Jones оказался в компании таких артистов
+    как B.B. King, Jimmy Page, Jeff Beck, Carlos Santana.
+
+
+    Группа JW-Jones получила национальную канадскую награду the Maple Blues Award
+    за "Лучший концерт электрического блюза". В этом году Jones получил награду Blues411
+    в номинации "Лучший блюзовый вокалист".
+
+
+    <a href="http://www.jw-jones.com">www.jw-jones.com</a>
+
+
+    В середине марта JW-Jones впервые доберется до России и даст умопомрачительные
+    концерты вместе с группой <a href="http://www.bluescats.ru">"The Jumping Cats"</a>.
+
+
+    "The Jumping Cats" - одна из наиболее ярких российских блюзовых групп. Они неоднократно
+    выступали на международных и российских фестивалях и аккомпанировали западным
+    музыкантам в российских турах.
+
+
+    <a href="http://www.bluescats.ru">www.bluescats.ru</a>'
+  verified: true
+  created: '2011-03-01'
+  is_press_release: true

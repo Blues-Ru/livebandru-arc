@@ -1,0 +1,30 @@
+id: 108
+token: mazhukov-blokhin
+name: Денис Мажуков и Алексей Блохин - "Два Рояля"
+alive: true
+url: http://www.mazhukov.ru/
+city_id: 1
+genre_id: 8
+references:
+- id: 12
+  name: Денис Мажуков и Off Beat
+  token: offbeat
+- id: 80
+  name: Lex & Team
+  token: lex-n-team
+clips:
+- id: 54
+  type: weblink
+  url: http://www.mazhukov.ru/
+  name: Сайт Дениса Мажукова
+  sort_order: 0
+- id: 55
+  type: weblink
+  url: http://www.offbeat.ru
+  name: Сайт группы Off Beat
+  sort_order: 100
+- id: 56
+  type: weblink
+  url: http://www.lexmusic.su
+  name: Сайт Алексея Блохина
+  sort_order: 200

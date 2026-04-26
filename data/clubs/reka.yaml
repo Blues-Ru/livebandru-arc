@@ -1,0 +1,14 @@
+id: 691
+token: reka
+name: Река
+alive: true
+address: Бересневская 6 стр.2
+subway: Полянка, Третьяковская
+phone: +7(495)669-99-69
+city_id: 1
+clips:
+- id: 4318
+  type: weblink
+  url: http://www.rekaclub.ru
+  name: Официальный сайт
+  sort_order: 0

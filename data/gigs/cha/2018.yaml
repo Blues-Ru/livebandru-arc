@@ -1,0 +1,176 @@
+- id: 70443
+  date: '2018-02-16'
+  time: '19:00'
+  band_name: Леван Ломидзе - 25 лет группе "Blues Cousins"
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000 руб.
+  comments: "16 февраля 2018 года в рамках музыкального фестиваля \"АРТ-Атмосфера\"\
+    \ в московском Центральном Доме Художника состоится юбилейный концерт гитариста-виртуоза\
+    \ Левана Ломидзе и лучшей блюзовой команды \"Blues Cousins\".\r\n\r\nДва часа\
+    \ блюзовые музыканты, покорившие многие площадки России, США и Европы будут дарить\
+    \ зрителям драйв и позитив блюз-рока.\r\n\r\nЛеван Ломидзе - блюзовый самородок,\
+    \ первый гитарист из России, получивший признание на родине блюза. По результатам\
+    \ опроса слушателей на \"Открытом Радио\" Леван Ломидзе единогласно был признан\
+    \ лучшим российским блюзовым музыкантом.\r\n\r\nМаргарита Пушкина, \"Московский\
+    \ Комсмолец\": \"Леван Ломидзе со своим Blues Cousins буквально всех поставили\
+    \ на уши, это было самое горячее выступление!\"\r\n\r\nLloyd Peterson, президент\
+    \ фестиваля Mount Baker Blues: \"Меня чуть не сдуло от энергетики, исходящей со\
+    \ сцены, во время выступления Blues Cousins!\"\r\n\r\nТех, кто хочет ощутить настоящую\
+    \ блюзовую энергетику ЦДХ приглашает на юбилейный концерт Левана Ломидзе 16 февраля\
+    \ в 19.00."
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 71073
+  date: '2018-02-28'
+  time: '19:30'
+  band_id: 664
+  band_name: Ben Poole
+  band_token: ben-poole
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 70444
+  date: '2018-02-07'
+  time: '19:30'
+  band_id: 741
+  band_name: Mike Ross
+  band_token: mike-ross
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 71588
+  date: '2018-04-04'
+  time: '19:30'
+  band_id: 743
+  band_name: Richard Townend
+  band_token: richard-townend
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 71541
+  date: '2018-03-14'
+  time: '19:30'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 72144
+  date: '2018-04-18'
+  time: '19:30'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1500-2000
+- id: 72262
+  date: '2018-05-23'
+  time: '19:30'
+  band_id: 674
+  band_name: Tony Remy
+  band_token: tony-remy
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1500-2000
+- id: 72265
+  date: '2018-05-09'
+  time: '19:30'
+  band_id: 761
+  band_name: William James Mead
+  band_token: william-james-mead
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 73111
+  date: '2018-06-06'
+  time: '19:30'
+  band_id: 690
+  band_name: Rosco Levee
+  band_token: rosco-levee
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 74217
+  date: '2018-08-29'
+  time: '19:30'
+  band_id: 670
+  band_name: Will Wilde
+  band_token: will-wilde
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 74289
+  date: '2018-09-12'
+  time: '19:30'
+  band_id: 742
+  band_name: Matthew Long
+  band_token: matthew-long
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 75158
+  date: '2018-10-30'
+  time: '19:30'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 75525
+  date: '2018-11-13'
+  time: '19:30'
+  band_id: 765
+  band_name: Matt Pearce
+  band_token: matt-pearce
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 75557
+  date: '2018-11-28'
+  time: '19:30'
+  band_id: 764
+  band_name: Troy Redfern
+  band_token: troy-redfern
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 75560
+  date: '2018-12-04'
+  time: '19:30'
+  band_id: 745
+  band_name: Ash Wilson
+  band_token: ash-wilson
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500
+- id: 76146
+  date: '2018-12-11'
+  time: '19:30'
+  band_id: 767
+  band_name: Owen Houlston
+  band_token: owen-houlston
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-2500

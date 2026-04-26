@@ -1,0 +1,24 @@
+id: 157
+token: jimi
+name: Jimi
+alive: true
+address: Протопоповский пер., дом 3
+subway: Проспект Мира
+phone: (967) 053-18-88
+city_id: 1
+clips:
+- id: 114
+  type: weblink
+  url: http://www.jimiclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 7148
+  type: weblink
+  url: http://vk.com/jimiclub
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 7149
+  type: weblink
+  url: https://www.facebook.com/clubjimi
+  name: Страница на FaceBook
+  sort_order: 200

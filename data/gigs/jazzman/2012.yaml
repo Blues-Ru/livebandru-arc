@@ -1,0 +1,125 @@
+- id: 30425
+  date: '2012-10-11'
+  time: '20:30'
+  band_name: Jimmy C & The Boneshakers
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+- id: 30860
+  date: '2012-12-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 300 руб.
+- id: 31713
+  date: '2012-12-08'
+  time: '21:00'
+  band_name: Stone Shades - The Rolling Stones Tribute
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 350 руб.
+- id: 31620
+  date: '2012-11-15'
+  time: '21:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 250 руб.
+- id: 31621
+  date: '2012-11-16'
+  time: '21:00'
+  band_name: гкчп - Red-hot-chili-peppers tribute
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 350 руб.
+- id: 31622
+  date: '2012-11-17'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 350 руб.
+- id: 31706
+  date: '2012-11-22'
+  time: '21:00'
+  band_name: отменен
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 31707
+  date: '2012-11-23'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: бесплатный
+- id: 31708
+  date: '2012-11-24'
+  time: '21:00'
+  band_id: 334
+  band_name: Павел Козлов & Alright Band
+  band_token: pavel-kozlov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: бесплатный
+- id: 31709
+  date: '2012-11-29'
+  time: '21:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: бесплатный
+- id: 31710
+  date: '2012-11-30'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: бесплатный
+- id: 31711
+  date: '2012-12-01'
+  time: '21:00'
+  band_name: Тоннель - Santana Tribute Show
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: бесплатный
+- id: 31712
+  date: '2012-12-06'
+  time: '21:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 250 руб.

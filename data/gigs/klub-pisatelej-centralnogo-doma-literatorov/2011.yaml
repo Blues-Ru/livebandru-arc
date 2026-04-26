@@ -1,0 +1,13 @@
+- id: 22046
+  date: '2011-10-12'
+  time: '19:00'
+  band_name: Биг-бэнд Георгия Гараняна, ансамбль "Мелодия" и Алексей Кузнецов (гитара)
+  club_id: 503
+  club_name: Клуб писателей Центрального Дома Литераторов
+  club_token: klub-pisatelej-centralnogo-doma-literatorov
+  price: 750 руб.
+  comments: Большой зал
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov

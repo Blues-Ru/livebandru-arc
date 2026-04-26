@@ -1,0 +1,19 @@
+id: 272
+token: koleso
+name: Колесо
+alive: true
+address: Гайдара, 4/1
+phone: (8182) 20-97-99, 20-67-84
+city_id: 51
+comments: http://vkontakte.ru/clubkoleso
+clips:
+- id: 720
+  type: weblink
+  url: http://www.arkoleso.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 721
+  type: weblink
+  url: http://vk.com/club1332608
+  name: Страница ВКонтакте
+  sort_order: 199

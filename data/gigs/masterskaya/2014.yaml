@@ -1,0 +1,146 @@
+- id: 41157
+  date: '2014-01-04'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 43030
+  date: '2014-04-05'
+  time: '22:00'
+  band_name: Александр Соловьев
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 43462
+  date: '2014-05-12'
+  time: '20:00'
+  band_name: Accordi Disaccordi (Италия)
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 44096
+  date: '2014-05-18'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 44172
+  date: '2014-05-21'
+  time: '21:00'
+  band_name: Nikolay Moiseenko Project
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 45518
+  date: '2014-08-14'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 45235
+  date: '2014-07-12'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 500 руб.
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 45268
+  date: '2014-07-29'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 46054
+  date: '2014-09-12'
+  time: '21:00'
+  band_name: 'Leo Records Festival: фолк-сешн с участием Евгения и Анастасии Маслобоевых,
+    "Арт Ансамбля", специальные гости вечера - солисты Ансамбля Дмитрия Покровского,
+    Янник Барман (Швейцария)'
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 46419
+  date: '2014-10-07'
+  time: '20:00'
+  band_id: 693
+  band_name: Whiskey Moon Face
+  band_token: whiskey-moon-face
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 46568
+  date: '2014-10-02'
+  time: '21:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 46843
+  date: '2014-09-30'
+  time: '21:00'
+  band_name: 'HorsePower: Николай Моисеенко, Антон Хабибулин, Сергей Гейер, Петр Ившин'
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 47212
+  date: '2014-10-22'
+  time: '20:00'
+  band_id: 694
+  band_name: М-АРТель
+  band_token: m-artel
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+  comments: 22-го октября на сцене московского клуба Мастерская творческая группа
+    М-Артель представит джаз-панк сюиту "Озорные панкушки". Это абсолютно уникальное
+    и безумное по своей смелости явление, цепляющее до глубины души всех тех, кто
+    по-настоящему любит Музыку. Музыканты из М-Артель не боятся экспериментировать
+    - они круто месят барокко, джаз и ска с истинно панковской искренностью и непосредственностью.
+    Новая программа войдет в третий концептуальный альбом группы, включая композиции
+    'Озорные панкушки', 'Похороны окурка', 'Про похмелье' и 'Один день из жизни кота
+    Василия'. Веселье, игра воображения и никакого джазового снобизма! Успейте услышать
+    это первыми.
+- id: 47976
+  date: '2014-11-23'
+  time: '21:00'
+  band_name: Jazzator и Максимилиан Гроссенбахер
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 600 руб.
+- id: 47978
+  date: '2014-11-20'
+  time: '21:00'
+  band_name: 'Джазовый вечер: Евдокия Лерер и...'
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 350 руб.

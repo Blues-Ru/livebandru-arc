@@ -1,0 +1,118 @@
+id: 567
+token: jazz-dance-orchestra
+name: Jazz Dance Orchestra
+alive: true
+url: http://jazzdanceorchestra.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 6
+clips:
+- id: 3165
+  type: youtube
+  url: http://www.youtube.com/user/jazzdanceorchestra
+  comments: Официальный канал на Youtube
+  sort_order: 99
+- id: 3166
+  type: rss
+  url: http://vk.com/club11866962
+  name: ВКонтакте
+  sort_order: 99
+- id: 3167
+  type: rss
+  url: https://twitter.com/jazzdancerus
+  name: Twitter
+  sort_order: 199
+- id: 3168
+  type: rss
+  url: http://www.facebook.com/pages/Jazz-Dance-Orchestra-Official/
+  name: Facebook
+  sort_order: 299
+- id: 3169
+  type: rss
+  url: http://soundcloud.com/nurgaleeva
+  name: Soundcloud
+  sort_order: 399
+- id: 3170
+  type: mp3
+  url: allthatshewantsjdo.mp3
+  name: All that she wants
+  sort_order: 99
+- id: 3171
+  type: mp3
+  url: jazz-dance-orchestra.mp3
+  name: Relax
+  sort_order: 199
+- id: 3172
+  type: mp3
+  url: jazz-dance-orchestra-2.mp3
+  name: Brother Louie
+  sort_order: 299
+- id: 3158
+  type: weblink
+  url: http://jazzdanceorchestra.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3173
+  type: photo
+  url: jazz-dance-orchestra.jpg
+  sort_order: 0
+  width: 3456
+  height: 2304
+- id: 3174
+  type: photo
+  url: jazz-dance-orchestra-2.jpg
+  sort_order: 100
+  width: 750
+  height: 499
+- id: 3175
+  type: photo
+  url: jazz-dance-orchestra-3.jpg
+  sort_order: 200
+  width: 807
+  height: 537
+- id: 3176
+  type: photo
+  url: jazz-dance-orchestra-4.jpg
+  sort_order: 300
+  width: 900
+  height: 600
+- id: 3177
+  type: photo
+  url: jazz-dance-orchestra-5.jpg
+  sort_order: 400
+  width: 4288
+  height: 2848
+reviews:
+- id: 271
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Участники фестивалей "Усадьба.Джаз" в Архангельском, Джаз в саду Эрмитаж,
+    Lady in Jazz, ВДОХ, Jazz Dance Orchestra - наш ответ Palast Orchester, Nouvelle
+    Vague и Карен Соуза; они фактически совершили своего рода революцию в российской
+    джазовой культуре, поставив перед собой нелегкую задачу - приучить тех, кто привык
+    к поп-музыке, полюбить именно джаз.
+
+
+    Следуя традициям Пола Анки и Макса Раабе, Jazz Dance Orchestra со вкусом вплетают
+    популярные мотивы песен Стинга, Moloko, Рианны, Black Eyed Peas, Майкла Джексона
+    и Мики в джазовое полотно, да так, что некоторые приевшиеся хиты звучат ничуть
+    не хуже и уж точно свежее оригинала.
+
+
+    Jazz Dance Orchestra не ограничивает себя рамками: традиционный джаз, свинг, фанк,
+    лаунж, русские народные песни, классическая музыка - кажется, что им под силу
+    все. В музыкальных экспериментах коллектива любят принимать участие такие звезды
+    как Игорь Бутман, а сам коллектив регулярно принимает участие в ведущих телевизионных
+    шоу, к примеру, в "ПрожекторПэрисХилтон" на Первом канале они стали практически
+    резидентами.
+
+
+    Тысячи скачиваний на различных ресурсах в сети Интернет - чем не подтверждение
+    успеха Jazz Dance Orchestra? Причем многие Интернет-пользователи даже не предполагают,
+    что это - российский коллектив, играющий в лучших западных традициях. Сейчас Jazz
+    Dance Orchestra активно работают над записью нового альбома, куда войдут авторские
+    композиции, а также любимые слушателями хиты, по-новому аранжированные.'
+  verified: true
+  created: '2012-02-02'
+  is_press_release: true

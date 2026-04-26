@@ -1,0 +1,21 @@
+id: 175
+token: music-town
+name: Music Town
+aliases: 'Music Town Club
+
+  Мьюзик Таун'
+alive: false
+address: Каланчевская, 33
+subway: Комсомольская
+phone: (495) 937-5419
+city_id: 1
+clips:
+- id: 178
+  type: weblink
+  url: http://www.musictownclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1746
+  type: rss
+  url: http://music-town.livejournal.com/data/rss
+  sort_order: 99

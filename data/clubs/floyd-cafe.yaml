@@ -1,0 +1,14 @@
+id: 154
+token: floyd-cafe
+name: Floyd Cafe
+alive: true
+address: Садовая-Каретная 4-6, стр. 1
+subway: Маяковская
+phone: +7-495-9680738
+city_id: 1
+clips:
+- id: 100
+  type: weblink
+  url: http://www.floydcafe.ru
+  name: Официальный сайт
+  sort_order: 0

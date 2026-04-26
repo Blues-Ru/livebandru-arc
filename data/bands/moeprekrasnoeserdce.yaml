@@ -1,0 +1,53 @@
+id: 343
+token: moeprekrasnoeserdce
+name: Мое прекрасное сердце
+aliases: 'МПС
+
+  М.П.С.'
+alive: true
+url: http://moeprekrasnoeserdce.ru/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 6
+musicians:
+- name: Василий Сущиков
+  instruments: вокал, тексты
+- name: Юрий Крылов
+  instruments: гитара
+- name: Михаил Дмитриев
+  instruments: бас, вокал
+- name: Максим несмашный
+  instruments: ударные
+clips:
+- id: 1364
+  type: weblink
+  url: http://www.myspace.com/moeprekrasnoeserdce
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1365
+  type: weblink
+  url: http://vk.com/club8143364
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 1366
+  type: weblink
+  url: http://moeprekrasnoeserdce.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1369
+  type: mp3
+  url: moeprekrasnoeserdce.mp3
+  name: Мое прекрасное сердце - Ты любишь нас (синий-синий)
+  sort_order: 99
+- id: 2868
+  type: youtube
+  url: http://www.youtube.com/?v=amYlRkZ4Z8s
+  name: Мое прекрасное сердце - Мальчики и девочки
+  comments: выступление группы в BlurCafe 17.08.2011
+  sort_order: 99
+- id: 2869
+  type: youtube
+  url: http://www.youtube.com/?v=AitcTv5R5vk
+  name: Мое прекрасное сердце - Ты любишь нас
+  comments: выступление группы в BlurCafe 17.08.2011
+  sort_order: 199

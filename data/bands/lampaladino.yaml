@@ -1,0 +1,227 @@
+id: 542
+token: lampaladino
+name: Лампа Ladino
+alive: true
+url: http://lampaladino.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 11
+musicians:
+- name: Петр Талалай
+  instruments: барабаны
+- name: Светлана Свирина
+  instruments: вокал
+- name: Григорий Сандомирский
+  instruments: фортепиано, орган, мелодика, голос
+- name: Мария Логофет
+  instruments: скрипка
+- name: Алексей Андреев
+  instruments: гитара
+- name: Дмитрий Игнатов
+  instruments: бас
+- name: Иракли Чоладзе
+  instruments: барабаны
+- name: Илья Вилков
+  instruments: тромбон
+references:
+- id: 502
+  name: Живые Люди
+  token: livepeople
+- id: 541
+  name: Priot Ensemble
+  token: priot
+- id: 546
+  name: Goat's Notes
+  token: goatsnotes
+clips:
+- id: 2668
+  type: weblink
+  url: http://lampaladino.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2702
+  type: youtube
+  url: http://www.youtube.com/?v=EpouiERhpSU
+  name: Лампа Ladino - Rahel Lastimosa (live at bilingua 17-05-11)
+  comments: '‎Лампа Ladino - Rahel Lastimosa (live at bilingua 17-05-11)
+
+
+    Musicians:
+
+    Sveta Svirina - vocal
+
+    Maria Logofet - violin
+
+    Aleksey Andreev - guitar
+
+    Andrey Bessonov - clarinet
+
+    Dmitriy Ignatov - bass
+
+    Gregory '
+  sort_order: 0
+- id: 2703
+  type: youtube
+  url: http://www.youtube.com/?v=h8jSfr0C3L0
+  name: Лампа Ladino - La Komida La Manyana
+  comments: 'Лампа Ladino - La Komida La Manyana (live at bilingua 17-05-11)
+
+
+    Musicians:
+
+    Sveta Svirina - vocal
+
+    Maria Logofet - violin
+
+    Aleksey Andreev - guitar
+
+    Andrey Bessonov - clarinet
+
+    Dmitriy Ignatov - bass
+
+    Greg'
+  sort_order: 100
+- id: 2704
+  type: youtube
+  url: http://www.youtube.com/?v=XUhsr0Ye_9w
+  name: Лампа Ladino - Day De Senar
+  comments: 'Лампа Ladino - Day De Senar (live at bilingua 17-05-11)
+
+
+    Musicians:
+
+    Sveta Svirina - vocal
+
+    Maria Logofet - violin
+
+    Aleksey Andreev - guitar
+
+    Andrey Bessonov - clarinet
+
+    Dmitriy Ignatov - bass
+
+    Gregory Sand'
+  sort_order: 200
+- id: 2705
+  type: youtube
+  url: http://www.youtube.com/?v=UIRPVV8sxBs
+  name: Лампа Ladino - Una Tarde De Enverano
+  comments: 'Лампа Ladino - Una Tarde De Enverano (live at bilingua 17-05-11)
+
+
+    Musicians:
+
+    Sveta Svirina - vocal
+
+    Maria Logofet - violin
+
+    Aleksey Andreev - guitar
+
+    Andrey Bessonov - clarinet
+
+    Dmitriy Ignatov - bass
+
+    Gre'
+  sort_order: 300
+- id: 2706
+  type: youtube
+  url: http://www.youtube.com/?v=zM4WhcG2Mh0
+  name: Песня о Зорне/Kantiga Del Zorn
+  comments: "Лампа Ladino - Песня о Зорне/Kantiga Del Zorn (live at bilingua 17-05-11)\r\
+    \ncomp&arr - G. Sandomirsky & Lampa Ladino\r\n\r\nMusicians:\r\nSveta Svirina\
+    \ - vocal\r\nMaria Logofet - violin\r\nAleksey Andreev - guit"
+  sort_order: 400
+- id: 2707
+  type: weblink
+  url: http://www.myspace.com/lampaladino
+  name: Страница на MySpace
+  sort_order: 100
+- id: 2708
+  type: weblink
+  url: http://www.facebook.com/pages/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0-Ladino/219543064735759
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 2710
+  type: mp3
+  url: 01-LaKomidaLaManyana.mp3
+  name: La Komida La Manyana
+  sort_order: 0
+- id: 2715
+  type: photo
+  url: lampaladino.jpg
+  sort_order: 0
+  width: 1121
+  height: 900
+- id: 2716
+  type: photo
+  url: lampaladino-2.jpg
+  sort_order: 100
+  width: 1174
+  height: 831
+- id: 2717
+  type: photo
+  url: lampaladino-3.jpg
+  sort_order: 200
+  width: 1441
+  height: 961
+- id: 2718
+  type: photo
+  url: lampaladino-4.jpg
+  sort_order: 300
+  width: 1216
+  height: 875
+- id: 2719
+  type: photo
+  url: lampaladino-5.jpg
+  sort_order: 50
+  width: 1267
+  height: 862
+- id: 2712
+  type: mp3
+  url: 06-MeEstasMirando.mp3
+  name: Me Estas Mirando
+  sort_order: 100
+- id: 2713
+  type: mp3
+  url: 07-UnaTardeDeEnverano.mp3
+  name: Una Tarde De Enverano
+  sort_order: 200
+- id: 2714
+  type: mp3
+  url: 02-AvreTuPuertaSerada.mp3
+  name: Avre Tu Puerta Serada
+  sort_order: 300
+- id: 2709
+  type: weblink
+  url: http://vk.com/club2217309
+  name: Страница ВКонтакте
+  sort_order: 300
+- id: 3518
+  type: youtube
+  url: http://www.youtube.com/?v=eOO3gGMlG_4
+  name: Morena Me Yaman
+  comments: Лампа Ladino Live@Mstrsk.RU Mar 15 2012Sveta Svirina - vocalMasha Logofet
+    - violinAleksey Andreev - guitarIlya VilkOv - tromboneGregory Sandomirsky - keyboardsDmitry
+    Ignatov - bassIrakly Chola
+  sort_order: 50
+- id: 3519
+  type: youtube
+  url: http://www.youtube.com/?v=j-qGHCwcJAs
+  name: Si La Mar Era De Leche
+  comments: 'Лампа Ladino Live@Mstrsk.RU Mar 15 2012
+
+
+    Sveta Svirina - vocal
+
+    Masha Logofet - violin
+
+    Aleksey Andreev - guitar
+
+    Ilya VilkOv - trombone
+
+    Gregory Sandomirsky - keyboards
+
+    Dmitry Ignatov - bass
+
+    Irakly Chola'
+  sort_order: 75

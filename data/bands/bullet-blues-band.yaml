@@ -1,0 +1,154 @@
+id: 139
+token: bullet-blues-band
+name: Bullet Blues Band
+alive: true
+city_id: 14
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Олег Лаврик
+  instruments: вокал, гитара
+- name: Константин Тихонов
+  instruments: бас гитара, вокал
+- name: Константин Колесниченко
+  instruments: губная гармоника
+- name: Сергей Иванов
+  instruments: барабаны
+clips:
+- id: 155
+  type: youtube
+  url: http://www.youtube.com/?v=bcLnsupWj7A
+  name: Crossroads Blues
+  comments: Клуб "Бомба" Днепропетровск
+  sort_order: 500
+- id: 156
+  type: youtube
+  url: http://www.youtube.com/?v=B05aYTx7o_U
+  name: Stormy Monday
+  comments: Арт-центр "Квартира" Днепропетровск
+  sort_order: 25
+- id: 157
+  type: photo
+  url: 1.jpg
+  sort_order: 99
+  width: 600
+  height: 399
+- id: 3384
+  type: youtube
+  url: http://www.youtube.com/?v=BcN3fIbXEBA
+  name: Jammin' Bluezzz - 2010. Bullet Blues Band
+  comments: '"Jammin'' Bluezzz - 2010" Запорожье'
+  sort_order: 400
+- id: 3385
+  type: youtube
+  url: http://www.youtube.com/?v=h9agaw5cZyc
+  name: Little Rocker
+  comments: фестиваль "Бочка-блюз" Киев
+  sort_order: 350
+- id: 3379
+  type: photo
+  url: bullet-blues-band.jpg
+  sort_order: 199
+  width: 604
+  height: 402
+- id: 3380
+  type: photo
+  url: bullet-blues-band-2.jpg
+  sort_order: 299
+  width: 604
+  height: 403
+- id: 3381
+  type: photo
+  url: bullet-blues-band-3.jpg
+  sort_order: 399
+  width: 604
+  height: 402
+- id: 3382
+  type: photo
+  url: bullet-blues-band-4.jpg
+  sort_order: 499
+  width: 402
+  height: 604
+- id: 3383
+  type: photo
+  url: bullet-blues-band-5.jpg
+  sort_order: 599
+  width: 402
+  height: 604
+- id: 3375
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 3376
+  type: youtube
+  url: http://www.youtube.com/?v=3n2taKJuB3k
+  name: Нарезка-демо
+  comments: Клуб "Коттон Бар" Днепропетровск
+  sort_order: 50
+- id: 3377
+  type: youtube
+  url: http://www.youtube.com/?v=1pM2zY47xko
+  name: Be bop a lula
+  comments: Клуб "Портер" Киев
+  sort_order: 0
+- id: 3378
+  type: youtube
+  url: http://www.youtube.com/?v=xZ3qO5ugTaw
+  name: Stand By Me
+  comments: Клуб "Портер" Киев
+  sort_order: 300
+- id: 4794
+  type: youtube
+  url: http://www.youtube.com/?v=3pMYNdpyg8E
+  name: Блюз харп шоу 2009
+  comments: 'участники: Макс Таврический, Андрей Рахнин, Михаил Приз, Дмитрий Кирюхин,
+    Александр Кудинов, Константин Колесниченко, Константин Тихонов, Лаврик Олег, Илья
+    Гомола, Леонид Терехов, Стас Матвеев'
+  sort_order: 600
+- id: 5615
+  type: youtube
+  url: https://www.youtube.com/watch?v=hkx6d34Hg2I
+  name: Bullet Blues Band - Steady Rollin Man
+  sort_order: 800
+- id: 5616
+  type: youtube
+  url: https://www.youtube.com/watch?v=RiRVZ6p9SPs
+  name: Bullet Blues Band - My Baby
+  sort_order: 900
+- id: 5617
+  type: youtube
+  url: https://www.youtube.com/watch?v=7YDz-mPHSpw
+  name: Bullet Blues Band - Last Fair Deal
+  sort_order: 1000
+- id: 5618
+  type: youtube
+  url: http://www.youtube.com/?v=EdlVs9MZ0xY
+  name: Bullet Blues Band - Demo
+  comments: ''
+  sort_order: 13
+- id: 5614
+  type: youtube
+  url: https://www.youtube.com/watch?v=yugd2Ifu4uQ
+  name: Bullet Blues Band - From Four Till Late
+  sort_order: 700
+reviews:
+- id: 291
+  reviewer_id: 5
+  reviewer_name: Константин Колесниченко
+  reviewer_token: konstantin-kolesnichenko
+  header: О группе
+  text: 'Группа Bullet Blues Band начала свое существование более 7 лет назад в городе
+    Днепропетровске. И с первым концертом "Буллеты" выступили на первом днепропетровском
+    фестивале-джеме блюза и гармоники в Коттон Баре (г. Днепропетровск) в 2008 году.
+    Далее ребята постепенно, но уверено зарабатывали себе репутацию, выступая в разных
+    городах Украины (Киев, Запорожье, Миргород, Кременчуг, Мелитополь, Бердянск и
+    др) и всевозможных фестивалях (Киев "Бочка-блюз фестиваль", дважды на Jammin Bluez
+    в Запорожье, Первый Украинский Международный Фестиваль Губной гармоники, "Дырокол"
+    и др). В послужном списке группы уйма концертов вместе с другими замечательными
+    блюзовыми исполнителями: Макс Таврический, Кит Данн, Гай Дэвис, Мишурис Блюз Бенд,
+    Hobot & Co, Max Vatutin Trio, Ivan Blues, Умка и др. Каждый концерт группы - это
+    отличная возможность окунуться в атмосферу классики блюза и заряд положительных
+    эмоций.'
+  verified: true
+  created: '2012-05-15'
+  is_press_release: false

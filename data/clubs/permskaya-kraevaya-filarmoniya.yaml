@@ -1,0 +1,20 @@
+id: 538
+token: permskaya-kraevaya-filarmoniya
+name: Пермская краевая филармония
+alive: true
+address: Сибирская, 11; Ленина, 51 б (органный концертный зал)
+phone: +7(342) 231-5100, 237-5717
+city_id: 33
+comments: Ленина, 51 б (органный концертный зал)
+clips:
+- id: 2885
+  type: weblink
+  url: http://filarmonia.perm.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2886
+  type: photo
+  url: permskaya-kraevaya-filarmoniya.jpg
+  sort_order: 0
+  width: 283
+  height: 212

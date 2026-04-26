@@ -1,0 +1,871 @@
+- id: 18508
+  date: '2011-04-28'
+  time: '20:30'
+  band_name: Финал "Усадьбы Джаз"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18509
+  date: '2011-04-29'
+  time: '20:30'
+  band_name: Трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18510
+  date: '2011-04-30'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18511
+  date: '2011-05-05'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18512
+  date: '2011-05-06'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 18513
+  date: '2011-05-12'
+  time: '20:30'
+  band_name: Orchestra 2.0
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18514
+  date: '2011-05-13'
+  time: '20:30'
+  band_id: 366
+  band_name: Роман Мирошниченко
+  band_token: roman-miro
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18515
+  date: '2011-05-14'
+  time: '20:30'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18516
+  date: '2011-05-19'
+  time: '20:30'
+  band_name: Impulse Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 18517
+  date: '2011-05-21'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19275
+  date: '2011-05-20'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19805
+  date: '2011-05-26'
+  time: '20:30'
+  band_name: Группа Александра Довгополого, Квартет Ивана Фармаковского
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 19816
+  date: '2011-05-27'
+  time: '20:30'
+  band_name: Кристина Аглинц, Квартет Владимира Нестеренко
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+- id: 19916
+  date: '2011-06-02'
+  time: '20:30'
+  band_name: Ирина Родилес, Алина Ростоцкая, Полина Зизак и трио Эдуарда Зизака
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+  - id: 469
+    name: Трио Эдуарда Зизака
+    token: zizak-trio
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 19917
+  date: '2011-06-03'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19920
+  date: '2011-06-10'
+  time: '20:30'
+  band_name: Алексей Козлов и "Новый Арсенал"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 19922
+  date: '2011-06-16'
+  time: '20:30'
+  band_name: Ирина Родилес, Алина Ростоцкая, Полина Зизак и трио Эдуарда Зизака
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 469
+    name: Трио Эдуарда Зизака
+    token: zizak-trio
+- id: 19923
+  date: '2011-06-17'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 19925
+  date: '2011-06-23'
+  time: '20:30'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19927
+  date: '2011-06-25'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19928
+  date: '2011-06-30'
+  time: '20:30'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19830
+  date: '2011-05-28'
+  time: '20:30'
+  band_name: Группа Константина Сафьянова, Marimba Plus
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19918
+  date: '2011-06-04'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 19919
+  date: '2011-06-09'
+  time: '20:30'
+  band_id: 466
+  band_name: Sergio Brandao, Андрей Кондаков, Эдуард Зизак
+  band_token: kondakov-brandao-zizak
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 19921
+  date: '2011-06-11'
+  time: '20:30'
+  band_name: Кристина Аглинц и ее трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+- id: 19926
+  date: '2011-06-24'
+  time: '20:30'
+  band_id: 462
+  band_name: Квартет Александра Довгополого
+  band_token: kvartet-adovgopologo
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 20318
+  date: '2011-06-18'
+  time: '20:30'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21272
+  date: '2011-09-09'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21273
+  date: '2011-09-17'
+  time: '20:30'
+  band_id: 536
+  band_name: Трио Михаила Окуня
+  band_token: trio-mikhaila-okunya
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21584
+  date: '2011-09-21'
+  time: '20:30'
+  band_name: Александр Осейчук (саксофон) и "Зеленая волна"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 20685
+  date: '2011-07-07'
+  time: '20:30'
+  band_name: Александр Довгополый и Vision of Sound
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 434
+    name: Vision Of Sound
+    token: vision-of-sound
+- id: 20687
+  date: '2011-07-14'
+  time: '20:30'
+  band_id: 366
+  band_name: Роман Мирошниченко
+  band_token: roman-miro
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 20684
+  date: '2011-07-02'
+  time: '20:30'
+  band_name: Анастасия Глазкова, Владимир Нестеренко
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  comments: "Серия \"Диалоги\"\r\nАнастасия Глазкова (вокал), Владимир Нестеренко\
+    \ (рояль)"
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 20692
+  date: '2011-07-28'
+  time: '20:30'
+  band_name: Ирина Родилес, Яков Окунь
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  comments: "Серия \"Диалоги\"\r\nИрина Родилес (вокал), Яков Окунь (рояль)"
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 20693
+  date: '2011-07-29'
+  time: '20:30'
+  band_name: Сабина Вартанова, Владимир Капырин
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  comments: "Серия \"Диалоги\"\r\nСабина Вартанова (вокал), Владимир Капырин (рояль)"
+  extra_bands:
+  - id: 134
+    name: Сабина Вартанова
+    token: sabina
+- id: 20683
+  date: '2011-07-01'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 20686
+  date: '2011-07-08'
+  time: '20:30'
+  band_name: Brianna Thomas и Трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 20688
+  date: '2011-07-15'
+  time: '20:30'
+  band_name: Brianna Thomas и Трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 20690
+  date: '2011-07-21'
+  time: '20:30'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 20689
+  date: '2011-07-16'
+  time: '20:30'
+  band_name: Кристина Аглинц, Юрий Погиба
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  comments: "Серия \"Диалоги\"\r\nКристина Аглинц (вокал), Юрий Погиба (рояль)"
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+- id: 20691
+  date: '2011-07-22'
+  time: '20:30'
+  band_name: Петр Газаров и его друзья
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21554
+  date: '2011-09-01'
+  time: '20:30'
+  band_id: 464
+  band_name: Кристина Аглинц
+  band_token: kristina-anglintc
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21555
+  date: '2011-09-02'
+  time: '20:30'
+  band_name: Gregory Porter и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 21556
+  date: '2011-09-03'
+  time: '20:30'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21557
+  date: '2011-09-08'
+  time: '20:30'
+  band_name: Jazz Passion
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21558
+  date: '2011-09-10'
+  time: '20:30'
+  band_name: Даниил Крамер и Роман Мирошниченко
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 366
+    name: Роман Мирошниченко
+    token: roman-miro
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 21559
+  date: '2011-09-15'
+  time: '20:30'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21560
+  date: '2011-09-16'
+  time: '20:30'
+  band_name: Kimberly Davis и Jazz Passion
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21561
+  date: '2011-09-22'
+  time: '20:30'
+  band_id: 142
+  band_name: Simply Band
+  band_token: simply-band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21562
+  date: '2011-09-23'
+  time: '20:30'
+  band_name: Jazz Passion
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21563
+  date: '2011-09-24'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21564
+  date: '2011-09-29'
+  time: '20:30'
+  band_name: Александр Довгополый
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 21565
+  date: '2011-09-30'
+  time: '20:30'
+  band_id: 366
+  band_name: Роман Мирошниченко
+  band_token: roman-miro
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22095
+  date: '2011-10-13'
+  time: '20:30'
+  band_id: 550
+  band_name: Квартет Николая Куликова
+  band_token: kvartet-nikolaya-kulikova
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22096
+  date: '2011-10-14'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22097
+  date: '2011-10-20'
+  time: '20:30'
+  band_name: Paulette McWilliams (вокал)/США и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 22098
+  date: '2011-10-21'
+  time: '20:30'
+  band_name: Александр Довгополый
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22100
+  date: '2011-10-29'
+  time: '20:30'
+  band_name: Цикл "Диалоги" - Kathy Jenkins (вокал)/США и Николай Левиновский (рояль)/США
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22092
+  date: '2011-10-01'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22093
+  date: '2011-10-07'
+  time: '20:30'
+  band_name: Amanda Brown (вокал)/США и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 22094
+  date: '2011-10-08'
+  time: '20:30'
+  band_name: Цикл "Диалоги" - Оксана Михайловская (вокал) и Яков Окунь (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22356
+  date: '2011-10-06'
+  time: '20:30'
+  band_id: 463
+  band_name: Квартет Игоря Бутмана
+  band_token: igor-butman-kvartet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22359
+  date: '2011-10-27'
+  time: '20:30'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22405
+  date: '2011-10-15'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 22406
+  date: '2011-10-28'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23891
+  date: '2011-12-06'
+  time: '20:00'
+  band_name: Кристина Аглинц и Лев Кушнир
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+  - id: 480
+    name: Лев Кушнир
+    token: lev-kushnir
+- id: 23905
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Moscow Sax Quintet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23000
+  date: '2011-11-03'
+  time: '20:30'
+  band_id: 142
+  band_name: Simply Band
+  band_token: simply-band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23001
+  date: '2011-11-04'
+  time: '20:30'
+  band_name: Moscow Sax Quintet
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23002
+  date: '2011-11-05'
+  time: '20:30'
+  band_name: Кристина Аглинц (вокал) и Лев Кушнир (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+  - id: 480
+    name: Лев Кушнир
+    token: lev-kushnir
+- id: 23003
+  date: '2011-11-10'
+  time: '20:30'
+  band_name: Фредерик Белинский (гитара, Франция)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23004
+  date: '2011-11-11'
+  time: '20:30'
+  band_name: Антон Румянцев и его квартет
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23005
+  date: '2011-11-12'
+  time: '20:30'
+  band_name: Andrey Svetloff Project
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23006
+  date: '2011-11-17'
+  time: '20:30'
+  band_name: Квинтет Антона Горбунова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23007
+  date: '2011-11-18'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского с программой "The Way Home"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 23008
+  date: '2011-11-19'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23009
+  date: '2011-11-24'
+  time: '20:30'
+  band_name: Фредерик Белинский (гитара, Франция)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23010
+  date: '2011-11-25'
+  time: '20:30'
+  band_name: Tony Romano (гитара, США), Виктория Урусова (вокал), Леонид Сендерский
+    (саксофон, Израиль-Россия)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 23011
+  date: '2011-11-26'
+  time: '20:30'
+  band_name: Вадим Эйленкриг (труба) и Даниил Крамер (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 23399
+  date: '2011-12-01'
+  time: '20:30'
+  band_name: Jam session с Евгением Гречищевым
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 23400
+  date: '2011-12-02'
+  time: '20:30'
+  band_name: Mark Gross (саксофон, США) и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 23401
+  date: '2011-12-03'
+  time: '20:30'
+  band_name: Кристина Аглинц (вокал) и Лев Кушнир (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 464
+    name: Кристина Аглинц
+    token: kristina-anglintc
+  - id: 480
+    name: Лев Кушнир
+    token: lev-kushnir
+- id: 23402
+  date: '2011-12-08'
+  time: '20:30'
+  band_name: Jam session с Евгением Гречищевым
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 23403
+  date: '2011-12-09'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23404
+  date: '2011-12-10'
+  time: '20:30'
+  band_name: Проект Александра Довгополого
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23405
+  date: '2011-12-15'
+  time: '20:30'
+  band_name: Jam session с Евгением Гречищевым
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 23406
+  date: '2011-12-16'
+  time: '20:30'
+  band_name: Zenia McPherson (вокал, США) и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 23407
+  date: '2011-12-17'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 23408
+  date: '2011-12-22'
+  time: '20:30'
+  band_name: Jam session с Евгением Гречищевым
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 23409
+  date: '2011-12-23'
+  time: '20:30'
+  band_name: Lisala (вокал, США) и трио Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio

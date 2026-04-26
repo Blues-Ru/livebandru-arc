@@ -1,0 +1,184 @@
+id: 90
+token: aftermath
+name: The Aftermath
+aliases: Fatima & Taita aka The Aftermath
+alive: true
+url: http://aftermath.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 4
+musicians:
+- name: Фатима Матиева
+  instruments: вокал, музыка, тексты
+- name: Таита Матиева
+  instruments: вокал, гитара, музыка, тексты
+clips:
+- id: 368
+  type: weblink
+  url: http://aftermath.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5841
+  type: photo
+  url: aftermath.jpg
+  name: The Aftermath "Charming October"
+  sort_order: 0
+  width: 3744
+  height: 4404
+- id: 5839
+  type: rss
+  url: http://aftermathft.livejournal.com/
+  name: Fatima & Taita aka The Aftermath
+  sort_order: 99
+- id: 5831
+  type: weblink
+  url: https://www.facebook.com/AftermathFatimaTaita
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 5837
+  type: youtube
+  url: http://www.youtube.com/?v=18BqOArb4s0
+  name: I've got nothing to give you
+  comments: Концерт в РнБ кафе 27 мая 2013 года
+  sort_order: 999
+- id: 5832
+  type: youtube
+  url: https://www.youtube.com/watch?v=t_IliRohUWE
+  name: If I Say
+  sort_order: 199
+- id: 5833
+  type: youtube
+  url: http://www.youtube.com/?v=VzoDtoKM_R4
+  name: Артемий Троицкий о дуэте "The Aftermath"
+  comments: 'Музыкальный критик Артемий Троицкий о дуэте "The Aftermath" (Фатима и
+    Таита Матиевы)
+
+
+    http://aftermath.ru/
+
+    https://www.facebook.com/AftermathFatimaTaita
+
+    http://www.youtube.com/user/Aftermathbandmusic
+
+    '
+  sort_order: 299
+- id: 5834
+  type: youtube
+  url: http://www.youtube.com/?v=ZZGYt60Jk28
+  name: I'm lonely
+  comments: The Aftermath concert at Kozlov club Moscow, Russia. March 8, 2014 Fatima
+    Matieva - vocal, Taita Matieva - vocal, guitar, Natal'ya Skvortsova - piano, Vartan
+    Babayan - percussion, Words & Music by Fat
+  sort_order: 399
+- id: 5835
+  type: youtube
+  url: http://www.youtube.com/?v=NFvhBHWtaps
+  name: Mexico
+  comments: The Aftermath concert at Kozlov club Moscow, Russia. March 8, 2014 Fatima
+    Matieva - vocal, Taita Matieva - vocal, guitar, Natal'ya Skvortsova - piano, Vartan
+    Babayan - percussion, Words & Music by Fat
+  sort_order: 499
+- id: 5836
+  type: youtube
+  url: http://www.youtube.com/?v=3rOt3v2-qT0
+  name: Santa Claus
+  comments: The Aftermath "Santa Claus" Kozlov club, Moscow, Russia. December, 2013Words
+    & Music byFatima Matieva & Taita Matievawww.aftermath.ruvocal - Fatima Matieva
+    & Taita Matievaguitar - Taita Matieva
+  sort_order: 1099
+- id: 5838
+  type: youtube
+  url: http://www.youtube.com/?v=BXv52ESRldw
+  name: Charming October
+  comments: 'The Aftermath
+
+    Song "Charming October", 2012
+
+    Music and lyrics by Fatima & Taita aka the Aftermath
+
+    Sound by Alexey Denisov, Aleksandr Mikhlin
+
+    www.aftermath.ru
+
+
+    On the Waterfront, 1954
+
+    Directed by Elia K'
+  sort_order: 799
+- id: 5842
+  type: weblink
+  url: https://itunes.apple.com/ru/album/charming-october/id823579444?ign-mpt=uo%3D4
+  name: iTunes
+  sort_order: 200
+- id: 5843
+  type: weblink
+  url: https://play.google.com/store/music/album/The_Aftermath_Charming_October?id=Bpfnl4jqzv2vaotohiuvjdfruaa
+  name: Google Play
+  sort_order: 300
+reviews:
+- id: 27
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: группа "The Aftermath"
+  text: '"The Aftermath" ("последствия", англ.) - ингушский дуэт сестер Фатимы и Таиты
+    Матиевых, основанный в 2004 году. Рожденные и выросшие в Грозном (Чеченская Республика),
+    девушки в 1994-1999 гг. покинули родину из-за войны. Последствием этого стало
+    желание (и умение!) сестер писать песни, чему не помешало отсутствие у них музыкального
+    образования. И в 2012 году бонус-вкладкой журнала "Stereo&Video" вышел в свет
+    уже второй альбом проекта - "Charming October". Все его двенадцать песен - авторские
+    произведения Фатимы и Таиты. За глубину текстов и мелодичность, сочетание естественности
+    с изысканностью и харизму, творчество дуэта высоко оценили авторитетные эксперты.
+    Вот цитаты из рецензий:
+
+
+    "Фатима и Таита также изветсные под именем "The Aftermath" пишут прекрасные песни
+    на английском языке и безупречно их исполняют. Это очень свежая и очень живая
+    музыка совершенно не характерная для нашей российской сцены."(c) Артемий Троицкий
+
+
+    "Charming October" - 2-ой альбом группы "The Aftermath", где собраны 12 безупречно
+    хитовых песен. Источники вдохновения для сестер - их музыкальная коллекция: The
+    Beatles, The Animals, классика ритм-н-блюза и singer/songwriter''ов. При этом
+    музыка у них абсолютно своя, не несущая ни капли ощущения "где-то это уже было"
+    - Матиевы не копируют готовые конструкции из фолк-рока или акустического блюза,
+    а просто хорошо воспринимают этот музыкальный язык и высказывают на нем собственные
+    мысли. Иногда кажется, что вещи эти - готовые хиты, стоит только им нарастить
+    гитарного "мяса" и ритмической жесткости. Потом понимаешь, что прелесть The Aftermath
+    именно в скупости, лаконичности, ощущении недосказанности." (c) главный редактор
+    журнала In-Rock Владимир Импалер
+
+
+    "Есть в этой записи и искренность, и сиюминутность, и непередаваемое ощущение
+    жизни и подлинности происходящего. Но самое интересное в группе Aftermath - это
+    неповторимая мелодика их песен. Помню, какой-то знакомый музыкант-профессионал
+    заметил, что они сочинают как любители - не соблюдая законы композиции. Было бы
+    неплохо если бы "серьезные" музыканты вот так же не соблюдали эти законы. Глядишь,
+    и музыка у нас в стране стала бы значительно интереснее." (c) главный редактор
+    Stereo&Video Magazine Михаил Борзенков
+
+
+    "Композиции "The Aftermath" объединяет вместе общий стиль, который я уже никогда
+    и ни с чем не перепутаю. Этот стиль, словно выдержанное по секретным рецептам
+    вино, вобрал в себя солнечное тепло южных кровей, прохладу вечеров и лунный свет
+    над горами Северного Кавказа, тишину и нежность девичьих сердец и настойчивость
+    в поиске ответов, которой могли бы позавидовать суровые моряки с ветренного туманного
+    Альбиона." (c) киноэксперт Сергей Джумаев
+
+
+    "Осень в блюзовых тонах, или "Charming October".. Название альбому было дано по
+    одной из двенадцати песен - "Charming October". Другие одиннадцать связаны...
+    нет, не с оставшимися месяцами, скорее - с различными оттенками осеннего настроения,
+    настроения сестер Фатимы и Таиты Матиевых. При этом теплое звучание "живых" инструментов
+    (гитара, фортепиано, контрабас, виолончель, альт, вибрафон, дахчан-пандар) оказывается
+    близким то блюзу, то джазу, то эстетике мюзикла, то классическому камерному ансамблю;
+    и все стилевые аллюзии объединяет подкупающая своей искренностью вокальная интонация.
+    " (с) эксперт по киномузыке Константин Рычков
+
+
+    "The album song "Chaming October" not only is the name no. It actually defines
+    "The Aftermath". It is their Signature Album. Wonderful." (c) musician, chief
+    moderator of guitarnotes.com Mark Schraps'
+  verified: true
+  created: '2010-09-01'
+  is_press_release: true

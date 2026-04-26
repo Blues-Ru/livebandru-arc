@@ -1,0 +1,14 @@
+id: 192
+token: jambala
+name: Джамбала
+alive: false
+address: Большой проспект В.О.,  80
+subway: Василеостровская, Приморская
+phone: (812) 332-10-77
+city_id: 2
+clips:
+- id: 206
+  type: weblink
+  url: http://www.jambala.ru/
+  name: Официальный сайт
+  sort_order: 0

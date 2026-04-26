@@ -1,0 +1,15 @@
+id: 566
+token: the-wall
+name: The Wall
+aliases: ресторан Валимар
+alive: true
+address: Нагатинская, 1 стр.2
+subway: Нагатинская
+phone: (495) 225-01-33
+city_id: 1
+clips:
+- id: 3195
+  type: weblink
+  url: http://валимар.рф
+  name: Официальный сайт
+  sort_order: 0

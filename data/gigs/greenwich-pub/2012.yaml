@@ -1,0 +1,280 @@
+- id: 24585
+  date: '2012-02-03'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 25304
+  date: '2012-01-27'
+  time: '20:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 25324
+  date: '2012-02-10'
+  time: '22:00'
+  band_name: Magic
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+  comments: "MAGIC - московская женская кавер-группа, исполняющая мировые ретро-хиты\
+    \ на английском языке. Профессионализм и драйв, с которым представительницы слабого\
+    \ пола легко завоевывают любовь публики, заслуженнo закрепили за девчoнками титул\
+    \ \"Хищницы Rock'n'Rolla\". В программе ансамбля такие хиты мировых звезд, как\
+    \ The Beatles, Elvis Presley, Gary Moore, Queen, ZZ Top, Adele и другие...\r\n\
+    \r\nСостав: Жанетта Джумакеева - вокал; Дарья Машина - клавиши, вокал; Наталья\
+    \ Терехова - гитара, бэк-вокал; Наталья Малишевская - бас-гитара, бэк-вокал; Олег\
+    \ Колесников - барабаны.\r\n\r\n... они это делают с подлинно женской непосредственностью\
+    \ и необыкновенной точностью..."
+- id: 25325
+  date: '2012-02-11'
+  time: '21:00'
+  band_name: Magic
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+  comments: "MAGIC - московская женская кавер-группа, исполняющая мировые ретро-хиты\
+    \ на английском языке. Профессионализм и драйв, с которым представительницы слабого\
+    \ пола легко завоевывают любовь публики, заслуженнo закрепили за девчoнками титул\
+    \ \"Хищницы Rock'n'Rolla\". В программе ансамбля такие хиты мировых звезд, как\
+    \ The Beatles, Elvis Presley, Gary Moore, Queen, ZZ Top, Adele и другие...\r\n\
+    \r\nСостав: Жанетта Джумакеева - вокал; Дарья Машина - клавиши, вокал; Наталья\
+    \ Терехова - гитара, бэк-вокал; Наталья Малишевская - бас-гитара, бэк-вокал; Олег\
+    \ Колесников - барабаны.\r\n\r\n... они это делают с подлинно женской непосредственностью\
+    \ и необыкновенной точностью..."
+- id: 25327
+  date: '2012-02-17'
+  time: '22:00'
+  band_name: Blues'n'Roads
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+  comments: Михаил Кистанов - один из самых заметных молодых московских блюзовых гитаристов,
+    и его группа под названием Blues'n'Roads - это смесь чикагского и техасского блюза
+    в лучших традициях, горячего и бескомпромиссного! Искрометное, полное живых эмоций
+    и настоящих чувств исполнение не оставит вас равнодушными!
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 25328
+  date: '2012-02-24'
+  time: '22:00'
+  band_name: Dizzy riders
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+  comments: Коллектив, образованный из бывших участников Vitamin B и Backsliders.
+    Также одни из любимцев заведения. Очень качественное исполнение фанка, ритм-н-блюза,
+    соула, блюза, южного и просто рока. Наши гости сравнивают их с Allman Brothers,
+    Lynyrd Skynyrd, Sky King.
+- id: 25466
+  date: '2012-03-30'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+  comments: "Будет специальный гость известный московский блюзмен \r\nmr. Big Bob\
+    \ Korablin"
+- id: 25901
+  date: '2012-02-25'
+  time: '21:00'
+  band_name: Magic
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: Бесплатно
+- id: 26324
+  date: '2012-03-02'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 26325
+  date: '2012-03-16'
+  time: '21:00'
+  band_name: Dizzy riders
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 26468
+  date: '2012-03-17'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 27110
+  date: '2012-04-06'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 27294
+  date: '2012-04-27'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 27185
+  date: '2012-04-20'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 27608
+  date: '2012-05-04'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 27611
+  date: '2012-05-17'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 28214
+  date: '2012-06-07'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 28578
+  date: '2012-06-22'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 29447
+  date: '2012-08-17'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+- id: 29062
+  date: '2012-07-20'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+  comments: 'Blues, Blues Rock (with stoner rock & old slide style guitar). Владислав
+    Баракин и Максим Чижиков начали играть вместе в 1993 году, за этот период каждый
+    успел поработать на сцене и записать (сессионно на студиях) много разной музыки
+    в различных коллективах : гр. Край, гр. Lazy (коллектив Оксаны Кочубей ныне Live''n''Joy,
+    Plumbum Dreams), Айрин Флемминг, гр. Бабушкины Сказки, гр. Флэш Рояль (коллектив
+    саунд- продюссера и аранжировщика Валентина Тевянского), гр. Denver Band и многих
+    других. В качестве состава гр. Бабушкины Сказки выступили на Московском Фестивале
+    Мистерия Блюза 2009.'
+- id: 29063
+  date: '2012-07-27'
+  time: '21:00'
+  band_name: Delta-Blues (Гия Дзагнидзе - Петрович - Сергей Спицын)
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатно
+  comments: 'Одни их самых известных блюзовых музыкантов в России: Гия Дзагнидзе из
+    Modern Blues Band, Михаил "ПЕТРОВИЧ" Соколов (легенда и родоначальник блюза в
+    нашей стране)из Hot Rod Band и Сергей Спицын, сотрудничающий чуть ли не с половиной
+    Московских блюзовых команд собрались вместе для возрождения Дельта-блюза (англ.
+    Delta blues) - одного из самых ранних стилей блюза. Название его происходит от
+    области, где он зародился - Дельты Миссисипи - болотистой местности на северо-западе
+    штата Миссисипи (не путать с дельтой реки Миссисипи, расположенной южнее). Название
+    "Дельта" скорее не географическое, а историко-культурное понятие. Это место, где
+    после расчистки от лесов и осушения болот стали повсеместно выращивать хлопок.
+    На бескрайних пойменных полях трудились сотни тысяч рабов, а потом полурабов.
+    Основными инструментами, используемыми в дельта-блюзе, являются гитара и губная
+    гармоника. Дельта-блюз был впервые записан в конце 1920-х.'
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 29384
+  date: '2012-08-10'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 31664
+  date: '2012-11-30'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 31716
+  date: '2012-11-09'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub

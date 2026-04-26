@@ -1,0 +1,18 @@
+id: 300
+token: fishyboom
+name: Fishyboom
+alive: true
+url: http://www.fishyboom.com/F/bo.html
+city_id: 47
+genre_id: 3
+clips:
+- id: 1055
+  type: weblink
+  url: http://www.fishyboom.com/F/bo.html
+  name: Официальный сайт
+  sort_order: 0
+- id: 1056
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=154135004174&ref=ts
+  name: Страница на FaceBook
+  sort_order: 100

@@ -1,0 +1,24 @@
+id: 353
+token: the-place
+name: The Place
+alive: true
+address: Маршала Говорова, 47
+subway: Балтийская
+phone: (812) 252-46-83
+city_id: 2
+clips:
+- id: 1326
+  type: weblink
+  url: http://www.facebook.com/profile.php?id=100001001833629
+  name: Страница на FaceBook
+  sort_order: 299
+- id: 1324
+  type: weblink
+  url: http://www.placeclub.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 1325
+  type: weblink
+  url: http://vk.com/club252424
+  name: Страница ВКонтакте
+  sort_order: 199

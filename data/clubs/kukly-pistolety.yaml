@@ -1,0 +1,14 @@
+id: 329
+token: kukly-pistolety
+name: Куклы Пистолеты
+alive: true
+address: Новослободская, 16а
+subway: Менделеевская, Новослободская
+phone: (495) 787-34-02
+city_id: 1
+clips:
+- id: 1197
+  type: weblink
+  url: http://www.kuklypistolety.ru
+  name: Официальный сайт
+  sort_order: 99

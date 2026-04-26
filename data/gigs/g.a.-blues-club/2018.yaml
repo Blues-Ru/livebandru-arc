@@ -1,0 +1,1707 @@
+- id: 70326
+  date: '2018-01-14'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+- id: 71816
+  date: '2018-04-01'
+  time: '20:30'
+  band_name: Светлана Рассветаева
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71818
+  date: '2018-04-09'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71820
+  date: '2018-04-23'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71822
+  date: '2018-04-29'
+  time: '20:30'
+  band_id: 362
+  band_name: Sweet Little 60-s
+  band_token: sweet-little-60-s
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71825
+  date: '2018-04-11'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71830
+  date: '2018-04-17'
+  time: '20:30'
+  band_name: Two Men & The Blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71831
+  date: '2018-04-24'
+  time: '20:30'
+  band_name: Two Men & The Blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71844
+  date: '2018-04-27'
+  time: '20:30'
+  band_id: 500
+  band_name: The Jet's
+  band_token: jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71845
+  date: '2018-04-22'
+  time: '20:30'
+  band_name: Алексей Седов
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71821
+  date: '2018-04-30'
+  time: '20:30'
+  band_name: Галинин Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71823
+  date: '2018-04-28'
+  time: '20:30'
+  band_name: Юрий Каверкин
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 71826
+  date: '2018-04-18'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71827
+  date: '2018-04-25'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71833
+  date: '2018-04-06'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71834
+  date: '2018-04-07'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71836
+  date: '2018-04-05'
+  time: '20:30'
+  band_name: Five To One (The Doors)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71840
+  date: '2018-04-15'
+  time: '20:30'
+  band_name: Lucky Charms
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71841
+  date: '2018-04-19'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71842
+  date: '2018-04-20'
+  time: '20:30'
+  band_name: Road House Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71843
+  date: '2018-04-21'
+  time: '20:30'
+  band_name: Blues Com & Don Hikaram
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71122
+  date: '2018-03-03'
+  time: '20:30'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+  comments: 3 марта московская группа Boogie Child в г. Санкт-Петербург G.A. Blues
+    Club (blues/blues rock/rock n roll) сотрудничали с m.r. J.D. Slinger (Houston,Texas,
+    USA) Литейный пр-т, д. 33 WELCOME
+- id: 71525
+  date: '2018-03-18'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+- id: 71817
+  date: '2018-04-02'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71819
+  date: '2018-04-16'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71824
+  date: '2018-04-04'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71828
+  date: '2018-04-03'
+  time: '20:30'
+  band_name: Two Men & The Blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71829
+  date: '2018-04-10'
+  time: '20:30'
+  band_name: Two Men & The Blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71832
+  date: '2018-04-26'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71835
+  date: '2018-04-08'
+  time: '20:30'
+  band_name: Family Tradition
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71837
+  date: '2018-04-12'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71838
+  date: '2018-04-13'
+  time: '20:30'
+  band_name: The Earlybird
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 71839
+  date: '2018-04-14'
+  time: '20:30'
+  band_name: Тамара Зарицкая (Москва)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72498
+  date: '2018-05-12'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72505
+  date: '2018-05-25'
+  time: '20:30'
+  band_name: Blues Com & Don Hikaram
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72506
+  date: '2018-05-26'
+  time: '20:30'
+  band_name: А.Седов Трио
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72481
+  date: '2018-05-23'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72482
+  date: '2018-05-30'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72483
+  date: '2018-05-08'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72484
+  date: '2018-05-15'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72485
+  date: '2018-05-22'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72486
+  date: '2018-05-29'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72488
+  date: '2018-05-14'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72489
+  date: '2018-05-21'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72490
+  date: '2018-05-28'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72491
+  date: '2018-05-04'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72478
+  date: '2018-05-02'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72479
+  date: '2018-05-09'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72480
+  date: '2018-05-16'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72487
+  date: '2018-05-07'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72492
+  date: '2018-05-18'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72493
+  date: '2018-05-03'
+  time: '20:30'
+  band_id: 165
+  band_name: Contrast Blues Band
+  band_token: contrast-b-b
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72494
+  date: '2018-05-05'
+  time: '20:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72495
+  date: '2018-05-06'
+  time: '20:30'
+  band_name: The Scarletmen
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72496
+  date: '2018-05-10'
+  time: '20:30'
+  band_name: Lucky Charms
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72497
+  date: '2018-05-11'
+  time: '20:30'
+  band_name: The Erlybird Blues Swing Jazz Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72499
+  date: '2018-05-31'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72500
+  date: '2018-05-13'
+  time: '20:30'
+  band_name: Smokings
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72501
+  date: '2018-05-17'
+  time: '20:30'
+  band_name: Тамара Оген (Москва)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72502
+  date: '2018-05-19'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72503
+  date: '2018-05-20'
+  time: '20:30'
+  band_name: Светлана Рассветаева
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72504
+  date: '2018-05-24'
+  time: '20:30'
+  band_name: WTF Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 72507
+  date: '2018-05-27'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73144
+  date: '2018-06-11'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73145
+  date: '2018-06-18'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73146
+  date: '2018-06-25'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73147
+  date: '2018-07-02'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73160
+  date: '2018-06-21'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73161
+  date: '2018-06-22'
+  time: '20:30'
+  band_name: Blues Com & Don Hikaram
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73164
+  date: '2018-06-28'
+  time: '20:30'
+  band_name: Smokings
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73165
+  date: '2018-06-29'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73166
+  date: '2018-06-30'
+  time: '20:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73148
+  date: '2018-07-03'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73149
+  date: '2018-06-12'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73150
+  date: '2018-06-19'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73151
+  date: '2018-06-26'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73152
+  date: '2018-06-13'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73153
+  date: '2018-06-27'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73154
+  date: '2018-06-14'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73155
+  date: '2018-06-15'
+  time: '20:30'
+  band_name: Ярослав Помогайкин Project
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  extra_bands:
+  - id: 119
+    name: Ярослав Помогайкин & 911 Band
+    token: 911-band
+- id: 73156
+  date: '2018-06-16'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73157
+  date: '2018-06-17'
+  time: '20:30'
+  band_name: Генцлер Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73158
+  date: '2018-06-20'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73159
+  date: '2018-07-04'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73162
+  date: '2018-06-23'
+  time: '20:30'
+  band_name: The Earlybird Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73163
+  date: '2018-06-24'
+  time: '20:30'
+  band_name: Scarlet Men
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73506
+  date: '2018-07-16'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73507
+  date: '2018-07-23'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73508
+  date: '2018-07-30'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73511
+  date: '2018-07-11'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73512
+  date: '2018-07-18'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73514
+  date: '2018-08-01'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73516
+  date: '2018-07-17'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73519
+  date: '2018-08-07'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73520
+  date: '2018-07-06'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73522
+  date: '2018-07-29'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73523
+  date: '2018-07-07'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73524
+  date: '2018-07-08'
+  time: '20:30'
+  band_name: The Earlybird
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73525
+  date: '2018-07-12'
+  time: '20:30'
+  band_name: Blues Badgers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73526
+  date: '2018-07-13'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73528
+  date: '2018-07-15'
+  time: '20:30'
+  band_name: WTF Blues Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73529
+  date: '2018-07-19'
+  time: '20:30'
+  band_name: Lucky Charms
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73530
+  date: '2018-07-20'
+  time: '20:30'
+  band_name: Alex Prof Boogie Trio
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73532
+  date: '2018-07-21'
+  time: '20:30'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73533
+  date: '2018-07-26'
+  time: '20:30'
+  band_name: J-Walkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73534
+  date: '2018-07-27'
+  time: '20:30'
+  band_name: Plan Be Blues Band (Норвегия)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73535
+  date: '2018-07-28'
+  time: '20:30'
+  band_name: Blues Com. & Don Hikaram
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73515
+  date: '2018-07-10'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73518
+  date: '2018-07-31'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73505
+  date: '2018-07-09'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73509
+  date: '2018-08-06'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73510
+  date: '2018-08-08'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73513
+  date: '2018-07-25'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73517
+  date: '2018-07-24'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73521
+  date: '2018-07-05'
+  time: '20:30'
+  band_name: Spacey & Mario
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73527
+  date: '2018-07-14'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73531
+  date: '2018-07-22'
+  time: '20:30'
+  band_name: Don Hikaram & Co.
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73879
+  date: '2018-08-02'
+  time: '20:30'
+  band_name: Spacey & Mario
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73880
+  date: '2018-08-03'
+  time: '20:30'
+  band_name: Jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73881
+  date: '2018-08-04'
+  time: '20:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73882
+  date: '2018-08-05'
+  time: '20:30'
+  band_name: J-Walkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73883
+  date: '2018-08-13'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73884
+  date: '2018-08-20'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73885
+  date: '2018-08-27'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73887
+  date: '2018-09-04'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73888
+  date: '2018-08-28'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73895
+  date: '2018-08-09'
+  time: '20:30'
+  band_id: 362
+  band_name: Sweet Little 60-s
+  band_token: sweet-little-60-s
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73896
+  date: '2018-08-10'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73897
+  date: '2018-08-12'
+  time: '20:30'
+  band_name: J-Walkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73898
+  date: '2018-08-11'
+  time: '20:30'
+  band_name: Soul Garden
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73899
+  date: '2018-08-16'
+  time: '20:30'
+  band_name: WTF
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73900
+  date: '2018-08-17'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73901
+  date: '2018-08-18'
+  time: '20:30'
+  band_id: 507
+  band_name: Jimmy Woodser Blues Band
+  band_token: jwbb
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73903
+  date: '2018-08-23'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73904
+  date: '2018-08-24'
+  time: '20:30'
+  band_name: A.V.Proff Boogie Trio
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73905
+  date: '2018-08-25'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73906
+  date: '2018-08-26'
+  time: '20:30'
+  band_name: Blues Badgers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73886
+  date: '2018-09-03'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73889
+  date: '2018-08-14'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73890
+  date: '2018-08-21'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73891
+  date: '2018-09-05'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73892
+  date: '2018-08-15'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73893
+  date: '2018-08-22'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73894
+  date: '2018-08-29'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73902
+  date: '2018-08-19'
+  time: '20:30'
+  band_name: Рассветаева Country Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73907
+  date: '2018-08-30'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 73908
+  date: '2018-08-31'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 74620
+  date: '2018-09-06'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+- id: 75048
+  date: '2018-10-02'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75052
+  date: '2018-10-30'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75055
+  date: '2018-10-03'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75056
+  date: '2018-10-10'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75058
+  date: '2018-10-24'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75059
+  date: '2018-10-31'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75063
+  date: '2018-10-07'
+  time: '20:30'
+  band_name: Smokings
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75072
+  date: '2018-10-14'
+  time: '20:30'
+  band_name: Алексей Станков Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75073
+  date: '2018-10-18'
+  time: '20:30'
+  band_name: The Scarlet men
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75074
+  date: '2018-10-19'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75075
+  date: '2018-10-20'
+  time: '20:30'
+  band_name: Blues Com и Дон Хикарам
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75076
+  date: '2018-10-21'
+  time: '20:30'
+  band_name: Sugar mama
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75078
+  date: '2018-10-26'
+  time: '20:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75079
+  date: '2018-10-27'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75049
+  date: '2018-10-09'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75050
+  date: '2018-10-16'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75051
+  date: '2018-10-23'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75060
+  date: '2018-10-05'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75061
+  date: '2018-10-28'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75062
+  date: '2018-10-06'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75068
+  date: '2018-10-22'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75069
+  date: '2018-10-11'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 74959
+  date: '2018-10-04'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+- id: 75077
+  date: '2018-10-25'
+  time: '20:30'
+  band_name: Blues Badgers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75053
+  date: '2018-11-06'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75054
+  date: '2018-11-07'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75057
+  date: '2018-10-17'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75064
+  date: '2018-10-08'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75065
+  date: '2018-10-15'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75066
+  date: '2018-11-05'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75067
+  date: '2018-10-29'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75070
+  date: '2018-10-12'
+  time: '20:30'
+  band_id: 362
+  band_name: Sweet Little 60-s
+  band_token: sweet-little-60-s
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75071
+  date: '2018-10-13'
+  time: '20:30'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75584
+  date: '2018-11-26'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75585
+  date: '2018-12-03'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75587
+  date: '2018-12-17'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75591
+  date: '2018-12-11'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75596
+  date: '2018-12-12'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75597
+  date: '2018-12-19'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75598
+  date: '2018-12-26'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75600
+  date: '2018-11-30'
+  time: '20:30'
+  band_name: Blues Com и Дон Хикарам
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75586
+  date: '2018-12-10'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75590
+  date: '2018-12-04'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75611
+  date: '2018-12-02'
+  time: '20:30'
+  band_id: 730
+  band_name: ZebraWood Blues Band
+  band_token: zebrawood
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 300 руб.
+- id: 75588
+  date: '2018-12-24'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75589
+  date: '2018-11-27'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75592
+  date: '2018-12-18'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75593
+  date: '2018-12-25'
+  time: '20:30'
+  band_name: Acoustic Blues Evening
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75594
+  date: '2018-11-28'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75595
+  date: '2018-12-05'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 75599
+  date: '2018-11-29'
+  time: '20:30'
+  band_id: 362
+  band_name: Sweet Little 60-s
+  band_token: sweet-little-60-s
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76129
+  date: '2018-12-01'
+  time: '20:30'
+  band_name: Комната 60 (г. Киров)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76130
+  date: '2018-12-06'
+  time: '20:30'
+  band_id: 362
+  band_name: Sweet Little 60-s
+  band_token: sweet-little-60-s
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76131
+  date: '2018-12-07'
+  time: '20:30'
+  band_name: Road House Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76132
+  date: '2018-12-08'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76133
+  date: '2018-12-27'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76134
+  date: '2018-12-09'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76135
+  date: '2018-12-13'
+  time: '20:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76136
+  date: '2018-12-14'
+  time: '20:30'
+  band_id: 500
+  band_name: The Jet's
+  band_token: jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76137
+  date: '2018-12-15'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76138
+  date: '2018-12-16'
+  time: '20:30'
+  band_name: The Scarlet men
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76139
+  date: '2018-12-20'
+  time: '20:30'
+  band_name: Sobgaida
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76140
+  date: '2018-12-21'
+  time: '20:30'
+  band_name: Blues Com и Дон Хикарам
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76141
+  date: '2018-12-22'
+  time: '20:30'
+  band_name: Blues Clan
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76142
+  date: '2018-12-23'
+  time: '20:30'
+  band_name: WTF
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76143
+  date: '2018-12-28'
+  time: '20:30'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76144
+  date: '2018-12-29'
+  time: '20:30'
+  band_name: The EarlyBird
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 76145
+  date: '2018-12-31'
+  time: '20:30'
+  band_name: Happy New Year Party with The Mojoworkers
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  extra_bands:
+  - id: 685
+    name: The Mojoworkers
+    token: the-mojoworkers

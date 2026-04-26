@@ -1,0 +1,117 @@
+- id: 56946
+  date: '2016-03-02'
+  time: '20:00'
+  band_name: Джаз-бэнд Бориса Иванова с программой "А не поиграть ли нам джаз, друзья?"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 56947
+  date: '2016-03-09'
+  time: '20:00'
+  band_name: Live People Ensemble / Живые Люди
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 57550
+  date: '2016-04-06'
+  time: '20:00'
+  band_name: 'Программа "Северный блюз": Тим Дорофеев, Олег Юданов, Денис Шушков,
+    гость проекта - саксофонист и композитор Алексей Круглов'
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  comments: Тим Дорофеев - гитара, Олег Юданов - барабаны, Денис Шушков - контрабас,
+    Алексей Круглов - саксофон
+- id: 57467
+  date: '2016-03-16'
+  time: '20:00'
+  band_name: Ансамбль "Арфа & Джаз" с новой программой "От барокко до джаза"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 57468
+  date: '2016-03-23'
+  time: '20:00'
+  band_name: Джаз-бэнд Марины Волковой с программой "Посвящение Саре Вон"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 57549
+  date: '2016-03-30'
+  time: '20:00'
+  band_name: Трио Игоря Яковенко с программой "Девиация"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  comments: Игорь Яковенко - фортепиано, Виктор Шестак - контрабас, Вартан Бабаян
+    - ударные
+- id: 58170
+  date: '2016-04-20'
+  time: '20:00'
+  band_name: Ансамбль Esh с программой "Бразильская сюита"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 58171
+  date: '2016-04-27'
+  time: '20:00'
+  band_name: Илья Зырянов & Новый квартет, программа "Вечер джазовой гитары"
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 58172
+  date: '2016-04-13'
+  time: '20:00'
+  band_name: Моноспектакль Игоря Пеховича "Век скоро кончится" по стихам Иосифа Бродского
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 58859
+  date: '2016-05-26'
+  time: '20:00'
+  band_name: Наталья Блинова и Priot Ensemble
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  comments: Наталья Блинова (вокал, фортепиано), Петр Талалай (ударные инструменты),
+    Денис Шушков (контрабас), Григорий Сандомирский (рояль), Анатолий Осипов (саксофон)
+  extra_bands:
+  - id: 541
+    name: Priot Ensemble
+    token: priot
+- id: 59070
+  date: '2016-06-01'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 59793
+  date: '2016-07-06'
+  time: '20:00'
+  band_name: Джаз-бэнд Марины Волковой
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 59794
+  date: '2016-07-20'
+  time: '20:00'
+  band_name: Джаз-бэнд Бориса Иванова
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 59932
+  date: '2016-08-10'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica

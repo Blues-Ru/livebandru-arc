@@ -1,0 +1,13 @@
+id: 495
+token: art-club-studio
+name: Арт-клуб "Студия"
+alive: true
+address: Пр-т Ленина, 59
+phone: 35-32-21
+city_id: 86
+clips:
+- id: 2562
+  type: weblink
+  url: http://www.studio31.ru/
+  name: Официальный сайт
+  sort_order: 0

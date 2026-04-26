@@ -1,0 +1,14 @@
+id: 918
+token: mikhajlovskij-zamok
+name: Михайловский замок
+aliases: Инженерный замок
+alive: true
+address: Садовая улица, д. 2
+subway: Гостиный двор, Невский проспект, Чернышевская
+city_id: 2
+clips:
+- id: 10440
+  type: weblink
+  url: http://www.rusmuseum.ru/mikhailovsky-castle/
+  name: Официальный сайт
+  sort_order: 0

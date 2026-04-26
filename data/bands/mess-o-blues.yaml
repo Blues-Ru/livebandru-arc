@@ -1,0 +1,28 @@
+id: 78
+token: mess-o-blues
+name: Mess o'blues
+aliases: Mess'O'Blues
+alive: true
+url: http://messofblues.livejournal.com/
+city_id: 3
+genre_id: 1
+clips:
+- id: 603
+  type: weblink
+  url: http://www.myspace.com/messo39blues
+  name: Страница на MySpace
+  sort_order: 99
+- id: 604
+  type: weblink
+  url: http://messofblues.livejournal.com/
+  name: Страница в ЖЖ
+  sort_order: 199
+- id: 605
+  type: rss
+  url: http://messofblues.livejournal.com/data/rss
+  sort_order: 99
+- id: 1359
+  type: weblink
+  url: http://messofblues.livejournal.com/
+  name: Официальный сайт
+  sort_order: 0

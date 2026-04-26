@@ -1,0 +1,14 @@
+id: 622
+token: izvestiya-hall
+name: Известия Hall
+alive: true
+address: Пушкинская площадь, 5
+subway: Пушкинская, Тверская, Чеховская
+phone: +7(495)364-05-05
+city_id: 1
+clips:
+- id: 3588
+  type: weblink
+  url: http://www.izvestiya-hall.ru/
+  name: Официальный сайт
+  sort_order: 0

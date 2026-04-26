@@ -1,0 +1,129 @@
+- id: 17682
+  date: '2011-04-15'
+  time: '20:00'
+  band_name: Мультfильмы
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 17706
+  date: '2011-04-17'
+  time: '20:00'
+  band_name: Divan Girlo, Цвет дождя
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 17697
+  date: '2011-04-16'
+  time: '20:00'
+  band_name: Bro Sound
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 19358
+  date: '2011-05-19'
+  time: '20:00'
+  band_name: Spb Blues Jam. Толик Smirnoff (ударные), Андрей Иванов (гитара), Александр
+    Суворов (вокал, губная гармошка), Борис Мажоров (бас)
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+  price: бесплатный
+  extra_bands:
+  - id: 223
+    name: Saint Petes Blues
+    token: spb-blues
+- id: 18065
+  date: '2011-04-24'
+  time: '20:00'
+  band_name: Лиза Small, Ради славы
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 18083
+  date: '2011-05-05'
+  time: '20:00'
+  band_name: Spb Blues Jam. Tolik Smirnoff, Алексей Дегусаров, Андрей Иванов
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+  price: бесплатный
+  extra_bands:
+  - id: 223
+    name: Saint Petes Blues
+    token: spb-blues
+- id: 18055
+  date: '2011-04-23'
+  time: '20:00'
+  band_name: Radikkl Beatz
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 18274
+  date: '2011-04-28'
+  time: '20:00'
+  band_name: Armanjazz Trio
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 18779
+  date: '2011-05-07'
+  time: '20:00'
+  band_name: Sofia Bridge
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 18937
+  date: '2011-05-12'
+  time: '20:00'
+  band_name: 'Spb Blues Jam. House Band: Алексей Дегусаров, Андрей Иванов, Толик Смирноff
+    + Мария Рубановская (Jungle Jam)'
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+  extra_bands:
+  - id: 223
+    name: Saint Petes Blues
+    token: spb-blues
+- id: 19190
+  date: '2011-05-14'
+  time: '21:00'
+  band_id: 376
+  band_name: Зимавсегда
+  band_token: zimavsegda
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 19192
+  date: '2011-05-15'
+  time: '19:00'
+  band_name: MOSss, China Toy, S-Quadro, Seva Scamp
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+- id: 19955
+  date: '2011-05-26'
+  time: '21:30'
+  band_name: Spb Blues Jam. Suvorov Blues Band
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+  price: бесплатный
+  extra_bands:
+  - id: 399
+    name: Suvorov Blues Band
+    token: suvorov-blues
+  - id: 223
+    name: Saint Petes Blues
+    token: spb-blues
+- id: 20760
+  date: '2011-06-30'
+  time: '20:00'
+  band_name: Old Fashion
+  club_id: 430
+  club_name: Kvartal
+  club_token: kvartal
+  price: 200 руб.
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion

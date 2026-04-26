@@ -1,0 +1,13 @@
+id: 912
+token: winecas-es
+name: WineCas.es
+alive: true
+address: ул. Тверская, дом 9а, строение 6
+subway: Тверская, Пушкинская, Чеховская, Охотный ряд
+city_id: 1
+clips:
+- id: 9726
+  type: weblink
+  url: http://www.winecas.es/event
+  name: Официальный сайт
+  sort_order: 0

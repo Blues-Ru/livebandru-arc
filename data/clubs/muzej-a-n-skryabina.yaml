@@ -1,0 +1,14 @@
+id: 845
+token: muzej-a-n-skryabina
+name: Музей А.Н. Скрябина
+alive: true
+address: Б. Николопесковский пер., д. 11
+subway: Смоленская, Арбатская
+phone: +7(499)241-19-01
+city_id: 1
+clips:
+- id: 7776
+  type: weblink
+  url: http://www.anscriabin.ru/
+  name: Официальный сайт
+  sort_order: 0

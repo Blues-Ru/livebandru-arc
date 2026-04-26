@@ -1,0 +1,13 @@
+id: 128
+token: cigar-hall
+name: Cigar Hall
+alive: true
+url: http://www.cigarhall.ru/
+city_id: 1
+genre_id: 2
+clips:
+- id: 111
+  type: weblink
+  url: http://www.cigarhall.ru/
+  name: Официальный сайт
+  sort_order: 0

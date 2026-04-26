@@ -1,0 +1,83 @@
+id: 689
+token: tj-norton
+name: TJ Norton
+aliases: TJ & THE SUITCASE
+alive: true
+url: http://tjnortonmusic.jimdo.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 18
+musicians:
+- name: TJ Norton
+  instruments: harmonica/vocals
+references:
+- id: 656
+  name: Tom Attah
+  token: tom-attah
+clips:
+- id: 6062
+  type: weblink
+  url: http://tjnortonmusic.jimdo.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 6066
+  type: photo
+  url: tj-norton.jpg
+  sort_order: 0
+  width: 782
+  height: 782
+- id: 6063
+  type: youtube
+  url: http://www.youtube.com/?v=xBMfKzC7NhQ
+  name: TJ & The Suitcase
+  comments: Nearly complete set from the fabulous TJ Norton playing at The Hop pub
+    in Leeds, my battery did die at the end though.
+  sort_order: 99
+- id: 6067
+  type: youtube
+  url: http://www.youtube.com/?v=Y0RlIaViGeQ
+  name: Tom Attah and the Bad Man Clan - "Real Bad Man"
+  comments: Tom Attah - vocals and lead guitar,  TJ Norton - harmonica, Ari Rannus
+    - guitar, David Laycock - bass guitar, Bob Wynd - drums
+  sort_order: 199
+- id: 6064
+  type: youtube
+  url: http://www.youtube.com/?v=budj3CV-1Sg
+  name: TJ Norton & Crosscut Saw - Snake Drive
+  comments: "www.crosscutsaw.co.uk\r\nRecorded at Factory Street Studios\r\nwww.factorystreet.co.uk\r\
+    \nFootage shot by Anthony Corby"
+  sort_order: 50
+- id: 6065
+  type: mp3
+  url: tj-norton.mp3
+  name: ''' Aint Your Train'''
+  comments: Original blues track written and performed by TJ Norton, recorded at Rhythm
+    Inc by Ari Rannus. Copyright TJ Norton.
+  sort_order: 0
+- id: 6068
+  type: youtube
+  url: http://www.youtube.com/?v=tgapRvhU2iU
+  name: TJ Norton - Leeds city centre
+  comments: TJ Norton singing & playing Harmonica
+  sort_order: 149
+reviews:
+- id: 422
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: TJ NORTON is harmonica player, singer and songwriter from Essex, UK. TJ became
+    addicted to the blues after finding a cassette tape of Lightnin Hopkins and learned
+    to play harmonica by ear, via listening to recordings and sitting with more experienced
+    musicians, just like the old blues players. He left home at age 16, moving to
+    London, and was in the USA by the time he was 18. He has been schooled by the
+    streets and has many tales to tell. TJ has played with, and for, many great artists
+    in the UK, Europe and the USA. Just some of those he credits as influencing him
+    via personal connection are, UP Wilson, Eddie Stout, Gary Clarke Jr, Paul Orta,
+    Paul Lamb, Paul Oscher, Steve West Weston, Gary Primich, Zach Zunis, Arthur Adams,
+    Randy Chortkoff, Pete Townshend, Bob Brunning and many more. He plays like a man
+    possessed, with the ability to switch from a beautiful gentle phrase, to full
+    bore fat tone highly energetic musical attacks, in an instant. TJ doesnt just
+    play music, he lives and literally breathes music!
+  verified: true
+  created: '2014-09-02'
+  is_press_release: true

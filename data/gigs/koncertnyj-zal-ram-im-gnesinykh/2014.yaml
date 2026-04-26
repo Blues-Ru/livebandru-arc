@@ -1,0 +1,64 @@
+- id: 48169
+  date: '2014-11-27'
+  time: '19:00'
+  band_name: Gnesin-Jazz-2014. Конкурсное прослушивание (взрослые участники)
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+- id: 48170
+  date: '2014-11-28'
+  time: '19:00'
+  band_name: Gnesin-Jazz-2014. Конкурсное прослушивание (взрослые участники)
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+- id: 48171
+  date: '2014-11-30'
+  time: '19:00'
+  band_name: Gnesin-Jazz-2014. Конкурсное прослушивание (взрослые участники)
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+- id: 48172
+  date: '2014-11-30'
+  time: '13:00'
+  band_name: Gnesin-Jazz-2014. Конкурсное прослушивание (дети)
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+- id: 48173
+  date: '2014-11-29'
+  time: '19:00'
+  band_name: 'Gnesin-Jazz-2014: концерт гостей - джазового ансамбля Golden Buddha
+    (руководитель Кон Хонвэй) из Китайской Народной Республики'
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+- id: 48174
+  date: '2014-12-01'
+  time: '19:00'
+  band_name: 'Gnesin-Jazz-2014. Мастер-концерт "Гнесин-Джаз лучшее": Игорь Бриль,
+    Даниил Крамер, Валерий Гроховский, Аркадий Шилклопер, Анна Бутурлина, Кристина
+    Крит, Антон Румянцев, "Академик-Бэнд" Анатолия Кролла (солисты: Юлиана Рогачева,
+    Ольга Синяева, Павел Иванов), Большой Джазовый Оркестр п/у Петра Востокова (солистка
+    Дарья Антонова), солисты и ансамбли - победители Международных джазовых фестивалей-конкурсов
+    молодых исполнителей "Гнесин-Джаз"'
+  club_id: 561
+  club_name: Концертный зал РАМ им. Гнесиных
+  club_token: koncertnyj-zal-ram-im-gnesinykh
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril

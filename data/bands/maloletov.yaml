@@ -1,0 +1,19 @@
+id: 318
+token: maloletov
+name: Дмитрий Малолетов
+alive: true
+url: http://www.guitar-club.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 3
+clips:
+- id: 1169
+  type: weblink
+  url: http://www.guitar-club.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 1170
+  type: weblink
+  url: http://ru.wikipedia.org/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BB%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2
+  name: Страница на википедии
+  sort_order: 199

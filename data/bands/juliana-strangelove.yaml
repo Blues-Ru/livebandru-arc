@@ -1,0 +1,45 @@
+id: 636
+token: juliana-strangelove
+name: Juliana Strangelove
+alive: true
+url: http://www.julianastrangelove.com/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 10
+clips:
+- id: 4929
+  type: weblink
+  url: https://twitter.com/WeLoveYouJools
+  name: Твиттер
+  sort_order: 200
+- id: 4930
+  type: weblink
+  url: http://vk.com/juliana_strangelove
+  name: Страница ВКонтакте
+  sort_order: 300
+- id: 5756
+  type: photo
+  url: juliana-strangelove-3.jpg
+  sort_order: 200
+  width: 3264
+  height: 4928
+- id: 4927
+  type: weblink
+  url: http://www.julianastrangelove.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4928
+  type: weblink
+  url: https://www.facebook.com/pages/Juliana-Strangelove/281253125229548
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 4964
+  type: youtube
+  url: http://www.youtube.com/?v=lUvhTqAa9Ns
+  name: Джулиана Стрейнджлав. You can leave your hat on. Голос.
+  comments: 'Самая рейтинговая передача на первом канале (ОРТ) "Голос"
+
+    Ведущий - Дмитрий Нагиев
+
+    Наставники - Дима Билан, Пелагея, Александр Градский, Леонид Агутин'
+  sort_order: 99

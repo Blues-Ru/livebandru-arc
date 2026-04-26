@@ -1,0 +1,71 @@
+id: 655
+token: marcus-bonfanti
+name: Marcus Bonfanti
+alive: true
+url: http://www.marcusbonfanti.com
+city_id: 77
+genre_id: 1
+secondary_genre_id: 18
+musicians:
+- name: Marcus Bonfanti
+  instruments: guitar/dobro/vocals
+- name: Илья Липатов
+  instruments: ударные
+- name: Галина Киселева
+  instruments: бас-гитара
+clips:
+- id: 5085
+  type: youtube
+  url: http://www.youtube.com/?v=JsThxDc2Si0
+  name: Marcus Bonfanti - Cheap Whisky
+  comments: Marcus Bonfanti - New Album 'Shake The Walls' (released June 17th) pre-order
+    now from http://po.st/preorder
+  sort_order: 0
+- id: 5086
+  type: youtube
+  url: http://www.youtube.com/?v=0cbPakWMpNM
+  name: Marcus Bonfanti - Devil Girl
+  comments: "Shot in a rainy north west London, January 2012.\r\n\r\nDirector/editor:\
+    \ Pedro de la Fuente\r\nDop: Azul Serra\r\nSound/mix: Martin Sculz"
+  sort_order: 100
+- id: 5087
+  type: youtube
+  url: http://www.youtube.com/?v=jASH2r2py4Q
+  name: Marcus Bonfanti, Now I'm Gone, Filmed at Jazz Cafe, Camden on the 6th January
+    2012
+  comments: Filmed at Jazz Cafe, Camden on the 6th January 2012. A brilliant night
+    of energetic blues.
+  sort_order: 50
+- id: 5138
+  type: photo
+  url: marcus-bonfanti-2.jpg
+  sort_order: 0
+  width: 600
+  height: 400
+- id: 5079
+  type: weblink
+  url: http://www.marcusbonfanti.com
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 390
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец и житель Лондона МАРКУС БОНФАНТИ - певец, гитарист, сонграйтер и
+    стори-теллер. Eго концерты, будь то сольные или в составе группы от трио до биг-бэнда
+    - это всегда бешеный напор страстей, зубодробителый драйв, тонкий лиризм и недюжинная
+    виртуозность владения и голосом, и гитарой - хоть электрической, хоть акустикой.
+
+
+    Трижды номинированный на British Blues Awards "Best Male Vocalist", он был 2-м
+    в 2012 и 3-м в 2011, 2013, получил "Best Acoustic Act" в 2013 и пришел к финишу
+    вторым в 2012.
+
+
+    Его фирменный стиль - сплав блюз-рока, соула, фанка и кантри. Последний, восторженно
+    принятый студийный альбом "Shake The Walls" с момента выхода в 2013-м неуклонно
+    поднимается в чартах.'
+  verified: true
+  created: '2014-01-11'
+  is_press_release: true

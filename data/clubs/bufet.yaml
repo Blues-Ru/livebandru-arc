@@ -1,0 +1,18 @@
+id: 414
+token: bufet
+name: Буфет
+alive: true
+address: Плеханова, 61
+phone: (4742) 27-11-23
+city_id: 8
+clips:
+- id: 1860
+  type: weblink
+  url: http://cafe-bufet.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1861
+  type: weblink
+  url: http://vk.com/club5377250
+  name: Страница ВКонтакте
+  sort_order: 100

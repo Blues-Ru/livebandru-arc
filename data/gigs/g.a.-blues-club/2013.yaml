@@ -1,0 +1,73 @@
+- id: 34874
+  date: '2013-03-18'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: "Джем - это всегда интересное и непредсказуемое действие,где встречаются\
+    \ самые разные музыканты,и вместе творят в \"реальном времени\".))Что рассказывать\
+    \ - приходите, джемы обычно получаются уютными и теплыми.)\r\nПравда вход для\
+    \ тех, кто хочет послушать платный. И ничего мне с этим не поделать..\r\nузнать\
+    \ стоимость входа и заказать столик можно по телефону клуба 579-88-13\r\n\r\n\
+    Музыкантам : несите комбики,или какие то \"спикосимы\" - в клубе только линия.\
+    \ Еще могу уступить иногда свой комбик."
+- id: 35002
+  date: '2013-04-05'
+  time: '20:30'
+  band_id: 49
+  band_name: Chill Out
+  band_token: chill-out
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 35008
+  date: '2013-03-30'
+  time: '20:30'
+  band_id: 169
+  band_name: Marat Dakota Band
+  band_token: marat-dakota
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 35009
+  date: '2013-03-29'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 35010
+  date: '2013-04-02'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 39279
+  date: '2013-10-22'
+  time: '20:30'
+  band_name: Александр Соловьев
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 39987
+  date: '2013-11-10'
+  time: '20:30'
+  band_id: 49
+  band_name: Chill Out
+  band_token: chill-out
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club

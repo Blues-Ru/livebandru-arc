@@ -1,0 +1,31 @@
+id: 183
+token: zaliv-kita
+name: Залив Кита
+alive: true
+url: http://www.zalivkita.ru/
+city_id: 1
+genre_id: 11
+clips:
+- id: 424
+  type: weblink
+  url: http://www.zalivkita.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 425
+  type: rss
+  url: http://community.livejournal.com/zaliv_kita/data/rss
+  sort_order: 99
+reviews:
+- id: 23
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Залив Кита существует с 1998 года, базируется в Москве. Играет на грани смешения
+    стилей ямайской, афро-кубинской, балканской музыки и городского романса. Лидер
+    коллектива - Иван Бурлачко-Шумидуб (гитара, вокал). Гитарист Алексей "Мукусу Це-це"
+    Самойленко - постоянный участник и генератор музыкальных идей. Иван Трофимов -
+    продюсер и автор текстов. За время своего существования коллектив записал альбом
+    "Хорошо", а также музыку к мультфильму "Элька и звездный почтальон".
+  verified: true
+  created: '2010-08-28'
+  is_press_release: true

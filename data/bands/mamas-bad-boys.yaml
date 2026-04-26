@@ -1,0 +1,86 @@
+id: 203
+token: mamas-bad-boys
+name: Mama's Bad Boys
+alive: true
+url: http://www.mamasbadboys.com
+city_id: 13
+genre_id: 1
+musicians:
+- name: Lamar "King Bee" Chase
+  instruments: гитара, вокал
+- name: Otis Rahim Hornesby
+  instruments: бас, вокал
+- name: Tolik Smirnoff
+  instruments: ударные, бэк вокал
+clips:
+- id: 612
+  type: youtube
+  url: http://www.youtube.com/?v=LrP0khQah9M
+  name: Mama's Bad Boys - promo clip
+  comments: Mama's Bad Boys - promo clip. © Steve Nekrasov 2010
+  sort_order: 99
+- id: 533
+  type: weblink
+  url: http://www.mamasbadboys.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 535
+  type: photo
+  url: mamas-bad-boys.jpg
+  name: Mama's Bad Boys
+  sort_order: 0
+  width: 600
+  height: 400
+- id: 611
+  type: photo
+  url: mamas-bad-boys-2.jpg
+  sort_order: 100
+  width: 600
+  height: 400
+reviews:
+- id: 29
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Американско-русский блюз-рок бэнд "Мамас Бэд Бойс" (Mama''s Bad Boys) был
+    основан в Амстердаме на рубеже конца 80-х начала 90-х годов минувшего столетия.
+    Основателем стал гитарист, певец и композитор из Калифорнии Ламар "Кинг Би" Чейс
+    (Lamar ''King Bee''Chase; Oakland, California).
+
+
+    На протяжении своей музыкальной карьеры Ламар делил сцену с такими блестящими
+    партнерами, как Ловэлл Фолсон, Д.Д. Мэлоун, музыканты легендарных бэндов Эры Фанка
+    "Тауэр оф Пауэр", "Слай энд Зэ Фэмили Стоун", "Пойнтер Систерс" и бэнд Карлоса
+    Сантаны (Lowell Folson, J.J. Malone, Tower of Power, Sly&the Family Stone, Pointer
+    Sisters, Carlos Santana).
+
+
+    Имя второго сооснователя группы - Отис Рахим Хорнсби (Otis Rahim Hornesby, New
+    Jersey) - басист, певeц и композитор с не менее яркой творческой биографией за
+    плечами.
+
+
+    Он сотрудничал с такими звездами, как Джимми Рид, Филлис Хайман и Нэнси Уилсон(Jimmy
+    Reed, Phyllis Hyman, Nancy Wilson).
+
+
+    Третьим участником группы несколько лет назад стал бывший питерский музыкант,
+    живущий в Амстердаме Толик Смирнов (Tolik Smirnoff) - экс. барабанщик русских
+    гитарных гигантов Александра "Царя" Старостенко (Sasha ''Tsar'' Starostenko)и
+    Валерия "Кинга Би" Белинова (Val ''King B'' Belin).
+
+
+    Музыка и шоу группы позволяют слушателю окунуться в неповторимую атмосферу Америки
+    времен расцвета творчества чернокожих блюзмэнов первого поколения. Звучанию группы
+    присущи жесткость рок-аранжировок лучших образцов классического блюза и свингующий
+    мелодизм собственных композиций.
+
+
+    Фанки Рокин Блюз (Funky Rockin'' Blues) - так сами музыканты окрестили свой стиль.
+
+
+    Мama''s Вad Вoys - единственный уникальный настоящий блюз-бэнд топ-класса, состоящий
+    из американцев и русских!'
+  verified: true
+  created: '2010-09-03'
+  is_press_release: true

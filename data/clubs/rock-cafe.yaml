@@ -1,0 +1,20 @@
+id: 270
+token: rock-cafe
+name: Rock Cafe
+alive: true
+address: Пионерская, 32
+subway: Чкаловская
+phone: +7 (929) 116-4006
+city_id: 2
+comments: Werewolf MC Club House
+clips:
+- id: 691
+  type: weblink
+  url: http://www.rock-cafe.net/
+  name: Официальный сайт
+  sort_order: 99
+- id: 692
+  type: weblink
+  url: http://vk.com/club83081
+  name: Страница ВКонтакте
+  sort_order: 199

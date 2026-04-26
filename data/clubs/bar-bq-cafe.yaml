@@ -1,0 +1,15 @@
+id: 471
+token: bar-bq-cafe
+name: Bar BQ cafe
+aliases: BQ cafe
+alive: true
+address: Пятницкая, 25, стр. 1д
+subway: Новокузнецкая, Третьяковская
+phone: (495) 953-00-12
+city_id: 1
+clips:
+- id: 2236
+  type: weblink
+  url: http://barbqcafe.ru/
+  name: Официальный сайт
+  sort_order: 0

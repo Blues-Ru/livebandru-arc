@@ -1,0 +1,13 @@
+id: 277
+token: underground-jazz
+name: Джаз Кафе Underground
+alive: true
+address: Ленина, 46
+phone: (3822) 516 391
+city_id: 41
+clips:
+- id: 751
+  type: weblink
+  url: http://www.jazz-cafe.tomsk.ru
+  name: Официальный сайт
+  sort_order: 99

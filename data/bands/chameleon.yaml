@@ -1,0 +1,37 @@
+id: 288
+token: chameleon
+name: Хамелеон
+aliases: 'Chameleon
+
+  The Chameleon'
+alive: true
+city_id: 71
+genre_id: 1
+musicians:
+- name: Дмитрий Ахмадуллин
+  instruments: гитара
+- name: Сергей Борздов
+  instruments: бас
+- name: Екатерина Семенова
+  instruments: вокал
+- name: Станислав Побединский
+  instruments: гитара
+- name: Максим Попов
+  instruments: ударные
+clips:
+- id: 979
+  type: weblink
+  url: http://vk.com/club9135885
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 980
+  type: youtube
+  url: http://www.youtube.com/?v=gBr9YKd1ZzA
+  name: Whiskey
+  sort_order: 99
+- id: 981
+  type: youtube
+  url: http://www.youtube.com/?v=JeeaCMq9L0E
+  name: Chitlins Con Carne
+  comments: Live from Stavropol, Russia 8.05.2009
+  sort_order: 199

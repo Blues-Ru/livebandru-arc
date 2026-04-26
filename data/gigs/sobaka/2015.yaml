@@ -1,0 +1,19 @@
+- id: 50432
+  date: '2015-04-03'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 53922
+  date: '2015-10-23'
+  time: '20:00'
+  band_name: Kenny Blues Boss Wayne Russian Tour 2015 (feat. Jose Luis Pardo)
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo

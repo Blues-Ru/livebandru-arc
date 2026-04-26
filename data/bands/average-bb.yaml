@@ -1,0 +1,41 @@
+id: 229
+token: average-bb
+name: Average Blues Band
+alive: true
+url: http://www.averagebluesband.com
+city_id: 50
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Вадим Касич
+  instruments: гитара, вокал
+- name: Андрей Зинченко
+  instruments: бас
+- name: Андрей Ярошенко
+  instruments: ударные
+clips:
+- id: 716
+  type: mp3
+  url: average-bb.mp3
+  name: Let's Go Crazy (demo version)
+  sort_order: 99
+- id: 717
+  type: mp3
+  url: average-bb-2.mp3
+  name: Hey Hey
+  sort_order: 199
+- id: 718
+  type: mp3
+  url: average-bb-3.mp3
+  name: Come To Me My Baby
+  sort_order: 299
+- id: 731
+  type: weblink
+  url: http://vk.com/club18781698
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 715
+  type: weblink
+  url: http://www.averagebluesband.com
+  name: Официальный сайт
+  sort_order: 99

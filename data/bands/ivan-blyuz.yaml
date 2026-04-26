@@ -1,0 +1,27 @@
+id: 291
+token: ivan-blyuz
+name: Ivan Блюz
+aliases: 'Иван "Блюз" Денисенко
+
+  Иван "Блюз"
+
+  Иван Блюз
+
+  Ivan Blues'
+alive: true
+url: http://www.artivan.kiev.ua
+city_id: 16
+genre_id: 1
+secondary_genre_id: 8
+clips:
+- id: 975
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 268
+  height: 400
+- id: 974
+  type: youtube
+  url: http://www.youtube.com/?v=Y72SXm1pjQM
+  name: Иван-блюз
+  sort_order: 0

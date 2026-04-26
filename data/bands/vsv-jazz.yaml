@@ -1,0 +1,39 @@
+id: 488
+token: vsv-jazz
+name: VSV-jazz
+alive: true
+city_id: 25
+genre_id: 2
+musicians:
+- name: Владимир Комаров
+  instruments: ударные, перкуссия
+- name: Сергей Вирцев
+  instruments: фортепиано
+- name: Владимир Чеменев
+  instruments: бас
+- name: Ольга Прожога
+  instruments: вокал
+clips:
+- id: 2230
+  type: photo
+  url: vsv-jazz.jpg
+  sort_order: 0
+  width: 604
+  height: 401
+- id: 2231
+  type: weblink
+  url: http://vk.com/club6017262
+  name: Страница ВКонтакте
+  sort_order: 99
+reviews:
+- id: 166
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'VSV-jazz существует с апреля 2007 года.
+
+
+    Стилевые предпочтения: свинг, джаз-рок, фьюжн, босса-нова, самба.'
+  verified: true
+  created: '2011-05-31'
+  is_press_release: true

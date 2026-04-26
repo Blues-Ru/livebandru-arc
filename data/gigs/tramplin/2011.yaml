@@ -1,0 +1,346 @@
+- id: 14938
+  date: '2011-01-21'
+  time: '20:30'
+  band_id: 173
+  band_name: Алкоголь
+  band_token: alcohol
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 15256
+  date: '2011-02-23'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 14999
+  date: '2011-01-27'
+  time: '20:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 15365
+  date: '2011-02-09'
+  time: '20:00'
+  band_name: Олег Ломовой и "Ломовой Orchestra"
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 15380
+  date: '2011-02-10'
+  time: '20:00'
+  band_name: Oh, My Guts
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 15705
+  date: '2011-02-25'
+  time: '20:30'
+  band_name: ComPatriotes
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 15727
+  date: '2011-02-27'
+  time: '19:00'
+  band_name: Влад Демьян
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 16109
+  date: '2011-03-07'
+  time: '20:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 16060
+  date: '2011-03-04'
+  time: '20:00'
+  band_name: Денис Розов, Борис Рубекин
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 16886
+  date: '2011-04-01'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 16822
+  date: '2011-03-27'
+  time: '19:30'
+  band_name: Томас
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 16853
+  date: '2011-03-30'
+  time: '20:00'
+  band_name: The Eves
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 17105
+  date: '2011-04-06'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 17265
+  date: '2011-04-08'
+  time: '20:30'
+  band_name: Тесно
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 17285
+  date: '2011-04-09'
+  time: '20:30'
+  band_name: Дыши
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 18233
+  date: '2011-04-30'
+  time: '19:00'
+  band_name: Smokin' Blues, Градус
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  extra_bands:
+  - id: 431
+    name: SMOKIN' BLUES
+    token: smokin-blues
+- id: 18333
+  date: '2011-05-12'
+  time: '20:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 200 руб.
+- id: 18198
+  date: '2011-04-29'
+  time: '20:00'
+  band_name: Rocking Sun
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 18717
+  date: '2011-05-13'
+  time: '20:30'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 18742
+  date: '2011-05-15'
+  time: '19:00'
+  band_name: Влад Демьян
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 19015
+  date: '2011-06-11'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 19610
+  date: '2011-06-04'
+  time: '20:00'
+  band_name: Ломовой Оркестр
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 19600
+  date: '2011-06-03'
+  time: '20:00'
+  band_name: Франкарди
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 20180
+  date: '2011-06-10'
+  time: '20:30'
+  band_name: Игорь Лучин и Стаж
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 22955
+  date: '2011-11-03'
+  time: '20:00'
+  band_name: Концерт групп The Stokes и Нейро Дюбель
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 22956
+  date: '2011-11-04'
+  time: '20:00'
+  band_name: Кэтрин Кэт
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 23314
+  date: '2011-11-27'
+  time: '18:00'
+  band_name: Bjork_ru - Bjork-Пати
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: бесплатный
+- id: 23315
+  date: '2011-11-30'
+  time: '19:00'
+  band_name: НаКануне
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 150 руб.
+- id: 23316
+  date: '2011-12-06'
+  time: '20:00'
+  band_name: Рамиль Бадамшин
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 23322
+  date: '2011-11-23'
+  time: '20:00'
+  band_name: Бульбаш Бэнд
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 23907
+  date: '2011-12-07'
+  time: '20:30'
+  band_name: Xzabei
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+- id: 22957
+  date: '2011-11-06'
+  time: '19:30'
+  band_name: Александр Щербина, Лев Кузнецов (гитара), Павел Корчагин (контрабас),
+    Олег Козлов (перкуссия), Маша Логофет (скрипка)
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 400 руб.
+- id: 22958
+  date: '2011-11-10'
+  time: '19:30'
+  band_name: АртТерра
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 200 руб.
+- id: 22959
+  date: '2011-11-12'
+  time: '20:00'
+  band_name: Джинсы
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 22960
+  date: '2011-11-13'
+  time: '19:00'
+  band_name: V-Twin Band
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250 руб.
+- id: 22961
+  date: '2011-11-16'
+  time: '19:30'
+  band_name: Эдуард Михеев и ВИА "Односельчане"
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 22962
+  date: '2011-11-17'
+  time: '20:00'
+  band_name: Nоль Три
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300 руб.
+- id: 22963
+  date: '2011-11-18'
+  time: '20:00'
+  band_name: Михаил Новицкий (СП Бабай) и Александр Петерсон (Зимовье Зверей)
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 300-400 руб.
+- id: 22965
+  date: '2011-12-10'
+  time: '19:30'
+  band_name: Elephant
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 400 руб.
+- id: 23311
+  date: '2011-11-25'
+  time: '20:00'
+  band_name: Later
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 250-300 руб.
+- id: 23312
+  date: '2011-11-24'
+  time: '20:00'
+  band_id: 173
+  band_name: Алкоголь
+  band_token: alcohol
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 200 руб.
+- id: 23313
+  date: '2011-11-26'
+  time: '19:00'
+  band_name: Вечер этнической культуры
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 200 руб.
+- id: 23317
+  date: '2011-12-11'
+  time: '19:30'
+  band_name: Вячеслав Онвард
+  club_id: 98
+  club_name: Трамплин
+  club_token: tramplin
+  price: 400 руб.

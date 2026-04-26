@@ -1,0 +1,19 @@
+id: 116
+token: bilingua
+name: Bilingua
+aliases: Билингва
+alive: true
+address: Кривоколенный пер., д. 10, стр. 5
+subway: Тургеневская, Лубянка
+phone: 623-9660
+city_id: 1
+clips:
+- id: 170
+  type: weblink
+  url: http://www.bilinguaclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 466
+  type: rss
+  url: http://community.livejournal.com/club_bilingua/data/rss
+  sort_order: 99

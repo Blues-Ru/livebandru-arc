@@ -1,0 +1,90 @@
+- id: 15121
+  date: '2011-01-30'
+  time: '20:00'
+  band_name: Ongkara
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 15493
+  date: '2011-02-10'
+  time: '20:00'
+  band_name: Андрей Котов и ансамбль "Сирин"
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 15552
+  date: '2011-02-14'
+  time: '20:00'
+  band_id: 357
+  band_name: SunSay
+  band_token: sunsay
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 16212
+  date: '2011-03-08'
+  time: '20:00'
+  band_name: Олег Гаркуша (АукцЫон) и Сергей Летов (Сакс-Мафия)
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+  extra_bands:
+  - id: 152
+    name: Аукцыон
+    token: auktyon
+- id: 16594
+  date: '2011-03-19'
+  time: '21:00'
+  band_name: Marksheider Kunst, The Capital Beat (Финляндия), Spitfire, The Reggaenauts,
+    DJs Nguba, Messer
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 16977
+  date: '2011-03-26'
+  time: '20:00'
+  band_name: Jeniferever (Швеция), Jet Plane (Брянск)
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 16996
+  date: '2011-03-27'
+  time: '20:00'
+  band_name: Федоров - Волков
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 18784
+  date: '2011-05-07'
+  time: '20:00'
+  band_name: The American Dollar (США), Glass Gifts (США)
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 19264
+  date: '2011-05-22'
+  time: '20:00'
+  band_name: Bondage Fairies (SWE)
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 19215
+  date: '2011-05-19'
+  time: '20:00'
+  band_name: The Tate
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+- id: 19658
+  date: '2011-05-28'
+  time: '19:00'
+  band_name: Аддис Абеба, Simba Vibration, Radikkl Beatz, Legalights, Паровоз до Кубы,
+    Хижина дяди Тома, Диапозитив, Фома Егорыч Big Band, Слоны, Батискаф 14, Ямайский
+    и островитяне
+  club_id: 353
+  club_name: The Place
+  club_token: the-place
+  extra_bands:
+  - id: 207
+    name: Аддис Абеба
+    token: addis-abeba

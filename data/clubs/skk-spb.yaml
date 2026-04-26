@@ -1,0 +1,13 @@
+id: 357
+token: skk-spb
+name: СКК "Петербургский"
+alive: true
+address: просп. Юрия Гагарина, 8
+phone: (812) 378-17-10
+city_id: 2
+clips:
+- id: 1332
+  type: weblink
+  url: http://www.spbckk.ru
+  name: Официальный сайт
+  sort_order: 99

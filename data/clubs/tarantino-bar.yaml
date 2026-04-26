@@ -1,0 +1,20 @@
+id: 730
+token: tarantino-bar
+name: Tarantino Bar
+aliases: Тарантино Бар
+alive: true
+address: Октябрьская, 5
+subway: Первомайская
+phone: +375 25 773-70-79
+city_id: 17
+clips:
+- id: 5033
+  type: weblink
+  url: http://tarantino-bar.relax.by/
+  name: Официальный сайт
+  sort_order: 99
+- id: 5034
+  type: weblink
+  url: http://vk.com/tarantino__bar
+  name: Страница ВКонтакте
+  sort_order: 199

@@ -1,0 +1,50 @@
+- id: 42853
+  date: '2014-04-11'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 43488
+  date: '2014-05-23'
+  time: '23:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+  price: 200 руб.
+- id: 44785
+  date: '2014-07-19'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+  price: бесплатный
+- id: 47333
+  date: '2014-10-24'
+  time: '23:00'
+  band_name: Soul Mate, Soulongers, Zou Bisou
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+  price: 300 руб.
+  extra_bands:
+  - id: 53
+    name: Soul Mate
+    token: soulmate
+- id: 47556
+  date: '2014-11-02'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma

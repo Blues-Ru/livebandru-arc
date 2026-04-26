@@ -1,0 +1,2795 @@
+- id: 48887
+  date: '2015-01-02'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48888
+  date: '2015-01-03'
+  time: '21:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48889
+  date: '2015-01-05'
+  time: '21:00'
+  band_name: Djangoband и Полина Касьянова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 48890
+  date: '2015-01-06'
+  time: '21:00'
+  band_name: Dr. Endo и Борис Плотников
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 48891
+  date: '2015-01-07'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48892
+  date: '2015-01-09'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48893
+  date: '2015-01-10'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48897
+  date: '2015-01-08'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48881
+  date: '2015-01-01'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49056
+  date: '2015-01-18'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 48894
+  date: '2015-01-04'
+  time: '21:00'
+  band_name: Иван Жук и Владимир Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 48969
+  date: '2015-02-06'
+  time: '22:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49054
+  date: '2015-01-16'
+  time: '22:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49055
+  date: '2015-01-17'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49057
+  date: '2015-01-23'
+  time: '22:00'
+  band_name: Иван Жук, Владимир Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 49058
+  date: '2015-01-24'
+  time: '21:00'
+  band_id: 88
+  band_name: Omar Itcovici & The Kingsize
+  band_token: omar
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49059
+  date: '2015-01-25'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49060
+  date: '2015-01-30'
+  time: '22:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49061
+  date: '2015-01-31'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49062
+  date: '2015-02-01'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49179
+  date: '2015-02-07'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49180
+  date: '2015-02-08'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49181
+  date: '2015-02-12'
+  time: '21:00'
+  band_id: 117
+  band_name: Листья Травы
+  band_token: leaves-of-grass
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49182
+  date: '2015-02-13'
+  time: '22:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49184
+  date: '2015-02-15'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49501
+  date: '2015-02-20'
+  time: '22:30'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49502
+  date: '2015-02-21'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49503
+  date: '2015-02-22'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49504
+  date: '2015-02-23'
+  time: '21:00'
+  band_name: Иван Жук, Владимир Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 49505
+  date: '2015-02-27'
+  time: '22:30'
+  band_name: the Moonshine
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49506
+  date: '2015-02-28'
+  time: '21:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49507
+  date: '2015-03-01'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 49845
+  date: '2015-03-19'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50176
+  date: '2015-03-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50181
+  date: '2015-03-14'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50182
+  date: '2015-03-15'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50183
+  date: '2015-03-21'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50177
+  date: '2015-03-06'
+  time: '22:30'
+  band_name: Dr. Agranovsky
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 50178
+  date: '2015-03-07'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50179
+  date: '2015-03-08'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50180
+  date: '2015-03-12'
+  time: '21:00'
+  band_name: Константин Гевондян, Андрей Фалько, Андрей Агафонов
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50184
+  date: '2015-03-22'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50185
+  date: '2015-03-27'
+  time: '22:30'
+  band_name: Вадим Иващенко и The Boneshakers, Ольга Лисикова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 50186
+  date: '2015-03-28'
+  time: '21:00'
+  band_id: 633
+  band_name: Bad Bimbos
+  band_token: bad-bimbos
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50187
+  date: '2015-03-29'
+  time: '20:00'
+  band_name: Открытый блюзовый джем Дома у Дороги w/ Robert Lighthouse
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 224
+    name: Открытый блюзовый джем Дома у Дороги
+    token: roadhouse-jam
+  - id: 251
+    name: Robert Lighthouse
+    token: robert-lighthouse
+- id: 50194
+  date: '2015-03-26'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50441
+  date: '2015-04-12'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50434
+  date: '2015-04-02'
+  time: '21:00'
+  band_name: Иван Жук и Владимир Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 50435
+  date: '2015-04-03'
+  time: '22:00'
+  band_id: 551
+  band_name: Елена Шерри
+  band_token: elena-sherry
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50436
+  date: '2015-04-04'
+  time: '21:00'
+  band_name: Boozemen Acoustic Jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50437
+  date: '2015-04-05'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50438
+  date: '2015-04-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50439
+  date: '2015-04-10'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50440
+  date: '2015-04-11'
+  time: '21:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50443
+  date: '2015-04-16'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50444
+  date: '2015-04-17'
+  time: '22:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50445
+  date: '2015-04-18'
+  time: '20:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50446
+  date: '2015-04-19'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50447
+  date: '2015-04-23'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50963
+  date: '2015-04-29'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50964
+  date: '2015-04-30'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50967
+  date: '2015-05-03'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50969
+  date: '2015-05-07'
+  time: '21:00'
+  band_id: 633
+  band_name: Bad Bimbos
+  band_token: bad-bimbos
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51068
+  date: '2015-05-17'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51069
+  date: '2015-05-20'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51070
+  date: '2015-05-21'
+  time: '21:00'
+  band_id: 551
+  band_name: Елена Шерри
+  band_token: elena-sherry
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50965
+  date: '2015-05-01'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50966
+  date: '2015-05-02'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50968
+  date: '2015-05-06'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50970
+  date: '2015-05-08'
+  time: '21:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50972
+  date: '2015-05-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50973
+  date: '2015-05-10'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50974
+  date: '2015-05-13'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50975
+  date: '2015-05-14'
+  time: '21:00'
+  band_name: the Moonshine
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50976
+  date: '2015-05-15'
+  time: '22:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50977
+  date: '2015-05-16'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51168
+  date: '2015-05-23'
+  time: '21:00'
+  band_name: Boozemen Acoustic Jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51169
+  date: '2015-05-24'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51170
+  date: '2015-05-26'
+  time: '21:00'
+  band_name: Юрий Каверкин и Александр Новоселов
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 51171
+  date: '2015-05-27'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51172
+  date: '2015-05-28'
+  time: '21:00'
+  band_name: Вовка Кожекин, Иван Жук
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 50959
+  date: '2015-04-24'
+  time: '22:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50960
+  date: '2015-04-25'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50961
+  date: '2015-04-22'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 50962
+  date: '2015-04-26'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51155
+  date: '2015-05-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51167
+  date: '2015-05-22'
+  time: '22:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51464
+  date: '2015-05-29'
+  time: '22:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51465
+  date: '2015-05-30'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51466
+  date: '2015-05-31'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51467
+  date: '2015-06-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51468
+  date: '2015-06-02'
+  time: '21:00'
+  band_name: Юрий Каверкин и Александр Новоселов
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 51469
+  date: '2015-06-03'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 54316
+  date: '2015-10-02'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54317
+  date: '2015-10-03'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54318
+  date: '2015-10-04'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 51575
+  date: '2015-06-04'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51576
+  date: '2015-06-05'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51577
+  date: '2015-06-07'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51578
+  date: '2015-06-08'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51579
+  date: '2015-06-09'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 51580
+  date: '2015-06-10'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51581
+  date: '2015-06-11'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51663
+  date: '2015-06-29'
+  time: '21:00'
+  band_name: Igor Prado (BR) & Raphael Wressnig (AT)
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  extra_bands:
+  - id: 710
+    name: Igor Prado & Raphael Wressnig
+    token: prado-wressnig
+- id: 51660
+  date: '2015-06-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51661
+  date: '2015-06-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 51668
+  date: '2015-06-12'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52156
+  date: '2015-06-13'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52157
+  date: '2015-06-14'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52159
+  date: '2015-06-17'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52160
+  date: '2015-06-18'
+  time: '21:00'
+  band_name: the Gracious
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52161
+  date: '2015-06-19'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52162
+  date: '2015-06-20'
+  time: '21:00'
+  band_name: Вовка Кожекин и друзья
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 52163
+  date: '2015-06-21'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52164
+  date: '2015-06-23'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52165
+  date: '2015-06-24'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52166
+  date: '2015-06-25'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52167
+  date: '2015-06-26'
+  time: '21:00'
+  band_name: Boozemen Acoustic jam band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52168
+  date: '2015-06-27'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52169
+  date: '2015-06-28'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52170
+  date: '2015-06-30'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52158
+  date: '2015-06-16'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52609
+  date: '2015-07-04'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52610
+  date: '2015-07-05'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52611
+  date: '2015-07-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52631
+  date: '2015-07-16'
+  time: '21:00'
+  band_name: the Rattlesnakes
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 81
+    name: Rattlesnakes
+    token: rattlesnakes
+- id: 52632
+  date: '2015-07-17'
+  time: '21:00'
+  band_name: Andrew & The Moscow Tunes
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52633
+  date: '2015-07-18'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52634
+  date: '2015-07-19'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52635
+  date: '2015-07-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52636
+  date: '2015-07-21'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52637
+  date: '2015-07-22'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 52638
+  date: '2015-07-23'
+  time: '21:00'
+  band_name: the Gracious
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52639
+  date: '2015-07-24'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52640
+  date: '2015-07-25'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52641
+  date: '2015-07-26'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52642
+  date: '2015-07-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52643
+  date: '2015-07-28'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52644
+  date: '2015-07-29'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 52645
+  date: '2015-07-30'
+  time: '21:00'
+  band_name: Djangoband и Полина Касьянова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 52608
+  date: '2015-07-03'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52612
+  date: '2015-07-07'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52614
+  date: '2015-07-09'
+  time: '21:00'
+  band_name: Cross-Eyed Cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52615
+  date: '2015-07-10'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52616
+  date: '2015-07-11'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52617
+  date: '2015-07-12'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52618
+  date: '2015-07-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52619
+  date: '2015-07-14'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52620
+  date: '2015-07-15'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52613
+  date: '2015-07-08'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 52794
+  date: '2015-07-31'
+  time: '21:00'
+  band_name: Gold mine
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52795
+  date: '2015-08-01'
+  time: '21:00'
+  band_id: 62
+  band_name: Ваня Жук & The Juke Band
+  band_token: vanya-zhuk-the-juke-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52797
+  date: '2015-08-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52799
+  date: '2015-08-05'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 52802
+  date: '2015-08-08'
+  time: '21:00'
+  band_name: Andrew & The Moscow Tunes
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52803
+  date: '2015-08-09'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52804
+  date: '2015-08-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52805
+  date: '2015-08-11'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 52806
+  date: '2015-08-12'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 52807
+  date: '2015-08-13'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52808
+  date: '2015-08-15'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52809
+  date: '2015-08-16'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52796
+  date: '2015-08-02'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52798
+  date: '2015-08-04'
+  time: '21:00'
+  band_name: Юрий Каверкин и Гия Дзагнидзе
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 52800
+  date: '2015-08-06'
+  time: '21:00'
+  band_name: Cross-Eyed Cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 52801
+  date: '2015-08-07'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 53129
+  date: '2015-08-20'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 53130
+  date: '2015-08-21'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53134
+  date: '2015-08-26'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53136
+  date: '2015-08-28'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53137
+  date: '2015-08-29'
+  time: '21:00'
+  band_name: Rawcats'88
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 53139
+  date: '2015-08-31'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53140
+  date: '2015-09-01'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53126
+  date: '2015-08-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 53127
+  date: '2015-08-18'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53128
+  date: '2015-08-19'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53131
+  date: '2015-08-22'
+  time: '21:00'
+  band_name: the Gracious
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53132
+  date: '2015-08-23'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53133
+  date: '2015-08-25'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53135
+  date: '2015-08-27'
+  time: '21:00'
+  band_name: Вадим Иващенко и Павел Зибров
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 53138
+  date: '2015-08-30'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53141
+  date: '2015-09-02'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53317
+  date: '2015-09-03'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53322
+  date: '2015-09-09'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53323
+  date: '2015-09-10'
+  time: '21:00'
+  band_name: Вовка Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 53324
+  date: '2015-09-11'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53325
+  date: '2015-09-13'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53326
+  date: '2015-09-14'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53327
+  date: '2015-09-15'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53328
+  date: '2015-09-16'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53329
+  date: '2015-10-01'
+  time: '21:00'
+  band_id: 71
+  band_name: Арсен Шомахов
+  band_token: arsen-shomakhov
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53412
+  date: '2015-09-27'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53413
+  date: '2015-09-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53402
+  date: '2015-09-18'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53403
+  date: '2015-09-17'
+  time: '21:00'
+  band_id: 633
+  band_name: Bad Bimbos
+  band_token: bad-bimbos
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53404
+  date: '2015-09-19'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53405
+  date: '2015-09-20'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53406
+  date: '2015-09-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53408
+  date: '2015-09-23'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53409
+  date: '2015-09-24'
+  time: '21:00'
+  band_name: BMW - Банда Михаила Владимирова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53318
+  date: '2015-09-04'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53319
+  date: '2015-09-06'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53320
+  date: '2015-09-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53321
+  date: '2015-09-08'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53407
+  date: '2015-09-22'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53410
+  date: '2015-09-25'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53411
+  date: '2015-09-26'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 53414
+  date: '2015-09-29'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 53415
+  date: '2015-10-28'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 53773
+  date: '2015-10-17'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54319
+  date: '2015-10-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54320
+  date: '2015-10-06'
+  time: '21:00'
+  band_name: Юрий Каверкин и Михаил Данилов
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 54321
+  date: '2015-10-07'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 54322
+  date: '2015-10-08'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 54323
+  date: '2015-10-09'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54324
+  date: '2015-10-10'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54325
+  date: '2015-10-11'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54326
+  date: '2015-10-13'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 54327
+  date: '2015-10-14'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 54328
+  date: '2015-10-15'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54329
+  date: '2015-10-16'
+  time: '21:00'
+  band_name: Bro_V
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54330
+  date: '2015-10-18'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54331
+  date: '2015-10-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54332
+  date: '2015-10-20'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 54333
+  date: '2015-10-22'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54334
+  date: '2015-10-23'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54335
+  date: '2015-10-24'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54336
+  date: '2015-10-25'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54337
+  date: '2015-10-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54338
+  date: '2015-10-27'
+  time: '21:00'
+  band_name: Юрий Каверкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 54339
+  date: '2015-10-29'
+  time: '21:00'
+  band_name: the Gracious
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54340
+  date: '2015-10-30'
+  time: '21:00'
+  band_name: MarinaBand
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54341
+  date: '2015-10-31'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54342
+  date: '2015-11-01'
+  time: '21:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати, сколько хочешь
+- id: 54907
+  date: '2015-11-02'
+  time: '21:00'
+  band_name: California Rock
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 54908
+  date: '2015-11-03'
+  time: '21:00'
+  band_name: Юрий Каверкин и Николай Добкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 54909
+  date: '2015-11-04'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 54910
+  date: '2015-11-05'
+  time: '21:00'
+  band_name: Cross-Eyed Cats Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 54911
+  date: '2015-11-06'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 54912
+  date: '2015-11-07'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 54913
+  date: '2015-11-08'
+  time: '21:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 55197
+  date: '2015-11-28'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55198
+  date: '2015-11-29'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55199
+  date: '2015-11-30'
+  time: '21:00'
+  band_name: Денис Шевченко, Денис Назаров, Михаил Данилов, Андрей Бессонов
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55200
+  date: '2015-12-01'
+  time: '21:00'
+  band_name: Юрий Каверкин, Николай Добкин, Вячеслав Деренчук
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 55201
+  date: '2015-12-02'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 55202
+  date: '2015-12-03'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55203
+  date: '2015-12-04'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55204
+  date: '2015-12-05'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55205
+  date: '2015-12-06'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55511
+  date: '2015-12-07'
+  time: '21:00'
+  band_name: Jonnny Cash Tribute
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55512
+  date: '2015-12-09'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 55513
+  date: '2015-12-10'
+  time: '21:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55514
+  date: '2015-12-11'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55618
+  date: '2015-12-14'
+  time: '21:00'
+  band_name: Денис Шевченко, Денис Назаров, Владимир Русинов, Ксения Дубровская, Антон
+    Дашкин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 55619
+  date: '2015-12-15'
+  time: '21:00'
+  band_name: Юрий Каверкин, Николай Добкин, Ольга Олейникова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 55620
+  date: '2015-12-16'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 55621
+  date: '2015-12-17'
+  time: '21:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55622
+  date: '2015-12-18'
+  time: '21:00'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55623
+  date: '2015-12-19'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55624
+  date: '2015-12-20'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55641
+  date: '2015-12-21'
+  time: '21:00'
+  band_name: Денис Шевченко, Михаил Данилов, Денис Назаров, Ольга Лисикова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55642
+  date: '2015-12-22'
+  time: '21:00'
+  band_name: Юрий Каверкин, Николай Добкин, Владимир Кожекин
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 55643
+  date: '2015-12-23'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 55644
+  date: '2015-12-24'
+  time: '21:00'
+  band_id: 633
+  band_name: Bad Bimbos
+  band_token: bad-bimbos
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55645
+  date: '2015-12-25'
+  time: '21:00'
+  band_name: Вовка Кожекин и Друзья
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 55646
+  date: '2015-12-26'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55647
+  date: '2015-12-27'
+  time: '20:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+- id: 55702
+  date: '2015-12-29'
+  time: '21:00'
+  band_name: Юрий Каверкин, Николай Добкин, Алексей Аграновский
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 55703
+  date: '2015-12-30'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова и Layna Shery
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads

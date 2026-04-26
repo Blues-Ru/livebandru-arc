@@ -1,0 +1,24 @@
+id: 774
+token: jazziz-club
+name: Jazziz Club
+aliases: 'Fassbinder Cinema Bar
+
+  Центр дизайна ARTPLAY'
+alive: true
+address: ул. Нижняя Сыромятническая, д. 10, стр. 9
+subway: Чкаловская, Курская
+phone: +7 (499) 678-02-25
+city_id: 1
+comments: 1 этаж
+clips:
+- id: 5823
+  type: weblink
+  url: http://www.jazzizclub.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5824
+  type: photo
+  url: jazziz-club.jpg
+  sort_order: 0
+  width: 1500
+  height: 1000

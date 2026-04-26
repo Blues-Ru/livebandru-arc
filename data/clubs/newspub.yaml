@@ -1,0 +1,13 @@
+id: 219
+token: newspub
+name: NewsPub
+alive: true
+address: Хиросимы, 15
+phone: 37-47-11
+city_id: 30
+clips:
+- id: 519
+  type: weblink
+  url: http://www.newspub.ru/
+  name: Официальный сайт
+  sort_order: 0

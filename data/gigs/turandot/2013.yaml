@@ -1,0 +1,22 @@
+- id: 34114
+  date: '2013-02-28'
+  time: '21:00'
+  band_name: Турандот & Jazz Parking Jam
+  club_id: 667
+  club_name: Турандот
+  club_token: turandot
+- id: 36493
+  date: '2013-05-31'
+  time: '20:00'
+  band_name: Jazz Parking Band под управлением Алексея Батыченко, Анжелика Фролова,
+    Этери Бериашвили, Полина Зизак, Анастасия Чеважевская
+  club_id: 667
+  club_name: Турандот
+  club_token: turandot
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak

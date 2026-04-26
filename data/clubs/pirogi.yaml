@@ -1,0 +1,13 @@
+id: 232
+token: pirogi
+name: Pirogi
+alive: true
+address: Газеты Звезда, 5а
+phone: (342) 212-17-07
+city_id: 33
+clips:
+- id: 548
+  type: weblink
+  url: http://pirogi.bolid.fm
+  name: Официальный сайт
+  sort_order: 0

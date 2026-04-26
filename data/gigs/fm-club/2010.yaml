@@ -1,0 +1,409 @@
+- id: 12780
+  date: '2010-09-03'
+  time: '20:00'
+  band_name: Скрипт, Pall2s Band, Electroshaman - акустика
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 12714
+  date: '2010-09-11'
+  time: '21:00'
+  band_name: Распиратор
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 12719
+  date: '2010-09-21'
+  time: '20:00'
+  band_name: Ivanov Vibe Band, Неправильные пчелы, Коллектив "13/8"
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 13243
+  date: '2010-10-26'
+  time: '21:00'
+  band_name: АН-3
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 13238
+  date: '2010-10-20'
+  time: '21:00'
+  band_name: Варя Демидова
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 13242
+  date: '2010-10-25'
+  time: '21:00'
+  band_name: Костя Кирьянов (группа "Друзья")
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 13234
+  date: '2010-10-15'
+  time: '20:00'
+  band_name: Pall2s Band
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 13240
+  date: '2010-10-22'
+  time: '21:00'
+  band_name: Елка
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: '800'
+- id: 13372
+  date: '2010-11-02'
+  time: '20:00'
+  band_name: Escape Town
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 13437
+  date: '2010-11-07'
+  time: '20:00'
+  band_name: Garage Band
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 13236
+  date: '2010-10-18'
+  time: '19:30'
+  band_name: Fake Up
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 100 руб.
+- id: 13237
+  date: '2010-10-19'
+  time: '20:30'
+  band_name: Jam Session
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 13239
+  date: '2010-10-21'
+  time: '21:00'
+  band_name: Иван Смелик
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 13241
+  date: '2010-10-23'
+  time: '20:00'
+  band_name: Rain Drops
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: '350'
+- id: 13244
+  date: '2010-10-29'
+  time: '20:00'
+  band_name: Разные Люди
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 13245
+  date: '2010-10-30'
+  time: '21:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: '1000'
+- id: 13247
+  date: '2010-11-04'
+  time: '21:00'
+  band_name: Jukebox Trio
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: '900'
+- id: 13248
+  date: '2010-11-05'
+  time: '21:00'
+  band_name: Los Templos
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 13246
+  date: '2010-10-31'
+  time: '21:00'
+  band_name: Бобры
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 500 руб.
+- id: 13615
+  date: '2010-11-11'
+  time: '21:00'
+  band_name: Real Jam
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 13862
+  date: '2010-11-25'
+  time: '21:00'
+  band_name: NAMGAR
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 13863
+  date: '2010-11-23'
+  time: '20:00'
+  band_name: ВИА "Ништяк", Маргарита Макарычева, Daotonika
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+  extra_bands:
+  - id: 311
+    name: Daotonika
+    token: daotonika
+- id: 13865
+  date: '2010-11-26'
+  time: '21:00'
+  band_name: TREYA
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 13870
+  date: '2010-11-28'
+  time: '20:00'
+  band_name: '"ГРУППА"'
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 13655
+  date: '2010-11-16'
+  time: '20:00'
+  band_name: Fanatika, 5 сторон
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 13864
+  date: '2010-11-24'
+  time: '20:00'
+  band_name: Mining Hole, Глубина 73, Деньги на Ветер
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 13866
+  date: '2010-11-27'
+  time: '21:00'
+  band_name: Коралловые Рифы
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 500 руб.
+- id: 13867
+  date: '2010-12-03'
+  time: '21:00'
+  band_name: Мамульки Бенд
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 13868
+  date: '2010-12-04'
+  time: '21:00'
+  band_name: Pep-See
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: '700'
+- id: 13869
+  date: '2010-12-05'
+  time: '20:00'
+  band_name: Бензобак
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 14113
+  date: '2010-12-16'
+  time: '20:00'
+  band_name: Грани разума
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 14164
+  date: '2010-12-22'
+  time: '21:00'
+  band_name: Игорь Десятников
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+- id: 12710
+  date: '2010-09-05'
+  time: '20:00'
+  band_name: Шутов Бенд
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 12711
+  date: '2010-09-07'
+  time: '20:00'
+  band_name: Алексей Гоман & Пластиллинн
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 12708
+  date: '2010-09-02'
+  time: '20:00'
+  band_name: Good Radio
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 12709
+  date: '2010-09-04'
+  time: '21:00'
+  band_name: Ключевая
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 12712
+  date: '2010-09-08'
+  time: '20:00'
+  band_name: Банкнота
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 12713
+  date: '2010-09-10'
+  time: '20:00'
+  band_name: Касабланка, Уленшпигель, Обе Две
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 12715
+  date: '2010-09-13'
+  time: '21:00'
+  band_name: Strong Way
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 12716
+  date: '2010-09-14'
+  time: '20:00'
+  band_name: Антон Силкин Бенд
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 12717
+  date: '2010-09-15'
+  time: '21:00'
+  band_name: Элгри
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 12718
+  date: '2010-09-16'
+  time: '20:00'
+  band_name: Кирилл Комаров
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 12724
+  date: '2010-09-26'
+  time: '20:00'
+  band_name: Гараж Бенд (кавера)
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: бесплатный
+- id: 12861
+  date: '2010-09-18'
+  time: '21:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 12720
+  date: '2010-09-22'
+  time: '20:00'
+  band_name: Сабака, The Ninjazz, Карамаджонги
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 50 руб.
+- id: 12721
+  date: '2010-09-23'
+  time: '21:00'
+  band_name: L.E.T.O.
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 300 руб.
+- id: 12722
+  date: '2010-09-24'
+  time: '21:30'
+  band_name: Виктор Добронравов и Ковер-квартет
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 400 руб.
+- id: 12723
+  date: '2010-09-25'
+  time: '19:00'
+  band_name: ОН! + спец гости
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 250 руб.
+- id: 12725
+  date: '2010-09-29'
+  time: '20:00'
+  band_name: The Travellers
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 200 руб.
+- id: 13235
+  date: '2010-10-16'
+  time: '20:00'
+  band_name: Marimba Plus
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club
+  price: 500 руб.
+- id: 13593
+  date: '2010-11-09'
+  time: '20:30'
+  band_name: Blues Jam Session
+  club_id: 133
+  club_name: FM-Club
+  club_token: fm-club

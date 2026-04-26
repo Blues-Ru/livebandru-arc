@@ -1,0 +1,19 @@
+id: 482
+token: v-airapetyan-trio
+name: Трио Ваагна Айрапетяна
+alive: true
+genre_id: 2
+musicians:
+- name: Ваагн Айрапетян
+  instruments: фортепиано
+- name: Сергей Васильев
+  instruments: контрабас
+- name: Павел Тимофеев
+  instruments: ударные
+references:
+- id: 150
+  name: Трио Ивана Фармаковского
+  token: farmakovsky
+- id: 368
+  name: Трио Даниила Крамера
+  token: daniel-kramer

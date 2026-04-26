@@ -1,0 +1,56 @@
+id: 633
+token: bad-bimbos
+name: Bad Bimbos
+alive: true
+city_id: 1
+genre_id: 3
+secondary_genre_id: 1
+musicians:
+- name: Анастасия Концевая
+  instruments: вокал
+- name: Юрий Новгородский
+  instruments: гитара
+- name: Алексей Тишин
+  instruments: бас
+- name: Евгений Гудков
+  instruments: ударные
+clips:
+- id: 4819
+  type: photo
+  url: bad-bimbos.jpg
+  sort_order: 0
+  width: 320
+  height: 180
+- id: 4820
+  type: weblink
+  url: http://vk.com/club37858322
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 4821
+  type: weblink
+  url: https://www.facebook.com/BadBimbos
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 4822
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 366
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Bad Bimbos - музыкальный коллектив, объединивший четырех опытных и самобытных
+    московских музыкантов, искренне любящих рок-музыку! Безбашенный драйв, сочетающийся
+    с мастерством исполнения, а яркая, дерзкая, насыщенная программа не оставят равнодушными
+    ни истинных ценителей классических рок-хитов, ни поклонников блюза, фанка и даже
+    регги! Вам будет приятно увидеть уже знакомые лица в новой гремучей смеси!
+
+
+    В составе Bad Bimbos: Анастасия Концевая (ex-Crossroadz, ex-Н. Арутюнов и Funky
+    Soul и др.), Юрий Новгородский (Н. Арутюнов и Funky Soul, Backstage, Dr. Nick
+    и мн. др.), Алексей Тишин (Н. Арутюнов и Funky Soul, Alice Lange, ex- Hristo Kirillov
+    & Know How и мн. др.) и Евгений Гудков (Ник. Арутюнов и Funky Soul).'
+  verified: true
+  created: '2013-10-09'
+  is_press_release: true

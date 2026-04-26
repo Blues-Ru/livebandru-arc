@@ -1,0 +1,23 @@
+id: 294
+token: boogie-motel
+name: Boogie Motel
+alive: true
+url: http://www.boogiemotel.bos.ru
+city_id: 73
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Андрей Терешин
+  instruments: гитара, вокал
+- name: Алексей Саенко
+  instruments: гитара, вокал
+- name: Константин Бендлин
+  instruments: бас
+- name: Александр
+  instruments: ударные
+clips:
+- id: 986
+  type: weblink
+  url: http://vk.com/club9919019
+  name: Страница ВКонтакте
+  sort_order: 99

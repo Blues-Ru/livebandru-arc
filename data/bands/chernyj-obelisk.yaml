@@ -1,0 +1,29 @@
+id: 526
+token: chernyj-obelisk
+name: Черный Обелиск
+alive: true
+url: http://www.blackobelisk.ru
+city_id: 1
+genre_id: 30
+secondary_genre_id: 3
+musicians:
+- name: Дмитрий Борисенков
+  instruments: вокал, гитара
+- name: Михаил Светлов
+  instruments: гитара
+- name: Даниил Захаренков
+  instruments: бас-гитара, бэк-вокал
+- name: Владимир Ермаков
+  instruments: барабаны
+clips:
+- id: 2434
+  type: weblink
+  url: http://www.blackobelisk.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2433
+  type: photo
+  url: chernyj-obelisk.jpg
+  sort_order: 0
+  width: 500
+  height: 333

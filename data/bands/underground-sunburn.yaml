@@ -1,0 +1,25 @@
+id: 30
+token: underground-sunburn
+name: Underground Sunburn
+alive: true
+url: http://nickgoodcorn.narod.ru/
+city_id: 2
+genre_id: 1
+musicians:
+- name: Николай Гудкон
+  instruments: гитара, вокал
+- name: Виктор Ильин
+  instruments: бас
+- name: Петр Трощенков
+  instruments: ударные
+clips:
+- id: 1829
+  type: weblink
+  url: http://nickgoodcorn.narod.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1830
+  type: weblink
+  url: http://www.realmusic.ru/underground_sunburn/
+  name: Страница на RealMusic
+  sort_order: 100

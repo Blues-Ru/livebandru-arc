@@ -1,0 +1,22 @@
+id: 192
+token: zapovednik
+name: Заповедник
+alive: true
+url: http://www.zapove.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 435
+  type: weblink
+  url: http://www.zapove.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 436
+  type: weblink
+  url: http://vk.com/club17982665
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 437
+  type: rss
+  url: http://community.livejournal.com/zapowednik/data/rss
+  sort_order: 99

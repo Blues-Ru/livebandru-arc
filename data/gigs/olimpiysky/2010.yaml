@@ -1,0 +1,31 @@
+- id: 12992
+  date: '2010-10-07'
+  band_name: '20 лет без "Кино": Земфира, Алиса, В.Бутусов, Король и Шут, Мельница,
+    Пилот, Пикник, Кукрыниксы, Ночные Снайперы, Noize MC, F.P.G.'
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+  extra_bands:
+  - id: 200
+    name: Земфира
+    token: zemfira
+  - id: 241
+    name: Алиса
+    token: alisa
+  - id: 277
+    name: Ночные Снайперы
+    token: night-snipers
+- id: 14041
+  date: '2010-12-09'
+  time: '20:00'
+  band_name: Мумий Тролль
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 13596
+  date: '2010-11-09'
+  time: '19:30'
+  band_name: A-Ha
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky

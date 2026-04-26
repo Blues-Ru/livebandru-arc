@@ -1,0 +1,15 @@
+id: 770
+token: klub-restoran-akademicheskij
+name: Джаз-клуб "Академический"
+alive: false
+address: ул. Донская, д. 1
+subway: Октябрьская
+phone: +7(495) 532-47-23
+city_id: 1
+comments: Гостиница "Академическая"
+clips:
+- id: 5728
+  type: weblink
+  url: http://www.akademrest.ru
+  name: Официальный сайт
+  sort_order: 0

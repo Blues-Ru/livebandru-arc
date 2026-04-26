@@ -1,0 +1,185 @@
+- id: 60990
+  date: '2016-09-24'
+  time: '20:00'
+  band_name: Юрий Каверкин и Nothing Personal, Ольга Олейникова, Lena Foreverjoy
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 60991
+  date: '2016-09-25'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 60992
+  date: '2016-10-01'
+  time: '20:00'
+  band_name: Михаил Кистанов и Лсения Федулова
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 60993
+  date: '2016-10-02'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 61459
+  date: '2016-10-22'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500 руб.
+- id: 61460
+  date: '2016-10-23'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 61521
+  date: '2016-10-29'
+  time: '20:00'
+  band_name: Dylan Tribute
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500 руб.
+- id: 61522
+  date: '2016-10-30'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 62496
+  date: '2016-12-25'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 61926
+  date: '2016-11-12'
+  time: '20:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 61927
+  date: '2016-11-13'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 62006
+  date: '2016-11-19'
+  time: '20:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 62007
+  date: '2016-11-20'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 62417
+  date: '2016-12-10'
+  time: '20:00'
+  band_name: JC Smith
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 1100 / 800 руб.
+  extra_bands:
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith
+- id: 62415
+  date: '2016-12-04'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 62416
+  date: '2016-12-09'
+  time: '21:30'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 62418
+  date: '2016-12-11'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 62449
+  date: '2016-12-17'
+  time: '20:00'
+  band_name: SaltySeaDogs
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 400/200

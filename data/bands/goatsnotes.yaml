@@ -1,0 +1,110 @@
+id: 546
+token: goatsnotes
+name: Goat's Notes
+alive: true
+url: http://goatsnotes.com/
+city_id: 1
+genre_id: 2
+musicians:
+- name: Владимир Черницын
+  instruments: контрабас
+- name: Владимир Кудрявцев
+  instruments: контрабас
+- name: Григорий Сандомирский
+  instruments: клавишные, шумы
+- name: Мария Логофет
+  instruments: скрипка
+- name: Илья Вилков
+  instruments: тромбон
+- name: Петр Талалай
+  instruments: ударные
+- name: Андрей Бессонов
+  instruments: кларнет
+- name: Юрий Севастьянов
+  instruments: саксофон
+- name: Кирилл Паренчук
+  instruments: саксофон, табла
+references:
+- id: 387
+  name: Move Red Objects
+  token: move-red-objects
+- id: 502
+  name: Живые Люди
+  token: livepeople
+- id: 541
+  name: Priot Ensemble
+  token: priot
+- id: 542
+  name: Лампа Ladino
+  token: lampaladino
+- id: 543
+  name: Трио Одиссея
+  token: odysseytrio
+- id: 544
+  name: Квартет Юрия Севастьянова
+  token: sevastyanovquartet
+clips:
+- id: 2673
+  type: weblink
+  url: http://goatsnotes.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3520
+  type: youtube
+  url: http://www.youtube.com/?v=k8v_MW6YGaQ
+  name: Episode I (VK version)
+  comments: GoaT's NoteS Live@Bilingua Apr 10 2012  Maria Logofet - violin, voice,
+    effects Gregory Sandomirsky - piano, voice, perc. Vladimir Kudryavtsev - bass
+    Ilya Vilkov - trombone, voice Piotr Talalay - drums
+  sort_order: 99
+- id: 3521
+  type: youtube
+  url: http://www.youtube.com/?v=67UM7_2qk5U
+  name: Episode V (VK version)
+  comments: 'GoaT''s NoteS Live@Bilingua Apr 10 2012
+
+
+    Maria Logofet - violin, voice, effects
+
+    Gregory Sandomirsky - piano, voice, perc.
+
+    Vladimir Kudryavtsev - bass
+
+    Ilya Vilkov - trombone, voice
+
+    Piotr Talalay - drums'
+  sort_order: 199
+- id: 3522
+  type: youtube
+  url: http://www.youtube.com/?v=NIlxSGnu73s
+  name: Episode VI (VK version)
+  comments: 'GoaT''s NoteS Live@Bilingua Apr 10 2012
+
+
+    Maria Logofet - violin, voice, effects
+
+    Gregory Sandomirsky - piano, voice, perc.
+
+    Vladimir Kudryavtsev - bass
+
+    Ilya Vilkov - trombone, voice
+
+    Piotr Talalay - drums'
+  sort_order: 299
+- id: 3523
+  type: youtube
+  url: http://www.youtube.com/?v=jVcD3fWqsec
+  name: Episode VII (VK version)
+  comments: 'GoaT''s NoteS Live@Bilingua Apr 10 2012
+
+
+    Maria Logofet - violin, voice, effects
+
+    Gregory Sandomirsky - piano, voice, perc.
+
+    Vladimir Kudryavtsev - bass
+
+    Ilya Vilkov - trombone, voice
+
+    Piotr Talalay - drums'
+  sort_order: 399

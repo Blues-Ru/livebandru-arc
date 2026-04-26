@@ -1,0 +1,29 @@
+id: 425
+token: blind-age
+name: Паб Блиндаж
+aliases: Blind Age
+alive: true
+address: Малая Житомирская, 15
+subway: Майдан Незалежности
+phone: (044) 278-15-11
+city_id: 16
+clips:
+- id: 1962
+  type: weblink
+  url: http://www.blindage.kiev.ua
+  name: Официальный сайт
+  sort_order: 0
+- id: 1964
+  type: weblink
+  url: http://vk.com/club2063599
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1963
+  type: rss
+  url: http://community.livejournal.com/blind_age/data/rss
+  sort_order: 99
+- id: 1965
+  type: weblink
+  url: http://www.facebook.com/blindage
+  name: Страница на FaceBook
+  sort_order: 200

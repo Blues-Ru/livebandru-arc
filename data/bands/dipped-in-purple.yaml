@@ -1,0 +1,42 @@
+id: 397
+token: dipped-in-purple
+name: Dipped in Purple
+alive: true
+url: http://dippedpurple.com/
+city_id: 1
+genre_id: 3
+musicians:
+- name: Юрий Рыманов
+  instruments: гитара, бэк-вокал
+- name: Сергей Данилов
+  instruments: клавишные
+- name: Сергей Мокринский
+  instruments: ударные
+- name: Павел Копылов
+  instruments: вокал, перкуссия, губная гармоника
+- name: Евгений Петров
+  instruments: бас, бэк-вокал
+clips:
+- id: 1787
+  type: weblink
+  url: http://dippedpurple.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1788
+  type: photo
+  url: dipped-in-purple.jpg
+  sort_order: 0
+  width: 440
+  height: 174
+- id: 1789
+  type: youtube
+  url: http://www.youtube.com/?v=yvF9gFe1pDI
+  name: Dipped in Purple - Child In Time
+  comments: "Москва, клуб \"Music Town\"\r\n24.11.2010"
+  sort_order: 99
+- id: 1790
+  type: youtube
+  url: http://www.youtube.com/?v=2iysfnhybBw
+  name: Dipped in Purple - Burn
+  comments: "Dipped in Purple - Burn\r\nMoscow, Music Town Club, November 24th, 2010"
+  sort_order: 199

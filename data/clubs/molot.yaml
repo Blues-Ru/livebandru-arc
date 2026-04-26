@@ -1,0 +1,19 @@
+id: 241
+token: molot
+name: Молот
+alive: true
+address: Луначарского, 12
+phone: 47-36-89
+city_id: 36
+comments: к/т Спартак
+clips:
+- id: 557
+  type: weblink
+  url: http://www.molotclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 558
+  type: weblink
+  url: http://vk.com/club1461567
+  name: Страница ВКонтакте
+  sort_order: 100

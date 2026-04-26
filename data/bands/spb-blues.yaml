@@ -1,0 +1,23 @@
+id: 223
+token: spb-blues
+name: Saint Petes Blues
+alive: true
+url: http://saintpetesblues.livejournal.com/
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+clips:
+- id: 3357
+  type: weblink
+  url: http://saintpetesblues.livejournal.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4460
+  type: rss
+  url: https://www.facebook.com/groups/saintpetesblues/
+  name: Saint Petes Blues - джемуем в Facebook
+  sort_order: 100
+- id: 4459
+  type: rss
+  name: Saint Petes Blues in Livejournal
+  sort_order: 0

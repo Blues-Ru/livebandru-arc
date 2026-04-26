@@ -1,0 +1,107 @@
+- id: 13328
+  date: '2010-10-31'
+  time: '20:30'
+  band_name: Сергей Золотов Band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 13201
+  date: '2010-10-13'
+  time: '20:30'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 13449
+  date: '2010-11-02'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 13451
+  date: '2010-11-03'
+  time: '20:00'
+  band_name: Top Gun
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 13750
+  date: '2010-11-07'
+  time: '20:00'
+  band_name: Северяне
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 13763
+  date: '2010-11-10'
+  time: '20:00'
+  band_name: Ken Hensley (UK)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 14227
+  date: '2010-12-08'
+  time: '20:00'
+  band_name: Bon Jovi Tribute Band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 14239
+  date: '2010-12-09'
+  time: '20:00'
+  band_name: Сергей Галанин и группа СерьГа
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 14323
+  date: '2010-12-17'
+  time: '20:00'
+  band_name: 'Jagger Birthday: Ярослав Помогайкин, The Band Purpendicular, Joe Lynn
+    Turner'
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  extra_bands:
+  - id: 119
+    name: Ярослав Помогайкин & 911 Band
+    token: 911-band
+- id: 11653
+  date: '2010-02-24'
+  time: '20:00'
+  band_name: John Nemeth**** (US) при поддержке The Jumping Cats. А так же Old Fashion
+    Blues Project!
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 12561
+  date: '2010-08-10'
+  time: '20:30'
+  band_id: 165
+  band_name: Contrast Blues Band
+  band_token: contrast-b-b
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 13006
+  date: '2010-09-23'
+  time: '20:30'
+  band_name: Grace Garland (USA), Amy Pieterse (СПб), Katy Moon (СПб)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger

@@ -1,0 +1,24 @@
+id: 758
+token: lady-jane
+name: Lady Jane
+alive: true
+address: Театральный пр., 3 стр 3
+subway: Лубянка, Кузнецкий мост
+phone: (495) 624-5590
+city_id: 1
+clips:
+- id: 5403
+  type: weblink
+  url: https://www.facebook.com/ladyjanebar
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 5402
+  type: weblink
+  url: http://www.ldjn.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5404
+  type: weblink
+  url: http://vk.com/ladyjanebar
+  name: Страница ВКонтакте
+  sort_order: 200

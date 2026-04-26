@@ -1,0 +1,44 @@
+- id: 77965
+  date: '2019-03-26'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 916
+  club_name: Old Town Bar
+  club_token: old-town
+  price: бесплатный
+- id: 78686
+  date: '2019-04-20'
+  time: '20:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_id: 916
+  club_name: Old Town Bar
+  club_token: old-town
+  price: бесплатный
+- id: 78692
+  date: '2019-04-23'
+  time: '20:00'
+  band_name: Dr. Nick, виниловые истории Bob Dylan
+  club_id: 916
+  club_name: Old Town Bar
+  club_token: old-town
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 78694
+  date: '2019-04-30'
+  time: '20:00'
+  band_name: Dr. Nick, виниловые истории Pink Floyd
+  club_id: 916
+  club_name: Old Town Bar
+  club_token: old-town
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick

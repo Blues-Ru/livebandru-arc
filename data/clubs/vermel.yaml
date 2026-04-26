@@ -1,0 +1,14 @@
+id: 4
+token: vermel
+name: Вермель
+alive: true
+address: Раушская наб., 4/5
+subway: Третьяковская
+phone: (499) 238-33-03
+city_id: 1
+clips:
+- id: 49
+  type: weblink
+  url: http://www.vermel.ru/
+  name: Официальный сайт
+  sort_order: 0

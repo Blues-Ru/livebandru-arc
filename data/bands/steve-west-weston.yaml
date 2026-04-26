@@ -1,0 +1,71 @@
+id: 609
+token: steve-west-weston
+name: Steve West Weston
+aliases: West Weston's Bluesonics
+alive: true
+url: https://myspace.com/westweston
+city_id: 77
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Steve West Weston
+  instruments: harp/vocals
+- name: Вадим Иващенко
+  instruments: гитара
+- name: Юрий Горелов
+  instruments: бас-гитара/контрабас
+- name: Михаил Юдин
+  instruments: ударные
+clips:
+- id: 5070
+  type: youtube
+  url: http://www.youtube.com/?v=jNk4W5L9Qd0
+  name: '"She Talks Back" West Weston''s Bluesonics, live at Mijas International Festival
+    de Blues, 8 July 2012'
+  comments: 'live at Mijas International Festival de Blues, 8 July 2012
+
+    www.myspace.com/westweston
+
+
+    West Weston - harmonica, vocals
+
+    Orlando Shearer - double bass
+
+    Mike Thorne - drums
+
+    Paul Garner - guitar'
+  sort_order: 0
+- id: 5071
+  type: weblink
+  url: https://myspace.com/westweston
+  name: Официальный сайт
+  sort_order: 0
+- id: 5067
+  type: youtube
+  url: http://www.youtube.com/?v=HGw2PHre7Ds
+  name: Mellow Down Easy/ Who Do you Love - Steve West Weston Gigging at Mojo 27.07.12
+  comments: "Gigging at Mojo 270712 \nBacked By:      Ronni Busack-Boysen - Guitar\n\
+    \                       Henrik Poulsen - Bass\n                       Mathias\
+    \ Rindom - Drums\n\nMojo Copenhagen - 270712"
+  sort_order: 99
+- id: 5133
+  type: photo
+  url: steve-west-weston.jpg
+  sort_order: 0
+  width: 509
+  height: 719
+- id: 5068
+  type: youtube
+  url: http://www.youtube.com/?v=v_D4CVxOHQE
+  name: 36-24-38 - Steve West Weston gigging at Mojo Copenhagen - 27.07.12
+  comments: 'Steve West Weston gigging at Mojo Copenhagen - 270712 - Olympic opening
+    night - nevertheless the place was crowded - he was our British representative
+    to open the Olympic Blues Harmonica event for us '
+  sort_order: 199
+- id: 5069
+  type: youtube
+  url: http://www.youtube.com/?v=f9NeHJZZ3wc
+  name: Harp Solo - West Weston, Recorded at the Round Midnight Jazz bar, Islington.
+  comments: Recorded at the Round Midnight Jazz bar, Islington. West Weston - Harmonica
+    Orlando Shearer - Bass Paul Garner - Guitar Peter Greatorex - Drums
+  sort_order: 299

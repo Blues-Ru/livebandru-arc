@@ -1,0 +1,28 @@
+- id: 27164
+  date: '2012-04-07'
+  time: '21:00'
+  band_name: Млад и Star
+  club_id: 584
+  club_name: The Golden Lion
+  club_token: golden-lion
+  price: вход свободный
+- id: 27166
+  date: '2012-04-13'
+  time: '21:00'
+  band_name: Ансамбль Илдара Казаханова и Виктория Урусова
+  club_id: 584
+  club_name: The Golden Lion
+  club_token: golden-lion
+  price: бесплатный
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 27167
+  date: '2012-04-14'
+  time: '21:00'
+  band_name: Млад и Star
+  club_id: 584
+  club_name: The Golden Lion
+  club_token: golden-lion
+  price: бесплатный

@@ -1,0 +1,1281 @@
+- id: 12628
+  date: '2010-08-27'
+  time: '21:30'
+  band_name: Оркестр Пижоны
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+  extra_bands:
+  - id: 172
+    name: Пижоны
+    token: pijony
+- id: 12631
+  date: '2010-09-03'
+  time: '22:00'
+  band_id: 174
+  band_name: Бони Нем
+  band_token: boni-nem
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 12858
+  date: '2010-09-27'
+  time: '21:00'
+  band_name: Antonik, Barra Brava, Lost Roads
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12860
+  date: '2010-09-29'
+  time: '21:00'
+  band_name: Мозги, Кто Есть Кто, L.I.F.E., Мэшинган оркестра
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 12854
+  date: '2010-09-23'
+  time: '21:00'
+  band_name: Палев
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12856
+  date: '2010-09-25'
+  time: '21:00'
+  band_name: Тимур Ведерников
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 13017
+  date: '2010-10-01'
+  time: '22:00'
+  band_name: Ирина Сурина
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 13019
+  date: '2010-10-05'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13022
+  date: '2010-10-08'
+  time: '23:00'
+  band_name: Мамульки Бенд
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13023
+  date: '2010-10-09'
+  time: '23:00'
+  band_id: 106
+  band_name: Вадим Степанцов и Бахыт Компот
+  band_token: stepantsov
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13024
+  date: '2010-10-10'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13025
+  date: '2010-10-13'
+  time: '21:00'
+  band_id: 179
+  band_name: Rock Machine
+  band_token: rock-machine
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13026
+  date: '2010-10-12'
+  time: '21:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13027
+  date: '2010-10-14'
+  time: '21:00'
+  band_name: Echoes
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13029
+  date: '2010-10-16'
+  time: '21:00'
+  band_id: 178
+  band_name: Джин Тоник
+  band_token: gin-tonic
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+  extra_bands:
+  - id: 281
+    name: Pozitive Orchestra
+    token: pozitive-orchestra
+- id: 13030
+  date: '2010-10-19'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13031
+  date: '2010-10-17'
+  time: '21:00'
+  band_name: Beat Devils
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13034
+  date: '2010-10-22'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 13035
+  date: '2010-10-23'
+  time: '20:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 12845
+  date: '2010-09-14'
+  time: '21:00'
+  band_name: Борис Булкин (акустика)
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 12847
+  date: '2010-09-15'
+  time: '21:00'
+  band_name: Rock-Machine
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 12849
+  date: '2010-09-17'
+  time: '22:00'
+  band_name: Виктор Зинчук, Роберт Болт
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 600 руб.
+- id: 13018
+  date: '2010-10-02'
+  time: '21:00'
+  band_name: Александр Чернецкий, Макс Орех, "Александр Тон и компания"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13020
+  date: '2010-10-07'
+  time: '19:00'
+  band_name: Дочь Монро и Кенеди
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13033
+  date: '2010-10-21'
+  time: '21:00'
+  band_name: Кум Brothers
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13028
+  date: '2010-10-15'
+  time: '22:00'
+  band_id: 174
+  band_name: Бони Нем
+  band_token: boni-nem
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13187
+  date: '2010-10-06'
+  time: '20:00'
+  band_name: Небо Пополам
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13192
+  date: '2010-10-27'
+  time: '21:00'
+  band_name: Июльское Утро (экс ВИА Леонова)
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13286
+  date: '2010-11-02'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13287
+  date: '2010-11-03'
+  time: '22:00'
+  band_name: Монгол Шуудан
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 13288
+  date: '2010-11-04'
+  time: '22:00'
+  band_name: Настя Полева
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13289
+  date: '2010-10-25'
+  time: '20:00'
+  band_id: 311
+  band_name: Daotonika
+  band_token: daotonika
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13290
+  date: '2010-11-05'
+  time: '22:00'
+  band_id: 174
+  band_name: Бони Нем
+  band_token: boni-nem
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13291
+  date: '2010-11-06'
+  time: '22:00'
+  band_name: По живому
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13292
+  date: '2010-11-10'
+  time: '21:00'
+  band_name: Rock-Machine
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13284
+  date: '2010-10-24'
+  time: '20:00'
+  band_name: "группа \"Ла\" (арт-рок, полуакустика)  \r\n- группа \"Филадельфия\"\
+    \ (хард-рок, брит-поп) \r\n- группа \"Олимпийский\" (рок, рок-н-ролл)"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 308
+    name: Олимпийский
+    token: olimpysky
+- id: 13285
+  date: '2010-11-01'
+  time: '20:00'
+  band_name: Здравствуйте, Соблаков
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13554
+  date: '2010-11-08'
+  time: '21:00'
+  band_name: Нодадаптанты (рок, регги-рок) + Дима ZiWyJi (регги, сольный проект);
+    Жан Жаныч и Баоdub (регги, синт-рок); Вменяемые Обезьяны (авторский рок)
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13556
+  date: '2010-11-11'
+  time: '21:00'
+  band_name: Классный час
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13557
+  date: '2010-11-12'
+  time: '19:00'
+  band_name: '"Кабинет", "СВЧ", Ольга Панюшкина и Егор Никонов, Петр Свешников и "Психочтения"'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13559
+  date: '2010-11-14'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13561
+  date: '2010-11-16'
+  time: '21:00'
+  band_name: '"Azagra Blues Band" - Tom Waits Tribute'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 190
+    name: Azagra Blues Band
+    token: azagra-blues
+- id: 13978
+  date: '2010-12-15'
+  time: '21:00'
+  band_id: 173
+  band_name: Алкоголь
+  band_token: alcohol
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13365
+  date: '2010-11-24'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13558
+  date: '2010-11-13'
+  time: '22:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13934
+  date: '2010-12-11'
+  time: '22:00'
+  band_id: 174
+  band_name: Бони Нем
+  band_token: boni-nem
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13850
+  date: '2010-11-22'
+  time: '19:30'
+  band_name: "Процессор;\r\nYellow House (Питер);\r\nОсколки (Питер)"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 310
+    name: Процессор
+    token: protsessor
+- id: 13851
+  date: '2010-11-23'
+  time: '21:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13852
+  date: '2010-11-24'
+  time: '21:00'
+  band_name: Июльское утро; Предел мечтаний
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13853
+  date: '2010-11-25'
+  time: '21:00'
+  band_name: Белый Шаман
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13858
+  date: '2010-11-27'
+  time: '19:00'
+  band_name: Счастливое избавление
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 13860
+  date: '2010-12-02'
+  time: '21:00'
+  band_name: Nova
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13861
+  date: '2010-12-03'
+  time: '21:00'
+  band_name: Cabernet Deneuve
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 350 руб
+  extra_bands:
+  - id: 205
+    name: Каберне Денев
+    token: cabernet-deneuve
+- id: 13938
+  date: '2010-12-18'
+  time: '22:00'
+  band_name: Настя Полева & Егор Белкин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13980
+  date: '2010-12-17'
+  time: '21:00'
+  band_name: Джин Тоник Pozitive Orchestra
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  extra_bands:
+  - id: 281
+    name: Pozitive Orchestra
+    token: pozitive-orchestra
+  - id: 178
+    name: Джин Тоник
+    token: gin-tonic
+- id: 13981
+  date: '2010-12-06'
+  time: '19:30'
+  band_name: Артем Белов, Утро Мира, Reconduista, Мир Детям, Геккерберри Финн
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13982
+  date: '2010-12-26'
+  time: '21:00'
+  band_name: Beat Devils
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 13830
+  date: '2010-11-17'
+  time: '21:00'
+  band_name: Das Ist Band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13831
+  date: '2010-11-18'
+  time: '21:00'
+  band_name: Михаил Зюлин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13832
+  date: '2010-11-20'
+  time: '21:00'
+  band_name: Джин Тоник "Pozitive Orchestra"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+  extra_bands:
+  - id: 281
+    name: Pozitive Orchestra
+    token: pozitive-orchestra
+  - id: 178
+    name: Джин Тоник
+    token: gin-tonic
+- id: 13857
+  date: '2010-11-27'
+  time: '23:00'
+  band_id: 106
+  band_name: Вадим Степанцов и Бахыт Компот
+  band_token: stepantsov
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13859
+  date: '2010-11-27'
+  time: '21:00'
+  band_name: Kyoto + Grizzli
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 14491
+  date: '2010-12-29'
+  time: '20:00'
+  band_name: Полный состав
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 14492
+  date: '2010-12-30'
+  time: '20:30'
+  band_name: Neverminds
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13926
+  date: '2010-12-04'
+  time: '19:00'
+  band_name: Крылья Осени, Ктоестькто, Luttan
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13927
+  date: '2010-12-04'
+  time: '23:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13930
+  date: '2010-12-09'
+  time: '21:00'
+  band_name: Кум Brothers
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13932
+  date: '2010-12-11'
+  time: '19:00'
+  band_name: Алиби
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13983
+  date: '2010-12-07'
+  time: '20:00'
+  band_name: Morj vs Brussnika, Со Скрипом
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13849
+  date: '2010-11-30'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13856
+  date: '2010-11-26'
+  time: '22:00'
+  band_name: Карл Хламкин и "Огнеопаснооркестр"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 13935
+  date: '2010-12-12'
+  time: '19:00'
+  band_name: 'Vobla Fest: G-band, Свидетели босановы, Бобровая Хатка, AntiFoto, Psychodelic
+    Blues'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13946
+  date: '2010-12-01'
+  time: '20:00'
+  band_name: '"Bright Night in Schwein" в программе группы, а какже сольные выступления
+    участников проекта "Bright Night": Ивана Карякина и Кирилла Дорошкевича.'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13979
+  date: '2010-12-24'
+  time: '23:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 1000 руб.
+- id: 14141
+  date: '2010-12-19'
+  time: '21:00'
+  band_name: Вася Ложкин рок-н-ролл бэнд
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 14147
+  date: '2010-12-19'
+  time: '19:00'
+  band_name: Der Steinkopf
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 14467
+  date: '2010-12-14'
+  time: '21:00'
+  band_name: Борис Булкин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 14472
+  date: '2010-12-31'
+  time: '22:00'
+  band_name: Акулы
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 4000р.
+- id: 14481
+  date: '2010-12-21'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 14473
+  date: '2010-12-25'
+  time: '21:00'
+  band_name: По-живому, Мамульки Бенд
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 14468
+  date: '2010-12-20'
+  time: '19:00'
+  band_name: Дима ZiWyJi, Терентели, Daotonika, Процессор, Террариум
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 310
+    name: Процессор
+    token: protsessor
+  - id: 311
+    name: Daotonika
+    token: daotonika
+- id: 14482
+  date: '2010-12-22'
+  time: '21:00'
+  band_name: '22-летие Куртуазных Маньеристов: Андрей Добрынин, Дмитрий Быков, Александр
+    Скиба (Нижний Новгород), Александр Тенишев (Санкт-Петербург, песни)'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 14469
+  date: '2010-12-23'
+  time: '21:00'
+  band_name: Rock-Machine
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 12364
+  date: '2010-07-28'
+  time: '21:00'
+  band_id: 157
+  band_name: Smokin' Boolldozers
+  band_token: smokin-boolldozers
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 11570
+  date: '2010-02-07'
+  time: '20:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 100 руб.
+- id: 11577
+  date: '2010-01-22'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 11669
+  date: '2010-02-04'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 11677
+  date: '2010-02-12'
+  time: '22:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 11937
+  date: '2010-04-20'
+  time: '21:00'
+  band_id: 122
+  band_name: Алена Иванова и MC-Band
+  band_token: mc-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12177
+  date: '2010-06-11'
+  time: '21:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 12254
+  date: '2010-06-11'
+  time: '20:00'
+  band_name: "\"Большое рок-н-рольное шоу\" с участием: Денис Мажуков и группа \"\
+    Off Beat\",\r\nуникальный и единственный, постоянно действующий женский джазовый\
+    \ ансамбль \"Jazz Sisters\""
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+  - id: 125
+    name: Jazz Sisters
+    token: jazz-sisters
+- id: 12633
+  date: '2010-08-28'
+  time: '21:00'
+  band_name: Залив Кита, Запой
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+  extra_bands:
+  - id: 183
+    name: Залив Кита
+    token: zaliv-kita
+  - id: 184
+    name: Запой
+    token: zapoy
+- id: 12635
+  date: '2010-08-29'
+  time: '21:00'
+  band_id: 185
+  band_name: Группа Дыши
+  band_token: dishi
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12636
+  date: '2010-09-01'
+  time: '21:00'
+  band_id: 173
+  band_name: Алкоголь
+  band_token: alcohol
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 12637
+  date: '2010-09-10'
+  time: '23:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 12638
+  date: '2010-08-31'
+  time: '21:00'
+  band_name: Борис Булкин без ансамбля
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 12650
+  date: '2010-09-12'
+  time: '20:00'
+  band_id: 192
+  band_name: Заповедник
+  band_token: zapovednik
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12513
+  date: '2010-08-12'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12645
+  date: '2010-09-02'
+  time: '21:00'
+  band_id: 186
+  band_name: Федул Жадный
+  band_token: fedool
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 12795
+  date: '2010-09-22'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12843
+  date: '2010-09-10'
+  time: '20:00'
+  band_name: Тесно
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+- id: 12844
+  date: '2010-09-11'
+  time: '21:00'
+  band_name: Das Ist Band, Dos Grandos
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 12848
+  date: '2010-09-16'
+  time: '21:00'
+  band_name: Smokin Boolldozers, Helsinki Cowboys
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12851
+  date: '2010-09-19'
+  time: '20:00'
+  band_name: Наглый фрукт, L.E.T.O.
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+  extra_bands:
+  - id: 238
+    name: Наглый Фрукт
+    token: froo
+- id: 12852
+  date: '2010-09-21'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 12853
+  date: '2010-09-20'
+  band_name: Kimbata, Reddish Avenue, Жан Жаныч
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 111
+    name: Кимбата
+    token: kimbata
+- id: 12855
+  date: '2010-09-24'
+  time: '23:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 12634
+  date: '2010-09-04'
+  time: '23:00'
+  band_id: 175
+  band_name: Настя Полева и группа "Настя"
+  band_token: nastya-poleva
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 12639
+  date: '2010-09-18'
+  time: '21:00'
+  band_id: 178
+  band_name: Джин Тоник
+  band_token: gin-tonic
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 12796
+  date: '2010-09-30'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 12857
+  date: '2010-09-26'
+  time: '21:00'
+  band_name: Doble Martin
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 12646
+  date: '2010-09-05'
+  time: '19:00'
+  band_name: "Rock-Party: Последний Сок, ШтраFF,\r\nJust Another Day"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 187
+    name: Последний Сок
+    token: posledny-sok
+  - id: 188
+    name: ШтраFF
+    token: shtraff
+  - id: 189
+    name: Just Another Day
+    token: just-another-day
+- id: 12647
+  date: '2010-09-07'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 12648
+  date: '2010-09-08'
+  time: '21:00'
+  band_name: Радистка Кэсс
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 12652
+  date: '2010-09-13'
+  time: '21:00'
+  band_name: Арматура Dream, Unisex, Олимпийский
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 193
+    name: Unisex
+    token: unisex
+- id: 12859
+  date: '2010-09-28'
+  time: '21:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13032
+  date: '2010-10-20'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13087
+  date: '2010-10-01'
+  time: '22:00'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 13193
+  date: '2010-10-28'
+  time: '21:00'
+  band_name: Карина Ясен JK band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13194
+  date: '2010-10-29'
+  time: '23:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13195
+  date: '2010-10-30'
+  time: '21:30'
+  band_id: 172
+  band_name: Пижоны
+  band_token: pijony
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 300 руб.
+- id: 13196
+  date: '2010-10-31'
+  time: '21:00'
+  band_name: RadioCity
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 12842
+  date: '2010-09-09'
+  time: '21:00'
+  band_name: Скрудж Макдак
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13021
+  date: '2010-10-03'
+  time: '19:00'
+  band_name: Alter Ego
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13190
+  date: '2010-10-11'
+  time: '21:00'
+  band_name: '"Фэнтэзи вечер"- "Элессар", "Храм Заката"'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13191
+  date: '2010-10-26'
+  time: '21:00'
+  band_name: Борис Булкин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 13555
+  date: '2010-11-09'
+  time: '21:00'
+  band_name: Борис Булкин
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 13560
+  date: '2010-11-15'
+  time: '21:00'
+  band_name: "Томми Нокер;\r\nStereotolik;\r\nDaotonika"
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+  extra_bands:
+  - id: 311
+    name: Daotonika
+    token: daotonika
+- id: 13562
+  date: '2010-11-19'
+  time: '21:00'
+  band_name: '"По-живому", "Мамульки Бенд"'
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 500 руб.
+- id: 13928
+  date: '2010-12-05'
+  time: '20:30'
+  band_name: Палево
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 250 руб.
+- id: 13929
+  date: '2010-12-08'
+  time: '21:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 13931
+  date: '2010-12-10'
+  time: '21:00'
+  band_name: Джинсы, Пижоны, Мистер Твистер
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 400 руб.
+  extra_bands:
+  - id: 87
+    name: Мистер Твистер
+    token: mister-twister
+  - id: 172
+    name: Пижоны
+    token: pijony
+- id: 13936
+  date: '2010-12-12'
+  time: '22:00'
+  band_name: Бранимир
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 200 руб.
+- id: 13937
+  date: '2010-12-16'
+  time: '21:00'
+  band_name: Рок-концерт.
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein

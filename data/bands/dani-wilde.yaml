@@ -1,0 +1,84 @@
+id: 659
+token: dani-wilde
+name: Dani Wilde
+aliases: GIRLS WITH GUITARS
+alive: true
+url: http://www.daniwilde.com
+city_id: 77
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Dani Wilde
+  instruments: guitar/vocals
+- name: Петр Митрюхин
+  instruments: бас-гитара/бэк-вокал
+- name: Сегрей Чекмаренко
+  instruments: ударные
+- name: Алексей Сечкин
+  instruments: клавишные
+clips:
+- id: 5120
+  type: youtube
+  url: https://www.youtube.com/watch?v=7mS2AOVPtYU
+  name: GIRLS WITH GUITARS-"Wait a minute baby". Directo en HONDARRIBIA 2011 (ESPA&#209;A)
+  sort_order: 199
+- id: 5139
+  type: youtube
+  url: http://www.youtube.com/?v=9QY1MOxcvtM
+  name: Dani Wilde - I'd Rather Go Blind
+  comments: Live Video recorded Apr. 12th 2009 at "Alte Piesel", Dirlos/Fulda as the
+    22 years old wonderful singer/guitarist Dani Wilde from Brighton/UK was on her
+    Germany-tour 2009. Recorded in FullHD with Canon
+  sort_order: 50
+- id: 5140
+  type: youtube
+  url: http://www.youtube.com/?v=SxQXQszNWSs
+  name: Dani Wilde - Loving You
+  comments: 'Dani Wilde performing at Sacrebleu, featuring Will Wilde and Stuart Dixon.
+
+    Filmed by Dean Higgins.
+
+    A Lensing Films Production.'
+  sort_order: 75
+- id: 5118
+  type: weblink
+  url: http://www.daniwilde.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5119
+  type: youtube
+  url: https://www.youtube.com/watch?v=uHhSBIQvhag
+  name: DANI WILDE - Girls With Guitars - HODARRIBIA 2011-Guip&#250;zcoa (ESPA&#209;A)
+  sort_order: 99
+- id: 5125
+  type: photo
+  url: dani-wilde.jpg
+  sort_order: 0
+  width: 1400
+  height: 1400
+reviews:
+- id: 382
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженка городка Халлавингтон в графстве Уилтшир, жительница курортного Брайтона,
+    ДАНИ УАЙЛД - певица, гитаристка, сонграйтер - с юных лет обнаружила в себе страсть
+    к музыке и способности к сочинительству. Ее вкусы в музыке развивались под влиянием
+    кантри, блюза, госпела и соул.
+
+
+    Дани Уайлд с юных лет много гастролирует от родной Британии до Штатов и Канады,
+    от континентальной Европы до Африки, и выступает как в скромных клубах, так и
+    на сценах наиболее престижных полщадок, таких как Royal Albert hall или B.B.King
+    Blues Club на Таймс-Сквер в Нью-Йорке.
+
+
+    Ради того, чтобы записать ее альбомы 2009 и 2012 года к пульту вновь встал ветеран-продюсер
+    Майк Вернон!
+
+
+    А по результатам 2013 года Дани Уайлд заняла почетное третье место в номинации
+    "Best British Blues Female Vocalist"'
+  verified: true
+  created: '2013-12-20'
+  is_press_release: true

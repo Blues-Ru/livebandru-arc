@@ -1,0 +1,19 @@
+id: 422
+token: skvoznyak
+name: Сквозняк
+alive: true
+address: Ново-Садовая, 106
+subway: Российская
+phone: 270-39-49
+city_id: 12
+clips:
+- id: 1884
+  type: weblink
+  url: http://www.skvoznyak.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1885
+  type: weblink
+  url: http://vk.com/club19530876
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,1035 @@
+- id: 39137
+  date: '2013-10-12'
+  time: '20:00'
+  band_name: 'Roadhouse v. 3.0 Party: Mishouris Blues Band , Drunken Sailors Band,
+    Юрий Каверкин, Dr. Endo, д-р Аграновский, Django Band, The Jumping Cats, Ольга
+    Олейникова, Петрович, Dizzy Riders, Shaky Jake'
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 69
+    name: Drunken Sailors Band
+    token: drunken-sailors-band
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 573
+    name: Shaky Jake
+    token: shaky-jake
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 39115
+  date: '2013-10-11'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+  comments: Первый концерт во вновь открывшемся на новом месте легендарном Roadhouse
+    Club - Доме у Дороги. Адрей - м. Проспект Мира, ул. Щепкина, 33
+- id: 39140
+  date: '2013-10-16'
+  time: '21:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39141
+  date: '2013-10-17'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39142
+  date: '2013-10-18'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39143
+  date: '2013-10-20'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 39144
+  date: '2013-10-21'
+  time: '21:00'
+  band_id: 88
+  band_name: Omar Itcovici & The Kingsize
+  band_token: omar
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39145
+  date: '2013-10-22'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 39146
+  date: '2013-10-23'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39135
+  date: '2013-10-08'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 39138
+  date: '2013-10-13'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 39139
+  date: '2013-10-15'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 39211
+  date: '2013-10-18'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39212
+  date: '2013-10-19'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39213
+  date: '2013-10-24'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39214
+  date: '2013-10-25'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39215
+  date: '2013-10-25'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39216
+  date: '2013-10-26'
+  time: '21:00'
+  band_name: Dr. Endo & Friends
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 39217
+  date: '2013-10-26'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39218
+  date: '2013-10-27'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 39133
+  date: '2013-10-10'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 39134
+  date: '2013-10-09'
+  time: '21:00'
+  band_id: 633
+  band_name: Bad Bimbos
+  band_token: bad-bimbos
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+- id: 39136
+  date: '2013-10-19'
+  time: '21:00'
+  band_id: 71
+  band_name: Арсен Шомахов
+  band_token: arsen-shomakhov
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 800 руб.
+- id: 39219
+  date: '2013-10-29'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 39220
+  date: '2013-10-30'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39221
+  date: '2013-10-31'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39222
+  date: '2013-11-01'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39223
+  date: '2013-11-01'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39224
+  date: '2013-11-02'
+  time: '21:00'
+  band_name: Juliana Strangelove & These Guys
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39225
+  date: '2013-11-02'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39334
+  date: '2013-11-13'
+  time: '21:00'
+  band_name: Дмитрий Dr. Endo Казачков и Юрий Новгородский, акустика
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 40012
+  date: '2013-11-21'
+  time: '21:00'
+  band_name: The Kikipickles
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 400 руб.
+- id: 39433
+  date: '2013-10-28'
+  time: '21:00'
+  band_name: Boom Boom Boom Boom. Андрей Евдокимов, Михаил Мишурис, Андрей Цыганков.
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39434
+  date: '2013-11-03'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39435
+  date: '2013-11-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39436
+  date: '2013-11-04'
+  time: '21:00'
+  band_name: boom boom boom boom Андрей Евдокимов, Михаил Мишурис
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39437
+  date: '2013-11-05'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 39438
+  date: '2013-11-06'
+  time: '21:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39439
+  date: '2013-11-07'
+  time: '21:00'
+  band_name: Marshmallows
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39440
+  date: '2013-11-08'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 39441
+  date: '2013-11-08'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39442
+  date: '2013-11-09'
+  time: '21:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 800 руб.
+- id: 39443
+  date: '2013-11-09'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39444
+  date: '2013-11-10'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 39445
+  date: '2013-11-11'
+  time: '21:00'
+  band_name: boom boom boom boom Андрей Евдокимов, Михаил Мишурис
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 39446
+  date: '2013-11-12'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 39447
+  date: '2013-11-14'
+  time: '21:00'
+  band_id: 62
+  band_name: Ваня Жук & The Juke Band
+  band_token: vanya-zhuk-the-juke-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 39448
+  date: '2013-11-15'
+  time: '19:00'
+  band_name: Денис Мажуков - 30 лет на сцене
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 1200 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 40017
+  date: '2013-11-24'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40018
+  date: '2013-11-25'
+  time: '20:00'
+  band_name: boom boom boom boom blues'n'talk show
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+  comments: "Так уж повелось, по понедельникам в Roadhouse Moscow (Дом у Дороги)концертов\
+    \ нет, однако к гостям выйдут двое бравых мужчин в самом расцвете сил, два знаменитых\
+    \ и высококвалифицированных специалиста в области отечественной и заграничной\
+    \ блюзологии!\r\nОдин - Mikhail Mishouris принесет любимые виниловые пластинки\
+    \ и сигары, другой - Andrei V. Evdokimov - самокрутки и объемистый интеллектуальный\
+    \ багаж.\r\nОба вместе, сразу и по очереди, эти гиганты мысли и заслуженные деятели\
+    \ околоблюзовых искусств начнут серьезные и не очень о блюзе вообще и чикагском\
+    \ блюзе 70-х в частности, и если уж совсем точно, разговор пой дет о Великих -\
+    \ Son Seals, Fenton Robinson и Jimmy Johnson.\r\nУже известно из практики предшествующих\
+    \ передачи программ, что и легкомысленный треп в такой компании образуется сам\
+    \ собой естественным образом.\r\nВот впечатления об одном из понедельников от\
+    \ Михаила Мишуриса:\r\n\"На этот раз, мы были не \"блюз-комитет\" за столом на\
+    \ сцене, а вполне себе живые, доступные люди в обществе себе подобных. То есть,\
+    \ сидели вместе со всеми в зале, общались без микрофона. Вертушка тоже стояла\
+    \ в зале. Мои пластинки разбирали по столам, рассматривали и задавали вопросы.\
+    \ А вопросы были, я аж осип от общения (без микрофона то!). Атмосфера образовалась\
+    \ точно такая, как я и хотел: абсолютно домашняя и расслабленная. Часа 4 трепа\
+    \ и музыки пролетели незаметно. Ждем в понедельник снова!\"\r\nПрисоединяйтесь!\
+    \ \r\nВход свободный"
+- id: 40019
+  date: '2013-11-26'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40020
+  date: '2013-11-27'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40021
+  date: '2013-11-28'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 400 руб.
+- id: 40022
+  date: '2013-11-29'
+  time: '21:00'
+  band_name: Joakim Tinderholt with the Jumping Cats
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 800 руб.
+  extra_bands:
+  - id: 501
+    name: Joakim Tinderholt
+    token: joakim-tinderholt
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 40024
+  date: '2013-11-30'
+  time: '21:00'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40026
+  date: '2013-12-01'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40035
+  date: '2013-12-06'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40038
+  date: '2013-12-08'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40040
+  date: '2013-12-10'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40042
+  date: '2013-12-12'
+  time: '21:00'
+  band_name: Денис Мажуков
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 40044
+  date: '2013-12-13'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40045
+  date: '2013-12-14'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40047
+  date: '2013-12-15'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40013
+  date: '2013-11-22'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40015
+  date: '2013-11-23'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40016
+  date: '2013-11-23'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40033
+  date: '2013-12-05'
+  time: '21:00'
+  band_name: Ольга Лисикова & the Gracious
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40034
+  date: '2013-12-06'
+  time: '21:00'
+  band_name: South Rock Night Shaky Jake the Backstage
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 573
+    name: Shaky Jake
+    token: shaky-jake
+- id: 40048
+  date: '2013-12-16'
+  time: '20:00'
+  band_name: кинопоказ фильм The Commitments
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40049
+  date: '2013-12-17'
+  time: '20:00'
+  band_name: Django Band и Марина Виноградова
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40009
+  date: '2013-11-18'
+  time: '20:00'
+  band_name: the Blues Brothers - кинопоказ
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40010
+  date: '2013-11-19'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40011
+  date: '2013-11-20'
+  time: '21:00'
+  band_name: Layna Shery
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40014
+  date: '2013-11-22'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40023
+  date: '2013-11-29'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40025
+  date: '2013-11-30'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40027
+  date: '2013-12-02'
+  time: '20:00'
+  band_name: boom boom boom boom blues'n'talk show
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40028
+  date: '2013-12-03'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40036
+  date: '2013-12-07'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40037
+  date: '2013-12-07'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40039
+  date: '2013-12-09'
+  time: '20:00'
+  band_name: boom boom boom boom blues'n'talk show
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40041
+  date: '2013-12-04'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40043
+  date: '2013-12-13'
+  time: '21:00'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 600 руб.
+- id: 40046
+  date: '2013-12-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40247
+  date: '2013-12-11'
+  time: '21:00'
+  band_name: Борис Плотников
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40779
+  date: '2013-12-18'
+  time: '21:00'
+  band_name: Петрович и Влад Листков
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 40780
+  date: '2013-12-21'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 800 руб.
+- id: 40781
+  date: '2013-12-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40782
+  date: '2013-12-22'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40783
+  date: '2013-12-23'
+  time: '20:00'
+  band_name: кинопоказ
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40784
+  date: '2013-12-24'
+  time: '20:00'
+  band_name: Django Band
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 40785
+  date: '2013-12-25'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40786
+  date: '2013-12-26'
+  time: '21:00'
+  band_name: the Moonshine
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.
+- id: 40787
+  date: '2013-12-28'
+  time: '21:00'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 500 руб.
+- id: 40788
+  date: '2013-12-28'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40789
+  date: '2013-12-29'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 200 руб.
+- id: 40790
+  date: '2013-12-30'
+  time: '20:00'
+  band_name: кинопоказ
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: бесплатный
+- id: 40528
+  date: '2013-12-19'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 725
+  club_name: Дом у Дороги
+  club_token: roadhouse
+  price: 300 руб.

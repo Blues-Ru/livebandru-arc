@@ -1,0 +1,14 @@
+id: 556
+token: greentown
+name: Greentown
+alive: true
+url: http://www.greentown-rock.ru/
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 2908
+  type: weblink
+  url: http://www.greentown-rock.ru/
+  name: Официальный сайт
+  sort_order: 0

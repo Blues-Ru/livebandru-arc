@@ -1,0 +1,12 @@
+- id: 30436
+  date: '2012-10-18'
+  time: '20:00'
+  band_name: Эд Губайдуллин, (fingerstyle) acoustic guitar blues.
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 300 руб.
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison

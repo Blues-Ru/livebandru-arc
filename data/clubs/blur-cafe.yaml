@@ -1,0 +1,19 @@
+id: 408
+token: blur-cafe
+name: Blur Cafe
+alive: true
+address: Большой Дровяной пер., 8 стр. 1
+subway: Таганская, Марксистская
+phone: (495) 915-76-05
+city_id: 1
+clips:
+- id: 1816
+  type: weblink
+  url: http://www.blurcafe.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1817
+  type: weblink
+  url: http://vk.com/club15535353
+  name: Страница ВКонтакте
+  sort_order: 100

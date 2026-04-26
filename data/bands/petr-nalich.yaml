@@ -1,0 +1,15 @@
+id: 148
+token: petr-nalich
+name: Музыкальный коллектив Петра Налича
+aliases: Петр Налич
+alive: true
+url: http://www.peternalitch.ru/
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 174
+  type: weblink
+  url: http://www.peternalitch.ru/
+  name: Официальный сайт
+  sort_order: 0

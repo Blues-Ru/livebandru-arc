@@ -1,0 +1,36 @@
+id: 646
+token: barrelhouse-stage-band
+name: Barrelhouse Stage Band
+alive: true
+city_id: 17
+genre_id: 1
+clips:
+- id: 5036
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 5037
+  type: photo
+  url: barrelhouse-stage-band.jpg
+  sort_order: 0
+  width: 1024
+  height: 616
+- id: 5035
+  type: youtube
+  url: http://www.youtube.com/?v=gbmcYR8i3tQ
+  name: Barrelhouse Stage Band
+  sort_order: 99
+reviews:
+- id: 376
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Группа играет в основном чикагский блюз (Chicago Blues) и электрический дельта-блюз
+    (Electric Delta Blues). Исполняет авторскую музыку, а также композиции таких великих
+    блюзменов, как Мадди Уотерс (Muddy Waters), Бадди Гай (Buddy Guy), Джуниор Уэллс
+    (Junior Wells), Джон Ли Хукер (John Lee Hooker), Роберт Джонсон (Robert Johnson),
+    Джеймс Браун (James Brown), Би Би Кинг (B.B.King), а также блюзовые и рок'н'ролльные
+    темы "The Rolling Stones", "Led Zeppelin", "The Doors", "Nazareth".
+  verified: true
+  created: '2013-12-02'
+  is_press_release: true

@@ -1,0 +1,24 @@
+- id: 38772
+  date: '2013-10-02'
+  time: '20:00'
+  band_name: Allan Harris (гитара, вокал - США) и Вадим Эйленкриг (труба, Россия),
+    при уч. Ивана Фармаковского, Армена Мкртычяна, Дениса Швытова и др.
+  club_id: 726
+  club_name: FF Bar
+  club_token: ff-bar
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig
+- id: 38773
+  date: '2013-10-03'
+  time: '21:00'
+  band_name: 'Jam session: Allan Harris (гитара, вокал - США) и Вадим Эйленкриг (труба,
+    Россия), при уч. Ивана Фармаковского, Армена Мкртычяна, Дениса Швытова и др.'
+  club_id: 726
+  club_name: FF Bar
+  club_token: ff-bar
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig

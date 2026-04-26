@@ -1,0 +1,23 @@
+id: 688
+token: gin-mill-29
+name: Gin Mill '29
+alive: true
+address: Дзержинского, д.32
+phone: (4912) 96-60-06
+city_id: 85
+clips:
+- id: 4314
+  type: weblink
+  url: http://www.ginmill.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 4313
+  type: weblink
+  url: http://facebook.com/ginmill29
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 4315
+  type: weblink
+  url: http://vk.com/ginmill29
+  name: Страница ВКонтакте
+  sort_order: 199

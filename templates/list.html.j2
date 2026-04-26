@@ -1,0 +1,75 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ list_title }} — LiveBand.Ru{% endblock %}
+{% block content %}
+
+{% if top_items %}
+<h3 class="und">{{ top_label }}</h3>
+<table class="packless">
+  <tbody>
+    {% for item in top_items %}
+    <tr>
+      <td style="width:2em;" align="right"><span class="aux">{{ loop.index }}</span></td>
+      <td>
+        <p class="main"><a href="{{ item.url }}/">{{ item.title }}</a></p>
+      </td>
+      <td>
+        {% for cat in item.categories %}
+        <a href="{{ cat.url }}/">{{ cat.title }}</a>&#160;
+        {% endfor %}
+      </td>
+      <td style="width:4em;" align="right">
+        {% if item.gig_count %}<span class="aux">{{ item.gig_count }}</span>{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+{% if items %}
+<h3 class="und" style="margin-top:20px;">{{ list_title }} — все</h3>
+
+{% if alpha_ru or alpha_latin %}
+<div id="alfaBit" class="nopr">
+  {% if alpha_ru %}
+  <table><tbody><tr>
+    {% for letter in alpha_ru %}
+    <td><a href="#{{ letter.enc }}">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+  {% if alpha_latin %}
+  <table><tbody><tr>
+    {% for letter in alpha_latin %}
+    <td><a href="#{{ letter.enc }}">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+</div>
+{% endif %}
+
+<table class="packless">
+  <tbody>
+    {% set ns = namespace(prev_enc='') %}
+    {% for item in items %}
+    <tr>
+      <td>
+        <p class="main">
+          <a href="{{ item.url }}/" {% if item.letter_enc != ns.prev_enc %}name="{{ item.letter_enc }}"{% set ns.prev_enc = item.letter_enc %}{% endif %}>{{ item.title }}</a>
+        </p>
+      </td>
+      <td class="{{ 'w33' if list_type == 'bands' else 'w66' }}">
+        {% for cat in item.categories %}
+        <a href="{{ cat.url }}/">{{ cat.title }}</a>&#160;
+        {% endfor %}
+        {% if item.description %}&#160; {{ item.description }}{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p id="noData">Список пуст.</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,46 @@
+id: 545
+token: violinjazz
+name: Московский ViolinJazz Квартет
+aliases: ViolinJazz
+alive: true
+url: http://www.violinjazz.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 3
+musicians:
+- name: Петр Талалай
+  instruments: ударные
+- name: Марк Гайдар
+  instruments: контрабас
+- name: Денис Шульгин
+  instruments: скрипка-электроакустика
+- name: Алексей Наджаров
+  instruments: фортепьяно
+references:
+- id: 502
+  name: Живые Люди
+  token: livepeople
+- id: 541
+  name: Priot Ensemble
+  token: priot
+- id: 542
+  name: Лампа Ladino
+  token: lampaladino
+- id: 543
+  name: Трио Одиссея
+  token: odysseytrio
+- id: 544
+  name: Квартет Юрия Севастьянова
+  token: sevastyanovquartet
+clips:
+- id: 2671
+  type: weblink
+  url: http://www.violinjazz.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2672
+  type: photo
+  url: moskovskij-violinjazz-kvartet.jpg
+  sort_order: 0
+  width: 319
+  height: 214

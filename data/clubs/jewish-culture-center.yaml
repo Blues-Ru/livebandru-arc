@@ -1,0 +1,17 @@
+id: 336
+token: jewish-culture-center
+name: Еврейский культурный центр
+aliases: 'Еврейский культурный центр на Никитской
+
+  ЕКЦ'
+alive: true
+address: Б. Никитская, 47/3
+subway: Баррикадная, Арбатская
+phone: (495) 787-45-67
+city_id: 1
+clips:
+- id: 1235
+  type: weblink
+  url: http://www.jcc.ru
+  name: Официальный сайт
+  sort_order: 99

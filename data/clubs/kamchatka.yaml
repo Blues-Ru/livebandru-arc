@@ -1,0 +1,19 @@
+id: 423
+token: kamchatka
+name: Котельная Камчатка
+alive: true
+address: Блохина, 15
+subway: Спортивная, Горьковская
+city_id: 2
+comments: во дворе
+clips:
+- id: 1947
+  type: weblink
+  url: http://www.clubkamchatka.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1948
+  type: weblink
+  url: http://vk.com/club602338
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,425 @@
+- id: 49138
+  date: '2015-01-19'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 49139
+  date: '2015-01-26'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 49140
+  date: '2015-02-02'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 49141
+  date: '2015-01-20'
+  time: '20:00'
+  band_name: Marina Volkova Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 49142
+  date: '2015-01-21'
+  time: '20:00'
+  band_name: VotuM
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 49143
+  date: '2015-01-27'
+  time: '20:00'
+  band_name: Ольга Герчакова и JazzUp Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 49144
+  date: '2015-01-29'
+  time: '20:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 49332
+  date: '2015-01-25'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 49334
+  date: '2015-01-23'
+  time: '21:30'
+  band_name: '"DUCK TALES" band / ВИА "УТИНЫЕ ИСТОРИИ"'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 49720
+  date: '2015-02-13'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 50942
+  date: '2015-04-05'
+  time: '20:00'
+  band_name: E.V.A. Project и Алла Титиевская
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50946
+  date: '2015-04-27'
+  time: '20:00'
+  band_name: Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50947
+  date: '2015-04-14'
+  time: '20:00'
+  band_name: JazzupBand и Ольга Герчакова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50948
+  date: '2015-04-21'
+  time: '20:00'
+  band_name: Ансамбль Валерия Киселева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50949
+  date: '2015-04-29'
+  time: '20:00'
+  band_name: Марина Куцкова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50943
+  date: '2015-04-06'
+  time: '20:00'
+  band_name: Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50944
+  date: '2015-04-13'
+  time: '20:00'
+  band_name: Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 50945
+  date: '2015-04-20'
+  time: '20:00'
+  band_name: Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 51332
+  date: '2015-05-10'
+  time: '20:00'
+  band_name: Михаил Кистанов
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 51334
+  date: '2015-05-12'
+  time: '20:00'
+  band_name: Трио Александра Гуреева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 51336
+  date: '2015-05-21'
+  time: '20:00'
+  band_name: Funk Jam
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 51337
+  date: '2015-05-25'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 54046
+  date: '2015-10-05'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 54047
+  date: '2015-10-12'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 54048
+  date: '2015-10-19'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 54049
+  date: '2015-10-26'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 54050
+  date: '2015-10-27'
+  time: '20:00'
+  band_name: Валерий Киселев с программой "InTheMoodofSwing"
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 51330
+  date: '2015-05-04'
+  time: '20:00'
+  band_name: Freak Family
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 51331
+  date: '2015-05-05'
+  time: '20:00'
+  band_name: Charlotte Charlotte
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 51333
+  date: '2015-05-11'
+  time: '20:00'
+  band_name: Солнечный блюз & Мятный февраль
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 51335
+  date: '2015-05-18'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52098
+  date: '2015-06-03'
+  time: '20:00'
+  band_name: Buff'N'Stuff
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 100 руб.
+- id: 52099
+  date: '2015-06-08'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52100
+  date: '2015-06-15'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52101
+  date: '2015-06-22'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52102
+  date: '2015-06-29'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52103
+  date: '2015-06-23'
+  time: '20:00'
+  band_name: Солнечный блюз
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52104
+  date: '2015-06-20'
+  time: '22:00'
+  band_name: Funk Jam @ Faq Cafe
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52105
+  date: '2015-06-18'
+  time: '20:00'
+  band_name: Безымянский Бэнд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 52664
+  date: '2015-07-09'
+  time: '20:00'
+  band_name: 'Валерий Киселев с программой King of Swing: посвящение Бенни Гудмену'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52665
+  date: '2015-07-13'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52666
+  date: '2015-07-21'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 52667
+  date: '2015-07-27'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53222
+  date: '2015-08-10'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53223
+  date: '2015-08-12'
+  time: '20:00'
+  band_name: Ян Бедерман
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53224
+  date: '2015-08-17'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53225
+  date: '2015-08-24'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53226
+  date: '2015-08-31'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53746
+  date: '2015-09-21'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 53747
+  date: '2015-09-28'
+  time: '21:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55005
+  date: '2015-11-09'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55006
+  date: '2015-11-16'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55007
+  date: '2015-11-23'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55008
+  date: '2015-11-30'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55009
+  date: '2015-11-14'
+  time: '22:00'
+  band_name: BubamaraBrassBand
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55315
+  date: '2015-12-03'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 55316
+  date: '2015-12-07'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe

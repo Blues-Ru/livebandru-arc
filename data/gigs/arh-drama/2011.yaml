@@ -1,0 +1,28 @@
+- id: 18913
+  date: '2011-05-28'
+  time: '17:00'
+  band_name: Архангельский Государственный Камерный Оркестр, Турфинн Струмсмо (NOR),
+    Виктор Колесов (Вологда), Андрей Барбашов (Москва), Елена Базано (ОАЭ), Robert
+    Lighthouse (USA), The New Blues Band (Архангельск)
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 251
+    name: Robert Lighthouse
+    token: robert-lighthouse
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 19905
+  date: '2011-05-29'
+  time: '17:00'
+  band_name: Мириам и Мирайф (Москва), The Blues & Beyond Quartet (FR), Жанин Картер
+    (USA), Александр Гуреев (Москва), Александр Машин (Москва)
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif

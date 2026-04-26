@@ -1,0 +1,15 @@
+id: 258
+token: cold-flame
+name: Cold Flame
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Елена Жукова
+  instruments: вокал
+- name: Александр Новоселов
+  instruments: слайд-гитара
+- name: Валерий Серегин
+  instruments: бас
+- name: Сергей Кристинин
+  instruments: клавиши

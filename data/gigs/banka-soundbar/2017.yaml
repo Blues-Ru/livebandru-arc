@@ -1,0 +1,21 @@
+- id: 67891
+  date: '2017-09-30'
+  time: '21:00'
+  band_name: Dругой
+  club_id: 816
+  club_name: Banka Soundbar
+  club_token: banka-soundbar
+  price: бесплатный
+  extra_bands:
+  - id: 732
+    name: Dругой
+    token: drugoy
+- id: 68567
+  date: '2017-10-19'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_id: 816
+  club_name: Banka Soundbar
+  club_token: banka-soundbar

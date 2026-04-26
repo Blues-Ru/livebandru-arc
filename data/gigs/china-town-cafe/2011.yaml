@@ -1,0 +1,555 @@
+- id: 14553
+  date: '2011-01-05'
+  time: '21:00'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14560
+  date: '2011-01-06'
+  time: '21:00'
+  band_name: ГДР
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14582
+  date: '2011-01-08'
+  time: '21:00'
+  band_name: Встреча рыбы
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14515
+  date: '2011-01-02'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+  price: 300 руб.
+- id: 14766
+  date: '2011-01-15'
+  time: '21:00'
+  band_name: Unite It
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14798
+  date: '2011-01-20'
+  time: '21:00'
+  band_name: Намгар
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14755
+  date: '2011-01-14'
+  time: '21:00'
+  band_name: Arrival
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 14933
+  date: '2011-01-21'
+  time: '21:00'
+  band_name: Волга
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15012
+  date: '2011-01-28'
+  time: '21:00'
+  band_name: Лаванда
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15029
+  date: '2011-01-29'
+  time: '21:00'
+  band_name: Карл Хламкин & ОгнеОпаснОркестр
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 15044
+  date: '2011-01-30'
+  time: '21:00'
+  band_name: Умка
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15565
+  date: '2011-03-03'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+  price: 300 руб.
+- id: 15398
+  date: '2011-02-11'
+  time: '21:00'
+  band_name: Мегаполис
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15425
+  date: '2011-02-12'
+  time: '21:00'
+  band_name: Ива Нова
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15449
+  date: '2011-02-14'
+  time: '21:00'
+  band_name: Coockoo
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15678
+  date: '2011-02-24'
+  time: '21:00'
+  band_name: Точь-в-точь
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 15735
+  date: '2011-02-27'
+  time: '21:00'
+  band_name: Uphill Work
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16108
+  date: '2011-03-07'
+  time: '21:00'
+  band_name: Вася Обломов
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16076
+  date: '2011-03-05'
+  time: '21:00'
+  band_name: Океан во мне
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16094
+  date: '2011-03-06'
+  time: '21:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16137
+  date: '2011-03-08'
+  time: '21:00'
+  band_id: 307
+  band_name: Фруктовый кефир
+  band_token: fryktoviykefir
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16315
+  date: '2011-03-11'
+  time: '21:00'
+  band_name: Встреча рыбы
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16345
+  date: '2011-03-13'
+  time: '21:00'
+  band_name: Stone Cold Boys
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16400
+  date: '2011-03-17'
+  time: '21:00'
+  band_name: Moon Far Away
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16411
+  date: '2011-03-18'
+  time: '21:00'
+  band_name: Сегодняночью
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16892
+  date: '2011-04-01'
+  time: '21:00'
+  band_name: Муха
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 16911
+  date: '2011-04-03'
+  time: '21:00'
+  band_name: Птица Зу
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17283
+  date: '2011-04-09'
+  time: '21:00'
+  band_name: Петля пристрастия
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17256
+  date: '2011-04-08'
+  time: '20:00'
+  band_name: Millions Of Years, The Toobes
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17308
+  date: '2011-04-10'
+  time: '21:00'
+  band_name: Surtsey Sounds
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17243
+  date: '2011-04-07'
+  time: '21:00'
+  band_name: The Mutants (Финляндия)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17861
+  date: '2011-04-18'
+  time: '20:00'
+  band_name: Катя Плетнева
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17868
+  date: '2011-04-19'
+  time: '21:00'
+  band_name: 'Темные лошадки: Race To Space'
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17917
+  date: '2011-04-20'
+  time: '21:00'
+  band_name: Kira Lao
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17956
+  date: '2011-04-22'
+  time: '20:00'
+  band_name: Пилар
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17982
+  date: '2011-04-23'
+  time: '21:00'
+  band_id: 354
+  band_name: Карл Хламкин и ОгнеОпаснОркестр
+  band_token: hlamkin
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18007
+  date: '2011-04-24'
+  time: '21:00'
+  band_name: Ferris Wheel
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 17933
+  date: '2011-04-21'
+  time: '21:00'
+  band_name: Есть есть есть
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18238
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Module
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18197
+  date: '2011-04-29'
+  time: '21:00'
+  band_id: 376
+  band_name: Зимавсегда
+  band_token: zimavsegda
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18621
+  date: '2011-05-09'
+  time: '21:00'
+  band_name: Встреча рыбы
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18682
+  date: '2011-05-10'
+  time: '21:00'
+  band_name: Gусси лебеди
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18697
+  date: '2011-05-12'
+  time: '21:00'
+  band_name: Небесная канцелярия
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18740
+  date: '2011-05-15'
+  time: '21:00'
+  band_name: Felix Lahuti
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 18584
+  date: '2011-05-03'
+  time: '21:00'
+  band_id: 309
+  band_name: Плимут
+  band_token: plimut
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18587
+  date: '2011-05-05'
+  time: '21:00'
+  band_name: Галя Чикис
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18596
+  date: '2011-05-06'
+  time: '21:00'
+  band_name: Вася Ложкин рокындролль бенд
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18609
+  date: '2011-05-07'
+  time: '21:00'
+  band_name: One Gin Please
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18610
+  date: '2011-05-08'
+  time: '21:00'
+  band_name: Ким и Буран
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 18719
+  date: '2011-05-13'
+  time: '21:00'
+  band_name: После 11
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19121
+  date: '2011-05-17'
+  time: '20:00'
+  band_name: Дима Тихонов
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19126
+  date: '2011-05-18'
+  time: '21:00'
+  band_name: Kid Logic
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19141
+  date: '2011-05-19'
+  time: '21:00'
+  band_name: Вадим Степанцов, Бедлам-Капелла
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+  extra_bands:
+  - id: 106
+    name: Вадим Степанцов и Бахыт Компот
+    token: stepantsov
+- id: 19156
+  date: '2011-05-20'
+  time: '21:00'
+  band_name: Venger Collective
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19170
+  date: '2011-05-21'
+  time: '21:00'
+  band_name: ХЗ
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19186
+  date: '2011-05-22'
+  time: '21:00'
+  band_name: Tairyfale, Praline
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19525
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Сансара
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19589
+  date: '2011-06-02'
+  time: '21:00'
+  band_name: Charles Bronson & The Voodoo Five (FIN)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19575
+  date: '2011-06-01'
+  time: '21:00'
+  band_name: Ze Travy
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19494
+  date: '2011-05-24'
+  time: '21:00'
+  band_name: Николай Коперник
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19513
+  date: '2011-05-26'
+  time: '21:00'
+  band_name: Lonely Drifter Karen (Spain)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19539
+  date: '2011-05-28'
+  time: '21:00'
+  band_name: Dubstepler
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19549
+  date: '2011-05-29'
+  time: '21:00'
+  band_name: Барто
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19565
+  date: '2011-05-31'
+  time: '21:00'
+  band_name: Colour Dreams
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19601
+  date: '2011-06-03'
+  time: '21:00'
+  band_name: Рамона Рэй (PL)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19852
+  date: '2011-06-01'
+  time: '21:00'
+  band_name: Травы
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 19863
+  date: '2011-06-03'
+  time: '21:00'
+  band_name: Рамона Рей (PL)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 20147
+  date: '2011-06-08'
+  time: '21:00'
+  band_name: Среднерусская возвышенность
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 20182
+  date: '2011-06-10'
+  time: '21:00'
+  band_name: Саша Алмазова (Non Cadenza)
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 20193
+  date: '2011-06-11'
+  time: '21:00'
+  band_name: Легендарные пластилиновые ноги
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 20209
+  date: '2011-06-13'
+  time: '21:00'
+  band_name: The Toobes
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 23841
+  date: '2011-12-03'
+  time: '21:00'
+  band_name: Safety Magic
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 23871
+  date: '2011-12-04'
+  time: '21:00'
+  band_name: Адаптация пчел
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 23909
+  date: '2011-12-07'
+  time: '21:00'
+  band_name: Точка сборки
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe
+- id: 23812
+  date: '2011-12-02'
+  time: '21:00'
+  band_name: Пицца
+  club_id: 354
+  club_name: China-Town-Cafe
+  club_token: china-town-cafe

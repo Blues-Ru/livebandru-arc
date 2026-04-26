@@ -1,0 +1,40 @@
+id: 333
+token: ddt
+name: ДДТ
+aliases: 'Юрий Шевчук
+
+  Юрий Шевчук и ДДТ'
+alive: true
+url: http://www.ddt.ru
+city_id: 1
+genre_id: 3
+musicians:
+- name: Юрий Шевчук
+  instruments: вокал, гитара
+- name: Алексей Федичев
+  instruments: гитара, вокал
+- name: Константин Шумайлов
+  instruments: клавишные, сэмплер, вокал
+- name: Тема Мамай
+  instruments: ударные
+- name: Павел Борисов
+  instruments: бас, вокал
+- name: Иван Васильев
+  instruments: труба, тромбон, вокал
+clips:
+- id: 1260
+  type: weblink
+  url: http://www.myspace.com/ddtworld
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1261
+  type: weblink
+  url: http://www.ddt.ru
+  name: Официальный сайт
+  sort_order: 199
+- id: 1262
+  type: photo
+  url: ddt.jpg
+  sort_order: 0
+  width: 1000
+  height: 498

@@ -1,0 +1,17 @@
+id: 448
+token: cjc-jazz-orchestra
+name: C-Jam Club Jazz Orchestra
+alive: true
+url: http://www.cjamclub.com
+city_id: 1
+genre_id: 2
+secondary_genre_id: 7
+musicians:
+- name: Георгий Горбов
+  instruments: Дирижер
+clips:
+- id: 2137
+  type: weblink
+  url: http://www.cjamclub.com
+  name: Официальный сайт
+  sort_order: 0

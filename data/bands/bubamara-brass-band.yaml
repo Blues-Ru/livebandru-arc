@@ -1,0 +1,39 @@
+id: 623
+token: bubamara-brass-band
+name: Bubamara Brass Band
+alive: true
+url: http://www.bubamarabrass.ru
+city_id: 1
+genre_id: 11
+secondary_genre_id: 2
+musicians:
+- name: Наталья Жеренкова
+  instruments: вокал, скрипка
+- name: Александр Каштанов
+  instruments: альт-саксофон, флейта, гитара
+- name: Николай Моисеенко
+  instruments: альт-саксофон
+- name: Константин Сафьянов
+  instruments: саксофон
+- name: Олег Грымов
+  instruments: кларнет, альт-саксофон
+- name: Сергей Шитов
+  instruments: кларнет
+- name: Архип Самсонов
+  instruments: тромбон
+- name: Артем Коряпин
+  instruments: эфониум
+- name: Андрей Тимофеев
+  instruments: туба
+- name: Дмитрий Карев
+  instruments: аккордеон
+- name: Артем Узунов
+  instruments: дарбука
+- name: Татьяна Левыкина
+  instruments: трайбл танец
+clips:
+- id: 4174
+  type: weblink
+  url: http://www.bubamarabrass.ru
+  name: Официальный сайт
+  sort_order: 0

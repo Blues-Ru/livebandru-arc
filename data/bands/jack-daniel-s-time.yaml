@@ -1,0 +1,23 @@
+id: 575
+token: jack-daniel-s-time
+name: Jack Daniel's Time
+alive: true
+url: http://www.eventnn.ru/catalog/firm/4447
+city_id: 25
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Андрей "Леверлин" Паньшин
+  instruments: вокал, губная гармошка
+- name: Алексей "Чага" Корчагин
+  instruments: бас-гитара
+- name: Андрей Малкин
+  instruments: вокал, губная гармошка, мандолина, клавиши, гитара
+- name: Александр Медянцев
+  instruments: ударные
+clips:
+- id: 3342
+  type: weblink
+  url: http://www.eventnn.ru/catalog/firm/4447
+  name: Официальный сайт
+  sort_order: 0

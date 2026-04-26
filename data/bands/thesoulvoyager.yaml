@@ -1,0 +1,79 @@
+id: 107
+token: thesoulvoyager
+name: The Soul Voyager
+alive: true
+url: http://www.vk.com/thesoulvoyager
+city_id: 1
+genre_id: 23
+secondary_genre_id: 1
+clips:
+- id: 3527
+  type: weblink
+  url: http://www.vk.com/thesoulvoyager
+  name: Официальный сайт
+  sort_order: 0
+- id: 5818
+  type: photo
+  url: thesoulvoyager-2.jpg
+  sort_order: 0
+  width: 3543
+  height: 2365
+- id: 5819
+  type: youtube
+  url: http://www.youtube.com/?v=cbQk_0vXLGk
+  name: The Soul Voyager - I Don't Want A Playboy
+  comments: Кавер на старую песню Barbara Lynn - I Don't Want A Playboy. The Soul
+    Voyager на вечеринке Feel Lucky? в клубе Дума 23/05/2014
+  sort_order: 99
+- id: 5910
+  type: youtube
+  url: http://www.youtube.com/?v=zRfipOrHxTg
+  name: The Soul Voyager - Beggin'
+  comments: Krizis Zhanra, Moscow, 04/07/2014
+  sort_order: 149
+- id: 5911
+  type: youtube
+  url: http://www.youtube.com/?v=bWew40U10zk
+  name: The Soul Voyager - Give Me Your Love
+  comments: Original song by The Soul Voyager. Live @ Speakeasy Bar Jack Rose, Moscow,
+    20/06/2014
+  sort_order: 174
+- id: 5907
+  type: youtube
+  url: http://www.youtube.com/?v=VKpizNggfYs
+  name: The Soul Voyager - Good Woman
+  comments: Live @ Bud House Bar & Grill, Moscow, 21/06/2014
+  sort_order: 0
+- id: 5908
+  type: youtube
+  url: http://www.youtube.com/?v=PPAJCPCnxfY
+  name: The Soul Voyager - Tina Nina Nu
+  comments: Live @ Bud House Bar & Grill, 21/06/2014
+  sort_order: 199
+- id: 5909
+  type: youtube
+  url: http://www.youtube.com/?v=PLmbxiRrCRY
+  name: The Soul Voyager - Sunshine Of Your Love
+  comments: The Soul Voyager @ Bud House Bar & Grill, Moscow, 11/06/2014
+  sort_order: 299
+reviews:
+- id: 406
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '"... Вы просто обязаны попасть к ним на концерт, ибо никакие аудио и видеоматериалы
+    не смогут передать ту атмосферу, которую несет в себе группа. Сильный и уверенный
+    голос Софьи Реснянской, классическая блюзовая техника Максима Пальчикова, словно
+    взращенная на тех самых хлопковых полях, и пульсирующие жизнью ритмы ударника
+    Юрия Карамышева - все складывается в картину, которой Москва пока еще не видела.
+    На их выступлениях вы услышите отличный соул - яростный и нежный именно в тех
+    местах, где это необходимо. Подборка каверов и многообещающий авторский материал
+    убедят самых прожженных скептиков в том, что у этой группы большое будущее. Ну
+    а пока вы можете совершенно случайно встретить их в маленьких уютных клубах, где
+    люди собираются выпить чашечку кофе и пообщаться в конце трудового дня. Будьте
+    уверены, вы надолго запомните эту встречу - даже простое, акустическое выступление
+    группы производит самое наилучшее впечатление." (Текст: Олег MoBKiD Миронов, сайт
+    modscene.ru)'
+  verified: true
+  created: '2014-04-17'
+  is_press_release: true

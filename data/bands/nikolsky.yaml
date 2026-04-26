@@ -1,0 +1,17 @@
+id: 118
+token: nikolsky
+name: Константин Никольский
+alive: true
+city_id: 1
+genre_id: 3
+clips:
+- id: 85
+  type: weblink
+  url: http://ru.wikipedia.org/wiki/Никольский,_Константин_Николаевич
+  name: Википедия о Константине Никольском
+  sort_order: 99
+- id: 86
+  type: weblink
+  url: http://k-nikolsky.narod.ru/
+  name: Фан-сайт
+  sort_order: 199

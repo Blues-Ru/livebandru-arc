@@ -1,0 +1,28 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ club.name }} — Рецензии — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+{% for review in reviews %}
+<h3>
+  <a name="{{ review.reviewer_token }}">
+    {% if not review.is_press_release %}{{ review.reviewer_name }} — {% endif %}
+    {{ club.name }}
+    {% if review.is_press_release %} — пресс-релиз{% endif %}
+    {% if review.header %}: {{ review.header }}{% endif %}
+  </a>
+</h3>
+<div class="main">
+  {% if loop.first and main_photo %}
+  <div class="photo">
+    <img src="/club/{{ club.token }}/images/{{ main_photo.thumb_url }}" title="{{ club.name }}" />
+  </div>
+  {% endif %}
+  {{ review.text | safe }}
+</div>
+{% if not loop.last %}<hr width="80%" align="center" />{% endif %}
+<div class="clear"></div>
+{% else %}
+<p class="main">Рецензий нет.</p>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,22 @@
+id: 321
+token: ivan-smirnov
+name: Иван Смирнов
+aliases: Квартет Ивана Смирнова
+alive: true
+url: http://www.ivansmirnov.com/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 11
+musicians:
+- name: Иван Смирнов
+  instruments: гитара
+clips:
+- id: 1198
+  type: rss
+  url: http://ivansmirnov.livejournal.com/data/rss
+  sort_order: 99
+- id: 1199
+  type: weblink
+  url: http://www.ivansmirnov.com/
+  name: Официальный сайт
+  sort_order: 99

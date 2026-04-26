@@ -1,0 +1,75 @@
+id: 649
+token: decio-caetano
+name: Decio Caetano
+aliases: Decio Caetano Blues Band
+alive: true
+url: https://myspace.com/deciocaetano
+city_id: 77
+genre_id: 1
+secondary_genre_id: 18
+musicians:
+- name: Decio Caetano
+  instruments: guitar/vocals
+- name: Алексей Сечкин
+  instruments: клавишные
+- name: Виктор Шестак
+  instruments: бас-гитара/контрабас
+- name: Сергей Чекмаренко
+  instruments: ударные
+clips:
+- id: 5073
+  type: weblink
+  url: https://myspace.com/deciocaetano
+  name: Официальный сайт
+  sort_order: 0
+- id: 5072
+  type: youtube
+  url: http://www.youtube.com/?v=WhYactkZQEI
+  name: '"How Much I Love You" DECIO CAETANO - 2&#186; MS Blues Festival'
+  comments: 'O guitarrista paranaense Decio Caetano em "How Much I Love You" de sua
+    autoria, durante a segunda edição do MS BLUES FESTIVAL - o primeiro festival de
+    blues do estado de Mato Grosso do Sul, realizado '
+  sort_order: 0
+- id: 5074
+  type: youtube
+  url: http://www.youtube.com/?v=BU5-A6U4ZQE
+  name: Decio Caetano Blues Band 2010 - Live at Mr.Jones
+  comments: 'DVD Decio Caetano Blues Band 2010 - Live at Mr. Jones  -  Music: Come
+    Back to my arms'
+  sort_order: 100
+- id: 5075
+  type: youtube
+  url: http://www.youtube.com/?v=BfcIZQDRlqU
+  name: D&#233;cio Caetano Blues Band, Igor Prado and Guy King Jamming @Festival do
+    Improviso em Curitiba
+  comments: Jam session durante Festival do Improviso em Curitiba.Teatro Bom Jesus.D?cio
+    Caetano Blues Band, Igor Prado e Guy King
+  sort_order: 200
+- id: 5129
+  type: photo
+  url: decio-caetano.png
+  sort_order: 0
+  width: 640
+  height: 424
+reviews:
+- id: 392
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец Параны, хлопковой столицы Бразилии, гражданин Мира и житель Лондона,
+    певец, гитарист-виртуоз, сонграйтер - ДИСИО КАЭТАНО объездил с концертами и фестивальными
+    выступлениями обе Америки и всю Европу... Всю, да не всю! В России Дисио Каэтано
+    будет выступать впервые. Это вообще довольно странно, что при столь напряженном
+    гастрольном графике (у Дисио по 200-220 концертов в год!) он нашел время для приезда
+    в Москву.
+
+
+    Как бы-там ни было, его сплав по-Стиви- Рэй-Воновски бескомпромиссного электрического
+    блюз-рока, энергичного свинга с босса-новой и коренными бразильскими национальными
+    ритмами наверняка придется по вкусу нашим знатокам и ценителям прекрасного...
+
+
+    Купите билет зарaнее!!!'
+  verified: true
+  created: '2014-01-12'
+  is_press_release: true

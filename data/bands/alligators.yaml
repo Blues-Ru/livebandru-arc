@@ -1,0 +1,13 @@
+id: 227
+token: alligators
+name: Alligators
+alive: true
+url: http://www.alligators.ru
+city_id: 2
+genre_id: 9
+clips:
+- id: 704
+  type: weblink
+  url: http://www.alligators.ru
+  name: Официальный сайт
+  sort_order: 99

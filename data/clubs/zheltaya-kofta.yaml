@@ -1,0 +1,13 @@
+id: 222
+token: zheltaya-kofta
+name: Маяковский. Желтая кофта
+alive: true
+address: Маяковского, 24а
+phone: 264-39-80
+city_id: 10
+clips:
+- id: 528
+  type: weblink
+  url: http://www.zheltaya-kofta.ru
+  name: Официальный сайт
+  sort_order: 0

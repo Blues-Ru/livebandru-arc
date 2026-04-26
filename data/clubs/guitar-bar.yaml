@@ -1,0 +1,18 @@
+id: 529
+token: guitar-bar
+name: Guitar Bar
+alive: true
+address: Горького, 45
+subway: Республиканский стадион
+city_id: 16
+clips:
+- id: 2819
+  type: weblink
+  url: http://www.facebook.com/GuitarBarKiev
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 2820
+  type: weblink
+  url: http://guitarbar.com.ua
+  name: Официальный сайт
+  sort_order: 0

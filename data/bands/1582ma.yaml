@@ -1,0 +1,27 @@
+id: 594
+token: 1582ma
+name: Yet No Name
+alive: true
+url: http://vk.com/yetnoname
+city_id: 1
+genre_id: 27
+secondary_genre_id: 8
+musicians:
+- name: Дмитрий Соленов
+  instruments: гитара
+- name: Дмитрий Тальян
+  instruments: бас
+- name: Николай Кирнос
+  instruments: барабаны
+- name: Ян Воронов
+  instruments: гитара
+references:
+- id: 594
+  name: Yet No Name
+  token: 1582ma
+clips:
+- id: 3476
+  type: weblink
+  url: http://vk.com/yetnoname
+  name: Официальный сайт
+  sort_order: 0

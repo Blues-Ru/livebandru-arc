@@ -1,0 +1,13 @@
+id: 297
+token: rock-n-riga
+name: Rock'n'Riga
+alive: true
+address: 13.janvara, 33
+phone: +371 20 04 48 01
+city_id: 61
+clips:
+- id: 900
+  type: weblink
+  url: http://www.rocknriga.lv
+  name: Официальный сайт
+  sort_order: 99

@@ -1,0 +1,32 @@
+- id: 1003
+  date: '2001-09-10'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 1117
+  date: '2001-10-09'
+  band_id: 29
+  band_name: Максим Некрасов Бэнд
+  band_token: maksim-nekrasov-bend
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 1199
+  date: '2001-11-19'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  price: 100 руб.
+- id: 1327
+  date: '2001-12-17'
+  band_name: Liapin's Blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  price: 100 руб.

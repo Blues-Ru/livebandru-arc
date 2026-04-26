@@ -1,0 +1,17 @@
+- id: 28468
+  date: '2012-06-08'
+  time: '19:00'
+  band_name: Dodger's Band & Михаил Мишурис, Евгений Немов
+  club_id: 463
+  club_name: Наутилус
+  club_token: nautilus
+  price: бесплатный
+  comments: "День рождения клуба! \r\nС 7 до 10 счастливые часы- пиво 70р, виски 100р.\r\
+    \nЖивая музыка с 8 30!"
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov

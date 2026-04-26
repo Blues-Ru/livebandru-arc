@@ -1,0 +1,14 @@
+id: 885
+token: unlock-cafe
+name: Unlock cafe
+alive: true
+address: Лубянский проезд, дом 19, стр. 1
+subway: Китай-Город
+phone: +7 (495) 623-25-78
+city_id: 1
+clips:
+- id: 8594
+  type: weblink
+  url: http://www.unlock.cafe/
+  name: Официальный сайт
+  sort_order: 0

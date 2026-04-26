@@ -1,0 +1,15 @@
+id: 375
+token: moulin-rouge-by
+name: Мулен Руж Show
+aliases: Мулен Руж Шоу
+alive: true
+address: Кальварийская, 1
+subway: Фрунзенская
+phone: (017) 218-15-48
+city_id: 17
+clips:
+- id: 1540
+  type: weblink
+  url: http://www.moulinrouge.by/
+  name: Официальный сайт
+  sort_order: 0

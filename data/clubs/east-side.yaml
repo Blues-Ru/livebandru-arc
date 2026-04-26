@@ -1,0 +1,14 @@
+id: 149
+token: east-side
+name: East Side
+alive: true
+address: ул. Новочеремушкинская, д. 19
+subway: Академическая
+phone: 978-37-74
+city_id: 1
+clips:
+- id: 80
+  type: weblink
+  url: http://www.eastsiderest.ru/
+  name: Официальный сайт
+  sort_order: 0

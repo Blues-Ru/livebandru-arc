@@ -1,0 +1,16 @@
+id: 923
+token: gril-zona-garik
+name: Гриль зона "Гарик"
+aliases: 'Нео-кафе-шантан "Зона Гарика"
+
+  "У Гарика"'
+alive: true
+address: ул. Русская, 50/1
+phone: +7(383)292-84-67
+city_id: 19
+clips:
+- id: 10613
+  type: weblink
+  url: https://www.garikgrill.ru
+  name: Официальный сайт
+  sort_order: 0

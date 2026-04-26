@@ -1,0 +1,1615 @@
+- id: 56264
+  date: '2016-02-05'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  comments: Программа с дудками - XXL
+- id: 56775
+  date: '2016-03-13'
+  time: '20:30'
+  band_name: Maria Art Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 57576
+  date: '2016-03-24'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57578
+  date: '2016-03-25'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 57662
+  date: '2016-03-30'
+  time: '20:30'
+  band_name: Джаз на гитарах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57665
+  date: '2016-04-01'
+  time: '20:00'
+  band_name: LRK Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57666
+  date: '2016-04-01'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 57668
+  date: '2016-04-08'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58712
+  date: '2016-05-04'
+  time: '20:30'
+  band_id: 172
+  band_name: Пижоны
+  band_token: pijony
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58713
+  date: '2016-05-05'
+  time: '20:00'
+  band_name: Upgrade Experience
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 400 руб.
+- id: 58714
+  date: '2016-05-05'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins, Chuck Register
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 58719
+  date: '2016-05-07'
+  time: '20:30'
+  band_name: Надя Алексеева и Enjoy Drumming
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500р.
+- id: 58720
+  date: '2016-05-08'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58726
+  date: '2016-05-10'
+  time: '20:30'
+  band_name: Philippe Darees
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58727
+  date: '2016-05-11'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58728
+  date: '2016-05-12'
+  time: '20:00'
+  band_name: Positive Тимура Некрасова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58730
+  date: '2016-05-13'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58731
+  date: '2016-05-14'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58732
+  date: '2016-05-14'
+  time: '20:00'
+  band_name: ХоронькОкунь
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 58733
+  date: '2016-05-14'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58734
+  date: '2016-05-15'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58737
+  date: '2016-05-16'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58739
+  date: '2016-05-17'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58740
+  date: '2016-05-18'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58741
+  date: '2016-05-19'
+  time: '20:00'
+  band_name: Квартет О. Бутмана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58744
+  date: '2016-05-20'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 58749
+  date: '2016-05-22'
+  time: '19:30'
+  band_name: Андрей Макаревич, Borets Trio, Диана Поленова, Тимур Некрасов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+- id: 58756
+  date: '2016-05-26'
+  time: '20:30'
+  band_id: 172
+  band_name: Пижоны
+  band_token: pijony
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58757
+  date: '2016-05-27'
+  time: '20:00'
+  band_name: Borets Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58758
+  date: '2016-05-27'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58759
+  date: '2016-05-28'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58764
+  date: '2016-05-29'
+  time: '20:00'
+  band_name: Marina Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58767
+  date: '2016-05-31'
+  time: '20:00'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58711
+  date: '2016-05-03'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58715
+  date: '2016-05-06'
+  time: '20:00'
+  band_name: V.S. Khutas
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58716
+  date: '2016-05-06'
+  time: '20:30'
+  band_name: Stratosfera
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58717
+  date: '2016-05-07'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58718
+  date: '2016-05-07'
+  time: '20:00'
+  band_name: Марина Рудомылова "Только ты"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 400 руб.
+- id: 58721
+  date: '2016-05-08'
+  time: '20:00'
+  band_name: Майский праздник (Диана Поленова и друзья)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+- id: 58722
+  date: '2016-05-08'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58723
+  date: '2016-05-09'
+  time: '20:00'
+  band_name: BMV
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58724
+  date: '2016-05-09'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58725
+  date: '2016-05-10'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58729
+  date: '2016-05-12'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58735
+  date: '2016-05-15'
+  time: '19:30'
+  band_name: New Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58736
+  date: '2016-05-15'
+  time: '20:00'
+  band_name: Bulava
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58738
+  date: '2016-05-17'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58742
+  date: '2016-05-19'
+  time: '20:30'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58743
+  date: '2016-05-20'
+  time: '20:00'
+  band_name: Ильдар Казаханов Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 58745
+  date: '2016-05-21'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58746
+  date: '2016-05-21'
+  time: '20:00'
+  band_name: Borets Trio + Gia
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58747
+  date: '2016-05-21'
+  time: '20:30'
+  band_name: Shenel Johns & Квартет Головнёва (Нью-Йорк-Москва)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 58748
+  date: '2016-05-22'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58750
+  date: '2016-05-22'
+  time: '20:00'
+  band_name: The Trombone Show
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58751
+  date: '2016-05-23'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58752
+  date: '2016-05-24'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58753
+  date: '2016-05-24'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58754
+  date: '2016-05-25'
+  time: '20:30'
+  band_name: Квинтет Анастасии Лютовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58755
+  date: '2016-05-26'
+  time: '20:00'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58760
+  date: '2016-05-28'
+  time: '20:00'
+  band_name: Мила Ракета & Re-NOIR
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58761
+  date: '2016-05-28'
+  time: '20:30'
+  band_name: The Gracious
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58762
+  date: '2016-05-29'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58763
+  date: '2016-05-29'
+  time: '19:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58765
+  date: '2016-05-30'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58766
+  date: '2016-05-31'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 57575
+  date: '2016-03-24'
+  time: '20:00'
+  band_name: Positive Тимура Некрасова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57577
+  date: '2016-03-25'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57579
+  date: '2016-03-26'
+  time: '20:30'
+  band_name: 'Джазовые трансформации: Андрей Макаревич, Трио Евгения Борца, Полина
+    Касьянова, Brill Brothers'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 57660
+  date: '2016-03-28'
+  time: '19:30'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 57661
+  date: '2016-03-29'
+  time: '21:00'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 57663
+  date: '2016-03-31'
+  time: '20:30'
+  band_name: Paporotnik orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 57664
+  date: '2016-03-31'
+  time: '20:30'
+  band_name: 'Harmonica in Jam: Михаил Петрович Соколов, Владимир Кожекин, Артак Нерсисян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 58125
+  date: '2016-04-17'
+  time: '20:00'
+  band_name: Wayne Escoffery (USA)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 58126
+  date: '2016-04-18'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58095
+  date: '2016-04-04'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58096
+  date: '2016-04-04'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58097
+  date: '2016-04-05'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58098
+  date: '2016-04-06'
+  time: '20:00'
+  band_name: Джаз на гитарах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58099
+  date: '2016-04-06'
+  time: '20:30'
+  band_name: Полина Орбах И LA. Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58100
+  date: '2016-04-07'
+  time: '20:00'
+  band_name: Борис Булкин
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 58101
+  date: '2016-04-07'
+  time: '20:30'
+  band_name: 26 Герц с Ольгой Олейниковой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58102
+  date: '2016-04-08'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58123
+  date: '2016-04-17'
+  time: '15:00'
+  band_name: Ragtime Branch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58104
+  date: '2016-04-09'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58105
+  date: '2016-04-09'
+  time: '20:00'
+  band_name: Borets Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58106
+  date: '2016-04-09'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58107
+  date: '2016-04-10'
+  time: '15:00'
+  band_name: Ragtime Branch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58108
+  date: '2016-04-10'
+  time: '19:30'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58109
+  date: '2016-04-10'
+  time: '20:00'
+  band_name: АСД и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 400 руб.
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 58110
+  date: '2016-04-11'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58111
+  date: '2016-04-11'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58112
+  date: '2016-04-12'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58113
+  date: '2016-04-12'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58114
+  date: '2016-04-13'
+  time: '20:00'
+  band_name: Джаз на гитарах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58115
+  date: '2016-04-13'
+  time: '20:30'
+  band_name: Koltsov & Samsonov
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58116
+  date: '2016-04-14'
+  time: '20:00'
+  band_name: Фредерик Белинский
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 58117
+  date: '2016-04-14'
+  time: '20:30'
+  band_name: 61 Highway
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58118
+  date: '2016-04-15'
+  time: '20:00'
+  band_name: Borets Trio и Гия Дзагнидзе в Акустике
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 58119
+  date: '2016-04-15'
+  time: '20:30'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58120
+  date: '2016-04-16'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58121
+  date: '2016-04-16'
+  time: '20:00'
+  band_name: Wayland Rodd
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58122
+  date: '2016-04-16'
+  time: '20:30'
+  band_name: Удачное Приобретение
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 58124
+  date: '2016-04-17'
+  time: '19:30'
+  band_name: Андрей Макаревич, Ирина Родилес, Borets Trio, Brill Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 58127
+  date: '2016-04-18'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58128
+  date: '2016-04-19'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58129
+  date: '2016-04-19'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58130
+  date: '2016-04-20'
+  time: '20:00'
+  band_name: Джаз на гитарах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58131
+  date: '2016-04-20'
+  time: '20:30'
+  band_name: Alex Davletshin Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 58132
+  date: '2016-04-21'
+  time: '20:00'
+  band_name: Paporotnik Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58139
+  date: '2016-04-24'
+  time: '15:00'
+  band_name: Ragtime Branch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58140
+  date: '2016-04-24'
+  time: '19:30'
+  band_name: Трио Алексея Романова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2500 руб.
+- id: 58141
+  date: '2016-04-24'
+  time: '19:30'
+  band_name: Zig Trio (Париж-Москва)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58142
+  date: '2016-04-25'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58143
+  date: '2016-04-25'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58144
+  date: '2016-04-26'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58145
+  date: '2016-04-26'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58147
+  date: '2016-04-27'
+  time: '20:30'
+  band_name: Тимофей Хазанов и Blacksaxband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58149
+  date: '2016-04-28'
+  time: '20:30'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58152
+  date: '2016-04-29'
+  time: '20:30'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 58153
+  date: '2016-04-30'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58154
+  date: '2016-04-30'
+  time: '20:00'
+  band_name: Saxophone Party
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58133
+  date: '2016-04-21'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58134
+  date: '2016-04-22'
+  time: '20:00'
+  band_name: Гитарные формы c Алексеем Кузнецовым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58135
+  date: '2016-04-22'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 58136
+  date: '2016-04-23'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 58137
+  date: '2016-04-23'
+  time: '20:00'
+  band_name: Brill Family
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58138
+  date: '2016-04-23'
+  time: '20:30'
+  band_id: 715
+  band_name: Jo' Buddy
+  band_token: jo-buddy
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 58146
+  date: '2016-04-27'
+  time: '20:00'
+  band_name: Джаз на гитарах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58148
+  date: '2016-04-28'
+  time: '20:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 58150
+  date: '2016-04-29'
+  time: '20:00'
+  band_name: Harmonica in Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 58155
+  date: '2016-04-30'
+  time: '20:30'
+  band_name: Fedulove Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 59003
+  date: '2016-06-10'
+  time: '20:30'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59413
+  date: '2016-06-10'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59414
+  date: '2016-06-10'
+  time: '20:30'
+  band_name: 26 Герц с Ольгой Олейниковой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59415
+  date: '2016-06-11'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59416
+  date: '2016-06-11'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59417
+  date: '2016-06-11'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59419
+  date: '2016-06-12'
+  time: '20:00'
+  band_name: Олег и Наталья Бутман "Кусочек счастья"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 59420
+  date: '2016-06-12'
+  time: '20:30'
+  band_name: Pervoe Solnce
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700р
+- id: 59422
+  date: '2016-06-14'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59423
+  date: '2016-06-14'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59426
+  date: '2016-06-16'
+  time: '20:00'
+  band_name: GIA + Borets Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59427
+  date: '2016-06-16'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 59430
+  date: '2016-06-18'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59432
+  date: '2016-06-18'
+  time: '20:30'
+  band_name: Алексей White Белов и Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 59435
+  date: '2016-06-19'
+  time: '20:00'
+  band_name: Арутюнов & Quorum
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 59436
+  date: '2016-06-20'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59437
+  date: '2016-06-21'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59439
+  date: '2016-06-22'
+  time: '20:30'
+  band_name: No Name Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59442
+  date: '2016-06-24'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59444
+  date: '2016-06-25'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59445
+  date: '2016-06-26'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59448
+  date: '2016-06-28'
+  time: '20:00'
+  band_name: Step Session
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59451
+  date: '2016-06-30'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 59418
+  date: '2016-06-12'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59421
+  date: '2016-06-13'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59424
+  date: '2016-06-15'
+  time: '20:00'
+  band_name: Omar Torrez
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 59425
+  date: '2016-06-15'
+  time: '20:30'
+  band_name: Лиза Павлюкова и трио Сергея Хутаса
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59428
+  date: '2016-06-17'
+  time: '20:00'
+  band_name: R-BAND
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59429
+  date: '2016-06-17'
+  time: '20:30'
+  band_name: Саша Фрид & Funk Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59431
+  date: '2016-06-18'
+  time: '20:00'
+  band_name: Acoustic Rain
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59433
+  date: '2016-06-19'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59434
+  date: '2016-06-19'
+  time: '19:30'
+  band_name: Brill Family
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 59438
+  date: '2016-06-21'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59440
+  date: '2016-06-23'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59441
+  date: '2016-06-24'
+  time: '20:00'
+  band_name: Bukanero
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59443
+  date: '2016-06-25'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59446
+  date: '2016-06-26'
+  time: '19:30'
+  band_name: Андрей Макаревич, Ирина Родилес, Brill Brothers, Borets Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 59447
+  date: '2016-06-27'
+  time: '20:00'
+  band_name: Jam Club Jam. Musician’s Session c Александром Гуреевым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатно
+- id: 59449
+  date: '2016-06-29'
+  time: '20:00'
+  band_name: Виталий Гребенников, Александр Браже
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 59450
+  date: '2016-06-30'
+  time: '20:00'
+  band_name: АСД и А. Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 60109
+  date: '2016-08-04'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60110
+  date: '2016-08-06'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60111
+  date: '2016-08-06'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60112
+  date: '2016-08-07'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60113
+  date: '2016-08-08'
+  time: '20:30'
+  band_name: Ансамбль "Юность"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60114
+  date: '2016-08-09'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60115
+  date: '2016-08-11'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 60116
+  date: '2016-08-12'
+  time: '20:00'
+  band_name: Алексей Подымкин и Радован Таришка (саксофон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60117
+  date: '2016-08-13'
+  time: '20:00'
+  band_name: '"A New Generetion" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 60118
+  date: '2016-08-13'
+  time: '20:30'
+  band_name: Бенарес Экспресс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60120
+  date: '2016-08-14'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60121
+  date: '2016-08-16'
+  time: '20:30'
+  band_name: The Jamtlemen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60106
+  date: '2016-08-01'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60119
+  date: '2016-08-13'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 60847
+  date: '2016-09-11'
+  time: '20:30'
+  band_name: Blind Boy Tinder, Omar Itcovici & The Kingsize
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 88
+    name: Omar Itcovici & The Kingsize
+    token: omar

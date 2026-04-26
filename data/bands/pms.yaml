@@ -1,0 +1,43 @@
+id: 440
+token: pms
+name: PMS
+alive: true
+city_id: 2
+genre_id: 3
+references:
+- id: 49
+  name: Chill Out
+  token: chill-out
+clips:
+- id: 2090
+  type: youtube
+  url: http://www.youtube.com/?v=hLVlq6OUmhY
+  name: PMS - Стерва
+  comments: День обрытых ногтей в RockSPb, Санкт-Петербург, 31.03.2010
+  sort_order: 99
+- id: 2091
+  type: weblink
+  url: http://vk.com/club8300842
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2092
+  type: weblink
+  url: http://www.myspace.com/pmsduo
+  name: Страница на MySpace
+  sort_order: 199
+reviews:
+- id: 141
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Группа была образована в Санкт-Петербурге гитаристом Даниилом Жешковым и
+    барабанщиком Ярославом Писаревым,которые вместе играли в группе The Chillout которая
+    затем через The Possums превратилась в PMS. В 2010 году был записан первый альбом
+    "Klimax"
+
+
+    В 2011 году к ним присоединился бас-гитарист Кирилл Поляков с котором группа отрпавилась
+    в "Libido Rock Tour" по России и Норвегии соместно с норвежской группой Cyaneed...'
+  verified: true
+  created: '2011-05-05'
+  is_press_release: true

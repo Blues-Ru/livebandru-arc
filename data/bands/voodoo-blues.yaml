@@ -1,0 +1,23 @@
+id: 389
+token: voodoo-blues
+name: Voodoo Blues Band
+alive: true
+city_id: 84
+genre_id: 1
+musicians:
+- name: Константин Хиврич
+  instruments: гитара, вокал
+- name: Иван Зыков
+  instruments: гитара, губная гармоника
+- name: Андрей Гаврилин
+  instruments: бас
+- name: Сергей Дымский
+  instruments: вокал
+- name: Павел Ефремов
+  instruments: ударные
+clips:
+- id: 1718
+  type: weblink
+  url: http://vk.com/club12164654
+  name: Страница ВКонтакте
+  sort_order: 99

@@ -1,0 +1,28 @@
+id: 292
+token: rukivbryuki
+name: Руки'в Брюки
+alive: true
+url: http://www.myspace.com/rukivbryuki
+city_id: 16
+genre_id: 9
+secondary_genre_id: 8
+musicians:
+- name: Александр "июнь" Ремез
+  instruments: вокал, гитара
+- name: Ярослав "Тони" Краснопольский
+  instruments: контрабас
+- name: Анатолий "Соя" Ткач
+  instruments: ударные
+clips:
+- id: 977
+  type: youtube
+  url: http://www.youtube.com/?v=lGRm1QE-THs
+  name: Руки в Брюки
+  comments: "Руки в Брюки\r\nРокабилльный Симпщзиум"
+  sort_order: 99
+- id: 978
+  type: photo
+  url: rukivbryuki.jpg
+  sort_order: 0
+  width: 567
+  height: 379

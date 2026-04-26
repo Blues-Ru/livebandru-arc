@@ -1,0 +1,456 @@
+- id: 40937
+  date: '2014-01-16'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 40938
+  date: '2014-01-23'
+  time: '20:00'
+  band_name: Samara Brown (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 40939
+  date: '2014-01-30'
+  time: '20:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 40940
+  date: '2014-02-20'
+  time: '20:00'
+  band_name: Johnaye Kendrick (вокал, США) и трио Алексея Подымкина
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 40941
+  date: '2014-03-13'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 42212
+  date: '2014-02-23'
+  time: '20:00'
+  band_name: Jazz Dance Orchest­ra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 42213
+  date: '2014-02-27'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 42214
+  date: '2014-03-04'
+  time: '20:00'
+  band_name: Евгений Баранов (труба, вокал) в проекте "Джазовые интермедии"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 42215
+  date: '2014-03-06'
+  time: '20:00'
+  band_name: Соми (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 42216
+  date: '2014-03-07'
+  time: '20:00'
+  band_name: Big woman's day show by Karmen Moxie
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 42217
+  date: '2014-03-20'
+  time: '20:00'
+  band_name: Ty Stephens (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 42218
+  date: '2014-03-21'
+  time: '20:00'
+  band_name: Виктор Добронравов и "Ковер-Квартет"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 42219
+  date: '2014-04-03'
+  time: '20:00'
+  band_name: Cleveland Watkiss (вокал, Великобритания)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 42220
+  date: '2014-04-18'
+  time: '20:00'
+  band_name: Samara Brown (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 42763
+  date: '2014-03-27'
+  time: '20:00'
+  band_name: Софи Окран, и ее группа
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: Программа "Natural Woman". Зажигательный джаз, фанк, соул!
+  extra_bands:
+  - id: 327
+    name: Софи Окран
+    token: sofi-okran
+- id: 42764
+  date: '2014-04-10'
+  time: '20:00'
+  band_name: Cynthia Holiday (Синтия Холидей - вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 42765
+  date: '2014-03-14'
+  time: '20:00'
+  band_name: Адриан Санчес (Adrian Sanchez) - Испания (танцор фламенко)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: "Феерическое шоу \"VIVA FLAMENCO!\" с участием Президента Российской федерации\
+    \ фламенко\r\nЮлии  Плахотиной и др."
+- id: 43853
+  date: '2014-06-19'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 43854
+  date: '2014-06-05'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 43855
+  date: '2014-05-22'
+  time: '20:00'
+  band_name: Mavis "Swan" Poole (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 44350
+  date: '2014-06-11'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45619
+  date: '2014-08-30'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45620
+  date: '2014-09-04'
+  time: '20:00'
+  band_name: Mavis "Swan" Poole (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 45621
+  date: '2014-09-09'
+  time: '20:00'
+  band_name: Танго Джаз Квартет (Аргентина)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45622
+  date: '2014-09-18'
+  time: '20:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 44721
+  date: '2014-07-11'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  price: 600 руб.
+- id: 45221
+  date: '2014-07-24'
+  time: '20:00'
+  band_name: 'День рождения Олега Бутмана: Трио Олега Бутмана, Сергей Головня (саксофон),
+    Анна Бутурлина (вокал), Этери (вокал), Даниил Крамер (клавиши), Антон Румянцев
+    (саксофон)'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 45222
+  date: '2014-07-31'
+  time: '20:00'
+  band_name: Lisa Henry (Лиза Генри - вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 45224
+  date: '2014-08-14'
+  time: '20:00'
+  band_name: Ada Dyer (Ада Дайер - вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45220
+  date: '2014-07-17'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45223
+  date: '2014-08-07'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45354
+  date: '2014-08-21'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 45618
+  date: '2014-08-27'
+  time: '20:00'
+  band_name: No Compromise Arts - Магос Эррера (вокал, США), Алекс Kaуц (барабаны,
+    США/Бразилия), Евгений Лебедев (клавиши, США/Россия), Олег Осенков (бас, США/Россия)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 46493
+  date: '2014-09-25'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 46494
+  date: '2014-10-02'
+  time: '20:00'
+  band_name: Тай Стивенс (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 46495
+  date: '2014-10-08'
+  time: '20:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 46496
+  date: '2014-10-15'
+  time: '20:00'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 46497
+  date: '2014-10-16'
+  time: '20:00'
+  band_name: Лиза Генри (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 46498
+  date: '2014-10-17'
+  time: '20:00'
+  band_name: Алла Рид
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 46499
+  date: '2014-10-29'
+  time: '20:00'
+  band_name: Lady Z (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 47415
+  date: '2014-11-06'
+  time: '20:00'
+  band_name: Руди Ройстон (ударные, США) и квартет Алексея Подымкина (Россия)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 47416
+  date: '2014-11-13'
+  time: '20:00'
+  band_name: Lezlie Harrison (Лесли Харрисон) - вокал, США
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 47417
+  date: '2014-11-19'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 47419
+  date: '2014-11-27'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 47414
+  date: '2014-11-05'
+  time: '19:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 47418
+  date: '2014-11-20'
+  time: '20:00'
+  band_name: Kathy Kosins (Кэти Козинс - вокал, США) и квартет Роберта Анчиполовского
+    (Израиль)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 48464
+  date: '2014-12-29'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 48465
+  date: '2014-12-17'
+  time: '20:00'
+  band_name: Jazz Dance Orchest­ra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra

@@ -1,0 +1,48 @@
+id: 164
+token: blues-n-roads
+name: Михаил Кистанов и Blues'n'Roads
+aliases: 'Blues-n-Roads
+
+  Blues''n''Roads
+
+  Blues''n''Roads Михаила Кистанова
+
+  Михаил Кистанов
+
+  Трио Михаила Кистанова'
+alive: true
+url: http://www.myspace.com/blues39n39roads
+city_id: 1
+genre_id: 1
+musicians:
+- name: Михаил Кистанов
+  instruments: гитара, вокал
+- name: Дмитрий Зиновьев
+  instruments: гитара
+- name: Сергей Известный
+  instruments: ударные
+- name: Сергей Спицын
+  instruments: бас
+clips:
+- id: 319
+  type: weblink
+  url: http://www.myspace.com/blues39n39roads
+  name: Страница на MySpace
+  sort_order: 99
+- id: 320
+  type: photo
+  url: blues-n-roads.jpg
+  name: Михаил Кистанов
+  sort_order: 0
+  width: 170
+  height: 254
+- id: 318
+  type: youtube
+  url: http://www.youtube.com/?v=QCJxcuAPHow
+  name: Blues'n'Roads - Floodin' California
+  sort_order: 0
+- id: 1786
+  type: weblink
+  url: http://www.myspace.com/blues39n39roads
+  name: Официальный сайт
+  sort_order: 0

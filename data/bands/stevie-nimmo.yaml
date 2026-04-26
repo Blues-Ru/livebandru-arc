@@ -1,0 +1,85 @@
+id: 658
+token: stevie-nimmo
+name: Stevie Nimmo
+alive: true
+url: http://www.stevienimmo.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Stevie Nimmo
+  instruments: guitar/vocals
+clips:
+- id: 5109
+  type: youtube
+  name: The Nimmo Brothers - Knocking it out, at Linton 2013
+  sort_order: 50
+- id: 5110
+  type: youtube
+  url: https://www.youtube.com/watch?v=zRn2Okt0bME
+  name: THE NIMMO BROTHERS (UK) - Never gonna walk on me & Flat broke. 2012
+  sort_order: 75
+- id: 5111
+  type: youtube
+  url: https://www.youtube.com/watch?v=0w0I3LMAKPg
+  name: Nimmo Brothers - 'Nothing In Chicago For Free'
+  sort_order: 199
+- id: 5108
+  type: youtube
+  url: https://www.youtube.com/watch?v=n5WN-a_PTDs
+  name: Stevie Nimmo - Everything Is Gonna Be Alright
+  sort_order: 0
+- id: 5107
+  type: youtube
+  url: https://www.youtube.com/watch?v=6qu4vUFONys
+  name: Eugene 'Hideaway' Bridges joined on stage by Stevie Nimmo, Linton 2013
+  sort_order: 99
+- id: 5106
+  type: weblink
+  url: http://www.stevienimmo.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5127
+  type: photo
+  url: stevie-nimmo.jpg
+  sort_order: 0
+  width: 720
+  height: 719
+- id: 5134
+  type: youtube
+  url: https://www.youtube.com/watch?v=8l-su7SHEUk
+  name: The Nimmo Brothers performing Black Cat Bone
+  sort_order: 25
+reviews:
+- id: 385
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец шотландского Глазго, гражданин Мира и житель попеременно то Лондона,
+    то Парижа - гитарист-виртуоз, певец, сонграйтер СТИВИ НИММО, родной брат Алана
+    Ниммо, лидера британской блюзовой группы King King, обладателя British Blues Awards
+    "Best Blues Band" - участник нескольких успешных проектов и сольный артист, номинант
+    на British Blues Awards "Best Blues Guitarist", и... очень мужественный человек.
+
+
+    Вот уже четыре года, с тех пор как в 2009 году у него был диагностирован рак,
+    Стиви продолжает борьбу со страшным недугом, практически не снижая своей концертной
+    активности в составе собственного трио, дуэта с братом Аланом The NIMMO Brothers,
+    и как сольный артист, и продолжая уделять время для работы в студии. Недавние
+    тесты показали, что в битве с раком пока Стиви Ниммо уверенно побеждает недуг.
+    Он справится!
+
+
+    О себе и о своих песнях он говорит так: "Если у тебя есть что-то внутри, и это
+    что-то рвется наружу - неважно, делая тебя при этом счастливым или заставляя грустить,
+    то единственная возможность дать этому выход - написать и спеть песню. Я так и
+    делаю, и мне удается с этим справится... Пока мне есть, что сказать - я буду "в
+    деле"... А мне еще есть, что сказать!"
+
+
+    О гитарном стиле Стиви можно с уверенностью сказать, что в его гитаре живут очередные
+    инкарнации Джими Хедрикса, его тезки Стиви Рэя Вона и Гэри Мура. Это не подражание
+    - это воплощение! Бесподобно!!!'
+  verified: true
+  created: '2013-12-23'
+  is_press_release: true

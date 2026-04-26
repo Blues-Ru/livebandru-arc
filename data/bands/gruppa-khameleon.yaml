@@ -1,0 +1,16 @@
+id: 602
+token: gruppa-khameleon
+name: Группа Хамелеон
+alive: true
+city_id: 51
+genre_id: 7
+secondary_genre_id: 32
+musicians:
+- name: Андрей Рогозин
+  instruments: клавиши
+- name: Николай Куликов
+  instruments: гитара
+- name: Николай Клишин
+  instruments: контрабас, бас-гитара
+- name: А. Барандов
+  instruments: ударные

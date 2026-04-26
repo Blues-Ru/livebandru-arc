@@ -1,0 +1,50 @@
+id: 366
+token: roman-miro
+name: Роман Мирошниченко
+aliases: Роман Мирошниченко и его группа
+alive: true
+url: http://www.romanmiroshnichenko.com
+city_id: 1
+genre_id: 2
+secondary_genre_id: 32
+musicians:
+- name: Роман Мирошниченко
+  instruments: гитара
+clips:
+- id: 1472
+  type: weblink
+  url: http://www.romanmiroshnichenko.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1473
+  type: weblink
+  url: http://www.myspace.com/romanmiroshnichenko
+  name: Страница на MySpace
+  sort_order: 100
+- id: 1475
+  type: youtube
+  url: http://www.youtube.com/?v=JvK-fvupwQQ
+  name: Medley
+  sort_order: 99
+- id: 1474
+  type: weblink
+  url: Роман Мирошниченко и его группа
+  name: Ролики на YouTube
+  sort_order: 200
+- id: 1476
+  type: weblink
+  url: http://ru-ru.facebook.com/people/Roman-Miroshnichenko/1554340412
+  name: Страница на FaceBook
+  sort_order: 300
+- id: 1477
+  type: youtube
+  url: http://www.youtube.com/?v=9pACg14PhYI
+  name: Stairway by Roman Miroshnichenko
+  comments: "Roman Miroshnichenko plays his composition \"Stairway of Life\"\r\nhttp://www.romanmiroshnichenko.com"
+  sort_order: 199
+- id: 1478
+  type: photo
+  url: roman-miro.jpg
+  sort_order: 0
+  width: 415
+  height: 343

@@ -1,0 +1,21 @@
+id: 40
+token: b2
+name: Б2
+aliases: 'Cool Train Club
+
+  Cool Train
+
+  Б2, Cool Train
+
+  Б2, 2 этаж'
+alive: true
+address: Большая Садовая, 8
+subway: Маяковская
+phone: (495) 650-9909, 650-9918
+city_id: 1
+clips:
+- id: 377
+  type: weblink
+  url: http://www.b2club.ru/
+  name: Официальный сайт
+  sort_order: 99

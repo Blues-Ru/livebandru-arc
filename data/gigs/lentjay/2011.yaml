@@ -1,0 +1,23 @@
+- id: 14879
+  date: '2011-01-16'
+  time: '18:00'
+  band_id: 343
+  band_name: Мое прекрасное сердце
+  band_token: moeprekrasnoeserdce
+  club_id: 373
+  club_name: Лентяй
+  club_token: lentjay
+  price: 250 руб.
+- id: 15989
+  date: '2011-03-06'
+  time: '18:00'
+  band_name: Искатели, Ssapromat, MGK, Паровоз, Jiva Joty, My Escape, 250, Morfeй
+    Григорьев band
+  club_id: 373
+  club_name: Лентяй
+  club_token: lentjay
+  price: 250 руб.
+  extra_bands:
+  - id: 383
+    name: Искатели
+    token: iskateli

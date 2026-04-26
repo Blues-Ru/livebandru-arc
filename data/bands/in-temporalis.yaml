@@ -1,0 +1,26 @@
+id: 447
+token: in-temporalis
+name: In-Temporalis
+alive: true
+url: http://www.in-temporalis.com/
+city_id: 2
+genre_id: 2
+musicians:
+- name: Йоэль Гонсалес
+  instruments: перкуссия
+- name: Полина Фрадкина
+  instruments: фортепиано
+clips:
+- id: 2127
+  type: weblink
+  url: http://www.in-temporalis.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2128
+  type: photo
+  url: in-temporalis.jpg
+  name: In-Temporalis
+  comments: Йоэль Гонсалес (перкуссия), Полина Фрадкина (фортепиано)
+  sort_order: 0
+  width: 410
+  height: 328

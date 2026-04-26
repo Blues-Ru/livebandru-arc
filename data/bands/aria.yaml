@@ -1,0 +1,50 @@
+id: 531
+token: aria
+name: Ария
+alive: true
+url: http://www.aria.ru
+city_id: 1
+genre_id: 3
+musicians:
+- name: Артут Беркут
+  instruments: вокал, гитара
+- name: Владимир Холстинин
+  instruments: гитара
+- name: Виталий Дубинин
+  instruments: бас-гитара, бэк-вокал
+- name: Сергей Попов
+  instruments: гитара
+- name: Максим Удалов
+  instruments: барабаны
+clips:
+- id: 2476
+  type: weblink
+  url: http://www.aria.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2477
+  type: photo
+  url: aria.jpg
+  sort_order: 0
+  width: 198
+  height: 119
+reviews:
+- id: 198
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '"Ария" - российская группа, играющая в жанре хеви-метал, музыка которой выдержана
+    в стиле групп новой волны британского хеви-металла.
+
+
+    "Ария" является одной из старейших и самых успешных метал-групп России. Лауреат
+    премии Fuzz 2007 года как лучшая live-группа. Ее бывшими участниками были образованы
+    многие другие известные группы ("Мастер", "Кипелов", "Маврин", "Артерия"), которые
+    вместе составляют плеяду, называемую "семейка Арии".
+
+
+    Большая часть текстов группы написана поэтами Маргаритой Пушкиной и Александром
+    Елиным.'
+  verified: true
+  created: '2011-08-26'
+  is_press_release: true

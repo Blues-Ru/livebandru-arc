@@ -1,0 +1,213 @@
+- id: 57484
+  date: '2016-03-10'
+  time: '20:00'
+  band_name: Jam Session "В лучших традициях джаза"
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57485
+  date: '2016-03-11'
+  time: '20:00'
+  band_name: Квартет Павла Чекмаковского (Павел Чекмаковский - гитара, Родион Гоборов
+    - орган, Антон Залетаев - cаксофон, флейта, Петр Ившин -ударные, перкуссия)
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57486
+  date: '2016-03-17'
+  time: '20:00'
+  band_name: Квартет Антона Горбунова + Jam Session (Антон Горбунов - бас, Владимир
+    Голоухов - вибрафон, Антон Залетаев - саксофон, Вартан Бабаян - барабаны)
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57487
+  date: '2016-03-18'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57488
+  date: '2016-03-19'
+  time: '20:00'
+  band_name: 'Артем Лалаян с авторским проектом "Джаз с армянским акцентом": Артем
+    Лалаян - фортепиано, Григорий Мальян - контрабас, Вартан Бабаян - ударные, Антон
+    Залетаев - саксофон, Айк Григорян - труба'
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57489
+  date: '2016-03-24'
+  time: '20:00'
+  band_name: Big Jam Session
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57490
+  date: '2016-03-25'
+  time: '20:00'
+  band_name: Народный артист России Алексей Кузнецов и его квартет
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  comments: Алексей Кузнецов - гитара, Максим Шибин - гитара, Дарья Соколова - контрабас,
+    Вартан Бабаян - ударные
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 57491
+  date: '2016-03-30'
+  time: '20:00'
+  band_name: Народный артист России Даниил Крамер и его трио с программой "Игры в
+    джаз"
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  comments: Даниил Крамер - фортепиано, Сергей Васильев - бас, Павел Тимофеев - ударные
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 57492
+  date: '2016-03-31'
+  time: '20:00'
+  band_name: Клубный фестиваль вокального джаза
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57735
+  date: '2016-04-07'
+  time: '20:00'
+  band_name: Jam Session с Артемом Лалаяном
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 58768
+  date: '2016-05-08'
+  time: '20:30'
+  band_name: Артем Айвазян и Laya Bam Band
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  extra_bands:
+  - id: 474
+    name: Laya Bam Band
+    token: laya-bam-band
+- id: 58769
+  date: '2016-05-10'
+  time: '20:30'
+  band_name: Квартет Эмануэля Чизи (Италия)
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57725
+  date: '2016-04-01'
+  time: '20:00'
+  band_name: Валерий Степанов - фортепиано, Антон Горбунов - бас-гитара, Петр Ившин
+    - барабаны
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57736
+  date: '2016-04-14'
+  time: '20:00'
+  band_name: Jam Session с Артемом Лалаяном
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57737
+  date: '2016-04-21'
+  time: '20:00'
+  band_name: Jam Session с Артемом Лалаяном
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57738
+  date: '2016-04-28'
+  time: '20:00'
+  band_name: Jam Session с Артемом Лалаяном
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 57739
+  date: '2016-04-08'
+  time: '20:00'
+  band_id: 350
+  band_name: Эдельвейс
+  band_token: edelveys
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  comments: Анжелика Маркова - вокал, Валерий Черноок - ударные, Александр Дитковский
+    - труба, Николай Петров - бас-гитара, Сергей Макеев - фортепиано
+- id: 58770
+  date: '2016-05-20'
+  time: '20:30'
+  band_name: Валерий Степанов (фортепиано), Антон Горбунов (бас-гитара), Петр Ившин
+    (барабаны)
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 58771
+  date: '2016-05-27'
+  time: '20:30'
+  band_name: LRK Trio (Евгения Лебедев - фортепиано, Антон Ревнюк - бас, Игнат Кравцов
+    - ударные)
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 58997
+  date: '2016-06-03'
+  time: '20:30'
+  band_name: Элож Акифева и Gank'Groov
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 58998
+  date: '2016-06-10'
+  time: '20:30'
+  band_name: Артем Айвазян и Laya Bam Band
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  extra_bands:
+  - id: 474
+    name: Laya Bam Band
+    token: laya-bam-band
+- id: 58999
+  date: '2016-06-17'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 59000
+  date: '2016-06-21'
+  time: '20:30'
+  band_name: Наталья Козлова и Funk Corporation
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+  comments: Наталья Козлова - вокал, бас-гитара, Родион Гоборов - клавишные, Игорь
+    Балабаев - саксофон, Макар Кашицын - саксофон, Женя Павловцев - флейта, Алексей
+    Полубабкин - гитара, Константин Кириленко - бас-гитара, Александр Иванов - барабаны
+- id: 59001
+  date: '2016-06-24'
+  time: '20:30'
+  band_name: 'ScenaRio: Joander Santos Trio (Бразилия)'
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe
+- id: 59002
+  date: '2016-06-30'
+  time: '20:30'
+  band_name: Артем Лалаян в авторской программе "Джаз с армянским акцентом"
+  club_id: 834
+  club_name: Scenario Cafe
+  club_token: scenario-cafe

@@ -1,0 +1,39 @@
+id: 121
+token: foggy-dew
+name: Foggy Dew
+alive: true
+url: http://www.foggydew.ru/
+city_id: 11
+genre_id: 4
+clips:
+- id: 95
+  type: weblink
+  url: http://www.foggydew.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 96
+  type: photo
+  url: foggy-dew.jpg
+  sort_order: 99
+  width: 300
+  height: 225
+- id: 750
+  type: weblink
+  url: http://vk.com/club2636390
+  name: Страница ВКонтакте
+  sort_order: 100
+reviews:
+- id: 3
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Группа Foggy Dew была основана в 1999 году в Ростове-на-Дону. Группу основал
+    певец и музыкант Александр Джалашов. Основным направлением в работе коллектива
+    является исполнение ирландских народных песен (пивных, патриотических песен, баллад
+    и танцевальных композиций). Отличительной особенностью коллектива является исполнение
+    ирландской музыки с использованием исключительно ирландских инструментов и традиционных
+    аранжировок, что выделяет Foggy Dew как единственную российскую группу, исполняющую
+    традиционную ирландскую музыку.
+  verified: false
+  created: '2010-03-12'
+  is_press_release: true

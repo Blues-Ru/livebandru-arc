@@ -1,0 +1,89 @@
+id: 53
+token: soulmate
+name: Soul Mate
+alive: true
+url: http://www.sweetsoulmusicband.com
+city_id: 1
+genre_id: 23
+secondary_genre_id: 1
+musicians:
+- name: Павел Зибров
+  instruments: вокал
+- name: Анастасия Кожевникова
+  instruments: вокал
+- name: Сергей Виноградов
+  instruments: гитара
+- name: Евгений Глухов
+  instruments: бас-гитара
+- name: Владимир Воеводин
+  instruments: барабаны
+clips:
+- id: 3419
+  type: weblink
+  url: http://www.sweetsoulmusicband.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 6282
+  type: photo
+  url: soulmate-2.jpg
+  name: SoulFriday в клубе "Дума"
+  comments: Фото Олег MobKid Миронов
+  sort_order: 100
+  width: 678
+  height: 1024
+- id: 6262
+  type: photo
+  url: soulmate.jpg
+  sort_order: 0
+  width: 577
+  height: 341
+- id: 6264
+  type: youtube
+  url: http://www.youtube.com/?v=XttJBQe7mN0
+  name: Sweets for my Sweet
+  comments: Клуб "Хот Хаус"
+  sort_order: 199
+- id: 6265
+  type: weblink
+  url: https://www.facebook.com/sweetsoulmusic
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 6266
+  type: youtube
+  url: http://www.youtube.com/?v=79wLb1_PwVs
+  name: Gimme Some Lovin'
+  comments: Корабль Брюсов
+  sort_order: 299
+- id: 6261
+  type: weblink
+  url: http://vk.com/soul_mate
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 6263
+  type: youtube
+  url: http://www.youtube.com/?v=cnbT9LN4dWc
+  name: '"Land of 1000 dances"'
+  comments: Клуб "Хот Хаус"
+  sort_order: 99
+- id: 6572
+  type: youtube
+  url: http://www.youtube.com/?v=bhyKc0TG6Wo
+  name: Show Me
+  comments: SoulFriday в клубе "Дума" 23.11.2014Видео и монтаж - Кирилл Капустин
+  sort_order: 50
+- id: 6573
+  type: youtube
+  url: http://www.youtube.com/?v=fcCCQ0kF6Ok
+  name: Промо
+  comments: Группа Soul Mate - московский  соул-коллектив, исполняющий живую классику
+    soul и rhythm-and-blues.Сайт - http://www.sweetsoulmusicband.comСоц.сети - http://vk.com/soul_mate,
+    https://www.facebook.com
+  sort_order: 0
+- id: 6571
+  type: youtube
+  url: http://www.youtube.com/?v=YFOdkTds1ZA
+  name: Soul Man
+  comments: SOUL MATE - московский соул-коллектив, исполняющий  живую классику soul
+    и  rhythm-and-blues. Soul Mate - это люди, доказавшие, что и на наших просторах
+    можно играть соул-музыку, как ее понимали Отис Р
+  sort_order: 75

@@ -1,0 +1,13 @@
+id: 934
+token: ogorod
+name: Аптекарский Огород
+alive: true
+address: Проспект Мира, 26, стр. 1
+subway: Проспект Мира
+city_id: 1
+clips:
+- id: 10879
+  type: weblink
+  url: https://hortus.ru/category/concerts
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,62 @@
+- id: 36003
+  date: '2013-05-18'
+  time: '20:00'
+  band_name: '"Ночное джазовое танго": Даниил Крамер'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  comments: В рамках фестиваля Ночь в музее-2013
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 38034
+  date: '2013-09-20'
+  time: '19:00'
+  band_name: 'Абонемент Даниила Крамера "Музейный джаз" : программа Gold Jazz of fall'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  price: 1 конц. 850 р., абонем. 2250 р.
+  comments: 'Исполнители: Даниил Крамер (фортепиано)'
+- id: 38035
+  date: '2013-11-05'
+  time: '19:00'
+  band_name: '"Посвящение Майлсу Дэвису": Jason Palmer & Квартет Алексея Подымкина'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  price: 800-1200 руб.
+- id: 38036
+  date: '2013-10-05'
+  time: '19:00'
+  band_name: Джазовый вечер с Иваном Фармаковским
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  price: от 500 руб.
+- id: 38037
+  date: '2013-09-24'
+  time: '19:00'
+  band_name: 'Концертный цикл "Возвращение пророков". Gershwin Glory к 115-летию со
+    дня рождения Джорджа Гершвина: Алексей Кузнецов (гитара), Максим Шибин (гитара),
+    Денис Шушков (контрабас), Алина Ростоцкая (вокал). Ведущая - искусствовед Светлана
+    Галаганова'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 38774
+  date: '2013-10-12'
+  time: '19:00'
+  band_name: Концерт-презентация альбома пианиста Одиссея Богусевича Piano Solo
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  price: 300-450 руб.

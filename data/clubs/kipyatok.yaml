@@ -1,0 +1,19 @@
+id: 483
+token: kipyatok
+name: Арт-кафе Кипяток
+alive: true
+address: Кузнечный пер., 14а
+subway: Площадь восстания, Маяковская, Владимирская
+phone: (812) 572-32-90
+city_id: 2
+clips:
+- id: 2435
+  type: weblink
+  url: http://www.kipy.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2436
+  type: weblink
+  url: http://vk.com/club11632023
+  name: Страница ВКонтакте
+  sort_order: 100

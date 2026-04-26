@@ -1,0 +1,55 @@
+- id: 12983
+  date: '2010-09-24'
+  time: '19:00'
+  band_name: Smokie
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa
+- id: 12984
+  date: '2010-09-25'
+  time: '18:00'
+  band_name: 'Джазовый фестиваль "Огни Уфы": Алексей Козлов и Новый Арсенал, Деннис
+    Роуланд (США)'
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 12985
+  date: '2010-09-26'
+  time: '19:00'
+  band_name: 'Джазовый фестиваль "Огни Уфы": Олег Киреев, A''Capella Expresss'
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 12986
+  date: '2010-09-29'
+  time: '19:00'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa
+- id: 12987
+  date: '2010-10-15'
+  time: '19:00'
+  band_name: Чиж и Co
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa
+- id: 12988
+  date: '2010-10-30'
+  time: '19:00'
+  band_id: 242
+  band_name: Гарик Сукачев
+  band_token: sukachev
+  club_id: 278
+  club_name: Огни Уфы
+  club_token: ogni-ufa

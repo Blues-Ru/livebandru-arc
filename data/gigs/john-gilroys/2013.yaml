@@ -1,0 +1,40 @@
+- id: 37754
+  date: '2013-08-17'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+- id: 37813
+  date: '2013-08-10'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 38526
+  date: '2013-09-20'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  price: бесплатно
+- id: 39283
+  date: '2013-11-02'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  price: бесплатно

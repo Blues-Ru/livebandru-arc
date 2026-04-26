@@ -1,0 +1,15 @@
+id: 921
+token: krasnyj-lis
+name: Красный Лис
+aliases: Джаз-кафе "Красный Лис"
+alive: true
+address: ул. Маяковского, 50
+subway: Чернышевская
+phone: +7(812)275-42-14
+city_id: 2
+clips:
+- id: 10603
+  type: weblink
+  url: http://www.rfjc.ru
+  name: Официальный сайт
+  sort_order: 0

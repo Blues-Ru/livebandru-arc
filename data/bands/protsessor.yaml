@@ -1,0 +1,70 @@
+id: 310
+token: protsessor
+name: Процессор
+alive: true
+url: http://vkontakte.ru/club3509719
+city_id: 1
+genre_id: 3
+musicians:
+- name: Азадов Константин
+  instruments: вокал
+- name: Лаврухин Дмитрий
+  instruments: гитара
+- name: Бовкун Алексей
+  instruments: бас-гитара
+- name: Журавель Игорь
+  instruments: барабаны.
+- name: Гиренко Владимир
+  instruments: клавиши,  гитара, музыка, тексты.
+clips:
+- id: 1118
+  type: photo
+  url: prosessor.jpg
+  name: группа Процессор
+  sort_order: 0
+  width: 600
+  height: 399
+- id: 1119
+  type: photo
+  url: prosessor-2.jpg
+  name: Игорь Журавель
+  sort_order: 100
+  width: 401
+  height: 600
+- id: 1120
+  type: weblink
+  url: http://chicobuarque.livejournal.com/
+  name: страница в chicobuarque's journal
+  sort_order: 199
+- id: 1114
+  type: youtube
+  url: http://www.youtube.com/?v=sRlpy1poZUA
+  name: Бродяга
+  comments: ''
+  sort_order: 99
+- id: 1121
+  type: weblink
+  url: http://muzkontakt.ru/id1951/
+  name: страница на Музконтакт.ру
+  sort_order: 299
+- id: 1122
+  type: weblink
+  url: http://muzkontakt.ru/b1370/
+  name: страница на Музконтакт.ру
+  sort_order: 399
+- id: 1115
+  type: youtube
+  url: http://www.youtube.com/?v=NRwHMDQy_QU
+  name: Все будет просто
+  sort_order: 199
+- id: 1116
+  type: youtube
+  url: http://www.youtube.com/?v=Cj4ZPlcOxPo
+  name: Я смеюсь
+  comments: ''
+  sort_order: 299
+- id: 1117
+  type: weblink
+  url: http://vk.com/club3509719
+  name: Страница ВКонтакте
+  sort_order: 99

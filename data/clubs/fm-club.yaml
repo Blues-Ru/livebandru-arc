@@ -1,0 +1,20 @@
+id: 133
+token: fm-club
+name: FM-Club
+aliases: FM Club
+alive: true
+address: Земляной Вал, 60/28
+subway: Таганская
+phone: (495) 502-99-21
+city_id: 1
+clips:
+- id: 40
+  type: weblink
+  url: http://www.fm-club.su/
+  name: Официальный сайт
+  sort_order: 0
+- id: 471
+  type: weblink
+  url: http://vk.com/club8549640
+  name: Страница ВКонтакте
+  sort_order: 100

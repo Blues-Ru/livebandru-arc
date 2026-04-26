@@ -1,0 +1,98 @@
+- id: 23335
+  date: '2011-11-26'
+  time: '20:00'
+  band_name: Good Company, Greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+  comments: концерт в 4-х отделениях
+  extra_bands:
+  - id: 557
+    name: Good Company
+    token: good-company
+  - id: 556
+    name: Greentown
+    token: greentown
+- id: 24009
+  date: '2011-12-09'
+  time: '21:00'
+  band_id: 557
+  band_name: Good Company
+  band_token: good-company
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+  comments: концерт в стиле блюз-рок на основе хитов "The Beatles", "Deep Purple",
+    "Rolling Stones", "Pink Floyd", "Queen", "Gary Moore" и других популярных коллективов
+    и исполнителей.
+- id: 24010
+  date: '2011-12-14'
+  time: '23:30'
+  band_name: Второе дыхание
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 200 руб.
+  comments: "Afterparty после концерта Пола Маккартни -  выступление группы \"Второе\
+    \ дыхание\" и ударника группы \"Машина времени\" Максима Капитановского\r\nЛегендарные\
+    \ отечественные музыканты 70-х годов играют старый добрый англо-американский Classic\
+    \ Rock.\r\n- встреча битломанов разных возрастов из многих стран - всех тех, кого\
+    \ объединяет любовь к творчеству The Beatles.\r\nНа afterparty можно будет приобрести\
+    \ книгу \"Во всем виноваты Битлз\" Максима Капитановского - с автографом самого\
+    \ автора!"
+- id: 23467
+  date: '2011-12-03'
+  time: '21:00'
+  band_name: Андрей Храмов & Greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+  extra_bands:
+  - id: 556
+    name: Greentown
+    token: greentown
+- id: 23468
+  date: '2011-12-02'
+  time: '21:00'
+  band_id: 557
+  band_name: Good Company
+  band_token: good-company
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+- id: 23469
+  date: '2011-12-11'
+  time: '19:00'
+  band_name: Катерина Партош & "Эстергази", авторская программа (джаз, блюз, латино,
+    джаз-рок)
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+- id: 23336
+  date: '2011-11-30'
+  time: '21:00'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+  comments: концерт в 2-х отделениях
+- id: 24065
+  date: '2011-12-17'
+  time: '20:30'
+  band_name: Андрей Храмов & Greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+  extra_bands:
+  - id: 556
+    name: Greentown
+    token: greentown

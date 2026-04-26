@@ -1,0 +1,39 @@
+id: 281
+token: pozitive-orchestra
+name: Pozitive Orchestra
+alive: true
+url: http://www.poz-or.ru/
+city_id: 1
+musicians:
+- name: Кирилл Кухаренко
+  instruments: гитара, вокал
+- name: Сергей Винокуров
+  instruments: скрипка
+- name: Евгений Крючков
+  instruments: скрипка
+- name: Олег Смолин
+  instruments: альт
+- name: Александр Петров
+  instruments: виолончель
+references:
+- id: 178
+  name: Джин Тоник
+  token: gin-tonic
+clips:
+- id: 925
+  type: youtube
+  url: http://www.youtube.com/?v=AwVVJAXqZS4
+  name: Pozitive Orchestra (Poz.Or.) Видео-превью
+  comments: Нарезка с эфира "Брать живьём" на телеканале O2-TV. февраль 2008г.
+  sort_order: 99
+- id: 927
+  type: weblink
+  url: http://www.poz-or.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 926
+  type: photo
+  url: pozitive-orchestra.jpg
+  sort_order: 0
+  width: 750
+  height: 502

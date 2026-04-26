@@ -1,0 +1,85 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ club.name }} — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+<div id="aboutBox">
+  {% if main_photo %}
+  <div class="photo">
+    <a href="/club/{{ club.token }}/photo#{{ main_photo.url }}">
+      <img src="/club/{{ club.token }}/images/{{ main_photo.thumb_url }}" title="{{ club.name }}" />
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="description">
+    {% if web_links %}
+    <p class="main">
+      {% for link in web_links %}
+      <a href="{{ link.url }}" target="_blank"><bx>{{ link.name }}</bx></a>{% if link.comments %} - {{ link.comments }}{% endif %}<br />
+      {% endfor %}
+    </p>
+    {% endif %}
+
+    <p class="main">
+      {{ club.city_name }}{% if club.address %},
+      {{ club.address }}{% endif %}<br/>
+      {% if club.comments %}{{ club.comments }}<br/>{% endif %}
+      {% if club.subway %}м. {{ club.subway }}<br/>{% endif %}
+      {% if club.phone %}т. {{ club.phone }}<br/>{% endif %}
+    </p>
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+{% if first_review %}
+<div id="groupReview">
+  <h4 class="und">О клубе</h4>
+  <h4>
+    <a href="/club/{{ club.token }}/reviews#{{ first_review.reviewer_token }}">
+      {% if first_review.header %}{{ first_review.header }} - {% endif %}{{ first_review.reviewer_name }}
+    </a>
+  </h4>
+  <p class="main">{{ first_review.text_sample }}</p>
+  <p class="more">
+    <a class="more" href="/club/{{ club.token }}/reviews#{{ first_review.reviewer_token }}">Читать далее...</a>
+  </p>
+</div>
+{% endif %}
+
+<div class="lrBlocks">
+  {% if top_bands %}
+  <div class="lBlock">
+    <h4 class="und">Группы</h4>
+    <table class="wide">
+      <thead><tr><th>Группа</th><th style="width:4em;">Концерты</th></tr></thead>
+      <tbody>
+        {% for b in top_bands %}
+        <tr class="{{ 'odd' if loop.index is odd else 'even' }}">
+          <td><a href="/band/{{ b.token }}/">{{ b.name }}</a></td>
+          <td style="width:4em;" align="right"><span class="aux">{{ b.gig_count }}</span></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <div class="brdBtm"></div>
+  </div>
+  {% endif %}
+
+  {% if club.gig_count > 0 %}
+  <div class="{{ 'rBlock' if top_bands else 'wBlock' }}">
+    <h4 class="und">История концертов <a href="/club/{{ club.token }}/gigs/">все...</a></h4>
+    {% if year_stats %}
+    <p class="main">
+      {% for year, count in year_stats %}
+      <a href="/club/{{ club.token }}/gigs/#y{{ year }}">{{ year }}</a>&#160;({{ count }}){% if not loop.last %},&#160;{% endif %}
+      {% endfor %}
+    </p>
+    <p class="more"><a class="more" href="/club/{{ club.token }}/gigs/">Все концерты...</a></p>
+    <div class="brdBtm"></div>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

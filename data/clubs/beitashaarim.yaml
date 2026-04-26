@@ -1,0 +1,19 @@
+id: 288
+token: beitashaarim
+name: Бейт-шаарим
+alive: true
+address: Национальный парк "Бейт Ашаарим" Кирьят Тивон
+phone: 04-9831643 052-8796348
+city_id: 47
+comments: musicalb@walla.com
+clips:
+- id: 841
+  type: weblink
+  url: http://www.musicalbreeze.com/
+  name: Официальный сайт
+  sort_order: 99
+- id: 842
+  type: weblink
+  url: http://www.parks.org.il/BuildaGate5/general2/data_card.php?Cat=~~~666286536~Card3~
+  name: Национальные Парки Израиля
+  sort_order: 199

@@ -1,0 +1,37 @@
+id: 484
+token: jeff-rowe
+name: Jeff Rowe
+alive: true
+url: http://jeffrowemusic.com/
+city_id: 13
+genre_id: 15
+secondary_genre_id: 17
+clips:
+- id: 2220
+  type: weblink
+  url: http://www.facebook.com/pages/Jeff-Rowe/191058524254370
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 2222
+  type: photo
+  url: jeff-rowe.jpg
+  sort_order: 0
+  width: 500
+  height: 500
+- id: 2218
+  type: weblink
+  url: http://jeffrowemusic.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2219
+  type: weblink
+  url: http://www.myspace.com/jeffrowemusic
+  name: Страница на MySpace
+  sort_order: 100
+- id: 2221
+  type: youtube
+  url: http://www.youtube.com/?v=qRiaPo7P2m8
+  name: Jeff Rowe at Live Bar in Truro - May 22nd 2011
+  comments: US punk troubadour Jeff Rowe sings another tune at a Dueling Kazoos show
+    downstairs at Live Bar in Truro on Sun 22nd May 2011
+  sort_order: 99

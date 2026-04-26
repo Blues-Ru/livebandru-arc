@@ -1,0 +1,47 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ club.name }} — Концерты — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+{% if gigs_by_year %}
+<h3 class="und">История концертов</h3>
+{% for year, gigs in gigs_by_year %}
+<h3 class="year-toggle" id="y{{ year }}" style="margin-top:14px;margin-bottom:8px;cursor:pointer;">{{ year }} ({{ gigs|length }})</h3>
+<table class="wide year-table">
+  <tbody>
+    {% for g in gigs %}
+    <tr class="{{ 'odd' if loop.index is odd else 'even' }}">
+      <td class="nowrap" style="width:8em;">
+        {{ g.short_date }}&#160;<span class="{% if g.is_weekend %}weekend{% endif %}">{{ g.weekday_short }}</span>
+      </td>
+      <td class="xmineOffset">
+        <span class="main">
+          {% if g.band_token %}<a href="/band/{{ g.band_token }}/">{{ g.band_name }}</a>{% elif g.band_name %}{{ g.band_name }}{% else %}<span class="grayed">—</span>{% endif %}
+          {% for eb in g.extra_bands %}
+          {% if loop.first %} + {% endif %}
+          {% if eb.token %}<a href="/band/{{ eb.token }}/">{{ eb.name }}</a>{% else %}{{ eb.name }}{% endif %}
+          {% if not loop.last %}, {% endif %}
+          {% endfor %}
+        </span>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+<script>
+(function() {
+  var toggles = document.querySelectorAll('.year-toggle');
+  var tables  = document.querySelectorAll('.year-table');
+  for (var i = 1; i < tables.length; i++) tables[i].style.display = 'none';
+  for (var j = 0; j < toggles.length; j++) {
+    (function(h, t) {
+      h.onclick = function() { t.style.display = t.style.display === 'none' ? '' : 'none'; };
+    })(toggles[j], tables[j]);
+  }
+})();
+</script>
+{% else %}
+<p class="main">Концерты в базе не зарегистрированы.</p>
+{% endif %}
+{% endblock %}

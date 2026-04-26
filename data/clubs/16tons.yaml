@@ -1,0 +1,15 @@
+id: 18
+token: 16tons
+name: Шестнадцать тонн
+aliases: 16 тонн
+alive: true
+address: Пресненский вал, 6
+subway: Улица 1905 года
+phone: (495) 253-5300
+city_id: 1
+clips:
+- id: 48
+  type: weblink
+  url: http://www.16tons.ru/
+  name: Официальный сайт
+  sort_order: 0

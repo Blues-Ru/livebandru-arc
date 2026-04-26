@@ -1,0 +1,79 @@
+id: 307
+token: fryktoviykefir
+name: Фруктовый кефир
+alive: true
+url: http://vkontakte.ru/club176450
+city_id: 11
+genre_id: 7
+secondary_genre_id: 15
+musicians:
+- name: Алексей Бусурин
+  instruments: вокал, слова и музыка
+- name: Константин Негодаев
+  instruments: гитара
+- name: Олег Шунцов
+  instruments: ударные
+- name: Леонид Климин
+  instruments: бас-гитара
+- name: Тимур Некрасов
+  instruments: саксофон
+clips:
+- id: 1093
+  type: weblink
+  url: http://www.myspace.com/fryktoviykefir
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1094
+  type: weblink
+  url: http://vk.com/club176450
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 1100
+  type: photo
+  url: fryktoviykefir-3.jpg
+  name: С фруктовым кефиром зачеты не страшны
+  sort_order: 100
+  width: 900
+  height: 589
+- id: 1101
+  type: photo
+  url: fryktoviykefir-2.jpg
+  name: Идеи в клеточку
+  sort_order: 200
+  width: 650
+  height: 380
+- id: 1103
+  type: rss
+  url: http://www.daymusic.ru/tags/%D4%D0%D3%CA%D2%CE%C2%DB%C9%20%CA%C5%D4%C8%D0
+  name: фруктовый кефир
+  sort_order: 99
+- id: 1095
+  type: youtube
+  url: http://www.youtube.com/?v=0So1-rCpnrA
+  name: Что происходит?
+  comments: видеозарисовка к клетчатому альбому
+  sort_order: 99
+- id: 1096
+  type: youtube
+  url: http://www.youtube.com/?v=TUG2v2FjTLE
+  name: С тобою, без тебя
+  comments: Клуб "16 тонн", 2005 г.
+  sort_order: 199
+- id: 1097
+  type: youtube
+  url: http://www.youtube.com/?v=cYFqmaHfIoE
+  name: Тишина
+  comments: Фруктовый Кефир "Тишина"
+  sort_order: 299
+- id: 1098
+  type: photo
+  url: fryktoviykefir.jpg
+  name: фруктовый кефир
+  sort_order: 0
+  width: 600
+  height: 368
+- id: 1102
+  type: weblink
+  url: http://conferences.moskva.com/afisha/28367869.html
+  name: Москва.ком
+  sort_order: 299

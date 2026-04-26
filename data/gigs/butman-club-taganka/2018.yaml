@@ -1,0 +1,2809 @@
+- id: 69852
+  date: '2018-01-06'
+  time: '20:30'
+  band_name: Виктория Каунова и Секстет Ильи Морозова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69858
+  date: '2018-01-12'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69849
+  date: '2018-01-03'
+  time: '20:30'
+  band_name: Alexander Dovgopoly Project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69856
+  date: '2018-01-10'
+  time: '20:30'
+  band_name: Квартет Алексея Иванникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69859
+  date: '2018-01-13'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69860
+  date: '2018-01-14'
+  time: '20:30'
+  band_name: ADAM Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69861
+  date: '2018-01-15'
+  time: '20:30'
+  band_name: Анна Клесун и Esh
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 162
+    name: Esh
+    token: esh
+- id: 69863
+  date: '2018-01-17'
+  time: '20:30'
+  band_name: Рита Солнцева & P.S.Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69864
+  date: '2018-01-18'
+  time: '20:30'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69865
+  date: '2018-01-19'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана с программой "Джазовые портреты Стиви Уандера"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69866
+  date: '2018-01-20'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69867
+  date: '2018-01-21'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69870
+  date: '2018-01-24'
+  time: '20:30'
+  band_name: Квинтет Олега Бородина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69871
+  date: '2018-01-26'
+  time: '20:30'
+  band_name: Emanuele Cisi Quartet (Италия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69872
+  date: '2018-01-27'
+  time: '20:30'
+  band_name: Трио Ивана Смирнова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69874
+  date: '2018-01-29'
+  time: '20:30'
+  band_name: Олег Агеев и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69876
+  date: '2018-01-31'
+  time: '20:30'
+  band_name: Dixie Purple
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69850
+  date: '2018-01-04'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69851
+  date: '2018-01-05'
+  time: '20:30'
+  band_name: Cinema Music Concert Юлии Перминовой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69853
+  date: '2018-01-07'
+  time: '20:30'
+  band_name: Рождественский концерт Даниила Крамера
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69854
+  date: '2018-01-08'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69855
+  date: '2018-01-09'
+  time: '20:30'
+  band_name: Квинтет Айка Григоряна
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69857
+  date: '2018-01-11'
+  time: '20:30'
+  band_name: Tono Alcalde (гитара, Испания) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69862
+  date: '2018-01-16'
+  time: '20:30'
+  band_name: Иван Акатов и Jazz Vibes Quintet
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69868
+  date: '2018-01-22'
+  time: '20:30'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 69869
+  date: '2018-01-23'
+  time: '20:30'
+  band_name: Ксения Коламбацкая Бэнд
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69873
+  date: '2018-01-28'
+  time: '20:30'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 69875
+  date: '2018-01-30'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 70478
+  date: '2018-02-28'
+  time: '20:30'
+  band_name: Alexander Dovgopoly
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70458
+  date: '2018-02-07'
+  time: '20:30'
+  band_name: Оркестр Павла Овчинникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70466
+  date: '2018-02-16'
+  time: '20:30'
+  band_name: The Willowse (Канада)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70467
+  date: '2018-02-17'
+  time: '20:30'
+  band_name: Eve Cornelius (вокал, США) и Трио Аркадия Овруцкого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71082
+  date: '2018-03-17'
+  time: '20:30'
+  band_name: 'XVIII международный фестиваль "Триумф Джаза": Leonid & Friends'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70469
+  date: '2018-02-18'
+  time: '20:30'
+  band_name: Eve Cornelius (вокал, США) и Трио Аркадия Овруцкого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70473
+  date: '2018-02-22'
+  time: '20:30'
+  band_name: Алексей Попов (Санкт-Петербург) и Трио Сергея Васильева
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70450
+  date: '2018-02-01'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70451
+  date: '2018-02-02'
+  time: '20:30'
+  band_name: Валентин Лакодин & Sigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70452
+  date: '2018-02-03'
+  time: '20:30'
+  band_id: 521
+  band_name: A'cappella Rain Drops
+  band_token: rain-drops
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70453
+  date: '2018-02-04'
+  time: '20:30'
+  band_name: Felix Lahuti и проект "ЛИГИ"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 70454
+  date: '2018-02-05'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70455
+  date: '2018-02-12'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70456
+  date: '2018-02-26'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70457
+  date: '2018-02-06'
+  time: '20:30'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70459
+  date: '2018-02-08'
+  time: '20:30'
+  band_name: Josh Evans (труба, США) & Sasha Mashin Trio
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70460
+  date: '2018-02-09'
+  time: '20:30'
+  band_name: Анастасия Лютова & Лютый бэнд
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70461
+  date: '2018-02-10'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана и Сергей Пронь (труба, Екатеринбург)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70462
+  date: '2018-02-11'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70463
+  date: '2018-02-13'
+  time: '20:30'
+  band_name: Трио Ивана Смирнова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70464
+  date: '2018-02-14'
+  time: '20:30'
+  band_name: Виктория Каунова и Секстет Ильи Морозова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70465
+  date: '2018-02-15'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70468
+  date: '2018-02-18'
+  time: '15:00'
+  band_name: MFJ Collective
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70470
+  date: '2018-02-19'
+  time: '20:30'
+  band_name: Фредерик Белинский и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70471
+  date: '2018-02-20'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70472
+  date: '2018-02-21'
+  time: '20:30'
+  band_name: Трио Юлии Перминовой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70474
+  date: '2018-02-23'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70475
+  date: '2018-02-24'
+  time: '20:30'
+  band_name: Maya Azucena (вокал, США) и Квартет Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70476
+  date: '2018-02-25'
+  time: '20:30'
+  band_name: Ангелина Сергеева и Cocktail project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 70477
+  date: '2018-02-27'
+  time: '20:30'
+  band_name: Квартет Анатолия Осипова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71283
+  date: '2018-03-22'
+  time: '20:30'
+  band_name: Валентин Лакодин (вокал, контрабас) и Cigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 71279
+  date: '2018-03-27'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71282
+  date: '2018-03-23'
+  time: '20:30'
+  band_name: Алла Рид & the band "От джаза до рока с еврейским акцентом"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71081
+  date: '2018-03-16'
+  time: '20:30'
+  band_name: 'XVIII международный фестиваль "Триумф Джаза": Amina Figarova (США)'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71083
+  date: '2018-03-18'
+  time: '20:30'
+  band_name: 'XVIII международный фестиваль "Триумф Джаза": Ken Ota Quartet (Япония)'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71269
+  date: '2018-03-01'
+  time: '20:30'
+  band_name: Артем Айвазян Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71270
+  date: '2018-03-02'
+  time: '20:30'
+  band_name: Нани Ева (вокал) и ее группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71271
+  date: '2018-03-03'
+  time: '20:30'
+  band_name: Cinema Music Concert
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71272
+  date: '2018-03-04'
+  time: '20:30'
+  band_name: Steve Washington и трио Сергея Васильева
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71273
+  date: '2018-03-05'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71274
+  date: '2018-03-19'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71275
+  date: '2018-03-26'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71276
+  date: '2018-03-31'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71277
+  date: '2018-03-30'
+  time: '20:30'
+  band_name: Антон Румянцев с программой "Led Zeppelin in Jazz"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71278
+  date: '2018-03-29'
+  time: '20:30'
+  band_name: Bril Brothers feat. Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 71280
+  date: '2018-03-25'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71281
+  date: '2018-03-24'
+  time: '20:30'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71285
+  date: '2018-03-21'
+  time: '20:30'
+  band_name: Оркестр Павла Овчинникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71287
+  date: '2018-03-15'
+  time: '20:30'
+  band_name: Гия Дзагнидзе (вокал, гитара) и Modern Blues Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 71288
+  date: '2018-03-14'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71290
+  date: '2018-03-12'
+  time: '20:30'
+  band_name: Just Jazz Вячеслава Великого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71291
+  date: '2018-03-11'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 71292
+  date: '2018-03-10'
+  time: '20:30'
+  band_name: LRK Trio
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71293
+  date: '2018-03-09'
+  time: '20:30'
+  band_name: Elliott (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 71296
+  date: '2018-03-07'
+  time: '20:30'
+  band_name: Tono Alcalde (гитара, вокал - Испания) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71286
+  date: '2018-03-20'
+  time: '20:30'
+  band_name: Kaifullin Company
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71289
+  date: '2018-03-13'
+  time: '20:30'
+  band_name: Compression Jazz Collective
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71294
+  date: '2018-03-08'
+  time: '21:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71295
+  date: '2018-03-08'
+  time: '18:00'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71297
+  date: '2018-03-06'
+  time: '20:30'
+  band_name: Квинтет Айка Григоряна
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72006
+  date: '2018-04-19'
+  time: '20:30'
+  band_name: Kalil Wilson (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72007
+  date: '2018-04-20'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72008
+  date: '2018-04-21'
+  time: '20:30'
+  band_name: Ty Stephens (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 72009
+  date: '2018-04-22'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72010
+  date: '2018-04-23'
+  time: '20:30'
+  band_name: Frederic Belinsky (гитара, Франция) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72011
+  date: '2018-04-24'
+  time: '20:30'
+  band_name: Gilad Hekselman Trio
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72012
+  date: '2018-04-25'
+  time: '20:30'
+  band_name: Moscow Gospel Team
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72013
+  date: '2018-04-26'
+  time: '20:30'
+  band_name: Benito Gonzalez (рояль, США) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72014
+  date: '2018-04-27'
+  time: '20:30'
+  band_name: Benito Gonzalez (рояль, США) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72016
+  date: '2018-04-29'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72017
+  date: '2018-04-30'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71989
+  date: '2018-04-01'
+  time: '20:30'
+  band_name: Jazz Guitar Evolution
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71992
+  date: '2018-04-05'
+  time: '20:30'
+  band_name: Rene Marie (вокал, США) и ее группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71993
+  date: '2018-04-06'
+  time: '20:30'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71994
+  date: '2018-04-07'
+  time: '20:30'
+  band_name: Cinema Jazz Awards
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71995
+  date: '2018-04-08'
+  time: '20:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72000
+  date: '2018-04-13'
+  time: '20:30'
+  band_name: Alexander Dovgopoly Project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72001
+  date: '2018-04-14'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72002
+  date: '2018-04-15'
+  time: '20:30'
+  band_name: Владимир Панфилов и Трио Сергея Васильева. Спец.гость - Ирина Родилес
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 72003
+  date: '2018-04-16'
+  time: '20:30'
+  band_name: Ярославский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72004
+  date: '2018-04-17'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 72005
+  date: '2018-04-18'
+  time: '20:30'
+  band_name: Ансамбль "Юность"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71990
+  date: '2018-04-03'
+  time: '20:30'
+  band_name: Оркестр Павла Овчинникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71991
+  date: '2018-04-04'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71996
+  date: '2018-04-09'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71997
+  date: '2018-04-10'
+  time: '20:30'
+  band_name: Квартет Станислава Должкова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71998
+  date: '2018-04-11'
+  time: '20:30'
+  band_name: Orchestra 2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 71999
+  date: '2018-04-12'
+  time: '20:30'
+  band_name: Леван Ломидзе (гитара, вокал) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 72015
+  date: '2018-04-28'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72271
+  date: '2018-05-04'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72289
+  date: '2018-05-20'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 72290
+  date: '2018-05-22'
+  time: '20:30'
+  band_name: Оркестр Павла Овчинникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72292
+  date: '2018-05-25'
+  time: '20:30'
+  band_name: Армен Уснунц (саксофон, Армения) & LRK Trio
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73209
+  date: '2018-07-01'
+  time: '20:30'
+  band_name: Bril Family
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73210
+  date: '2018-07-02'
+  time: '20:30'
+  band_name: Pavel Ovchinnikov Big Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73211
+  date: '2018-07-03'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73212
+  date: '2018-07-04'
+  time: '20:30'
+  band_name: Sandor's Trio & Friends (Куба)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73213
+  date: '2018-07-06'
+  time: '20:30'
+  band_name: Elliott (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 73214
+  date: '2018-07-07'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72753
+  date: '2018-06-02'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72776
+  date: '2018-06-19'
+  time: '20:30'
+  band_name: Orchestra 2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72777
+  date: '2018-06-21'
+  time: '20:30'
+  band_name: Артем Айвазян Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72778
+  date: '2018-06-20'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 72779
+  date: '2018-06-22'
+  time: '20:30'
+  band_name: Анастасия Лютова и Лютый бэнд
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72780
+  date: '2018-06-23'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72781
+  date: '2018-06-24'
+  time: '20:30'
+  band_name: Nick Lazarev & Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 72270
+  date: '2018-05-03'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72272
+  date: '2018-05-31'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72273
+  date: '2018-05-05'
+  time: '20:30'
+  band_name: Виктория Каунова и Секстет Ильи Морозова с программой "Песни военных
+    лет"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72274
+  date: '2018-05-06'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72276
+  date: '2018-05-08'
+  time: '20:30'
+  band_name: Tono Alcalde (гитара, вокал - Испания) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72277
+  date: '2018-05-09'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72280
+  date: '2018-05-12'
+  time: '20:30'
+  band_name: Joander Santos (Бразилия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72281
+  date: '2018-05-13'
+  time: '20:30'
+  band_name: Tribute to Trumpet Masters / Dizzy Gillespie
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72282
+  date: '2018-05-14'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72283
+  date: '2018-05-21'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72285
+  date: '2018-05-16'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72286
+  date: '2018-05-17'
+  time: '20:30'
+  band_name: Квартет Антона Чекурова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72287
+  date: '2018-05-18'
+  time: '20:30'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72288
+  date: '2018-05-19'
+  time: '20:30'
+  band_name: Zenia McPherson (вокал, США) и трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 72293
+  date: '2018-05-26'
+  time: '20:30'
+  band_name: Tribute to Trumpet Masters / Clifford Brown
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72294
+  date: '2018-05-28'
+  time: '20:30'
+  band_name: Арли Леонард (вокал, США) и Оркестр Андрея Балина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72295
+  date: '2018-05-29'
+  time: '20:30'
+  band_name: Олег Агеев (саксофон) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72296
+  date: '2018-05-30'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72269
+  date: '2018-05-02'
+  time: '20:30'
+  band_name: Валентин Лакодин (вокал, контрабас) и Cigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 72275
+  date: '2018-05-07'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72278
+  date: '2018-05-10'
+  time: '20:30'
+  band_name: Bril Brothers feat. Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 72279
+  date: '2018-05-11'
+  time: '20:30'
+  band_name: Юбилейный концерт Дмитрия Мосьпана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72284
+  date: '2018-05-15'
+  time: '20:30'
+  band_name: Квинтет Олега Бородина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72291
+  date: '2018-05-24'
+  time: '20:30'
+  band_name: Ольга Абдулина (вокал, Санкт-Петербург)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72752
+  date: '2018-06-01'
+  time: '20:30'
+  band_name: Lera Gehner - Alexey Popo Project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72754
+  date: '2018-06-03'
+  time: '20:30'
+  band_name: Антон Баронин
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72755
+  date: '2018-06-04'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72756
+  date: '2018-06-11'
+  time: '20:30'
+  band_id: 141
+  band_name: Игорь Бутман
+  band_token: igor-butman
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72757
+  date: '2018-06-25'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 72758
+  date: '2018-06-30'
+  time: '20:30'
+  band_name: 'Tribute to trumpet masters / Freddie Hubbard: Квинтет Айка Григоряна'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72759
+  date: '2018-06-26'
+  time: '20:30'
+  band_name: Tony Momrelle band (Великобритания)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72760
+  date: '2018-06-27'
+  time: '20:30'
+  band_id: 550
+  band_name: Квартет Николая Куликова
+  band_token: kvartet-nikolaya-kulikova
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72761
+  date: '2018-06-28'
+  time: '20:30'
+  band_name: Vintskevich - Taylor
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72762
+  date: '2018-06-29'
+  time: '20:30'
+  band_name: Dixie Purple
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72763
+  date: '2018-06-05'
+  time: '20:30'
+  band_name: Анна Клесун и Esh band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72764
+  date: '2018-06-06'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72765
+  date: '2018-06-07'
+  time: '20:30'
+  band_name: 'Butman Music Fest: Трио Олега Аккуратова, Квинтет Игоря Бутмана'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72766
+  date: '2018-06-08'
+  time: '20:30'
+  band_name: 'Butman Music Fest: Вадим Эйленкриг & Eilenkrig Crew'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig
+- id: 72767
+  date: '2018-06-09'
+  time: '20:30'
+  band_name: 'Butman Music Fest: Alexander Dovgopoly project'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72768
+  date: '2018-06-10'
+  time: '20:30'
+  band_name: 'Tribute to trumpet masters / Miles Davis: Квинтет Айка Григоряна'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72769
+  date: '2018-06-12'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72770
+  date: '2018-06-13'
+  time: '20:30'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72771
+  date: '2018-06-14'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72772
+  date: '2018-06-15'
+  time: '20:30'
+  band_name: Тромбон шоу Максима Пиганова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72773
+  date: '2018-06-16'
+  time: '20:30'
+  band_name: Фредерик Белинский и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 72774
+  date: '2018-06-17'
+  time: '20:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 72775
+  date: '2018-06-18'
+  time: '20:30'
+  band_name: Brill Brothers & Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 73216
+  date: '2018-07-10'
+  time: '20:30'
+  band_name: Connection Азата Баязитова & Анастасия Проклова (вокал)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73217
+  date: '2018-07-11'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73219
+  date: '2018-07-13'
+  time: '20:30'
+  band_name: 'Tribute to Trumpet Masters: Woody Show'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73223
+  date: '2018-07-30'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 73226
+  date: '2018-07-19'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73215
+  date: '2018-07-08'
+  time: '20:30'
+  band_name: Jonah Nilsson (Швеция)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73218
+  date: '2018-07-12'
+  time: '20:30'
+  band_name: Трио Игоря Яковенко
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73220
+  date: '2018-07-14'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана с программой "Джазовые портреты Стиви Уандера"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73221
+  date: '2018-07-15'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 73224
+  date: '2018-07-17'
+  time: '20:30'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73222
+  date: '2018-07-16'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 73225
+  date: '2018-07-18'
+  time: '20:30'
+  band_name: Квартет Асии Шакировой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73227
+  date: '2018-07-20'
+  time: '20:30'
+  band_name: Валентин Лакодин (вокал, контрабас) и Cigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 73228
+  date: '2018-07-21'
+  time: '20:30'
+  band_name: Проект "Этносаунд" Талгата Мухамедова-Хасенова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73229
+  date: '2018-07-22'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73230
+  date: '2018-07-24'
+  time: '20:30'
+  band_name: Ксения Коламбацкая (вокал) и ее группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73231
+  date: '2018-07-25'
+  time: '20:30'
+  band_name: Иван Фармаковский и Epic Power Quartet
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 73232
+  date: '2018-07-26'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73233
+  date: '2018-07-27'
+  time: '20:30'
+  band_name: Chad Lefkowitz-Brown & Real Illusions Jazz Quartet
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73234
+  date: '2018-07-28'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73235
+  date: '2018-07-29'
+  time: '20:30'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73236
+  date: '2018-07-31'
+  time: '20:30'
+  band_name: Lenny Senderskiy & Natalia Skvortsova Quartet (Израиль-Россия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73680
+  date: '2018-08-02'
+  time: '20:30'
+  band_name: Dmitry Chemirev Quintet
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73681
+  date: '2018-08-03'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73682
+  date: '2018-08-04'
+  time: '20:30'
+  band_name: Jazz Guitar Evolution
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73683
+  date: '2018-08-07'
+  time: '20:30'
+  band_name: Квартет Станислава Должкова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73684
+  date: '2018-08-08'
+  time: '20:30'
+  band_name: Трио Ивана Смирнова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73685
+  date: '2018-08-09'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 73687
+  date: '2018-08-11'
+  time: '20:30'
+  band_name: Трио Алексея Иванникова/Tribute to Bill Evans
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73688
+  date: '2018-08-12'
+  time: '20:30'
+  band_name: Gregg Kofi Brown band (Великобритания)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73694
+  date: '2018-08-20'
+  time: '20:30'
+  band_name: Vanessa Rubin (США) и Трио Евгения Рябого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73679
+  date: '2018-08-01'
+  time: '20:30'
+  band_name: Квартет Айка Григоряна
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73686
+  date: '2018-08-10'
+  time: '20:30'
+  band_name: Dixie Purple
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73692
+  date: '2018-08-17'
+  time: '20:30'
+  band_name: Rick Margitza Quintet (США-Канада-Франция-Германия-Россия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73693
+  date: '2018-08-18'
+  time: '20:30'
+  band_name: Itai Kriss (флейта, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 73695
+  date: '2018-08-21'
+  time: '20:30'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73696
+  date: '2018-08-22'
+  time: '20:30'
+  band_name: Квинтет Юрия Севастьянова при уч. Джоша Эванса (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73697
+  date: '2018-08-23'
+  time: '20:30'
+  band_name: Иван Фармаковский и Epic Power Quartet
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 73698
+  date: '2018-08-24'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73701
+  date: '2018-08-28'
+  time: '20:30'
+  band_name: Sandor's Trio & Friends (Куба)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73689
+  date: '2018-08-14'
+  time: '20:30'
+  band_name: Fabio Gouvea Quintet (Бразилия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73690
+  date: '2018-08-15'
+  time: '20:30'
+  band_name: Трио Игоря Яковенко
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73691
+  date: '2018-08-16'
+  time: '20:30'
+  band_name: Bril Brothers feat. Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 73699
+  date: '2018-08-25'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73700
+  date: '2018-08-27'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр при уч. Леонида Винцкевича
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 73702
+  date: '2018-08-29'
+  time: '20:30'
+  band_name: Трио Дмитрия Илугдина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 73703
+  date: '2018-08-30'
+  time: '20:30'
+  band_name: Валентин Лакодин (вокал, контрабас) и Cigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 73704
+  date: '2018-08-31'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74329
+  date: '2018-09-02'
+  time: '20:30'
+  band_name: Denise King (вокал, Франция) & Vitaly Golovnev band (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74330
+  date: '2018-09-03'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74331
+  date: '2018-09-10'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74332
+  date: '2018-09-17'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74333
+  date: '2018-09-04'
+  time: '20:30'
+  band_name: Moscow Organ Quartet feat. Michael Seyfried барабаны (Австрия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74335
+  date: '2018-09-06'
+  time: '20:30'
+  band_name: Elliott (США) и Трио Олега Бутмана с программой "Джазовые портреты Майкла
+    Джексона"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 74336
+  date: '2018-09-07'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74337
+  date: '2018-09-08'
+  time: '20:30'
+  band_name: Bril Brothers feat. Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 74338
+  date: '2018-09-09'
+  time: '20:30'
+  band_name: Алена Войская (вокал) и квартет Григория Зайцева
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74339
+  date: '2018-09-11'
+  time: '20:30'
+  band_name: Ark Ovrutski Band (США-Россия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74340
+  date: '2018-09-12'
+  time: '20:30'
+  band_name: Квартет Евгения Пономарева (Санкт-Петербург)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74341
+  date: '2018-09-13'
+  time: '20:30'
+  band_name: Николай Левиновский и Квартет Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 463
+    name: Квартет Игоря Бутмана
+    token: igor-butman-kvartet
+- id: 74342
+  date: '2018-09-14'
+  time: '20:30'
+  band_name: Alla Reed Orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74343
+  date: '2018-09-15'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74344
+  date: '2018-09-16'
+  time: '20:30'
+  band_name: '"Connection" Азата Баязитова'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74345
+  date: '2018-09-18'
+  time: '20:30'
+  band_name: Alexander Dovgopoly Project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74346
+  date: '2018-09-19'
+  time: '20:30'
+  band_name: Трио Алексея Иванникова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74347
+  date: '2018-09-20'
+  time: '20:30'
+  band_name: Квартет Айка Григоряна
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74348
+  date: '2018-09-21'
+  time: '20:30'
+  band_name: '"Mambo party" Петра Востокова & Willie Key'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74349
+  date: '2018-09-22'
+  time: '20:30'
+  band_name: Олег Бутман Трио и Leon "Foster" Thomas (стил-пэн, США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74350
+  date: '2018-09-23'
+  time: '20:30'
+  band_name: Квартет Александры Шакиной (Санкт-Петербург) & Massimo Farao (Италия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74352
+  date: '2018-09-25'
+  time: '20:30'
+  band_name: Jazz Guitar Evolution
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74354
+  date: '2018-09-27'
+  time: '20:30'
+  band_name: SeemForJazz Project
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74355
+  date: '2018-09-28'
+  time: '20:30'
+  band_name: Квинтет Анастасии Лютовой - концерт к 120-летию Джорджа Гершвина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74356
+  date: '2018-09-30'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74357
+  date: '2018-09-29'
+  time: '20:30'
+  band_name: Anthony Strong (вокал, Англия) & Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74328
+  date: '2018-09-01'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74334
+  date: '2018-09-05'
+  time: '20:30'
+  band_name: Трио Владимира Нестеренко. Спец. гость Виталий Головнев (труба, США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74351
+  date: '2018-09-24'
+  time: '20:30'
+  band_name: Антон Баронин и Эмиль Гарт
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74353
+  date: '2018-09-26'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74663
+  date: '2018-10-01'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74664
+  date: '2018-10-15'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74665
+  date: '2018-10-22'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 74667
+  date: '2018-10-03'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74668
+  date: '2018-10-04'
+  time: '20:30'
+  band_name: Квинтет Сергея Долженкова. Специальный гость John Marshall (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74669
+  date: '2018-10-05'
+  time: '20:30'
+  band_name: John Marshall Quartet (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74670
+  date: '2018-10-06'
+  time: '20:30'
+  band_name: Кварткт Олега Бутмана с программой "Джазовые портреты Стиви Уандера"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74671
+  date: '2018-10-07'
+  time: '20:30'
+  band_name: Валентин Лакодин & Sigar Hall Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74672
+  date: '2018-10-09'
+  time: '20:30'
+  band_name: Трио Дмитрия Илугдина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74673
+  date: '2018-10-10'
+  time: '20:30'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74674
+  date: '2018-10-11'
+  time: '20:30'
+  band_name: '"Real Illusions" Алексея Подымкина и Hiske Oosterwijk (Нидерланды)'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74675
+  date: '2018-10-12'
+  time: '20:30'
+  band_name: Gregg Kofi Brown band (Великобритания)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74676
+  date: '2018-10-13'
+  time: '20:30'
+  band_name: Mark Gross Quartet (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74677
+  date: '2018-10-14'
+  time: '20:30'
+  band_name: Mark Gross Quartet (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74678
+  date: '2018-10-16'
+  time: '20:30'
+  band_name: Леонид Винцкевич и Квинтет Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74679
+  date: '2018-10-17'
+  time: '20:30'
+  band_name: Kaifullin Company
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74680
+  date: '2018-10-18'
+  time: '20:30'
+  band_name: Zenia McPherson (США) и трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 74681
+  date: '2018-10-19'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74682
+  date: '2018-10-20'
+  time: '20:30'
+  band_name: Андрей Макаревич и Трио Евгения Борца
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 74683
+  date: '2018-10-21'
+  time: '20:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 74684
+  date: '2018-10-23'
+  time: '20:30'
+  band_name: Nitai Hershkovits (рояль, США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74685
+  date: '2018-10-24'
+  time: '20:30'
+  band_name: Виктория Каунова и Секстет Ильи Морозова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74686
+  date: '2018-10-25'
+  time: '20:30'
+  band_name: Артем Айвазян бэнд
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74687
+  date: '2018-10-28'
+  time: '20:30'
+  band_name: Квартет Сергея Васильев и Алексей Попов (Санкт-Петербург)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74666
+  date: '2018-10-02'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74688
+  date: '2018-10-29'
+  time: '20:30'
+  band_name: Freddie Hendrix (труба, США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74689
+  date: '2018-10-30'
+  time: '20:30'
+  band_name: Квартет Айка Григоряна
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 74690
+  date: '2018-10-31'
+  time: '20:30'
+  band_name: Pavel Ovchinnikov Jazz Orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75294
+  date: '2018-11-18'
+  time: '20:30'
+  band_name: Екатерина Унгвари и Матвей Байдиков
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75295
+  date: '2018-11-20'
+  time: '20:30'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75298
+  date: '2018-11-23'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75277
+  date: '2018-11-01'
+  time: '20:30'
+  band_name: Tono Alcalde (гитара, вокал - Испания) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75278
+  date: '2018-11-02'
+  time: '20:30'
+  band_name: Мишель Вебер и Квартет Бернарда Швентера (Швейцария)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75279
+  date: '2018-11-03'
+  time: '20:30'
+  band_name: Leonid & Friends
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75280
+  date: '2018-11-04'
+  time: '20:30'
+  band_name: Robbie Pate (США) & Real Illusions с программой "От Гершвина до Вандера"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75281
+  date: '2018-11-06'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75282
+  date: '2018-11-05'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75283
+  date: '2018-11-19'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75284
+  date: '2018-11-07'
+  time: '20:30'
+  band_name: Квартет Дениса Мельникова / Tribute to Kenny Garrett
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75285
+  date: '2018-11-08'
+  time: '20:30'
+  band_name: Кристина Ковалева (вокал, Санкт-Петербург) и Трио Григория Зайцева
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75286
+  date: '2018-11-09'
+  time: '20:30'
+  band_name: 'VI международный фестиваль "Будущее джаза": Kyle Benford (барабаны,
+    США), Josh Evans (труба, США), Анастасия Лютова (вокал, Россия), Юлия Сидоренко
+    (фортепиано, Россия), Артем Баскаков (контрабас, Россия), Макар Кашицын (саксофон,
+    Россия-США)'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75287
+  date: '2018-11-11'
+  time: '20:30'
+  band_name: 'VI международный фестиваль "Будущее джаза": Kyle Benford (барабаны,
+    США), Josh Evans (труба, США), Анастасия Лютова (вокал, Россия), Юлия Сидоренко
+    (фортепиано, Россия), Артем Баскаков (контрабас, Россия), Макар Кашицын (саксофон,
+    Россия-США)'
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75288
+  date: '2018-11-10'
+  time: '20:30'
+  band_name: Elliott (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 75292
+  date: '2018-11-16'
+  time: '20:30'
+  band_name: Нани Ева (вокал) и ее группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75293
+  date: '2018-11-17'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75299
+  date: '2018-11-24'
+  time: '20:30'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75300
+  date: '2018-11-25'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 75302
+  date: '2018-11-27'
+  time: '20:30'
+  band_name: Квартет Анны Королевой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75303
+  date: '2018-11-28'
+  time: '20:30'
+  band_name: Sandor's Trio & Friends (Куба)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75304
+  date: '2018-11-29'
+  time: '20:30'
+  band_name: Юлиана Рогачева (вокал) и квартет Алексея Чернакова с новой программой
+    "Night bird"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75305
+  date: '2018-11-30'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75289
+  date: '2018-11-13'
+  time: '20:30'
+  band_name: Elliott (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 75290
+  date: '2018-11-14'
+  time: '20:30'
+  band_name: Lucia Jackson (вокал, США) & Maynugin Quartet (Россия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75291
+  date: '2018-11-15'
+  time: '20:30'
+  band_name: Квартет Дарьи Эйбушитц
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75296
+  date: '2018-11-21'
+  time: '20:30'
+  band_name: The Aftermath. Презентация альбома "The Fugitive Kind" при уч. Игоря
+    Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  comments: 'В концерте также примут участие: Наталья Скворцова (фортепиано), Антон
+    Горбунов (контрабас), Вартан Бабаян (ударные)'
+  extra_bands:
+  - id: 90
+    name: The Aftermath
+    token: aftermath
+- id: 75297
+  date: '2018-11-22'
+  time: '20:30'
+  band_name: Fabio Giachino (рояль, Италия)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75301
+  date: '2018-11-26'
+  time: '20:30'
+  band_name: Pavel Ovchinnikov Jazz Orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75623
+  date: '2018-12-04'
+  time: '20:30'
+  band_name: Трио Игоря Яковенко с презентацией нового альбома "TROiKA"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75630
+  date: '2018-12-13'
+  time: '20:30'
+  band_name: Kalil Wilson (CША) и его квартет
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75631
+  date: '2018-12-14'
+  time: '20:30'
+  band_name: Phil Balzano
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75632
+  date: '2018-12-16'
+  time: '20:30'
+  band_name: Анастасия Лютова & Лютый бэнд с рождественской программой
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75635
+  date: '2018-12-20'
+  time: '20:30'
+  band_name: Bril Brothers feat. Даниил Крамер
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 75641
+  date: '2018-12-27'
+  time: '20:30'
+  band_name: Виктория Каунова и секстет Ильи Морозова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75621
+  date: '2018-12-29'
+  time: '20:30'
+  band_name: Квартет Олега Бутмана с программой "Джазовые портреты Стиви Уандера"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75619
+  date: '2018-12-31'
+  time: '20:30'
+  band_name: Новый год с Вадимом Эйленкригом
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75620
+  date: '2018-12-30'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75622
+  date: '2018-12-28'
+  time: '20:30'
+  band_name: Трио Олега Аккуратова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75624
+  date: '2018-12-05'
+  time: '20:30'
+  band_name: Just Jazz Вячеслава Великого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75625
+  date: '2018-12-06'
+  time: '20:30'
+  band_name: Epic Power Ивана Фармаковского при уч. Виталия Головнева (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75627
+  date: '2018-12-08'
+  time: '20:30'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 75640
+  date: '2018-12-26'
+  time: '20:30'
+  band_name: Антон Баронин & Orchestra 2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75614
+  date: '2018-12-01'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75615
+  date: '2018-12-02'
+  time: '20:30'
+  band_name: Yogev Shetrit trio (Израиль)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75616
+  date: '2018-12-03'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75617
+  date: '2018-12-10'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75618
+  date: '2018-12-24'
+  time: '20:30'
+  band_name: Игорь Бутман и Московский джазовый оркестр
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75626
+  date: '2018-12-07'
+  time: '20:30'
+  band_name: Роберт Анчиполовский и Игорь Бутман
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 75628
+  date: '2018-12-09'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 75629
+  date: '2018-12-11'
+  time: '20:30'
+  band_name: Таня Балакирская и трио Дмитрия Илугдина
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75633
+  date: '2018-12-18'
+  time: '20:30'
+  band_name: Ray Brown Jr (США)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75634
+  date: '2018-12-19'
+  time: '20:30'
+  band_name: Tono Alcalde (гитара, вокал - Испания) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75636
+  date: '2018-12-21'
+  time: '20:30'
+  band_name: Benito Gonzalez (рояль, США) и его группа
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75637
+  date: '2018-12-22'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75638
+  date: '2018-12-23'
+  time: '20:30'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 75639
+  date: '2018-12-25'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka

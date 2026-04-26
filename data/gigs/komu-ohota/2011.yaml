@@ -1,0 +1,83 @@
+- id: 14876
+  date: '2011-02-05'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный
+- id: 15604
+  date: '2011-03-12'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+- id: 15990
+  date: '2011-03-19'
+  time: '20:30'
+  band_name: Черный Хлеб и Алексей Аграновский, Юрий Каверкин
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 20473
+  date: '2011-07-01'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный
+- id: 20886
+  date: '2011-07-06'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный
+- id: 20946
+  date: '2011-08-05'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+- id: 23210
+  date: '2011-11-11'
+  time: '20:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный
+- id: 22027
+  date: '2011-10-29'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 369
+  club_name: Кому Охота
+  club_token: komu-ohota
+  price: бесплатный

@@ -1,0 +1,19 @@
+id: 345
+token: didula
+name: Дидюля
+alive: true
+url: http://www.didula.ru
+city_id: 1
+genre_id: 6
+clips:
+- id: 1382
+  type: photo
+  url: didula.jpg
+  sort_order: 0
+  width: 288
+  height: 400
+- id: 1381
+  type: weblink
+  url: http://www.didula.ru
+  name: Официальный сайт
+  sort_order: 0

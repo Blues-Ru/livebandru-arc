@@ -1,0 +1,15 @@
+id: 280
+token: alexey-shustov
+name: Квартет Алексея Шустова
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Алексей Шустов
+  instruments: альт саксофон
+- name: Александр Мурашкин
+  instruments: гитара
+- name: Денис Силенко
+  instruments: контрабас
+- name: Петр Афанасьев
+  instruments: ударные

@@ -1,0 +1,28 @@
+id: 295
+token: crossbluesroads
+name: Перекресток Дорог Блюза
+alive: true
+city_id: 74
+genre_id: 16
+secondary_genre_id: 3
+musicians:
+- name: Александр Шарихин
+  instruments: гитара, вокал, губная гармоника
+- name: Роман Ягодкин
+  instruments: гитара
+- name: Андрей Тишин
+  instruments: клавишные
+- name: Сергей Хрипков
+  instruments: ударные
+- name: Михаил Шахбасов
+  instruments: бас
+clips:
+- id: 987
+  type: rss
+  url: http://crossbluesroads.livejournal.com/data/rss
+  sort_order: 99
+- id: 988
+  type: weblink
+  url: http://vk.com/club4619926
+  name: Страница ВКонтакте
+  sort_order: 99

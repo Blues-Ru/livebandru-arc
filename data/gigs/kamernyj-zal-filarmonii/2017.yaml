@@ -1,0 +1,24 @@
+- id: 65839
+  date: '2017-11-23'
+  time: '19:00'
+  band_name: Золотая эра джаза. Д. Эллингтон, К. Бейси, К. Хоккинс. Олег Киреев (саксофон)
+    и Ансамбль камерного джаза Олега Киреева
+  club_id: 786
+  club_name: Камерный зал Филармонии
+  club_token: kamernyj-zal-filarmonii
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 65840
+  date: '2017-12-13'
+  time: '19:00'
+  band_name: Олег Киреев (саксофон) и Ансамбль камерного джаза Олега Киреева с программой
+    "От би-бопа до хард-бопа"
+  club_id: 786
+  club_name: Камерный зал Филармонии
+  club_token: kamernyj-zal-filarmonii
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev

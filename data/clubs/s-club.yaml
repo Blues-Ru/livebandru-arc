@@ -1,0 +1,15 @@
+id: 105
+token: s-club
+name: S-Club
+aliases: Scorpion Club
+alive: true
+address: Пионерская, 32
+phone: (812) 323-7282
+city_id: 2
+comments: Новый адрес пока не известен
+clips:
+- id: 2892
+  type: weblink
+  url: http://www.scorpionclubspb.ru/
+  name: Официальный сайт
+  sort_order: 0

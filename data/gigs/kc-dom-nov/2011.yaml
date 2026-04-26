@@ -1,0 +1,14 @@
+- id: 15980
+  date: '2011-02-23'
+  time: '18:00'
+  band_name: Robert Lighthouse, Voodoo Blues Band
+  club_id: 388
+  club_name: КЦ "Дом" (Новгород)
+  club_token: kc-dom-nov
+  extra_bands:
+  - id: 251
+    name: Robert Lighthouse
+    token: robert-lighthouse
+  - id: 389
+    name: Voodoo Blues Band
+    token: voodoo-blues

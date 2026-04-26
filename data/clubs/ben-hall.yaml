@@ -1,0 +1,15 @@
+id: 124
+token: ben-hall
+name: Ben Hall
+aliases: Бен Холл
+alive: true
+address: ул. Народной Воли, 65
+subway: Геологическая
+phone: 213-65-84
+city_id: 6
+clips:
+- id: 14
+  type: weblink
+  url: http://www.benhall.ru
+  name: Официальный сайт
+  sort_order: 0

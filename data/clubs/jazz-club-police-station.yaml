@@ -1,0 +1,15 @@
+id: 919
+token: jazz-club-police-station
+name: Jazz Club Police Station
+aliases: Police Station
+alive: true
+address: Невский пр., 90-92
+subway: Маяковская
+phone: +7(911)035-35-38
+city_id: 2
+clips:
+- id: 10545
+  type: weblink
+  url: https://www.police-station.ru
+  name: Официальный сайт
+  sort_order: 0

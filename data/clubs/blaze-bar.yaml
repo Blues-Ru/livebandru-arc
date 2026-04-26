@@ -1,0 +1,14 @@
+id: 264
+token: blaze-bar
+name: Blaze Bar
+alive: true
+address: Гилель, 23 (Hillel, 23)
+phone: 054-816-5488
+city_id: 20
+comments: blazejerusalem@gmail.com
+clips:
+- id: 616
+  type: weblink
+  url: http://www.myspace.com/blazebar
+  name: Страница на MySpace
+  sort_order: 99

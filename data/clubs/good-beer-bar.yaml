@@ -1,0 +1,15 @@
+id: 854
+token: good-beer-bar
+name: Good Beer Bar
+aliases: Гуд Бир Бар
+alive: true
+address: Новорязанская ул., 26с1
+subway: Бауманская, Комсомольская
+phone: (499) 763-34-71
+city_id: 1
+clips:
+- id: 7976
+  type: weblink
+  url: http://www.goodbeerbar.ru/
+  name: Официальный сайт
+  sort_order: 0

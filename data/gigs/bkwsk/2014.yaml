@@ -1,0 +1,12 @@
+- id: 47934
+  date: '2014-11-15'
+  time: '19:00'
+  band_name: PsycheDELTA Acoustic Band
+  club_id: 789
+  club_name: BKWSK
+  club_token: bkwsk
+  price: 100 руб.
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta

@@ -1,0 +1,13 @@
+id: 138
+token: crematory
+name: Крематорий
+alive: true
+url: http://www.crematorium.ru
+city_id: 1
+genre_id: 3
+clips:
+- id: 144
+  type: weblink
+  url: http://www.crematorium.ru
+  name: Официальный сайт
+  sort_order: 0

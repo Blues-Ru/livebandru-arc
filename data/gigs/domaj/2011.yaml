@@ -1,0 +1,40 @@
+- id: 15901
+  date: '2011-02-25'
+  time: '19:00'
+  band_name: Виктор Романов и Константин Юдичев
+  club_id: 386
+  club_name: Дом Архитектора Жоголева
+  club_token: domaj
+  price: 100, 250, 350
+- id: 22477
+  date: '2011-10-27'
+  time: '19:00'
+  band_name: Sandy Patton и трио Евгения Рябого
+  club_id: 386
+  club_name: Дом Архитектора Жоголева
+  club_token: domaj
+- id: 22478
+  date: '2011-11-11'
+  time: '19:00'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 386
+  club_name: Дом Архитектора Жоголева
+  club_token: domaj
+- id: 21857
+  date: '2011-10-08'
+  time: '19:00'
+  band_name: Квинтет Андрея Красильникова
+  club_id: 386
+  club_name: Дом Архитектора Жоголева
+  club_token: domaj
+  comments: Андрей Красильников (саксофоны), Петр Востоков (труба), Алексей Беккер
+    (клавиши), Макар Новиков (контрабас), Александр Машин (барабаны)
+- id: 22479
+  date: '2011-11-27'
+  time: '19:00'
+  band_name: Трио Тони Романо
+  club_id: 386
+  club_name: Дом Архитектора Жоголева
+  club_token: domaj

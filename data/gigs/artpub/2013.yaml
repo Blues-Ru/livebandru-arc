@@ -1,0 +1,1251 @@
+- id: 32856
+  date: '2013-01-26'
+  time: '21:00'
+  band_id: 560
+  band_name: Anatomie Bousculaire
+  band_token: anatomie-bousculaire
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 400 руб.
+- id: 32857
+  date: '2013-01-24'
+  time: '21:00'
+  band_name: Grace Garland (вокал, Нью Йорк) и Александр Гуреев (саксофон, Москва)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 600-1000 руб.
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32858
+  date: '2013-01-02'
+  time: '21:00'
+  band_name: Екатерина Унгвари
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32859
+  date: '2013-01-03'
+  time: '21:00'
+  band_name: Ультрафиолет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32860
+  date: '2013-01-04'
+  time: '21:00'
+  band_name: 2+1
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32861
+  date: '2013-01-05'
+  time: '21:00'
+  band_name: Anton Tazhun & StarLite Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32862
+  date: '2013-01-06'
+  time: '21:00'
+  band_name: Бинго-Бонго
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32868
+  date: '2013-01-17'
+  time: '21:00'
+  band_name: 'Сибирский Институт Джаза представляет: Алексей Круглов (саксофон)'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 32869
+  date: '2013-01-18'
+  time: '21:00'
+  band_name: Тритон
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 32870
+  date: '2013-01-19'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32872
+  date: '2013-01-22'
+  time: '21:00'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 32875
+  date: '2013-01-27'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 32876
+  date: '2013-01-30'
+  time: '21:00'
+  band_name: Гриневич Бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 32877
+  date: '2013-01-31'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 32863
+  date: '2013-01-07'
+  time: '21:00'
+  band_name: No Comments
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32864
+  date: '2013-01-08'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32865
+  date: '2013-01-10'
+  time: '21:00'
+  band_name: Владимир Лещинский и Влад Шилин
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 32866
+  date: '2013-01-11'
+  time: '21:00'
+  band_name: Global Traffic
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 32867
+  date: '2013-01-12'
+  time: '21:00'
+  band_name: CQ Dance
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 32871
+  date: '2013-01-20'
+  time: '21:00'
+  band_name: Melody Park
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 32873
+  date: '2013-01-23'
+  time: '21:00'
+  band_name: The Boys
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 32874
+  date: '2013-01-25'
+  time: '21:00'
+  band_name: Lotto
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 33363
+  date: '2013-02-07'
+  time: '21:00'
+  band_name: Mandy Gaines (США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 600-1000 руб.
+- id: 33364
+  date: '2013-02-23'
+  time: '21:00'
+  band_id: 561
+  band_name: Jose Luis Pardo
+  band_token: jose-luis-pardo
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 400-800 руб.
+- id: 34059
+  date: '2013-02-20'
+  time: '21:00'
+  band_name: Гриневич Бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 34060
+  date: '2013-02-21'
+  time: '21:00'
+  band_name: Владимир Тимофеев и его квинтет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 34061
+  date: '2013-02-27'
+  time: '20:30'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 34062
+  date: '2013-02-28'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 34063
+  date: '2013-04-13'
+  time: '21:00'
+  band_name: Bert Deivert & Brian Kramer
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300-500 руб.
+- id: 34064
+  date: '2013-03-23'
+  time: '21:00'
+  band_name: Омар Итковичи & Hurricane
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300-600 руб.
+- id: 34409
+  date: '2013-03-01'
+  time: '21:00'
+  band_name: Рви меха-оркестр
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 34410
+  date: '2013-03-03'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 34411
+  date: '2013-03-06'
+  time: '21:00'
+  band_name: Clairdee (вокал, США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 600-1000 руб.
+- id: 34412
+  date: '2013-03-07'
+  time: '21:00'
+  band_name: No Comments
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 34413
+  date: '2013-03-09'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 34414
+  date: '2013-03-13'
+  time: '20:30'
+  band_name: Дети понедельника
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 34415
+  date: '2013-03-14'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 34416
+  date: '2013-03-15'
+  time: '21:00'
+  band_name: Anton Tazhun & StarLite Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 34417
+  date: '2013-03-17'
+  time: '21:00'
+  band_name: Street Fiddlers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 34418
+  date: '2013-03-21'
+  time: '21:00'
+  band_name: Владимир Тимофеев и его квинтет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 34419
+  date: '2013-03-24'
+  time: '21:00'
+  band_name: Time Killers и Наталья Шилова (вокал)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 34420
+  date: '2013-03-27'
+  time: '20:30'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 34421
+  date: '2013-03-28'
+  time: '21:00'
+  band_name: Андрей Турыгин
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 100 руб.
+- id: 34422
+  date: '2013-03-30'
+  time: '21:00'
+  band_name: Аляска
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 34423
+  date: '2013-03-31'
+  time: '20:00'
+  band_name: Дуэт Jazz Do It
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 35133
+  date: '2013-04-20'
+  time: '21:00'
+  band_id: 565
+  band_name: Ива Нова
+  band_token: iva-nova
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 400 руб.
+- id: 35132
+  date: '2013-04-21'
+  time: '21:00'
+  band_name: Джоан Майнор (США), Алексей Пыстин (клавиши), Юрий Васильев (бас), Дмитрий
+    Швецов (ударные)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300-700 руб.
+- id: 35539
+  date: '2013-04-18'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 35901
+  date: '2013-04-30'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 35902
+  date: '2013-05-01'
+  time: '21:00'
+  band_name: 2+1
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 35903
+  date: '2013-05-02'
+  time: '21:00'
+  band_name: ШтрихКот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 35904
+  date: '2013-05-03'
+  time: '21:00'
+  band_name: '"Nоль Три" (Бийск-Барнаул)'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 35905
+  date: '2013-05-12'
+  time: '21:00'
+  band_name: Трио Томаса Зиффлинга
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 700 руб.
+- id: 35899
+  date: '2013-04-28'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 35900
+  date: '2013-04-29'
+  time: '21:00'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36166
+  date: '2013-06-06'
+  time: '21:00'
+  band_name: Paulette MacWilliams (вокал, США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 700-800 руб.
+- id: 36167
+  date: '2013-05-14'
+  time: '21:00'
+  band_name: Гриневич Бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36168
+  date: '2013-05-16'
+  time: '21:00'
+  band_name: Владимир Кирпичев и его квинтет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36169
+  date: '2013-05-17'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 36170
+  date: '2013-05-19'
+  time: '21:00'
+  band_name: 'Блюзово-вискарный вечер: Ohotin Blues'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36171
+  date: '2013-05-20'
+  time: '21:00'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36172
+  date: '2013-05-22'
+  time: '21:00'
+  band_name: Гитарный дуэт Ярушкин и Аксенов
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 36173
+  date: '2013-05-23'
+  time: '21:00'
+  band_name: Квартет Евгения Голованова с программой Power Jazz Music
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36174
+  date: '2013-05-24'
+  time: '21:00'
+  band_name: ШтрихКот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 36175
+  date: '2013-05-25'
+  time: '21:00'
+  band_name: Бинго-Бонго
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 36176
+  date: '2013-05-26'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36177
+  date: '2013-05-28'
+  time: '21:00'
+  band_name: Галя Павлова и "СССР и Контрабас"
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+  comments: Программа "Старомодные люди" к 4-летию коллектива
+- id: 36178
+  date: '2013-05-29'
+  time: '21:00'
+  band_name: Текила
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 36179
+  date: '2013-05-30'
+  time: '21:00'
+  band_name: Владимир Тимофеев и его квинтет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 36180
+  date: '2013-05-31'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 36673
+  date: '2013-06-13'
+  time: '21:00'
+  band_name: Владимир Тимофеев и его квинтет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36674
+  date: '2013-06-16'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36675
+  date: '2013-06-19'
+  time: '21:00'
+  band_name: Женщина с бородой
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 36676
+  date: '2013-06-20'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36677
+  date: '2013-06-26'
+  time: '21:00'
+  band_name: Седович бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 36678
+  date: '2013-06-28'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 36679
+  date: '2013-06-30'
+  time: '21:00'
+  band_name: Гриневич Бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 36902
+  date: '2013-07-04'
+  time: '21:00'
+  band_name: 'Международный гастрольный проект МузЭнергоТур: Alain Blesing & Fred
+    Roudet (Франция), Raimundo Santander & La Orquesta Del Viento (Чили), Happy55
+    (Воронеж), Leon (Швейцария/Италия), Johann Bourquenez (Франция/Швейцария), Lada
+    A Lado (Бразилия), Make Like A Tree (Украина), Marc Egea (Испания)'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 400-500 руб.
+- id: 37202
+  date: '2013-07-07'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37203
+  date: '2013-07-11'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37204
+  date: '2013-07-12'
+  time: '21:00'
+  band_name: ШтрихКот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 37205
+  date: '2013-07-14'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37206
+  date: '2013-07-18'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 37207
+  date: '2013-07-19'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 37208
+  date: '2013-07-20'
+  time: '21:00'
+  band_name: Nоль Три
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 37209
+  date: '2013-07-21'
+  time: '21:00'
+  band_name: Jazz Do It
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37210
+  date: '2013-07-24'
+  time: '21:00'
+  band_name: Гриневич Бэнд
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 37211
+  date: '2013-07-25'
+  time: '21:00'
+  band_name: Ohotin Blues Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37212
+  date: '2013-07-26'
+  time: '21:00'
+  band_name: Ультрафиолет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 37213
+  date: '2013-07-28'
+  time: '21:00'
+  band_id: 341
+  band_name: Томас Мур
+  band_token: thomas-moore
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 37214
+  date: '2013-07-31'
+  time: '21:00'
+  band_name: Fresco Project
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 37645
+  date: '2013-08-14'
+  time: '21:00'
+  band_name: Гитарный дуэт Ярушкин и Аксенов
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 37646
+  date: '2013-08-15'
+  time: '21:00'
+  band_name: Трио Татьяны Сидневой
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37647
+  date: '2013-08-16'
+  time: '21:00'
+  band_name: ШтрихКот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 37648
+  date: '2013-08-17'
+  time: '21:00'
+  band_name: Ультрафиолет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 37649
+  date: '2013-08-18'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37650
+  date: '2013-08-22'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37651
+  date: '2013-08-23'
+  time: '21:00'
+  band_name: Рви меха-оркестр
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 37652
+  date: '2013-08-28'
+  time: '21:00'
+  band_name: Silenzium
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 350 руб.
+- id: 37653
+  date: '2013-08-29'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 37644
+  date: '2013-08-01'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 38031
+  date: '2013-09-21'
+  time: '21:00'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 800 руб.
+- id: 38395
+  date: '2013-09-04'
+  time: '21:00'
+  band_name: Ohotin Blues Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 38396
+  date: '2013-09-05'
+  time: '21:00'
+  band_name: Grinevich band и Андрей Бурилов
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38398
+  date: '2013-09-08'
+  time: '21:00'
+  band_name: Melody Park
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38403
+  date: '2013-09-19'
+  time: '21:00'
+  band_name: Владимир Тимофеев и его квартет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38404
+  date: '2013-09-20'
+  time: '21:00'
+  band_name: No Comments
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 38405
+  date: '2013-09-22'
+  time: '21:00'
+  band_name: Горячая четверка
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38397
+  date: '2013-09-06'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 38399
+  date: '2013-09-12'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38400
+  date: '2013-09-13'
+  time: '21:00'
+  band_name: N0ЛЬ ТРИ
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 38401
+  date: '2013-09-15'
+  time: '21:00'
+  band_name: Jazz Do It
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38402
+  date: '2013-09-14'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 38406
+  date: '2013-09-26'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38407
+  date: '2013-09-28'
+  time: '21:00'
+  band_name: CQ Dance
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 38408
+  date: '2013-09-29'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 38585
+  date: '2013-09-12'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 39037
+  date: '2013-10-03'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39038
+  date: '2013-10-05'
+  time: '21:00'
+  band_name: ШтрихКот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 39039
+  date: '2013-10-06'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39040
+  date: '2013-10-10'
+  time: '21:00'
+  band_name: Квартет Влада Шилина
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39041
+  date: '2013-10-12'
+  time: '21:00'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 800 руб.
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 39042
+  date: '2013-10-13'
+  time: '21:00'
+  band_name: Линии Судьбы
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39044
+  date: '2013-10-18'
+  time: '21:00'
+  band_name: Ультрафиолет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39045
+  date: '2013-10-19'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39046
+  date: '2013-10-23'
+  time: '21:00'
+  band_name: Сергей Калугин (Оргия Праведников)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 600 руб.
+- id: 39047
+  date: '2013-10-24'
+  time: '21:00'
+  band_name: Jamie Davis (США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 800 руб.
+- id: 39048
+  date: '2013-10-27'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39043
+  date: '2013-10-17'
+  time: '21:00'
+  band_name: Week And CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39049
+  date: '2013-10-31'
+  time: '21:00'
+  band_name: Street Fiddlers Heloween
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 350 руб.
+- id: 39050
+  date: '2013-10-30'
+  time: '21:00'
+  band_name: В. Рожавский, В. Денисов и Капитан Дик
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+  extra_bands:
+  - id: 317
+    name: Капитан Дик
+    token: captain-dick
+- id: 39919
+  date: '2013-11-04'
+  time: '21:00'
+  band_name: Трио Олега Зайцева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 39920
+  date: '2013-11-06'
+  time: '21:00'
+  band_name: Ohotin Blues Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 39921
+  date: '2013-11-07'
+  time: '21:00'
+  band_name: Квартет Владимира Тимофеева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39922
+  date: '2013-11-09'
+  time: '21:00'
+  band_name: J.C.Smith (США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 800 руб.
+  extra_bands:
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith
+- id: 39923
+  date: '2013-11-12'
+  time: '21:00'
+  band_name: Jason Palmer (США) & Квартет Алексея Подымкина
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 500 руб.
+- id: 39924
+  date: '2013-11-22'
+  time: '21:00'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39925
+  date: '2013-11-24'
+  time: '21:00'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39926
+  date: '2013-11-27'
+  time: '21:00'
+  band_name: '"Гриневич Бэнд" и Андрей Бурилов'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 39927
+  date: '2013-11-28'
+  time: '21:00'
+  band_name: Hard-Jazz Project при уч. CQ Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 39928
+  date: '2013-11-30'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39929
+  date: '2013-11-21'
+  time: '21:00'
+  band_name: Владимир Кирпичев & Со
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39930
+  date: '2013-11-16'
+  time: '21:00'
+  band_name: Slava Kobzar и квинтет Paramaribo
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 39931
+  date: '2013-11-20'
+  time: '21:00'
+  band_name: Настя Артемова (Барнаул) и Анна Ширяева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 39932
+  date: '2013-11-17'
+  time: '21:00'
+  band_name: Штрих Кот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 40289
+  date: '2013-12-05'
+  time: '21:00'
+  band_name: Иволга
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 40287
+  date: '2013-12-07'
+  time: '21:00'
+  band_name: Carmen Bradford (вокал, США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 40288
+  date: '2013-12-04'
+  time: '21:00'
+  band_name: Ohotin Blues Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 40755
+  date: '2013-12-12'
+  time: '21:00'
+  band_name: Квартет Владимира Тимофеева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 40756
+  date: '2013-12-15'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 40757
+  date: '2013-12-18'
+  time: '21:00'
+  band_name: Fresko Project
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 40758
+  date: '2013-12-19'
+  time: '21:00'
+  band_name: Grinevich band и Андрей Бурилов
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub

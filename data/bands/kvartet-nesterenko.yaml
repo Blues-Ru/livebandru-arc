@@ -1,0 +1,26 @@
+id: 465
+token: kvartet-nesterenko
+name: Квартет Владимира Нестеренко
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Владимир Нестеренко
+  instruments: фортепиано, флейта
+- name: Максим Шибин
+  instruments: гитара
+- name: Владимир Черницын
+  instruments: контрабас
+- name: Алексей Беккер
+  instruments: ударные
+clips:
+- id: 2184
+  type: photo
+  url: kvartet-nesterenko.jpg
+  sort_order: 0
+  width: 400
+  height: 381
+- id: 7609
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

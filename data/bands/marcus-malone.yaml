@@ -1,0 +1,126 @@
+id: 663
+token: marcus-malone
+name: Marcus Malone
+alive: true
+url: http://www.marcusmalone.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Marcus Malone
+  instruments: vocals/resonator guitar/guitar
+- name: Вадим Иващенко
+  instruments: гитара
+- name: Юрий Горелов
+  instruments: бас-гитара/контрабас
+- name: Михаил Юдин
+  instruments: ударные
+clips:
+- id: 5190
+  type: youtube
+  url: http://www.youtube.com/?v=tmL0pzuo5w8
+  name: Marcus Malone Band - To Love Somebody @ Le Splendid -Lille, France 2011
+  comments: Marcus Malone BandLe Splendid, Lille FranceMarcus Malone - vocals & guitar;
+    Stuart Dixon - guitar; PJ Phillips - bass & vocals; Chris Nugent - drums
+  sort_order: 99
+- id: 5191
+  type: youtube
+  url: http://www.youtube.com/?v=kF--zEmlDrE
+  name: One More Time (M Malone) @ Ronnie Scott's London
+  comments: "The Blues Experience with Special Guest Marcus Malone\n18 July 2010 \n\
+    Ronnie Scott's - Soho London"
+  sort_order: 50
+- id: 5192
+  type: youtube
+  url: http://www.youtube.com/?v=Yzj3Qjpzaxs
+  name: Marcus Malone Band @ Carlisle Blues Festival 13.11.11 - Hear My Train (Malone)
+  comments: 'Marcus Malone Band
+
+    Carlisle Blues Festival 13.11.11
+
+    Hear My Train from the Blue Radio Album
+
+
+    stuart dixon-guitar; johan buys - bass; chris nugent - drums; marcus malone -vocals
+    - guitar'
+  sort_order: 25
+- id: 5193
+  type: youtube
+  url: http://www.youtube.com/?v=4zMvLji7gDs
+  name: Marcus Malone - Help Me Through The Day
+  comments: "Help Me Through The Day - Freddie King Tribute Night\r\nWriten By - Bernard\
+    \ Allison\r\n-\r\n-\r\nBand:\r\nMike Summerland - Guitar\r\nBob Haddrell - Keys\r\
+    \nEd Spevock - Drums\r\nAl MacLow - Bass\r\nAlan Glen - Guitar,"
+  sort_order: 13
+- id: 5194
+  type: youtube
+  url: http://www.youtube.com/?v=m4YAsU29fuo
+  name: The Marcus Malone Band - "Going Back To Detroit"
+  comments: 'The Marcus Malone Band live @ Le Montmartre, Brussels, 02-04-2011
+
+
+    Marcus Malone (vocals & guitar)
+
+    Michael Casswell (guitar)
+
+    Patrick Phillips (bass)
+
+    Christopher Nugent (drums)'
+  sort_order: 199
+- id: 5195
+  type: youtube
+  url: http://www.youtube.com/?v=P696ooli1OE
+  name: The Marcus Malone Band - "Let The Sunshine In"
+  comments: 'The Marcus Malone Band live @ Le Montmartre, Brussels, 02-04-2011
+
+
+    Marcus Malone (vocals & guitar)
+
+    Michael Casswell (guitar)
+
+    Patrick Phillips (bass)
+
+    Christopher Nugent (drums)'
+  sort_order: 299
+- id: 5196
+  type: youtube
+  url: http://www.youtube.com/?v=qU-2SKv38ho
+  name: Marcus Malone One More time
+  comments: "Marcus Malone: Feuchy Blues Festival (France)\r\n15/09/2007\r\n(c) Marcus\
+    \ Malone & Blue Box Prod 2007\r\nwww.blueboxprod.fr"
+  sort_order: 38
+- id: 5210
+  type: photo
+  url: marcus-malone.jpg
+  sort_order: 0
+  width: 300
+  height: 450
+- id: 5174
+  type: weblink
+  url: http://www.marcusmalone.com/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 386
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец американского Детройта, Мичиган, и житель Лондона, певец, сонграйтер,
+    стори-теллер, гитарист - МАРКУС МЭЛОУН хорошо известен клубной и фестивальной
+    публике по обе стороны Атлантки.
+
+
+    Пять сольных альбомов, записи с самыми именитыми блюзменами, успешные американские
+    и европейские туры - чего еще желать? К чему стремиться?
+
+
+    МАРКУС МЭЛОУН до сих пор ни разу не был в России и считает, что посетить Москву
+    и Ст.Петербург с концертами и заодно в качестве туриста - это то, к чего стоит
+    желать, к чему стоит стремиться! И -хей-хей!!! - Маркус едет в Россию!
+
+
+    В своем первом российском туре МАРКУС МЭЛОУН представит искушенной публике все
+    лучшее, чего он достиг за свою почти 30-летнюю карьеру блюзмена.'
+  verified: true
+  created: '2013-12-23'
+  is_press_release: true

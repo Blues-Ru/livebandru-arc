@@ -1,0 +1,87 @@
+id: 1
+token: blues-cousins
+name: Blues Cousins
+aliases: 'Леван Ломидзе
+
+  Леван Ломидзе и Blues Cousins
+
+  Леваном Ломидзе'
+alive: true
+url: http://www.blues-cousins.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Леван Ломидзе
+  instruments: гитара, вокал
+clips:
+- id: 31
+  type: weblink
+  url: http://www.blues-cousins.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 32
+  type: youtube
+  url: http://www.youtube.com/?v=KbrPrmC5OFw
+  name: Levan Lomidze & Blues Cousins
+  comments: "Gibson SG .Tony Iommi .The top Russian  blues stars playing with  \r\n\
+    BLUES cousins"
+  sort_order: 99
+- id: 250
+  type: youtube
+  url: http://www.youtube.com/?v=e5lmTh-v-GU
+  name: Levan Lomidze & The Blues Cousins " My baby is coming home"
+  sort_order: 199
+- id: 252
+  type: photo
+  url: blues-cousins.jpg
+  name: Леван Ломидзе
+  sort_order: 0
+  width: 595
+  height: 850
+- id: 251
+  type: youtube
+  url: http://www.youtube.com/?v=VYpairVoOrY
+  name: Levan Lomidze & Blues Cousins Gibson SG
+  sort_order: 299
+- id: 253
+  type: photo
+  url: blues-cousins-2.jpg
+  name: Леван Ломидзе
+  sort_order: 100
+  width: 373
+  height: 560
+reviews:
+- id: 7
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Леван Ломидзе является первым российским гитаристом, признанным на родине
+    Блюза.
+
+
+    2002 году был подписан долгосрочный контракт с Вашингтонским Блюзовым сообществом
+    о проведении 5 туров по США, включая выступления на самых престижных блюз фестивалях
+    Америки. В общей сложности было проведено более 100 концертов.
+
+
+    На фестивале "Blues Sur Sein 2000" (Франция) Леван был награжден призом симпатии
+    зрителей, а Blues Cousins названа лучшей среди 57 групп..
+
+
+    По результатам опроса слушателей передачи "Доктор Блюз" (Открытое Радио) – Леван
+    Ломидзе был признан лучшим российским блюзовым музыкантом года.
+
+
+    2005 году американская компания Jazz Stream Records выпустила "живой" альбом Левана
+    – "Live in USA". Последний факт явился настоящим прорывом московского блюза.
+
+
+    По оценке журналов Audio Video, Music Box, Guitars.ru Леван признан одним из 10-ти
+    лучших гитаристов России.
+
+
+    Леван награжден мэром Москвы за акцию "Рок против наркотиков".'
+  verified: true
+  created: '2010-08-05'
+  is_press_release: true

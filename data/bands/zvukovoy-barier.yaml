@@ -1,0 +1,120 @@
+id: 707
+token: zvukovoy-barier
+name: Елена Ясная & ZБ (Звуковой Барьер)
+alive: true
+url: https://vk.com/zvukovoy_barier
+city_id: 1
+genre_id: 3
+secondary_genre_id: 1
+musicians:
+- name: Елена Ясная
+  instruments: вокал, акуст. гитара
+- name: Александр Сухов
+  instruments: барабаны
+- name: Игорь Горбачевский
+  instruments: бас-гитара
+- name: Андрей Трубецков
+  instruments: соло-гитара
+- name: Владимир Василевский
+  instruments: эл. гитара
+- name: Роман Бажанов
+  instruments: клавишные
+clips:
+- id: 6671
+  type: weblink
+  url: https://vk.com/zvukovoy_barier https://vk.com/elena_yasnaya
+  name: Страница ВКонтакте
+  comments: Елена Ясная - композитор, автор-исполнитель песен. Лауреат музыкальных
+    конкурсов, победитель всероссийского конкурса военно-патриотической песни, победитель
+    Московского областного конкурса эстрадной п
+  sort_order: 100
+- id: 6673
+  type: weblink
+  url: https://vk.com/zvukovoy_barier
+  name: Официальный сайт
+  sort_order: 0
+- id: 11232
+  type: mp3
+  url: zvukovoy-barier-5.mp3
+  name: 11 Елена Ясная & ZБ_Все в этой жизни не успеть
+  comments: Альбом "Люби" 2021
+  sort_order: 893
+- id: 11229
+  type: mp3
+  url: zvukovoy-barier-2.mp3
+  name: 08 Елена Ясная & ZБ_Встреча
+  comments: Альбом "Люби" 2021
+  sort_order: 593
+- id: 10868
+  type: photo
+  url: zvukovoy-barier-2.jpg
+  name: Состав группы Звуковой Барьер до 2016 г.
+  sort_order: 0
+  width: 4368
+  height: 2912
+- id: 11228
+  type: mp3
+  url: zvukovoy-barier.mp3
+  name: 07 Елена Ясная & ZБ_Вы уходили (романс)
+  comments: Альбом "Люби"
+  sort_order: 493
+- id: 11221
+  type: youtube
+  url: https://www.youtube.com/user/elenayas1/featured
+  name: Елена Ясная
+  comments: мой канал на Youtube
+  sort_order: 99
+- id: 11222
+  type: mp3
+  url: zvukovoy-barier-7.mp3
+  name: 01 Елена Ясная & ZБ_Волшебная Скрипка
+  comments: Альбом "Люби"
+  sort_order: 0
+- id: 11226
+  type: mp3
+  url: zvukovoy-barier-11.mp3
+  name: 05 Елена Ясная_Вампир
+  comments: Альбом "Люби"
+  sort_order: 393
+- id: 11223
+  type: mp3
+  url: zvukovoy-barier-8.mp3
+  name: 02 Елена Ясная & ZБ_Люби
+  comments: Альбом "Люби"
+  sort_order: 349
+- id: 11224
+  type: mp3
+  url: zvukovoy-barier-9.mp3
+  name: 03 Елена Ясная & ZБ_Игра навылет
+  comments: Альбом "Люби"
+  sort_order: 374
+- id: 11225
+  type: mp3
+  url: zvukovoy-barier-10.mp3
+  name: 04 Елена Ясная & ZБ_Сны
+  comments: Альбом "Люби"
+  sort_order: 387
+- id: 11227
+  type: mp3
+  url: zvukovoy-barier-12.mp3
+  name: 06 Елена Ясная_Город
+  comments: Альбом Елены Ясной и группы  Звуковой Барьер "Люби"
+  sort_order: 443
+- id: 11230
+  type: mp3
+  url: zvukovoy-barier-3.mp3
+  name: 09 Елена Ясная & ZБ_Грешник
+  comments: Альбом "Люби" 2021
+  sort_order: 693
+- id: 11231
+  type: mp3
+  url: zvukovoy-barier-4.mp3
+  name: 10 Елена Ясная & ZБ_Первый Снег
+  comments: Альбом "Люби" 2021
+  sort_order: 793
+- id: 11233
+  type: mp3
+  url: zvukovoy-barier-6.mp3
+  name: 12 Елена Ясная & ZБ_Любовь в стиле ретро
+  comments: Альбом "Люби" 2021
+  sort_order: 993

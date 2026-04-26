@@ -1,0 +1,243 @@
+- id: 41396
+  date: '2014-01-23'
+  time: '18:00'
+  band_name: 'Большой Джазовый Оркестр представляет программу "Век джаза, часть первая:
+    черные оркестры"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 41397
+  date: '2014-01-23'
+  time: '20:00'
+  band_name: 'Большой Джазовый Оркестр представляет программу "Век джаза, часть первая:
+    черные оркестры"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 41843
+  date: '2014-02-20'
+  time: '18:00'
+  band_name: 'Большой джазовый оркестр п/у Петра Востокова с программой "Век джаза,
+    часть вторая: белые оркестры"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 41844
+  date: '2014-02-20'
+  time: '20:00'
+  band_name: 'Большой джазовый оркестр п/у Петра Востокова с программой "Век джаза,
+    часть вторая: белые оркестры"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 42679
+  date: '2014-03-20'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр играет Мамбо
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 42680
+  date: '2014-03-20'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр играет Мамбо
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 43332
+  date: '2014-04-24'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  comments: Программа "К 115-летию Дюка Эллингтона"
+- id: 43333
+  date: '2014-04-24'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  comments: Программа "К 115-летию Дюка Эллингтона"
+- id: 44078
+  date: '2014-05-22'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 44079
+  date: '2014-05-22'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 44653
+  date: '2014-06-26'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 44654
+  date: '2014-06-26'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 46390
+  date: '2014-09-25'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 500 руб.
+- id: 46391
+  date: '2014-09-25'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 500 руб.
+- id: 46651
+  date: '2014-10-23'
+  time: '18:00'
+  band_name: '"Рапсодия в голубых тонах: Большой Джазовый Оркестр играет Пола Вайтмана"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 46652
+  date: '2014-10-23'
+  time: '20:00'
+  band_name: '"Рапсодия в голубых тонах: Большой Джазовый Оркестр играет Пола Вайтмана"'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 47921
+  date: '2014-11-27'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр и его ночные кошмары
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 47922
+  date: '2014-11-27'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр и его ночные кошмары
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 47872
+  date: '2014-12-06'
+  time: '19:00'
+  band_name: '20-ый Международный фестиваль вокального джаза "Jazz Voices": Yvetta
+    Uustalu & Gourmet Duo Plus (Эстония), Pascal von Wroblevsky Quartet (Германия),
+    Peter Lipa & Band (Словакия)'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 47873
+  date: '2014-11-08'
+  time: '15:00'
+  band_name: 'Детский музыкальный абонемент "Джаз: Несерьезные концерты": Авторская
+    программа Нади Сазоновой'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 48188
+  date: '2014-12-25'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр играет рок при уч. Владимира Нестеренко (электроорган
+    "Хаммонд'')
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 48189
+  date: '2014-12-25'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр играет рок при уч. Владимира Нестеренко (электроорган
+    "Хаммонд'')
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo

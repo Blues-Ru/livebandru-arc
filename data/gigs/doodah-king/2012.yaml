@@ -1,0 +1,85 @@
+- id: 24286
+  date: '2012-01-19'
+  time: '20:00'
+  band_name: Cross B Band , White Night Blues
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  comments: "Цикл блюзовых вечеров \"Three Kings\"(Albert King )\r\nВ программе \r\
+    \nДенис Балахонов (гитара, вокал, губная гармоника)\r\nCROSS B BAND (Texas Blues)\r\
+    \nWHTE NIGHT BLUES"
+  extra_bands:
+  - id: 395
+    name: White Night Blues
+    token: white-night-blues
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 26100
+  date: '2012-03-30'
+  time: '21:00'
+  band_name: Cross B Band, Пять Пенсов (Белгород, Россия)
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 29220
+  date: '2012-08-04'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 30870
+  date: '2012-11-29'
+  time: '21:00'
+  band_name: Cross B Band, Денис Балахонов
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  comments: "Большой сольный концерт \r\nCROSS B BAND (Texas Blues) \r\nс программой\
+    \ \r\nBlues with a feeling \r\nСпециальный гость \r\nДенис Балахонов (Delta Blues)\
+    \ \r\nс программой \r\nMe and Mr Johnson"
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 32049
+  date: '2012-12-20'
+  time: '20:00'
+  band_name: Cross B Band, Long Way, Place to be, Денис Балахонов
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  comments: "В этот холодный вечер ваши сердца согреют искренние слова и правдивые\
+    \ ноты. В этот час вы окажетесь в новом мире: познаете полет души, гамму чувств,\
+    \ волю неосознанной страсти. Вы обернетесь - и вам мило улыбнется рядом стоящая\
+    \ незнакомка. \r\nТакое волшебство может произойти только в особенный день. Им\
+    \ станет 20 декабря - совсем немного до Рождества. \r\nВас будут радовать знакомые\
+    \ группы:\r\n\"LONG WAY\" (Минск) встряхнут четким блюз-роком, \r\n\"CROSS B.\
+    \ BAND\" (Минск) с первых аккордов отправят в Техас,\r\n\"PLACE TO BE\" (Гомель)\
+    \ заинтригуют, а\r\nДенис Балахонов (Минск) на миг остановит время и погрузит\
+    \ в легкие волны акустики.\r\n\"BLUES BEFORE CHRISTMAS\" каждый год собирает друзей\
+    \ в \"Doodah King\" баре. Можно не сомневаться, что в этом году их станет еще\
+    \ больше."
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way
+- id: 32300
+  date: '2012-12-28'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king

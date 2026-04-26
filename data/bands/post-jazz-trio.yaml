@@ -1,0 +1,120 @@
+id: 506
+token: post-jazz-trio
+name: Post-Jazz Trio
+alive: true
+city_id: 1
+genre_id: 2
+secondary_genre_id: 32
+musicians:
+- name: Наталья Скворцова
+  instruments: клавишные
+- name: Анатолий Осипов
+  instruments: тенор-саксофон
+- name: Иван Баринов
+  instruments: барабаны
+references:
+- id: 454
+  name: Osipov Friends
+  token: osipov-friends
+- id: 502
+  name: Живые Люди
+  token: livepeople
+clips:
+- id: 3828
+  type: mp3
+  url: post-jazz-trio.mp3
+  name: Post-Jazz Trio - 01. In Chopin Style
+  comments: трек из промо-альбома "Introducing"
+  sort_order: 0
+- id: 3830
+  type: mp3
+  url: post-jazz-trio-4.mp3
+  name: Post-Jazz Trio - 04. Plain's Spirits
+  comments: из промо-альбома "Introducing"
+  sort_order: 200
+- id: 3827
+  type: youtube
+  url: http://www.youtube.com/?v=jZwRyi7-l5Q
+  name: Post-Jazz Trio - Live at Moscow Kozlov Club 18.11.2012
+  comments: 'Москва, Клуб Алексея Козлова
+
+    http://kozlovclub.ru
+
+    http://livemusic.pro'
+  sort_order: 0
+- id: 3831
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 3832
+  type: mp3
+  url: post-jazz-trio-5.mp3
+  name: Post-Jazz Trio - 05. Midgard
+  comments: трек из промо-альбома "Introducing"
+  sort_order: 300
+- id: 3833
+  type: photo
+  url: post-jazz-trio.jpg
+  sort_order: 0
+  width: 500
+  height: 500
+- id: 3834
+  type: photo
+  url: post-jazz-trio-2.jpg
+  sort_order: 100
+  width: 2835
+  height: 1417
+- id: 3835
+  type: photo
+  url: post-jazz-trio-3.jpg
+  sort_order: 200
+  width: 1406
+  height: 1406
+- id: 3836
+  type: photo
+  url: post-jazz-trio-4.jpg
+  sort_order: 300
+  width: 807
+  height: 536
+- id: 3837
+  type: photo
+  url: post-jazz-trio-5.jpg
+  sort_order: 400
+  width: 807
+  height: 538
+- id: 3829
+  type: mp3
+  url: post-jazz-trio-2.mp3
+  name: Post-Jazz Trio - 02. Angel
+  comments: трек из промо-альбома "Introducing"
+  sort_order: 100
+- id: 3838
+  type: photo
+  url: post-jazz-trio-6.jpg
+  sort_order: 500
+  width: 538
+  height: 807
+- id: 3839
+  type: photo
+  url: post-jazz-trio-7.jpg
+  sort_order: 600
+  width: 538
+  height: 807
+- id: 3840
+  type: photo
+  url: post-jazz-trio-8.jpg
+  sort_order: 700
+  width: 538
+  height: 807
+- id: 3841
+  type: photo
+  url: post-jazz-trio-9.jpg
+  sort_order: 800
+  width: 538
+  height: 807
+- id: 3842
+  type: photo
+  url: post-jazz-trio-10.jpg
+  sort_order: 900
+  width: 538
+  height: 807

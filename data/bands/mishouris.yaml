@@ -1,0 +1,21 @@
+id: 18
+token: mishouris
+name: MISHOURIS Blues
+alive: true
+url: http://mishouris.com
+city_id: 1
+genre_id: 1
+clips:
+- id: 136
+  type: rss
+  url: http://mishouris.livejournal.com/data/rss
+  sort_order: 0
+- id: 1515
+  type: weblink
+  url: http://mishouris.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1516
+  type: rss
+  url: http://community.livejournal.com/mishouris_blues/data/rss
+  sort_order: 100

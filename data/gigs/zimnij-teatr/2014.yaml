@@ -1,0 +1,20 @@
+- id: 45294
+  date: '2014-08-02'
+  time: '20:00'
+  band_name: 'Акваджаз. Sochi Jazz Festival: Allan Harris (вокал, США) и его группа,
+    Николай Левиновский (рояль) и New Allegro'
+  club_id: 713
+  club_name: Зимний Театр
+  club_token: zimnij-teatr
+- id: 45295
+  date: '2014-08-03'
+  time: '20:00'
+  band_name: 'Акваджаз. Sochi Jazz Festival: Lee Ritenour/Dave Grusin Band (США ),
+    Lisa Henry (вокал, США) и трио Олега Бутмана'
+  club_id: 713
+  club_name: Зимний Театр
+  club_token: zimnij-teatr
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio

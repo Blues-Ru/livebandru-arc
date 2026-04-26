@@ -1,0 +1,36 @@
+id: 246
+token: rockiah
+name: Рокиах
+alive: true
+url: http://www.facebook.com/rockiah
+city_id: 47
+genre_id: 3
+musicians:
+- name: Yehudah David
+  instruments: guitar, vocals
+- name: Zvi Newman
+  instruments: bass
+- name: Ariel Isaacson
+  instruments: keyboards, vocals
+- name: David Epstein
+  instruments: drums
+clips:
+- id: 780
+  type: weblink
+  url: http://shemeshmusic.com/Rockiah.html
+  name: Официальный сайт
+  sort_order: 99
+- id: 781
+  type: weblink
+  url: http://www.facebook.com/rockiah
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 782
+  type: weblink
+  url: http://www.myspace.com/rockiahband
+  name: Страница на MySpace
+  sort_order: 299
+- id: 783
+  type: weblink
+  url: http://itunes.apple.com/us/album/bonei-yerushalayim/id296977286
+  sort_order: 399

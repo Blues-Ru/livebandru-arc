@@ -1,0 +1,39 @@
+- id: 63453
+  date: '2017-02-24'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: от 700 руб.
+- id: 64173
+  date: '2017-03-19'
+  time: '19:00'
+  band_id: 687
+  band_name: Todd Sharpville
+  band_token: todd-sharpville
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 600-1000
+- id: 65367
+  date: '2017-05-27'
+  time: '20:00'
+  band_name: BIG CITY JAZZ SHOW
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 700 руб.
+  extra_bands:
+  - id: 719
+    name: Big City Jazz Show
+    token: big-city-jazz-show
+- id: 69285
+  date: '2017-12-03'
+  time: '19:00'
+  band_name: Олег Бутман (барабаны,США) и Ty Stephens (вокал,США)
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino

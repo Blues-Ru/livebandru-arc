@@ -1,0 +1,14 @@
+id: 461
+token: beerman-pelmeni
+name: Beerman & Пельмени
+alive: true
+address: Каменская, 7
+subway: Площадь Ленина
+phone: (383) 362-12-62
+city_id: 19
+clips:
+- id: 2170
+  type: weblink
+  url: http://www.beerman.ru
+  name: Официальный сайт
+  sort_order: 0

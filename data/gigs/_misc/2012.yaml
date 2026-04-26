@@ -1,0 +1,1892 @@
+- id: 24119
+  date: '2012-01-17'
+  time: '20:00'
+  band_id: 378
+  band_name: Виктор Юров
+  band_token: victor-urov
+  club_name: Schwein
+  city_id: 1
+  price: 250 руб.
+  comments: Вы не попали на концерты джазиста Ди Меола, Джесси Кука или Acoustic Alchemy
+    - виртуозная игра Юрова Виктора на гитаре, красиво аранжированного Fusion - Jazz
+    - Rock будет подарком для Вас! Динамично, зажигательно и мечтательно... Ждем ценителей
+    гитары!
+- id: 23300
+  date: '2012-01-26'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_name: Б2, второй этаж
+  city_id: 1
+  price: 300 руб.
+- id: 24303
+  date: '2012-01-07'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 24304
+  date: '2012-01-20'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 24875
+  date: '2012-01-20'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Blues Cafe @ Сто ручьев
+  city_id: 7
+- id: 24594
+  date: '2012-01-13'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_name: р-н "Спасский"
+  city_id: 52
+  price: 300 руб.
+- id: 24621
+  date: '2012-01-20'
+  time: '20:00'
+  band_name: New Day Blues Band, The Earth Sign
+  club_name: Клуб "7й Док" (Докер Паб), бульвар Шевченко 65
+  city_id: 70
+  price: 30 грн.
+  comments: Вечер блюза в рамках серии совместных концертов Earth Sign и New Day Blues
+    Band
+  extra_bands:
+  - id: 297
+    name: New Day Blues Band
+    token: new-day-blues-band
+  - id: 298
+    name: The Earth Sign
+    token: earth-sign
+- id: 24877
+  date: '2012-02-24'
+  time: '20:00'
+  band_name: Robert Lighthouse, Гастарбайтер Блюз
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 400 руб.
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+  - id: 251
+    name: Robert Lighthouse
+    token: robert-lighthouse
+- id: 25148
+  date: '2012-02-11'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 25149
+  date: '2012-02-17'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 25162
+  date: '2012-01-28'
+  time: '21:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Веранда
+  city_id: 78
+- id: 25163
+  date: '2012-02-02'
+  time: '20:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Грин
+  city_id: 78
+- id: 25303
+  date: '2012-02-25'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 25447
+  date: '2012-02-12'
+  time: '18:00'
+  band_name: 'Праздничный концерт "Flamenco Nuevo": танцор фламенко Adrian Sanchez
+    (Адриан Санчес) - Испания, ансамбль Marimba Plus и Президент Российской федерации
+    фламенко Юлия Плахотина'
+  club_name: Филармония
+  city_id: 34
+  comments: www.marimbaplus.ru
+  extra_bands:
+  - id: 512
+    name: Marimba Plus
+    token: marimba-plus
+- id: 25450
+  date: '2012-02-09'
+  time: '20:00'
+  band_name: Сергей Арно
+  club_name: арт-кафе "Африка"
+  city_id: 2
+  price: 200 руб.
+- id: 24592
+  date: '2012-01-14'
+  time: '20:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Веранда
+  city_id: 78
+- id: 24593
+  date: '2012-01-11'
+  time: '20:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Грааль
+  city_id: 101
+- id: 24916
+  date: '2012-02-24'
+  time: '19:00'
+  band_name: Государственный оркестр джазовой музыки им. Олега Лундстрема, при уч.
+    Мари Карне
+  club_name: КЦ Вооруженных сил РФ, Краснознаменный зал
+  city_id: 1
+  price: 1000 руб.
+- id: 25460
+  date: '2012-02-10'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: ул Б Семеновская 20 стр 1   "Янтарь"
+  city_id: 1
+- id: 25388
+  date: '2012-02-17'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: пивной ресторан Дубинин
+  city_id: 1
+  comments: "м. Павелецкая, ул. Кожевническая, дом 7, стр. 1\r\n8 (499) 235-31-08"
+- id: 25427
+  date: '2012-02-09'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Каста
+  city_id: 1
+  price: 500 руб.
+- id: 25398
+  date: '2012-02-03'
+  time: '20:00'
+  band_name: High School
+  club_name: Хитрые Люди
+  city_id: 1
+  price: бесплатный
+  comments: 4-й Сыромятнический пер., д.1, стр. 10, ЦСИ "Винзавод"
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 25470
+  date: '2012-02-15'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Кофе ON
+  city_id: 1
+  price: бесплатный
+- id: 25658
+  date: '2012-02-17'
+  time: '21:00'
+  band_name: High School
+  club_name: Хитрые люди
+  city_id: 1
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 25660
+  date: '2012-02-17'
+  time: '21:00'
+  band_name: Дмитрий Новокольский, Эд Губайдуллин
+  club_name: стейк хаус "Ковбой"
+  city_id: 1
+  price: .
+  extra_bands:
+  - id: 537
+    name: Дмитрий Новокольский
+    token: dmitry-novokolsky
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 25671
+  date: '2012-02-22'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Хитрые люди
+  city_id: 1
+  price: бесплатный
+- id: 25598
+  date: '2012-02-18'
+  time: '18:00'
+  band_name: Main Road, Вой, Shelf
+  club_name: ДМО
+  city_id: 83
+  price: бесплатный
+  extra_bands:
+  - id: 386
+    name: Main Road
+    token: main-road
+- id: 25670
+  date: '2012-02-29'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Кофе ON
+  city_id: 1
+  price: бесплатный
+- id: 26104
+  date: '2012-03-15'
+  time: '20:00'
+  band_id: 419
+  band_name: Blues Train
+  band_token: blues-train
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 26105
+  date: '2012-03-29'
+  time: '20:00'
+  band_name: Макс Таврический, Гастарбайтер Блюз
+  club_name: Кафе "Буфет"
+  city_id: 8
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 26320
+  date: '2012-03-02'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 26321
+  date: '2012-03-17'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 26322
+  date: '2012-03-31'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 26323
+  date: '2012-03-18'
+  time: '17:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: МегаЧел
+  city_id: 38
+  price: 300 руб.
+- id: 26326
+  date: '2012-03-07'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Хитрые Люди
+  city_id: 1
+  price: бесплатный
+- id: 26329
+  date: '2012-03-03'
+  time: '20:00'
+  band_name: НедРа, акустика. Алексей Вдовин и Александр Сомов (баян). Презентация
+    альбома "Табор уходит в море"
+  club_name: студия Rec-Time
+  city_id: 2
+  price: 350 рублей
+- id: 26370
+  date: '2012-03-16'
+  time: '21:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Ribs & Rock
+  city_id: 61
+  price: бесплатный
+- id: 26371
+  date: '2012-03-17'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Литва
+  city_id: 61
+  price: бесплатный
+- id: 26356
+  date: '2012-03-08'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Люсиновская ул., 9,   8 (499) 237-12-02
+  city_id: 1
+- id: 26390
+  date: '2012-03-17'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Konzas Street Bar
+  city_id: 2
+  price: 150 руб.
+- id: 26360
+  date: '2012-03-09'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Хитрые люди
+  city_id: 1
+  price: бесплатный
+- id: 26489
+  date: '2012-03-23'
+  time: '20:00'
+  band_name: М. Ермачков, А. Петров
+  club_name: Студия Rec-Time
+  city_id: 2
+  price: 300 рублей
+- id: 26484
+  date: '2012-03-23'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Хитрые Люди
+  city_id: 1
+- id: 26966
+  date: '2012-03-31'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Хитрые Люди
+  city_id: 1
+  price: бесплатный
+- id: 26987
+  date: '2012-03-30'
+  time: '19:00'
+  band_name: Михаил Константинович Щербаков
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 27300
+  date: '2012-04-20'
+  time: '20:00'
+  band_name: Лойко
+  club_name: Rec Time
+  city_id: 2
+  price: 500-1000 рублей
+- id: 27651
+  date: '2012-05-04'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Квартира 44
+  city_id: 1
+  price: бесплатный
+- id: 26989
+  date: '2012-04-06'
+  time: '19:00'
+  band_name: Валерий Чечет с песнями Ю.Визбора и Ю.Кукина
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 27118
+  date: '2012-04-06'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_name: Сретенка 26, метро Сухаревская, клуб Завтра
+  city_id: 1
+  price: 100 руб.
+- id: 27119
+  date: '2012-04-13'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_name: метро Полянка, клуб квартира44
+  city_id: 1
+- id: 26366
+  date: '2012-03-18'
+  time: '19:00'
+  band_name: Дебора Браун (вокал, США), Михаил Окунь (фортепиано), Макар Новиков (контрабас),
+    Уиллард Дайсон (ударные, США), Сергей Головня (тенор-саксофон, флейта)
+  club_name: Большой зал Московской государственной консерватории
+  city_id: 1
+- id: 26571
+  date: '2012-03-31'
+  time: '20:00'
+  band_name: Max Tavrichesky
+  club_name: кафе "Соборная Площадь" ул.Б.Московская,39.т.32-57-25
+  city_id: 3
+  price: 200 руб.
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 26386
+  date: '2012-03-14'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Кофеон
+  city_id: 1
+  price: бесплатный
+- id: 26387
+  date: '2012-03-20'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Хитрые Люди
+  city_id: 1
+  price: бесплатный
+- id: 26635
+  date: '2012-03-31'
+  time: '14:00'
+  band_id: 552
+  band_name: Колдстрим
+  band_token: coldstrim
+  club_name: Медиа Маркт на Каширке
+  city_id: 1
+  price: бесплатный
+  comments: Концерт-презентация дебютного альбома группы КОЛДСТРИМ. Вход СВОБОДНЫЙ
+- id: 26436
+  date: '2012-03-22'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_name: old school pub
+  city_id: 1
+  price: бесплатный
+- id: 26747
+  date: '2012-09-28'
+  time: '20:30'
+  band_name: The Kooks
+  club_name: Stadium-live
+  city_id: 1
+  price: 1490 руб.
+- id: 26903
+  date: '2012-04-06'
+  time: '19:00'
+  band_name: Marimba Plus, Адриан Санчес (Adrian Sanchez) - Испания
+  club_name: Дворец Культуры МГТУ им. Баумана
+  city_id: 1
+  price: 500-1000
+  comments: "Дворец Культуры МГТУ им. Баумана\r\n(м. Бауманская, Рубцовская наб.,\
+    \ 2/18, тел. (499)-263-62-61)\r\n\r\nБилеты во всех театральных кассах Москвы!\r\
+    \n\r\n+++\r\n\r\nКонцерт Viva Flamenco был одним из первых событий официальной\
+    \ программы Года Испании в России в 2011 году. И по многочисленным просьбам зрителей\
+    \ он вновь прозвучит в Москве, в большом современном концертном зале Дворца Культуры\
+    \ МГТУ им. Баумана.\r\n\r\nВ этом проекте соединились традиции фламенко, джазовые\
+    \ импровизации, авторская и народная музыка, разноплановый вокал и настоящее музыкальное\
+    \ путешествие в ярких красках разных стран. Создав проект \"Этнодрайв\", Marimba\
+    \ Plus увлеченно работали с этническими музыкальными традициями разных стран,\
+    \ результатом чего в 2012 году стала их новая программа \"Путешествие по миру\"\
+    , фрагменты которой также прозвучат в концерте 6 апреля.\r\n\r\nКонцерт \"Viva\
+    \ Flamenco!\" - это темпераментное фламенко, зажигающее на сцене глубокие страсти,\
+    \ - сама суть испанской души. Самое главное в исполнении фламенко - дуэнде. Это\
+    \ слово, буквально обозначающее \"дух\", \"чувство\", \"магия\", передает особое\
+    \ состояние, вдохновение исполнителя. Без дуэнде фламенко лишено смысла, ибо не\
+    \ может выразить идею настоящей свободы, некогда заложенную вольными таборами\
+    \ цыган.\r\n\r\nОдин из лучших исполнителей фламенко - испанец Адриан Санчес (Adrian\
+    \ Sanchez) - танцовщик из Гранады, продолжающий традиции \"puro flamenco\", танцовщик\
+    \ уникальный, соединяющий в своем творчестве народное фламенко и новые веяния\
+    \ культуры фламенко. О своем деле Адриан Санчес говорит так: \" Танец означает\
+    \ выражение всех чувств и переживаний души с помощью тела... Танцевать - значит\
+    \ уметь выразить себя через движение, в четком шаге, взгляде, через сердце...\"\
+    \r\nАдриан в полной мере владеет дуэнде. Его танец делает духовное материальным,\
+    \ его тело передает чувства души. Танец Санчеса - это жгучая смесь техники, мужественности\
+    \ и внутреннего огня.\r\n\r\nСпециальные гости концерта:\r\n\r\nЮлия Плахотина\
+    \ - танцовщица фламенко, президент Российской Федерации Фламенко, руководитель\
+    \ комитета фламенко в IDO (International Dance Organization),\r\nАлександр Гайдук\
+    \ - гитара;\r\nТатьяна Шишкова - вокал,\r\nГеннадий Лаврентьев - скрипка, табла,\r\
+    \nКирилл Россолимо - кахон.\r\n\r\nПодробности:\r\nАнсамбль Marimba Plus www.marimbaplus.ru\r\
+    \nОфициальный сайт Адриана Санчеса: www.adrianflamenco.com"
+  extra_bands:
+  - id: 512
+    name: Marimba Plus
+    token: marimba-plus
+- id: 27310
+  date: '2012-04-21'
+  time: '20:00'
+  band_name: No Comments
+  club_name: Заводные Яйца
+  city_id: 2
+- id: 27139
+  date: '2012-04-11'
+  time: '19:00'
+  band_name: Джазовая Гостиная Григория Погосяна. Osipov Band
+  club_name: Ресторан "Мангалов"
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 27326
+  date: '2012-05-01'
+  time: '20:00'
+  band_name: Петрович Бэнд-Уездные хроники
+  club_name: Дом ученых - Пущино
+  city_id: 1
+  price: 100 руб.
+  extra_bands:
+  - id: 232
+    name: Петрович Бэнд
+    token: petrovich-band
+- id: 27312
+  date: '2012-04-22'
+  band_name: Elephant & Castle
+  club_name: Red Fox
+  city_id: 2
+- id: 27319
+  date: '2012-04-24'
+  time: '19:00'
+  band_name: Ковчег (акустика)
+  club_name: Концертный зал у Финляндского
+  city_id: 2
+- id: 27256
+  date: '2012-04-21'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Fashion Pub
+  city_id: 1
+- id: 27308
+  date: '2012-05-06'
+  time: '17:00'
+  band_name: ДрФест
+  club_name: СluBar
+  city_id: 2
+  price: 200-400 рублей
+- id: 27320
+  date: '2012-04-25'
+  time: '20:00'
+  band_name: Чертополох-бэнд
+  club_name: Арт-кросс
+  city_id: 2
+- id: 27318
+  date: '2012-04-23'
+  time: '23:00'
+  band_name: Пока не начался Джазз - ночной джазовый джем, True Flavas DJs
+  club_name: Griboedov Hill
+  city_id: 2
+- id: 27648
+  date: '2012-05-10'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Konzas Street Bar
+  city_id: 2
+  price: 150 руб.
+- id: 27649
+  date: '2012-05-18'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Sorry Mama Bar
+  city_id: 2
+  price: бесплатный
+- id: 27737
+  date: '2012-05-28'
+  time: '19:00'
+  band_name: Линии Жизни, Волга-Волга
+  club_name: КВЦ "Губернский"
+  city_id: 101
+  price: 300 руб.
+  extra_bands:
+  - id: 554
+    name: Линии Жизни
+    token: linii-zhizni
+- id: 27738
+  date: '2012-05-12'
+  time: '21:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Веранда
+  city_id: 78
+  price: 150 руб.
+- id: 27739
+  date: '2012-05-25'
+  time: '20:00'
+  band_id: 554
+  band_name: Линии Жизни
+  band_token: linii-zhizni
+  club_name: Волга
+  city_id: 101
+  comments: Акустика
+- id: 27709
+  date: '2012-06-06'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: теплоход Сильвер
+  city_id: 1
+- id: 27742
+  date: '2012-05-22'
+  time: '20:00'
+  band_id: 454
+  band_name: Osipov Friends
+  band_token: osipov-friends
+  club_name: Jazz Club "Квадрат". Филармония джазовой музыки.
+  city_id: 2
+- id: 27647
+  date: '2012-05-03'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Konzas Street Bar
+  city_id: 2
+  price: 150 руб.
+- id: 27650
+  date: '2012-05-12'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: стейк-хаус Ковбой
+  city_id: 1
+  price: .
+- id: 27774
+  date: '2012-05-27'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Блюзовый Фестиваль
+  city_id: 51
+- id: 27850
+  date: '2012-05-24'
+  time: '20:00'
+  band_id: 454
+  band_name: Osipov Friends
+  band_token: osipov-friends
+  club_name: 48 Стульев
+  city_id: 2
+- id: 27851
+  date: '2012-05-23'
+  time: '18:30'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Центральный Дом Ученых
+  city_id: 1
+  price: 300 руб.
+- id: 27838
+  date: '2012-05-24'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Konzas Street Bar
+  city_id: 2
+- id: 27881
+  date: '2012-06-02'
+  time: '20:00'
+  band_name: Jimmy Woodser Blues Band (Орел), Mississippi Twins (Москва), PsycheDELTA
+    Blues Band (Москва)
+  club_name: '"Pint House"'
+  city_id: 98
+  price: 300 руб., 350 руб.
+  comments: открытый блюзовый джем "Встречи на Перекрестке"
+  extra_bands:
+  - id: 507
+    name: Jimmy Woodser Blues Band
+    token: jwbb
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+- id: 27839
+  date: '2012-05-31'
+  time: '20:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Konzas Street Bar
+  city_id: 2
+- id: 27841
+  date: '2012-05-20'
+  time: '18:00'
+  band_name: New Day Blues Band, Само Собой (soft-rock), Кукла Вуду (post-grunge),
+    Tracy
+  club_name: '"7 Док" (Докер Паб)'
+  city_id: 70
+  price: 25 грн.
+  extra_bands:
+  - id: 297
+    name: New Day Blues Band
+    token: new-day-blues-band
+- id: 27933
+  date: '2012-05-25'
+  time: '21:00'
+  band_name: C.L.O.N.E., Smitanaband и спецгости
+  club_name: Кафе-бар "Этре"
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 261
+    name: Smitanaband
+    token: smitana-band
+  - id: 262
+    name: C.L.O.N.E.
+    token: clone
+- id: 28154
+  date: '2012-06-30'
+  time: '15:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_name: Площадка ДОСААФ ЮВАО в парке Кузьминки
+  city_id: 1
+  price: бесплатный
+- id: 28220
+  date: '2012-06-29'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Будвайзер Люсиновская ул., д. 9
+  city_id: 1
+- id: 28213
+  date: '2012-06-01'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Будвайзер   Люсиновская ул., д. 9
+  city_id: 1
+- id: 28476
+  date: '2012-06-15'
+  time: '18:00'
+  band_name: Третий "Квартирник". Антон Духовской, Сергей Калугин, Григорий Данской,
+    Наталья Гермогентова, Саша Ветров, Дмитрий Максимачев,, Роман Филиппов
+  club_name: Михайловский сад
+  city_id: 2
+  price: символически платный
+- id: 28501
+  date: '2012-06-11'
+  time: '14:00'
+  band_name: Фестиваль "Классика и Джаз"
+  club_name: Государственный музей-заповедник "Царицыно"
+  city_id: 1
+- id: 28502
+  date: '2012-06-12'
+  time: '14:00'
+  band_name: Фестиваль "Классика и Джаз"
+  club_name: Государственный музей-заповедник "Царицыно"
+  city_id: 1
+- id: 28519
+  date: '2012-06-14'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Кому ОхотаКому  Охота   м.Бауманская, ул. Фридриха Энгельса, д. 3-5,
+    стр.4
+  city_id: 1
+- id: 28581
+  date: '2012-06-25'
+  time: '19:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_name: Фестиваль чешской кухни (парк Сокольники)
+  city_id: 1
+- id: 28516
+  date: '2012-06-14'
+  time: '19:00'
+  band_name: Orquesta Buena Vista Social Club
+  club_name: Сад Эрмитаж
+  city_id: 1
+- id: 28579
+  date: '2012-06-30'
+  time: '15:00'
+  band_name: Avocado Band, Boogie Child, White Hound Blues Band, Shaky Jake, Театр
+    исторического костюма "РЕТРОДЕФИЛЕ" Юлии Вдовиной, Red Brick Boys, The Telescopes,
+    Happy Penguins, Зеленая Лиса, Jolly Fish, "Школа танцев в стиле свинг", Rockin'
+    Dad, The Marshmallows, Владимир Эйсмонт (Минск - Белоруссия)
+  club_name: Площадка ДОСААФ ЮВАО в парке Кузьминки
+  city_id: 1
+  price: бесплатно
+  extra_bands:
+  - id: 405
+    name: White Hound Blues Band
+    token: whbb
+  - id: 129
+    name: Зеленая Лиса
+    token: green-fox
+  - id: 569
+    name: Avocado Band
+    token: avocado
+  - id: 461
+    name: Boogie Child
+    token: boogie-child
+  - id: 70
+    name: Rockin' Dad
+    token: rockindad
+  - id: 573
+    name: Shaky Jake
+    token: shaky-jake
+- id: 28624
+  date: '2012-07-05'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 28625
+  date: '2012-07-19'
+  time: '20:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 200 руб.
+- id: 29457
+  date: '2012-08-30'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: Re:public club
+  city_id: 17
+  price: '30.000'
+- id: 29551
+  date: '2012-09-08'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Серпухов
+  city_id: 1
+- id: 29602
+  date: '2012-08-29'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Сейчас
+  city_id: 1
+  price: бесплатный
+- id: 29607
+  date: '2012-09-01'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT rock club на Революционной 9
+  city_id: 17
+- id: 29612
+  date: '2012-09-12'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Сейчас
+  city_id: 1
+  price: бесплатный
+- id: 29613
+  date: '2012-09-19'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Сейчас
+  city_id: 1
+  price: бесплатный
+- id: 28674
+  date: '2012-06-30'
+  time: '13:00'
+  band_name: 'Фестиваль "Сотворение Мира": Дроздов бэнд, Red Elvises (USA), Уленшпигель,
+    Алла Костина, Pelado Guru'' (Уругвай, RU), Weloveyouwinona, Отзвуки Му, Авиа,
+    The Fires on Tongue, Thalamus (GER), Скворцы Степанова, Мегаполис, Dikanda (PL),
+    Starship Z (Татарстан, AU, GER), ДахаБраха & Port Mone (UA, BY), Leogun (UK),
+    John McLaughlin (UK) & Remember Shakhti (Индия), Bjorn Berge (NO), Воскресение
+    & Андрей Макаревич, Faith No More (USA)'
+  club_name: Городская Эспланада
+  city_id: 33
+  extra_bands:
+  - id: 136
+    name: Red Elvises
+    token: red-elvises
+- id: 28855
+  date: '2012-07-01'
+  time: '20:00'
+  band_name: Лойко
+  club_name: Студия Rec Time
+  city_id: 2
+  price: 500 руб.
+- id: 29056
+  date: '2012-07-21'
+  time: '19:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: Наша среда обитания,Ленинский пр. 95,89038544069
+  city_id: 7
+  price: 150 руб.
+- id: 29385
+  date: '2012-08-07'
+  time: '20:00'
+  band_name: Петрович Бэнд-Уездные хроники
+  club_name: Улица Кирова
+  city_id: 18
+  price: бесплатный
+  extra_bands:
+  - id: 232
+    name: Петрович Бэнд
+    token: petrovich-band
+- id: 30071
+  date: '2012-09-19'
+  time: '19:30'
+  band_name: Даша Емельяненко
+  club_name: Новая Африка
+  city_id: 2
+  price: 150 рублей
+- id: 30072
+  date: '2012-09-20'
+  time: '19:30'
+  band_name: Силя и Выход-Лайт
+  club_name: Новая Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30003
+  date: '2012-09-08'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: паб бостон
+  city_id: 1
+- id: 30073
+  date: '2012-09-21'
+  time: '19:00'
+  band_name: Вечеринка Менестрелей
+  club_name: Новая Африка
+  city_id: 2
+  price: Шляпа
+- id: 30045
+  date: '2012-09-28'
+  time: '20:00'
+  band_name: Петрович Бэнд-Уездные хроники Вологда
+  club_name: 1 й Паб
+  city_id: 18
+  price: бесплатный
+  extra_bands:
+  - id: 232
+    name: Петрович Бэнд
+    token: petrovich-band
+- id: 30082
+  date: '2012-09-29'
+  time: '19:00'
+  band_id: 149
+  band_name: Ольга Арефьева и "Ковчег"
+  band_token: ark
+  club_name: Концертный зал у Финляндского
+  city_id: 2
+  price: 500 - 1200 рублей
+- id: 30083
+  date: '2012-09-27'
+  time: '19:00'
+  band_name: Prattica terza, Наталья Костина, немецкая музыка восемнадцатого века
+  club_name: Музей-усадьба Г. Р. Державина
+  city_id: 2
+  price: 400 рублей
+- id: 30068
+  date: '2012-09-20'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 30074
+  date: '2012-09-23'
+  time: '19:30'
+  band_name: Помело
+  club_name: новая Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30075
+  date: '2012-09-30'
+  time: '19:00'
+  band_name: Фолк-рок-вечеринка. Eliva... Band, Архипелаг,, Макс Жерновой (Вереск),
+    Валерия Иванова (Великий Новгород)
+  club_name: Новая Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30077
+  date: '2012-10-04'
+  time: '19:00'
+  band_name: 'Акустический рок-фест: гр. Крылья и друзья'
+  club_name: Новая Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30078
+  date: '2012-10-05'
+  time: '19:00'
+  band_name: День рождения Альфа Кэбра
+  club_name: Новая Африка
+  city_id: 2
+- id: 30424
+  date: '2012-10-03'
+  time: '20:00'
+  band_name: Jimmy C & The Boneshakers
+  club_name: Первый Паб
+  city_id: 101
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+- id: 30426
+  date: '2012-10-05'
+  time: '21:00'
+  band_name: Jimmy C & The Boneshakers
+  club_name: Веранда
+  city_id: 78
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+- id: 30433
+  date: '2012-09-29'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: паб Бостон
+  city_id: 1
+  price: бесплатный
+- id: 30435
+  date: '2012-10-11'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: арт-кафе "Riverside"
+  city_id: 1
+  price: 300 руб.
+- id: 30625
+  date: '2012-10-04'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club на Революционной 9
+  city_id: 17
+- id: 30626
+  date: '2012-10-27'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club на Революционной 9
+  city_id: 17
+- id: 30636
+  date: '2012-10-14'
+  time: '20:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: Живое ТВ
+  city_id: 1
+  price: бесплатный
+- id: 30639
+  date: '2012-10-16'
+  time: '20:00'
+  band_name: Dr. Nick, джем
+  club_name: СейЧас
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30674
+  date: '2012-11-06'
+  time: '20:00'
+  band_name: Dr. Nick, винилка Pink Floyd part 2
+  club_name: СейЧас
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30675
+  date: '2012-11-13'
+  time: '20:00'
+  band_name: Dr. Nick, винилка Rolling Stones
+  club_name: СейЧас
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30676
+  date: '2012-11-20'
+  time: '20:00'
+  band_name: Dr. Nick, винилка Rolling Stones 2
+  club_name: СейЧас
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30635
+  date: '2012-10-13'
+  time: '21:00'
+  band_id: 592
+  band_name: Чемякин & Винтер
+  band_token: chewin
+  club_name: NewBar
+  city_id: 6
+  price: 100 руб.
+  comments: "13 октября в 21.00 - в New Bar (8 марта, 8-д) состоится большой сольный\
+    \ концерт дуэта блюзовых гитаристов \"Чемякин & Винтер\"!\r\n\r\nМузыканты снова\
+    \ порадуют зрителей программой, состоящей из акустических блюзовых композиций.\
+    \ В основе этого вечера - песни мастеров дельта-блюза: Big Bill Broonzy, Robert\
+    \ Johnson, Howlin' Wolf, John Lee Hooker и др. Музыка, выдержанная временем, никого\
+    \ не оставит равнодушным! Не обойдется и без сюрпризов - в этот раз музыканты\
+    \ сыграют в расширенном составе! Вместе с ними на сцену выйдет ритм-секция! Вечер\
+    \ обещает быть жарким и интересным!\r\n\r\n\"Чемякин & Винтер\" - акустический\
+    \ дуэт профессиональных гитаристов из Екатеринбурга. В 2011 г. музыканты стали\
+    \ участниками международного фестиваля \"Блюграсс на Уральских горах\". В июле\
+    \ 2012 г. стали организаторами летнего блюзового концерта-фестиваля \"Чемякин,\
+    \ Винтер и друзья\". На концертах музыканты всегда создают непринужденную обстановку,\
+    \ вовлекая зрителей в происходящее действие.\r\n\r\nБлюз - это всегда особая уютная\
+    \ атмосфера, своеобразный музыкальный разговор между близкими по духу людьми.\
+    \ \r\n\r\nПриходите, мы вас всех очень ждем!\r\n\r\nЧиВ \r\n\r\nВход - 100 р.\r\
+    \nАдрес: (8 марта, 8-д, вход со двора)\r\n\r\nСтраница встречи: http://vk.com/event43603701"
+- id: 30637
+  date: '2012-10-24'
+  time: '21:00'
+  band_name: Dr. Nick, винилка Led Zeppelin
+  club_name: СейЧас
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30638
+  date: '2012-10-31'
+  time: '21:00'
+  band_name: Dr. Nick, винилка Pink Floyd
+  club_name: СейЧас
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30663
+  date: '2012-10-27'
+  time: '19:00'
+  band_name: Трегер, Ковалев, Зубов, Духовской и Алексеев
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+  price: 300-600 рублей
+- id: 30862
+  date: '2012-11-17'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock club
+  city_id: 17
+- id: 30703
+  date: '2012-11-18'
+  time: '19:00'
+  band_name: Джон Маклафлин (гитара) и "The Fourth Dimension" (Великобритания)
+  club_name: Театр музкомедии
+  city_id: 17
+- id: 30787
+  date: '2012-10-19'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_name: Музей  и галереи современного искусства "Эрарта"
+  city_id: 2
+  price: 300-400 руб.
+- id: 30790
+  date: '2012-10-17'
+  time: '19:30'
+  band_name: 'Кантри Вечеринка: , Южанин Бэнд, Дед и Девицы'
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 30791
+  date: '2012-10-21'
+  time: '19:30'
+  band_name: Наталья Пащенко
+  club_name: Восточная Африка
+  city_id: 2
+  price: 250 рублей
+- id: 30792
+  date: '2012-10-23'
+  time: '19:30'
+  band_name: Даша Емельяненко
+  club_name: Африка на Фонтанке
+  city_id: 2
+  price: 150 рублей
+- id: 30794
+  date: '2012-10-26'
+  time: '19:00'
+  band_name: Простофест:, • Чужие сны, • Территория отчуждения, а также гости из Москвы:,
+    • Фелида, • Проект 3х3", • Летчик Потапов
+  club_name: Восточная Африка
+  city_id: 2
+  price: нисколько
+- id: 30796
+  date: '2012-10-28'
+  time: '19:30'
+  band_name: Тэм Гринхилл
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 30798
+  date: '2012-11-01'
+  time: '20:00'
+  band_name: AFT-Rio (Brasil Jazz)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30799
+  date: '2012-11-02'
+  time: '19:30'
+  band_name: Даша Емельяненко
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 30800
+  date: '2012-11-03'
+  time: '19:00'
+  band_name: Свет Негасимых (акустика)+ гости-музыканты (уточняются)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30801
+  date: '2012-11-04'
+  time: '19:00'
+  band_name: Дмитрий Кошелев (Москва)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30803
+  date: '2012-11-09'
+  time: '19:00'
+  band_name: Мьелльнир, Дорога к Дому
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30804
+  date: '2012-11-10'
+  time: '19:00'
+  band_name: Александр Дьяченко - Проект гитарных импровизаций, гитара
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30806
+  date: '2012-11-14'
+  time: '20:00'
+  band_name: Стас Березовский
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30807
+  date: '2012-11-15'
+  time: '20:00'
+  band_name: Анна Берлинская (латина, босса, чачача)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30808
+  date: '2012-11-16'
+  time: '19:00'
+  band_name: Посиделки менестрелей
+  club_name: Восточная Африка
+  city_id: 2
+  price: Сбор в шляпу
+- id: 30809
+  date: '2012-11-17'
+  time: '19:00'
+  band_name: 'Вечер средневековой музыки: Lorem Ipsum'
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30810
+  date: '2012-11-18'
+  time: '19:30'
+  band_name: Кузя и Ко (ех-Помело)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30812
+  date: '2012-11-23'
+  time: '19:30'
+  band_name: Ad Libitum, Остролист, Вереск
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 30818
+  date: '2012-11-02'
+  time: '19:00'
+  band_name: Чемякин & Винтер, Инхутэ, Алексей Багичев
+  club_name: Музей им. Решетникова
+  city_id: 6
+  price: 100 руб.
+  comments: "В музее им. Решетникова соберутся музыканты Екатеринбурга и Тобольска,\
+    \ чтобы порадовать вас своими песнями, исполненными в акустике! \r\nФормат акустических\
+    \ концертов предполагает собой спокойную уютную обстановку, свободное общение\
+    \ с музыкантами, разговоры и, конечно же, песни. Пятничным вечером мы соберемся\
+    \ все вместе, чтобы поделиться с вами хорошей музыкой и отличным настроением!\
+    \ Прозвучат как старые, известные всем песни, так и новые авторские композиции.\r\
+    \n\r\nЭтим вечером сыграют:\r\n\r\n- Алексей Багичев - автор-исполнитель, лидер\
+    \ группы \"Клевер\"\r\n- Этноблюзовый дуэт \"Интухэ\" (г.Тобольск) - Сергей Козлов\
+    \ и Анастасия Пудова.\r\n- \"Чемякин & Винтер\" - акустический блюзовый дуэт из\
+    \ г. Екатеринбурга.\r\n\r\nДата: 2 ноября\r\nВремя: 19.00\r\nАдрес: Пролетарская,\
+    \ 6 (Музей Ф.М. Решетникова)\r\nВход - 100 руб.\r\n\r\nВопросы и дополнительная\
+    \ информация по тел.: 8 (904) 984-15-53"
+  extra_bands:
+  - id: 592
+    name: Чемякин & Винтер
+    token: chewin
+- id: 30833
+  date: '2012-10-30'
+  time: '20:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_name: Живой Уголок
+  city_id: 1
+  price: 300 руб.
+  comments: "Предвкушая выход своего дебютного альбома на знаменитой фирме Leo Records,\
+    \ импровизаторы из GoaT's NoteS дают в Москве два особенных концерта с участием\
+    \ одного из своих основателей, контрабасиста Владимира Кудрявцева, с недавних\
+    \ пор живущего во Франции. Именно звучание контрабаса Кудрявцева наполняет музыку\
+    \ ансамбля характерным смысловым \"мясом\"\r\n\r\n30 октября на сцене клуба Живой\
+    \ Уголок вы сможете услышать группу в ее оригинальном составе, принимавшем участие\
+    \ в записи пластинки - в последнее время это большая редкость:\r\n\r\nМария Логофет\
+    \ - скрипка\r\nАндрей Бессонов - кларнет\r\nИлья Вилков - тромбон\r\nГригорий\
+    \ Сандомирский - клавишные\r\nВладимир Кудрявцев - контрабас\r\nПетр Талалай -\
+    \ барабаны\r\n\r\nА 4 ноября в клубе Алексея Козлова к GoaT's NoteS присоединятся\
+    \ замечательные гости - саксофонист Юрий Севастьянов и мультиинструменталист Кирилл\
+    \ Паренчук - и вам представится шанс услышать практически единственный в своем\
+    \ роде небольшой импровизирующий оркестр.\r\n\r\nКлуб Живой Уголок, Серпуховский\
+    \ Вал ул., 17, корп. 1 Москва\r\nНачало в 20-00 вход 300 р."
+- id: 30861
+  date: '2012-11-16'
+  time: '21:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: кафе "Пеппер"
+  city_id: 1
+- id: 31497
+  date: '2012-11-02'
+  time: '17:00'
+  band_name: Светлана Патрушева
+  club_name: Ом
+  city_id: 19
+- id: 31501
+  date: '2012-11-02'
+  time: '22:00'
+  band_name: Quest Pistols
+  club_name: Guevara
+  city_id: 19
+- id: 31504
+  date: '2012-11-03'
+  time: '19:30'
+  band_name: Пришельцы
+  club_name: Ом
+  city_id: 19
+- id: 31505
+  date: '2012-11-03'
+  time: '20:00'
+  band_name: Жажда
+  club_name: Оранж-центр
+  city_id: 19
+- id: 31487
+  date: '2012-11-09'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_name: J.Gilroy's pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 31523
+  date: '2012-11-09'
+  time: '19:00'
+  band_name: Гару (Канада)
+  club_name: Театр оперы и балета
+  city_id: 19
+- id: 31528
+  date: '2012-11-10'
+  time: '20:00'
+  band_name: Sage
+  club_name: Ом
+  city_id: 19
+- id: 31529
+  date: '2012-11-10'
+  time: '20:00'
+  band_name: Женщина с Бородой
+  club_name: Оранж-центр
+  city_id: 19
+- id: 31538
+  date: '2012-11-15'
+  time: '19:00'
+  band_name: Papa Roach (USA)
+  club_name: Отдых
+  city_id: 19
+- id: 31541
+  date: '2012-11-16'
+  time: '20:00'
+  band_name: Мираж
+  club_name: Отдых
+  city_id: 19
+- id: 31550
+  date: '2012-11-21'
+  time: '19:00'
+  band_name: Кай Метов
+  club_name: ДК им. Чкалова
+  city_id: 19
+- id: 31623
+  date: '2012-11-02'
+  time: '21:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Steiku Haoss, Audeju str.2
+  city_id: 61
+  price: бесплатный
+- id: 31624
+  date: '2012-11-09'
+  time: '21:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Steiku Haoss, Mestaru str.25
+  city_id: 61
+  price: бесплатный
+- id: 31625
+  date: '2012-11-24'
+  time: '21:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Steiku Haoss, Mestaru str.25
+  city_id: 61
+  price: бесплатный
+- id: 31626
+  date: '2012-11-23'
+  time: '22:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Fontain Palace, Liepaja
+  city_id: 61
+  price: 400 руб.
+- id: 31631
+  date: '2012-11-15'
+  time: '19:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: MesAmis
+  city_id: 55
+- id: 31632
+  date: '2012-11-16'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Маяк
+  city_id: 41
+- id: 31661
+  date: '2012-11-24'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Мумикафе
+  city_id: 1
+- id: 31717
+  date: '2012-11-10'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '"Chalet"    МО, Химки, Кантри Парк, Панфилова 19'
+  city_id: 1
+- id: 31718
+  date: '2012-11-16'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '"клуб-отель "Высокое"   г. Смоленск'
+  city_id: 31
+- id: 31730
+  date: '2012-12-04'
+  time: '20:00'
+  band_name: Dr. Nick, винилка
+  club_name: СейЧас
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 31627
+  date: '2012-11-16'
+  time: '22:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Aleksandri Pub, Parnu, Estonia
+  city_id: 61
+  price: бесплатный
+- id: 31628
+  date: '2012-11-17'
+  time: '22:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_name: Somewere in Kaunas, Letland
+  city_id: 61
+  price: бесплатный
+- id: 31637
+  date: '2012-11-23'
+  time: '20:45'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Leroy
+  city_id: 1
+- id: 31714
+  date: '2012-11-15'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 31774
+  date: '2012-11-21'
+  time: '20:00'
+  band_id: 223
+  band_name: Saint Petes Blues
+  band_token: spb-blues
+  club_name: Джон Сильвер
+  city_id: 2
+  price: 0 рублей
+  comments: Проспект Просвещения, 49
+- id: 31775
+  date: '2012-11-23'
+  time: '20:00'
+  band_id: 297
+  band_name: New Day Blues Band
+  band_token: new-day-blues-band
+  club_name: Паб "7 Док", бульвар Шевченко 65
+  city_id: 70
+  price: 20 грн.
+- id: 31788
+  date: '2012-12-14'
+  time: '22:00'
+  band_name: Эд Губайдуллин и Edison band
+  club_name: J.Gilroy's pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 31813
+  date: '2012-12-01'
+  time: '20:00'
+  band_name: Splav Band'a, The Bright Road
+  club_name: клуб-бар Желтая подводная лодка
+  city_id: 101
+  comments: концерт в рамках местного (не очень серьезного) конкурса
+  extra_bands:
+  - id: 612
+    name: Splav Band'a
+    token: splav
+- id: 31723
+  date: '2012-12-02'
+  time: '17:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_name: Белый зал Политехнического университета
+  city_id: 2
+  price: 200-350 руб
+- id: 31870
+  date: '2012-12-06'
+  time: '19:00'
+  band_name: Вечеринка Менестрелей
+  club_name: Восточная Африка
+  city_id: 2
+  price: Шляпа
+- id: 31873
+  date: '2012-12-09'
+  time: '19:00'
+  band_name: Африканда (Москва)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 31785
+  date: '2012-12-02'
+  time: '20:00'
+  band_name: '"Я любовь узнаю по боли..." - моноспектакль о любви в жизни Марины Цветаевой.
+    Автор идеи и исполнитель - Анна Гланц-Маргулис (Израиль).'
+  club_name: Студия Rec-Time
+  city_id: 2
+  price: 300 рублей
+- id: 31871
+  date: '2012-12-07'
+  time: '20:00'
+  band_name: Юлия Теунникова, Петр Акимов (Москва)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 31872
+  date: '2012-12-08'
+  time: '19:00'
+  band_name: Эмер (ex-Помело)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 31876
+  date: '2012-12-12'
+  time: '19:00'
+  band_name: Рок-сейшен "Чунга-Чанга"
+  club_name: Восточная Африка
+  city_id: 2
+  price: шляпа
+- id: 31877
+  date: '2012-12-15'
+  time: '19:00'
+  band_name: Meldis (Celtic Folk, Irish Harp) (Москва), Начало 19.00 вход 350р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 350 рублей
+- id: 31868
+  date: '2012-12-03'
+  time: '20:00'
+  band_name: Республика инструментальной музыки (фестиваль):, Елизавета Ланчина, Анастасия
+    Смелова,, Ольга Петрова, Виталина Блохина., Выпускники муз. колледжа имени Римского-Корсакова.,
+    В программе вечера:, Моцарт, Гайдн, Чайковский., Начало 20.00 вход 100р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 100 рулей
+- id: 31879
+  date: '2012-12-18'
+  time: '19:00'
+  band_name: Вечер Поэзии
+  club_name: Восточная Африка
+  city_id: 2
+  price: шляпа
+- id: 31880
+  date: '2012-12-19'
+  time: '19:00'
+  band_name: Драконь
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 31958
+  date: '2012-11-28'
+  time: '20:00'
+  band_id: 223
+  band_name: Saint Petes Blues
+  band_token: spb-blues
+  club_name: Джон Сильвер
+  city_id: 2
+  price: ноль
+- id: 32298
+  date: '2012-12-15'
+  time: '19:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Проект Облака
+  city_id: 8
+  price: 200 руб.
+- id: 32050
+  date: '2012-12-07'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Океан
+  city_id: 1
+  price: бесплатный
+- id: 32259
+  date: '2012-12-06'
+  time: '20:00'
+  band_id: 506
+  band_name: Post-Jazz Trio
+  band_token: post-jazz-trio
+  club_name: клуб "Алиби"
+  city_id: 1
+  price: 200 руб.
+- id: 32289
+  date: '2012-12-05'
+  time: '20:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: арт кафе Корова,http://city360.com.ua/korova/
+  city_id: 15
+  price: free
+- id: 32291
+  date: '2012-12-09'
+  time: '19:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: Проект Облака  http://vk.com/event46034246
+  city_id: 8
+  price: 200 руб.
+- id: 32294
+  date: '2012-12-14'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_name: Ресторан "Ян Примус"
+  city_id: 1
+- id: 32295
+  date: '2012-12-21'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_name: Ресторан "Ян Примус"
+  city_id: 1
+- id: 32303
+  date: '2012-12-09'
+  time: '16:00'
+  band_name: Дуэт "Рябиновые стрелы"
+  club_name: Планета, 3 этаж, Уют-холл (Парк Островского, 1 Конной Армии ул. дом 4А)
+  city_id: 11
+  price: 150 руб.
+  comments: "Ставшая уже доброй традицией декабрьская встреча дуэта \"Рябиновые Стрелы\"\
+    \ (Юлия Ломоносова и Виктор Сапов) с чуткими и благодарными слушателями. Презентация\
+    \ новейшего сольного альбома Юлии Ломоносовой \"Чудесные Дары\" и менестрельская\
+    \ программа \"Песни Томаса Лермонта\". Дружеское общение в теплой и уютной атмосфере\
+    \ клуба.\r\nВход: 150р. - добровольные пожертвования.\r\nЗаходи, путник!"
+- id: 32302
+  date: '2012-12-21'
+  time: '21:30'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Океан
+  city_id: 1
+  price: бесплатный
+  comments: "Чистый рок-н-ролл, облаченный в задорные формы и передаваемый энергетически\
+    \ позитивным составом замечательной группы ...что может быть лучше в день Конца\
+    \ света!? :) \r\n21 декабря 2012, Начало концерта в 22-00\r\nДепозит на входе\
+    \ - 500р (учитывается при оплате съеденного и выпитого :) \r\n\r\nhttp://oceanbar.ru/afisha.html"
+- id: 32301
+  date: '2012-12-10'
+  time: '19:00'
+  band_id: 615
+  band_name: Alizbar
+  band_token: alizbar
+  club_name: ул.Каслинская, 5, кор.2, здание "Леди-прима", 4 этаж, школа танго Buenos
+    Tangos, Челябинск
+  city_id: 38
+  price: 400-500 руб.
+  comments: "ALIZBAR (ЭЛИЗБАР) - венгерский мультиинструменталист, играет на нескольких\
+    \ десятках инструментах, в том числе, экзотических: аррай-мбира, циттерн, чаранго,\
+    \ бойран. Однако последнее время он известен в среде любителей этнической музыки\
+    \ как виртуоз-арфист, композитор, основатель и идейный вдохновитель группы \"\
+    Ann'Sannat\". В переводе с эльфийского языка Джона Рональда Руэла Толкина \"Ann'Sannat\"\
+    \ означает \"сказки, отображенные в песнях\".\r\nВид арфы, на которой играет Элизбар,\
+    \ широко распространен в Ирландии и почитается там как национальное достояние.\
+    \ Такой инструмент не используют арфисты академической школы, его нельзя услышать\
+    \ на концерте симфонической музыки."
+- id: 32746
+  date: '2012-12-22'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: J.Gilroy's pub
+  city_id: 1
+  price: бесплатно
+  comments: "С нами выступит замечательный гитарист и аранжировщик основатель и руководитель\
+    \ группы Dynamic James Виталий Дмитренко\r\n\r\nул. Братиславская дом 6 WELCOME"

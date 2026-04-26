@@ -1,0 +1,529 @@
+- id: 24409
+  date: '2012-01-25'
+  time: '21:00'
+  band_name: Анатолий Осипов и Друзья. Премьера.
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24411
+  date: '2012-02-15'
+  time: '20:00'
+  band_id: 454
+  band_name: Osipov Friends
+  band_token: osipov-friends
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+  comments: День рождения группы. Специальные гости. Каминный (верхний) зал.
+- id: 24562
+  date: '2012-01-08'
+  time: '20:00'
+  band_name: Полина Засорина (вокал) + джем-сейшн
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24563
+  date: '2012-01-18'
+  time: '21:00'
+  band_name: Квартет Андрея Марухина (клавишные)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24564
+  date: '2012-02-08'
+  time: '21:00'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24565
+  date: '2012-03-13'
+  time: '21:00'
+  band_name: Bingo Paprika. День рождения.
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+  extra_bands:
+  - id: 504
+    name: Bingo Paprika
+    token: bingo-paprika
+- id: 25988
+  date: '2012-03-01'
+  time: '21:00'
+  band_name: Квартет Андрея Плетнева (Екатеринбург) + Сергей Чашкин (гитара, Нью-Йорк)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24567
+  date: '2012-02-01'
+  time: '21:00'
+  band_name: Квартет Марии Арт (саксофон)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24613
+  date: '2012-01-15'
+  time: '20:00'
+  band_name: Юлиана Рогачева (вокал) + джем-сейшн
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24614
+  date: '2012-01-22'
+  time: '21:00'
+  band_name: Оксана Юхрина (вокал) + джем-сейшн
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 24869
+  date: '2012-02-09'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 25434
+  date: '2012-02-05'
+  time: '20:00'
+  band_name: Тамара Усатова (Berklee Music College, джаз, вокал) + джем-сейшн
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 25435
+  date: '2012-02-12'
+  time: '20:00'
+  band_name: Вероника Куликова (джаз, вокал) + джем-сейшн
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 25987
+  date: '2012-03-21'
+  time: '21:00'
+  band_id: 502
+  band_name: Живые Люди
+  band_token: livepeople
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 25989
+  date: '2012-03-07'
+  time: '21:00'
+  band_id: 370
+  band_name: Анатолий Герасимов
+  band_token: anatoly-gerasimov
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26119
+  date: '2012-03-24'
+  time: '21:00'
+  band_name: Женя Любич
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 500-1800 руб.
+- id: 26120
+  date: '2012-03-25'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26121
+  date: '2012-03-29'
+  time: '21:00'
+  band_name: Apple.sin
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 500-1800 руб.
+- id: 26122
+  date: '2012-03-30'
+  time: '21:00'
+  band_name: ArteFAQ ищет таланты
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26123
+  date: '2012-03-31'
+  time: '21:00'
+  band_name: Mujuice
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1200-3000 руб.
+- id: 26110
+  date: '2012-03-08'
+  time: '21:00'
+  band_name: Полюса
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400-1100 руб.
+- id: 26111
+  date: '2012-03-11'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26112
+  date: '2012-03-16'
+  time: '21:00'
+  band_name: Дебора Дэвис (США)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400-1100 руб.
+- id: 26113
+  date: '2012-03-17'
+  time: '21:00'
+  band_name: Александр Ф. Скляр
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 600-1100 руб.
+- id: 26114
+  date: '2012-03-18'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26115
+  date: '2012-03-20'
+  time: '21:00'
+  band_name: Argishty (армянский дудук)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300-1100 руб.
+- id: 26117
+  date: '2012-03-22'
+  time: '21:00'
+  band_name: Зарисовка
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300-1100 руб.
+- id: 26118
+  date: '2012-03-23'
+  time: '21:00'
+  band_name: Гоша Куценко
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 600-1800 руб.
+- id: 26106
+  date: '2012-03-02'
+  time: '21:00'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400-1100 руб.
+- id: 26107
+  date: '2012-03-03'
+  time: '21:00'
+  band_name: Scarlet Pills
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 200-1100 руб.
+- id: 26108
+  date: '2012-03-04'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 26109
+  date: '2012-03-06'
+  time: '21:00'
+  band_name: Jazz Pro
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 200 руб.
+- id: 27691
+  date: '2012-05-03'
+  time: '21:00'
+  band_name: Евгения Зима Band
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300, 1000 руб.
+- id: 27692
+  date: '2012-05-04'
+  time: '21:00'
+  band_name: Сансара
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400, 1000 руб.
+- id: 27693
+  date: '2012-05-05'
+  time: '21:00'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400, 1100 руб.
+- id: 27694
+  date: '2012-05-12'
+  time: '21:00'
+  band_name: Big Stuff
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 200, 600 руб.
+- id: 27695
+  date: '2012-05-18'
+  time: '21:00'
+  band_name: Алина Орлова
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1000, 2500 руб.
+- id: 27698
+  date: '2012-05-26'
+  time: '21:00'
+  band_id: 347
+  band_name: Маша и Медведи
+  band_token: masha-i-medvedi
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 500, 1200 руб.
+- id: 27699
+  date: '2012-05-31'
+  time: '21:00'
+  band_id: 290
+  band_name: Андрей Козловский
+  band_token: andrey-kozlovsky
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300 руб.
+- id: 27700
+  date: '2012-06-01'
+  time: '21:00'
+  band_id: 565
+  band_name: Ива Нова
+  band_token: iva-nova
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300, 1000 руб.
+- id: 27701
+  date: '2012-06-03'
+  time: '21:00'
+  band_name: Tres Muchachos
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400, 1200 руб.
+- id: 27702
+  date: '2012-06-08'
+  time: '21:00'
+  band_name: Pep-See
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 500, 1200 руб.
+- id: 27708
+  date: '2012-07-27'
+  time: '21:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 700, 2000 руб.
+- id: 27696
+  date: '2012-05-19'
+  time: '21:00'
+  band_name: Полюса
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400, 1200 руб.
+- id: 27697
+  date: '2012-05-24'
+  time: '21:00'
+  band_name: Рабфак
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 400, 1200 руб.
+- id: 27703
+  date: '2012-06-15'
+  time: '21:00'
+  band_name: Обе Две
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 500, 1200 руб.
+- id: 27704
+  date: '2012-06-21'
+  time: '21:00'
+  band_name: Зарисовка
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 300, 800 руб.
+- id: 27705
+  date: '2012-06-22'
+  time: '21:00'
+  band_name: Ирина Богушевская
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1100, 3000 руб.
+- id: 27706
+  date: '2012-06-29'
+  time: '21:00'
+  band_name: Гоша Куценко
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 600, 2500 руб.
+- id: 27707
+  date: '2012-07-20'
+  time: '21:00'
+  band_name: Ногу Свело
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 800, 2000 руб.
+  extra_bands:
+  - id: 320
+    name: Ногу свело!
+    token: nogu-svelo
+- id: 29068
+  date: '2012-07-22'
+  time: '20:00'
+  band_name: Юлия Алимова (вокал) и Jazz Forever Band
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 29455
+  date: '2012-08-12'
+  time: '20:00'
+  band_name: 'Елена Ловина (джаз, вокал) в составе: Елена Ловина - вокал, Татьяна
+    Жиляева - клавишные, Анатолий Осипов - саксофон, Владимир Черницын - контрабас,
+    Михаил Борычев - барабаны'
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 29456
+  date: '2012-08-12'
+  time: '22:00'
+  band_name: Джазовый джем-сейшн Михаила Борычева
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 30040
+  date: '2012-09-09'
+  time: '20:00'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 30041
+  date: '2012-09-09'
+  time: '22:00'
+  band_name: '"Jam Session". Открытый джазовый джем-сейшн Михаила Борычева'
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 29990
+  date: '2012-09-02'
+  time: '20:00'
+  band_name: Дарья Антонова (вокал) + jam session Михаила Борычева. (Дарья Антонова
+    - вокал, Олег Стариков - клавишные, Анатолий Осипов - саксофон, Владимир Черницын
+    - контрабас, Михаил Борычев - барабаны)
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: бесплатный
+- id: 30652
+  date: '2012-10-21'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+- id: 30653
+  date: '2012-10-28'
+  time: '20:00'
+  band_name: Jazz Conversations
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+- id: 30654
+  date: '2012-10-11'
+  time: '21:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1200 руб.
+- id: 30655
+  date: '2012-10-12'
+  time: '21:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1200 руб.
+- id: 30656
+  date: '2012-10-13'
+  time: '21:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 132
+  club_name: ArteFAQ
+  club_token: artefaq
+  price: 1200 руб.

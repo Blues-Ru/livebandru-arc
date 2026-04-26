@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>{% block title %}LiveBand.Ru{% endblock %}</title>
+    <link type="text/css" rel="stylesheet" href="/stage/favstyle.css">
+    <link rel="shortcut icon" href="/images/liveband.ico" />
+    <link rel="stylesheet" type="text/css" href="/stage/css/defaults.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/stage/css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/stage/css/print.css" media="print">
+  </head>
+  <body>
+    <div id="mainBox">
+      <div id="header" class="nopr">
+        <div class="bg bg{{ page_seed }}"></div>
+        <div class="logo">
+          <h4><a href="/"><span>Live Band</span></a></h4>
+        </div>
+        <div class="stripe">
+          {# login stripe removed — archive mode #}
+        </div>
+      </div>
+      <div class="nopr" id="lcol">
+        <div id="rubricator">
+          {% block nav %}
+          <h4><a href="/all/bands">Группы</a></h4>
+          <h4><a href="/all/clubs">Клубы</a></h4>
+          <h4><a href="/all/cities">Города</a></h4>
+          <h4><a href="/all/genres">Жанры</a></h4>
+          {% endblock %}
+        </div>
+      </div>
+      <div id="mcol">
+        <div class="contentZone">
+          {% block content %}{% endblock %}
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="nopr" id="footer">
+        <table>
+          <tr>
+            <td class="first"><a href="/about/">О проекте</a></td>
+            <td><a href="http://www.blues.ru">Blues.Ru</a></td>
+          </tr>
+        </table>
+        <p class="copyright">&copy; LiveBand. Архив 2001–2024.</p>
+      </div>
+    </div>
+  </body>
+</html>

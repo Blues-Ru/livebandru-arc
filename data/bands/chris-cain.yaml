@@ -1,0 +1,68 @@
+id: 766
+token: chris-cain
+name: Chris Cain
+aliases: Крис Кейн
+alive: true
+city_id: 13
+genre_id: 1
+musicians:
+- name: Крис Кейн
+  instruments: гитара, вокал
+clips:
+- id: 9209
+  type: youtube
+  url: https://youtu.be/9vpCMzviUGA
+  sort_order: 99
+- id: 9211
+  type: weblink
+  url: http://www.chriscainmusic.com/Cain_history.html
+  name: Официальный сайт
+  sort_order: 99
+- id: 9212
+  type: photo
+  url: chris-cain.jpg
+  sort_order: 0
+  width: 1124
+  height: 400
+- id: 9213
+  type: photo
+  url: chris-cain-2.jpg
+  sort_order: 100
+  width: 288
+  height: 420
+- id: 9210
+  type: youtube
+  url: https://youtu.be/JTnRHkym8Qg
+  sort_order: 199
+reviews:
+- id: 496
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Крис Кейн сам научился играть на гитаре в восемь лет и еще до совершеннолетия
+    начал выступать на профессиональной сцене. Крис поступил на музыкальное отделение
+    San Jose City College и вскоре начал преподавать джазовую импровизацию.
+
+
+    Кейн играет не только на соло- и бас-гитаре, но и на фортепиано, кларнете, альт-
+    и тенор-саксофонах.
+
+
+    Глубокий вокал и виртуозную игру на гитаре Криса Кейна часто сравнивают с БиБи
+    Кингом и Альбертом Кингом, при этом он создал собственный уникальный стиль, узнаваемый
+    с первой ноты.
+
+
+    В 2018 году калифорнийский музыкант Крис Кейн номинирован на премию Blues Music
+    Awards, как лучший гитарист года.
+
+
+    - - - - - -
+
+
+    "Крис Кейн - один из моих любимых блюзовых музыкантов всех времен и один из самых
+    недооцененных. Он влиял на мое творчество с тех пор, как я взял в руки гитару.
+    Кейн - это волшебное звучание, убойный голос и песни" Джо Бонамасса'
+  verified: true
+  created: '2018-08-30'
+  is_press_release: true

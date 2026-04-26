@@ -1,0 +1,15 @@
+- id: 25474
+  date: '2012-02-14'
+  time: '20:00'
+  band_name: Вечер джаза и свинга. Алан Ваше, Валерий Гроховский и Сергей Манукян
+  club_id: 568
+  club_name: Gotinaza
+  club_token: gotinaza
+  price: 1500 руб.
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan

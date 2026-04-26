@@ -1,0 +1,14 @@
+id: 574
+token: knizhnyj-magazin-moskva
+name: Книжный магазин Москва
+alive: true
+address: Воздвиженка, д.4/7, стр.1
+subway: Библиотека им. Ленина, Александровский сад
+phone: +7(495)212-2208
+city_id: 1
+clips:
+- id: 3253
+  type: weblink
+  url: http://www.moscowbooks.ru
+  name: Официальный сайт
+  sort_order: 0

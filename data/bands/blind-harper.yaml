@@ -1,0 +1,21 @@
+id: 425
+token: blind-harper
+name: Blind Harper
+alive: true
+city_id: 1
+genre_id: 4
+musicians:
+- name: Андрей Байрамов
+  instruments: боуран
+- name: Кирилл Расколенко
+  instruments: скрипка
+- name: Виктор Ливанов
+  instruments: гитара, мандолина
+- name: Александр Караваев
+  instruments: вистлы, ирландская волынка
+clips:
+- id: 2004
+  type: weblink
+  url: http://vk.com/club24149247
+  name: Страница ВКонтакте
+  sort_order: 99

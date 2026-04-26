@@ -1,0 +1,15 @@
+id: 372
+token: selenge
+name: Сэлэнгэ
+aliases: Ресторан Сэлэнгэ
+alive: true
+address: Малая Дмитровка, 23/15
+subway: Маяковская, Пушкинская, Тверская, Чеховская
+phone: (495) 650-30-27
+city_id: 1
+clips:
+- id: 1521
+  type: weblink
+  url: http://www.selenge.ru
+  name: Официальный сайт
+  sort_order: 0

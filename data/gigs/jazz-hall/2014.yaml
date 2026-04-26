@@ -1,0 +1,2837 @@
+- id: 40900
+  date: '2014-01-02'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente с программой
+    "Эль Карнавал"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40903
+  date: '2014-01-04'
+  time: '12:00'
+  band_name: 'Новогоднее эстрадное представление для детей "Шляпа волшебника": Театр
+    "Клоун-Герлз" и Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 40904
+  date: '2014-01-04'
+  time: '19:00'
+  band_name: Эльвира Трафова (вокал) и ансамбль Петра Корнева
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40911
+  date: '2014-01-18'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40915
+  date: '2014-01-24'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40899
+  date: '2014-01-01'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40901
+  date: '2014-01-03'
+  time: '12:00'
+  band_name: 'Новогоднее эстрадное представление для детей "Шляпа волшебника": Театр
+    "Клоун-Герлз" и Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 40902
+  date: '2014-01-03'
+  time: '19:00'
+  band_id: 355
+  band_name: Михаил Костюшкин и его ансамбль
+  band_token: kostushkin
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40905
+  date: '2014-01-05'
+  time: '19:00'
+  band_name: 'Вечер кубинской танцевальной музыки: Ансамбль "Мамбо-Комбо" Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40906
+  date: '2014-01-06'
+  time: '12:00'
+  band_name: 'Новогоднее эстрадное представление для детей "Шляпа волшебника": Театр
+    "Клоун-Герлз" и Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 40907
+  date: '2014-01-06'
+  time: '19:00'
+  band_name: 'Рождественский вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40908
+  date: '2014-01-15'
+  time: '19:00'
+  band_name: Квинтет Руслана Хаина (Нью-Йорк - Санкт-Петербург)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40909
+  date: '2014-01-16'
+  time: '19:00'
+  band_name: 'Вечер джазового вокала: Юлия Касьян, Юлия Михайловская и ансамбль Давида
+    Голощекина'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40910
+  date: '2014-01-17'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки: Давид Голощекин и его ансамбль, Эльвира Трафова
+    (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40912
+  date: '2014-01-19'
+  time: '19:00'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40913
+  date: '2014-01-22'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40914
+  date: '2014-01-23'
+  time: '19:00'
+  band_name: 'Посвящение Чарли Мингусу: Ансамбль Григория Воскобойника (контрабас)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40916
+  date: '2014-01-25'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40920
+  date: '2014-01-30'
+  time: '19:00'
+  band_name: 'Популярная джазовая классика: Акустик-Бэнд Ивана Васильева (труба)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40921
+  date: '2014-01-31'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40923
+  date: '2014-01-09'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40925
+  date: '2014-01-10'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40929
+  date: '2014-01-05'
+  time: '20:00'
+  band_name: Джаз-бэнд Федора Кувайцева (кларнет)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40917
+  date: '2014-01-26'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 40918
+  date: '2014-01-26'
+  time: '19:00'
+  band_name: Alexander Latin Band
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40919
+  date: '2014-01-29'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Владимир Лыткин, Станислав Стрельцов,
+    Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза - вокал; и оркестр
+    "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40922
+  date: '2014-01-07'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40924
+  date: '2014-01-08'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40926
+  date: '2014-01-11'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40927
+  date: '2014-01-12'
+  time: '19:00'
+  band_name: XIII Новогодний Фестиваль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40928
+  date: '2014-01-04'
+  time: '20:00'
+  band_name: 'Вечер губной гармоники: Максим Некрасов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40930
+  date: '2014-01-14'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40931
+  date: '2014-01-21'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40932
+  date: '2014-01-28'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40933
+  date: '2014-01-25'
+  time: '20:00'
+  band_name: Ансамбль Андрея Блинчевского (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 40934
+  date: '2014-01-18'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41642
+  date: '2014-02-01'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41643
+  date: '2014-02-02'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41654
+  date: '2014-02-15'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41665
+  date: '2014-02-01'
+  time: '20:00'
+  band_name: Real Джаз-квартет
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41666
+  date: '2014-02-04'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41667
+  date: '2014-02-11'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41668
+  date: '2014-02-18'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41669
+  date: '2014-02-25'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41670
+  date: '2014-02-22'
+  time: '20:00'
+  band_name: '"Играем Сильвера": Ансамбль "Арс-нова" п/у Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41671
+  date: '2014-02-15'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 41672
+  date: '2014-02-08'
+  time: '20:00'
+  band_name: Ансамбль Алексея Черемизова (фортепиано)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41644
+  date: '2014-02-05'
+  time: '19:00'
+  band_name: Давид Голощекин и его ансамбль, специальные гости - Илья Луштак, Джо
+    Фарнсворт (США)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41645
+  date: '2014-02-06'
+  time: '19:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41646
+  date: '2014-02-07'
+  time: '19:00'
+  band_name: Джо Фарнсворт - Илья Луштак квинтет (Нью-Йорк - Санкт-Петербург)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41647
+  date: '2014-02-08'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41648
+  date: '2014-02-09'
+  time: '12:00'
+  band_name: Джаз-бэнд Федора Кувайцева (кларнет)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41649
+  date: '2014-02-09'
+  time: '19:00'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41650
+  date: '2014-02-11'
+  time: '19:00'
+  band_name: 'VI молодежный международный фестиваль "Тесные контакты Хельсинки - Санкт-Петербург":
+    Mikko Sarvanne & the hip company (FIN), Jazz Philharmonic Orchestra Сергея Богданова
+    - Кирилла Бубякина (Санкт-Петербург)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41651
+  date: '2014-02-12'
+  time: '19:00'
+  band_name: Ансамбль Константина Хазановича - кларнет, при уч. Петра Востокова (труба,
+    Москва)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41652
+  date: '2014-02-13'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41653
+  date: '2014-02-14'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: ансамбль Easy Winners Ragtime Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41655
+  date: '2014-02-16'
+  time: '19:00'
+  band_name: Alexander Latin Band
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41656
+  date: '2014-02-19'
+  time: '19:00'
+  band_name: 'Вечер джазового вокала: Юлия Касьян, Юлия Михайловская и ансамбль Давида
+    Голощекина'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41657
+  date: '2014-02-20'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: Джаз-бэнд Александра Скрыпника'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41658
+  date: '2014-02-21'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41659
+  date: '2014-02-22'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41660
+  date: '2014-02-23'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 41661
+  date: '2014-02-23'
+  time: '19:00'
+  band_name: Калипсо Блюз-бэнд
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41662
+  date: '2014-02-26'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41663
+  date: '2014-02-27'
+  time: '19:00'
+  band_name: 'XIV международный фестиваль "Триумф Джаза", Давид Голощекин представляет:
+    Дэйв Холланд трио (США)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 41664
+  date: '2014-02-28'
+  time: '19:00'
+  band_name: Эльвира Трафова (вокал) и ансамбль Петра Корнева
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42350
+  date: '2014-03-01'
+  time: '19:00'
+  band_name: Джаз-ансамбль Яна Лундгрена (Швеция)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42351
+  date: '2014-03-01'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42352
+  date: '2014-03-02'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42353
+  date: '2014-03-15'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42354
+  date: '2014-03-22'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42355
+  date: '2014-03-29'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42356
+  date: '2014-03-30'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 42357
+  date: '2014-03-30'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42358
+  date: '2014-03-29'
+  time: '20:00'
+  band_name: 'Ансамбль Empathy-jazz: Дмитрий Васильев, Александра Куркова (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42359
+  date: '2014-03-28'
+  time: '19:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42360
+  date: '2014-03-04'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam-session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42361
+  date: '2014-03-11'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam-session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42362
+  date: '2014-03-18'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam-session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42363
+  date: '2014-03-25'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam-session.
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42364
+  date: '2014-03-22'
+  time: '20:00'
+  band_name: Квинтет Евгения Соколова (труба)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42365
+  date: '2014-03-15'
+  time: '20:00'
+  band_name: Татьяна Бубельникова (вокал) и ансамбль Андрея Рябова (гитара)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42366
+  date: '2014-03-09'
+  time: '20:00'
+  band_name: Квартет Сергея Арестова (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42367
+  date: '2014-03-08'
+  time: '20:00'
+  band_name: '"Девять с половиной" - Ансамбль Юрия Соболева (фортепиано)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42368
+  date: '2014-03-07'
+  time: '19:00'
+  band_name: Ансамбль современного джаза Вадима Хотина (ударные)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42369
+  date: '2014-03-05'
+  time: '19:00'
+  band_name: 'Концерт для двух фортепиано: Давид Голощекин - Николай Сизов с участием
+    Юлии Касьян (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42370
+  date: '2014-03-06'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42371
+  date: '2014-03-07'
+  time: '19:00'
+  band_name: '"Весенний бал": Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 42372
+  date: '2014-03-08'
+  time: '19:00'
+  band_name: '"Мелодии любви": Джонэ Кендрик (вокал, США) и квартет Алексея Подымкина
+    (Москва)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42373
+  date: '2014-03-09'
+  time: '12:00'
+  band_name: 'Джаз для школьников: Ансамбль Easy Winners Ragtime Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42374
+  date: '2014-03-09'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42375
+  date: '2014-03-10'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42376
+  date: '2014-03-12'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль, специальный
+    гость - Гасан Багиров (гитара)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42377
+  date: '2014-03-13'
+  time: '19:00'
+  band_name: 'Вечер джазового вокала: Сергей Золотов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42378
+  date: '2014-03-14'
+  time: '19:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42379
+  date: '2014-03-16'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42380
+  date: '2014-03-19'
+  time: '19:00'
+  band_name: '"Леди-джаз": Юлия Касьян (вокал), Юлия Михайловская (вокал) и ансамбль
+    Давида Голощекина'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42381
+  date: '2014-03-20'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 42382
+  date: '2014-03-21'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42383
+  date: '2014-03-23'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 42384
+  date: '2014-03-26'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 42385
+  date: '2014-03-27'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Ансамбль Дмитрия Попова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43269
+  date: '2014-04-24'
+  time: '19:00'
+  band_name: '"Леди-джаз": Юлия Касьян, Юлия Михайловская (вокал) и ансамбль Давида
+    Голощекина'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43270
+  date: '2014-04-10'
+  time: '19:00'
+  band_name: Давид Голощекин и камерный оркестр "Струны Санкт-Петербурга", Эльвира
+    Трафова (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43271
+  date: '2014-04-11'
+  time: '19:00'
+  band_name: Сергей Долженков (тромбон) и его ансамбль с программой "All colors"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43272
+  date: '2014-04-13'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 43273
+  date: '2014-04-16'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43274
+  date: '2014-04-17'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra п/у Кирилла Бубякина и Сергея Богданова (саксофоны)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43275
+  date: '2014-04-18'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43276
+  date: '2014-04-20'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43277
+  date: '2014-04-23'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43246
+  date: '2014-04-01'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43247
+  date: '2014-04-08'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43248
+  date: '2014-04-15'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43249
+  date: '2014-04-22'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43250
+  date: '2014-04-29'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43251
+  date: '2014-04-26'
+  time: '20:00'
+  band_name: Квартет Григория Воскобойника (контрабас)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43252
+  date: '2014-04-19'
+  time: '20:00'
+  band_name: Квартет Николая Поправко (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43253
+  date: '2014-04-12'
+  time: '20:00'
+  band_name: Андрей Зимовец (фортепиано) и "Джаз-классик трио", Эльмира Ильясова (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43254
+  date: '2014-04-05'
+  time: '20:00'
+  band_name: Квинтет Вячеслава Ипатова (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 681
+    name: Септет Вячеслава Ипатова
+    token: ipatov-septet
+- id: 43255
+  date: '2014-04-02'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль, специальный
+    гость - Андрей Рябов (гитара)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43256
+  date: '2014-04-03'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43257
+  date: '2014-04-04'
+  time: '19:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43258
+  date: '2014-04-06'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43259
+  date: '2014-04-07'
+  time: '19:00'
+  band_name: 'Вечер кубинской танцевальной музыки: Ансамбль "Мамбо-Комбо" Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43260
+  date: '2014-04-07'
+  time: '12:00'
+  band_name: 'Джаз для школьников: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43261
+  date: '2014-04-09'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43262
+  date: '2014-04-12'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43263
+  date: '2014-04-19'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43264
+  date: '2014-04-26'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43265
+  date: '2014-04-30'
+  time: '19:00'
+  band_name: 'Гала-концерт, посвященный Международному дню джаза: Оркестр "Саксофоны
+    Санкт-Петербурга" п/у Геннадия Гольштейна; Ансамбль "Четверо" (Санкт-Петербург
+    - Москва): Давид Голощекин, Алексей Подымкин, Сергей Васильев, Виктор Епанешников;
+    Парад джазовых гитаристов: Гасан Багиров, Ильдар Казаханов, Михаил Эдельштейн;
+    Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 43266
+  date: '2014-04-27'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 43267
+  date: '2014-04-27'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43268
+  date: '2014-04-25'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 43991
+  date: '2014-05-03'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43992
+  date: '2014-05-24'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43993
+  date: '2014-05-31'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43994
+  date: '2014-06-06'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43995
+  date: '2014-06-14'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43996
+  date: '2014-06-21'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43997
+  date: '2014-06-26'
+  time: '19:00'
+  band_name: XXI петербургский фестиваль джаза "Свинг белой ночи - 2014"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43998
+  date: '2014-06-27'
+  time: '19:00'
+  band_name: XXI петербургский фестиваль джаза "Свинг белой ночи - 2014"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 43999
+  date: '2014-06-28'
+  time: '19:00'
+  band_name: XXI петербургский фестиваль джаза "Свинг белой ночи - 2014"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44000
+  date: '2014-06-29'
+  time: '19:00'
+  band_name: XXI петербургский фестиваль джаза "Свинг белой ночи - 2014"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44001
+  date: '2014-06-25'
+  time: '20:00'
+  band_name: Квартет Сергея Арестова (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44002
+  date: '2014-06-24'
+  time: '20:00'
+  band_name: Real Jazz-квинтет Кирилла Бубякина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44003
+  date: '2014-06-21'
+  time: '20:00'
+  band_name: 'Вечер джазовой гитары: Ансамбль Андрея Рябова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44004
+  date: '2014-06-18'
+  time: '20:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44005
+  date: '2014-06-14'
+  time: '20:00'
+  band_name: Ансамбль "А Tempo"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44006
+  date: '2014-06-11'
+  time: '20:00'
+  band_name: Квартет Алексея Самарина (фортепиано)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44014
+  date: '2014-05-04'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra Кирилла Бубякина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44015
+  date: '2014-05-07'
+  time: '19:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44016
+  date: '2014-05-08'
+  time: '17:00'
+  band_name: Международный фестиваль радио 1jazz.ru
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44017
+  date: '2014-05-09'
+  time: '19:00'
+  band_name: '"В День Победы": Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 44018
+  date: '2014-05-10'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 44019
+  date: '2014-05-11'
+  time: '19:00'
+  band_name: 'Вечер кубинской танцевальной музыки: Ансамбль "Мамбо-Комбо" Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44020
+  date: '2014-05-14'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: Ансамбль "Easy Winners Ragtime Band"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44021
+  date: '2014-05-15'
+  time: '19:00'
+  band_name: Сергей Гурбелошвили (саксофон, США), Давил Голощекин (хаммонд-орган)
+    и его ансамбль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44022
+  date: '2014-05-16'
+  time: '19:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44023
+  date: '2014-05-18'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 44024
+  date: '2014-05-18'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44025
+  date: '2014-05-21'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44026
+  date: '2014-05-22'
+  time: '19:00'
+  band_name: Давид Голощекин и его ансамбль, Юлия Касьян, Юлия Михайловская - вокал
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44027
+  date: '2014-05-23'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44028
+  date: '2014-05-25'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 44029
+  date: '2014-05-28'
+  time: '19:00'
+  band_name: 'Посвящение городу - "Петербургская сюита": Ансамбль Давида Голощекина,
+    Эльвира Трафова (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44030
+  date: '2014-05-29'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44031
+  date: '2014-05-30'
+  time: '19:00'
+  band_name: '"Салют Дюку Эллингтону": Ансамбль Александра Карбасова (саксофон)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44032
+  date: '2014-06-01'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44033
+  date: '2014-06-03'
+  time: '19:00'
+  band_name: Трио Филиппа Дюшемена (Франция) при уч. Давида Голощекина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44035
+  date: '2014-06-05'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44007
+  date: '2014-05-31'
+  time: '20:00'
+  band_name: Ансамбль Empathy-jazz - Дмитрий Васильев, Александра Куркова (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44008
+  date: '2014-05-27'
+  time: '20:00'
+  band_name: '"Петербургские акварели": Ансамбль Арс-нова Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44009
+  date: '2014-05-24'
+  time: '20:00'
+  band_name: Вечер саксофона Кирилл Бубякин и Real Джаз-кварте
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44010
+  date: '2014-05-20'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44011
+  date: '2014-05-13'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44012
+  date: '2014-05-06'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44013
+  date: '2014-05-17'
+  time: '20:00'
+  band_name: Ансамбль Алексея Черемизова (фортепиано)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44034
+  date: '2014-06-04'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44036
+  date: '2014-06-07'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 44037
+  date: '2014-06-08'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 44038
+  date: '2014-06-10'
+  time: '19:00'
+  band_name: Давид Голощекин - юбилейный концерт в день рождения
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44039
+  date: '2014-06-12'
+  time: '19:00'
+  band_name: 'Популярные мелодии золотой эры свинга: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44040
+  date: '2014-06-13'
+  time: '19:00'
+  band_name: Сергей Долженков (тромбон) и его ансамбль с программой "All colors"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44041
+  date: '2014-06-15'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44042
+  date: '2014-06-17'
+  time: '19:00'
+  band_name: Дональд Харрисон (саксофон, США) и его ансамбль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44043
+  date: '2014-06-19'
+  time: '19:00'
+  band_name: Давид Голощекин и его ансамбль, Юлия Касьян (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44044
+  date: '2014-06-20'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 44045
+  date: '2014-06-22'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra. Солист - Денис Секретарев (труба)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45112
+  date: '2014-08-14'
+  time: '20:00'
+  band_name: Юлия Михайловская (вокал) и ансамбль Николая Сизова
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45114
+  date: '2014-08-16'
+  time: '20:00'
+  band_name: 'Вечер джазовой гитары: Ансамбль Андрея Рябова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45115
+  date: '2014-08-17'
+  time: '20:00'
+  band_name: 'Вечер фортепианного джаза: Трио Николая Сизова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45117
+  date: '2014-08-21'
+  time: '20:00'
+  band_name: 'Вечер губной гармоники: Максим Некрасов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45118
+  date: '2014-08-22'
+  time: '20:00'
+  band_name: Юлия Касьян (вокал) и ансамбль Николая Сизова
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45125
+  date: '2014-08-07'
+  time: '20:00'
+  band_name: Татьяна Бубельникова (вокал) и ансамбль Николая Сизова
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45127
+  date: '2014-07-08'
+  time: '20:00'
+  band_name: 'Вечер джазовой гитары: Трио Ильдара Казаханова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45128
+  date: '2014-07-15'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45129
+  date: '2014-07-22'
+  time: '20:00'
+  band_name: Квартет Руслана Хаина (Нью-Йорк - Санкт-Петербург)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45110
+  date: '2014-08-01'
+  time: '19:00'
+  band_name: 'Популярные мелодии золотой эры свинга: Виктория Урусова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 45111
+  date: '2014-08-13'
+  time: '20:00'
+  band_name: Квартет Вадима Хотина (ударные)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45113
+  date: '2014-08-15'
+  time: '20:00'
+  band_name: Леонид Сендерский - саксофон (Израиль) и его ансамбль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45116
+  date: '2014-08-20'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Квартет Евгения Стригалева (Великобритания)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45119
+  date: '2014-08-23'
+  time: '20:00'
+  band_name: Квартет Константина Хазановича (кларнет)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45120
+  date: '2014-08-24'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45121
+  date: '2014-08-27'
+  time: '20:00'
+  band_name: Ансамбль "Арс-нова" п/у Петра Корнева с программой "Неизвестная Бразилия"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45122
+  date: '2014-08-28'
+  time: '20:00'
+  band_name: 'Ансамбль Empathy-jazz: Дмитрий Васильев, Александра Куркова (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45123
+  date: '2014-08-29'
+  time: '20:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 45124
+  date: '2014-08-30'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Квартет Вячеслава Ипатова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 681
+    name: Септет Вячеслава Ипатова
+    token: ipatov-septet
+- id: 45126
+  date: '2014-07-01'
+  time: '20:00'
+  band_name: 'Ансамбль Empathy-jazz: Дмитрий Васильев, Александра Куркова (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45130
+  date: '2014-07-29'
+  time: '20:00'
+  band_name: Ансамбль "Арс-нова" п/у Петра Корнева с программой "Играем Сильвера"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45131
+  date: '2014-08-10'
+  time: '19:00'
+  band_name: 'Закрытие сезона в Большом зале, вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 45132
+  date: '2014-08-09'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: Джаз-бэнд Константина Хазановича (кларнет)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45133
+  date: '2014-08-08'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 45134
+  date: '2014-08-06'
+  time: '19:00'
+  band_name: Квартет Дмитрия Баевского (саксофон, Нью-Йорк - Санкт-Петербург)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45135
+  date: '2014-08-03'
+  time: '19:00'
+  band_name: 'Вечер джазовой гитары: Гасан Багиров и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45136
+  date: '2014-08-02'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45137
+  date: '2014-07-02'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Константин Маминов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45138
+  date: '2014-07-03'
+  time: '19:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45139
+  date: '2014-07-04'
+  time: '19:00'
+  band_name: 'К 20-летию ансамбля. Вечер блюза: Белинов блюз-бэнд, Елена Шерри (фортепиано,
+    вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 551
+    name: Елена Шерри
+    token: elena-sherry
+- id: 45140
+  date: '2014-07-05'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45141
+  date: '2014-07-06'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45142
+  date: '2014-07-09'
+  time: '19:00'
+  band_name: 'Вечер джазового вокала: Сергей Золотов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45143
+  date: '2014-07-10'
+  time: '19:00'
+  band_name: '"Мелодии Голливуда и Бродвея": Эльвира Трафова, Татьяна Бубельникова,
+    Виктория Урусова, Юлия Касьян (вокал) при уч. ансамблей Давида Голощекина и Николая
+    Сизова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 45144
+  date: '2014-07-11'
+  time: '19:00'
+  band_name: Real Джаз-квартет Кирилла Бубякина (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45145
+  date: '2014-07-12'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45146
+  date: '2014-07-13'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45147
+  date: '2014-07-16'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45148
+  date: '2014-07-17'
+  time: '19:00'
+  band_name: '"Мелодии золотой эры свинга": Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45149
+  date: '2014-07-18'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 45150
+  date: '2014-07-19'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45151
+  date: '2014-07-20'
+  time: '19:00'
+  band_name: 'Популярная джазовая классика: Акустик-Бэнд Ивана Васильева (труба)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45152
+  date: '2014-07-23'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: Ансамбль Easy Winners Ragtime Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45153
+  date: '2014-07-24'
+  time: '19:00'
+  band_name: Давид Голощекин и его ансамбль, Юлия Касьян (вокал) при уч. Гасана Багирова
+    (гитара)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45154
+  date: '2014-07-25'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45155
+  date: '2014-07-26'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45156
+  date: '2014-07-27'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 45157
+  date: '2014-07-30'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 45158
+  date: '2014-07-31'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль, Гасан
+    Багиров (гитара)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46137
+  date: '2014-09-03'
+  time: '20:00'
+  band_name: 'Вечер романтического джаза: Трио Николая Сизова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46138
+  date: '2014-09-04'
+  time: '20:00'
+  band_name: Юлия Михайловская (вокал) и ансамбль Андрея Зимовца
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46139
+  date: '2014-09-05'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 46140
+  date: '2014-09-06'
+  time: '20:00'
+  band_name: 'Вечер губной гармоники: Максим Некрасов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46142
+  date: '2014-09-10'
+  time: '20:00'
+  band_name: 'Вечер джазовой гитары: Трио Ильдара Казаханова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46143
+  date: '2014-09-11'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46145
+  date: '2014-09-18'
+  time: '20:00'
+  band_name: Татьяна Бубельникова (вокал) и ансамбль Николая Сизова
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46146
+  date: '2014-09-25'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Кирилл Бубякин и Real Джаз-квартет'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46149
+  date: '2014-09-20'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46151
+  date: '2014-09-28'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 46153
+  date: '2014-09-26'
+  time: '19:00'
+  band_name: 'Дни Таллина в Санкт-Петербурге: Сюзанна Александра Вельди (вокал) и
+    ее ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46154
+  date: '2014-09-24'
+  time: '19:00'
+  band_name: Давид Голощекин и его ансамбль, Юлия Касьян (вокал), специальный гость
+    - Гасан Багиров (гитара)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46155
+  date: '2014-09-21'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46156
+  date: '2014-09-19'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль при
+    уч. Юлии Касьян (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46141
+  date: '2014-09-07'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Квартет Юрия Богатырева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46144
+  date: '2014-09-12'
+  time: '20:00'
+  band_name: Квартет Сергея Арестова (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46147
+  date: '2014-09-13'
+  time: '19:00'
+  band_name: 'Открытие сезона: International Jazz Trio Якова Окуня (фортепиано) и
+    Дебора Браун (вокал, США)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46148
+  date: '2014-09-14'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46150
+  date: '2014-09-27'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46152
+  date: '2014-09-28'
+  time: '19:00'
+  band_name: Текора Роджерс и госпел-хор "Чикаго Спиричуэлс"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46157
+  date: '2014-09-17'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46929
+  date: '2014-10-08'
+  time: '20:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46930
+  date: '2014-10-11'
+  time: '20:00'
+  band_name: 'Вечер джазовой гитары: Ансамбль Андрея Рябова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46931
+  date: '2014-10-18'
+  time: '20:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46932
+  date: '2014-10-21'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Seisson
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46933
+  date: '2014-10-28'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Seisson
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46934
+  date: '2014-10-25'
+  time: '20:00'
+  band_name: Ансамбль Алексея Черемизова (фортепиано)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46935
+  date: '2014-10-12'
+  time: '12:00'
+  band_name: 'Джаз для школьников: Джаз-бэнд Федора Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46936
+  date: '2014-10-26'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 46937
+  date: '2014-10-01'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46938
+  date: '2014-10-02'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46939
+  date: '2014-10-03'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46940
+  date: '2014-10-11'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46941
+  date: '2014-10-18'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46942
+  date: '2014-10-25'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46943
+  date: '2014-10-31'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46944
+  date: '2014-10-04'
+  time: '19:00'
+  band_name: 'Фестиваль "Джазовое созвездие Давида Голощекина": Мариан Петреску и
+    его трио (Финляндия-Швеция-Россия)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46945
+  date: '2014-10-05'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46946
+  date: '2014-10-09'
+  time: '19:00'
+  band_name: '"My way": Кавамура Рурико (вокал, Япония), Мория Юнко (фортепиано, Япония),
+    Давид Голощекин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46947
+  date: '2014-10-10'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra Кирилла Бубякина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46948
+  date: '2014-10-12'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 46949
+  date: '2014-10-15'
+  time: '19:00'
+  band_name: '"Мелодии Голливуда и Бродвея": Эльвира Трафова, Татьяна Бубельникова,
+    Юлия Михайловская, Юлия Касьян (вокал), при уч. ансамблей Давида Голощекина и
+    Николая Сизова'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46950
+  date: '2014-10-16'
+  time: '19:00'
+  band_name: Сергей Долженков (тромбон) и его ансамбль с программой "All colors"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46951
+  date: '2014-10-17'
+  time: '19:00'
+  band_name: 'Вечер джазовой гитары: Гасан Багиров и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46952
+  date: '2014-10-19'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46953
+  date: '2014-10-22'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46954
+  date: '2014-10-23'
+  time: '19:00'
+  band_name: 'Джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал) и ансамбль
+    Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46955
+  date: '2014-10-24'
+  time: '19:00'
+  band_name: Александр Карбасов и его ансамбль - "Посвящение Дюку Эллингтону"
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46956
+  date: '2014-10-26'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 46957
+  date: '2014-10-29'
+  time: '19:00'
+  band_name: Ансамбль Давида Голощекина, Юлия Касьян (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 46958
+  date: '2014-10-30'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47683
+  date: '2014-12-13'
+  time: '20:00'
+  band_name: Квартет Вячеслава Ипатова (саксофон)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 681
+    name: Септет Вячеслава Ипатова
+    token: ipatov-septet
+- id: 47684
+  date: '2014-12-06'
+  time: '20:00'
+  band_name: Юлия Михайловская (вокал) и ее ансабмль
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47685
+  date: '2014-11-29'
+  time: '20:00'
+  band_name: Ансамбль Empathy-jazz - Дмитрий Васильев, Александра Куркова (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47686
+  date: '2014-11-27'
+  time: '20:00'
+  band_name: Юлия Касьян (вокал) и ансамбль Николая Сизова
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47687
+  date: '2014-11-22'
+  time: '20:00'
+  band_name: 'Вечер саксофона: Константин Маминов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47668
+  date: '2014-11-05'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль, Гасан
+    Багиров (гитара)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47669
+  date: '2014-11-06'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra Кирилла Бубякина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47677
+  date: '2014-12-02'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47679
+  date: '2014-12-16'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47681
+  date: '2014-12-27'
+  time: '20:00'
+  band_name: 'Вечер губной гармоники: Максим Некрасов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47682
+  date: '2014-12-20'
+  time: '20:00'
+  band_name: Акустик-Бэнд Ивана Васильева и Руслан Хаин
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47688
+  date: '2014-11-15'
+  time: '20:00'
+  band_name: 'Вечер фортепианного джаза: Трио Евгения Лебедева (Москва - Санкт-Петербург)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47689
+  date: '2014-11-04'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47690
+  date: '2014-11-11'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47691
+  date: '2014-11-18'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47692
+  date: '2014-11-25'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47693
+  date: '2014-11-30'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 47695
+  date: '2014-11-09'
+  time: '12:00'
+  band_name: 'Джаз для школьников: Ritmo Caliente'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47697
+  date: '2014-11-19'
+  time: '12:00'
+  band_name: XII Конкурс молодых джазовых исполнителей "Осенний марафон". II тур
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47698
+  date: '2014-11-20'
+  time: '19:00'
+  band_name: XII Конкурс молодых джазовых исполнителей "Осенний марафон" - заключительный
+    концерт лауреатов при уч. Давида Голощекина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47699
+  date: '2014-11-21'
+  time: '19:00'
+  band_name: Кенни Вашингтон (вокал, США) и ансамбль Алексея Черемизова (Санкт-Петербург)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47702
+  date: '2014-11-13'
+  time: '19:00'
+  band_name: Акустик-Бэнд Ивана Васильева (труба) и Руслан Хаин (контрабас, США)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47704
+  date: '2014-11-16'
+  time: '19:00'
+  band_name: 'Вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 47667
+  date: '2014-11-03'
+  time: '19:00'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47670
+  date: '2014-11-07'
+  time: '19:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47671
+  date: '2014-11-08'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47672
+  date: '2014-11-15'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47673
+  date: '2014-11-22'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47674
+  date: '2014-11-29'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47675
+  date: '2014-12-03'
+  time: '19:00'
+  band_name: 'Посвящение Дюку Эллингтону: Александр Карбасов и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47676
+  date: '2014-12-04'
+  time: '19:00'
+  band_name: 'Мелодии золотой эры свинга: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47678
+  date: '2014-12-09'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47680
+  date: '2014-12-23'
+  time: '20:00'
+  band_name: Джаз-клуб "Квадрат". Jam Session
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47694
+  date: '2014-11-30'
+  time: '19:00'
+  band_name: Квартет Игоря Тимофеева (саксофон) - Олега Белова (клавишные)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47696
+  date: '2014-11-18'
+  time: '12:00'
+  band_name: XII Конкурс молодых джазовых исполнителей "Осенний марафон". I тур
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47700
+  date: '2014-11-09'
+  time: '19:00'
+  band_name: Квартет Алексея Подымкина (Москва) и Руди Ройстона (ударные, США)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47701
+  date: '2014-11-12'
+  time: '19:00'
+  band_name: Ансамбль Давида Голощекина и Юлия Касьян (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47703
+  date: '2014-11-14'
+  time: '19:00'
+  band_name: 'Популярная джазовая классика 40-х - 50-х годов: Эльвира Трафова (вокал)
+    и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47705
+  date: '2014-12-29'
+  time: '19:00'
+  band_name: 'Рождественский вечер блюза: Big Blues Revival'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 47706
+  date: '2014-12-14'
+  time: '19:00'
+  band_name: 'Вечер блюза: Калипсо Блюз-бэнд'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47707
+  date: '2014-11-19'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47709
+  date: '2014-11-26'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Владимир Лыткин, Станислав Стрельцов,
+    Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза - вокал; и оркестр
+    "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47710
+  date: '2014-11-28'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47708
+  date: '2014-11-23'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47711
+  date: '2014-12-05'
+  time: '19:00'
+  band_name: 'Джазовый спектакль "1900": Арсений Иванкович, Давид Голощекин и его
+    ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47712
+  date: '2014-12-07'
+  time: '19:00'
+  band_name: 'Вечер традиционной афро-кубинской музыки: Ritmo Caliente с программой
+    "Эль Карнавал"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47713
+  date: '2014-12-08'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra Кирилла Бубякина (саксофон) при уч. Давида
+    Голощекина
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47714
+  date: '2014-12-11'
+  time: '19:00'
+  band_name: 'Вечер романтического джаза: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнев'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47715
+  date: '2014-12-12'
+  time: '19:00'
+  band_name: 'Популярная джазовая классика: Ансамбль Константина Хазановича (кларнет)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47716
+  date: '2014-12-13'
+  time: '19:00'
+  band_name: 'Новоорлеанские встречи: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 47717
+  date: '2014-12-17'
+  time: '19:00'
+  band_name: '"Долина блаженных": Геннадий Гольштейн, Давид Голощекин, Владимир Лыткин,
+    Станислав Стрельцов, Яна Радион, Айрин Буше, Лиза Бертолуччи, Франческа Ди Роза
+    - вокал; и оркестр "Саксофоны Санкт-Петербурга"'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47718
+  date: '2014-12-18'
+  time: '19:00'
+  band_name: '"Мелодии Джорджа Гершвина, Кола Портера и Джерома Керна": Эльвира Трафова
+    (вокал) и ансамбль Петра Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47719
+  date: '2014-12-19'
+  time: '19:00'
+  band_name: 'Концерт для двух фортепиано: Давид Голощекин - Николай Сизов'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47720
+  date: '2014-12-20'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47721
+  date: '2014-12-21'
+  time: '19:00'
+  band_name: 'Вечер саксофона: Михаил Костюшкин и его ансамбль'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 47722
+  date: '2014-12-24'
+  time: '19:00'
+  band_name: Ансамбль Давида Голощекина и Юлия Касьян (вокал)
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47723
+  date: '2014-12-25'
+  time: '19:00'
+  band_name: '"Белое Рождество": Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 47724
+  date: '2014-12-26'
+  time: '19:00'
+  band_name: 'Мелодии кино, шоу, мюзиклов: Эльвира Трафова (вокал) и ансамбль Петра
+    Корнева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47725
+  date: '2014-12-27'
+  time: '19:00'
+  band_name: 'Вечер традиционного джаза: Джаз-бэнд Федора Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47726
+  date: '2014-12-28'
+  time: '12:00'
+  band_name: 'Джаз - детям для дошкольников: Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 47727
+  date: '2014-12-28'
+  time: '19:00'
+  band_name: 'Вечер латиноамериканского джаза: Alexander Latin Band'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall
+- id: 47728
+  date: '2014-12-30'
+  time: '19:00'
+  band_name: 'Вечер джазовой скрипки и органа: Давид Голощекин и его ансамбль, при
+    уч. Юлии Касьян (вокал)'
+  club_id: 48
+  club_name: Филармония джазовой музыки
+  club_token: jazz-hall

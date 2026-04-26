@@ -1,0 +1,50 @@
+id: 252
+token: shaytochner
+name: Shay Tochner And Friends
+alive: true
+url: http://www.shaytochner.com/
+city_id: 21
+genre_id: 4
+secondary_genre_id: 10
+clips:
+- id: 848
+  type: weblink
+  url: http://www.myspace.com/shaytochnerandfriends#ixzz10I7ApmpF
+  name: Страница на MySpace
+  sort_order: 199
+- id: 843
+  type: youtube
+  url: http://www.youtube.com/?v=kqpLqUIyK24
+  name: Tom Paxton with Shay Tochner - Can't Help But Wonder Where I'm Bound
+  comments: Tom Paxton's song Videoed in Jacob's Ladder Folk Festival, Israel July
+    1st 1994
+  sort_order: 99
+- id: 844
+  type: weblink
+  url: http://www.facebook.com/pages/Shay-Tochner-And-Friends/162921773722598?v=info&ref=ts
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 845
+  type: youtube
+  url: http://www.youtube.com/?v=BBoC-1ZuVGs
+  name: Shay Tochner + Geva Alon - Doc's Guitar
+  comments: An instrumental Piece by Doc Watson Videoed by Tomer Shochativitz in a
+    live performance at Levontine 7, Tel Aviv Israel, Dec 4th 2007
+  sort_order: 199
+- id: 846
+  type: youtube
+  url: http://www.youtube.com/?v=3V1zZ04kdfE
+  name: Dueling Banjos - Shay Tochner and Hillel Mogle
+  comments: Recorded live from Television Channel 2, Israel, 2006
+  sort_order: 299
+- id: 847
+  type: youtube
+  url: http://www.youtube.com/?v=8EsfrwF_lHc
+  name: Ravak
+  comments: Ravak - Shay Tochner on Russian TV  Cannel 9 program 7:40
+  sort_order: 399
+- id: 849
+  type: weblink
+  url: http://www.shaytochner.com/
+  name: Официальный сайт
+  sort_order: 299

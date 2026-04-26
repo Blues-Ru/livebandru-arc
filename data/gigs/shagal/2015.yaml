@@ -1,0 +1,24 @@
+- id: 49492
+  date: '2015-02-27'
+  time: '21:00'
+  band_id: 703
+  band_name: Александра Грачева Jazz Project
+  band_token: gracheva-jazz
+  club_id: 664
+  club_name: Шагал
+  club_token: shagal
+- id: 50955
+  date: '2015-04-17'
+  time: '20:00'
+  band_name: Phil Speat Big Daddy Blues , Вадим Иващенко и The Boneshakers
+  club_id: 664
+  club_name: Шагал
+  club_token: shagal
+  price: 1100 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 647
+    name: Big Daddy Blues
+    token: big-daddy-blues

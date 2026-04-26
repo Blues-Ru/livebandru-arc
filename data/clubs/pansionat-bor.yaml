@@ -1,0 +1,15 @@
+id: 902
+token: pansionat-bor
+name: Пансионат "Бор"
+aliases: Оздоровительный комплекс "Бор"
+alive: true
+address: Московская область, городской округ Домодедово, деревня Одинцово, территория
+  Бор, тер. Бор
+phone: +7(495)616-08-08
+city_id: 1
+clips:
+- id: 9140
+  type: weblink
+  url: http://www.ok-bor.ru
+  name: Официальный сайт
+  sort_order: 0

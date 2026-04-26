@@ -1,0 +1,67 @@
+id: 1
+token: blues
+name: блюз
+aliases: 'blues
+
+  блюзовый
+
+  блюзовая'
+clips:
+- id: 73
+  type: rss
+  url: http://www.blues.ru/news/rss.aspx
+  name: Blues.Ru - блюзовые новости
+  sort_order: 0
+- id: 131
+  type: rss
+  url: http://community.livejournal.com/ru_blues/data/rss
+  sort_order: 100
+- id: 132
+  type: rss
+  url: http://bluesforum.ru/index.php?act=rssout&id=1
+  name: bluesforum.ru
+  sort_order: 200
+- id: 137
+  type: rss
+  url: http://www.echo.msk.ru/programs/blues/rss-audio.xml
+  name: Весь Этот Блюз - подкасты
+  sort_order: 300
+- id: 153
+  type: photo
+  url: blues.gif
+  name: Блюз в России (blues.ru)
+  sort_order: 0
+  width: 100
+  height: 100
+- id: 352
+  type: weblink
+  url: http://www.bluesnews.ru
+  comments: Сайт Алексея Калачева о новостях и новинках блюза
+  sort_order: 100
+- id: 354
+  type: weblink
+  url: http://www.old-blues.ru
+  name: Mean Black Cat Blues
+  comments: Сайт об архаичном акустическом блюзе
+  sort_order: 300
+- id: 351
+  type: weblink
+  url: http://www.blues.ru
+  name: Блюз в России
+  sort_order: 0
+- id: 355
+  type: weblink
+  url: http://www.rusblues.ru/
+  name: Русский Блюз
+  comments: Сайт о русскоязычных блюзменах
+  sort_order: 400
+- id: 442
+  type: rss
+  url: http://blueshistory.livejournal.com/data/rss
+  sort_order: 400
+- id: 1000
+  type: rss
+  url: http://community.livejournal.com/blues_ukraine/data/rss
+  name: Блюз в Украине
+  comments: много интересного о блюзе по-русски
+  sort_order: 500

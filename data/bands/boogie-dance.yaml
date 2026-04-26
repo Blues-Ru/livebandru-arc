@@ -1,0 +1,51 @@
+id: 267
+token: boogie-dance
+name: The Boogie Dance
+alive: true
+url: http://vkontakte.ru/club15401524
+city_id: 14
+genre_id: 18
+secondary_genre_id: 2
+clips:
+- id: 879
+  type: weblink
+  url: http://www.realmusic.ru/theboogiedance/
+  name: Музыка на RealMusic.Ru
+  sort_order: 99
+- id: 933
+  type: photo
+  url: boogie-dance.jpg
+  name: Владимир Евдокиенко - альт саксофон; Игорь Наумов - тенор саксофон;
+  sort_order: 0
+  width: 3872
+  height: 2592
+- id: 934
+  type: youtube
+  url: http://www.youtube.com/?v=4tPN3m6wcgI
+  name: The Boogie Dance
+  comments: Boogie Dance Глеб Копалин - вокал; Евгений Коренченко - труба; Владимир
+    Евдокиенко - альт саксофон; Игорь Наумов - тенор саксофон; Михаил Лышенко - пианино;
+    Вадим Почуев - бас; Дмитрий Литвинен
+  sort_order: 0
+reviews:
+- id: 49
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: '"Boogie Dance" (Днепропетровск)'
+  text: 'Если по каким-либо причинам вы не смогли попасть в Детроит, или посетить
+    Чикаго в те вечера, когда в местных клубах гремел "Swing" и танцпол содрогался
+    под ногами танцоров "Boogie", не отчаивайтесь! "Cotton Bar" – то место куда приходит
+    Америка, если вы не приходите к ней. Brian Setzer, Big Bad Voodoo Daddy, Royal
+    Crown Rewue, Cab Calloway. Вы услышите их, стоит лишь прийти на концерт "Boogie
+    Dance". В составе бэнда: Глеб Копалин – vocal, Михаил Лышенко – upright piano,
+    Вадим Пачуев – bass, Дмитрий Литвиненко – drums; и золотая духовая секция: Евгений
+    Коренченко – trumpet, Владимир Евдокиенко – alto sax, Игорь Наумов – tenor sax.
+    Не забудьте взять с собой любимую шляпу, и не бойтесь "засидеть" брюки. Вы просто
+    не сможете сидеть. "Boogie Dance" – танцуют все!
+
+
+    P.S. Убедительная просьба, автоматы Томпсона оставлять охране на входе!'
+  verified: true
+  created: '2010-10-13'
+  is_press_release: true

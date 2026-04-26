@@ -1,0 +1,13 @@
+id: 171
+token: mrband
+name: Moscow Ragtime Band
+alive: true
+url: http://www.mrband.ru/
+city_id: 1
+genre_id: 2
+clips:
+- id: 381
+  type: weblink
+  url: http://www.mrband.ru/
+  name: Официальный сайт
+  sort_order: 0

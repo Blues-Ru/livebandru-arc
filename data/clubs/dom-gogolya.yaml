@@ -1,0 +1,14 @@
+id: 565
+token: dom-gogolya
+name: Дом Гоголя
+alive: true
+address: Никитский бульвар, д. 7а
+subway: Арбатская
+phone: +7(495)690-58-81
+city_id: 1
+clips:
+- id: 3157
+  type: weblink
+  url: http://www.domgogolya.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,97 @@
+id: 682
+token: crosseyed-cats
+name: Cross-Eyed Cats
+alive: true
+url: http://xecats.ru
+city_id: 1
+genre_id: 1
+musicians:
+- name: Андрей Сорокин
+  instruments: гитара, вокал
+- name: Аркадий Абрамов
+  instruments: барабаны
+- name: Павел Купчик
+  instruments: бас-гитара
+- name: Петр Репин
+  instruments: клавишные
+- name: Слава Виноградов
+  instruments: губная гармоника
+- name: Валерий Кондаков
+  instruments: саксофон
+- name: Павел Беликов
+  instruments: труба
+- name: Владимир Гочуа
+  instruments: контрабас
+clips:
+- id: 5519
+  type: weblink
+  url: http://xecats.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 5591
+  type: youtube
+  url: https://www.youtube.com/watch?v=w7IyJTj8v-k
+  name: CrossEyed Cats
+  sort_order: 99
+- id: 9379
+  type: photo
+  url: crosseyed-cats-2.jpg
+  sort_order: 100
+  width: 2048
+  height: 1367
+- id: 9380
+  type: photo
+  url: crosseyed-cats-3.jpg
+  sort_order: 200
+  width: 2048
+  height: 1536
+- id: 9381
+  type: photo
+  url: crosseyed-cats-4.jpg
+  sort_order: 300
+  width: 1440
+  height: 880
+- id: 9376
+  type: weblink
+  url: https://www.facebook.com/xecats/
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 9378
+  type: photo
+  url: crosseyed-cats.jpg
+  sort_order: 0
+  width: 2048
+  height: 1448
+- id: 9375
+  type: weblink
+  url: https://vk.com/xecats
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 9377
+  type: weblink
+  url: https://www.instagram.com/crosseyed.cats/
+  name: Instagram
+  sort_order: 300
+- id: 9382
+  type: photo
+  url: crosseyed-cats-5.jpg
+  sort_order: 400
+  width: 2048
+  height: 1365
+reviews:
+- id: 502
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: О группе
+  text: 'Cross-Eyed Cats играют блюз во всем его разнообразии, одинаково органично
+    звучат "в электричестве" с духовой секцией и в камерном формате акустического
+    трио. В их репертуаре около ста песен разного времени: от 30-х и 40-х годов прошлого
+    столетия до наших дней. Есть и целые тематические программы, посвященные творчеству
+    мастеров блюза (T-Bone Walker, Muddy Waters, Albert King), а также отдельным направлениям
+    в блюзе и ритм-энд-блюзе. Высокое исполнительское мастерство, безупречное чувство
+    стиля, эмоциональная подача, гармоничное сочетание импровизации и бережного отношения
+    к оригинальным аранжировкам делают выступления Cross-Eyed Cats яркими и запоминающимися.'
+  verified: true
+  created: '2019-01-10'
+  is_press_release: true

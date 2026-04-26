@@ -1,0 +1,1066 @@
+- id: 33287
+  date: '2013-02-01'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33288
+  date: '2013-02-02'
+  time: '20:30'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33289
+  date: '2013-02-07'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33290
+  date: '2013-02-08'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33291
+  date: '2013-02-09'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  comments: 'Новая программа - "Джазовый акцент: песни советских кинофильмов"'
+- id: 33292
+  date: '2013-02-14'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 33293
+  date: '2013-02-15'
+  time: '20:30'
+  band_name: Таис Урумидис (вокал) и её трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33294
+  date: '2013-02-16'
+  time: '20:30'
+  band_name: Квартет Алексея Иванникова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33295
+  date: '2013-02-21'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33296
+  date: '2013-02-20'
+  time: '20:30'
+  band_name: Квинтет Антона Румянцева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33297
+  date: '2013-02-23'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 33298
+  date: '2013-02-28'
+  time: '20:30'
+  band_name: Диана Диковски (вокал) и её трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32750
+  date: '2013-01-10'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32751
+  date: '2013-01-11'
+  time: '20:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32752
+  date: '2013-01-12'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32753
+  date: '2013-01-17'
+  time: '20:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32754
+  date: '2013-01-18'
+  time: '20:30'
+  band_name: Агван Папоян (Ryan) (вокал, Армения) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32755
+  date: '2013-01-19'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32756
+  date: '2013-01-24'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32757
+  date: '2013-01-25'
+  time: '20:30'
+  band_name: Анна Левшина (вокал) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 489
+    name: Квартет Анны Левшиной
+    token: anna-levshina
+- id: 32758
+  date: '2013-01-26'
+  time: '20:30'
+  band_name: Квартет Олега Агеева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 32759
+  date: '2013-01-31'
+  time: '20:30'
+  band_name: Концерт учеников педагогов Станислава Галицкого (гитара) и Дарьи Масальской
+    (вокал)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34227
+  date: '2013-03-09'
+  time: '20:30'
+  band_name: День рождения клуба
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34223
+  date: '2013-03-01'
+  time: '20:30'
+  band_name: Kathy Jenkins (вокал, США) и Антон Баронин (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34224
+  date: '2013-03-02'
+  time: '20:30'
+  band_name: Trad Jazz Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34225
+  date: '2013-03-07'
+  time: '20:30'
+  band_name: Марианна Савон (вокал) и квартет Григория Зайцева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34226
+  date: '2013-03-08'
+  time: '20:30'
+  band_name: Празднование 8 марта
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34228
+  date: '2013-03-14'
+  time: '20:30'
+  band_name: Квартет Олега Агеева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34229
+  date: '2013-03-15'
+  time: '20:30'
+  band_name: Kathy Jenkins (вокал, США) и Антон Баронин (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34230
+  date: '2013-03-16'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34231
+  date: '2013-03-21'
+  time: '20:30'
+  band_name: Болеслав Войшко (вокал, гармоника) и его трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34232
+  date: '2013-03-22'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34233
+  date: '2013-03-23'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34234
+  date: '2013-03-28'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34235
+  date: '2013-03-29'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 34236
+  date: '2013-03-30'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35292
+  date: '2013-04-05'
+  time: '20:30'
+  band_name: Orchestra 2.0
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35293
+  date: '2013-04-06'
+  time: '20:30'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35294
+  date: '2013-04-11'
+  time: '20:30'
+  band_name: Секстет Олега Бутмана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35295
+  date: '2013-04-12'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35296
+  date: '2013-04-18'
+  time: '20:30'
+  band_id: 504
+  band_name: Bingo Paprika
+  band_token: bingo-paprika
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35297
+  date: '2013-04-19'
+  time: '20:30'
+  band_id: 503
+  band_name: Наталья Смирнова
+  band_token: natalia-smirnova
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35298
+  date: '2013-04-20'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 35299
+  date: '2013-04-25'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35300
+  date: '2013-04-26'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35742
+  date: '2013-05-11'
+  time: '20:30'
+  band_name: Christian Tola (вокал, Италия) и Квартет Григория Зайцева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35740
+  date: '2013-05-09'
+  time: '20:30'
+  band_name: Парад Звезд Джаза в честь Дня Победы
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35741
+  date: '2013-05-10'
+  time: '20:30'
+  band_name: Квартет Дениса Швытова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35743
+  date: '2013-05-16'
+  time: '20:30'
+  band_name: Арзу Гусейнов (труба) и его квинтет
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35744
+  date: '2013-05-17'
+  time: '20:30'
+  band_name: Олеся Ялунинка (вокал) и Алексей Дегусаров (гитара)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35745
+  date: '2013-05-18'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35746
+  date: '2013-05-23'
+  time: '20:30'
+  band_name: Юлианна Рогачева (вокал) и её квартет
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35747
+  date: '2013-05-24'
+  time: '20:30'
+  band_name: 'Moscow Jazz Band п/у Владимира Лебедева c программой: "20 лет вместе"'
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35748
+  date: '2013-05-25'
+  time: '20:30'
+  band_name: Kadri Voorand (вокал, Эстония) и Леонид Сендерский (саксофон, Израиль),
+    специальный гость - Яков Окунь (рояль)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35749
+  date: '2013-05-30'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 35750
+  date: '2013-05-31'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36380
+  date: '2013-06-01'
+  time: '20:30'
+  band_name: Дети играют джаз
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36382
+  date: '2013-06-07'
+  time: '20:30'
+  band_name: Вагиф Садыхов (рояль) и его квартет при уч. Сергея Головни (саксофон)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36383
+  date: '2013-06-08'
+  time: '20:30'
+  band_name: Станислав Галицкий (гитара) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36385
+  date: '2013-06-14'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36386
+  date: '2013-06-15'
+  time: '20:30'
+  band_name: Квинтет Валерия Беспалова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36387
+  date: '2013-06-20'
+  time: '20:30'
+  band_name: Игорь Уланов и его новый проект "Лучшие контрабасисты мира"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36388
+  date: '2013-06-21'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36389
+  date: '2013-06-22'
+  time: '20:30'
+  band_name: Арминэ Саркисян (вокал) и ее группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36390
+  date: '2013-06-27'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и "Спросите у Стаса"
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36391
+  date: '2013-06-28'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36392
+  date: '2013-06-29'
+  time: '20:30'
+  band_name: Диана Диковски (вокал) и её группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36381
+  date: '2013-06-06'
+  time: '20:30'
+  band_name: Катерина Анохина & Atava band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 36384
+  date: '2013-06-13'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 37015
+  date: '2013-07-04'
+  time: '20:30'
+  band_name: Катерина Корс (вокал)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37016
+  date: '2013-07-05'
+  time: '20:30'
+  band_name: Посвящение Иосифу Бродскому
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37017
+  date: '2013-07-06'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37018
+  date: '2013-07-11'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37019
+  date: '2013-07-12'
+  time: '20:30'
+  band_name: Rock Edition
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37020
+  date: '2013-07-13'
+  time: '20:30'
+  band_name: Квинтет Вагифа Садыхова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37021
+  date: '2013-07-18'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37022
+  date: '2013-07-19'
+  time: '20:30'
+  band_name: Евгения Глейберман и Юрий Шихин
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37023
+  date: '2013-07-20'
+  time: '20:30'
+  band_name: Валерий Беспалов (гитара) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37024
+  date: '2013-07-25'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37025
+  date: '2013-07-26'
+  time: '20:30'
+  band_name: Ануш Мальян (вокал) и её трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37026
+  date: '2013-07-27'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37443
+  date: '2013-08-15'
+  time: '20:30'
+  band_name: Олег Грымов (саксофон) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37444
+  date: '2013-08-16'
+  time: '20:30'
+  band_id: 468
+  band_name: Полина Зизак
+  band_token: polina-zizak
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37445
+  date: '2013-08-17'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37446
+  date: '2013-08-22'
+  time: '20:30'
+  band_name: Квартет Олега Агеева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37447
+  date: '2013-08-23'
+  time: '20:30'
+  band_name: Проект Евгении Глейберман (вокал) и Юрия Шихина (вокал)
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37448
+  date: '2013-08-24'
+  time: '20:30'
+  band_name: Александр Довгополый Project
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37449
+  date: '2013-08-29'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37450
+  date: '2013-08-30'
+  time: '20:30'
+  band_name: Трио Армена Мерабова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37451
+  date: '2013-08-31'
+  time: '20:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 37452
+  date: '2013-08-28'
+  time: '20:30'
+  band_name: Диана Диковски (вокал) и ее трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38098
+  date: '2013-09-05'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38099
+  date: '2013-09-06'
+  time: '20:30'
+  band_name: Ани Арзуманян (вокал) и ее группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38100
+  date: '2013-09-12'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38101
+  date: '2013-09-13'
+  time: '20:30'
+  band_name: Светлана Панова (вокал) и её трио
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38102
+  date: '2013-09-14'
+  time: '20:30'
+  band_name: Антон Баронин (рояль) и Orchestra 2.0
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38103
+  date: '2013-09-19'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38104
+  date: '2013-09-20'
+  time: '20:30'
+  band_name: Таис Урумидис (вокал) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 38105
+  date: '2013-09-21'
+  time: '20:30'
+  band_name: Антон Румянцев (саксофон) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38106
+  date: '2013-09-26'
+  time: '20:30'
+  band_name: Никита Братусь (клавишные) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38107
+  date: '2013-09-27'
+  time: '20:30'
+  band_name: Юлианна Рогачева (вокал) и её квартет
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38842
+  date: '2013-10-03'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38843
+  date: '2013-10-04'
+  time: '20:30'
+  band_name: Евгения Глейберман и Юрий Шихин
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38844
+  date: '2013-10-10'
+  time: '20:30'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38845
+  date: '2013-10-11'
+  time: '20:30'
+  band_name: Олег Грымов (саксофон) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38846
+  date: '2013-10-17'
+  time: '20:30'
+  band_name: Катерина Корс (вокал) и её группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38847
+  date: '2013-10-18'
+  time: '20:30'
+  band_name: Проект Евдокия Лерер и...
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38848
+  date: '2013-10-19'
+  time: '20:30'
+  band_name: Екатерина Унгвари - Матвей Байдиков
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38849
+  date: '2013-10-24'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и квартет Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38850
+  date: '2013-10-25'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38851
+  date: '2013-10-26'
+  time: '20:30'
+  band_name: Юлиана Рогачёва (вокал) и её группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 38852
+  date: '2013-10-31'
+  time: '20:30'
+  band_name: Квартет Олега Агеева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39566
+  date: '2013-11-02'
+  time: '20:30'
+  band_name: Борис Мальковский (баян, рояль, Польша) и Moscow Jazz Passengers
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39567
+  date: '2013-11-07'
+  time: '20:30'
+  band_name: Ирина Салмова (вокал) и группа Стаса Ананьева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39568
+  date: '2013-11-08'
+  time: '20:30'
+  band_name: Игорь Уланов (контрабас) и его квартет с программой “Invitation”
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39569
+  date: '2013-11-09'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39570
+  date: '2013-11-14'
+  time: '20:30'
+  band_name: Денис Швытов (саксофон) и его группа с программой “Silver Woman”
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39571
+  date: '2013-11-15'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39572
+  date: '2013-11-16'
+  time: '20:30'
+  band_name: Ануш Мальян (вокал) и её группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39573
+  date: '2013-11-19'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39574
+  date: '2013-11-22'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39575
+  date: '2013-11-24'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон) и трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 39576
+  date: '2013-11-28'
+  time: '20:30'
+  band_name: Екатерина Корс (вокал) и её группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39577
+  date: '2013-11-29'
+  time: '20:30'
+  band_name: Евгений Баранов (труба) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39578
+  date: '2013-11-30'
+  time: '20:30'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 39855
+  date: '2013-11-21'
+  time: '20:30'
+  band_name: Секстет Вагифа Садыхова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40211
+  date: '2013-11-26'
+  time: '20:30'
+  band_name: Квинтет Вагифа Садыхова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40212
+  date: '2013-11-27'
+  time: '20:30'
+  band_name: Квартет Вагифа Садыхова
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40219
+  date: '2013-12-05'
+  time: '20:30'
+  band_name: Trad Jazz Band
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40220
+  date: '2013-12-06'
+  time: '20:30'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40221
+  date: '2013-12-12'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон) и Трио Евгения Гречищева
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 40222
+  date: '2013-12-19'
+  time: '20:30'
+  band_name: Проект Евдокия Лерер и...
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota
+- id: 40223
+  date: '2013-12-21'
+  time: '20:30'
+  band_name: Гасан Багиров (гитара) и его группа
+  club_id: 445
+  club_name: Клуб Игоря Бутмана на Полянке
+  club_token: butman-club-krasniye-vorota

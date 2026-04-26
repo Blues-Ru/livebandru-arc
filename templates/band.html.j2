@@ -1,0 +1,122 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ band.name }} — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+<div id="aboutBox">
+  {% if main_photo %}
+  <div class="photo">
+    <a href="/band/{{ band.token }}/photo#{{ main_photo.url }}">
+      <img src="/band/{{ band.token }}/images/{{ main_photo.thumb_url }}" title="{{ band.name }}" />
+    </a>
+  </div>
+  {% endif %}
+
+  {% if web_links %}
+  <p class="main">
+    {% for link in web_links %}
+    <a href="{{ link.url }}" target="_blank"><bx>{{ link.name }}</bx></a>{% if link.comments %} - {{ link.comments }}{% endif %}<br />
+    {% endfor %}
+  </p>
+  {% endif %}
+
+  <div class="description main">
+    {% if band.musicians %}
+    <p>
+      {% for m in band.musicians %}
+      <font>
+        <strongx>{{ m.name }}</strongx>
+        {% if m.instruments %} - {{ m.instruments }}{% endif %}
+      </font>
+      {% if not loop.last %}<br/>{% endif %}
+      {% endfor %}
+    </p>
+    {% endif %}
+  </div>
+
+  <div class="clear"></div>
+
+  {% if band.references %}
+  <p>
+    <b>См. также:</b>&#32;
+    {% for ref in band.references %}
+    <a href="/band/{{ ref.token }}/">{{ ref.name }}</a>{% if not loop.last %},{% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+
+  {% if top_clubs %}
+  <p>
+    <b>Играл в клубах:</b>&#32;
+    {% for club in top_clubs %}
+    <a href="/club/{{ club.token }}/">{{ club.name }}</a>{% if not loop.last %},{% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+</div>
+
+{% if first_review %}
+<div id="groupReview">
+  <h4 class="und">{{ first_review_section_title }}</h4>
+  <h4>
+    <a href="/band/{{ band.token }}/reviews#{{ first_review.reviewer_token }}">
+      {% if first_review.header %}{{ first_review.header }} - {% endif %}{{ first_review.reviewer_name }}
+    </a>
+  </h4>
+  <p class="main">{{ first_review.text_sample }}</p>
+  <p class="more">
+    <a class="more" href="/band/{{ band.token }}/reviews#{{ first_review.reviewer_token }}">Читать далее...</a>
+  </p>
+</div>
+{% if other_reviews %}
+<blockquote>
+  <p>
+    <b><ix>Другие тексты: </ix></b>&#32;
+    {% for r in other_reviews %}
+    <a href="/band/{{ band.token }}/reviews#{{ r.reviewer_token }}">{{ r.reviewer_name }}{% if r.header %}: {{ r.header }}{% endif %}</a>{% if not loop.last %}; {% endif %}
+    {% endfor %}
+  </p>
+</blockquote>
+{% endif %}
+{% endif %}
+
+{% if main_youtube %}
+<iframe width="560" height="315"
+   src="https://www.youtube.com/embed/{{ main_youtube }}"
+   frameborder="0" allowfullscreen=""></iframe>
+{% endif %}
+
+<div class="lrBlocks">
+  {% if band.gig_count > 0 %}
+  <div class="{{ gigs_block_align }}">
+    <h4 class="und">История концертов <a href="/band/{{ band.token }}/gigs/">все...</a></h4>
+    {% if year_stats %}
+    <p class="main">
+      {% for year, count in year_stats %}
+      <a href="/band/{{ band.token }}/gigs/#y{{ year }}">{{ year }}</a>&#160;({{ count }}){% if not loop.last %},&#160;{% endif %}
+      {% endfor %}
+    </p>
+    <p class="more"><a class="more" href="/band/{{ band.token }}/gigs/">Все концерты...</a></p>
+    <div class="brdBtm"></div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {% if music_clips %}
+  <div id="musicVideo" class="{{ music_block_align }}">
+    <h4 class="und">Музыка и видео</h4>
+    <ul>
+      {% for clip in music_clips %}
+      <li class="{{ clip.li_class }}">
+        <span class="file">
+          <a href="/band/{{ band.token }}/music#{{ clip.id }}">{{ clip.name }}</a>
+        </span>
+        {% if clip.comments %}<brx/>{{ clip.comments }}{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    <div class="brdBtm"></div>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

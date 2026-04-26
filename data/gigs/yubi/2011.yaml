@@ -1,0 +1,67 @@
+- id: 16189
+  date: '2011-03-06'
+  time: '18:00'
+  band_name: Король и Шут, Океан Эльзи, Алиса, Ю-Питер и Бутусов, Ляпис Трубецкой,
+    Пилот, Ночные Снайперы, Кукрыниксы
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+  extra_bands:
+  - id: 277
+    name: Ночные Снайперы
+    token: night-snipers
+  - id: 241
+    name: Алиса
+    token: alisa
+- id: 16541
+  date: '2011-03-16'
+  time: '19:00'
+  band_name: Slayer (США), Megadeth (США)
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+- id: 18322
+  date: '2011-05-01'
+  time: '20:00'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+- id: 18313
+  date: '2011-04-30'
+  time: '20:00'
+  band_name: Звери
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+- id: 19712
+  date: '2011-06-03'
+  time: '15:00'
+  band_name: Кипелов, Король и шут, Сплин, Би-2, Чиж & Сo, Пикник, Кирпичи, Мураками,
+    Александр Конвисер и МПТРИ
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+  extra_bands:
+  - id: 373
+    name: Би-2
+    token: bi-2
+  - id: 316
+    name: Чиж & Co
+    token: chizh
+- id: 20214
+  date: '2011-06-07'
+  time: '19:00'
+  band_name: Moby
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi
+- id: 22054
+  date: '2011-09-30'
+  time: '19:00'
+  band_name: Apocalyptica
+  club_id: 300
+  club_name: СК "Юбилейный"
+  club_token: yubi

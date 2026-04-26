@@ -1,0 +1,122 @@
+- id: 24408
+  date: '2012-01-18'
+  time: '20:00'
+  band_id: 454
+  band_name: Osipov Friends
+  band_token: osipov-friends
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  price: бесплатный
+- id: 27677
+  date: '2012-05-23'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 27674
+  date: '2012-05-12'
+  time: '20:00'
+  band_name: Classy Jazz - Олег Матвеев (саксофон, кларнет, гармоника), Роман Могучев
+    (контрабас), Дмитрий Волков (клавиши), Павел Головенков (ударные)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 27675
+  date: '2012-05-16'
+  time: '20:00'
+  band_name: Djangoband и Полина Касьянова (вокал)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 27676
+  date: '2012-05-18'
+  time: '20:00'
+  band_name: Terraacoustica - Юрий Мягков (гитара), Александр Василенко (гитара),
+    Константин Мережников (скрипка)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 27678
+  date: '2012-05-25'
+  time: '20:00'
+  band_name: Jazz Report
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 28685
+  date: '2012-07-04'
+  time: '20:00'
+  band_id: 506
+  band_name: Post-Jazz Trio
+  band_token: post-jazz-trio
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  price: бесплатный
+- id: 29029
+  date: '2012-07-11'
+  time: '20:00'
+  band_name: Елена Иланг и Arrmi
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  comments: Елена Иланг (вокал), Arrmi (вокал), Олег Стариков (клавиши), Анатолий
+    Кожаев (бас)
+- id: 29030
+  date: '2012-07-13'
+  time: '20:00'
+  band_name: Jazz Report
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  comments: Татьяна Шишкова (вокал), Дмитрий Волков (клавиши), Игорь Федченко (бас-гитара),
+    Александр Трофимов (ударные)
+- id: 29031
+  date: '2012-07-18'
+  time: '20:00'
+  band_name: Classy Jazz
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  comments: Олег Матвеев (саксафон, гармоника, кларнет), Роман Могучев (контрабас),
+    Дмитрий Волков (клавиши), Павел Головенков (ударные)
+- id: 29032
+  date: '2012-07-20'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 29033
+  date: '2012-07-25'
+  time: '20:00'
+  band_name: Djangoband и Полина Косьянова (вокал)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 29991
+  date: '2012-09-07'
+  time: '20:00'
+  band_name: Osipov Band. Премьера нового состава (Анатолий Осипов - тенор-саксофон,
+    Алексей Рябухин - клавишные, Роман Салмасов - контрабас, Константин Войнов - барабаны).
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  price: бесплатный
+  extra_bands:
+  - id: 369
+    name: Алексей Рябухин
+    token: alexey-ryabykhin
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends

@@ -1,0 +1,52 @@
+id: 634
+token: dr-endo
+name: Дмитрий Dr. Endo Казачков & Dreamteam
+aliases: 'Dr. Endo & Dreamteam
+
+  Dr. Endo & Friends
+
+  Дмитрий Dr. Endo Казачков
+
+  Dr. Endo
+
+  Dr.Endo'
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Дмитрий Казачков
+  instruments: вокал, гитара
+- name: Юрий Новгородский
+  instruments: гитара
+- name: Евгений Глухов
+  instruments: бас-гитара, вокал
+- name: Александр Половинкин
+  instruments: ударные
+- name: Антон Ильин
+  instruments: клавишные
+- name: Сергей Джон Сорокин
+  instruments: губная гармошка
+- name: Анастасия Концевая
+  instruments: вокал
+clips:
+- id: 4874
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 4876
+  type: photo
+  url: dr-endo.jpg
+  sort_order: 0
+  width: 604
+  height: 392
+- id: 4877
+  type: photo
+  url: dr-endo-2.jpg
+  sort_order: 100
+  width: 960
+  height: 960
+- id: 4875
+  type: youtube
+  url: http://youtu.be/ZUd7u4mHswc
+  sort_order: 99

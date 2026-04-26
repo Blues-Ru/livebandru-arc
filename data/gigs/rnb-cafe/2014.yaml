@@ -1,0 +1,2530 @@
+- id: 41115
+  date: '2014-02-21'
+  time: '21:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 41400
+  date: '2014-01-31'
+  time: '21:00'
+  band_id: 661
+  band_name: Eddie Martin
+  band_token: eddie-martin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600/800
+- id: 41425
+  date: '2014-01-24'
+  time: '21:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700 руб.
+- id: 41401
+  date: '2014-02-07'
+  time: '21:00'
+  band_id: 644
+  band_name: Oliver Darling
+  band_token: oliver-darling
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600/800
+- id: 41572
+  date: '2014-01-25'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41575
+  date: '2014-02-07'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41584
+  date: '2014-02-01'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 41587
+  date: '2014-01-27'
+  time: '21:00'
+  band_name: Dr. Nick, Lex & Team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41588
+  date: '2014-02-03'
+  time: '21:00'
+  band_name: Dr. Nick, plays Dr. Nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41590
+  date: '2014-02-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 41589
+  date: '2014-02-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 41591
+  date: '2014-02-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 41571
+  date: '2014-01-24'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41573
+  date: '2014-01-31'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41574
+  date: '2014-02-01'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41576
+  date: '2014-02-08'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41577
+  date: '2014-02-14'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41578
+  date: '2014-02-15'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41579
+  date: '2014-02-21'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41580
+  date: '2014-02-22'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41581
+  date: '2014-02-28'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41582
+  date: '2014-03-01'
+  time: 01:00
+  band_name: Dr. Nick, DJ Kazantsev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41583
+  date: '2014-01-25'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 41585
+  date: '2014-02-14'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 42131
+  date: '2014-02-27'
+  time: '21:00'
+  band_id: 659
+  band_name: Dani Wilde
+  band_token: dani-wilde
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 42843
+  date: '2014-03-28'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 42222
+  date: '2014-03-07'
+  time: '21:00'
+  band_id: 608
+  band_name: Big Joe Louis
+  band_token: big-joe-louis
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 42301
+  date: '2014-03-21'
+  time: '21:00'
+  band_id: 648
+  band_name: Rollo Markee
+  band_token: rollo-markee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 42304
+  date: '2014-03-14'
+  time: '21:00'
+  band_id: 662
+  band_name: Emanuele "Manny" Fizzotti
+  band_token: manny-fizzotti
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 42307
+  date: '2014-03-27'
+  time: '21:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 42571
+  date: '2014-03-29'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 42572
+  date: '2014-03-01'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 42573
+  date: '2014-03-15'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 42574
+  date: '2014-03-21'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 42838
+  date: '2014-03-24'
+  time: '21:00'
+  band_name: Dr. Nick, Михаил Клягин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 42837
+  date: '2014-03-22'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 42844
+  date: '2014-03-31'
+  time: '21:00'
+  band_name: Dr. Nick, music of Eric Clapton
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 43328
+  date: '2014-04-25'
+  time: '21:00'
+  band_id: 655
+  band_name: Marcus Bonfanti
+  band_token: marcus-bonfanti
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 44056
+  date: '2014-05-23'
+  time: '21:00'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 44074
+  date: '2014-06-12'
+  time: '21:00'
+  band_id: 654
+  band_name: Ian Siegal
+  band_token: ian-siegal
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800/1000
+- id: 44084
+  date: '2014-05-17'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44085
+  date: '2014-05-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44090
+  date: '2014-05-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44188
+  date: '2014-06-02'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44192
+  date: '2014-06-07'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44193
+  date: '2014-06-14'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44194
+  date: '2014-06-28'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44195
+  date: '2014-06-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44196
+  date: '2014-06-16'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44197
+  date: '2014-06-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 44198
+  date: '2014-06-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45527
+  date: '2014-08-01'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45528
+  date: '2014-08-02'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 45529
+  date: '2014-08-02'
+  time: '19:00'
+  band_name: Full Moon Jazz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45530
+  date: '2014-08-05'
+  time: '21:00'
+  band_name: DjangoBand
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: '"DjangoBand" - камерный джазовый ансамбль, назвавшийся в честь легендарного
+    цыганского гитариста Джанго Рейнхардта и проникшийся духом его вольного цыганского
+    джаза. Стремительные нотные пассажи, исполненные со всей таборной страстью, приправлены
+    еще и джазовым горячим свингом. Увлекательнейший полет импровизации в сферах,
+    где молодой свинг-джаз 20-х и 30-х годов прошлого века переплетен с вековыми традициями
+    бродячего народа. Но только ритм держится словно сам собой - в ансамбле нет ни
+    бубнов, не барабанов. Два гитариста и контрабасист сами выдают ритм легкий и увлекательный.
+    Познания музыкантов в области "джаз-мануш" поистине энциклопедические, а азарт
+    игры как у молодых волчат на первой охоте. С той разницей, конечно, что энциклопедисты
+    никогда не ошибаются, как бы горячо не были увлечены. "DjangoBand" - это коллектив
+    фанатичных единомышленников, который играет не только произведения великого Джанго,
+    но и авторские композиции.'
+- id: 45563
+  date: '2014-08-16'
+  time: '21:00'
+  band_name: eaZZyTOP
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  comments: Впервые на сцене Ритм н Блюз кафе!Группа eaZZyTop- типичное "гаражное"
+    рок-трио,играющие громкую музыку,основанную на рифах блюз-роковой пергруженной
+    гитары,на монументальном и несколько сухом бите барабанов,пульсирующим рисунке
+    нот и хриплом вокале.Ребята с удовольствием играюх хиты ZZ TOP,а так же Jimi Hendrix,Kiss,Rolling
+    Stones,Deep Purple и др. Легенд олд-скульного рока-все что мы так любим!Не пропустите!
+- id: 45519
+  date: '2014-08-21'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 45531
+  date: '2014-08-04'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  comments: "Музыкальный кругозор Дмитрия Казанцева весьма широк, но Д-р Ник не всеяден:\
+    \ выбирается только самое лучшее, и слушателю передает только в самом изысканном\
+    \ виде. За годы работы авторитет проекта стал непререкаем. И приглашение принять\
+    \ участие в концерте для музыкантов стало подтверждением высокого профессионального\
+    \ статуса, а для слушателя - гарантией высочайшего уровня.\r\nПочему \"Ник\"?\
+    \ Потому что так получилось, вот и все.\r\nЗато \"Доктор\" - так и есть по всем\
+    \ трем статьям. Для здоровья полезно, музыкальная эрудиция - академического масштаба.\
+    \ Ну и без колдовства и заклинаний тоже не обходится...\r\nВ этот раз коротать\
+    \ вечерок планируется в компании  с ....."
+- id: 45532
+  date: '2014-08-06'
+  time: '21:00'
+  band_name: Алексей Лекс Блохин-Рок-ролл шоу.Специальный гость Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: Алексей "Lex" Блохин - один из ярчайших представителей Московской музыкальной
+    сцены. Пианист, певец, шоумен, - вот уже 20 лет он буквально "взрывает" как Российскую,
+    так и зарубежную сцену благодаря своему блестящему, поистине многогранному таланту.
+    В 2006 году Lex собирает группу "Lex и Команда". За этот относительно-короткий
+    срок группа успела полюбиться и Московской публике, и в регионах, и стала желанным
+    гостем как в клубах, так и на больших площадках. Фирменная "фишка" коллектива
+    - самобытные интерпретации классического рок-н-ролла и рокабилли, аутентичная
+    авторская программа, почти акробатическое шоу от Lex'a, и неизменно-мощный посыл
+    позитива своим слушателям!
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 45533
+  date: '2014-08-06'
+  time: '19:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45534
+  date: '2014-08-07'
+  time: '21:00'
+  band_name: Thomas Stwalley and Dynamic James
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 45535
+  date: '2014-08-07'
+  time: '19:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45536
+  date: '2014-08-08'
+  time: '20:00'
+  band_name: Алексей Лекс Блохин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45537
+  date: '2014-08-08'
+  time: '23:30'
+  band_name: Татьянин Бенд
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  comments: "В это вечер в гостях у Ритм-Блюз кафе самая виртуозная саксофонистка\
+    \ Москвы со своей командой \"Татьянин Бэнд\".\r\n\r\nСолистка Академического Большого\
+    \ концертного оркестра им. Ю.В. Селантьева Таня Ларина представят Вам свою новую\
+    \ программу \"SAXuality\". Фееричное исполнение драйвового соул-фанка поддержит\
+    \ своим присутствием специальный гость Настя Сахарова (солистка проекта \"SakhaR\
+    \ Project\"). В ночном городе эти ребята зажигают звезды...."
+- id: 45538
+  date: '2014-08-09'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 45539
+  date: '2014-08-09'
+  time: '20:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45540
+  date: '2014-08-09'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45541
+  date: '2014-08-10'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в нашем клубе происходит событие воистину, грандиозное!\
+    \ С шести и до одиннадцати вечера продолжается своеобразный блюз-марафон - целых\
+    \ пять часов непредсказуемого действа! Каждый может попробовать себя в роли блюзового\
+    \ музыканта. Многие молодые блюзмены, успешно выступающие нынче начинали с наших\
+    \ джемов и, будем надеяться, такое будет и впредь случаться. Многие наши блюзовые\
+    \ мэтры и даже зарубежные гастролеры частенько не отказывают себе в удовольствии\
+    \ спеть-сыграть перед сверхблагодарной воскресной публикой.\r\n\r\nВесь вечер\
+    \ на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\n\r\nВадим\
+    \ Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\nМихаил Юдин\
+    \ - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\nВсем участникам\
+    \ гарантируется внимательное и бережное отношение, но пожалуйста, соблюдайте наши\
+    \ правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение блюзовой\
+    \ классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\n\
+    \r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш хаус-бэнд\
+    \ сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или прервали\
+    \ ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте что\
+    \ же не так и почему.\r\n\r\nВот здесь некоторые эпизоды джема\r\n\r\nСтоимость\
+    \ билета -300 р\r\n\r\n*всем музыкантам участвующим в джеме - вход свободный!\r\
+    \n\r\nЕсли вы группа, которая талантливо исполняет джаз-блюз-кантри\r\n\r\nна\
+    \ английском языке, то мы вас ждем у нас в клубе."
+- id: 45547
+  date: '2014-08-01'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45549
+  date: '2014-08-11'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45550
+  date: '2014-08-12'
+  time: '20:00'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 45551
+  date: '2014-08-13'
+  time: '19:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45546
+  date: '2014-08-01'
+  time: '20:00'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  comments: "Stone Shades - единственная в Москве Rolling Stones cover группа.\r\n\
+    \r\nБудут исполнены золотые хиты \"Роллингов\", таких как Satisfaction , Angie,\
+    \ Paint it black, Honky tonk women, Miss you , Start me up , Wild Horses и много\
+    \ других .\r\n\r\nStone Shades выделяются живостью и обаянием вокалиста.\r\n\r\
+    \nАлександра Васильева, безусловно, главного претендента на звание московского\
+    \ Мика Джаггера, а также цепкой и взрывной манерой игры всего состава."
+- id: 45548
+  date: '2014-08-02'
+  time: '23:30'
+  band_name: Клягин-Терешина Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  comments: "Михаил Клягин - известный в профессиональных кругах гитарист. Выступал\
+    \ и продолжает выступать с группами \"Кукуруза\", \"Лицей\", Владимиром Пресняковым,\
+    \ Машей Кац и многими другими известными исполнителями. Блестящий сессионный гитарист.\
+    \ Участвовал в записи множества альбомов самых разных музыкантов и групп, от \"\
+    Машины времени\" до \"Кукурузы\".\r\n\r\nГитарист в группе Евгения Маргулиса,\
+    \ с которым сотрудничает уже более 15 лет.\r\n\r\nКроме того Михаил - опытный\
+    \ преподаватель, более 17 лет преподает в Московском колледже импровизационной\
+    \ музыки.\r\n\r\nМихаил выступит со своим новым проектом в тандеме с талантливой\
+    \ певицей Викторией Терешиной\r\n\r\nГруппа Клягин&Терешина Band исполняет зажигательную\
+    \ смесь из Rock'n'Roll, R'n'B, Country, Blues, Swing. В репертуаре группы популярные\
+    \ мелодии 50-70-х годов в оригинальной обработке, а так же авторский материал."
+- id: 45570
+  date: '2014-08-21'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45571
+  date: '2014-08-22'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 45579
+  date: '2014-08-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45552
+  date: '2014-08-13'
+  time: '21:00'
+  band_name: Алексей Lex Блохин и рок-н-ролл шоу в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: Алексей "Lex" Блохин - один из ярчайших представителей Московской музыкальной
+    сцены. Пианист, певец, шоумен, - вот уже 20 лет он буквально "взрывает" как Российскую,
+    так и зарубежную сцену благодаря своему блестящему, поистине многогранному таланту.
+    В 2006 году Lex собирает группу "Lex и Команда". За этот относительно-короткий
+    срок группа успела полюбиться и Московской публике, и в регионах, и стала желанным
+    гостем как в клубах, так и на больших площадках. Фирменная "фишка" коллектива
+    - самобытные интерпретации классического рок-н-ролла и рокабилли, аутентичная
+    авторская программа, почти акробатическое шоу от Lex'a, и неизменно-мощный посыл
+    позитива своим слушателям!
+- id: 45553
+  date: '2014-08-14'
+  time: '21:00'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45554
+  date: '2014-08-14'
+  time: '20:00'
+  band_name: Diamond Hand
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  comments: "Diamond Hand - одна из немногих команд на всем постсоветском пространстве,\
+    \ избравшая своим главным и единственным жанром аутентичное рокабилли. Это не\
+    \ переделка старинных мелодий в современные композиции, о нет! Если \"Бриллиантовая\
+    \ рука\" берется за какую-то песню, будьте уверены, вы ни за что не сможете догадаться,\
+    \ что это современный вариант. В большинстве своем эти музыканты специализируются\
+    \ на мелодиях, которые в свое время пользовались бешеной популярностью, но сегодня\
+    \ незаслуженно забыты.\r\n\r\nЗа двенадцать лет своего существования эти ребята\
+    \ стали желанными гостями на лучших концертных площадках России и соседних государств.\
+    \ Кроме качественной музыки, своим слушателям они всегда дарят живое общение и\
+    \ мощный заряд позитивной энергии."
+- id: 45562
+  date: '2014-08-16'
+  time: '20:00'
+  band_name: Jakenife
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  comments: "JACKKNIFE Rockabilly Trio (ДЖЕКНАЙФ Рокабилли Трио) было сформировано\
+    \ в начале 2001-го года в городе Ростове-на-Дону тремя студентами ростовского\
+    \ радиоколледжа, одержимыми решимостью воспроизвести все песни с рок-н-ролл-пластинок,\
+    \ что обладают таким потрясающим эффектом. Первый концерт состоялся в день рождения\
+    \ рок-н-ролла - 12-го апреля 2001-го года в клубе ЛИЛА.\r\n\r\nНеизменным лидером\
+    \ трио стал Алексей Фетисов (контрабас, вокал). С его легкой руки в кратчайшие\
+    \ сроки группа получила немалую известность не только на Юге, но так же за его\
+    \ пределами, выступая как в клубах, так и на больших фестивальных сценах, сотрудничая\
+    \ с другими исполнителями ритм-энд-блюза и рок-н-ролла.\r\n\r\nОсновываясь на\
+    \ стиле таких исполнителей как Билл Хейли (Bill Haley), Джин Винсент (Gene Vincent),\
+    \ Эдди Кокрэн (Eddie Cochran), Бадди Холли (Buddy Holly), Чак Берри (Chuck Berry)\
+    \ и др., трио играет со свежим современным звучанием, веселой и эмоциональной\
+    \ подачей, увлекая все больше людей уникальной музыкальной культурой, помогающей\
+    \ творить и строить..."
+- id: 45564
+  date: '2014-08-16'
+  time: '23:30'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45565
+  date: '2014-08-17'
+  time: '18:30'
+  band_name: Открытый Блюзовый джем в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в нашем клубе происходит событие воистину, грандиозное!\
+    \ С шести и до одиннадцати вечера продолжается своеобразный блюз-марафон - целых\
+    \ пять часов непредсказуемого действа! Каждый может попробовать себя в роли блюзового\
+    \ музыканта. Многие молодые блюзмены, успешно выступающие нынче начинали с наших\
+    \ джемов и, будем надеяться, такое будет и впредь случаться. Многие наши блюзовые\
+    \ мэтры и даже зарубежные гастролеры частенько не отказывают себе в удовольствии\
+    \ спеть-сыграть перед сверхблагодарной воскресной публикой.\r\n\r\nВесь вечер\
+    \ на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\n\r\nВадим\
+    \ Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\nМихаил Юдин\
+    \ - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\nВсем участникам\
+    \ гарантируется внимательное и бережное отношение, но пожалуйста, соблюдайте наши\
+    \ правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение блюзовой\
+    \ классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\n\
+    \r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш хаус-бэнд\
+    \ сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или прервали\
+    \ ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте что\
+    \ же не так и почему.\r\n\r\nВот здесь некоторые эпизоды джема\r\n\r\nСтоимость\
+    \ билета - 200р\r\n\r\n*всем музыкантам участвующим в джеме - вход свободный!"
+- id: 45567
+  date: '2014-08-18'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45575
+  date: '2014-08-23'
+  time: '20:00'
+  band_name: Honky Tonk Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45577
+  date: '2014-08-23'
+  time: '23:30'
+  band_name: Ованес Гулишьян
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+- id: 45578
+  date: '2014-08-24'
+  time: '18:30'
+  band_name: Открытый блюзовый джем в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в нашем клубе происходит событие воистину, грандиозное!\
+    \ С шести и до одиннадцати вечера продолжается своеобразный блюз-марафон - целых\
+    \ пять часов непредсказуемого действа! Каждый может попробовать себя в роли блюзового\
+    \ музыканта. Многие молодые блюзмены, успешно выступающие нынче начинали с наших\
+    \ джемов и, будем надеяться, такое будет и впредь случаться. Многие наши блюзовые\
+    \ мэтры и даже зарубежные гастролеры частенько не отказывают себе в удовольствии\
+    \ спеть-сыграть перед сверхблагодарной воскресной публикой.\r\nВесь вечер на сцене\
+    \ находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\nВадим Иващенко - гитара,\
+    \ вокал\r\nЮрий Горелов - бас-гитара\r\nМихаил Юдин - барабаны\r\nмузыкантам вход\
+    \ свободный!"
+- id: 45580
+  date: '2014-08-26'
+  time: '20:00'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 45581
+  date: '2014-08-27'
+  time: '21:00'
+  band_name: Рок-н-ролл шоу с А.Lex Блохиным в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 45582
+  date: '2014-08-28'
+  time: '21:00'
+  band_name: The Kikpickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45583
+  date: '2014-08-28'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 45566
+  date: '2014-08-17'
+  time: '18:30'
+  band_name: Открытый Блюзовый джем в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в нашем клубе происходит событие воистину, грандиозное!\
+    \ С шести и до одиннадцати вечера продолжается своеобразный блюз-марафон - целых\
+    \ пять часов непредсказуемого действа! Каждый может попробовать себя в роли блюзового\
+    \ музыканта. Многие молодые блюзмены, успешно выступающие нынче начинали с наших\
+    \ джемов и, будем надеяться, такое будет и впредь случаться. Многие наши блюзовые\
+    \ мэтры и даже зарубежные гастролеры частенько не отказывают себе в удовольствии\
+    \ спеть-сыграть перед сверхблагодарной воскресной публикой.\r\n\r\nВесь вечер\
+    \ на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\n\r\nВадим\
+    \ Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\nМихаил Юдин\
+    \ - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\nВсем участникам\
+    \ гарантируется внимательное и бережное отношение, но пожалуйста, соблюдайте наши\
+    \ правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение блюзовой\
+    \ классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\n\
+    \r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш хаус-бэнд\
+    \ сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или прервали\
+    \ ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте что\
+    \ же не так и почему.\r\n\r\nВот здесь некоторые эпизоды джема\r\n\r\nСтоимость\
+    \ билета - 200р\r\n\r\n*всем музыкантам участвующим в джеме - вход свободный!"
+- id: 45568
+  date: '2014-08-19'
+  time: '20:00'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 45569
+  date: '2014-08-20'
+  time: '21:00'
+  band_name: Рок-н-ролл шоу с А.Lex Блохиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 45572
+  date: '2014-08-22'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45574
+  date: '2014-08-23'
+  time: '21:00'
+  band_name: Леван Ломидзе и Дмитрий Четвергов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 45576
+  date: '2014-08-23'
+  time: '20:00'
+  band_name: Honky Tonk Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45584
+  date: '2014-08-29'
+  time: '21:00'
+  band_name: Михаил Кистанов трио
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45585
+  date: '2014-08-29'
+  time: '21:00'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 45586
+  date: '2014-08-29'
+  time: '23:30'
+  band_name: Елена Шери
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45587
+  date: '2014-08-30'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins и Сергей Манукян
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 45588
+  date: '2014-08-30'
+  time: '20:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 45589
+  date: '2014-08-30'
+  time: '23:30'
+  band_name: Степан Юрлов и Live In
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45573
+  date: '2014-08-22'
+  time: '23:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  comments: "В творчестве Dizzy Riders основную роль играют ритм-н-блюз, фанк и соул.\
+    \ Участники этой группы черпают вдохновение из пластинок американской звукозаписывающей\
+    \ индустрии 60-70-ых годов. Подобную музыку принято исполнять большим составом\
+    \ музыкантов, но к черту условности: немногочисленные Dizzy Riders берут огонь\
+    \ на себя. Яркий, запоминающийся вокал и грув. Все по-настоящему, по-честному,\
+    \ не менее зажигательно, чем у мастеров жанра!\r\n\r\n\"Какие-то группы обращают\
+    \ на себя внимание моторной ритм-секцией, какие-то забойными гитарными соло. Основа\
+    \ Dizzy Riders - харизма фронтмена, который держит на нерве каждую ноту, балансируя\
+    \ на грани истеричности, но никогда в нее не скатываясь. Можно сказать, что так,\
+    \ постепенно, у него выработался свой стиль, узнаваемый, интересный и отличающий\
+    \ его от прочих московских фанкеров.\""
+- id: 44679
+  date: '2014-06-28'
+  time: '21:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 44764
+  date: '2014-06-27'
+  time: '21:00'
+  band_id: 669
+  band_name: Gwyn Ashton
+  band_token: gwyn-ashton
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  comments: Sitting in with Mikhail Kistanov band
+- id: 44783
+  date: '2014-07-17'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 45176
+  date: '2014-07-18'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45555
+  date: '2014-08-15'
+  time: '20:00'
+  band_name: Клягин-Тереншина Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 45556
+  date: '2014-08-15'
+  time: '23:30'
+  band_name: Wodstock 69/45 Ночной джем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 45557
+  date: '2014-08-15'
+  time: '20:30'
+  band_name: Фестиваль Woodstock 69/45
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 45357
+  date: '2014-08-08'
+  time: '21:00'
+  band_id: 671
+  band_name: Jon Amor
+  band_token: jon-amor
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800/1000
+- id: 46105
+  date: '2014-09-08'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46106
+  date: '2014-09-09'
+  time: '20:30'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 46101
+  date: '2014-09-05'
+  time: '21:00'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46102
+  date: '2014-09-05'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500/400
+- id: 46103
+  date: '2014-09-06'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 46104
+  date: '2014-09-07'
+  time: '18:30'
+  band_name: Открытый блюзовый джем в Ритм н Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46094
+  date: '2014-08-31'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем в Ритм н Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46095
+  date: '2014-09-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46096
+  date: '2014-09-02'
+  time: '21:00'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 46097
+  date: '2014-09-03'
+  time: '21:00'
+  band_name: Рок-н-ролл шоу с Lex Блохиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: Алексей "Lex" Блохин - один из ярчайших представителей Московской музыкальной
+    сцены. Пианист, певец, шоумен, - вот уже 20 лет он буквально "взрывает" как Российскую,
+    так и зарубежную сцену благодаря своему блестящему, поистине многогранному таланту.
+    В 2006 году Lex собирает группу "Lex и Команда". За этот относительно-короткий
+    срок группа успела полюбиться и Московской публике, и в регионах, и стала желанным
+    гостем как в клубах, так и на больших площадках. Фирменная "фишка" коллектива
+    - самобытные интерпретации классического рок-н-ролла и рокабилли, аутентичная
+    авторская программа, почти акробатическое шоу от Lex'a, и неизменно-мощный посыл
+    позитива своим слушателям!
+- id: 46098
+  date: '2014-09-03'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46099
+  date: '2014-09-04'
+  time: '21:00'
+  band_id: 117
+  band_name: Листья Травы
+  band_token: leaves-of-grass
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 46100
+  date: '2014-09-04'
+  time: '20:30'
+  band_name: Клягин-Терешина Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  comments: "Михаил Клягин - известный в профессиональных кругах гитарист. Выступал\
+    \ и продолжает выступать с группами \"Кукуруза\", \"Лицей\", Владимиром Пресняковым,\
+    \ Машей Кац и многими другими известными исполнителями. Блестящий сессионный гитарист.\
+    \ Участвовал в записи множества альбомов самых разных музыкантов и групп, от \"\
+    Машины времени\" до \"Кукурузы\".\r\n\r\nГитарист в группе Евгения Маргулиса,\
+    \ с которым сотрудничает уже более 15 лет.\r\n\r\nКроме того Михаил - опытный\
+    \ преподаватель, более 17 лет преподает в Московском колледже импровизационной\
+    \ музыки.\r\n\r\nМихаил выступит со своим новым проектом в тандеме с талантливой\
+    \ певицей Викторией Терешиной\r\n\r\nГруппа Клягин&Терешина Band исполняет зажигательную\
+    \ смесь из Rock'n'Roll, R'n'B, Country, Blues, Swing. В репертуаре группы популярные\
+    \ мелодии 50-70-х годов в оригинальной обработке, а так же авторский материал."
+- id: 46300
+  date: '2014-09-10'
+  time: '19:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700 руб.
+  comments: Летняя вечеринка в Ритм н Блюз кафе!!
+- id: 46301
+  date: '2014-09-10'
+  time: '21:00'
+  band_name: Рок н ролл шоу от Lex Блохина
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46303
+  date: '2014-09-11'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 46304
+  date: '2014-09-11'
+  time: '21:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46305
+  date: '2014-09-12'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 46306
+  date: '2014-09-12'
+  time: '21:00'
+  band_id: 673
+  band_name: Innes Sibun
+  band_token: innes-sibun
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800/1000 руб.
+- id: 46313
+  date: '2014-09-17'
+  time: '21:00'
+  band_name: Рок н ролл шоу с Lex Блохиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46315
+  date: '2014-09-19'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 46316
+  date: '2014-09-19'
+  time: '20:30'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  comments: Концерт посвящен Дню Рождения.Специальные гости!
+- id: 46318
+  date: '2014-09-05'
+  time: '23:30'
+  band_name: Layana Shary
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46319
+  date: '2014-09-06'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46322
+  date: '2014-09-20'
+  time: '20:30'
+  band_name: День рождение Ксении Федуловой
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 46323
+  date: '2014-09-21'
+  time: '18:30'
+  band_name: Открытый Блюзовый джем в Ритм н Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46324
+  date: '2014-09-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46325
+  date: '2014-09-23'
+  time: '20:30'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46326
+  date: '2014-09-24'
+  time: '21:00'
+  band_name: Рок-н-ролл шоу от Lex Блохина
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46327
+  date: '2014-09-24'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46328
+  date: '2014-09-25'
+  time: '21:30'
+  band_id: 664
+  band_name: Ben Poole
+  band_token: ben-poole
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800/1000 руб.
+- id: 46329
+  date: '2014-09-25'
+  time: '20:30'
+  band_name: Михаил Владимиров Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 46330
+  date: '2014-09-26'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 46331
+  date: '2014-09-26'
+  time: '21:00'
+  band_name: the CrossroadZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 46332
+  date: '2014-09-20'
+  time: '23:30'
+  band_name: Степан Юрлов и Live In
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46333
+  date: '2014-09-26'
+  time: '23:30'
+  band_name: Клягин-Терешина Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  comments: "Михаил Клягин - известный в профессиональных кругах гитарист. Выступал\
+    \ и продолжает выступать с группами \"Кукуруза\", \"Лицей\", Владимиром Пресняковым,\
+    \ Машей Кац и многими другими известными исполнителями. Блестящий сессионный гитарист.\
+    \ Участвовал в записи множества альбомов самых разных музыкантов и групп, от \"\
+    Машины времени\" до \"Кукурузы\".\r\n\r\nГитарист в группе Евгения Маргулиса,\
+    \ с которым сотрудничает уже более 15 лет.\r\n\r\nКроме того Михаил - опытный\
+    \ преподаватель, более 17 лет преподает в Московском колледже импровизационной\
+    \ музыки.\r\n\r\nМихаил выступит со своим новым проектом в тандеме с талантливой\
+    \ певицей Викторией Терешиной\r\n\r\nГруппа Клягин&Терешина Band исполняет зажигательную\
+    \ смесь из Rock'n'Roll, R'n'B, Country, Blues, Swing. В репертуаре группы популярные\
+    \ мелодии 50-70-х годов в оригинальной обработке, а так же авторский материал."
+- id: 46334
+  date: '2014-09-27'
+  time: '21:00'
+  band_name: Blues Cousins,Специальный гость Петрович
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 46335
+  date: '2014-09-27'
+  time: '20:30'
+  band_name: Basterds
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46336
+  date: '2014-09-27'
+  time: '23:30'
+  band_name: Борис Булкин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 46308
+  date: '2014-09-13'
+  time: '21:00'
+  band_name: Blues Cousins, Специальный гость Наталья Липницкая
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 46309
+  date: '2014-09-14'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем в Ритм н Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 46310
+  date: '2014-09-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46311
+  date: '2014-09-16'
+  time: '20:30'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 46312
+  date: '2014-09-17'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 46314
+  date: '2014-09-18'
+  time: '21:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 46317
+  date: '2014-09-19'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46320
+  date: '2014-09-12'
+  time: '23:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46321
+  date: '2014-09-13'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46338
+  date: '2014-09-29'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46339
+  date: '2014-09-30'
+  time: '20:30'
+  band_name: Django Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 46337
+  date: '2014-09-28'
+  time: '18:30'
+  band_name: Открытый блюзовый джем в Ритм н Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в Rhythm & Blues Cafe происходит событие воистину,\
+    \ грандиозное!\r\n\r\nС шести и до одиннадцати вечера продолжается своеобразный\
+    \ блюз-марафон - целых пять часов непредсказуемого действа!\r\n\r\nКаждый может\
+    \ попробовать себя в роли блюзового музыканта.\r\n\r\nМногие молодые блюзмены,\
+    \ успешно выступающие нынче, начинали с наших джемов и, будем надеяться, такое\
+    \ будет и впредь случаться. Многие наши блюзовые мэтры и даже зарубежные гастролеры\
+    \ частенько не отказывают себе в удовольствии спеть-сыграть перед сверхблагодарной\
+    \ воскресной публикой.\r\n\r\n\r\nВесь вечер на сцене находится наш \"хаус-бэнд\"\
+    \ из опытнейших музыкантов:\r\n\r\nВадим Иващенко - гитара, вокал\r\nЮрий Горелов\
+    \ - бас-гитара\r\nМихаил Юдин - барабаны\r\n\r\nА теперь несколько напутственных\
+    \ слов...\r\n\r\nВсем участникам гарантируется внимательное и бережное отношение,\
+    \ но пожалуйста, соблюдайте наши правила:\r\n\r\n\r\n1. Джем блюзовый, поэтому\
+    \ приветствуется исполнение блюзовой классики. Все остальное исключительно(!)\
+    \ по спец. согласованию с ведущим.\r\n\r\n2. Это все-таки джем, поэтому выбирайте,\
+    \ пожалуйста, песни, которые наш хаус-бэнд сможет легко подхватить.\r\n\r\n3.\
+    \ Если вам отказали в участии, или прервали ваше выступление (что редко, но бывает),\
+    \ прежде чем обижаться, подумайте, что же не так и почему.\r\nВот здесь некоторые\
+    \ эпизоды джема\r\nСтоимость билета - 300р\r\n\r\n*всем музыкантам участвующим\
+    \ в джеме - вход свободный!"
+- id: 46530
+  date: '2014-09-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46535
+  date: '2014-10-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46536
+  date: '2014-10-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46538
+  date: '2014-10-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 46537
+  date: '2014-10-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 47159
+  date: '2014-10-16'
+  time: '21:00'
+  band_id: 688
+  band_name: Dani Wilde & Todd Sharpville
+  band_token: wilde-sharpville
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800/1000 руб.
+- id: 47166
+  date: '2014-11-08'
+  time: '20:30'
+  band_name: Stanley Jordan
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1500 руб.
+  comments: "Стэнли Джордан (англ. Stanley Jordan; 31 июля 1959, Чикаго) - американский\
+    \ джаз-фьюжн гитарист, широко известен благодаря фортепианной технике игры на\
+    \ гитаре.\r\n\r\nC шести лет серьезно занимался фортепиано. С одиннадцати лет,\
+    \ подражая Джими Хендриксу и Карлосу Сантане, начал самостоятельно осваивать гитару.\r\
+    \n\r\nСегодня Джордан широко известен благодаря своей феноменальной тэп-технике\
+    \ - игре на гитарном грифе двумя руками, как на клавиатуре рояля. Уже первый его\
+    \ диск \"Magic Touch\" (1985), где помимо ансамблевых композиций были сольные,\
+    \ исполненные новым методом, произвел сенсацию. После этого Джордан стал желанным\
+    \ гостем джазовых фестивалей в Европе и Америке, выступает с сольными концертами\
+    \ и в ансамблях. \"Когда я его слышу, - обронил как-то ведущий фьюжн-гитарист\
+    \ Джон Скофилд, - то думаю, что играют два гитариста\"."
+- id: 47335
+  date: '2014-11-01'
+  time: '19:00'
+  band_id: 696
+  band_name: FelisBand
+  band_token: felisband
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 47547
+  date: '2014-11-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 47548
+  date: '2014-11-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 47549
+  date: '2014-11-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 47550
+  date: '2014-11-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 47559
+  date: '2014-11-01'
+  time: '21:30'
+  band_name: Blues Cousins, Специальный гость - Николай Арутюнов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 47560
+  date: '2014-11-01'
+  time: '23:30'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47561
+  date: '2014-11-02'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Каждое воскресенье в нашем клубе происходит событие воистину, грандиозное!\
+    \ С шести и до одиннадцати вечера продолжается своеобразный блюз-марафон - целых\
+    \ пять часов непредсказуемого действа! Каждый может попробовать себя в роли блюзового\
+    \ музыканта. Многие молодые блюзмены, успешно выступающие нынче начинали с наших\
+    \ джемов и, будем надеяться, такое будет и впредь случаться. Многие наши блюзовые\
+    \ мэтры и даже зарубежные гастролеры частенько не отказывают себе в удовольствии\
+    \ спеть-сыграть перед сверхблагодарной воскресной публикой.\r\n\r\nВесь вечер\
+    \ на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\n\r\nВадим\
+    \ Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\nМихаил Юдин\
+    \ - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\nВсем участникам\
+    \ гарантируется внимательное и бережное отношение, но пожалуйста, соблюдайте наши\
+    \ правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение блюзовой\
+    \ классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\n\
+    \r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш хаус-бэнд\
+    \ сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или прервали\
+    \ ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте что\
+    \ же не так и почему.\r\n\r\nВот здесь некоторые эпизоды джема\r\n\r\nСтоимость\
+    \ билета - 300р\r\n\r\n*всем музыкантам участвующим в джеме - вход свободный!"
+- id: 47562
+  date: '2014-11-02'
+  time: '19:00'
+  band_name: Salsa вечеринка
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: от 200
+- id: 47563
+  date: '2014-11-04'
+  time: '19:00'
+  band_name: 20-летие группы Appel Jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47564
+  date: '2014-11-05'
+  time: '20:30'
+  band_name: Рок н ролл шоу.Специальные гости "Marshmallow"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Танцы-ВИСКИ- Рок-н-ролл!\r\n\r\nКаждую среду!АКЦИЯ-Танцорам скидка 50%\
+    \ на вход!\r\n\r\nДмитрий Смагин гитарист самой безудержной команды Москвы RAWCATS.\r\
+    \n\r\nНа этот раз Дмитрий со своей верной спутницей - солнечно-оранжевой гитарой\
+    \ - представят вам лучшие хиты рок н ролла, свига и кантри. Прекрасный теплый\
+    \ тембр голоса Дмитрия, изящная игра на гитаре - все это по настоящему окунет\
+    \ вас в золотые времена 50-60 годов.\r\n\r\nПомогают настоящие \"бродячие коты\"\
+    \ - неистовый контрабас Тимур Поповкин и барабаны - Сергей Арнаутов.\r\n\r\nНовая\
+    \ программа, новые гости и, конечно же, праздник - праздник рок н ролла.\""
+- id: 47565
+  date: '2014-11-05'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47570
+  date: '2014-11-07'
+  time: '23:30'
+  band_name: Степан Юрлов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47571
+  date: '2014-11-09'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47573
+  date: '2014-11-12'
+  time: '20:30'
+  band_name: Рок н ролл шоу
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 47574
+  date: '2014-11-12'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47575
+  date: '2014-11-13'
+  time: '21:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  comments: Презентация альбома
+- id: 47576
+  date: '2014-11-14'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 47577
+  date: '2014-11-15'
+  time: '19:00'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 47578
+  date: '2014-11-15'
+  time: '21:30'
+  band_name: Blues Cousins, Специальный гость Сергей Манукян
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 47579
+  date: '2014-11-15'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47566
+  date: '2014-11-06'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  comments: "Константин Гевондян и Полина Касьянова !Удивительное сочетание артистов!\r\
+    \nОтжигаем джаз!\r\nПриходите!Все увидите своими глазами!"
+- id: 47567
+  date: '2014-11-07'
+  time: '19:00'
+  band_name: Дмитрий Новокольский, новая программа
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 537
+    name: Дмитрий Новокольский
+    token: dmitry-novokolsky
+- id: 47568
+  date: '2014-11-07'
+  time: '21:00'
+  band_id: 676
+  band_name: Lorna & Jules Fothergill
+  band_token: lorna-jules-fothergill
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+  comments: LORNA и JULES FOTHERGILL - основная движущая сила группы Northsyde , получившей
+    в 2014 году сразу шесть номинаций на British Blues Awards! Группа исчисляет свое
+    начало с 2005 года, и называлась она поначалу Funkydory.
+- id: 47590
+  date: '2014-11-25'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 47591
+  date: '2014-11-26'
+  time: '20:30'
+  band_name: Рок н ролл шоу
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 47592
+  date: '2014-11-26'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47593
+  date: '2014-11-27'
+  time: '19:00'
+  band_name: Прог-рок группа Qurom
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47594
+  date: '2014-11-27'
+  time: '21:00'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47595
+  date: '2014-11-28'
+  time: '20:00'
+  band_name: The CrossroadZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 47596
+  date: '2014-11-28'
+  time: '23:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47597
+  date: '2014-11-29'
+  time: '19:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47598
+  date: '2014-11-29'
+  time: '21:30'
+  band_name: Blues Cousins,Специальный гость Константин Никольский
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+  extra_bands:
+  - id: 118
+    name: Константин Никольский
+    token: nikolsky
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 47599
+  date: '2014-11-29'
+  time: '23:30'
+  band_id: 117
+  band_name: Листья Травы
+  band_token: leaves-of-grass
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: свободный
+- id: 47600
+  date: '2014-11-30'
+  time: '20:00'
+  band_name: 7Б-презентация НОВОГО альбома
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 47601
+  date: '2014-12-07'
+  time: '20:00'
+  band_name: Владимир Кузьмин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 2000 руб.
+- id: 47602
+  date: '2014-12-10'
+  time: '20:00'
+  band_name: Н.Давлет-Кильдеев и группа Стратосфера
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 47603
+  date: '2014-12-14'
+  time: '20:00'
+  band_name: ДЖАНГО
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 47604
+  date: '2014-12-25'
+  time: '20:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 47605
+  date: '2014-12-31'
+  time: '22:00'
+  band_name: Новый год в Ритм н Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: от 6000
+- id: 47572
+  date: '2014-11-11'
+  time: '18:30'
+  band_name: Открытый блюзовый джем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "ТЕПЕРЬ ПО ВТОРНИКАМ, до одиннадцати вечера продолжается своеобразный\
+    \ блюз-марафон - целых пять часов непредсказуемого действа! Каждый может попробовать\
+    \ себя в роли блюзового музыканта. Многие молодые блюзмены, успешно выступающие\
+    \ нынче начинали с наших джемов и, будем надеяться, такое будет и впредь случаться.\
+    \ Многие наши блюзовые мэтры и даже зарубежные гастролеры частенько не отказывают\
+    \ себе в удовольствии спеть-сыграть перед сверхблагодарной воскресной публикой.\r\
+    \n\r\nВесь вечер на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\
+    \n\r\nВадим Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\n\
+    Михаил Юдин - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\n\
+    Всем участникам гарантируется внимательное и бережное отношение, но пожалуйста,\
+    \ соблюдайте наши правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение\
+    \ блюзовой классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\
+    \n\r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш\
+    \ хаус-бэнд сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или\
+    \ прервали ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте\
+    \ что же не так и почему.\r\n\r\nСтоимость билета - 300р\r\n\r\n*всем музыкантам\
+    \ участвующим в джеме - вход свободный!"
+- id: 47580
+  date: '2014-11-16'
+  time: '20:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 47581
+  date: '2014-11-18'
+  time: '18:30'
+  band_name: Открытый Блюзовый Джем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "ТЕПЕРЬ ПО ВТОРНИКАМ, до одиннадцати вечера продолжается своеобразный\
+    \ блюз-марафон - целых пять часов непредсказуемого действа! Каждый может попробовать\
+    \ себя в роли блюзового музыканта. Многие молодые блюзмены, успешно выступающие\
+    \ нынче начинали с наших джемов и, будем надеяться, такое будет и впредь случаться.\
+    \ Многие наши блюзовые мэтры и даже зарубежные гастролеры частенько не отказывают\
+    \ себе в удовольствии спеть-сыграть перед сверхблагодарной воскресной публикой.\r\
+    \n\r\nВесь вечер на сцене находится наш \"хаус-бэнд\" из опытнейших музыкантов:\r\
+    \n\r\nВадим Иващенко - гитара, вокал\r\n\r\nЮрий Горелов - бас-гитара\r\n\r\n\
+    Михаил Юдин - барабаны\r\n\r\nА теперь несколько напутственных слов...\r\n\r\n\
+    Всем участникам гарантируется внимательное и бережное отношение, но пожалуйста,\
+    \ соблюдайте наши правила:\r\n\r\n1. Джем блюзовый, поэтому приветствуется исполнение\
+    \ блюзовой классики. Все остальное исключительно(!) по спец. согласованию с ведущим.\r\
+    \n\r\n2. Это все-таки джем, поэтому выбирайте, пожалуйста, песни, которые наш\
+    \ хаус-бэнд сможет легко подхватить.\r\n\r\n3. Если вам отказали в участии, или\
+    \ прервали ваше выступление (что редко, но бывает), прежде чем обижаться, подумайте\
+    \ что же не так и почему.\r\n\r\nСтоимость билета - 300р\r\n\r\n*всем музыкантам\
+    \ участвующим в джеме - вход свободный!"
+- id: 47582
+  date: '2014-11-19'
+  time: '20:30'
+  band_name: Рок н ролл шоу
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  comments: "Танцы-ВИСКИ- Рок-н-ролл!\r\n\r\nКаждую среду!АКЦИЯ-Танцорам скидка 50%\
+    \ на вход!\r\n\r\nДмитрий Смагин гитарист самой безудержной команды Москвы RAWCATS.\r\
+    \n\r\nНа этот раз Дмитрий со своей верной спутницей - солнечно-оранжевой гитарой\
+    \ - представят вам лучшие хиты рок н ролла, свига и кантри. Прекрасный теплый\
+    \ тембр голоса Дмитрия, изящная игра на гитаре - все это по настоящему окунет\
+    \ вас в золотые времена 50-60 годов.\r\n\r\nПомогают настоящие \"бродячие коты\"\
+    \ - неистовый контрабас Тимур Поповкин и барабаны - Сергей Арнаутов.\r\n\r\nНовая\
+    \ программа, новые гости и, конечно же, праздник - праздник рок н ролла.\""
+- id: 47583
+  date: '2014-11-19'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47584
+  date: '2014-11-21'
+  time: '19:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 47585
+  date: '2014-11-22'
+  time: '19:00'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47586
+  date: '2014-11-22'
+  time: '21:30'
+  band_name: Blues Cousins, Специальный гость Дмитрий Четвергов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 47587
+  date: '2014-11-22'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 47588
+  date: '2014-11-23'
+  time: '20:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 47589
+  date: '2014-11-23'
+  time: '20:00'
+  band_name: Кирилл Комаров
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 48141
+  date: '2014-12-31'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 48136
+  date: '2014-12-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 48137
+  date: '2014-12-08'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 48138
+  date: '2014-12-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 48139
+  date: '2014-12-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 48140
+  date: '2014-11-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный

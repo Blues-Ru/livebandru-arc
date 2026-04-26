@@ -1,0 +1,418 @@
+- id: 40846
+  date: '2014-01-08'
+  time: '19:30'
+  band_id: 451
+  band_name: Ансамбль "Каданс" Германа Лукьянова
+  band_token: kadans-lukiyanov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 40847
+  date: '2014-01-15'
+  time: '19:30'
+  band_name: Квартет Вагифа Садыхова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 40848
+  date: '2014-01-22'
+  time: '19:30'
+  band_name: Квартет Александра Шевцова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 40849
+  date: '2014-01-29'
+  time: '19:30'
+  band_id: 502
+  band_name: Живые Люди
+  band_token: livepeople
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 41452
+  date: '2014-02-12'
+  time: '19:30'
+  band_id: 601
+  band_name: Ансамбль классического джаза Валерия Киселева
+  band_token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 41453
+  date: '2014-02-19'
+  time: '19:30'
+  band_name: Квартет Юрия Маркина
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Олег Агеев (тенор-саксофон), Юрий Маркин (фортепиано), Владимир Мосунов
+    (контрабас), Аркадий Баклагин (ударные)
+- id: 41454
+  date: '2014-02-26'
+  time: '19:30'
+  band_name: 'Вечер памяти Феликса Соловьева: Bril Brothers'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 41846
+  date: '2014-03-05'
+  time: '19:30'
+  band_name: Трио Евгения Гречищева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 41847
+  date: '2014-03-12'
+  time: '19:30'
+  band_name: Евгения Глейберман и Jazz Friends
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 41848
+  date: '2014-03-19'
+  time: '19:30'
+  band_name: Квартет Александра Соколова. Программа, посвященная Весу Монтгомери
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 41849
+  date: '2014-03-26'
+  time: '19:30'
+  band_name: Ансамбль классического джаза Валерия Киселева. Программа "Moonlight serenade",
+    посвященная Глену Миллеру
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 601
+    name: Ансамбль классического джаза Валерия Киселева
+    token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva
+- id: 43085
+  date: '2014-04-02'
+  time: '19:30'
+  band_name: Квартет Игоря Уланова. Премьера программы Invitation
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43086
+  date: '2014-04-09'
+  time: '19:30'
+  band_name: Трио Владимира Нестеренко
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43087
+  date: '2014-04-16'
+  time: '19:30'
+  band_name: Квартет Бориса Кузнецова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43088
+  date: '2014-04-23'
+  time: '19:30'
+  band_name: Квинтет Дмитрия Яковлева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43089
+  date: '2014-04-30'
+  time: '19:30'
+  band_name: 'Большой праздничный концерт: Джаз Арт Клубу - 20 лет. Эра Канн и JP
+    Big Band п/у Александра Дубровского'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43480
+  date: '2014-05-07'
+  time: '19:30'
+  band_name: 'Нью-Йорк - Москва - встреча на сцене: Сергей Гурбелошвили (тенор-саксофон,
+    США), Максим Шибин (гитара), Владимир Нестеренко (орган Hummond), Александр Зингер
+    (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43481
+  date: '2014-05-14'
+  time: '19:30'
+  band_name: Квартет Анатолия Осипова (тенор-саксофон)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43482
+  date: '2014-05-21'
+  time: '19:30'
+  band_name: Квинтет Михаила Леванова (саксофон)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43483
+  date: '2014-05-28'
+  time: '19:30'
+  band_name: 'Квартет Вагифа Садыхова: презентация новой авторской программы "В настроении
+    Уэса Монтгомери"'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43832
+  date: '2014-06-04'
+  time: '19:30'
+  band_name: Квартет Александра Шевцова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43833
+  date: '2014-06-11'
+  time: '19:30'
+  band_name: Квинтет Константина Ильицкого
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43831
+  date: '2014-07-13'
+  time: '12:00'
+  band_name: 'Праздник джаза на Москве-реке: 16-й Джазовый Пароход!'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43834
+  date: '2014-06-18'
+  time: '19:30'
+  band_name: Квартет Анатолия Текучева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 43835
+  date: '2014-06-25'
+  time: '19:30'
+  band_name: Квартет Романа Секачева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 44376
+  date: '2014-07-09'
+  time: '19:30'
+  band_name: 'Квартет Сергея Хутаса: Александр Гуреев (саксофон), Евгений Борец (фортепиано),
+    Сергей Хутас (контрабас), Давид Ткебучава (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 44379
+  date: '2014-07-30'
+  time: '19:30'
+  band_name: Эра Канн и JP-Band Александра Дубровского
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 44375
+  date: '2014-07-02'
+  time: '19:30'
+  band_name: Иннокентий Иванов (виброфон), Антон Залетаев (тенор-саксофон), Александр
+    Горох (гитара), Вячеслав Ахметзянов (контрабас), Алексей Денисов (ударные)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 44377
+  date: '2014-07-16'
+  time: '19:30'
+  band_name: Квартет Юрия Маркина
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 44378
+  date: '2014-07-23'
+  time: '19:30'
+  band_name: Секстет Германа Лукьянова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 45385
+  date: '2014-08-20'
+  time: '19:30'
+  band_name: Трио Игоря Иванушкина и Марине Григорян
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 45386
+  date: '2014-08-27'
+  time: '19:30'
+  band_name: Арфа Джаз (Harp & Jazz)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 45383
+  date: '2014-08-06'
+  time: '19:30'
+  band_name: Квартет Александра Шевцова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 45384
+  date: '2014-08-13'
+  time: '19:30'
+  band_name: Квартет Романа Секачева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46654
+  date: '2014-11-05'
+  time: '19:30'
+  band_name: Сергей Головня (тенор-саксофон), Яков Окунь (фортепиано), Сергей Васильев
+    (контрабас), Павел Тимофеев (ударные)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46201
+  date: '2014-09-10'
+  time: '19:30'
+  band_name: Открытие ХХI концертного сезона. Вечер, посвященный 50-тилетию легендарного
+    джазового кафе "Синяя птица". Большой Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46202
+  date: '2014-09-17'
+  time: '19:30'
+  band_name: Трио Сергея Хутаса
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46203
+  date: '2014-09-24'
+  time: '19:30'
+  band_name: Полина Касьянова (вокал) и Djangoband
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 46205
+  date: '2014-10-01'
+  time: '19:30'
+  band_name: JP Band п/у Александра Дубровского и Александр Морозов (вокал) - "Шедевры
+    золотой эры джаза"
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46206
+  date: '2014-10-08'
+  time: '19:30'
+  band_name: Квартет Юрия Маркина в составе
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46207
+  date: '2014-10-15'
+  time: '19:30'
+  band_name: Квартет Александра Соколова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46208
+  date: '2014-10-22'
+  time: '19:30'
+  band_name: Наталья Акатьева и квартет Алексея Кузнецова - "Посвящение Пегги Ли"
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46209
+  date: '2014-10-29'
+  time: '19:30'
+  band_name: 'Ансамбль классического джаза п/у Валерия Киселева: "Посвящение Эллингтону
+    - Echoes Of Harlem"'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46655
+  date: '2014-11-12'
+  time: '19:30'
+  band_name: Квартет Юрия Севастьянова. Посвящение Дюку Эллингтону
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 544
+    name: Квартет Юрия Севастьянова
+    token: sevastyanovquartet
+- id: 46656
+  date: '2014-11-19'
+  time: '19:30'
+  band_name: Квартет Игоря Кантюкова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 46657
+  date: '2014-11-26'
+  time: '19:30'
+  band_name: Светлана Панова и Максим Баранов (фотрепиано), Иван Рахманов (гитара),
+    Олег Соколов (контрабас), Дмитрий Кочура (ударные)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47868
+  date: '2014-12-07'
+  time: '20:00'
+  band_name: 'Jazz Voices в "Эссе" на Пятницкой: Peter Lipa & Band (Словакия)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47869
+  date: '2014-12-10'
+  time: '19:30'
+  band_name: Квинтет Вагифа Садыхова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47871
+  date: '2014-12-24'
+  time: '19:30'
+  band_name: 'Большой предновогодний концерт: Владимир Иванов (фортепиано), Александр
+    Соколов (гитара), Григорий Мальян (контрабас), Вардан Бабаян (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47867
+  date: '2014-12-05'
+  time: '20:00'
+  band_name: 'Jazz Voices в "Эссе" на Пятницкой: Yvetta Uustalu & Gourmet Duo Plus
+    (Эстония), Pascal von Wroblevsky Quartet (Германия)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47870
+  date: '2014-12-17'
+  time: '19:30'
+  band_name: 'Россия - Португадия - Германия. Встреча на сцене: Павел Скорняков (альт-саксофон),
+    Игорь Трекузов (гитара), Нельсон Кашкайш (контрабас), Луис Кандеяс (барабаны)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 47866
+  date: '2014-12-03'
+  time: '19:30'
+  band_name: Ансамбль классического джаза Валерия Киселева., Посвящение Бенни Гудмену
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 601
+    name: Ансамбль классического джаза Валерия Киселева
+    token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva

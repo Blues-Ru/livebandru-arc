@@ -1,0 +1,398 @@
+id: 153
+token: sobo
+name: SOBO
+aliases: Sobo Blues Band
+alive: true
+url: http://www.sobo.co.il
+city_id: 20
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Ассаф "Sammy" Ганзман
+  instruments: вокал, бас
+- name: Даниэль "Sobodan" Криман
+  instruments: слайд-гитара, губная гармоника, вокал
+- name: Эден Бахар
+  instruments: ударные
+clips:
+- id: 198
+  type: photo
+  url: 1.jpg
+  name: sobo 2003
+  sort_order: 600
+  width: 634
+  height: 468
+- id: 1750
+  type: mp3
+  url: sobo.mp3
+  name: I'm Ready
+  sort_order: 99
+- id: 200
+  type: youtube
+  url: http://www.youtube.com/?v=Os5rJAlSgCw
+  name: Girl from Mandalay - SOBO at Mike's Place Tel-Aviv
+  comments: sobo
+  sort_order: 99
+- id: 202
+  type: photo
+  url: 2.jpg
+  name: Southbound Train
+  comments: Southbound Train
+  sort_order: 100
+  width: 1005
+  height: 1484
+- id: 203
+  type: weblink
+  url: http://www.sobo.co.il
+  name: Официальный сайт
+  sort_order: 0
+- id: 1767
+  type: weblink
+  url: http://www.facebook.com/pages/SOBO/162152581222
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 1747
+  type: photo
+  url: sobo-2.jpg
+  name: SOBO on Stage
+  sort_order: 300
+  width: 1024
+  height: 683
+- id: 1749
+  type: rss
+  url: http://www.reverbnation.com/rss/artist_shows_rss/soboblues
+  name: SOBO page on reverbnation
+  sort_order: 99
+- id: 1751
+  type: mp3
+  url: sobo-2.mp3
+  name: Who's Been Talking
+  sort_order: 199
+- id: 1752
+  type: mp3
+  url: sobo-3.mp3
+  name: You Cant Always Get What You Want
+  sort_order: 299
+- id: 1753
+  type: mp3
+  url: sobo-4.mp3
+  name: Cure for the Blues (Original)
+  sort_order: 399
+- id: 1754
+  type: mp3
+  url: sobo-5.mp3
+  name: Girl from Mandalay (Original)
+  sort_order: 0
+- id: 1755
+  type: mp3
+  url: sobo-6.mp3
+  name: Blades of Grass (Original)
+  sort_order: 499
+- id: 1757
+  type: mp3
+  url: sobo-8.mp3
+  name: Let Freedom Reign (Original)
+  sort_order: 699
+- id: 1758
+  type: photo
+  url: sobo-4.jpg
+  name: SOBO 2002
+  sort_order: 500
+  width: 450
+  height: 337
+- id: 1759
+  type: photo
+  url: sobo-5.jpg
+  name: SOBO 2010 (1)
+  sort_order: 0
+  width: 915
+  height: 600
+- id: 1760
+  type: mp3
+  url: sobo-9.mp3
+  name: Fire (Live)
+  sort_order: 799
+- id: 1762
+  type: mp3
+  url: sobo-10.mp3
+  name: Roadhouse Blues (Live)
+  sort_order: 899
+- id: 1763
+  type: photo
+  url: sobo-6.jpg
+  name: SOBO 2010 (2)
+  sort_order: 25
+  width: 915
+  height: 600
+- id: 1764
+  type: photo
+  url: sobo-7.jpg
+  name: Assaf 2010
+  sort_order: 63
+  width: 915
+  height: 900
+- id: 1732
+  type: photo
+  url: sobo.jpg
+  name: SOBO 2010 Tel-Aviv
+  sort_order: 82
+  width: 4256
+  height: 2832
+- id: 1748
+  type: photo
+  url: sobo-3.jpg
+  name: SOBO in Tel Aviv
+  sort_order: 400
+  width: 908
+  height: 683
+- id: 1765
+  type: photo
+  url: sobo-8.jpg
+  name: Fish 2010
+  sort_order: 44
+  width: 615
+  height: 900
+- id: 1766
+  type: photo
+  url: sobo-9.jpg
+  name: Sobodan 2010
+  sort_order: 19
+  width: 690
+  height: 900
+- id: 1733
+  type: youtube
+  url: http://www.youtube.com/?v=bmMG2P5EcBY
+  name: SOBO Rock & Blues band - Born Under a Bad Sign
+  comments: "SOBO Rock & Blues Band opening for John Lee Hooker Jr. with \"Born Under\
+    \ a Bad Sign\" cover of Albert King @ Reding 3, Tel-Aviv, Israel\r\n\r\nwww.sobo.co.il\r\
+    \ncamera: Gregory & Maria Bado (Studio Trinity)"
+  sort_order: 199
+- id: 1756
+  type: mp3
+  url: sobo-7.mp3
+  name: Blues it Now (Original)
+  sort_order: 599
+- id: 1734
+  type: youtube
+  url: http://www.youtube.com/?v=7ytPN2mK1Zo
+  name: Who's Been Talking - SOBO в Лефортово (2007)
+  comments: Lefortovo. BluesFestIV. 11.08.2007. Sobo
+  sort_order: 299
+- id: 2357
+  type: photo
+  url: sobo-10.jpg
+  name: SOBO by M. Burlatzky
+  sort_order: 550
+  width: 500
+  height: 613
+- id: 3372
+  type: youtube
+  url: http://www.youtube.com/?v=RyUIo5WqYvI
+  name: SOBO BLUES BAND in Tomsk
+  comments: SOBO Blues Bandwww.sobo.co.il
+  sort_order: 0
+- id: 4221
+  type: photo
+  url: sobo-11.jpg
+  name: SOBO 2012 Ashdod 1
+  sort_order: 700
+  width: 2592
+  height: 3456
+- id: 4223
+  type: photo
+  url: sobo-13.jpg
+  name: SOBO Barkot 2012
+  sort_order: 900
+  width: 3456
+  height: 2592
+- id: 4222
+  type: photo
+  url: sobo-12.jpg
+  name: SOBO 2012 Ashdod 2
+  sort_order: 800
+  width: 3456
+  height: 2304
+- id: 6134
+  type: photo
+  url: sobo-14.jpg
+  name: studio
+  sort_order: 575
+  width: 3840
+  height: 3836
+- id: 6889
+  type: photo
+  url: sobo-15.jpg
+  name: SOBO 2015 1
+  sort_order: 588
+  width: 800
+  height: 620
+reviews:
+- id: 111
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: BIO
+  text: 'группа СОБО покоряет сердца российских слушателей вот уже больше 10ти лет,
+    регулярно приезжая с концертами после того, как впервые выступили в Петербурге
+    в 2002 году на Международном Фолк Фестивале BLUES Дельты Невы.
+
+
+    Творчество СОБО по достоинству оценили не только зрители, но и корифеи российской
+    рок сцены: Борис Гребенщиков, Алексадер Ляпин, Сергей Воронов, Алексей Романов,
+    ведь СОБО, с неизменным успехом гастролируя по всей России: Москва, Петербург,
+    Новосибирск, Барнаул, Томск, Красноярск, Екатеринбург, Тюмень, Архангельск, Воронеж,
+    Липецк, Нижний Новгород, Брянск, Сургут уже стали известны своим мощным энергетическим
+    сплавом блюза, рока, и уникальным звуком слайд-гитары.
+
+
+    SOBO (СОБО) - ЭТО ИНТЕРНАЦИОНАЛЬНАЯ РУССКО-АМЕРИКАНСКАЯ ГРУППА, СОЧЕТАЮЩАЯ АМЕРИКАНСКОЕ,
+    РУССКОЕ И ВОСТОЧНОЕ ВЛИЯНИЯ.
+
+
+    SOBO известны в Израиле своим мощным и энергетическим сплавом блюза, рока и фанка,
+    которые дополняются уникальным звуком слайд-гитары. SOBO - выдающаяся, первая
+    в Иерусалиме группа, играющая в стиле блюз-рок. SOBO исполняет свои собственные
+    песни, которые обязательно имеют блюзовый привкус, а также кавер-версии известных
+    песен.
+
+
+    SOBO (Southbound Train) была образована в 1995 году Ассафом Ганзманом и Дэниелем
+    Криманом.
+
+
+    В 2002 году SOBO завоевали золотую медаль на блюзовом фестивале Дельта Невы в
+    Санкт Петербурге.
+
+
+    В 2005-м SOBO отправились представлять Израиль на International Blues Challenge
+    в Мемфисе.
+
+
+    В 2007-м SOBO участвовали в московском International Blues Festival в Лефортово.
+
+
+    В 2010-м году SOBO открывали концерт Джон Ли Хукера младшего в Тель-Авиве.
+
+
+    В 2011 году SOBO были приглашены хэдлайнерами на блюзовый фестивале Дельта Невы
+    в Санкт Петербурге.
+
+
+    В 2011-14 SOBO проехали с концертами по всей России не один раз: от Барнаула до
+    Нижнего Новгорода, Урал, Кузбас, Архангельск, Москва и Питер.
+
+
+    В 2013 SOBO были приглашены хэдлайнерами на Урал Блюз Фестиваль, Екатиренбург,
+    Россия.
+
+
+    В 2014 SOBO продолжала гастролировать в России и Германии, участвоали в Maywoch
+    фестиваль, Германия.
+
+
+    SOBO выпустили свой третий альбом "Catfish Boogie" в зимой 2014, который получил
+    хорошие рецензии в Израиле, России и США
+
+
+    В разное время SOBO делили сцену с Gov''t Mule, Анна Попович, Джон Ли Хукер-младший,
+    Оли Браун, JC Smith, Алвон Джонсон и многими другими известными блюзовыми музыкантами.'
+  verified: true
+  created: '2011-02-27'
+  is_press_release: true
+- id: 112
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Reviews
+  text: 'You sound great!
+
+
+    <i>Warren Haynes Gov''t Mule, Allman Brothers</i>
+
+
+    ----------------------------------------------------
+
+
+    Редко когда удается услышать полнокровный здоровый блюз, без малохольных всхлипов
+    и нытья. Радостно, что SOBO пришли и сделали это. Семь футов под килем!
+
+
+    <i>Борис Гребенщиков, "Аквариум"</i>
+
+
+    ----------------------------------------------------
+
+
+    1) Группа знает, что такое ЗВУК. 2) Группа ИГРАЕТ Blues. 3) Группа знает, ЧТО
+    она делает. К этому добавлю только, что это - мировой уровень исполнительского
+    мастерства блюза. Другими словами - КУЛЬТУРА. Хочется сказать по-матросски, почему-то:
+    Так держать, парни!
+
+
+    <i>Александр Ляпин, "Аквариум", "ДДТ"</i>
+
+
+    ----------------------------------------------------
+
+
+    Ну что? Отличный, блюзовый вокал и игра на бас гитаре у Асафа, железный ритм и
+    минимум железа у Габи, великолепное владение слайдом и звуком у Дана .... Давно
+    не получал такого удовольствия! Есть очень неплохие группы, которые слушаешь (
+    я слушаю...), и после пары вещей начинаешь думать о каких-то других делах, строишь
+    планы на что-то... SOBO относится к составам, которые сразу же цепляют слушателя
+    и держат его до самого завершения концерта... Плотный, густой звук, мощная пульсация,
+    короче, - полный кайф.... Они интересны.... И они явно тяготеют к John Lee Hooker
+    и Howlin'' Wolf, что для меня вдвойне приятно.... С Даней мне довелось джемануть
+    еще в Израиле (спасибо Диме Казанцеву за наводку), и уже тогда стало понятно (мне),
+    что вот человек играет конкретно, по блюзу (уж простите..), все в кассу, все по
+    теме.. без лишних звуков и выпендрежа... Наверное, без особой рафинированности..
+    и это так хорошо, когда нет ее - той особой рафинированности ... Слава Богу, я
+    не эстет, и мне нравится простая, здоровая пища... Спасибо SOBO!!!
+
+
+    <i>Юрий Каверкин, "Dirty Dozen"</i>
+
+
+    ----------------------------------------------------
+
+
+    Симпатичная группа, профессионально сочетающая традиционную блюзово-фолковую базу
+    с современным звучанием. ... Одним словом, слушать приятно.
+
+
+    <i>Сергей Воронов, "Crossroadz"</i>
+
+
+    ----------------------------------------------------
+
+
+    Мы сегодня ходили на Sobo в БиБиКинг, мне понравилось! Хорошая ритм-секция играла
+    очень уверенно, точно и забойно в разных стилях. Качественный вокал у басиста
+    + приятное обхождение с публикой. Даня Криман играет слайдом на полуакустической
+    гитаре типа national steel просто великолепно. Никакой каши и джема, все песни
+    до одной саранжированы. Звук получается довольно драйвовый - забойный.
+
+
+    Концерт был приятным неожиданно, ибо хороших групп бывает, увы, довольно мало,
+    не каждый день ;)) Ура!
+
+
+    <i>Федор Романенко "www.blues.ru"</i>
+
+
+    ----------------------------------------------------
+
+
+    Концерт SOBO меня крепко порадовал. Sobo - великолепны, крепкая, сильная группа,
+    все вещи "сделанные" от и до, звучание мощное, ритм-секция выше всяких похвал!
+    Даня(гитара, гармоника) творил чудеса! Здорово! За каждой композицией видна кропотливая
+    работа, в результате - высший класс!
+
+
+    <i>Юрий Костин "www.roadhouse.ru"</i>
+
+
+    ----------------------------------------------------'
+  verified: true
+  created: '2011-02-27'
+  is_press_release: true

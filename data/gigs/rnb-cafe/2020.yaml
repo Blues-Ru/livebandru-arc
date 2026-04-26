@@ -1,0 +1,541 @@
+- id: 83809
+  date: '2020-03-10'
+  time: '20:00'
+  band_name: Арт-группа "Дальний свет"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  comments: Концептуальная музыка, поэзия, импрув, оперативная композиция, две барабанные
+    установки
+- id: 83810
+  date: '2020-02-19'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83813
+  date: '2020-03-11'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83814
+  date: '2020-03-18'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83817
+  date: '2020-02-20'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83826
+  date: '2020-03-14'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83827
+  date: '2020-03-21'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83828
+  date: '2020-03-28'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83829
+  date: '2020-03-21'
+  time: '19:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 83830
+  date: '2020-03-28'
+  time: '19:00'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83831
+  date: '2020-02-22'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83834
+  date: '2020-02-24'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83841
+  date: '2020-02-28'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83842
+  date: '2020-02-29'
+  time: '19:00'
+  band_name: Boom Brass Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83843
+  date: '2020-02-29'
+  time: '20:30'
+  band_id: 664
+  band_name: Ben Poole
+  band_token: ben-poole
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83844
+  date: '2020-03-01'
+  time: '20:00'
+  band_name: C-Jam club Orchestra
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83845
+  date: '2020-02-29'
+  time: '20:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83811
+  date: '2020-02-26'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83812
+  date: '2020-03-04'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83852
+  date: '2020-03-08'
+  time: '20:00'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83853
+  date: '2020-03-08'
+  time: '20:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83860
+  date: '2020-03-14'
+  time: '20:30'
+  band_name: Mick Vernon (Великобритания)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83861
+  date: '2020-03-15'
+  time: '20:00'
+  band_name: Jazz Friends A Cappella Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83862
+  date: '2020-03-15'
+  time: '20:00'
+  band_name: Рывкин/Мачуленко и Ко
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83863
+  date: '2020-03-17'
+  time: '20:00'
+  band_name: Open Blues Jam Session / Ведущий Борис Булкин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 83866
+  date: '2020-03-20'
+  time: '19:00'
+  band_name: Трио Игоря Молчанова и Юрия Рябова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83867
+  date: '2020-03-20'
+  time: '21:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83757
+  date: '2020-02-15'
+  time: '20:30'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-1500
+- id: 83815
+  date: '2020-03-25'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83816
+  date: '2020-03-25'
+  time: '20:00'
+  band_name: The Boneshakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 83818
+  date: '2020-02-21'
+  time: '21:30'
+  band_name: Wicked Rumble / Blues Metal Orchestra
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83819
+  date: '2020-02-21'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83820
+  date: '2020-02-20'
+  time: '19:00'
+  band_name: Трио Игоря Молчанова и Юрия Рябова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83821
+  date: '2020-02-22'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 83822
+  date: '2020-02-22'
+  time: '20:30'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 83823
+  date: '2020-02-22'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83824
+  date: '2020-02-29'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83825
+  date: '2020-03-07'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83832
+  date: '2020-02-23'
+  time: '20:00'
+  band_name: Петрович & The Hot Rod Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 83833
+  date: '2020-02-23'
+  time: '20:00'
+  band_name: Ольга Лисикова, Layna Shery, Smitana, Вадим Иващенко и The Beat Bombers
+    в программе "Girls Get Funky"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 261
+    name: Smitanaband
+    token: smitana-band
+- id: 83835
+  date: '2020-03-02'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83836
+  date: '2020-03-16'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83837
+  date: '2020-03-30'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83838
+  date: '2020-02-25'
+  time: '20:00'
+  band_name: Черный кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83839
+  date: '2020-02-26'
+  time: '20:00'
+  band_name: Open Blues Jam Session / Ведущий Борис Булкин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 83840
+  date: '2020-02-28'
+  time: '19:00'
+  band_name: Wild Rebel Group
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83850
+  date: '2020-03-07'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83846
+  date: '2020-03-03'
+  time: '20:00'
+  band_id: 397
+  band_name: Dipped in Purple
+  band_token: dipped-in-purple
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83847
+  date: '2020-03-05'
+  time: '20:00'
+  band_name: New Blues Rhythm Section
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 83848
+  date: '2020-03-05'
+  time: '20:00'
+  band_name: Зверобой
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83849
+  date: '2020-03-06'
+  time: '19:00'
+  band_name: Трио Игоря Молчанова и Юрия Рябова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83851
+  date: '2020-03-07'
+  time: '19:00'
+  band_name: The Marshmallows
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83854
+  date: '2020-03-09'
+  time: '20:00'
+  band_name: Трио Александра Щеглова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83855
+  date: '2020-03-12'
+  time: '20:00'
+  band_name: Boogie Motor
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83856
+  date: '2020-03-12'
+  time: '20:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83857
+  date: '2020-03-13'
+  time: '19:00'
+  band_name: Aleksey Fetisov Rock-n-Roll Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83858
+  date: '2020-03-13'
+  time: '21:30'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 83859
+  date: '2020-03-14'
+  time: '19:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83864
+  date: '2020-03-19'
+  time: '20:00'
+  band_name: My Baby's Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 83865
+  date: '2020-03-19'
+  time: '20:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 84018
+  date: '2020-10-08'
+  time: '20:00'
+  band_id: 778
+  band_name: Companets & Co
+  band_token: companets
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.

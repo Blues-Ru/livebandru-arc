@@ -1,0 +1,19 @@
+- id: 74063
+  date: '2018-08-05'
+  time: '13:00'
+  band_name: 'Блюзовый Фестиваль "Мосты": Bob Margolin (США), Welch Ledbetter Connection
+    (США), Chino & Big Bet (Испания), The Jumping Cats (Санкт-Петербург), The Backstage
+    Band (Москва), The Battle Of The Bands (Санкт-Петербург - Москва)'
+  club_id: 903
+  club_name: Порт Севкабель
+  club_token: port-sevkabel
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 598
+    name: Bob Margolin
+    token: bob-margolin

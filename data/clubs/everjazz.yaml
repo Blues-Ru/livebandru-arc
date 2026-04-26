@@ -1,0 +1,14 @@
+id: 164
+token: everjazz
+name: EverJazz
+alive: true
+address: ул. Тургенева, д. 22
+subway: Динамо
+phone: +7 (343) 20-20-318
+city_id: 6
+clips:
+- id: 140
+  type: weblink
+  url: http://www.everjazz.ru/
+  name: Официальный сайт
+  sort_order: 0

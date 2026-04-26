@@ -1,0 +1,29 @@
+- id: 34758
+  date: '2013-03-15'
+  time: '21:00'
+  band_name: 'Проект "Art Splash": Тимур Некрасов (саксофоны), Алекс Ростоцкий (бас),
+    Лев Слепнер (электронная маримба)'
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 38652
+  date: '2013-09-20'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  price: бесплатный
+- id: 39977
+  date: '2013-11-22'
+  time: '20:00'
+  band_name: Maria Art quartet
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi

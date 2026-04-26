@@ -1,0 +1,21 @@
+id: 459
+token: valeri-grohovski
+name: Валерий Гроховский
+alive: true
+url: http://www.grohovski.com
+genre_id: 2
+musicians:
+- name: Валерий Гроховский
+  instruments: фортепиано
+clips:
+- id: 2167
+  type: weblink
+  url: http://www.grohovski.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 2168
+  type: photo
+  url: valeri-grohovski.jpg
+  sort_order: 0
+  width: 600
+  height: 686

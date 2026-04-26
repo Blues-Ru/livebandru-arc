@@ -1,0 +1,27 @@
+id: 493
+token: lamba
+name: Евгений Ламба Бэнд
+aliases: Евгений Ламба
+alive: true
+url: http://vk.com/lambaband
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Евгений Ламба
+  instruments: гитара, вокал
+- name: Ярослав Писарев
+  instruments: барабаны
+- name: Кирилл Поляков
+  instruments: бас
+clips:
+- id: 2292
+  type: weblink
+  url: http://vk.com/evgeniylamba
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 4226
+  type: weblink
+  url: http://vk.com/lambaband
+  name: Официальный сайт
+  sort_order: 0

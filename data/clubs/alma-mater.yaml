@@ -1,0 +1,14 @@
+id: 282
+token: alma-mater
+name: Альма-Матер
+alive: true
+address: Таганская площадь, 12
+subway: Таганская, Марксистская
+phone: +7 (495) 649-50-07
+city_id: 1
+clips:
+- id: 801
+  type: weblink
+  url: http://www.almamaterclub.ru/
+  name: Официальный сайт
+  sort_order: 99

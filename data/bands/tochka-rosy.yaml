@@ -1,0 +1,32 @@
+id: 253
+token: tochka-rosy
+name: Точка Росы
+alive: true
+url: http://www.tochka-rosy.ru
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 851
+  type: weblink
+  url: http://www.myspace.com/tochkarosy
+  name: Страница на MySpace
+  sort_order: 199
+- id: 852
+  type: rss
+  url: http://community.livejournal.com/tochkarosy/data/rss
+  sort_order: 99
+- id: 853
+  type: weblink
+  url: http://vk.com/club313063
+  name: Страница ВКонтакте
+  sort_order: 299
+- id: 854
+  type: rss
+  url: http://www.tochka-rosy.ru/blog/rss.xml
+  sort_order: 199
+- id: 850
+  type: weblink
+  url: http://www.tochka-rosy.ru
+  name: Официальный сайт
+  sort_order: 99

@@ -1,0 +1,14 @@
+id: 833
+token: s-zakon
+name: Сухой Закон
+alive: true
+address: Бутырская, 75
+subway: Дмитровская
+phone: (495) 980-11-68
+city_id: 1
+clips:
+- id: 7456
+  type: weblink
+  url: http://s-zakon.su/
+  name: Официальный сайт
+  sort_order: 0

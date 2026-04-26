@@ -1,0 +1,13 @@
+id: 129
+token: green-fox
+name: Зеленая Лиса
+alive: true
+city_id: 1
+genre_id: 10
+secondary_genre_id: 4
+clips:
+- id: 112
+  type: rss
+  url: http://fox-fly.livejournal.com/data/rss
+  name: ЖЖ Ирины Савиной
+  sort_order: 0

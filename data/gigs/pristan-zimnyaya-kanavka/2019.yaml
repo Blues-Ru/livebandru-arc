@@ -1,0 +1,546 @@
+- id: 79258
+  date: '2019-05-29'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Дмитрия Попова (тенор-саксофон); Джаз-бэнд
+    Федора Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79259
+  date: '2019-05-31'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Николая Поправко (тенор-саксофон); St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79260
+  date: '2019-06-02'
+  time: '18:00'
+  band_name: 'Джазовый пароход: Квартет Алексея Петкевича (гитара); Ленинградский
+    Диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 79261
+  date: '2019-06-05'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Андрея Рябова (гитара); St. Petersburg Stompers
+    диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79262
+  date: '2019-06-07'
+  time: '19:00'
+  band_name: 'Джазовый пароход: Nord West Quartet; Old river''s band диксиленд п/у
+    М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79263
+  date: '2019-06-08'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Алексея Черемизова (фортепиано); Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79264
+  date: '2019-06-09'
+  time: '18:00'
+  band_name: 'Джазовый пароход: Acoustic-band - Иван Васильев (труба); Ленинградский
+    Диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 79265
+  date: '2019-06-12'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Николая Сизова (фортепиано); St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79266
+  date: '2019-06-14'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Надежды Овчарук (вокал); Old river''s band
+    диксиленд п/у М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79267
+  date: '2019-06-15'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Сергея Баулина (тенор-саксофон); Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79268
+  date: '2019-06-16'
+  time: '18:00'
+  band_name: 'Джазовый пароход: квартет А. Блинчевского (альт-саксофон); Ленинградский
+    Диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 79796
+  date: '2019-06-19'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Павла Альбрехта и Максима Челомина (саксофон);
+    Джаз-бэнд Федора Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79797
+  date: '2019-06-20'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Влада Колчина (тенор-саксофон); St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79798
+  date: '2019-06-21'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Виталия Прусакова и Натальи Хомулло (вокальный
+    джаз); Old river''s band диксиленд п/у Михаила Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79799
+  date: '2019-06-26'
+  time: '19:00'
+  band_name: 'Джазовый пароход: Jazz factory; St. Petersburg Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79800
+  date: '2019-06-28'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Виктора Матвеева (гитара); Old river''s band
+    диксиленд п/у Михаила Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79801
+  date: '2019-06-29'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Дмитрия Булычева (фортепиано); Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79802
+  date: '2019-06-30'
+  time: '18:00'
+  band_name: 'Джазовый пароход: ShoobeDoobe Jazz Band; Ленинградский диксиленд п/у
+    Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 79803
+  date: '2019-07-03'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Максима Некрасова (губная гармоника); St.
+    Petersburg Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79804
+  date: '2019-07-05'
+  time: '19:00'
+  band_name: 'Джазовый пароход: Дэвид Пост (вокал, США); Old river''s band" диксиленд
+    п/у Михаила Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79805
+  date: '2019-07-06'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Михаила Костюшкина (тенор-саксофон); Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79806
+  date: '2019-07-07'
+  time: '18:00'
+  band_name: 'Джазовый пароход: Дэн Николас (гитара, США); Ленинградский диксиленд
+    п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 79807
+  date: '2019-07-10'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Андрея Блинчевского (альт-саксофон); St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 282
+    name: Квартет Андрея Блинчевского
+    token: andrey-blinchevsky
+- id: 79808
+  date: '2019-07-12'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Анны Новожиловой (вокал); Old river''s band
+    диксиленд п/у Михаила Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79809
+  date: '2019-07-13'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Андрея Рябова (гитара); Alexandroff Dixieland
+    Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 79810
+  date: '2019-07-14'
+  time: '18:00'
+  band_name: 'Джазовый пароход: квартет Сергея Татаринцева; Ленинградский диксиленд
+    п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80337
+  date: '2019-07-18'
+  time: '19:00'
+  band_name: 'Джазовый пароход: джаз-бэнд Федора Кувайцева, jam session'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80338
+  date: '2019-07-19'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Александры Шакиной (вокал), St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80339
+  date: '2019-07-20'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Николая Сизова (фортепиано), Alexandroff Dixieland
+    Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80341
+  date: '2019-07-24'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Евгения Стригалева (альт-саксофон), джаз-бэнд
+    Федора Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80343
+  date: '2019-07-26'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Леонида Сендерского (саксофон, Израиль), St.
+    Petersburg Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80336
+  date: '2019-07-17'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Джерри Кима (гитара), St. Petersburg Stompers
+    диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80340
+  date: '2019-07-21'
+  time: '18:00'
+  band_name: 'Джазовый пароход: Bitter Candy, Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80342
+  date: '2019-07-25'
+  time: '19:00'
+  band_name: 'Джазовый пароход: Old river''s band диксиленд п/у Михаила Городецкого,
+    jam session'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80344
+  date: '2019-07-27'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Алексея Попова (тенор-саксофон), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80345
+  date: '2019-07-28'
+  time: '18:00'
+  band_name: 'Джазовый пароход: JazzFactory Владимира Хотина, Ленинградский диксиленд
+    п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80346
+  date: '2019-07-31'
+  time: '19:00'
+  band_name: 'Джазовый пароход: квартет Дмитрия Попова (тенор-саксофон), Old river''s
+    band диксиленд п/у Михаила Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80875
+  date: '2019-08-08'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Джаз-бэнд Федора Кувайцева, jam session'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80884
+  date: '2019-08-23'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Николая Поправко (тенор-саксофон), St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80871
+  date: '2019-08-02'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Никиты Арефьева (вокал), St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80872
+  date: '2019-08-03'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Ансамбль Юлии Михайловской (вокал), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80873
+  date: '2019-08-04'
+  time: '18:00'
+  band_name: '"Джазовый пароход": Квартет Николая Сизова (фортепиано), Ленинградский
+    диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80874
+  date: '2019-08-07'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Виктория Урусова (вокал); Old river''s band диксиленд
+    п/у М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 80876
+  date: '2019-08-09'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Тодда Херберта (тенор-саксофон/США), St.
+    Petersburg Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80877
+  date: '2019-08-10'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Михаила Костюшкина (тенор-саксофон), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80878
+  date: '2019-08-11'
+  time: '18:00'
+  band_name: '"Джазовый пароход": Квартет Влада Колчина (тенор-саксофон), Ленинградский
+    диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80879
+  date: '2019-08-14'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Джаз Классик Трио и Н. Кузнецова (вокал), Old river''s
+    band п/у М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80889
+  date: '2019-08-31'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Михаила Чернова (тенор-саксофон), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81006
+  date: '2019-09-04'
+  time: '19:00'
+  band_name: ShoobeDoobe Jazz Band, Old river's band диксиленд п/у М. Городецкого
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81007
+  date: '2019-09-07'
+  time: '19:00'
+  band_name: Квартет Сергея Короткова, St. Petersburg Stompers диксиленд
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81011
+  date: '2019-09-21'
+  time: '19:00'
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева, jam session
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80880
+  date: '2019-08-16'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Азата Баязитова и Анастасия Проклова (вокал),
+    St. Petersburg Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80881
+  date: '2019-08-17'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Валерия Нагорного (тенор-саксофон), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80882
+  date: '2019-08-18'
+  time: '18:00'
+  band_name: '"Джазовый пароход": Квартет П. Альбрехта и М. Челомина (саксофон), Ленинградский
+    диксиленд п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80883
+  date: '2019-08-21'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Алексея Петкевича (гитара), Old river''s
+    band п/у М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80885
+  date: '2019-08-24'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Acoustic-band - Иван Васильев (труба), Alexandroff
+    Dixieland Band'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80886
+  date: '2019-08-25'
+  time: '18:00'
+  band_name: '"Джазовый пароход": Квартет Надежды Овчарук (вокал), Ленинградский диксиленд
+    п/у Олега Кувайцева'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 80887
+  date: '2019-08-28'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Сергея Короткова, Old river''s band п/у
+    М. Городецкого'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 80888
+  date: '2019-08-30'
+  time: '19:00'
+  band_name: '"Джазовый пароход": Квартет Виктора Матвеева (гитара), St. Petersburg
+    Stompers диксиленд'
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81008
+  date: '2019-09-11'
+  time: '19:00'
+  band_name: Квартет Андрея Рябова (гитара), Old river's band диксиленд п/у М. Городецкого
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81009
+  date: '2019-09-14'
+  time: '19:00'
+  band_name: Chance-On Manouche, Alexandroff Dixieland Band
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka
+- id: 81010
+  date: '2019-09-18'
+  time: '19:00'
+  band_name: Квартет Николая Сизова (фортепиано), Джаз-бэнд Федора Кувайцева
+  club_id: 841
+  club_name: Пристань "Зимняя канавка"
+  club_token: pristan-zimnyaya-kanavka

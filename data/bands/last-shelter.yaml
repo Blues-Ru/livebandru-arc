@@ -1,0 +1,13 @@
+id: 202
+token: last-shelter
+name: Последний приют
+alive: true
+url: http://lastshelter.myartsonline.com/
+city_id: 25
+genre_id: 8
+clips:
+- id: 531
+  type: weblink
+  url: http://lastshelter.myartsonline.com/
+  name: Официальный сайт
+  sort_order: 0

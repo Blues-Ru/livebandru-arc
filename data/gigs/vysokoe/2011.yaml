@@ -1,0 +1,100 @@
+- id: 14497
+  date: '2011-01-02'
+  time: '20:30'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 15259
+  date: '2011-01-29'
+  time: '20:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 15344
+  date: '2011-02-19'
+  time: '20:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 15345
+  date: '2011-02-26'
+  time: '20:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 16247
+  date: '2011-03-07'
+  time: '21:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 17391
+  date: '2011-04-09'
+  time: '21:00'
+  band_name: "Outback Blues Company\r\nOpen acoustic JAM"
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+  extra_bands:
+  - id: 201
+    name: DZh & Outback Blues Company
+    token: outback
+- id: 17114
+  date: '2011-03-26'
+  time: '21:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 21542
+  date: '2011-08-26'
+  time: '21:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+  comments: Специальные гости - группа Tightrope
+- id: 22451
+  date: '2011-10-21'
+  time: '20:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+  price: бесплатно
+  comments: Unplugged
+- id: 22452
+  date: '2011-10-29'
+  time: '20:00'
+  band_name: The Jumping Cats & Outback Blues Company
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+  extra_bands:
+  - id: 201
+    name: DZh & Outback Blues Company
+    token: outback
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats

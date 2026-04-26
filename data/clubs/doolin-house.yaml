@@ -1,0 +1,14 @@
+id: 204
+token: doolin-house
+name: Doolin House
+alive: true
+address: Арбат, 20
+subway: Арбатская
+phone: (495) 695-92-06
+city_id: 1
+clips:
+- id: 226
+  type: weblink
+  url: http://www.doolin-house.ru
+  name: Официальный сайт
+  sort_order: 0

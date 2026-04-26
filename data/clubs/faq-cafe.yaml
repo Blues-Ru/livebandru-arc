@@ -1,0 +1,36 @@
+id: 166
+token: faq-cafe
+name: FAQ-Cafe
+aliases: 'FAQ Cafe
+
+  FAQ-Cafe Creative Studio'
+alive: true
+address: Б.Полянка, 65/74 стр.1
+subway: Добрынинская
+phone: (499) 755-88-27
+city_id: 1
+clips:
+- id: 146
+  type: weblink
+  url: http://www.faqcafe.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 147
+  type: rss
+  url: http://community.livejournal.com/faqcafe/data/rss
+  sort_order: 99
+- id: 2060
+  type: weblink
+  url: http://vk.com/club205424
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2059
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=265389834410
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 2061
+  type: weblink
+  url: http://twitter.com/FAQCafe
+  name: Твиттер @FAQCafe
+  sort_order: 200

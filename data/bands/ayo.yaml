@@ -1,0 +1,18 @@
+id: 429
+token: ayo
+name: Ayo
+alive: true
+genre_id: 5
+secondary_genre_id: 4
+clips:
+- id: 2026
+  type: weblink
+  url: http://www.myspace.com/ayo
+  name: Страница на MySpace
+  sort_order: 99
+- id: 2089
+  type: photo
+  url: ayo.jpg
+  sort_order: 0
+  width: 524
+  height: 516

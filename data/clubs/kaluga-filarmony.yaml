@@ -1,0 +1,13 @@
+id: 413
+token: kaluga-filarmony
+name: Калужская областная филармония
+alive: true
+address: Ленина, 60
+phone: (4842) 55-40-88
+city_id: 88
+clips:
+- id: 1839
+  type: weblink
+  url: http://www.kof-kaluga.ru/
+  name: Официальный сайт
+  sort_order: 0

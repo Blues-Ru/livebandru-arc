@@ -1,0 +1,50 @@
+id: 89
+token: kukuruza
+name: Кукуруза
+alive: true
+url: http://www.kukuruza.info/
+city_id: 1
+genre_id: 10
+musicians:
+- name: Светлана Шебеко
+  instruments: вокал
+- name: Михаил Клягин
+  instruments: гитара
+- name: Павел Титовец
+  instruments: гитара
+- name: Роман Майборода
+  instruments: бас-гитара
+- name: Сергей Новиков
+  instruments: скрипка
+- name: Дмитрий Кричевский
+  instruments: ударные
+- name: Георгий Пальмов
+  instruments: гитара, губная гармошка, мандолина
+clips:
+- id: 952
+  type: weblink
+  url: http://www.kukuruza.info/
+  name: Официальный сайт
+  sort_order: 99
+- id: 955
+  type: youtube
+  url: http://www.youtube.com/?v=91K86KnAjQs
+  name: Пой Вася! 1986 год
+  comments: Просто клип
+  sort_order: 199
+- id: 954
+  type: mp3
+  url: 2.mp3
+  name: Усталость (Андрей Шепелев)
+  sort_order: 199
+- id: 951
+  type: mp3
+  url: 1.mp3
+  name: Песенка старого извозчика (Н. Богословский, Я. Родионов)
+  sort_order: 99
+- id: 2102
+  type: photo
+  url: kukuruza.jpg
+  sort_order: 0
+  width: 397
+  height: 327

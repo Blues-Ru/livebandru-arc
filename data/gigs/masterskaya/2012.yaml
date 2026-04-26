@@ -1,0 +1,59 @@
+- id: 24559
+  date: '2012-01-29'
+  time: '21:00'
+  band_name: High School
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 29605
+  date: '2012-08-29'
+  time: '21:00'
+  band_id: 542
+  band_name: Лампа Ladino
+  band_token: lampaladino
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: бесплатный
+  comments: "29 августа Лампа Ladino выступит в любимом Клубе-театре Мастерская\r\n\
+    \r\nПолтора часа нечеловечески красивой музыки абсолютно бесплатно\r\n\r\nкак\
+    \ это бывает:\r\n\r\nhttp://www.youtube.com/playlist?list=PL0C01E1ED8792FCC0\r\
+    \nhttp://www.youtube.com/playlist?list=PL75234A4F7FB43F49\r\nhttp://www.youtube.com/playlist?list=PL4ED11A481FAEC4AD\r\
+    \n\r\nмосква. метро: театральная / кузнецкий мост,\r\nтеатральный проезд, дом\
+    \ 3, строение 3\r\nтелефонный номер: (495) 625-6836\r\n\r\nНачало в 21-00. ВХОД\
+    \ СВОБОДНЫЙ"
+- id: 30013
+  date: '2012-09-09'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 31865
+  date: '2012-11-25'
+  time: '21:00'
+  band_id: 542
+  band_name: Лампа Ladino
+  band_token: lampaladino
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: бесплатный
+- id: 31955
+  date: '2012-12-16'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.

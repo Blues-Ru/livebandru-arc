@@ -1,0 +1,29 @@
+id: 469
+token: zizak-trio
+name: Трио Эдуарда Зизака
+alive: true
+url: http://www.jazz.ru/pages/zizak
+city_id: 1
+genre_id: 2
+musicians:
+- name: Эдуард Зизак
+  instruments: ударные
+references:
+- id: 463
+  name: Квартет Игоря Бутмана
+  token: igor-butman-kvartet
+- id: 466
+  name: Sergio Brandao, Андрей Кондаков, Эдуард Зизак
+  token: kondakov-brandao-zizak
+clips:
+- id: 2191
+  type: photo
+  url: zizak-trio.jpg
+  sort_order: 0
+  width: 200
+  height: 197
+- id: 2190
+  type: weblink
+  url: http://www.jazz.ru/pages/zizak
+  name: Официальный сайт
+  sort_order: 0

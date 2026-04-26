@@ -1,0 +1,40 @@
+id: 217
+token: magicalmysterytour
+name: Magical Mystery Tour
+alive: true
+url: http://www.themagical.co.il
+city_id: 21
+musicians:
+- name: Oron Korichoner
+  instruments: vocals, guitar
+- name: Ofer PopCorn
+  instruments: vocals, bass
+- name: Shiko Feldman
+  instruments: vocals, guitar
+- name: Koby Sandhouz
+  instruments: vocals, keyboards
+- name: Assaf (assafis) Rais
+  instruments: drums
+clips:
+- id: 636
+  type: weblink
+  url: http://www.facebook.com/pages/magical-mystery-tour/31204647573#!/pages/magical-mystery-tour/31204647573?v=info
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 638
+  type: weblink
+  url: http//www.themagical.co.il
+  name: Официальный сайт
+  sort_order: 199
+- id: 639
+  type: weblink
+  url: http://news.bbc.co.uk/2/hi/entertainment/7634431.stm
+  sort_order: 299
+- id: 634
+  type: youtube
+  url: http://www.youtube.com/?v=GxeQwySWreE
+  name: magical mystery tour - beatles tribute band
+  comments: "magical mystery tour - beatles tribute band from israel.\r\nroll over\
+    \ beethoven, she loves you, hard day's night, strawberry fields, while my guitar,\
+    \ get back, all you need is love, het jude, I should h"
+  sort_order: 99

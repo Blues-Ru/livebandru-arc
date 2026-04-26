@@ -1,0 +1,13 @@
+id: 137
+token: moral-codex
+name: Моральный Кодекс
+alive: true
+url: http://moralcodex.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 143
+  type: weblink
+  url: http://moralcodex.ru/
+  name: Официальный сайт
+  sort_order: 0

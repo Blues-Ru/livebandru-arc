@@ -1,0 +1,15 @@
+id: 742
+token: cdri
+name: ЦДРИ
+aliases: Центральный Дом работников искусств
+alive: true
+address: ул. Пушечная, 9/6, стр.1
+subway: Кузнецкий Мост
+phone: +7(495)624-93-47
+city_id: 1
+clips:
+- id: 5000
+  type: weblink
+  url: http://cdri.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,14 @@
+id: 163
+token: ffjazz
+name: Фулл Фри джаз&гриль
+alive: true
+address: Щепкина, 33
+subway: Проспект Мира
+phone: (495) 774-5550
+city_id: 1
+clips:
+- id: 123
+  type: weblink
+  url: http://www.ffjazz.ru/
+  name: Официальный сайт
+  sort_order: 0

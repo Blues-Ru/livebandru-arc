@@ -1,0 +1,465 @@
+- id: 32843
+  date: '2013-02-28'
+  time: '20:00'
+  band_name: 'Проект "Jazz In Motion": Sinne Eeg/Синнэ Эг (вокал, Дания), Jacob Christoffersen/Якоб
+    Кристофферсен (рояль, Дания) и Lenny Sendersky Trio'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 32194
+  date: '2013-01-23'
+  time: '20:00'
+  band_name: '"На лирической стороне джаза" - джаз-проект Евгения Баранова'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 32557
+  date: '2013-01-31'
+  time: '20:00'
+  band_name: Grace Garland/Грейс Гарланд (вокал, США) и квартет Александра Гуреева
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 32558
+  date: '2013-02-07'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 33461
+  date: '2013-02-14'
+  time: '20:00'
+  band_name: 'Проект "Jazz In Motion": Максим Пустовит (труба)'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 33462
+  date: '2013-02-16'
+  time: '19:00'
+  band_name: 'Moscow Trad Jazz Band: "Новый Год из Нового Орлеана"'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 33463
+  date: '2013-03-13'
+  time: '20:00'
+  band_name: 'Скрипка в джазе: Константин Ильицкий (скрипка), Ник Шеффер (саксофон),
+    Лариса Афанасенкова (вокал), Виктор Агранович (фортепиано), Евгений Печников (контрабас,
+    фортепиано), Дмитрий Качура (ударные)'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34074
+  date: '2013-03-21'
+  time: '20:00'
+  band_name: 'Проект "Jazz In Motion": Фило Машадо, Дудка да Фонсека и трио Аркадия
+    Овруцкого'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34076
+  date: '2013-02-21'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34075
+  date: '2013-03-07'
+  time: '20:00'
+  band_name: 'Проект "Jazz In Motion": Вадим Эйленкриг и его квинтет'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig
+- id: 34428
+  date: '2013-03-14'
+  time: '20:00'
+  band_name: Real Jam в проекте Jazz In Motion
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34819
+  date: '2013-03-27'
+  time: '20:00'
+  band_name: Дебора Дэвис (Deborah Davisс)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34820
+  date: '2013-04-04'
+  time: '20:00'
+  band_name: Стэффорд Хантер (тромбон, США) и трио Ольги Глебец (вокал)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 34821
+  date: '2013-04-20'
+  time: '19:00'
+  band_name: Exilados
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35017
+  date: '2013-04-18'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35177
+  date: '2013-04-11'
+  time: '20:00'
+  band_name: 'Проект "Jazz In Motion": Кармэн Мокси (вокал, США).'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35178
+  date: '2013-04-17'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Акапелла Экспресс'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 352
+    name: Акапелла Экспресс
+    token: acapella-express
+- id: 35927
+  date: '2013-06-13'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Ив Корнелиус (вокал, США)'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35923
+  date: '2013-05-14'
+  time: '20:00'
+  band_name: Трио Игоря Яковенко
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35924
+  date: '2013-05-16'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Синтия Холидей (вокал, США)'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 35925
+  date: '2013-05-23'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Акапелла Экспресс'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 352
+    name: Акапелла Экспресс
+    token: acapella-express
+- id: 35926
+  date: '2013-05-30'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Grace Garland и квартет Александра Гуреева'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 36210
+  date: '2013-06-07'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: with Omar Caceres y Vidala Barboza
+- id: 36433
+  date: '2013-06-05'
+  time: '20:00'
+  band_name: Michelle Walker (вокал, США) и квартет Алексея Черемизова
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 36434
+  date: '2013-06-27'
+  time: '20:00'
+  band_name: Юбилей проекта "Jazz In Motion" - 5 лет
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 36609
+  date: '2013-07-04'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Акапелла Экспресс'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 352
+    name: Акапелла Экспресс
+    token: acapella-express
+- id: 36904
+  date: '2013-07-25'
+  time: '20:00'
+  band_name: 'Проект "Jazz in Motion": Вадим Эйленкриг и его Квинтет'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 367
+    name: Вадим Эйленкриг
+    token: eilenkrig
+- id: 37690
+  date: '2013-08-01'
+  time: '20:00'
+  band_name: Lady Z (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 37691
+  date: '2013-08-08'
+  time: '20:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37692
+  date: '2013-08-15'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37693
+  date: '2013-08-22'
+  time: '20:00'
+  band_name: Katt Hefner (Кэтт Хефнер - вокал, США) и Трио Евгения Рябого
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37694
+  date: '2013-08-29'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37695
+  date: '2013-08-30'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37696
+  date: '2013-09-04'
+  time: '20:00'
+  band_name: Bobby Harden (Бобби Харден - вокал, США) и квартет Александра Гуреева
+    (саксофон, Россия)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37697
+  date: '2013-09-19'
+  time: '20:00'
+  band_name: Real Jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 632
+    name: Real Jam
+    token: real-jam
+- id: 37698
+  date: '2013-09-26'
+  time: '20:00'
+  band_name: Кармэн Мокси (Karmen Moxie - вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37984
+  date: '2013-09-12'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37985
+  date: '2013-10-03'
+  time: '20:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 37986
+  date: '2013-11-14'
+  time: '20:00'
+  band_name: Джей Ди Уолтер (вокал, США) и трио Александра Машина
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 38479
+  date: '2013-10-10'
+  time: '20:00'
+  band_name: Ty Stephens (вокал, США) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 38480
+  date: '2013-10-17'
+  time: '20:00'
+  band_name: Cleve Douglass (вокал, США), Tony Romano (гитара, США) и Lenny Sendersky
+    Trio (Израиль)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 38481
+  date: '2013-11-07'
+  time: '20:00'
+  band_name: Jason Palmer (труба, США) и квартет Алексея Подымкина
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 38482
+  date: '2013-11-21'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 39124
+  date: '2013-10-12'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  price: 600 руб.
+- id: 39155
+  date: '2013-10-19'
+  time: '20:00'
+  band_name: Антон Румянцев (саксофон)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 39156
+  date: '2013-10-31'
+  time: '20:00'
+  band_name: Стэффорд Хантер (тромбон, США) и трио Владимира Нестеренко
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 39157
+  date: '2013-10-24'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 39158
+  date: '2013-11-28'
+  time: '20:00'
+  band_name: Дебора Дэвис (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: "tMotion представляет:\r\n\r\nДебора Дэвис - одаренная певица, обладательница\
+    \ теплого ангельского голоса, очаровавшего публику во всем мире. Она обладает\
+    \ многими талантами - поэтесса, актриса, художник, балерина, преподаватель, спортсменка,\
+    \ менеджер. Но именно пение принесло ей известность. Она одинаково комфортно чувствует\
+    \ себя в разных музыкальных стилях, исполняя джаз, классику, госпел, поп, кантри,\
+    \ ритм-энд-блюз, хип-хоп и даже коммерческие джинглы. Ее репертуар включает множество\
+    \ известных джазовых стандартов - это баллады, блюзы, латино, свинг. Она постоянно\
+    \ работает в Нью-Йорке, а также выступает в Европе и Азии.\r\n\r\nДебора родилась\
+    \ в Далласе (Техас) в бедной семье и, не имея в доме магнитофона, слушала чаще\
+    \ всего музыку своей собственной души. И с детства очень любила петь. Не имея\
+    \ возможности кому-либо подражать и не испытывая ничьих музыкальных влияний, Дебора\
+    \ со временем развила свой собственный стиль пения, используя возможности своего\
+    \ уникального голоса. Она пела в церквах, местных евангелических ансамблях, на\
+    \ школьных утренниках, на конкурсах красоты, записывала джинглы. Образование Дебора\
+    \ как певица получила в Университете Северного Техаса, затем получила диплом звукорежиссера\
+    \ в Cedar Valley College. Кроме того, она изучала актерское мастерство и танец\
+    \ в El Centro College. По окончании учебы Дебора уже выступала на джазовых сценах\
+    \ Далласа, сотрудничала с оркестрами и известными солистами, такими, как Бобби\
+    \ Хэмфри, Дебра Лос и Анжела Бофилл.\r\n\r\nВ 1986 году Дебора перебралась в Нью-Йорк\
+    \ и, помимо увлечения джазом, проявила себя талантливым менеджером, подготовив\
+    \ несколько театральных постановок. Индивидуальный стиль и голос Деборы, зазвучавший\
+    \ в нью-йоркских клубах, оценили Рэй Браун, Лайонел Хэмптон и Кларк Терри, пригласившие\
+    \ певицу к сотрудничеству, а однажды она заменила саму Эбби Линкольн. Кроме того,\
+    \ сцену с Деборой делили Фредди Хаббард, Арт Блэйки, Лу Доналдсон, Харолд Мейберн,\
+    \ Делфио Марсалис, Джеймс Уильямс, Бенни Грин, Марк Кэри, Крисчен Макбрайд, Питер\
+    \ Вашингтон, Рон Аффиф, Расселл Малоун, Джеф Уоттс и др. \r\nЕе выступлениям посвятили\
+    \ свои восторженные обзоры New York Times, New York Newsday, Amsterdam News. Она\
+    \ пела в самых престижных джаз-клубах, на фестивальных площадках и в концертных\
+    \ залах, включая Blue Note, Birdland, Village Vanguard, Sweet Basil, Five Spot,\
+    \ Tavern On The Green, Rainbow Room, Windows Of The World, Mt.Fuji Jazz Fest и\
+    \ др.\r\n\r\nОна выступала перед представителями ООН и перед президентом Биллом\
+    \ Клинтоном. \r\nДебора организовала собственную компанию Manhattan Music Design,\
+    \ обслуживающую различные городские мероприятия, записывается на собственном лейбле\
+    \ Got My Own Records, а также находит возможности помогать Обществу по борьбе\
+    \ с лейкемией, перечисляя в его пользу средства то от марафона на 26,2 мили, то\
+    \ от концертов в нью-йоркском клубе Blue Note.\r\n\r\nКонцерт пройдет в рамках\
+    \ проекта \"Jazz in Motion\" - еженедельных концертов зарубежных и российских\
+    \ звезд джаза."
+- id: 39968
+  date: '2013-11-16'
+  time: '19:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 39969
+  date: '2013-11-22'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 40936
+  date: '2013-12-28'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov

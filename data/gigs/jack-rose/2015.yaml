@@ -1,0 +1,82 @@
+- id: 48420
+  date: '2015-01-16'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+- id: 48882
+  date: '2015-01-03'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+- id: 49085
+  date: '2015-02-07'
+  time: '21:00'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 49330
+  date: '2015-01-23'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+  comments: (funk, soul, rhythm'n'blues live)
+- id: 49699
+  date: '2015-02-13'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 49700
+  date: '2015-02-14'
+  time: '21:00'
+  band_id: 276
+  band_name: Betty Boop Lovers
+  band_token: betty-boop-lovers
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 49698
+  date: '2015-02-06'
+  time: '21:00'
+  band_name: Fedulova Band
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 49728
+  date: '2015-02-14'
+  time: '23:30'
+  band_name: Jose Luis Pardo & The Jumping Cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo

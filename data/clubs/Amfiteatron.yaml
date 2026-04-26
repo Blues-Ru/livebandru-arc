@@ -1,0 +1,14 @@
+id: 256
+token: Amfiteatron
+name: Амфитеатр
+alive: true
+subway: автобусы 76 и 77 из Хадеры
+phone: '*6550'
+city_id: 39
+comments: 2, 4 или 6 дорога
+clips:
+- id: 587
+  type: weblink
+  url: http://www.mouse.co.il/CM.show_item_place,404,201,1940,.aspx
+  name: расписание на сентябрь (иврит)
+  sort_order: 0

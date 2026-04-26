@@ -1,0 +1,22 @@
+id: 277
+token: night-snipers
+name: Ночные Снайперы
+aliases: 'Диана Арбенина
+
+  Диана Арбенина и Ночные Снайперы'
+alive: true
+url: http://www.snipers.net
+city_id: 1
+genre_id: 3
+clips:
+- id: 909
+  type: youtube
+  url: http://www.youtube.com/?v=zpij5mu4gpc
+  name: Ночные Снайперы - Ты дарила мне розы
+  sort_order: 99
+- id: 910
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 190
+  height: 188

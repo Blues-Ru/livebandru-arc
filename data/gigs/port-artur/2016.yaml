@@ -1,0 +1,278 @@
+- id: 57010
+  date: '2016-03-10'
+  time: '20:00'
+  band_name: Dina Sineglazova Band. The Color of Your Jazz
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Дина Синеглазова - фортепиано, Артем Головко - гитара, Сергей Емец - бас,
+    Влад Синеглазов - барабаны
+- id: 57011
+  date: '2016-03-17'
+  time: '20:00'
+  band_name: Юрий Бедрак. Jazz Establishment
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Юрий Бедрак - саксофон, Арман Сидоркин - клавишные, Владимир Павличенко
+    - барабаны
+- id: 57012
+  date: '2016-03-24'
+  time: '20:00'
+  band_name: Виктория Урусова. Sunny Day
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Виктория Урусова - вокал, Николай Сизов - фортепиано, Дмитрий Семенищев
+    - контрабас
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 57013
+  date: '2016-03-31'
+  time: '20:00'
+  band_name: Леха Охтинский Project Band. Малиновый пирог
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Алексей Сотников - вокал, гитара, Артем Головко - гитара, Дина Синеглазова
+    - клавишные, Сергей Нагорный - саксофон, Ирина Аверина - вокал, Валерий Ровинский
+    - бас, Влад Синеглазов - барабаны
+- id: 57014
+  date: '2016-04-07'
+  time: '21:00'
+  band_name: Сергей Летов, Владимир Китляр, Олег Шарр., Живое музыкальное сопровождение
+    немого кинематографа
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: '"La Antena" ("Антенна"), реж. Эстебан Сапир, Аргентина, 2007, Испания.'
+- id: 57459
+  date: '2016-03-04'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 57551
+  date: '2016-04-23'
+  time: '20:00'
+  band_name: Gwyn Ashton и Rollo Markee
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  extra_bands:
+  - id: 648
+    name: Rollo Markee
+    token: rollo-markee
+  - id: 669
+    name: Gwyn Ashton
+    token: gwyn-ashton
+- id: 58677
+  date: '2016-05-05'
+  time: '20:00'
+  band_name: Группа Игоря Володина (Тихвин - Великий Новгород)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Игорь Володин (автор музыки, клавиши), Вячеслав Большаков (гитара), Юрий
+    Грибецкий (бас), Михаил Павлов (ударные). Ведущий концерта - Владимир Фейертаг
+- id: 58678
+  date: '2016-05-07'
+  time: '20:00'
+  band_name: Sweet hot Jazz band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Игорь Володин (автор музыки, клавиши), Вячеслав Большаков (гитара), Юрий
+    Грибецкий (бас), Михаил Павлов (ударные). Ведущий концерта - Владимир Фейертаг
+- id: 58679
+  date: '2016-05-07'
+  time: '20:00'
+  band_id: 647
+  band_name: Big Daddy Blues
+  band_token: big-daddy-blues
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  comments: Игорь Володин (автор музыки, клавиши), Вячеслав Большаков (гитара), Юрий
+    Грибецкий (бас), Михаил Павлов (ударные). Ведущий концерта - Владимир Фейертаг
+- id: 57740
+  date: '2016-04-08'
+  time: '20:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 58930
+  date: '2016-06-04'
+  time: '20:00'
+  band_name: Kenny Blues Boss Wayne (США) feat.Jose Luis Pardo (Аргентина)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 59281
+  date: '2016-06-05'
+  time: '20:00'
+  band_name: Владимир Рекшан & группа "Санкт-Петербург"
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 59282
+  date: '2016-06-09'
+  time: '20:00'
+  band_name: The Room Orchestra (Ярославль-Прага-Великий Новгород-Москва)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 59283
+  date: '2016-06-11'
+  time: '20:00'
+  band_name: Квартет Виктории Урусовой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 59284
+  date: '2016-06-16'
+  time: '20:00'
+  band_name: Трио Никиты Арефьева
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 59285
+  date: '2016-06-23'
+  time: '20:00'
+  band_name: AcouStick
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 59286
+  date: '2016-06-25'
+  time: '20:00'
+  band_name: Black&White - Ольга Пономарева
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  extra_bands:
+  - id: 497
+    name: Ольга Пономарева
+    token: olga-ponomareva
+- id: 59287
+  date: '2016-06-30'
+  time: '20:00'
+  band_name: Трио Андрея Рябова
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 61978
+  date: '2016-11-19'
+  time: '21:00'
+  band_name: Acoustic Live & Борис Левкоев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 61979
+  date: '2016-11-26'
+  time: '21:00'
+  band_name: Southern Comfort
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  comments: Southern Comfort - это рояль, контрабас и резонаторная гитара. Это обаяние
+    и голос прекрасной Elizabeth Allai. Это время и настроение.
+- id: 61973
+  date: '2016-11-25'
+  time: '21:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 62068
+  date: '2016-12-09'
+  time: '21:00'
+  band_name: Acoustic Soul
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  comments: Классика соула и ритм-н-блюза, переосмысленная в акустическом минимализме
+- id: 62069
+  date: '2016-12-10'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  comments: The Jumping Cats - одна из наиболее заметных блюзовых групп в России.
+    Ее музыканты неоднократно организовывали памятные для ценителей качественной музыки
+    гастроли зарубежных звезд, играли в российских турне с Bob Margolin, John Nemeth,
+    Kirk Fletcher, JW Jones и многими другими.
+- id: 62070
+  date: '2016-12-11'
+  time: '19:00'
+  band_name: The Chess
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 62071
+  date: '2016-12-16'
+  time: '21:00'
+  band_name: Love'n'Groove
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  comments: Сочетание страсти и музыкального драйва в завораживающем выступлении "Love
+    & Groove". Яркие каверы на мировые хиты в танцевальном ритме и сочном звучании.
+- id: 62072
+  date: '2016-12-15'
+  time: '20:00'
+  band_name: Bitter Canady
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 62065
+  date: '2016-12-02'
+  time: '21:00'
+  band_name: The Bradbury's
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 62066
+  date: '2016-12-03'
+  time: '21:00'
+  band_name: Квартет Оксаны Ференчук
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 62067
+  date: '2016-12-08'
+  time: '20:00'
+  band_name: Jazz Esteblishment
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  comments: Джазовый четверг

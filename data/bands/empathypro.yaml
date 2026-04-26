@@ -1,0 +1,30 @@
+id: 718
+token: empathypro
+name: Empathy Project
+aliases: 'Empathy-Jazz
+
+  Empathy Duo'
+alive: true
+url: http://empathypro.com
+city_id: 2
+genre_id: 2
+secondary_genre_id: 32
+musicians:
+- name: Александра Куркова
+  instruments: вокал
+- name: Дмитрий Васильев
+  instruments: вокал, бас гитара/контрабас/гитара
+- name: Виктор Архаров
+  instruments: саксофон/кларнет
+- name: Григорий Бажанов
+  instruments: клавиши/фортепиано
+- name: Семен Клименок
+  instruments: гитара
+- name: Денис Каверзнев
+  instruments: ударные, перкуссия
+clips:
+- id: 7844
+  type: weblink
+  url: http://empathypro.com
+  name: Официальный сайт
+  sort_order: 0

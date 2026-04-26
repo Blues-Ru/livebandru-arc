@@ -1,0 +1,78 @@
+- id: 47408
+  date: '2014-11-11'
+  time: '15:00'
+  band_name: 'GG Jazz III: мастер-класс от John Daversa (оркестровка, труба - США)'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47402
+  date: '2014-11-05'
+  time: '18:00'
+  band_name: Официальное открытие фестиваля GG Jazz III
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47403
+  date: '2014-11-06'
+  time: '19:00'
+  band_name: 'GG Jazz III: открытие концертной программы фестиваля - Краснодарский
+    Биг-бенд Георгия Гараняна; Fraanje, Reijseger, Sylla Trio (Голландия) и Larry
+    Coryell Band (США)'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47404
+  date: '2014-11-07'
+  time: '19:00'
+  band_name: 'GG Jazz III: день швейцарского джаза - Authentic Light Orchestra и Pommelhorse'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47405
+  date: '2014-11-09'
+  time: '19:00'
+  band_name: 'GG Jazz III: Биг-бенд Георгия Гараняна с программой "Tributeto Benny
+    Goodman" (солисты: Antti Sarpila - Финляндия, Владимир Голоухов - Россия и Карина
+    Кожевникова - Россия); Алевтина Полякова (Россия) с проектом "Солнечный ветер"'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47406
+  date: '2014-11-08'
+  time: '19:00'
+  band_name: 'GG Jazz III: Игорь Бриль, Алексей Иванников и Алексей Чернаков (Россия)'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 47407
+  date: '2014-11-10'
+  time: '15:00'
+  band_name: 'GG Jazz III: мастер-класс от Antti Sarpila (кларнет, саксофон)'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47409
+  date: '2014-11-13'
+  time: '19:00'
+  band_name: 'GG Jazz III: день итальянского джаза - Boris Savoldelli и Walter Beltrami;
+    Carla Marciano Quartet; Tubax'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+- id: 47410
+  date: '2014-11-14'
+  time: '19:00'
+  band_name: 'GG Jazz III: официальное закрытие фестиваля - Биг-бенд Георгия Гараняна
+    с программой "Progressive Jazz" (солист: John Daversa - США); Raphael Wressnig
+    Trio и Sabine Stieger (Австрия)'
+  club_id: 698
+  club_name: Музыкальный Театр
+  club_token: muzykalnyj-teatr
+  extra_bands:
+  - id: 596
+    name: Raphael Wressnig & The Soul Gift Band
+    token: wressnig-schultz

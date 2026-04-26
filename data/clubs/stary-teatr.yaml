@@ -1,0 +1,12 @@
+id: 427
+token: stary-teatr
+name: Старый Театр
+alive: true
+address: Алексеевская, 27а
+city_id: 25
+clips:
+- id: 2001
+  type: weblink
+  url: http://st-teatr.nn.ru/
+  name: Официальный сайт
+  sort_order: 0

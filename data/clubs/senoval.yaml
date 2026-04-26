@@ -1,0 +1,14 @@
+id: 321
+token: senoval
+name: Сеновал
+alive: true
+address: Митрофаньевское шоссе, 2
+subway: Балтийская
+phone: +7  911-149-30-11
+city_id: 2
+clips:
+- id: 1123
+  type: weblink
+  url: http://vk.com/event15032591
+  name: Страница ВКонтакте
+  sort_order: 99

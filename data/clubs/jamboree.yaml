@@ -1,0 +1,22 @@
+id: 447
+token: jamboree
+name: Jamboree
+alive: true
+address: Большая Покровская, 49
+phone: 411-54-82
+city_id: 25
+clips:
+- id: 2116
+  type: weblink
+  url: http://jamboreebar.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2117
+  type: weblink
+  url: http://vk.com/club23125452
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2118
+  type: rss
+  url: http://jamboreebar.livejournal.com/data/rss
+  sort_order: 99

@@ -1,0 +1,712 @@
+- id: 1382
+  date: '2002-01-13'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: ДАС МГУ
+  city_id: 1
+- id: 1390
+  date: '2002-01-18'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Экспат
+  city_id: 1
+- id: 1393
+  date: '2002-01-25'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Рок Вегас
+  city_id: 1
+- id: 1419
+  date: '2002-01-17'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Старый город (Сущевский вал 3/5)
+  city_id: 1
+  price: бесплатный
+- id: 1420
+  date: '2002-01-31'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Старый город
+  city_id: 1
+- id: 1439
+  date: '2002-02-08'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: РК Самолет, д. Штопор
+  city_id: 1
+- id: 1443
+  date: '2002-02-15'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Formula 1
+  city_id: 1
+- id: 1452
+  date: '2002-02-22'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: Арена (г.Зеленоград)
+  city_id: 1
+- id: 1483
+  date: '2002-02-09'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_name: Зоопарк ( Александровский парк, 1)
+  city_id: 2
+- id: 1487
+  date: '2002-02-15'
+  band_id: 34
+  band_name: J.A.M.
+  band_token: jam
+  club_name: Jam Prestige. (г.Нижний Новгород)
+  city_id: 1
+- id: 1493
+  date: '2002-03-05'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Манхэттен Экспресс
+  city_id: 1
+- id: 1494
+  date: '2002-03-09'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Формула-1
+  city_id: 1
+- id: 1516
+  date: '2002-03-09'
+  band_id: 20
+  band_name: Mishouris And His Orchestra
+  band_token: mishouris-and-his-orchestra
+  club_name: Expat
+  city_id: 1
+- id: 1562
+  date: '2002-03-28'
+  band_name: Sir Bald Diddley and His Wig Outs
+  club_name: Китайский летчик Джао Да
+  city_id: 1
+  price: 100 руб.
+- id: 1568
+  date: '2002-03-07'
+  band_name: Борис Булкин Бэнд
+  club_name: Старый город
+  city_id: 1
+- id: 1573
+  date: '2002-03-19'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Манхэттен экспресс
+  city_id: 1
+- id: 1574
+  date: '2002-03-22'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Формула 1
+  city_id: 1
+- id: 1593
+  date: '2002-03-15'
+  band_name: фольк-панк-певица Анастасия Головкина
+  club_name: ЗЕРКАЛО
+  city_id: 1
+  price: 30 руб.
+- id: 1594
+  date: '2002-03-15'
+  band_name: АНАСТАСИЯ ГОЛОВКИНА (фольк-панк)
+  club_name: ЗЕРКАЛО
+  city_id: 1
+  price: 30 руб.
+- id: 1607
+  date: '2002-03-22'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Кафе на Б.Бронной (дом 11)
+  city_id: 1
+  price: бесплатный
+- id: 1629
+  date: '2002-04-06'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Пена
+  city_id: 1
+- id: 1630
+  date: '2002-04-09'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Манхэттен экспресс
+  city_id: 1
+- id: 1632
+  date: '2002-04-12'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Старый Город
+  city_id: 1
+- id: 1636
+  date: '2002-04-26'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Дискотека "Штопор"
+  city_id: 1
+- id: 1637
+  date: '2002-04-27'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Sexton
+  city_id: 1
+- id: 1688
+  date: '2002-04-27'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_name: Куку
+  city_id: 1
+- id: 1694
+  date: '2002-05-03'
+  band_id: 33
+  band_name: Арсен Шомахов и Регтайм
+  band_token: ragtime
+  club_name: ЦДХ
+  city_id: 1
+- id: 1696
+  date: '2002-05-05'
+  band_id: 33
+  band_name: Арсен Шомахов и Регтайм
+  band_token: ragtime
+  club_name: г.Владимир, Золотая Зажигалка
+  city_id: 1
+- id: 1707
+  date: '2002-05-01'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Пумба
+  city_id: 1
+- id: 1711
+  date: '2002-05-11'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Рок-Вегас
+  city_id: 1
+- id: 1715
+  date: '2002-05-23'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Центральный Дом Художника
+  city_id: 1
+- id: 1720
+  date: '2002-05-11'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: FLY (Б.Кисловский 4, стр.2)
+  city_id: 1
+- id: 1722
+  date: '2002-05-03'
+  band_id: 5
+  band_name: Sky Stranger & D.Kazantsev
+  band_token: sky-stranger-dkazantsev
+  club_name: Пумба
+  city_id: 1
+- id: 1740
+  date: '2002-05-31'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Ла-Манш
+  city_id: 2
+- id: 1743
+  date: '2002-05-11'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Золотая лестница (Пр.т Мира, 186)
+  city_id: 1
+  price: 100 руб.
+- id: 1745
+  date: '2002-05-16'
+  band_name: Bluezoology Vol. I -- open jam
+  club_name: Зоопарк (Кр. Пресня 4А)
+  city_id: 1
+- id: 1751
+  date: '2002-05-18'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Золотая Лестница
+  city_id: 1
+- id: 1761
+  date: '2002-06-03'
+  band_name: James Brown
+  club_name: ГКД
+  city_id: 1
+- id: 1768
+  date: '2002-05-25'
+  band_id: 5
+  band_name: Sky Stranger & D.Kazantsev
+  band_token: sky-stranger-dkazantsev
+  club_name: Пумба
+  city_id: 1
+- id: 1772
+  date: '2002-06-18'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Бункер
+  city_id: 1
+- id: 1781
+  date: '2002-06-28'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: ЦДХ
+  city_id: 1
+- id: 1790
+  date: '2002-06-15'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Штопор
+  city_id: 1
+- id: 1799
+  date: '2002-06-22'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_name: Формула-1
+  city_id: 1
+- id: 1801
+  date: '2002-06-16'
+  band_name: Тамара Кожекина, Nineva
+  club_name: Expat
+  city_id: 1
+- id: 1840
+  date: '2002-07-12'
+  band_name: буранOFFблюз
+  club_name: SEXTON
+  city_id: 1
+  price: бесплатный
+- id: 1845
+  date: '2002-07-20'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Старый город
+  city_id: 1
+- id: 1847
+  date: '2002-07-20'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Формула -1
+  city_id: 1
+- id: 1853
+  date: '2002-07-25'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Expat
+  city_id: 1
+- id: 1855
+  date: '2002-07-27'
+  band_name: Фолк-блюзовый фестиваль "Дельта Невы"
+  club_name: Юсуповский Сад (Садовая, 50)
+  city_id: 2
+- id: 1886
+  date: '2002-09-03'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Барометр
+  city_id: 2
+  price: бесплатный
+- id: 1887
+  date: '2002-09-05'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: James Cook
+  city_id: 2
+- id: 1890
+  date: '2002-09-11'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Барометр
+  city_id: 2
+  price: бесплатный
+- id: 1892
+  date: '2002-09-14'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: James Cook
+  city_id: 2
+- id: 1898
+  date: '2002-09-05'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Expat
+  city_id: 1
+- id: 1899
+  date: '2002-09-19'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Expat
+  city_id: 1
+- id: 1900
+  date: '2002-09-20'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Sexton Bike Center
+  city_id: 1
+- id: 1901
+  date: '2002-09-08'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1903
+  date: '2002-09-29'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1904
+  date: '2002-10-07'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1907
+  date: '2002-09-06'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Sexton
+  city_id: 1
+- id: 1917
+  date: '2002-09-13'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: '"У Швейка" -- Баррикадная д.1'
+  city_id: 1
+- id: 1923
+  date: '2002-09-14'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Formula 1
+  city_id: 1
+- id: 1924
+  date: '2002-09-19'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Старый город
+  city_id: 1
+- id: 1927
+  date: '2002-09-27'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Полнолуние
+  city_id: 1
+- id: 1930
+  date: '2002-09-22'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1931
+  date: '2002-09-30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1933
+  date: '2002-09-21'
+  band_name: The Bluesophiles
+  club_name: BilleVue, Open Air, Hamburg-Germany
+  city_id: 1
+  price: бесплатный
+- id: 1939
+  date: '2002-09-21'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Московский Зоопарк, Баррикадная 4А, театр ТИК ТАК
+  city_id: 1
+- id: 1940
+  date: '2002-09-19'
+  band_name: Иван Жук и Juke Blues Band
+  club_name: Нео-Клуб, Варшавка, 27
+  city_id: 1
+  price: 100 руб.
+- id: 1941
+  date: '2002-09-26'
+  band_name: Удачное приобретение
+  club_name: Expat
+  city_id: 1
+- id: 1950
+  date: '2002-09-27'
+  band_name: Blues Cousins, Crossroadz, Николай Арутюнов, Удачное Приобретение, Петрович,
+    Борис Булкин Бэнд
+  club_name: ЦДХ
+  city_id: 1
+- id: 1951
+  date: '2002-09-28'
+  band_id: 38
+  band_name: Серебряный Рубль
+  band_token: serebryanyj-rubl
+  club_name: Мегасфера
+  city_id: 1
+- id: 1955
+  date: '2002-09-21'
+  band_id: 5
+  band_name: Sky Stranger & D.Kazantsev
+  band_token: sky-stranger-dkazantsev
+  club_name: Neo-Club, Варшавка 27
+  city_id: 1
+- id: 1965
+  date: '2002-10-04'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Сакс на Пляже
+  city_id: 1
+- id: 1987
+  date: '2002-10-24'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: James Cook
+  city_id: 2
+  price: бесплатный
+- id: 1994
+  date: '2002-10-11'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Тамада
+  city_id: 1
+- id: 1996
+  date: '2002-10-20'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 1999
+  date: '2002-10-26'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Штопор
+  city_id: 1
+- id: 2001
+  date: '2002-10-30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Супер-пупер
+  city_id: 1
+- id: 2005
+  date: '2002-10-06'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: James Cook
+  city_id: 2
+  price: бесплатный
+- id: 2007
+  date: '2002-10-10'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Molly Irish Pub
+  city_id: 2
+  price: бесплатный
+- id: 2008
+  date: '2002-10-23'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Molly Irish Pub
+  city_id: 2
+  price: бесплатный
+- id: 2018
+  date: '2002-10-11'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Туннель (Лубянский проезд, д.7)
+  city_id: 1
+- id: 2024
+  date: '2002-10-23'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Бункер
+  city_id: 1
+- id: 2029
+  date: '2002-11-02'
+  band_id: 5
+  band_name: Sky Stranger & D.Kazantsev
+  band_token: sky-stranger-dkazantsev
+  club_name: Пумба
+  city_id: 1
+- id: 2030
+  date: '2002-10-23'
+  band_name: Paul Lamb & The Kingsnakes
+  club_name: МХАТ им. Горького
+  city_id: 1
+- id: 2031
+  date: '2002-10-24'
+  band_name: Paul Lamb & The Kingsnakes
+  club_name: МХАТ им. Горького
+  city_id: 1
+- id: 2047
+  date: '2002-10-25'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Ритм-н-блюз кафе
+  city_id: 1
+- id: 2052
+  date: '2002-11-01'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Сакс на Пляже
+  city_id: 1
+  price: бесплатный
+- id: 2066
+  date: '2002-11-08'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Формула-1
+  city_id: 1
+- id: 2067
+  date: '2002-11-23'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Australian Open
+  city_id: 1
+- id: 2069
+  date: '2002-11-02'
+  band_name: Contrast Blues Band
+  club_name: Арт-кафе "АРКТИКА"
+  city_id: 2
+  price: 30 руб.
+- id: 2074
+  date: '2002-11-22'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Сакс На Пляже
+  city_id: 1
+  price: бесплатный
+- id: 2075
+  date: '2002-11-30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: R-Club
+  city_id: 1
+- id: 2083
+  date: '2002-11-23'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Старый Мельник
+  city_id: 1
+- id: 2087
+  date: '2002-12-31'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Сакс На Пляже
+  city_id: 1
+  price: $25
+- id: 2097
+  date: '2002-12-07'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Старый Мельник на Нижегородской
+  city_id: 1
+  price: бесплатный
+- id: 2100
+  date: '2002-12-11'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Старый Мельник на Новослободской
+  city_id: 1
+- id: 2105
+  date: '2002-12-13'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Major Pronin (928 48 83)
+  city_id: 1
+- id: 2115
+  date: '2002-12-17'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Последние Деньги-2
+  city_id: 1
+- id: 2116
+  date: '2002-12-20'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Старый Мельник на Нижегородской
+  city_id: 1
+  price: бесплатный
+- id: 2117
+  date: '2002-12-21'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Старый Мельник на Новослободской
+  city_id: 1
+  price: бесплатный
+- id: 2121
+  date: '2002-12-21'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Блюз-кафе (т. 413 37 44)
+  city_id: 1

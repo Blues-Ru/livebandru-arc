@@ -1,0 +1,14 @@
+id: 144
+token: soledad
+name: Soledad Orquesta
+aliases: Оркестр Соледад
+alive: true
+url: http://www.soledadtango.ru/
+city_id: 1
+genre_id: 13
+clips:
+- id: 171
+  type: weblink
+  url: http://www.soledadtango.ru/
+  name: Официальный сайт
+  sort_order: 0

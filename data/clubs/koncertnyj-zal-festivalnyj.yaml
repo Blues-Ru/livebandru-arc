@@ -1,0 +1,13 @@
+id: 714
+token: koncertnyj-zal-festivalnyj
+name: Концертный зал "Фестивальный"
+alive: true
+address: ул.Орджоникидзе, 5
+phone: +7(8622)262-29-41
+city_id: 35
+clips:
+- id: 4621
+  type: weblink
+  url: http://www.festival-sochi.ru
+  name: Официальный сайт
+  sort_order: 0

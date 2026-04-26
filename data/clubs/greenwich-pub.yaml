@@ -1,0 +1,51 @@
+id: 374
+token: greenwich-pub
+name: Greenwich Pub
+aliases: 'G-Pub
+
+  Гринвич Паб'
+alive: true
+address: Космодамианская наб., 52, корп. 5
+subway: Павелецкая
+phone: (495) 979-14-59
+city_id: 1
+clips:
+- id: 1522
+  type: weblink
+  url: http://g-pub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3124
+  type: weblink
+  url: http://vk.com/greenwichpub
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 3125
+  type: weblink
+  url: http://www.facebook.com/Green.Which
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 3131
+  type: photo
+  url: greenwich-pub.jpg
+  sort_order: 400
+  width: 700
+  height: 465
+- id: 3127
+  type: photo
+  url: greenwich-pub-2.jpg
+  sort_order: 100
+  width: 900
+  height: 599
+- id: 3128
+  type: photo
+  url: greenwich-pub-3.jpg
+  sort_order: 200
+  width: 1280
+  height: 865
+- id: 3129
+  type: photo
+  url: greenwich-pub-4.jpg
+  sort_order: 300
+  width: 1018
+  height: 865

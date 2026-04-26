@@ -1,0 +1,78 @@
+id: 501
+token: joakim-tinderholt
+name: Joakim Tinderholt
+alive: true
+city_id: 62
+genre_id: 1
+clips:
+- id: 2307
+  type: weblink
+  url: https://www.facebook.com/joakimtinderholt
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 2308
+  type: photo
+  url: joakim-tinderholt.jpg
+  sort_order: 200
+  width: 403
+  height: 580
+- id: 2345
+  type: youtube
+  url: http://www.youtube.com/?v=s1OeODIjxbg
+  name: Joakim Tinderholt - Good Rockin' Tonight
+  comments: Joakim Tinderholt performing the Roy Brown classic "Good Rockin' Tonight"
+    at Fyret Mat & Drikke, Oslo
+  sort_order: 99
+- id: 2346
+  type: youtube
+  url: http://www.youtube.com/?v=jmQ1yPFAQWM
+  name: Joakim Tinderholt Express - Done Got Over It
+  comments: Done Got Over It (E.Jones) Live at Muddy Waters Blues Club, Oslo, Norway
+  sort_order: 199
+- id: 4992
+  type: photo
+  url: joakim-tinderholt-2.jpg
+  sort_order: 0
+  width: 511
+  height: 768
+reviews:
+- id: 174
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '29-го и 30-го ноября 2013 года в Москве пройдут концерты великолепного норвежского
+    музыканта Joakim Tinderholt.
+
+
+    Joakim Tinderholt - невероятно мощный блюзовый певец и гитарист. Его отличают
+    тончайший вкус и яркое концертное шоу, изумительный блюзовый голос и эмоциональная
+    гитара. Joakim убежденно чтит и хранит традиции настоящего стиля и, несмотря на
+    свой молодой возраст, глубоко впитал энергию и характер традиционного блюза. Со
+    своей группой он объехал с концертами всю Норвегию, в том числе был участником
+    самых крупных международных фестивалей - Notodden Blues Festival, Dark Season
+    Blues Festival, Color Blues Festival.
+
+
+    В Россию Joakim приезжает не впервые и, как всегда, поддерживать его концерты
+    будут друзья - одна из самых заметных блюзовых групп России The Jumping Cats.
+
+
+    The Jumping Cats регулярно дают впечатляющие сольные концерты в самых стильных
+    музыкальных клубах и барах Москвы и России. Музыканты неоднократно организовывали
+    незабываемые для всех ценителей настоящей музыки гастроли зарубежных музыкантов.
+    Ребята играли в рамках российских турне с Bob Margolin, John Nemeth, Kirk Fletcher,
+    JW Jones и многими другими музыкантами. В прошлом году The Jumping Cats записали
+    в Норвегии свой первый диск "On the Roof" , который выпустили и презентовали в
+    июне этого года.
+
+
+    Для московских концертов музыканты подготовили уникальную программу. Определенно,
+    грядущие концерты обещают быть запоминающимся музыкальным событием в жизни города,
+    которое никак нельзя пропустить.
+
+
+    Встречаемся на концертах Joakim Tinderholt & The Jumping Cats 29-го ноября в "Доме
+    у дороге" и 30-го ноября в Speakeasy Bar Jack Rose!'
+  verified: true
+  created: '2011-07-04'
+  is_press_release: true

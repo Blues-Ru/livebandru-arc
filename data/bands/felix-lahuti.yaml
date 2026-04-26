@@ -1,0 +1,25 @@
+id: 145
+token: felix-lahuti
+name: Felix Lahuti & Funky Land
+aliases: 'Felix Lahuti
+
+  Феликс Лахути
+
+  Феликс Лахути & Funky Land'
+alive: true
+url: http://www.felixlahuti.com
+city_id: 1
+genre_id: 7
+secondary_genre_id: 2
+clips:
+- id: 172
+  type: weblink
+  url: http://www.felixlahuti.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1419
+  type: photo
+  url: felix-lahuti.jpg
+  sort_order: 0
+  width: 250
+  height: 186

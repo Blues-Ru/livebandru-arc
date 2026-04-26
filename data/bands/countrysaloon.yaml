@@ -1,0 +1,29 @@
+id: 287
+token: countrysaloon
+name: Country Saloon
+alive: true
+url: http://www.freewebs.com/countrysaloon/#
+city_id: 25
+genre_id: 10
+musicians:
+- name: Михаил Душин
+  instruments: вокал, банджо, композитор
+- name: Татьяна Печенова
+  instruments: мандолина, вокал
+- name: Михаил Калашников
+  instruments: гитара
+- name: Алексей Зайцев
+  instruments: бас-гитара, вокал
+clips:
+- id: 958
+  type: youtube
+  url: http://www.youtube.com/?v=nUzUvmf-qRY
+  name: HARLEY DAVIDSON RIDERS
+  comments: From bluegrass festival in La Roche sur Foron, France 2007
+  sort_order: 199
+- id: 957
+  type: youtube
+  url: http://www.youtube.com/?v=8u53jIpM26s
+  name: GET ON YOUR HORSE!
+  comments: Country Saloon, performance in France
+  sort_order: 99

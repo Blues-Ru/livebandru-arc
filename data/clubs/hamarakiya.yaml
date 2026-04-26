@@ -1,0 +1,39 @@
+id: 254
+token: hamarakiya
+name: Ха-маракия (The SoupHouse)
+alive: true
+address: Кореш 4
+phone: 02-6257797
+city_id: 20
+comments: Marakia4@gmail.com
+clips:
+- id: 578
+  type: weblink
+  url: http://www.jerusalemite.org/home/location_view.php?id=30
+  name: расписание на сентябрь на иврите
+  sort_order: 0
+- id: 586
+  type: youtube
+  url: http://www.youtube.com/?v=IO2rUkioSfc
+  name: Французкий Джаз 50ых
+  comments: http://www.tiltul.com 50s French Jazz - Hamarakia -2 TilTul Automates
+    search
+  sort_order: 199
+- id: 583
+  type: rss
+  url: http://www.facebook.com/group.php?gid=48474684763&v=wall
+  sort_order: 99
+- id: 585
+  type: youtube
+  url: http://www.youtube.com/?v=hNA8JnTgKrA
+  name: Трио Эхуда Этуна в Маракие-декабрь 2009
+  comments: 'First performance of this amazing trio ever, check it out. December,
+    26, 2009.  Ehud Ettun - Double Bass Orel Oshrat - Piano Matan Assayag - Drums  Special
+    Guest :  David Alfandary - Sax'
+  sort_order: 99
+- id: 700
+  type: youtube
+  url: http://www.youtube.com/?v=nnwqpNLlCaA
+  name: MARAKIA Live Jazz Show I
+  comments: in Jerusalem
+  sort_order: 299

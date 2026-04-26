@@ -1,0 +1,15 @@
+id: 176
+token: zal-ozhidaniya
+name: Зал ожидания
+alive: true
+address: наб. Обводного канала, 118
+subway: Балтийская, Фрунзенская
+phone: (812) 777-05-05, (812) 717-02-94
+city_id: 2
+comments: ТРК "Варшавский экспресс"
+clips:
+- id: 179
+  type: weblink
+  url: http://www.clubzal.com/
+  name: Официальный сайт
+  sort_order: 0

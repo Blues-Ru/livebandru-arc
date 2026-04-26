@@ -1,0 +1,21 @@
+- id: 38028
+  date: '2013-09-18'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 263
+  club_name: На старом месте
+  club_token: old-place
+- id: 38584
+  date: '2013-10-11'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_id: 263
+  club_name: На старом месте
+  club_token: old-place
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns

@@ -1,0 +1,19 @@
+id: 834
+token: scenario-cafe
+name: Scenario Cafe
+alive: true
+address: ул. Тверская, д. 22А
+subway: Пушкинская, Тверская, Чеховская
+phone: +7(495)699-56-75
+city_id: 1
+clips:
+- id: 7538
+  type: weblink
+  url: http://www.scenario-cafe.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 7539
+  type: weblink
+  url: http://facebook.com/scenariocafe
+  name: Страница на FaceBook
+  sort_order: 100

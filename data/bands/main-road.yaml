@@ -1,0 +1,352 @@
+id: 386
+token: main-road
+name: Main Road
+aliases: Главная дорога
+alive: true
+url: http://mainroad.fatal.ru
+city_id: 12
+genre_id: 3
+secondary_genre_id: 1
+musicians:
+- name: Сергей Дынин
+  instruments: лидер-гитара
+- name: Павел Чинчараули
+  instruments: вокал
+- name: Павел Жердочкин
+  instruments: ударные
+- name: Антон Василенко
+  instruments: бас
+- name: Артур Арапов
+  instruments: гитара
+- name: Евгений Лысинский
+  instruments: саксофон
+- name: Алексей Кишов
+  instruments: звукорежисер
+clips:
+- id: 1852
+  type: mp3
+  url: main-road-7.mp3
+  name: Лишь ты настоящая. Live
+  comments: 'Блюз-фестиваль. Рок-клуб "Кратер". Март 2011 год. Альбом: "На предельной
+    высоте"'
+  sort_order: 50
+- id: 1686
+  type: photo
+  url: main-road-2.jpg
+  sort_order: 100
+  width: 1182
+  height: 747
+- id: 1687
+  type: photo
+  url: main-road-3.jpg
+  sort_order: 200
+  width: 768
+  height: 924
+- id: 1688
+  type: photo
+  url: main-road-4.jpg
+  sort_order: 300
+  width: 1280
+  height: 960
+- id: 1689
+  type: photo
+  url: main-road-5.jpg
+  sort_order: 400
+  width: 1280
+  height: 785
+- id: 1690
+  type: photo
+  url: main-road-6.jpg
+  sort_order: 500
+  width: 1280
+  height: 960
+- id: 1691
+  type: photo
+  url: main-road-7.jpg
+  sort_order: 600
+  width: 936
+  height: 741
+- id: 1692
+  type: photo
+  url: main-road-8.jpg
+  sort_order: 700
+  width: 1050
+  height: 676
+- id: 1693
+  type: photo
+  url: main-road-9.jpg
+  sort_order: 800
+  width: 725
+  height: 557
+- id: 1694
+  type: photo
+  url: main-road-10.jpg
+  sort_order: 900
+  width: 767
+  height: 623
+- id: 1695
+  type: photo
+  url: main-road-11.jpg
+  sort_order: 1000
+  width: 807
+  height: 514
+- id: 1696
+  type: photo
+  url: main-road-12.jpg
+  sort_order: 1100
+  width: 807
+  height: 629
+- id: 1698
+  type: mp3
+  url: main-road.mp3
+  name: Полет (демо)
+  sort_order: 99
+- id: 1700
+  type: youtube
+  url: http://www.youtube.com/?v=fXc2unYV3MI
+  name: '"На предельной высоте" (live)'
+  comments: Отель"Веста"
+  sort_order: 99
+- id: 1704
+  type: youtube
+  url: http://www.youtube.com/?v=MrwrKLaebZ4
+  name: '"Здесь каждый день выгоняют с планеты" (live)'
+  comments: Сольник в мото-рок-баре "Route-66"
+  sort_order: 499
+- id: 1685
+  type: photo
+  url: main-road.jpg
+  sort_order: 0
+  width: 1280
+  height: 960
+- id: 1702
+  type: youtube
+  url: http://www.youtube.com/?v=hTI2fsVYsp4
+  name: 3-х летие группы "Обыкновенное чудо" Поздравления от группы "Главная дорога"
+  comments: В клубе-ресторане "Олимп"
+  sort_order: 299
+- id: 1804
+  type: photo
+  url: main-road-15.jpg
+  sort_order: 1400
+  width: 495
+  height: 604
+- id: 1805
+  type: photo
+  url: main-road-16.jpg
+  sort_order: 1500
+  width: 604
+  height: 527
+- id: 1807
+  type: photo
+  url: main-road-18.jpg
+  sort_order: 1700
+  width: 504
+  height: 602
+- id: 1681
+  type: weblink
+  url: http://mainroad.fatal.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1701
+  type: youtube
+  url: http://www.youtube.com/?v=WQswRVOP4Fw
+  name: '"Роза ветров" (live)'
+  comments: Рок-клуб "Кратер"
+  sort_order: 199
+- id: 1850
+  type: mp3
+  url: main-road-5.mp3
+  name: Роза ветров. Live.
+  comments: 'Роза ветров. Live. Кратер. 05.03.2011  блюз фестиваль рок клуб Кратер.
+    Март 2011год. Альбом: "На предельной высоте"'
+  sort_order: 399
+- id: 1851
+  type: mp3
+  url: main-road-6.mp3
+  name: В нарисованном замке. Live.
+  comments: 'Блюз-фестиваль. Рок-клуб "Кратер". Март 2011 год. Альбом: "На предельной
+    высоте"'
+  sort_order: 499
+- id: 1697
+  type: photo
+  url: main-road-13.jpg
+  sort_order: 1200
+  width: 556
+  height: 398
+- id: 1703
+  type: youtube
+  url: http://www.youtube.com/?v=o9fiJYEO-IU
+  name: '"Перекресток дорог" (live)'
+  comments: Сольник в арт-кабачке "Гамбринус"
+  sort_order: 399
+- id: 1705
+  type: mp3
+  url: main-road-3.mp3
+  name: Доброта (live)
+  comments: Сольник в мото-рок-баре "Route-66"
+  sort_order: 199
+- id: 1853
+  type: mp3
+  url: main-road-8.mp3
+  name: Без крыльев. Live
+  comments: 'Блюз-фестиваль. Рок-клуб "Кратер". Март 2011 год. Альбом: "На предельной
+    высоте"'
+  sort_order: 349
+- id: 1854
+  type: weblink
+  url: http://connections.rock.com/service/displayKickPlace.kickAction?u=30720484&as=116748
+  name: Мы на Rock.com
+  comments: Rock.com and The Official Site of Rock Music
+  sort_order: 200
+- id: 1892
+  type: weblink
+  url: http://rock-band-main-road.narod.ru/
+  name: Неофициальный:) сайт группы "Главная дорога"
+  sort_order: 300
+- id: 1682
+  type: weblink
+  url: http://vk.com/club9936212
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1699
+  type: mp3
+  url: main-road-2.mp3
+  name: Роза ветров (демо)
+  sort_order: 0
+- id: 1848
+  type: youtube
+  url: http://www.youtube.com/?v=CvjoDKTn7Pk
+  name: Любовь - волшебные качели
+  comments: 'Блюз-фестиваль. Рок-клуб "Кратер". Март 2011 год. Альбом: "На предельной
+    высоте"'
+  sort_order: 0
+- id: 1849
+  type: mp3
+  url: main-road-4.mp3
+  name: 5 000 000 000 лет.
+  comments: 'блюз-фестиваль. рок-клуб "Кратер". Март 2011год. Альбом: "На предельной
+    высоте"'
+  sort_order: 299
+- id: 2027
+  type: youtube
+  url: http://www.youtube.com/?v=nz2Ha3kxpmg
+  name: Rock n roll
+  comments: Концертная программа от рок группы "Главная дорога", под названием "На
+    предельной высоте", посвященная 50-летию Космонавтики. ГМК "Русь" . Новокуйбышевск.
+    14.04.2011.
+  sort_order: 25
+- id: 2028
+  type: youtube
+  url: http://www.youtube.com/?v=bB1laHUepOk
+  name: Здесь каждый день выгоняют с планеты
+  comments: Концертная программа от рок группы "Главная дорога", под названием "На
+    предельной высоте", посвященная 50-летию Космонавтики. ГМК "Русь" . Новокуйбышевск.
+    14.04.2011.
+  sort_order: 13
+- id: 1803
+  type: photo
+  url: main-road-14.jpg
+  sort_order: 1300
+  width: 807
+  height: 634
+- id: 1806
+  type: photo
+  url: main-road-17.jpg
+  sort_order: 1600
+  width: 525
+  height: 551
+- id: 2077
+  type: photo
+  url: main-road-20.jpg
+  name: rock band main road
+  comments: Концертная программа от рок группы "Главная дорога", под названием "На
+    предельной высоте", посвященная 50-летию Космонавтики. ГМК "Русь" . Новокуйбышевск.
+    14.04.2011.
+  sort_order: 1900
+  width: 807
+  height: 605
+- id: 2076
+  type: photo
+  url: main-road-19.jpg
+  name: Rock band "Main road"
+  comments: Концертная программа от рок группы "Главная дорога", под названием "На
+    предельной высоте", посвященная 50-летию Космонавтики. ГМК "Русь" . Новокуйбышевск.
+    14.04.2011.
+  sort_order: 1800
+  width: 807
+  height: 605
+- id: 2078
+  type: photo
+  url: main-road-21.jpg
+  name: Main road
+  comments: Концертная программа от рок группы "Главная дорога", под названием "На
+    предельной высоте", посвященная 50-летию Космонавтики. ГМК "Русь" . Новокуйбышевск.
+    14.04.2011.
+  sort_order: 2000
+  width: 778
+  height: 553
+- id: 2095
+  type: photo
+  url: main-road-23.jpg
+  name: Рок фестиваль Парк Победы 7 мая11
+  comments: Рок фестиваль Парк Победы 7 мая11
+  sort_order: 25
+  width: 1500
+  height: 998
+- id: 2096
+  type: photo
+  url: main-road-24.jpg
+  name: Рок фестиваль Парк Победы 7 мая11
+  comments: Рок фестиваль Парк Победы 7 мая11
+  sort_order: 13
+  width: 2000
+  height: 1209
+- id: 1891
+  type: youtube
+  url: http://www.youtube.com/?v=wxaMlHxazUg
+  name: 5 000 000 000 лет.
+  comments: 'Блюз-фестиваль. Рок-клуб "Кратер". Март 2011 год. Альбом: "На предельной
+    высоте"'
+  sort_order: 50
+- id: 2094
+  type: photo
+  url: main-road-22.jpg
+  name: Рок фестиваль Парк Победы 7 мая11
+  comments: Рок фестиваль Парк Победы 7 мая11
+  sort_order: 50
+  width: 1500
+  height: 1180
+- id: 2447
+  type: photo
+  url: main-road-25.jpg
+  sort_order: 2100
+  width: 807
+  height: 605
+- id: 2448
+  type: photo
+  url: main-road-26.jpg
+  sort_order: 2200
+  width: 807
+  height: 605
+- id: 2449
+  type: photo
+  url: main-road-27.jpg
+  sort_order: 2300
+  width: 605
+  height: 807
+- id: 2450
+  type: youtube
+  url: http://youtu.be/BI3D3Qc-Xyo
+  name: Я люблю Rock n roll !
+  sort_order: 599
+- id: 2451
+  type: youtube
+  url: http://youtu.be/7lVY6l5o_8g
+  name: Любовь-любовь.
+  sort_order: 699
+- id: 2452
+  type: youtube
+  url: http://youtu.be/xATi30QP76g
+  name: Игра в любовь.
+  sort_order: 799

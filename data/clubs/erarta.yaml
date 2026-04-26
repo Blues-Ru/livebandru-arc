@@ -1,0 +1,17 @@
+id: 701
+token: erarta
+name: Эрарта Сцена
+aliases: 'Музей современного искусства "Эрарта"
+
+  Эрарта'
+alive: true
+address: 29-я линия, 2
+subway: Василеостровская
+phone: (812) 324-08-09
+city_id: 2
+clips:
+- id: 4463
+  type: weblink
+  url: http://www.erarta.com
+  name: Официальный сайт
+  sort_order: 0

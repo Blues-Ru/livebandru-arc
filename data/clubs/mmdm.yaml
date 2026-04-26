@@ -1,0 +1,23 @@
+id: 96
+token: mmdm
+name: Московский Международный Дом Музыки
+aliases: 'ММДМ
+
+  Дом музыки'
+alive: true
+address: Космодамианская наб., 52, стр. 8
+subway: Павелецкая
+phone: (495) 730-1011
+city_id: 1
+clips:
+- id: 1234
+  type: weblink
+  url: http://www.mmdm.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 4805
+  type: photo
+  url: mmdm-2.gif
+  sort_order: 0
+  width: 600
+  height: 401

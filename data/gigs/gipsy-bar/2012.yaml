@@ -1,0 +1,128 @@
+- id: 27856
+  date: '2012-05-28'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+- id: 29525
+  date: '2012-09-05'
+  time: '21:00'
+  band_name: Александра Шерлинг (вокал), Андрей Разин (рояль), Игорь Иванушкин (контрабас)
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+- id: 29034
+  date: '2012-07-18'
+  band_name: Мариам и Армен Мерабовы & Jazz Parking Band
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+- id: 29035
+  date: '2012-07-25'
+  band_name: Jazz Parking Band & Vocal Los Devchatos
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  comments: Полина Зизак, Анжелика Фролова - SugarMamMas, Владимир Мусаелян, Мариам
+    и Армен Мерабовы, Анжелика Алферова-Арутюнян
+- id: 30126
+  date: '2012-09-26'
+  time: '21:00'
+  band_name: Jazz Parking Jam
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+- id: 30127
+  date: '2012-10-03'
+  time: '21:00'
+  band_name: AngeliQuie and The Band, Мариам и "Мирайф"
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 30128
+  date: '2012-10-10'
+  time: '21:00'
+  band_name: Дуэт SugarMamMas, Jazz Parking Jam
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+- id: 30129
+  date: '2012-10-17'
+  time: '21:00'
+  band_name: Алексей Батыченко, Laya Bam Band
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+  extra_bands:
+  - id: 474
+    name: Laya Bam Band
+    token: laya-bam-band
+- id: 30130
+  date: '2012-10-24'
+  time: '21:00'
+  band_name: Steve Turre (США) & трио Олега Бутмана, Jazz Parking Jam
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 30131
+  date: '2012-10-31'
+  time: '21:00'
+  band_name: Полина Зизак, Ольга Синяева & квартет Андрея Марухина
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  price: бесплатный
+  extra_bands:
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 31205
+  date: '2012-11-07'
+  time: '21:00'
+  band_name: L'BrAND, Los Devchatos & Jazz Parking Band
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+- id: 31206
+  date: '2012-11-14'
+  time: '21:00'
+  band_name: Проект Jazz Extra Sinergy, Alex Tosca Laugart (клавиши, Нью-Йорк), Людмила
+    Сваровская (вокал) & Мариам и Армен Мерабовы, AngeliQuie and The Band
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+- id: 31207
+  date: '2012-11-21'
+  time: '21:00'
+  band_name: Андрей Солод & Solod Band, Мариам и Армен Мерабовы & Мирайф
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 31208
+  date: '2012-11-28'
+  time: '21:00'
+  band_name: Ольга Синяева & Jazz квартет Андрея Марухина, Владимир Мусаелян & Live
+    Band
+  club_id: 497
+  club_name: Джипси Бар
+  club_token: gipsy-bar

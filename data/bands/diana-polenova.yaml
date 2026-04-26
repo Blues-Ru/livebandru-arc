@@ -1,0 +1,40 @@
+id: 198
+token: diana-polenova
+name: Диана Поленова
+aliases: 'M-Face
+
+  Диана Поленова'
+alive: true
+url: http://www.dianapolenova.com/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 7
+musicians:
+- name: Дмитрий Власенко
+  instruments: барабаны
+- name: Алексей Лебедев
+  instruments: бас
+- name: Влад Сенчилло
+  instruments: клавишные
+- name: Слава Текучев
+  instruments: саксофон
+clips:
+- id: 493
+  type: weblink
+  url: http://www.dianapolenova.com/
+  name: Официальный сайт
+  sort_order: 99
+- id: 831
+  type: photo
+  url: 1.jpg
+  name: Diana Polenova & M-FACE
+  comments: моcковский smooth-jazz коллектив
+  sort_order: 0
+  width: 800
+  height: 566
+- id: 832
+  type: mp3
+  url: 2.mp3
+  name: Another Day / CD "Test-Drive...so smooth"
+  comments: превью трека из нового альбома Diana Polenova & M-FACE
+  sort_order: 99

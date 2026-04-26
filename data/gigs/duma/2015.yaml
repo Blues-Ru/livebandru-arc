@@ -1,0 +1,73 @@
+- id: 48883
+  date: '2015-01-10'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 49497
+  date: '2015-02-07'
+  time: '20:00'
+  band_name: The SouLongers
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+  price: бесплатный
+- id: 49732
+  date: '2015-02-28'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 50933
+  date: '2015-04-10'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 52533
+  date: '2015-07-25'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 52626
+  date: '2015-07-10'
+  time: '21:00'
+  band_name: Chino Swingslide (Spain) with The Jumping Cats
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 53333
+  date: '2015-09-11'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma
+- id: 55014
+  date: '2015-11-06'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 217
+  club_name: Дума
+  club_token: duma

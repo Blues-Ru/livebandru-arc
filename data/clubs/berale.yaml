@@ -1,0 +1,18 @@
+id: 268
+token: berale
+name: Берале
+alive: true
+address: Киббуц Лахавот-Хавива. Региональный совет Менаше
+phone: +972-4-6369993/4
+city_id: 47
+clips:
+- id: 641
+  type: weblink
+  url: http://www.facebook.com/berale.mc
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 640
+  type: weblink
+  url: http://www.beraleberale.co.il/
+  name: Официальный сайт
+  sort_order: 99

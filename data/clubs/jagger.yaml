@@ -1,0 +1,17 @@
+id: 150
+token: jagger
+name: Jagger Club
+aliases: 'Jagger
+
+  Джаггер'
+alive: false
+address: Пл. Конституции, 2
+subway: Ленинский просп., Московская
+phone: +7 (812) 92 312 92
+city_id: 2
+clips:
+- id: 88
+  type: weblink
+  url: http://jaggerclub.ru/
+  name: Официальный сайт
+  sort_order: 0

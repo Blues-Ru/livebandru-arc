@@ -1,0 +1,17 @@
+id: 869
+token: atmosphera
+name: Шоу-холл Атмосфера
+aliases: 'Атмосфера
+
+  Атмоsphera'
+alive: true
+address: Лесной просп., 48
+subway: Выборгская
+phone: +7 (921) 907 62 62
+city_id: 2
+clips:
+- id: 8276
+  type: weblink
+  url: https://www.showhall-atmosfera.ru
+  name: Официальный сайт
+  sort_order: 0

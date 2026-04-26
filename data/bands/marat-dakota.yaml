@@ -1,0 +1,23 @@
+id: 169
+token: marat-dakota
+name: Marat Dakota Band
+aliases: Марат Дакота
+alive: true
+url: http://www.maratdakota.ru/
+city_id: 2
+genre_id: 1
+musicians:
+- name: Марат Дакота
+  instruments: губная гармоника, вокал
+- name: Евгений Ламба
+  instruments: гитара
+- name: Ярослав Писарев
+  instruments: барабаны
+- name: Кирилл Поляков
+  instruments: бас
+clips:
+- id: 364
+  type: weblink
+  url: http://www.maratdakota.ru/
+  name: Официальный сайт
+  sort_order: 0

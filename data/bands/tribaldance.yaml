@@ -1,0 +1,52 @@
+id: 216
+token: tribaldance
+name: Tribal Dance
+alive: true
+url: http://www.myspace.com/tribaldanceisrael
+city_id: 21
+musicians:
+- name: Амир Яакоби
+  instruments: барабаны и постановка
+- name: Надав Джейман
+  instruments: ударные
+- name: Офер Цви
+  instruments: диджериду
+- name: Яэль Тай
+  instruments: вокал
+clips:
+- id: 628
+  type: youtube
+  url: http://www.youtube.com/?v=F5KccEuMupg
+  name: Tribal Dance in a circus tent, Israel
+  comments: "Tribal Dance-\r\nOrganic fascinating, trance group from\r\nIsrael."
+  sort_order: 99
+- id: 631
+  type: youtube
+  url: http://www.youtube.com/?v=PgtusEYAgjc
+  name: Tribal Dance in Love Parade Tel Aviv, Israel 2007
+  comments: Organic Trance group
+  sort_order: 199
+- id: 632
+  type: youtube
+  url: http://www.youtube.com/?v=nZPdILnchMo
+  name: Tribal Dance- The Mesmerizing Organic Sound
+  comments: Amazing Organic Trance Group From Israel. www.myspace.com/tribaldanceisrael
+    ?????? ???? www.thetribaldance.com
+  sort_order: 299
+- id: 633
+  type: youtube
+  url: http://www.youtube.com/?v=SfOIJM9KpL0
+  name: Tribal Dance- Antipatrus 12.4.08
+  comments: Tribal Dance- Spring Celebration  ?????? ???? ?????? ????? ??????????
+    www.thetribaldance.com
+  sort_order: 399
+- id: 629
+  type: weblink
+  url: http://www.myspace.com/tribaldanceisrael
+  name: Официальный сайт
+  sort_order: 99
+- id: 630
+  type: weblink
+  url: http://www.facebook.com/event.php?eid=342977505941
+  name: страница facebook
+  sort_order: 199

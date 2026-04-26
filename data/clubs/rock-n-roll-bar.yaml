@@ -1,0 +1,15 @@
+id: 810
+token: rock-n-roll-bar
+name: Rock'n'Roll Bar
+aliases: Rock'n'Roll Bar & Cafe
+alive: true
+address: Сретенка, 1
+subway: Чистые Пруды, Трубная, Тургеневская
+phone: (495) 233-76-97
+city_id: 1
+clips:
+- id: 6891
+  type: weblink
+  url: http://www.rocknrollbar.ru/
+  name: Официальный сайт
+  sort_order: 0

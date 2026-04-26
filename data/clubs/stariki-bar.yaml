@@ -1,0 +1,14 @@
+id: 571
+token: stariki-bar
+name: Stariki Bar
+alive: true
+address: Большая Лубянка, д.13
+subway: Кузнецкий мост, Сретенский Бульвар
+phone: +7(495)624-93-77
+city_id: 1
+clips:
+- id: 3218
+  type: weblink
+  url: http://www.starikibar.ru/events.php
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,61 @@
+id: 712
+token: trubrothers
+name: TruBrothers
+alive: true
+url: http://www.trubrothers.com/
+city_id: 1
+genre_id: 7
+clips:
+- id: 7347
+  type: mp3
+  url: trubrothers-2.mp3
+  name: TruBrothers - Boogie Jama
+  sort_order: 199
+- id: 7349
+  type: youtube
+  url: https://www.youtube.com/watch?v=VsgVXyuKGzI
+  name: Trubrothers on Papin Locking. L.Mosquitos crew party.
+  sort_order: 199
+- id: 7346
+  type: mp3
+  url: trubrothers.mp3
+  name: TruBrothers - Celebration
+  sort_order: 299
+- id: 7345
+  type: photo
+  url: trubrothers.jpg
+  sort_order: 0
+  width: 2902
+  height: 1935
+- id: 7344
+  type: weblink
+  url: http://www.trubrothers.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 7348
+  type: youtube
+  name: TruBrothers
+  comments: Клуб Алексея Козлова 30.06.2015
+  sort_order: 99
+- id: 7350
+  type: weblink
+  url: http://vk.com/trubrothers
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 7351
+  type: weblink
+  url: https://www.facebook.com/trubrothersband
+  name: Страница на FaceBook
+  sort_order: 200
+reviews:
+- id: 441
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: TruBrothers
+  text: Это новоиспеченная банда, в старых добрых традициях диско-фанк индустрии 70х-80х.
+    Медная пачка, братья грув и напористый мужской вокал готовы раскачать любой танцпол
+    с первых аккордов, превратив любое мероприятие в незабываемый сэйшн.
+  verified: true
+  created: '2015-12-09'
+  is_press_release: true

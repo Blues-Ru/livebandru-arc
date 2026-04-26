@@ -1,0 +1,19 @@
+id: 533
+token: bootlegger
+name: Bootlegger
+aliases: Бутлегер
+alive: true
+address: Желябова, 1
+phone: +7(4822)32-2478
+city_id: 24
+clips:
+- id: 2867
+  type: photo
+  url: bootlegger.jpg
+  sort_order: 0
+  width: 130
+  height: 84
+- id: 4872
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

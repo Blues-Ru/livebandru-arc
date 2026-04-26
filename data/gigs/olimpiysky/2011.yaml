@@ -1,0 +1,127 @@
+- id: 15394
+  date: '2011-02-11'
+  time: '19:00'
+  band_name: Iron Maiden
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 16074
+  date: '2011-03-05'
+  time: '19:00'
+  band_name: Вячеслав Бутусов и Ю-Питер, Пилот, Король и Шут, Алиса, Калинов Мост,
+    FPG, Мельница, Аркадий Духин, Найк Борзов, СерьГа, Мураками, Реки, Ночные Снайперы,
+    Би-2, Ария
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+  extra_bands:
+  - id: 277
+    name: Ночные Снайперы
+    token: night-snipers
+  - id: 112
+    name: Калинов мост
+    token: kalinov-most
+  - id: 241
+    name: Алиса
+    token: alisa
+  - id: 373
+    name: Би-2
+    token: bi-2
+- id: 16375
+  date: '2011-03-15'
+  time: '19:00'
+  band_name: Slayer, Megadeth
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 16732
+  date: '2011-03-23'
+  time: '19:00'
+  band_name: Deep Purple
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 17988
+  date: '2011-04-23'
+  time: '19:00'
+  band_name: Роджер Уотерс
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 18196
+  date: '2011-04-29'
+  time: '19:00'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 19177
+  date: '2011-05-22'
+  time: '19:00'
+  band_name: Muse (UK), We Are Scientists (USA)
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 19511
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Scorpions
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 19591
+  date: '2011-06-03'
+  time: '19:00'
+  band_name: Tokio Hotel (GER), Земфира
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+  extra_bands:
+  - id: 200
+    name: Земфира
+    token: zemfira
+- id: 19815
+  date: '2011-05-27'
+  time: '20:00'
+  band_name: The Chemical Brothers (UK)
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 19492
+  date: '2011-05-24'
+  time: '20:00'
+  band_name: Шакира
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 19837
+  date: '2011-05-29'
+  time: '19:00'
+  band_name: Легенды Урарту
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 20208
+  date: '2011-06-13'
+  time: '20:00'
+  band_name: Стинг
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+- id: 22860
+  date: '2011-12-14'
+  time: '19:00'
+  band_name: Пол Маккартни
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky
+  price: 2990-40000 руб.
+- id: 23824
+  date: '2011-12-03'
+  time: '18:00'
+  band_name: Песня года 2011
+  club_id: 299
+  club_name: Олимпийский
+  club_token: olimpiysky

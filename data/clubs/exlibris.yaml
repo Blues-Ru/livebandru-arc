@@ -1,0 +1,19 @@
+id: 218
+token: exlibris
+name: Ex:Libris
+aliases: Экслибрис
+alive: true
+address: Бобров пер., 6, стр. 1
+subway: Тургеневская, Чистые пруды
+phone: (495) 625-58-55
+city_id: 1
+clips:
+- id: 481
+  type: rss
+  url: http://exlibris-daily.livejournal.com/data/rss
+  sort_order: 99
+- id: 480
+  type: weblink
+  url: http://www.exlibriscafe.ru
+  name: Официальный сайт
+  sort_order: 0

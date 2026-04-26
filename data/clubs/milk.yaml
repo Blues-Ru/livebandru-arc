@@ -1,0 +1,14 @@
+id: 130
+token: milk
+name: Milk
+alive: true
+address: Сергея Макеева, 9
+subway: Улица 1905 года
+phone: (495) 726-09-98
+city_id: 1
+clips:
+- id: 37
+  type: weblink
+  url: http://www.milkclub.ru/
+  name: Официальный сайт
+  sort_order: 0

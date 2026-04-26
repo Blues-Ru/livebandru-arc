@@ -1,0 +1,13 @@
+id: 925
+token: restoran-alpenhaus
+name: Ресторан Alpenhaus
+alive: true
+address: Южная дорога, 17
+subway: Крестовский остров, Новокрестовская
+city_id: 2
+clips:
+- id: 10678
+  type: weblink
+  url: https://alpenconcert.ru/
+  name: Официальный сайт
+  sort_order: 0

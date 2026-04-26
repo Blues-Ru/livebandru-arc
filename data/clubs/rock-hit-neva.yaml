@@ -1,0 +1,31 @@
+id: 842
+token: rock-hit-neva
+name: Теплоход-клуб ROCK HIT NEVA
+aliases: Рок Хит Нева
+alive: true
+address: Дворцовая наб., 18
+phone: (812) 927-50-57
+city_id: 2
+comments: Теплоход "Глория 12"
+clips:
+- id: 7704
+  type: weblink
+  url: http://rockhitneva.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 7726
+  type: youtube
+  url: https://www.youtube.com/watch?v=7I5rb3KsOrQ
+  name: Разводные мосты
+  comments: ' '
+  sort_order: 99
+- id: 7705
+  type: weblink
+  url: https://vk.com/rock.hit.neva
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 7706
+  type: weblink
+  url: https://www.facebook.com/groups/414398081960013/
+  name: Страница на FaceBook
+  sort_order: 200

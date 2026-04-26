@@ -1,0 +1,22 @@
+id: 509
+token: still-smokin
+name: Still Smokin' Band
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Jam Borodo
+  instruments: Лидер-гитара, вокал
+- name: Мансур Лубис
+  instruments: Гитара
+- name: Сергей Киселев
+  instruments: Бас
+- name: Алексей Покидов
+  instruments: Ударные
+clips:
+- id: 2356
+  type: weblink
+  url: http://vk.com/stillsmokinband
+  name: Страница ВКонтакте
+  sort_order: 99

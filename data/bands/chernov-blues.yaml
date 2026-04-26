@@ -1,0 +1,78 @@
+id: 426
+token: chernov-blues
+name: Victor Chernov Blues Band
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Виктор Чернов
+  instruments: вокал
+- name: Виталий Дмитренко
+  instruments: гитара
+- name: Борис Васильев
+  instruments: бас
+- name: Владимир Воеводин
+  instruments: барабаны
+- name: Слава Виноградов
+  instruments: губная гармошка
+clips:
+- id: 2034
+  type: youtube
+  url: http://www.youtube.com/?v=p0HSceTj3qM
+  name: '"I Ain''t Superstitious" by Willie Dixon'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, March 11, 2011
+  sort_order: 299
+- id: 2067
+  type: youtube
+  url: http://www.youtube.com/?v=NTMi5bt4JkI
+  name: '"The Cat" by Jimmy Smith'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, March 11, 2011
+  sort_order: 399
+- id: 2068
+  type: youtube
+  url: http://www.youtube.com/?v=ddzja1v1pTw
+  name: '"Pretty Baby" by Willie Dixon'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, March 11, 2011
+  sort_order: 499
+- id: 2032
+  type: youtube
+  url: http://www.youtube.com/?v=TUp-1ehWDA8
+  name: '"Papa Ain''t Salty No More" by T-Bone Walker'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, August 12, 2011
+  sort_order: 13
+- id: 2069
+  type: youtube
+  url: http://www.youtube.com/?v=QphX94WUrA4
+  name: '"Bright Lights, Big City" by Jimmy Reed'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, March 11, 2011
+  sort_order: 75
+- id: 2335
+  type: youtube
+  url: http://www.youtube.com/?v=EawqmgQgbMg
+  name: '"How Long" by T-Bone Walker'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, June 10, 2011
+  sort_order: 50
+- id: 2336
+  type: youtube
+  url: http://www.youtube.com/?v=AzqXIKnJlyQ
+  name: '"She''s Been Gone" by Big Joe Turner'
+  comments: Rhythm & Blues Cafe / Roadhouse Blues Club, Moscow, June 10, 2011
+  sort_order: 25
+- id: 2727
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 136
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '<b>Victor Chernov Blues Band</b> - авторская интерпретация классического
+    блюза. Любимые авторы: <i>T-Bone Walker, Jimmy Reed, Howlin'' Wolf, Willie Dixon,
+    Muddy Waters,</i> и др.
+
+
+    Кредо: качественное исполнение классики всегда современно.'
+  verified: true
+  created: '2011-04-22'
+  is_press_release: true

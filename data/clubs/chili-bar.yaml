@@ -1,0 +1,14 @@
+id: 705
+token: chili-bar
+name: Чили-Бар
+alive: true
+address: Ф. Энгельса, 66
+phone: (4872) 35-76-06
+city_id: 36
+comments: КРК "Премьер"
+clips:
+- id: 4565
+  type: weblink
+  url: http://vpremiere.ru/krk-premier/chili-bar/schedule/
+  name: Официальный сайт
+  sort_order: 0

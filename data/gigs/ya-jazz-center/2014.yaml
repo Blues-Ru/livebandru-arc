@@ -1,0 +1,507 @@
+- id: 41550
+  date: '2014-01-20'
+  time: '19:00'
+  band_name: Дуэт Алена Войская - Михаил Бушуев (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42011
+  date: '2014-02-06'
+  time: '19:00'
+  band_name: Ансамбль Владимира Борисова (Архангельск - Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42012
+  date: '2014-02-07'
+  time: '19:00'
+  band_name: Only Jazz Band Сергея Белоусова (Ярославль-Архангельск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42013
+  date: '2014-02-10'
+  time: '19:00'
+  band_name: Ансамбль "XL-55" Михаила Кочкина (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42014
+  date: '2014-02-13'
+  time: '19:00'
+  band_name: Overdrive Blues Band Сергея Кузнецова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42146
+  date: '2014-02-17'
+  time: '19:00'
+  band_name: Алена Войская (вокал), Михаил Бушуев (рояль), Алексей Терентьев (саксофон)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42147
+  date: '2014-02-14'
+  time: '19:00'
+  band_name: Саша Могилевич и ее друзья (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42145
+  date: '2014-02-20'
+  time: '19:00'
+  band_name: Олен Киреев (саксофон, Москва) и Евгений Гречищев (рояль, Москва)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 42296
+  date: '2014-02-27'
+  time: '19:00'
+  band_name: Ансамбль Якова Казьянского
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42297
+  date: '2014-02-28'
+  time: '19:00'
+  band_name: Ансамбль "Бу-Буфет"
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42799
+  date: '2014-03-17'
+  time: '19:00'
+  band_name: Алена Войская - Михаил Бушуев - Алексей Терентьев (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42800
+  date: '2014-03-20'
+  time: '19:00'
+  band_name: Jazz W.A.V.E. (Кострома)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42802
+  date: '2014-03-24'
+  time: '19:00'
+  band_name: Концерт выпускников ЯУК. Руководитель Яков Казьянский (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 42803
+  date: '2014-03-27'
+  time: '19:00'
+  band_name: Бу-Буфет (Рыбинск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42804
+  date: '2014-03-28'
+  time: '19:00'
+  band_name: Вокальная студия "Призвание" Людмилы Сваровской (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42805
+  date: '2014-03-31'
+  time: '19:00'
+  band_name: Ансамбль Вячеслава Смирнова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 42801
+  date: '2014-03-21'
+  time: '19:00'
+  band_name: Standards III Андрея Мартыненко (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 43288
+  date: '2014-04-07'
+  time: '19:00'
+  band_name: Хайнц-Эрих Гедеке (тромбон, Германия)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 43289
+  date: '2014-04-04'
+  time: '19:00'
+  band_name: Gypsy Swing
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 43290
+  date: '2014-04-03'
+  time: '19:00'
+  band_name: Анна Белова и квартет "А" (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43291
+  date: '2014-04-10'
+  time: '19:00'
+  band_name: Only Jazz (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43292
+  date: '2014-04-11'
+  time: '19:00'
+  band_name: Ансамбль Сергея Белоусова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43293
+  date: '2014-04-14'
+  time: '19:00'
+  band_name: 'Вокальный класс: педагоги Ольга Преображенская и Лера Радченко (Ярославль)'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43294
+  date: '2014-04-17'
+  time: '19:00'
+  band_name: Концерт студентов 3-ого курса ЯУК. Руководитель Яков Казьянский (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43295
+  date: '2014-04-18'
+  time: '19:00'
+  band_name: ВСВ-трио (Череповец, Ярославль, Вологда)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  comments: Виктория Андреева - вокал, Сергей Кузнецов  - кларнет, саксофоны, губная
+    гармошка, Виктор Колесов - гитара
+- id: 43296
+  date: '2014-04-21'
+  time: '19:00'
+  band_name: Алена Войская - Михаил Бушуев - Алексей Терентьев - Михаил Черенков (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43297
+  date: '2014-04-24'
+  time: '19:00'
+  band_name: Комбо "Прогрессив" Евгения Егорова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43298
+  date: '2014-04-25'
+  time: '19:00'
+  band_id: 617
+  band_name: Обратная сторона
+  band_token: cara-trasera
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43299
+  date: '2014-04-28'
+  time: '19:00'
+  band_name: Ансамбль Саши Могилевич (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43856
+  date: '2014-05-05'
+  time: '19:00'
+  band_name: Традиционный джэм-сейшн, кондуктор А. Мартыненко
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43857
+  date: '2014-05-08'
+  time: '19:00'
+  band_name: Трио Владимира Борисова (Архангельск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43858
+  date: '2014-05-12'
+  time: '19:00'
+  band_name: Ирэн & "Love Acoustic" (Рыбинск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43859
+  date: '2014-05-15'
+  time: '19:00'
+  band_name: '"Мармеладъ" (Ростов)'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43860
+  date: '2014-05-16'
+  time: '19:00'
+  band_name: Ансамбль Виктора Колесова (Вологда)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43861
+  date: '2014-05-22'
+  time: '19:00'
+  band_name: Ансамбль Евгения Казакова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43862
+  date: '2014-05-23'
+  time: '19:00'
+  band_name: Ансамбль Леры Радченко (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43863
+  date: '2014-05-26'
+  time: '19:00'
+  band_name: Вокальный класс Ольги Преображенской (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43864
+  date: '2014-05-29'
+  time: '19:00'
+  band_name: Ярославский Диксиленд (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 43865
+  date: '2014-05-30'
+  time: '19:00'
+  band_name: Мария Курилова & "Eyra's Combo" (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 44623
+  date: '2014-06-06'
+  time: '19:00'
+  band_name: Canfusion (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 44624
+  date: '2014-06-13'
+  time: '19:00'
+  band_name: Gypsy Swing (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 44625
+  date: '2014-06-20'
+  time: '18:00'
+  band_name: 'Джаз-пароход: Трио Андрея Шабашева (Архангельск), Ансамбль Ильи Зырянова
+    (Москва), Алена Войская и квартет Александра Сипягина - Михаила Цыганова (Ярославль/Нью-Йорк/Москва),
+    Ярославский диксиленд Николая Кабанова'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 44626
+  date: '2014-06-27'
+  time: '19:00'
+  band_name: Only Jazz Quintet Сергея Белоусова (Ярославль/Архангельск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 45203
+  date: '2014-07-11'
+  time: '19:00'
+  band_name: Сергея Белоусов (гитара, Ярославль), Андрей Мартыненко (рояль, Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 45335
+  date: '2014-07-25'
+  time: '19:00'
+  band_name: Яков Казьянский (рояль, Ярославль), Елена Бойчук (вокал, Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 45291
+  date: '2014-07-18'
+  time: '19:00'
+  band_name: Корни Травы (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 45517
+  date: '2014-08-01'
+  time: '19:00'
+  band_name: Jazz W.A.V.E. (Кострома) - Анна Новожилова (вокал), Валерий Скворцов
+    (фортепиано)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200 руб.
+- id: 46007
+  date: '2014-08-22'
+  time: '19:00'
+  band_name: Jazz Center Trio +
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  comments: Андрей Мартыненко (рояль, Ярославль); Сергей Белоусов (гитара, Ярославль);
+    Роман Салмасов (контрабас, Москва)
+- id: 46287
+  date: '2014-09-11'
+  time: '19:00'
+  band_name: Квартет Алекса Сипягина (США)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+  price: 200-600 руб.
+- id: 47120
+  date: '2014-10-10'
+  time: '19:00'
+  band_name: Анатолий Осипов (тенор-саксофон, Москва), Алексей Наджаров (рояль, Москва)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47121
+  date: '2014-10-17'
+  time: '19:00'
+  band_name: Якова Казьянского и Елены Бойчук (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47122
+  date: '2014-10-24'
+  time: '19:00'
+  band_name: 'В рамках XI фестиваля новой музыки "Длинные руки": Gunda Gottschalk
+    (скрипка, Германия), Gunter "Baby" Sommer (барабаны, Германия) и Xu Fengxia (гуцинь
+    (струнный инструмент), Китай)'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47123
+  date: '2014-10-27'
+  time: '19:00'
+  band_name: 'В рамках XI фестиваля новой музыки "Длинные руки": Heinz-Erich Goedecke
+    (тромбон, Германия) и Алексей Круглов (саксофоны, Москва)'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47124
+  date: '2014-10-30'
+  time: '19:00'
+  band_name: Арт-группа Тима Дорофеева (Архангельск)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47411
+  date: '2014-10-31'
+  time: '19:00'
+  band_name: Алена Войская и Михаил Бушуев (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47729
+  date: '2014-11-06'
+  time: '19:00'
+  band_name: Концерт детских духовых ансамблей (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47730
+  date: '2014-11-07'
+  time: '19:00'
+  band_name: Jazz Projekt "Bridgo" (Германия-Россия)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47979
+  date: '2014-11-17'
+  time: '19:00'
+  band_name: Антон Буканов (рояль) с программой "Несу Разное" (Москва)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47980
+  date: '2014-11-20'
+  time: '19:00'
+  band_name: Ярославский Диксиленд п/у Н. Кабанова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47981
+  date: '2014-11-21'
+  time: '19:00'
+  band_name: Ансамбль Екатерины Лопухиной (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47982
+  date: '2014-11-24'
+  time: '19:00'
+  band_name: Яков Казьянский (рояль, Ярославль) и Елена Бойчук (вокал, Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 47983
+  date: '2014-11-28'
+  time: '19:00'
+  band_name: Ансамбль Андрея Мартыненко (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48353
+  date: '2014-12-04'
+  time: '19:00'
+  band_name: Jazz W.A.V.E. (Кострома)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48354
+  date: '2014-12-08'
+  time: '19:00'
+  band_name: Сarramba Вячеслава Смирнова (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48355
+  date: '2014-12-18'
+  time: '19:00'
+  band_name: Квартет Александра Сорокина (Ярославль)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48356
+  date: '2014-12-19'
+  time: '19:00'
+  band_name: Александра Штерн (вокал, Ярославль) - вокальная студия п/у Людмилы Сваровской
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48357
+  date: '2014-12-22'
+  time: '19:00'
+  band_name: Наталья Скворцова (рояль, Москва), Роман Вертягин (бас, Москва)
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center
+- id: 48358
+  date: '2014-12-15'
+  time: '19:00'
+  band_name: 'Вокальный класс (Ярославль): Ольга Преображенская, Лера Радченко'
+  club_id: 250
+  club_name: Городской джазовый центр
+  club_token: ya-jazz-center

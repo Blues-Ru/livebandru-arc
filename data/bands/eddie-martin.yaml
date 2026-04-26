@@ -1,0 +1,101 @@
+id: 661
+token: eddie-martin
+name: Eddie Martin
+aliases: Eddie Martin Bnad
+alive: true
+url: http://www.eddiemartin.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Eddie Martin
+  instruments: guitar/vocals
+- name: Галина Киселева
+  instruments: бас-гитара/бэк-вокал
+- name: Александр Половинкин
+  instruments: ударные
+clips:
+- id: 5157
+  type: weblink
+  url: http://www.eddiemartin.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5158
+  type: youtube
+  url: http://www.youtube.com/?v=HcKYFJ9UqH4
+  name: Eddie Martin - Someones Making Money & Queen of Spades
+  comments: 'http://www.eddiemartin.com Eddie Martin - Someones Making Money & Queen
+    of Spades CHECK ALSO The DUTCH Fan-Hyves for more Eddie Music Stuff!: http://eddie-martin-fan.hyves.nl'
+  sort_order: 0
+- id: 5159
+  type: youtube
+  url: http://www.youtube.com/?v=GNh566dKw6g
+  name: Eddie Martin Band - Cherry Red
+  comments: 'http://www.eddiemartin.com Eddie Martin Band - Cherry Red  CHECK ALSO
+    The DUTCH Fan-Hyves for more Eddie Music Stuff!: http://eddie-martin-fan.hyves.nl'
+  sort_order: 100
+- id: 5160
+  type: youtube
+  url: http://www.youtube.com/?v=V_56Zqt5Q7s
+  name: Eddie Martin Band - Put The Brakes On
+  comments: 'http://www.eddiemartin.com Put The Brakes On Guy CHECK ALSO The DUTCH
+    Fan-Hyves for more Eddie Music Stuff!: http://eddie-martin-fan.hyves.nl'
+  sort_order: 50
+- id: 5161
+  type: youtube
+  url: http://www.youtube.com/?v=8rMfn6iY_gk
+  name: Eddie Martin Band - Early In The Morning
+  comments: 'http://www.eddiemartin.com Eddie Martin Band - Early In The Morning CHECK
+    ALSO The DUTCH Fan-Hyves for more Eddie Music Stuff!: http://eddie-martin-fan.hyves.nl'
+  sort_order: 25
+- id: 5162
+  type: youtube
+  url: http://www.youtube.com/?v=n5Uc4-F1mEk
+  name: EDDIE MARTIN, CROSSROADS ANTWERP FINALE 2012
+  comments: Smooth blues finale, when Eddie Martin and band rounded off a well appreciated
+    set with 'Down The Road' from Eddie's DVD, 'Live at the Wharf' (see link below).
+    The band played to a full house audience
+  sort_order: 13
+- id: 5163
+  type: youtube
+  url: http://www.youtube.com/?v=L2cvPZhfRzs
+  name: 'Eddie Martin #10'
+  comments: "Eddie Martin (UK)  \r\n26-02-2012 \r\nCafé Crossroads \r\nAntwerpen\r\
+    \nhttp://www.eddiemartin.com/\r\nMore of Eddie Martin:\r\nhttps://www.youtube.com/playlist?list=PLEED62A8880A5A9D0&feature=plpp"
+  sort_order: 19
+- id: 5164
+  type: youtube
+  url: http://www.youtube.com/?v=SYgSyia5tno
+  name: 'Eddie Martin #2'
+  comments: "Eddie Martin (GB)\nGenre: Blues / Acoustic / Rock\nDate: 20-11-2010 \n\
+    Venue: Fitness Centrum Mill\nLocation: Mill, The Netherlands\nWebsite:\nEddie\
+    \ Martin: www.eddiemartin.com"
+  sort_order: 16
+- id: 7487
+  type: youtube
+  url: http://www.youtube.com/?v=6fXwvcmDDKQ
+  name: Eddie Martin & Big Red Radio - How Can This Be
+  sort_order: 7
+- id: 7488
+  type: youtube
+  url: http://www.youtube.com/?v=FQy6CwRVF3U
+  name: Eddie Martin & Big Red Radio - Throw Me A Line
+  comments: From Eddie Martin's Big Red Radio, Live in Tuscany Album (DVD/CD)
+  sort_order: 10
+reviews:
+- id: 380
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец Лондона, житель тихого британского городка Фрум - ЭДДИ МАРТИН -
+    человек-оркестр, певец, гитарист, харпист, сонграйтер, шоумен, лидер собственной
+    группы, саундпродюсер. Человек неуемной творческой энергии, искрометного юмора,
+    безупречной гитарной техники, мастер вокала и кудесник губной гармоники. Вот о
+    нем пишет авторитетный журнал "Blues in Britain": "Где бы ни играл Эдди Мартин
+    - в маленьком клубе или на большой фестивальной сцене, как человек-оркестр, в
+    составе пауэр-трио или в биг-бэнда - он неизменно превосходит ожидания!" "Просто
+    один из лучших блюзовых гитаристов, которых рождала Британия со времен Эрика Клэптона..."
+    What''s On in London'
+  verified: true
+  created: '2013-12-20'
+  is_press_release: true

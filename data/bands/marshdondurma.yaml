@@ -1,0 +1,44 @@
+id: 210
+token: marshdondurma
+name: Марш Дондурма
+alive: true
+url: http://www.marshdondurma.com/#home
+city_id: 20
+musicians:
+- name: Aviran Ben-Naim
+  instruments: труба
+- name: Eli Preminger
+  instruments: труба
+- name: Idan Raveh
+  instruments: труба
+- name: Arnon De-Botton
+  instruments: тромбон
+- name: Luisa Salomon
+  instruments: тромбон
+- name: Jacob Gorensteyn
+  instruments: сопрано саксофон
+- name: Danny Leibovich
+  instruments: тенор саксофон
+- name: Anton Falko
+  instruments: баритон  саксофон
+- name: Gal Dahan
+  instruments: альт саксофон
+- name: Tal Gur
+  instruments: альт саксофон
+- name: Dotan Yogev
+  instruments: перкуссия, барабан
+- name: Noa Segal
+  instruments: перкуссия, барабан
+- name: Oded Aloni
+  instruments: сабар, перкуссия
+- name: Yair Reuveni-Zaltsman
+  instruments: дауль, перкуссия
+- name: Udi Raz
+  instruments: сузафон
+clips:
+- id: 590
+  type: youtube
+  url: http://www.youtube.com/?v=u--TSQI6aXA
+  name: Marsh Dondurma - Live 2007 - Jerusalem
+  comments: ''
+  sort_order: 0

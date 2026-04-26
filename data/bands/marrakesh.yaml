@@ -1,0 +1,31 @@
+id: 706
+token: marrakesh
+name: Марракеш блюз бэнд
+aliases: 'Марракеш
+
+  Marrakesh blues band'
+alive: true
+url: https://vk.com/marrakeshbb
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Арман Жаныбеков
+  instruments: голос/гитара
+- name: Павел Полянский
+  instruments: ударные
+- name: Семен Оськин
+  instruments: гармоники
+- name: Алексей Дорохов
+  instruments: бас/голос
+clips:
+- id: 6670
+  type: weblink
+  url: https://vk.com/marrakeshbb
+  name: Официальный сайт
+  sort_order: 0
+- id: 6668
+  type: weblink
+  url: https://vk.com/marrakeshbb
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,44 @@
+- id: 52241
+  date: '2015-06-20'
+  time: '14:00'
+  band_name: 'XII фестиваль "Усадьба Jazz": Tony Allen (Франция), Мариам Мерабова
+    & Мирайф, Billy''s Band, Диана Арбенина и Ночные снайперы, Мегаполис с программой
+    "Из жизни планет", Эстрадный оркестр Сергея Мазаева, Malinen, Artemiev, Окуджав,
+    Elizaveta (США), Trad. Attack (Эстония), Rocqawali (Пакистан/Дания), Race to Space,
+    7/8 Band, Джаз-бас оркестр Алекса Ростоцкого'
+  club_id: 703
+  club_name: Царицыно
+  club_token: caricyno
+  extra_bands:
+  - id: 277
+    name: Ночные Снайперы
+    token: night-snipers
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+  - id: 154
+    name: Billy's Band
+    token: billys-band
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 52242
+  date: '2015-06-21'
+  time: '14:00'
+  band_name: 'XII фестиваль "Усадьба Jazz": Jones Family Singers (США), Хибла Герзмава
+    и трио Даниила Крамера, Нино Катамадзе & Insight (Грузия), Therr Maitz, Mana Island,
+    Игорь Бутман и Московский джазовый оркестр, Инна Желанная, Daniel Herskedal (Норвегия),
+    Hiatus Kaiyote (Австралия), Зоркий, Gayana, Omer Avital (Израиль)'
+  club_id: 703
+  club_name: Царицыно
+  club_token: caricyno
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 195
+    name: Инна Желанная
+    token: inna-zhelannaya
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman

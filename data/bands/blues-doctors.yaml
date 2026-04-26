@@ -1,0 +1,59 @@
+id: 52
+token: blues-doctors
+name: Blues Doctors
+aliases: Владимир Демьянов & Blues Doctors
+alive: true
+url: http://www.bluesdoctors.ru
+city_id: 6
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Владимир Демьянов
+  instruments: гитара, вокал
+- name: Владимир Апаницын
+  instruments: бас
+- name: Макс Плетнев
+  instruments: ударные
+clips:
+- id: 28
+  type: weblink
+  url: http://www.bluesdoctors.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 6893
+  type: photo
+  url: blues-doctors.jpg
+  name: Blues Doctors
+  sort_order: 0
+  width: 1266
+  height: 1266
+- id: 6894
+  type: mp3
+  url: blues-doctors.mp3
+  name: My Manifesto
+  sort_order: 99
+- id: 6895
+  type: youtube
+  url: https://www.youtube.com/watch?v=VZM3Ms8C6eQ
+  name: Blues Doctors - I Want To Be Loved(live cover)
+  sort_order: 99
+- id: 6900
+  type: rss
+  url: http://bluesdoctors.ru/ru/live/feed
+  name: Blues Doctors News
+  comments: Новости Blues Doctors
+  sort_order: 0
+- id: 7780
+  type: youtube
+  url: https://www.youtube.com/watch?v=7wazhj67A9M
+  name: Steppin' Out! (Live)
+  comments: Привет, друзья! Это наша версия знаменитой пьесы Steppin' Out! , которую
+    в 1959 году записал блюзовый музыкант Мемфис Слим. Надеемся, вам придется по душе
+  sort_order: 0
+- id: 7784
+  type: photo
+  url: blues-doctors-2.jpg
+  name: Владимир Демьянов
+  sort_order: 100
+  width: 2000
+  height: 1335

@@ -1,0 +1,133 @@
+id: 461
+token: boogie-child
+name: Boogie Child
+alive: true
+url: http://www.boogie-child.com
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Максим Чижиков
+  instruments: бас, вокал
+- name: Владислав Баракин
+  instruments: барабаны
+- name: Андрей Бранделис
+  instruments: гитара
+clips:
+- id: 3154
+  type: mp3
+  url: boogie-child-2.mp3
+  name: Matchbox Cover
+  sort_order: 199
+- id: 2195
+  type: weblink
+  url: http://www.boogie-child.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 2174
+  type: weblink
+  url: http://www.myspace.com/boogiechild
+  name: Страница на MySpace
+  sort_order: 99
+- id: 2175
+  type: weblink
+  url: http://vk.com/boogiechild
+  name: Страница ВКонтакте
+  sort_order: 50
+- id: 2799
+  type: photo
+  url: boogie-child-4.jpg
+  sort_order: 300
+  width: 3000
+  height: 2000
+- id: 2803
+  type: photo
+  url: boogie-child-8.jpg
+  sort_order: 700
+  width: 2000
+  height: 3000
+- id: 2810
+  type: photo
+  url: boogie-child-15.jpg
+  sort_order: 1400
+  width: 2000
+  height: 3000
+- id: 2812
+  type: photo
+  url: boogie-child-17.jpg
+  sort_order: 1600
+  width: 3000
+  height: 2000
+- id: 2800
+  type: photo
+  url: boogie-child-5.jpg
+  sort_order: 400
+  width: 2000
+  height: 3000
+- id: 2805
+  type: photo
+  url: boogie-child-10.jpg
+  sort_order: 900
+  width: 3000
+  height: 2000
+- id: 2811
+  type: photo
+  url: boogie-child-16.jpg
+  sort_order: 1500
+  width: 3000
+  height: 2000
+- id: 3153
+  type: mp3
+  url: boogie-child.mp3
+  name: i Just Want To Make Love To You Cover
+  sort_order: 99
+- id: 3155
+  type: mp3
+  url: boogie-child-3.mp3
+  name: Crossroads Cover
+  sort_order: 299
+- id: 9331
+  type: photo
+  url: boogie-child-21.jpg
+  name: new Boogie Child 2018
+  sort_order: 0
+  width: 4976
+  height: 3321
+reviews:
+- id: 162
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: 'Boogie Child Let us introduce the band:'
+  text: 'Blues Rock, Blues, Rock, Rock n Roll
+
+
+    Максим Чижиков - бас-гитара, вокал Андрей Бранделис - гитара Владислав Баракин
+    - барабаны, перкуссия
+
+
+    Владислав Баракин и Максим Чижиков начали играть вместе в 1993 году. С тех пор
+    каждый успел поработать на сцене и записать (сессионно) много музыки в различных
+    коллективах. Музыкантов всегда объединяло желание исполнять блюз, ритм-энд-блюз,
+    блюз-рок. В 2009г группа меняет название на Boogie Child. В 2014 г., спустя 15
+    лет, в коллектив вернулся давний товарищ: Андрей Бранделис Boogie Child- московская
+    блюз-рок группа, которая в своем творчестве продолжает традиции англо-американских
+    исполнителей 60-70 х годов. Музыка, которую мы играем, дает большую свободу самовыражения.
+    Знаменитые, а так же редкие композиции представлены в неожиданных, непредсказуемых
+    аранжировках. Мы не копируем, а лишь предлагаем Вам свое видение песен любимых
+    авторов. Зажигательные boogie, размеренные shuffle и проникновенные баллады в
+    стиле Stevie Ray Vaughan и Gary Moore. Песни Creedence Clearwater Revival, The
+    Animals, The Rolling Stones, The Doors, Willie Dixon, Muddy Waters, Bo Diddly,
+    James Brown, Chuck Berry, Jimi Hendrix, Freddy King, а еще funk и многое другое
+    от классики рок-н-ролла и ритм-н-блюза до классики хард рока и тяжелого блюза!
+    Оригинальное звучание, воссоздание на сцене атмосферы "золотых лет" блюз-рока,
+    импровизаций в духе Cream и Led Zeppelin. А также свой собственный, авторский
+    материал, выдержанный в лучших традициях жанра. Вместе с Boogie Child Вы сможете
+    отправиться в путешествие на Мустанге 1965 года по Rout 66 или Highway 61, через
+    тот самый, знаменитый Crossroads, и дальше по Highway To Hell чтобы провести вечер
+    в местечке под названием La Grange о котором рассказывали ZZ Top. Не имеет смысла
+    слишком много говорить о музыке-ее надо слушать. И так же можно танцевать)) Ждем
+    Вас на своих концертах!'
+  verified: true
+  created: '2011-05-27'
+  is_press_release: true

@@ -1,0 +1,15 @@
+id: 468
+token: spb-comedy-theatre
+name: Tеатр Комедии им. Акимова
+aliases: Санкт-Петербургский театр Комедии имени Н. П. Акимова
+alive: true
+address: Невский просп., 56
+subway: Гостиный Двор
+phone: (812) 312-45-55
+city_id: 2
+clips:
+- id: 2233
+  type: weblink
+  url: http://www.komediaspb.ru/
+  name: Официальный сайт
+  sort_order: 0

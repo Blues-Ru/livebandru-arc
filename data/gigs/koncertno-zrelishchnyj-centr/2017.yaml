@@ -1,0 +1,30 @@
+- id: 63780
+  date: '2017-03-25'
+  time: '19:30'
+  band_name: 'Фестиваль "Джаз над Волгой 2017": Michele Calgaro Trio (Италия); Игорь
+    Бутман и Московский джазовый оркестр'
+  club_id: 773
+  club_name: Концертно-зрелищный центр "Миллениум"
+  club_token: koncertno-zrelishchnyj-centr
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 63782
+  date: '2017-03-26'
+  time: '19:00'
+  band_name: 'Фестиваль "Джаз над Волгой 2017": Квартет Александра Сипягина (США/Россия);
+    Chris Potter Quartet (США)'
+  club_id: 773
+  club_name: Концертно-зрелищный центр "Миллениум"
+  club_token: koncertno-zrelishchnyj-centr
+- id: 66914
+  date: '2017-10-07'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 773
+  club_name: Концертно-зрелищный центр "Миллениум"
+  club_token: koncertno-zrelishchnyj-centr
+  comments: В рамках фестиваля "Jazz Birds"

@@ -1,0 +1,38 @@
+- id: 56741
+  date: '2016-02-14'
+  time: '17:00'
+  band_name: Phil "Big Daddy Blues" Speat and The Boneshakers
+  club_id: 831
+  club_name: АСТ-Альфа
+  club_token: ast-alfa
+  price: 550 руб.
+  comments: Арт-вечеринка. Блюзовый концерт и презентация новой экспозиции картин
+  extra_bands:
+  - id: 547
+    name: Cleanhead Phil Speat
+    token: cleanhead-phil
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 58917
+  date: '2016-05-21'
+  time: '20:00'
+  band_name: Layna Shery & Band
+  club_id: 831
+  club_name: АСТ-Альфа
+  club_token: ast-alfa
+  price: 1500 руб.
+  comments: Концерт , мастер-класс по живописи, фуршет
+- id: 62010
+  date: '2016-11-26'
+  time: '18:00'
+  band_name: арт-вечеринка с фуршетом и мастер-классом по живописи Юрий Каверкин и
+    Nothing Personal
+  club_id: 831
+  club_name: АСТ-Альфа
+  club_token: ast-alfa
+  price: 2500 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin

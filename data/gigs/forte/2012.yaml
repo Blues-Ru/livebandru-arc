@@ -1,0 +1,2406 @@
+- id: 24363
+  date: '2012-01-02'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24364
+  date: '2012-01-03'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24365
+  date: '2012-01-06'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24366
+  date: '2012-01-07'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24367
+  date: '2012-01-08'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24628
+  date: '2012-01-14'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24368
+  date: '2012-01-09'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24369
+  date: '2012-01-10'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24370
+  date: '2012-01-14'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24371
+  date: '2012-01-15'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24372
+  date: '2012-01-16'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24373
+  date: '2012-01-17'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24374
+  date: '2012-01-22'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24375
+  date: '2012-01-23'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24376
+  date: '2012-01-24'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24377
+  date: '2012-01-25'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24378
+  date: '2012-01-27'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24379
+  date: '2012-01-29'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24380
+  date: '2012-01-30'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24381
+  date: '2012-01-31'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24382
+  date: '2012-01-04'
+  time: '20:00'
+  band_name: GRF
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24383
+  date: '2012-01-05'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 24384
+  date: '2012-01-11'
+  time: '20:00'
+  band_name: GRF
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24385
+  date: '2012-01-12'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 24386
+  date: '2012-01-13'
+  time: '20:00'
+  band_name: Андрей Храмов и Green Town
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24387
+  date: '2012-01-19'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 24388
+  date: '2012-01-20'
+  time: '20:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24389
+  date: '2012-01-21'
+  time: '20:00'
+  band_name: Balls of Fire и Маша Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 24390
+  date: '2012-01-26'
+  time: '20:00'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 24987
+  date: '2012-01-28'
+  time: '20:00'
+  band_name: Smooth Jazz Шоу Святослава Текучева и Евгения Ревнюка
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 24900
+  date: '2012-02-04'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 25399
+  date: '2012-02-03'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25400
+  date: '2012-02-05'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25401
+  date: '2012-02-06'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25402
+  date: '2012-02-07'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25403
+  date: '2012-02-08'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25404
+  date: '2012-02-10'
+  time: '20:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25405
+  date: '2012-02-12'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25406
+  date: '2012-02-13'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25407
+  date: '2012-02-14'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25408
+  date: '2012-02-17'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25409
+  date: '2012-02-18'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25410
+  date: '2012-02-19'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25411
+  date: '2012-02-20'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25412
+  date: '2012-02-21'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25413
+  date: '2012-02-22'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25414
+  date: '2012-02-26'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25415
+  date: '2012-02-27'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25416
+  date: '2012-02-28'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25417
+  date: '2012-02-09'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25418
+  date: '2012-02-15'
+  time: '20:00'
+  band_name: GRF
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25419
+  date: '2012-02-16'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25420
+  date: '2012-02-23'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 25421
+  date: '2012-02-25'
+  time: '20:00'
+  band_name: Prime Time
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25422
+  date: '2012-02-29'
+  time: '20:00'
+  band_name: GRF
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25784
+  date: '2012-02-24'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25890
+  date: '2012-03-23'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27101
+  date: '2012-04-11'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 25991
+  date: '2012-02-29'
+  time: '20:00'
+  band_name: Haleo(Куба)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+  extra_bands:
+  - id: 331
+    name: Haleo
+    token: haleo
+- id: 26162
+  date: '2012-03-02'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26163
+  date: '2012-03-03'
+  time: '20:00'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26164
+  date: '2012-03-05'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26165
+  date: '2012-03-06'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26166
+  date: '2012-03-07'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26167
+  date: '2012-03-10'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26168
+  date: '2012-03-11'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26169
+  date: '2012-03-12'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26170
+  date: '2012-03-13'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26171
+  date: '2012-03-14'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26172
+  date: '2012-03-17'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26173
+  date: '2012-03-18'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26174
+  date: '2012-03-19'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26175
+  date: '2012-03-20'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26176
+  date: '2012-03-24'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26177
+  date: '2012-03-25'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26178
+  date: '2012-03-26'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26179
+  date: '2012-03-27'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26180
+  date: '2012-03-31'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26181
+  date: '2012-03-08'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 26182
+  date: '2012-03-15'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 26184
+  date: '2012-03-22'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 26185
+  date: '2012-03-30'
+  time: '20:00'
+  band_id: 182
+  band_name: Balls of Fire
+  band_token: balls-of-fire
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26183
+  date: '2012-03-21'
+  time: '20:00'
+  band_name: GRF
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26384
+  date: '2012-03-28'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 26743
+  date: '2012-03-29'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27368
+  date: '2012-04-25'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27369
+  date: '2012-04-28'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27370
+  date: '2012-04-29'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27371
+  date: '2012-04-30'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27376
+  date: '2012-05-07'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27377
+  date: '2012-05-08'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27378
+  date: '2012-05-09'
+  time: '20:00'
+  band_name: Salt Peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 27417
+  date: '2012-05-25'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27372
+  date: '2012-05-01'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27373
+  date: '2012-05-04'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27374
+  date: '2012-05-05'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27375
+  date: '2012-05-06'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27379
+  date: '2012-05-11'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27380
+  date: '2012-05-13'
+  time: '20:00'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 27381
+  date: '2012-05-14'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27382
+  date: '2012-05-15'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27383
+  date: '2012-05-21'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27384
+  date: '2012-05-22'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27385
+  date: '2012-05-23'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27386
+  date: '2012-04-26'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27387
+  date: '2012-05-02'
+  time: '20:00'
+  band_name: Classy Jazz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27388
+  date: '2012-05-03'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27389
+  date: '2012-05-10'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27390
+  date: '2012-05-12'
+  time: '20:00'
+  band_id: 182
+  band_name: Balls of Fire
+  band_token: balls-of-fire
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27391
+  date: '2012-05-16'
+  time: '20:00'
+  band_name: Павел Чекмаковский
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27392
+  date: '2012-05-17'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27393
+  date: '2012-05-18'
+  time: '20:00'
+  band_name: Smooth Jazz Шоу Святослава Текучева и Евгения Ревнюка
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27394
+  date: '2012-05-24'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27942
+  date: '2012-06-09'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27943
+  date: '2012-06-10'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27944
+  date: '2012-06-11'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27953
+  date: '2012-06-22'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27954
+  date: '2012-06-24'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27940
+  date: '2012-06-04'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27941
+  date: '2012-06-05'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27945
+  date: '2012-06-12'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27946
+  date: '2012-06-13'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27947
+  date: '2012-06-15'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27948
+  date: '2012-06-16'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27949
+  date: '2012-06-17'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27950
+  date: '2012-06-18'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27951
+  date: '2012-06-19'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27952
+  date: '2012-06-20'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27955
+  date: '2012-05-31'
+  time: '20:00'
+  band_name: Vinchy
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27956
+  date: '2012-06-01'
+  time: '20:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27957
+  date: '2012-06-02'
+  time: '20:00'
+  band_id: 182
+  band_name: Balls of Fire
+  band_token: balls-of-fire
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27958
+  date: '2012-06-06'
+  time: '20:00'
+  band_name: Павел Чекмаковский
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27959
+  date: '2012-06-08'
+  time: '20:00'
+  band_name: РОКтябрята
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27960
+  date: '2012-06-14'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 27961
+  date: '2012-06-21'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 27962
+  date: '2012-06-23'
+  time: '20:00'
+  band_name: Smooth Jazz Шоу Святослава Текучева и Евгения Ревнюка
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27873
+  date: '2012-05-28'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27874
+  date: '2012-05-29'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27875
+  date: '2012-05-30'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27876
+  date: '2012-05-26'
+  time: '20:00'
+  band_id: 182
+  band_name: Balls of Fire
+  band_token: balls-of-fire
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27877
+  date: '2012-05-27'
+  time: '20:00'
+  band_name: Adrian Belew Power Trio
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 27939
+  date: '2012-06-03'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28257
+  date: '2012-06-25'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28258
+  date: '2012-06-26'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28259
+  date: '2012-06-27'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28260
+  date: '2012-06-29'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28261
+  date: '2012-06-07'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28262
+  date: '2012-06-28'
+  time: '20:00'
+  band_name: Bjorn Berge (NO)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28480
+  date: '2012-06-30'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28531
+  date: '2012-06-18'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29059
+  date: '2012-07-19'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29553
+  date: '2012-10-04'
+  time: '21:00'
+  band_id: 596
+  band_name: Raphael Wressnig & The Soul Gift Band
+  band_token: wressnig-schultz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29462
+  date: '2012-08-21'
+  time: '20:00'
+  band_name: Хендрик Мёркенс (USA) и Квартет Алексея Подымкина
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29463
+  date: '2012-08-23'
+  time: '20:00'
+  band_name: Даниэла Вашконселош (Daniela Vasconcelos, Португалия)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 28983
+  date: '2012-07-27'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29181
+  date: '2012-08-11'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29014
+  date: '2012-07-07'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29015
+  date: '2012-07-09'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29016
+  date: '2012-07-10'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29017
+  date: '2012-07-11'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29018
+  date: '2012-07-14'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29019
+  date: '2012-07-15'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29020
+  date: '2012-07-17'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29021
+  date: '2012-07-20'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29022
+  date: '2012-07-22'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29023
+  date: '2012-07-29'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29024
+  date: '2012-07-13'
+  time: '20:00'
+  band_name: Beverly Hills
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29025
+  date: '2012-07-16'
+  time: '20:00'
+  band_name: Квартет Павла Чекмаковского
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29026
+  date: '2012-07-23'
+  time: '20:00'
+  band_name: Квартет Павла Чекмаковского
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29027
+  date: '2012-07-24'
+  time: '20:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29028
+  date: '2012-07-30'
+  time: '20:00'
+  band_name: Квартет Павла Чекмаковского
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29358
+  date: '2012-08-06'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29359
+  date: '2012-08-12'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29360
+  date: '2012-08-13'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29361
+  date: '2012-08-15'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29362
+  date: '2012-08-16'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29363
+  date: '2012-08-19'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29364
+  date: '2012-08-20'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29365
+  date: '2012-08-22'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29366
+  date: '2012-08-26'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29367
+  date: '2012-08-27'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29368
+  date: '2012-08-28'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29369
+  date: '2012-08-29'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29370
+  date: '2012-08-03'
+  time: '20:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29371
+  date: '2012-08-05'
+  time: '20:00'
+  band_name: 'Александр Маршал: Tribute to Jon Lord'
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29372
+  date: '2012-08-14'
+  time: '20:00'
+  band_name: Квартет Павла Чекмаковского
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29373
+  date: '2012-08-17'
+  time: '20:00'
+  band_name: Beverly Hills
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29374
+  date: '2012-08-25'
+  time: '20:00'
+  band_name: Smooth Jazz Шоу Святослава Текучева и Евгения Ревнюка
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 29375
+  date: '2012-08-31'
+  time: '20:00'
+  band_name: Маша Кац и Balls of Fire
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 29829
+  date: '2012-08-30'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30014
+  date: '2012-09-10'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30015
+  date: '2012-09-11'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30016
+  date: '2012-09-12'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30017
+  date: '2012-09-13'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30018
+  date: '2012-09-15'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30019
+  date: '2012-09-16'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30020
+  date: '2012-09-17'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30021
+  date: '2012-09-18'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30022
+  date: '2012-09-22'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30023
+  date: '2012-09-23'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30024
+  date: '2012-09-24'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30025
+  date: '2012-09-25'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30026
+  date: '2012-09-26'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30027
+  date: '2012-09-27'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30028
+  date: '2012-09-30'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30029
+  date: '2012-09-09'
+  time: '20:00'
+  band_name: Martin Miller & Anton Davidyants Group (GER, RUS)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30030
+  date: '2012-09-20'
+  time: '20:00'
+  band_id: 598
+  band_name: Bob Margolin
+  band_token: bob-margolin
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30031
+  date: '2012-09-28'
+  time: '20:00'
+  band_name: Egari (GR)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30032
+  date: '2012-09-29'
+  time: '20:00'
+  band_name: Smooth Jazz Шоу Святослава Текучева и Евгения Ревнюка
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30046
+  date: '2012-09-14'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 30010
+  date: '2012-09-08'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30226
+  date: '2012-10-01'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30227
+  date: '2012-10-02'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30228
+  date: '2012-10-03'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30229
+  date: '2012-10-07'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30230
+  date: '2012-10-08'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30231
+  date: '2012-10-09'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30232
+  date: '2012-10-10'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30233
+  date: '2012-10-11'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30234
+  date: '2012-10-13'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30235
+  date: '2012-10-15'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30236
+  date: '2012-10-16'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30237
+  date: '2012-10-17'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30238
+  date: '2012-10-18'
+  time: '20:00'
+  band_id: 434
+  band_name: Vision Of Sound
+  band_token: vision-of-sound
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30239
+  date: '2012-10-21'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30240
+  date: '2012-10-22'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30241
+  date: '2012-10-23'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30242
+  date: '2012-10-05'
+  time: '20:00'
+  band_name: Nicole Henry (США)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30243
+  date: '2012-10-06'
+  time: '20:00'
+  band_name: Nicole Henry (США)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30244
+  date: '2012-10-19'
+  time: '20:00'
+  band_name: Beverly Hills
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30245
+  date: '2012-10-20'
+  time: '20:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30618
+  date: '2012-10-24'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30620
+  date: '2012-10-26'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30621
+  date: '2012-10-28'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30622
+  date: '2012-10-29'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 30623
+  date: '2012-10-30'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31074
+  date: '2012-10-31'
+  time: '20:00'
+  band_name: Classy Jazz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31485
+  date: '2012-11-01'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 31725
+  date: '2012-11-21'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31794
+  date: '2012-11-28'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31790
+  date: '2012-11-24'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31791
+  date: '2012-11-25'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31792
+  date: '2012-11-26'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31793
+  date: '2012-11-27'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31795
+  date: '2012-11-29'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31796
+  date: '2012-11-22'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31797
+  date: '2012-11-23'
+  time: '20:00'
+  band_name: Beverly Hills
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 31798
+  date: '2012-11-30'
+  time: '20:00'
+  band_name: Balls of Fire и Маша Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 31720
+  date: '2012-11-10'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 31864
+  date: '2012-11-23'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 32132
+  date: '2012-12-03'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32133
+  date: '2012-12-04'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32134
+  date: '2012-12-05'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32135
+  date: '2012-12-07'
+  time: '20:00'
+  band_id: 160
+  band_name: Андрей Давидян и Sound Cake
+  band_token: sound-cake
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32136
+  date: '2012-12-09'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32137
+  date: '2012-12-10'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32138
+  date: '2012-12-11'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32139
+  date: '2012-12-12'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32140
+  date: '2012-12-16'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32141
+  date: '2012-12-17'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32142
+  date: '2012-12-18'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32143
+  date: '2012-12-22'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32144
+  date: '2012-12-23'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32145
+  date: '2012-12-24'
+  time: '20:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32146
+  date: '2012-12-25'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32147
+  date: '2012-12-26'
+  time: '20:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32148
+  date: '2012-12-30'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32149
+  date: '2012-12-06'
+  time: '20:00'
+  band_name: Алексей Козлов и «Арсенал»
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 32150
+  date: '2012-12-08'
+  time: '20:00'
+  band_id: 203
+  band_name: Mama's Bad Boys
+  band_token: mamas-bad-boys
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 32151
+  date: '2012-12-15'
+  time: '20:00'
+  band_name: Balls of Fire и Маша Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz

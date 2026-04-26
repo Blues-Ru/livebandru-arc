@@ -1,0 +1,23 @@
+- id: 22364
+  date: '2011-10-13'
+  time: '19:00'
+  band_name: Алексей Козлов и Арсенал, Сергей Никитин, трио Андрея Разина, Виталий
+    Розенберг, Мехрдад Бади, Петр Тодоровский, Альберт Филозов, Леонид Ярмольник,
+    Игорь Бутман, Анна Королева, Дмитрий Илугдин, Феликс Лахути, Игорь Иванушкин.
+  club_id: 509
+  club_name: Эльдар
+  club_token: ehldar
+  comments: День Джазиста
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman

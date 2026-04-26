@@ -1,0 +1,13 @@
+id: 444
+token: arh-drama
+name: Архангельский театр драмы
+alive: true
+address: Петровский парк, 1
+phone: (8182) 441-530
+city_id: 51
+clips:
+- id: 2051
+  type: weblink
+  url: http://www.arhdrama.ru/
+  name: Официальный сайт
+  sort_order: 0

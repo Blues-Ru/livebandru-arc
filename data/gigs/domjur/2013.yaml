@@ -1,0 +1,231 @@
+- id: 32955
+  date: '2013-01-24'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр играет афро-кубинский джаз
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 33153
+  date: '2013-01-24'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр играет афро-кубинский джаз
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 33746
+  date: '2013-02-21'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа: Дюк Эллингтон. Часть I: Коттон-Клаб'
+- id: 33747
+  date: '2013-02-21'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа: Дюк Эллингтон. Часть I: Коттон-Клаб'
+- id: 34679
+  date: '2013-03-21'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа "Дюк Эллингтон. Часть II: Прыгай от радости"'
+- id: 34680
+  date: '2013-03-21'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: "Программа \"Дюк Эллингтон. Часть II: Прыгай от радости\"\r\nБлаготворительный\
+    \ концерт."
+- id: 35376
+  date: '2013-04-18'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+- id: 35377
+  date: '2013-04-18'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+- id: 36064
+  date: '2013-06-20'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр играет мамбо
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 36065
+  date: '2013-06-20'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр играет мамбо
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 36059
+  date: '2013-05-23'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова, соло на кларнете Константин
+    Хазанович (Санкт-Петербург)
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа: к 75-летию знаменитого концерта Бенни Гудмена в Карнеги-Холл'
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 36060
+  date: '2013-05-23'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова, соло на кларнете Константин
+    Хазанович (Санкт-Петербург)
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа: к 75-летию знаменитого концерта Бенни Гудмена в Карнеги-Холл'
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 38357
+  date: '2013-09-26'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова. Открытие концертного сезона
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 38358
+  date: '2013-09-26'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова. Открытие концертного сезона
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 39094
+  date: '2013-10-24'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 39095
+  date: '2013-10-24'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 39783
+  date: '2013-11-28'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 39784
+  date: '2013-11-28'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 39940
+  date: '2013-12-07'
+  time: '19:00'
+  band_name: 19-й Международный Фестиваль Вокального Джаза "Jazz Voices"
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 40472
+  date: '2013-12-26'
+  time: '18:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.
+- id: 40473
+  date: '2013-12-26'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400 руб.

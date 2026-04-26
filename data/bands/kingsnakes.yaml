@@ -1,0 +1,31 @@
+id: 326
+token: kingsnakes
+name: King Snakes
+alive: true
+url: http://www.kingsnakes.us
+city_id: 13
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Пол Краул
+  instruments: гитара, клавишные, вокал
+- name: Чак Норбери
+  instruments: гитара, вокал
+- name: Фил Сенсени
+  instruments: бас
+- name: Ларри Дансмер
+  instruments: барабаны
+reviews:
+- id: 61
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: The KingSnakes
+  text: Иполняют музыку в стиле современный блюз и ритм-н-блюз. Гастролировали в США,
+    Англии, Японии, России и других странах. Общий стаж туров по Европе - 10 лет.
+    6 студийных альбомов. Пол Краул- автор песен The Kingsnakes, гитарист и вокалист,
+    играет с 15 лет, выступал с Country Joe and the Fish, Janis Joplin and the Holding
+    Company, Wet Willie, Sons of Champlin, Uriah Heep и другими артистами.
+  verified: true
+  created: '2010-11-04'
+  is_press_release: true

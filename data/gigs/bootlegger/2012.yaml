@@ -1,0 +1,35 @@
+- id: 27878
+  date: '2012-06-06'
+  time: '20:00'
+  band_name: Габриэл Гудман (вокал), Максим Любарский (рояль), Николай Моисеенко (саксофон),
+    Антон Ревнюк (контрабас), Джэй Стриклэнд (барабаны)
+  club_id: 533
+  club_name: Bootlegger
+  club_token: bootlegger
+- id: 30193
+  date: '2012-09-27'
+  time: '20:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 533
+  club_name: Bootlegger
+  club_token: bootlegger
+- id: 31960
+  date: '2012-12-06'
+  time: '20:00'
+  band_name: Marella
+  club_id: 533
+  club_name: Bootlegger
+  club_token: bootlegger
+  price: 250-500 руб.
+- id: 32284
+  date: '2012-12-20'
+  band_name: Jaleel Shaw (саксофон, США) и трио Ивана Фармаковского
+  club_id: 533
+  club_name: Bootlegger
+  club_token: bootlegger
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky

@@ -1,0 +1,15 @@
+id: 497
+token: gipsy-bar
+name: Джипси Бар
+aliases: Gipsy Bar
+alive: true
+address: Болотная наб., 3, стр. 4
+subway: Кропоткинская, Полянка
+phone: +7 (495) 669-86-93
+city_id: 1
+clips:
+- id: 3455
+  type: weblink
+  url: http://bargipsy.ru
+  name: Официальный сайт
+  sort_order: 0

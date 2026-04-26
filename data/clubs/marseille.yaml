@@ -1,0 +1,17 @@
+id: 161
+token: marseille
+name: Марсель
+alive: true
+address: Краснопролетарская, 16, стр.1
+phone: +7-(495)-232-4702
+city_id: 1
+clips:
+- id: 122
+  type: weblink
+  url: http://clubmarseille.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 154
+  type: rss
+  url: http://club-marseille.livejournal.com/data/rss
+  sort_order: 99

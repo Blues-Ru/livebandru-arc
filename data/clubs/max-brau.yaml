@@ -1,0 +1,20 @@
+id: 939
+token: max-brau
+name: Max Brau
+aliases: Макс Брой
+alive: true
+address: Дзержинского, 11
+phone: (492) 232-32-53
+city_id: 3
+comments: этаж 2
+clips:
+- id: 11109
+  type: weblink
+  url: http://www.maxbrau.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 11110
+  type: weblink
+  url: https://www.facebook.com/maxbraurest/
+  name: Страница на FaceBook
+  sort_order: 100

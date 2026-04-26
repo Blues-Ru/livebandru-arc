@@ -1,0 +1,22 @@
+- id: 23359
+  date: '2012-01-02'
+  time: '20:00'
+  band_name: The Beatles - глазами звезд московского блюза (Проект Левана Ломидзе
+    и Blues Cousins)
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 23360
+  date: '2012-01-03'
+  time: '20:00'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+  comments: Программа "Под небом Парижа".

@@ -1,0 +1,14 @@
+id: 906
+token: izvestiya-kholl
+name: Известия Холл
+alive: true
+address: Пушкинская площадь, 5
+subway: Тверская, Пушкинская, Чеховская
+phone: +7(495)125-12-08
+city_id: 1
+clips:
+- id: 9247
+  type: weblink
+  url: http://www.izvestiya-hall.ru/
+  name: Официальный сайт
+  sort_order: 0

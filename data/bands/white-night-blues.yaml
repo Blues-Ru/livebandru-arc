@@ -1,0 +1,26 @@
+id: 395
+token: white-night-blues
+name: White Night Blues
+alive: true
+city_id: 17
+genre_id: 1
+clips:
+- id: 1783
+  type: weblink
+  url: http://vk.com/club9499167
+  name: Страница ВКонтакте
+  sort_order: 99
+reviews:
+- id: 116
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Название группы White Night Blues переводится как "Блюз белой ночи". Оно
+    созвучно с названием поселка Белыничи, откуда родом лидер группы Юрий Нестеренко.
+    Cсылаясь на слова одного из белорусских музыкантов, Юрий охарактеризовал блюз
+    следующим образом: "Джаз - это тысяча нот, которые понимают три человека, а блюз
+    - это три ноты, которые понимает тысяча человек. Это личные ощущения пребывания
+    в музыкальной сфере"'
+  verified: true
+  created: '2011-03-02'
+  is_press_release: true

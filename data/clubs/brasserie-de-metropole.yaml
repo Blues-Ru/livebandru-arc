@@ -1,0 +1,14 @@
+id: 367
+token: brasserie-de-metropole
+name: Brasserie de Metropole
+alive: true
+address: Садовая, 22/2
+subway: Гостиный Двор, Невский Проспект
+phone: (812) 571-88-88
+city_id: 2
+clips:
+- id: 1371
+  type: weblink
+  url: http://demetropole.ru
+  name: Официальный сайт
+  sort_order: 0

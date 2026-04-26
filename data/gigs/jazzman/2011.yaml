@@ -1,0 +1,1169 @@
+- id: 14887
+  date: '2011-01-13'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15257
+  date: '2011-01-29'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15287
+  date: '2011-02-18'
+  time: '23:00'
+  band_name: Prime time
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15291
+  date: '2011-02-21'
+  time: '20:30'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15135
+  date: '2011-01-21'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15234
+  date: '2011-01-29'
+  time: '23:00'
+  band_name: Long play
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15263
+  date: '2011-02-26'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15264
+  date: '2011-02-02'
+  time: '21:00'
+  band_name: Cpt.Nemoff Blues Trio
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 300 рублей
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+- id: 15265
+  date: '2011-02-03'
+  time: '23:00'
+  band_name: Сборная СССР
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15266
+  date: '2011-02-04'
+  time: '23:00'
+  band_id: 339
+  band_name: Оптимальный Вариант
+  band_token: optimal-variant
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15267
+  date: '2011-02-03'
+  time: '21:00'
+  band_id: 319
+  band_name: Виктор Зинчук
+  band_token: victor-zinchuk
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15269
+  date: '2011-02-05'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15271
+  date: '2011-02-06'
+  time: '19:00'
+  band_name: Большой блюзовый джем с Dynamic James
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 15275
+  date: '2011-02-09'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15278
+  date: '2011-02-11'
+  time: '23:00'
+  band_name: Long play
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15280
+  date: '2011-02-12'
+  time: '23:00'
+  band_id: 104
+  band_name: Blast
+  band_token: blast
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15282
+  date: '2011-02-14'
+  time: '21:00'
+  band_name: Сборная СССР
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15283
+  date: '2011-02-15'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15284
+  date: '2011-02-16'
+  time: '21:00'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15285
+  date: '2011-02-17'
+  time: '21:00'
+  band_name: Валерий Сюткин
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15286
+  date: '2011-02-18'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 15288
+  date: '2011-02-19'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15289
+  date: '2011-02-19'
+  time: '23:00'
+  band_name: The champions
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15290
+  date: '2011-02-20'
+  time: '19:00'
+  band_name: Большой блюзовый джем с Dynamic James
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 15292
+  date: '2011-02-22'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15294
+  date: '2011-02-23'
+  time: '21:00'
+  band_name: Prime time
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15297
+  date: '2011-02-25'
+  time: '23:00'
+  band_name: Jet sound
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15299
+  date: '2011-02-27'
+  time: '19:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15258
+  date: '2011-02-01'
+  time: '21:00'
+  band_name: Classy jazz
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15268
+  date: '2011-02-04'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15270
+  date: '2011-02-05'
+  time: '23:00'
+  band_name: Long play
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15293
+  date: '2011-02-22'
+  time: '23:00'
+  band_name: U-super
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15295
+  date: '2011-02-24'
+  time: '21:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15296
+  date: '2011-02-25'
+  time: '21:00'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 15298
+  date: '2011-02-26'
+  time: '23:00'
+  band_name: Long play
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15300
+  date: '2011-02-28'
+  time: '20:30'
+  band_name: Олег Кролл
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15272
+  date: '2011-02-07'
+  time: '20:30'
+  band_name: Олег кролл
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15273
+  date: '2011-02-08'
+  time: '21:00'
+  band_name: Maximus band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15276
+  date: '2011-02-10'
+  time: '21:00'
+  band_name: Алексей "White" Белов и Удачное Приобретение, Сергей Мазаев (саксофон)
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 15277
+  date: '2011-02-11'
+  time: '21:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15279
+  date: '2011-02-12'
+  time: '21:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15281
+  date: '2011-02-13'
+  time: '19:00'
+  band_name: Большой блюзовый джем с Dynamic James
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 15605
+  date: '2011-03-18'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 15631
+  date: '2011-03-02'
+  time: '21:00'
+  band_id: 250
+  band_name: Cpt.Nemoff Blues Trio
+  band_token: evgeny-nemov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: '0'
+- id: 15750
+  date: '2011-03-01'
+  time: '21:00'
+  band_name: Трио Олега Кролла
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16046
+  date: '2011-03-03'
+  time: '21:00'
+  band_name: Александр Ф. Скляр
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16069
+  date: '2011-03-05'
+  time: '21:00'
+  band_id: 84
+  band_name: X-Team
+  band_token: x-team
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16081
+  date: '2011-03-05'
+  time: '23:00'
+  band_name: Longplay
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16062
+  date: '2011-03-04'
+  time: '21:00'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16087
+  date: '2011-03-06'
+  time: '19:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16219
+  date: '2011-03-11'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16275
+  date: '2011-03-10'
+  time: '21:00'
+  band_name: Родион Газманов и ДНК
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16389
+  date: '2011-03-17'
+  time: '21:00'
+  band_name: Александр Барыкин
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16622
+  date: '2011-03-14'
+  time: '21:00'
+  band_name: Yann  Destal MODJO
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 1500 руб.
+- id: 16672
+  date: '2011-03-20'
+  time: '19:00'
+  band_name: Большой блюзовый  джем с                                                                 группой  Dynamic
+    James
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 16674
+  date: '2011-03-22'
+  time: '21:00'
+  band_name: Анатолий Текучев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16676
+  date: '2011-03-24'
+  time: '21:00'
+  band_name: Наталья Гулькина
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16677
+  date: '2011-03-25'
+  time: '21:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16678
+  date: '2011-03-26'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16681
+  date: '2011-03-29'
+  time: '21:00'
+  band_name: Classy Jazz
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16682
+  date: '2011-03-30'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16878
+  date: '2011-04-01'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 16882
+  date: '2011-04-01'
+  time: '23:00'
+  band_name: The Сhampions
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16901
+  date: '2011-04-02'
+  time: '23:00'
+  band_name: Москва-Манчестер
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16914
+  date: '2011-04-03'
+  time: '19:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16634
+  date: '2011-03-15'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 300 руб.
+- id: 16903
+  date: '2011-04-02'
+  time: '21:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16670
+  date: '2011-03-19'
+  time: '21:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16673
+  date: '2011-03-21'
+  time: '21:00'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16675
+  date: '2011-03-23'
+  time: '21:00'
+  band_name: Валерий Долгин (гитара)
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16679
+  date: '2011-03-27'
+  time: '19:00'
+  band_name: "Большой блюзовый  джем с \r\n                                      \
+    \                                          группой  Dynamic James"
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 16680
+  date: '2011-03-28'
+  time: '21:00'
+  band_name: Олег Кролл
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 16683
+  date: '2011-03-31'
+  time: '21:00'
+  band_name: Владимир Кузьмин
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17117
+  date: '2011-04-05'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17119
+  date: '2011-04-07'
+  time: '21:00'
+  band_name: Владимир Маркин
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17121
+  date: '2011-04-08'
+  time: '23:00'
+  band_name: Кадникофф бэнд
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17123
+  date: '2011-04-10'
+  time: '21:00'
+  band_name: "Большой блюзовый  джем с \r\n                                      \
+    \                                          группой  Dynamic James"
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 17116
+  date: '2011-04-04'
+  time: '21:00'
+  band_name: Олег Кролл
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17118
+  date: '2011-04-06'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17120
+  date: '2011-04-08'
+  time: '21:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17122
+  date: '2011-04-09'
+  time: '21:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17400
+  date: '2011-04-27'
+  time: '21:00'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 300 р.
+- id: 17182
+  date: '2011-04-22'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17499
+  date: '2011-05-08'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  price: 300 руб.
+- id: 17859
+  date: '2011-04-18'
+  time: '21:00'
+  band_name: Олег Кролл (фортепиано)
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17888
+  date: '2011-04-20'
+  time: '21:00'
+  band_name: Real jam
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17892
+  date: '2011-04-24'
+  time: '19:00'
+  band_name: Dynamic James, джем
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 17895
+  date: '2011-04-28'
+  time: '21:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17896
+  date: '2011-04-29'
+  time: '21:00'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17897
+  date: '2011-05-01'
+  time: '21:00'
+  band_name: JackKnife Rockabilly Trio
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17899
+  date: '2011-05-03'
+  time: '21:00'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17900
+  date: '2011-05-04'
+  time: '21:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17905
+  date: '2011-05-09'
+  time: '21:00'
+  band_name: Время
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17891
+  date: '2011-04-23'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17893
+  date: '2011-04-25'
+  time: '21:00'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17902
+  date: '2011-05-06'
+  time: '21:00'
+  band_name: Петр Подгородецки и Х.О.
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17903
+  date: '2011-05-07'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17906
+  date: '2011-05-10'
+  time: '21:00'
+  band_name: Олег Кролл
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18073
+  date: '2011-04-22'
+  time: '23:00'
+  band_id: 339
+  band_name: Оптимальный Вариант
+  band_token: optimal-variant
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17869
+  date: '2011-04-19'
+  time: '21:00'
+  band_name: Classy jazz
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17889
+  date: '2011-04-21'
+  time: '21:00'
+  band_id: 320
+  band_name: Ногу свело!
+  band_token: nogu-svelo
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17890
+  date: '2011-04-22'
+  time: '21:00'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 17894
+  date: '2011-04-26'
+  time: '21:00'
+  band_name: Трио Олега Кролла
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 17901
+  date: '2011-05-05'
+  time: '21:00'
+  band_name: Pete Jason
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18221
+  date: '2011-04-30'
+  time: '23:00'
+  band_name: Время
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18232
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Алик Сикорский и Старая гвардия
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 85
+    name: Старая Гвардия
+    token: staraya-guardia
+- id: 18629
+  date: '2011-05-01'
+  time: '23:00'
+  band_name: Longplay
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18543
+  date: '2011-05-26'
+  time: '21:00'
+  band_name: 'Леван Ломидзе: The Beatles глазами звезд московского блюза'
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 18670
+  date: '2011-05-20'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18686
+  date: '2011-05-10'
+  time: '19:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18688
+  date: '2011-05-11'
+  time: '21:00'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18705
+  date: '2011-05-12'
+  time: '21:00'
+  band_name: Maximus Band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18724
+  date: '2011-05-14'
+  time: '23:00'
+  band_name: Сборная СССР
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18734
+  date: '2011-05-14'
+  time: '21:00'
+  band_name: Александр Иванов и Рондо
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18746
+  date: '2011-05-15'
+  time: '21:00'
+  band_id: 250
+  band_name: Cpt.Nemoff Blues Trio
+  band_token: evgeny-nemov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18618
+  date: '2011-05-09'
+  time: '23:00'
+  band_name: ПА-RUS
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18884
+  date: '2011-05-13'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 18886
+  date: '2011-05-13'
+  time: '23:00'
+  band_name: Время
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18895
+  date: '2011-05-15'
+  time: '23:00'
+  band_name: Классный час
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18590
+  date: '2011-05-05'
+  time: '23:00'
+  band_name: Группа Григория Горцева
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18595
+  date: '2011-05-06'
+  time: '23:00'
+  band_name: Boogie Bottle
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18597
+  date: '2011-05-07'
+  time: '23:00'
+  band_name: ПА-RUS
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 18617
+  date: '2011-05-08'
+  time: '23:00'
+  band_name: Longplay
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19120
+  date: '2011-05-16'
+  time: '21:00'
+  band_name: Игорь Лямцев
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19127
+  date: '2011-05-18'
+  time: '21:00'
+  band_name: Дмитрий Малолетов, DM Blues Jam
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+- id: 19142
+  date: '2011-05-19'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19146
+  date: '2011-05-19'
+  time: '23:00'
+  band_name: Сборная СССР
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19150
+  date: '2011-05-21'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19161
+  date: '2011-05-20'
+  time: '23:00'
+  band_name: Классный час
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19162
+  date: '2011-05-20'
+  time: '23:00'
+  band_name: The Champions
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19173
+  date: '2011-05-21'
+  time: '23:00'
+  band_name: Prime Time
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19184
+  date: '2011-05-22'
+  time: '20:00'
+  band_name: Группа Григория Горцева
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19557
+  date: '2011-05-30'
+  time: '21:00'
+  band_name: Олег Кролл (фортепиано)
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19566
+  date: '2011-05-31'
+  time: '21:00'
+  band_name: Groovy Acoustic Duet
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19496
+  date: '2011-05-25'
+  time: '21:00'
+  band_id: 250
+  band_name: Cpt.Nemoff Blues Trio
+  band_token: evgeny-nemov
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19527
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 19531
+  date: '2011-05-27'
+  time: '23:00'
+  band_name: Сборная СССР
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 19533
+  date: '2011-05-28'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 22588
+  date: '2011-11-17'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman
+- id: 22792
+  date: '2011-11-03'
+  time: '21:00'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 155
+  club_name: Джазман
+  club_token: jazzman

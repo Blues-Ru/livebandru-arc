@@ -1,0 +1,54 @@
+- id: 59278
+  date: '2016-06-12'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Я.П.-О.Н. (норвежский джаз);
+    Ансамбль Михаила Костюшкина; "Хармс.док"'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome
+  extra_bands:
+  - id: 355
+    name: Михаил Костюшкин и его ансамбль
+    token: kostushkin
+- id: 59279
+  date: '2016-06-18'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Густой Кабак Диксиленд; Миханди
+    Хасан (Индия)'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome
+- id: 59280
+  date: '2016-06-19'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Polly Quartet; Трио Волков-Кондаков-Гайворонский'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome
+- id: 59275
+  date: '2016-06-04'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Квартет Аллы Туровской, Swing
+    Couture'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 59276
+  date: '2016-06-05'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Секстет Анны Колчиной; Трио
+    "Лойко"'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome
+- id: 59277
+  date: '2016-06-11'
+  time: '19:00'
+  band_name: 'Фестиваль "Музыкальный Бродский Drive": Vaida Motors; Juniper'
+  club_id: 844
+  club_name: Музей Анны Ахматовой в Фонтанном Доме
+  club_token: muzej-anny-akhmatovoj-v-fontannom-dome

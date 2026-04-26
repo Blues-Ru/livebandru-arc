@@ -1,0 +1,102 @@
+- id: 70428
+  date: '2018-02-09'
+  time: '20:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 71312
+  date: '2018-03-08'
+  time: '20:00'
+  band_name: Шанна Уотерстоун
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 71313
+  date: '2018-03-11'
+  time: '20:00'
+  band_name: Ольга Арефьева
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 149
+    name: Ольга Арефьева и "Ковчег"
+    token: ark
+- id: 71314
+  date: '2018-03-29'
+  time: '20:00'
+  band_name: 'Блюзовый четверг: Clap Tone, Grinevich Band'
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 71315
+  date: '2018-03-31'
+  time: '18:00'
+  band_name: Insula
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 71316
+  date: '2018-04-07'
+  time: '21:00'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 71509
+  date: '2018-04-01'
+  time: '19:00'
+  band_id: 629
+  band_name: Guy Davis
+  band_token: guy-davis
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 72050
+  date: '2018-04-27'
+  time: '20:00'
+  band_name: Milena Barrett & Wolf Mail
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 120
+    name: Wolf Mail
+    token: wolf-mail
+- id: 72582
+  date: '2018-05-17'
+  time: '20:00'
+  band_name: Lil' Jimmy Reed (США)
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 72583
+  date: '2018-05-08'
+  time: '20:00'
+  band_name: NSK Hot Club Band
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 74241
+  date: '2018-09-23'
+  time: '19:00'
+  band_id: 766
+  band_name: Chris Cain
+  band_token: chris-cain
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 75576
+  date: '2018-12-02'
+  time: '19:00'
+  band_id: 561
+  band_name: Jose Luis Pardo
+  band_token: jose-luis-pardo
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka

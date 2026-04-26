@@ -1,0 +1,52 @@
+id: 748
+token: zoe-schwarz
+name: Zoe Schwarz
+aliases: Zoe Schwarz Blue Commotion
+alive: true
+url: https://www.bluecommotion.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Zoe Schwarz
+  instruments: vocal
+- name: Rob Koral
+  instruments: guitar
+clips:
+- id: 8931
+  type: photo
+  url: zoe-schwarz.jpg
+  sort_order: 0
+  width: 1000
+  height: 1000
+- id: 8930
+  type: weblink
+  url: https://www.bluecommotion.com/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 489
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'ZOE SCHWARZ - лидер-вокалист, ROB KORAL - гитарист и композитор группы Zoe
+    Schwarz Blue Commotion, одной из самых заметных блюзовых групп на британской сцене.
+    И группа, и вокалистка Зои Шварц - многократные номинанты на British Blues Awards
+    и другие престижные британские и европейские блюзовые премии. В феврале 2018 и
+    группа, сама Зои - вновь номинированы на новую награду UK BLUES Awards''2018.
+
+
+    За неполных семь лет группа выпустила семь альбомов и три EP, восторженно принятных
+    и критиками, и публикой, каждый из которых достигал высших строчек в рейтинге
+    IBBA (Ассоциации Независимых Радиовещателей Британии)
+
+
+    Критик журнала Blues Matters! написал о них: "ZSBC за последние пять лет произвели
+    форменную революцию на британской блюзовой сцене, освежив жанр собствнным песенным
+    материалом и новаторскими аранжировками, а Зои - это просто чудо!"
+
+
+    Это - их первый визит в Россию. Не пропустите!'
+  verified: true
+  created: '2018-03-13'
+  is_press_release: true

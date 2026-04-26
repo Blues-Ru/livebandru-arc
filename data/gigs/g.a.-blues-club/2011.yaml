@@ -1,0 +1,391 @@
+- id: 16255
+  date: '2011-03-11'
+  time: '21:00'
+  band_id: 30
+  band_name: Underground Sunburn
+  band_token: underground-sunburn
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20348
+  date: '2011-06-11'
+  time: '20:30'
+  band_name: Marat Dakota Band и Eirik Bergene
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  extra_bands:
+  - id: 169
+    name: Marat Dakota Band
+    token: marat-dakota
+  - id: 103
+    name: Eirik Bergene
+    token: eirik-bergene
+- id: 20570
+  date: '2011-06-26'
+  time: '20:30'
+  band_name: Blues Angels
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20571
+  date: '2011-06-27'
+  time: '20:30'
+  band_id: 25
+  band_name: Splash Point
+  band_token: splash-point
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20565
+  date: '2011-06-21'
+  time: '20:30'
+  band_name: Soul Garden
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20566
+  date: '2011-06-22'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20567
+  date: '2011-06-23'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20568
+  date: '2011-06-24'
+  time: '20:30'
+  band_id: 499
+  band_name: BoomBoomVermouth
+  band_token: b-b-vermouth
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20569
+  date: '2011-06-25'
+  time: '20:30'
+  band_id: 169
+  band_name: Marat Dakota Band
+  band_token: marat-dakota
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20572
+  date: '2011-06-28'
+  time: '20:30'
+  band_id: 500
+  band_name: The Jet's
+  band_token: jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20573
+  date: '2011-06-29'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+- id: 20720
+  date: '2011-07-01'
+  time: '20:30'
+  band_id: 499
+  band_name: BoomBoomVermouth
+  band_token: b-b-vermouth
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20723
+  date: '2011-07-03'
+  time: '20:30'
+  band_name: Blues Angels
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20724
+  date: '2011-07-04'
+  time: '20:30'
+  band_name: Soul Garden
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: Soul, R&B.
+- id: 20726
+  date: '2011-07-06'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: Blues-Rock
+- id: 20727
+  date: '2011-07-07'
+  time: '20:30'
+  band_id: 497
+  band_name: Ольга Пономарева
+  band_token: olga-ponomareva
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20728
+  date: '2011-07-08'
+  time: '20:30'
+  band_name: Генслер Блюз Бенд
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20729
+  date: '2011-07-10'
+  time: '20:30'
+  band_name: Данило Картиа (Danilo Cartia)
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+  comments: Италия, BLUEGRASS
+- id: 20731
+  date: '2011-07-11'
+  time: '20:30'
+  band_id: 25
+  band_name: Splash Point
+  band_token: splash-point
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20732
+  date: '2011-07-12'
+  time: '20:30'
+  band_name: Blues Juice
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20733
+  date: '2011-07-13'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20734
+  date: '2011-07-14'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20735
+  date: '2011-07-15'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20736
+  date: '2011-07-16'
+  time: '20:30'
+  band_id: 498
+  band_name: Александровский Band
+  band_token: alexandrovsky
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20737
+  date: '2011-07-17'
+  time: '20:30'
+  band_name: Blues Angels
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20738
+  date: '2011-07-18'
+  time: '20:30'
+  band_name: Blues Jam
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: Blues, R&B
+- id: 20739
+  date: '2011-07-19'
+  time: '20:30'
+  band_name: Soul Garden
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: Soul, R&B.
+- id: 20740
+  date: '2011-07-20'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20741
+  date: '2011-07-21'
+  time: '20:30'
+  band_id: 500
+  band_name: The Jet's
+  band_token: jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20743
+  date: '2011-07-22'
+  time: '20:30'
+  band_id: 169
+  band_name: Marat Dakota Band
+  band_token: marat-dakota
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20744
+  date: '2011-07-23'
+  time: '20:30'
+  band_id: 30
+  band_name: Underground Sunburn
+  band_token: underground-sunburn
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+- id: 20745
+  date: '2011-07-24'
+  time: '20:30'
+  band_name: Blues Angels
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+  comments: Soul, R&B.
+- id: 20746
+  date: '2011-07-25'
+  time: '20:30'
+  band_id: 25
+  band_name: Splash Point
+  band_token: splash-point
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20747
+  date: '2011-07-26'
+  time: '20:30'
+  band_id: 493
+  band_name: Евгений Ламба Бэнд
+  band_token: lamba
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20748
+  date: '2011-07-27'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20749
+  date: '2011-07-28'
+  time: '20:30'
+  band_id: 165
+  band_name: Contrast Blues Band
+  band_token: contrast-b-b
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20750
+  date: '2011-07-29'
+  time: '20:30'
+  band_name: RoadHouse Band
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+  comments: Blues, Rock.
+- id: 20751
+  date: '2011-07-30'
+  time: '20:30'
+  band_name: Ольга Пономарева, Black & White
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.
+  extra_bands:
+  - id: 497
+    name: Ольга Пономарева
+    token: olga-ponomareva
+  - id: 496
+    name: Black & White
+    token: black-n-white
+- id: 20719
+  date: '2011-06-30'
+  time: '20:30'
+  band_name: Blues Juice
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+- id: 20725
+  date: '2011-07-05'
+  time: '20:30'
+  band_id: 500
+  band_name: The Jet's
+  band_token: jets
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 200 руб.
+  comments: Blues, Blues-Rock
+- id: 20722
+  date: '2011-07-02'
+  time: '20:30'
+  band_id: 498
+  band_name: Александровский Band
+  band_token: alexandrovsky
+  club_id: 37
+  club_name: G.A. Blues Club
+  club_token: g.a.-blues-club
+  price: 250 руб.

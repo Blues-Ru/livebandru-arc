@@ -1,0 +1,46 @@
+id: 419
+token: blues-train
+name: Blues Train
+alive: false
+url: http://vkontakte.ru/club200911
+city_id: 7
+genre_id: 1
+musicians:
+- name: Александр Сомов
+  instruments: гитара
+- name: Святослав Авилов
+  instruments: вокал
+- name: Никита Дашинцев
+  instruments: губная гармоника
+- name: Андрей Зарецкий
+  instruments: бас
+- name: Дмитрий Никуличев
+  instruments: ударные
+clips:
+- id: 1935
+  type: youtube
+  url: http://www.youtube.com/?v=OxJZeUyS95Q
+  name: Max Tavrichesky Jam with Blues Train - Stormy monday
+  comments: Live In BARak O'MAMA (Воронеж 25 марта 2011)
+  sort_order: 0
+- id: 1937
+  type: photo
+  url: blues-train.jpg
+  sort_order: 0
+  width: 604
+  height: 442
+- id: 1934
+  type: weblink
+  url: http://vkontakte.ru/club200911
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 127
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Коллектив уходит корнями в чикагский блюз 50х, смешивая классические блюзы,
+    буги с рокнролльной подачей и драйвом.
+  verified: true
+  created: '2011-03-31'
+  is_press_release: true

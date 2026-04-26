@@ -1,0 +1,35 @@
+id: 128
+token: gogol
+name: Gogol
+aliases: 'Гоголь
+
+  Gogol'''
+alive: true
+address: Столешников пер., 11
+subway: Кузнецкий Мост, Чеховская, Трубная
+phone: (495) 514 09 44
+city_id: 1
+clips:
+- id: 35
+  type: weblink
+  url: http://www.gogolclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 446
+  type: rss
+  url: http://community.livejournal.com/gogolclub/data/rss
+  sort_order: 199
+- id: 445
+  type: rss
+  url: http://gogolclubs.livejournal.com/data/rss
+  sort_order: 99
+- id: 447
+  type: weblink
+  url: http://vk.com/id61264383
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 448
+  type: weblink
+  url: http://vk.com/club4532011
+  name: Группа ВКонтакте
+  sort_order: 200

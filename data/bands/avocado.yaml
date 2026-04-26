@@ -1,0 +1,138 @@
+id: 569
+token: avocado
+name: Avocado Band
+aliases: АВОКАДО БАНД
+alive: true
+url: http://www.avocadoband.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 18
+musicians:
+- name: Александра Есакова
+  instruments: вокал
+- name: Виктор Галкин
+  instruments: аккордеон
+- name: Павел Власов
+  instruments: гитара
+- name: Андрей Артемов
+  instruments: бас
+- name: Сергей Гевший
+  instruments: барабаны
+clips:
+- id: 3192
+  type: weblink
+  url: http://www.avocadoband.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3193
+  type: weblink
+  url: http://vk.com/club5930261
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 4787
+  type: photo
+  url: avocado-3.jpg
+  sort_order: 200
+  width: 804
+  height: 1200
+- id: 4788
+  type: photo
+  url: avocado-4.jpg
+  sort_order: 300
+  width: 1200
+  height: 801
+- id: 4789
+  type: photo
+  url: avocado-5.jpg
+  sort_order: 400
+  width: 1200
+  height: 804
+- id: 4790
+  type: photo
+  url: avocado-6.jpg
+  sort_order: 500
+  width: 1200
+  height: 804
+- id: 4792
+  type: photo
+  url: avocado-8.jpg
+  sort_order: 700
+  width: 801
+  height: 1200
+- id: 4780
+  type: photo
+  url: avocado.jpg
+  sort_order: 0
+  width: 969
+  height: 1200
+- id: 4781
+  type: photo
+  url: avocado-2.jpg
+  sort_order: 100
+  width: 1200
+  height: 959
+- id: 4783
+  type: youtube
+  url: http://www.youtube.com/?v=qRPVFLhN1Rk
+  name: Эй моряк, ты слишком долго плавал (Песня о морском дъяволе) - AVOCADO BAND
+  comments: День независимости России,  Москва, ЦПКиО им. Горького, Нескучный Сад,
+    Ротонда 800летия города Москвы(1947г.)
+  sort_order: 199
+- id: 4784
+  type: youtube
+  url: http://www.youtube.com/?v=8xt5w3cDyxk
+  name: Темно вишневая шаль  - AVOCADO BAND - Moscow Flower Show 18.06.2013
+  comments: Москва. -  ЦПКиО им. Горького -  Moscow Flower Show 18.06.2013 слова  Владимир
+    Бакалейниковмузыка Владимир Бакалейников/Андрей Артемов (Обработка на 4/4 и аранжировка)
+  sort_order: 299
+- id: 4785
+  type: youtube
+  url: http://www.youtube.com/?v=HhkQmPMyjPM
+  name: Шоколад -  AVOCADO BAND - "Фестиваль Городских Романтиков" 2013
+  comments: 8.09.2013 Москва." День Города" - Фестиваль Городских Романтиков - 2013Музыка
+    Андрей Артемовслова. Людмила КириевскаяГоворил мне мой любимый,Что я лучше всех
+    вокруг.Что умнее и прекраснейВсех кр
+  sort_order: 399
+- id: 4786
+  type: youtube
+  url: http://www.youtube.com/?v=Za4qtnm1tw8
+  name: That's All Right Mama - AVOCADO BAND -  Журфак Кафе(20/09/2013)
+  sort_order: 499
+- id: 4791
+  type: photo
+  url: avocado-7.jpg
+  sort_order: 600
+  width: 801
+  height: 1200
+- id: 4793
+  type: photo
+  url: avocado-9.jpg
+  sort_order: 800
+  width: 801
+  height: 1200
+reviews:
+- id: 295
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Стильный Московский (вокально-инструментальный, калорийно - диетический,
+    генетически не модифицированный, эстрадно не симфонически - джазовый, рафинированно
+    - не пастеризованный, культурно - дикорастущий) ретро-джаз ансамбль АВОКАДО БАНД
+    исполняет авторскую и не авторскую, авторски аранжированную и уникально инструментованную
+    танцевальную музыку джазового характера. Мастерски вплетая Swing и Latino в различные
+    стили, эпохи и направления. Иностранные поклонники коллектива формулируют стиль
+    группы как: Russian and American swing music. Инструментальный состав: вокал,
+    гитара, аккордеон, контрабас (бас-гитара), барабаны.
+
+
+    Дискография: АВОКАДО БАНД - МоскваBillyГрад- 2012
+
+
+    AVOCADO BAND называют свой собственный стиль замысловатым словосочетанием Moscowbilly
+    - "Jazz - Blues - Swing - Twist - Rock & Roll & Billy" - смешение самых популярных
+    музыкальных стилей середины ХХ-го века. Феерический коктейль танцевальных ритмов:
+    здесь и гангстерский свинг 40-х., зажигательные рок-н-роллы 50-х, задорные твисты
+    60-х, душевный блюз, и отвязное кантри. /Журнал "Московский музыкант"/'
+  verified: true
+  created: '2012-05-27'
+  is_press_release: true

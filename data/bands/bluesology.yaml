@@ -1,0 +1,36 @@
+id: 391
+token: bluesology
+name: Bluesology
+alive: true
+city_id: 15
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Георгий Щегольский
+  instruments: губная гармоника, саксофон
+- name: Максим Затынин
+  instruments: клавишные
+- name: Jazz Cat
+  instruments: бас
+- name: Александр Крыжановский
+  instruments: ударные
+- name: Юлия Мельник
+  instruments: вокал
+clips:
+- id: 1722
+  type: weblink
+  url: http://vk.com/club22104325
+  name: Страница ВКонтакте
+  sort_order: 99
+reviews:
+- id: 110
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Приглушенный свет, расслабляющая обстановка, запах кофе и табака, приятный
+    звук и музыка, которая доставляет наслаждение, вдохновение, эмоции душе и разуму.
+    Именно для такой музыки создана группа Bluesology. Мы стараемся сочетать такие
+    стили как блюз, джаз и соул, делать качественную и интеллектуальную музыку.
+  verified: true
+  created: '2011-02-23'
+  is_press_release: true

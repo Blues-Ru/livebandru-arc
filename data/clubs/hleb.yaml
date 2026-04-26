@@ -1,0 +1,18 @@
+id: 451
+token: hleb
+name: Хлеб
+alive: true
+address: Звенигородское ш., 11
+phone: +7 (968) 865-9716
+city_id: 1
+clips:
+- id: 2121
+  type: weblink
+  url: http://www.clubhleb.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2122
+  type: weblink
+  url: http://vk.com/club19979063
+  name: Страница ВКонтакте
+  sort_order: 100

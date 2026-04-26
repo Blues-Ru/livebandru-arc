@@ -1,0 +1,14 @@
+id: 338
+token: medvezhy-ugol
+name: Медвежий Угол
+alive: true
+url: http://www.ugol.su/
+city_id: 10
+genre_id: 11
+secondary_genre_id: 4
+clips:
+- id: 1327
+  type: weblink
+  url: http://www.ugol.su/
+  name: Официальный сайт
+  sort_order: 99

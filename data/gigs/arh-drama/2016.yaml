@@ -1,0 +1,33 @@
+- id: 58864
+  date: '2016-05-30'
+  time: '19:00'
+  band_name: 'XI Arkhangelsk Blues Festival: Big Band (Архангельский Музыкальный Колледж)
+    п/у Георгия Стрелкова; Гия Дзагнидзе (гитара, вокал), Александр Гуреев (саксофон),
+    Алексей Круглов (саксофон) - Москва; Guitar Summit (Архангельск-Москва-Вологда);
+    Franck Ash (вокал, гитара - Англия) & Blues Band (Архангельск)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+  - id: 607
+    name: Franck Ash
+    token: franck-ash
+- id: 58919
+  date: '2016-05-31'
+  time: '19:00'
+  band_name: 'XI Arkhangelsk Blues Festival: Elena Bazano (вокал - ОАЭ), Alik Shihiyev
+    (гитара - США) & Blues Band (Архангельск); Jose Luis Pardo (вокал, гитара - Аргентина)
+    & Blues Band (Архангельск); Kenny "Blues Boss" Wane (США) & Blues Band (Москва)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo

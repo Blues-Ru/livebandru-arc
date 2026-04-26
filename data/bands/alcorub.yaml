@@ -1,0 +1,72 @@
+id: 625
+token: alcorub
+name: Alcorub Band
+alive: true
+url: http://vk.com/alcorub_band
+city_id: 19
+genre_id: 1
+secondary_genre_id: 10
+musicians:
+- name: Михаил Атласов
+  instruments: вокал
+- name: Арсений Брагинский
+  instruments: гитара
+clips:
+- id: 4337
+  type: mp3
+  url: alcorub.mp3
+  name: Alcorub Band - Shake it and break it
+  sort_order: 99
+- id: 4338
+  type: mp3
+  url: alcorub-2.mp3
+  name: Alcorub Band - Devil Got My Woman
+  sort_order: 50
+- id: 4336
+  type: weblink
+  url: http://vk.com/alcorub_band
+  name: Официальный сайт
+  sort_order: 0
+- id: 4342
+  type: youtube
+  url: http://www.youtube.com/?v=GLY_9ppvR9I
+  name: Alcorub Band - Moon Goin' Down
+  comments: ''
+  sort_order: 299
+- id: 4340
+  type: youtube
+  url: http://www.youtube.com/?v=rctqoBt_k1w
+  name: Alcorub Band - Devil Got My Woman
+  comments: ''
+  sort_order: 99
+- id: 4335
+  type: weblink
+  url: http://vk.com/alcorub_band
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 4339
+  type: photo
+  url: alcorub.jpg
+  sort_order: 0
+  width: 1280
+  height: 853
+- id: 4844
+  type: mp3
+  url: alcorub-4.mp3
+  name: Dharma Blues
+  sort_order: 25
+- id: 4538
+  type: youtube
+  url: http://www.youtube.com/?v=QTM-kqGfx88
+  name: Alcorub Band @ "Na chemodanah" (Tomsk) 2013 Live
+  comments: 'Клип-квартирник Alcorub Band в г.Томск в арт-хостеле "На Чемоданах".
+
+
+    "-- Валяй дальше, все, что ты делаешь, -- клево. -- Он заглядывал мне через плечо,
+    когда я писал свои рассказы, и вопил: -- Да! Та'
+  sort_order: 0
+- id: 4532
+  type: mp3
+  url: alcorub-3.mp3
+  name: Black Bone Blues
+  sort_order: 0

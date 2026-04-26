@@ -1,0 +1,14 @@
+id: 910
+token: centr-sovremennogo-iskusstva-mars
+name: Центр современного искусства МАРС
+alive: true
+address: Пушкарев переулок, дом 5
+subway: Трубная, Сухаревская
+phone: +7(495)623-66-90
+city_id: 1
+clips:
+- id: 9383
+  type: weblink
+  url: http://centermars.ru
+  name: Официальный сайт
+  sort_order: 0

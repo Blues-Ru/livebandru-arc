@@ -1,0 +1,31 @@
+id: 322
+token: funkyfresh
+name: Funky Fresh
+alive: true
+url: http://www.funkyfresh.com.ua
+city_id: 14
+genre_id: 2
+secondary_genre_id: 3
+musicians:
+- name: Юлия Мандич
+  instruments: вокал
+- name: Виталий Лосев
+  instruments: клавишные
+- name: Михаил Толстолуцкий
+  instruments: бас
+- name: Тимофей Лосев
+  instruments: вокал, гитара
+- name: Роман Лебедев
+  instruments: ударные
+clips:
+- id: 1218
+  type: youtube
+  url: http://www.youtube.com/?v=yyqvspXeKCk
+  name: Jazz demo
+  sort_order: 0
+- id: 1219
+  type: photo
+  url: funkyfresh.jpg
+  sort_order: 0
+  width: 1024
+  height: 685

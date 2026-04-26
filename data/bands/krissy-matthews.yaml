@@ -1,0 +1,78 @@
+id: 667
+token: krissy-matthews
+name: Krissy Matthews
+alive: true
+url: http://www.krissymatthews.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Алексей Тишин
+  instruments: бас
+- name: Илья Липатов
+  instruments: барабаны
+clips:
+- id: 9353
+  type: youtube
+  url: https://www.youtube.com/watch?v=KOGVy9Yvl8I
+  sort_order: 200
+- id: 8715
+  type: weblink
+  url: http://www.krissymatthews.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 9352
+  type: youtube
+  url: https://www.youtube.com/watch?v=s-8xk3XXC5I
+  sort_order: 100
+- id: 9351
+  type: youtube
+  url: https://www.youtube.com/watch?v=-ekSsEzs3UU
+  name: Krissy Matthews - Soul will never die - live for Bluesmoose radio
+  comments: 'Krissy Matthews - Soul will never die - live for Bluesmoose radio - recorded
+    7 march 2018.
+
+
+    Krissy Matthews: vocals, guitar
+
+    Sam Weston: Vocals , bass
+
+    Kev Hickman: drums
+
+
+    http://www.krissymatthews.com/'
+  sort_order: 0
+reviews:
+- id: 480
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Тридцатилетний KRISSY MATTHEWS - один из британских блюзовых вундеркиндов,
+    про которого, рецензируя его альбом 2011 года Hit the Rock, обозреватель журнала
+    Classic ROCK Генри Йейтс писал: "Чертов Krissy Matthews! Будь ты проклят! Будь
+    проклята твоя англо-скандинавская красота, твоя молодость и не в меру развившийся
+    талант! Этот музыкант все еще подросток, но в тонкой текстуре Back on the Road
+    и в виртуозном соло Tell Me чувствуется потенциал зрелого мужчины. Правда над
+    текстами надо еще поработать - но это дело наживное. В Time Machine он вообразил,
+    что перенесся в 1966 год - результат просто поражает!"
+
+
+    Krissy впервые вышел на сцену с отцом в возрасте трех лет, в 13 лет(!) записал
+    первый альбом. Всего на сегодняшний день их вышло уже семь! Причем последние четыре
+    стабильно входили в 50 Blues Albums of the Year по версии журнала Classic ROCK.
+
+
+    Начиная с 2010 года он играл на разогреве у Tedeschi Trucks Band, Gregg Allman,
+    Beth Hart, Los Lobos и Ten Years After.
+
+
+    Впервые Крисси приезжал в Россию в конце ноября 2017 года и отыграл четыре концерта
+    с 28 ноября по 3 декабря, причем на последнем концерте в JAM-Club''e к нему присоединились
+    ветеран блюзовой сцены России Сергей Воронов и владелец клуба, легендарный Андрей
+    Макаревич!
+
+
+    Второй российский тур Крисси состоится в апреле 2022 года. Не пропустите!'
+  verified: true
+  created: '2017-07-10'
+  is_press_release: true

@@ -1,0 +1,27 @@
+id: 756
+token: lovernr
+name: '"Любовь и Рок-н-Ролл"'
+alive: true
+url: https://www.facebook.com/groups/1243307639129160/
+city_id: 2
+genre_id: 8
+secondary_genre_id: 6
+musicians:
+- name: Holy Blacksmith (Ольга Кузнецова)
+  instruments: вокал
+- name: Анна Штейн
+  instruments: вокал
+- name: Геннадий Выборов
+  instruments: гитара
+clips:
+- id: 8801
+  type: photo
+  url: lovernr.jpg
+  sort_order: 0
+  width: 960
+  height: 960
+- id: 8796
+  type: weblink
+  url: https://www.facebook.com/groups/1243307639129160/
+  name: Страница на FaceBook
+  sort_order: 0

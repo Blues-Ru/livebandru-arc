@@ -1,0 +1,18 @@
+id: 403
+token: gindenburg-blues
+name: Гинденбург Блюз
+alive: true
+city_id: 31
+genre_id: 16
+secondary_genre_id: 3
+clips:
+- id: 1814
+  type: weblink
+  url: http://www.myspace.com/gindenburgblues
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1815
+  type: weblink
+  url: http://vk.com/club3949566
+  name: Страница ВКонтакте
+  sort_order: 199

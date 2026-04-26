@@ -1,0 +1,165 @@
+- id: 13232
+  date: '2010-10-15'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 300 руб.
+- id: 13384
+  date: '2010-11-12'
+  time: '21:00'
+  band_name: Леван Ломидзе, Дмитрий Малолетов, Дмитрий Четвергов
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 1000 руб
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 13973
+  date: '2010-12-10'
+  time: '19:00'
+  band_name: Victor Olden
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 200 руб.
+- id: 13975
+  date: '2010-12-17'
+  time: '22:00'
+  band_name: Никольский-Кривошеин
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 300 руб.
+- id: 13976
+  date: '2010-12-18'
+  time: '13:00'
+  band_name: 34-ый слет "Харперов"
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: бесплатный
+- id: 13855
+  date: '2010-11-20'
+  time: '23:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: от 1.500 руб до 3.000 руб
+- id: 13972
+  date: '2010-12-03'
+  time: '22:00'
+  band_name: Юджин
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 300 руб.
+- id: 13974
+  date: '2010-12-11'
+  time: '22:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 300 руб.
+- id: 13977
+  date: '2010-12-18'
+  time: '20:00'
+  band_name: 'Прайс и гости: блюзовый джем'
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 200 руб.
+- id: 12095
+  date: '2010-05-20'
+  band_name: Концерт-открытие клуба
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+- id: 12096
+  date: '2010-05-21'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+- id: 12097
+  date: '2010-05-15'
+  band_id: 130
+  band_name: СЛиП
+  band_token: slip
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+- id: 12148
+  date: '2010-06-26'
+  time: '22:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+- id: 12793
+  date: '2010-09-10'
+  time: '22:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 500 руб.
+- id: 12613
+  date: '2010-09-24'
+  time: '22:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+- id: 12794
+  date: '2010-09-17'
+  time: '22:00'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 300 руб.
+- id: 12792
+  date: '2010-09-03'
+  time: '22:00'
+  band_name: Юрий Каверкин и Dirty Dozen
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues
+  price: 500 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 13220
+  date: '2010-10-14'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 156
+  club_name: Шанхай Блюз
+  club_token: shanghai-blues

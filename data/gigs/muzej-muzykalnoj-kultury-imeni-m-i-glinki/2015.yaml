@@ -1,0 +1,43 @@
+- id: 49136
+  date: '2015-01-24'
+  time: '19:00'
+  band_name: 'Абонемент №17 "Вечер в стиле джаз": Квартет Ивана Фармаковского'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 49759
+  date: '2015-02-21'
+  time: '19:00'
+  band_name: Экзотик-Бэнд Олега Киреева и специальные гости из Сенегала и Гвинеи
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+- id: 50352
+  date: '2015-03-21'
+  time: '19:00'
+  band_name: 'Вечер в стиле джаз: Алексей Подымкин (фортепиано), Яков Окунь (фортепиано),
+    Алина Ростоцкая (вокал), Максим Шибин (гитара), Сергей Баулин (тенор-саксофон),
+    Давид Ткебучава (ударные), Сергей Корчагин (контрабас)'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 50514
+  date: '2015-04-04'
+  time: '19:00'
+  band_name: 'Абонемент № 15 "Встречи с Олегом Киреевым": Квартет Олега Киреева (саксофон)
+    с программой "Джазовый калейдоскоп"'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev

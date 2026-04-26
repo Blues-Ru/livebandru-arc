@@ -1,0 +1,43 @@
+id: 533
+token: dehrril-kholl
+name: Дэррил Холл
+alive: true
+genre_id: 2
+musicians:
+- name: Дэррил Холл
+  instruments: контрабас
+clips:
+- id: 2490
+  type: photo
+  url: dehrril-kholl.jpg
+  sort_order: 0
+  width: 213
+  height: 213
+- id: 2489
+  type: youtube
+  url: http://www.youtube.com/?v=YwUwSVmVIRY
+  name: Kenny Barron - Well, You Needn't (Thelonious Monk) part 2
+  comments: "Kenny Barron - Well, You Needn't (Thelonious Monk) part 2\r\nKenny Barron\
+    \ - piano\r\nDavid Sanchez - tenor sax\r\nDarryl Hall - bass\r\nJohnathan Blake\
+    \ - drums\r\nJazz in Marciac 2010"
+  sort_order: 99
+reviews:
+- id: 201
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Дэррил Холл - уникальный басист: его специальность - менеджмент, а играть
+    на контрабасе он учился самостоятельно. Тем не менее, его талант позволил ему
+    перебраться из Филадельфии в Нью-Йорк и, занимаясь на этот раз исключительно музыкой,
+    занять нишу рядом с ведущими басистами джазовой Мекки. Дэррил играл в группах
+    таких всемирно известных имен, как Хэнк Джонс, Малгрю Миллер, Кенни Баррон, Рави
+    Колтрейн, Бенни Голсон, Даян Ривз. Недавно Дэррил Холл переехал во Францию, где
+    с успехом начал пропагандировать настоящий американский джаз с влияниями фанка
+    и госпел-музыки. Несмотря на то что Ральф Бауэн, Дэррил Холл и Дональд Эдвардс
+    неоднократно выступали вместе на одной сцене, концерт в России - особенный: американцам
+    предстоит играть новые русские стандарты, а значит... Ничего стандартного ждать
+    не приходится! Когда импровизационную музыку исполняют музыканты такого уровня,
+    выступление обещает превратиться в по-настоящему захватывающее действо.'
+  verified: true
+  created: '2011-08-31'
+  is_press_release: true

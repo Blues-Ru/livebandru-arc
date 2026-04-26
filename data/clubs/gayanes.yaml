@@ -1,0 +1,14 @@
+id: 745
+token: gayanes
+name: Ресторан Gayane's
+alive: true
+address: 2-й Смоленский пер., 1/4
+subway: Смоленская
+phone: +7 (495)741-91-92
+city_id: 1
+clips:
+- id: 5019
+  type: weblink
+  url: http://gayanes.ru
+  name: Официальный сайт
+  sort_order: 0

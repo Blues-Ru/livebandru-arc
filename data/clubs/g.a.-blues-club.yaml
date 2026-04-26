@@ -1,0 +1,21 @@
+id: 37
+token: g.a.-blues-club
+name: G.A. Blues Club
+aliases: 'Блюз клуб "Литейный, 33"
+
+  Jimi Hendrix'
+alive: true
+address: Литейный пр., 33
+subway: Чернышевская
+phone: (812) 579-88-13
+city_id: 2
+clips:
+- id: 2290
+  type: weblink
+  url: http://www.hendrix-club.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2291
+  type: rss
+  url: http://www.hendrix-club.ru/events/rss/
+  sort_order: 99

@@ -1,0 +1,16 @@
+id: 72
+token: mishuris-sotovarishchi-akustika
+name: Мишурис  сотоварищи (акустика)
+alive: true
+url: http://mishouris.livejournal.com
+city_id: 1
+genre_id: 1
+references:
+- id: 18
+  name: MISHOURIS Blues
+  token: mishouris
+clips:
+- id: 263
+  type: rss
+  url: http://mishouris.livejournal.com/data/rss
+  sort_order: 0

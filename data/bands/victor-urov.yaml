@@ -1,0 +1,47 @@
+id: 378
+token: victor-urov
+name: Виктор Юров
+alive: true
+city_id: 1
+genre_id: 2
+secondary_genre_id: 3
+clips:
+- id: 1555
+  type: weblink
+  url: http://www.realmusic.ru/urov
+  sort_order: 99
+- id: 2952
+  type: photo
+  url: victor-urov.jpg
+  name: Концерт. Клуб FAQcafe..
+  sort_order: 99
+  width: 463
+  height: 346
+- id: 2953
+  type: mp3
+  url: victor-urov.mp3
+  name: Ловец жемчуга. Инструментал.
+  comments: Мужчина, погружающийся в морскую пучину или женщина, желающая обладать
+    колье? Виртуозная игра Виктора Юрова на электрогитаре, удивительного и красивого
+    произведения "Ловец жемчуга".
+  sort_order: 0
+- id: 2954
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 272
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Виктор Юров. Fusion - Jazz - Roc.
+  text: 'Виктор Юров - это стильный музыкант - виртуоз, в котором гармонично переплетаются
+    Fusion - Jazz - Rock.
+
+
+    На концерте создает изысканную музыкальную атмосферу. Он творит красивую и динамичную,
+    волнующую и романтичную музыку любящего сердца! Гитара живет свободой творчества
+    и свободой самовыражения!'
+  verified: true
+  created: '2012-02-23'
+  is_press_release: true

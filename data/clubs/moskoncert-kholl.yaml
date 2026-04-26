@@ -1,0 +1,14 @@
+id: 933
+token: moskoncert-kholl
+name: Москонцерт-Холл
+alive: true
+address: ул. Каланчевская, д. 33
+subway: Комсомольская
+phone: +7(495)680-20-49
+city_id: 1
+clips:
+- id: 10862
+  type: weblink
+  url: https://mosconcert.com
+  name: Официальный сайт
+  sort_order: 0

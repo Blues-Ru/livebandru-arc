@@ -1,0 +1,51 @@
+id: 360
+token: beat-devils
+name: Beat Devils
+alive: true
+url: http://www.beatdevils.ru
+city_id: 1
+genre_id: 9
+musicians:
+- name: Михаил Богданов
+  instruments: бас, бэк-вокал
+- name: Андрей Луговой
+  instruments: гитара, вокал
+- name: Федор Николаев
+  instruments: ударные
+clips:
+- id: 1449
+  type: weblink
+  url: http://www.beatdevils.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1451
+  type: weblink
+  url: http://vk.com/club935502
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 1452
+  type: weblink
+  url: http://www.facebook.com/pages/Beat-Devils/132318661771
+  name: Страница на FaceBook
+  sort_order: 300
+- id: 1450
+  type: weblink
+  url: http://www.myspace.com/beatdevils
+  name: Страница на MySpace
+  sort_order: 100
+- id: 1455
+  type: photo
+  url: beat-devils.jpg
+  sort_order: 0
+  width: 709
+  height: 472
+- id: 1453
+  type: weblink
+  url: http://twitter.com/Beat_Devils
+  name: Твиттер @Beat_Devils
+  sort_order: 400
+- id: 1454
+  type: weblink
+  url: http://www.youtube.com/beatdevils
+  name: Ролики на YouTube
+  sort_order: 500

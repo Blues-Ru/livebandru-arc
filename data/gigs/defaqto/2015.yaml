@@ -1,0 +1,1468 @@
+- id: 48860
+  date: '2015-01-04'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48861
+  date: '2015-01-07'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48862
+  date: '2015-01-14'
+  time: '20:00'
+  band_name: Алексей Заволокин
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48863
+  date: '2015-01-15'
+  time: '20:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48864
+  date: '2015-01-18'
+  time: '20:00'
+  band_name: Optimistic Quartet
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48865
+  date: '2015-01-21'
+  time: '20:00'
+  band_name: Open Trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48866
+  date: '2015-01-25'
+  time: '20:00'
+  band_name: Jazzmobile trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48867
+  date: '2015-01-28'
+  time: '20:00'
+  band_name: Анатолий Осипов
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48868
+  date: '2015-01-29'
+  time: '20:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 48977
+  date: '2015-01-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48978
+  date: '2015-01-20'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 48979
+  date: '2015-01-27'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 49499
+  date: '2015-02-03'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 49641
+  date: '2015-02-10'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 49642
+  date: '2015-02-17'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 49644
+  date: '2015-03-03'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 49646
+  date: '2015-02-16'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 49648
+  date: '2015-03-02'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 49649
+  date: '2015-02-04'
+  time: '20:00'
+  band_name: Michael Brecker Tribute
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 49650
+  date: '2015-02-11'
+  time: '20:00'
+  band_name: Soma Project
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 49652
+  date: '2015-02-18'
+  time: '20:00'
+  band_name: Open Trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 49653
+  date: '2015-02-25'
+  time: '20:00'
+  band_name: Ансамбль Григория Сандомирского
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 49643
+  date: '2015-02-24'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 49645
+  date: '2015-02-09'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 49647
+  date: '2015-02-23'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 49651
+  date: '2015-02-15'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50052
+  date: '2015-03-10'
+  time: '20:00'
+  band_name: Open Trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50053
+  date: '2015-03-15'
+  time: '20:00'
+  band_name: Марина Волкова
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50054
+  date: '2015-03-18'
+  time: '20:00'
+  band_name: Soma Project
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50055
+  date: '2015-03-22'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50056
+  date: '2015-03-25'
+  time: '20:00'
+  band_name: Анатолий Осипов
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50057
+  date: '2015-03-04'
+  time: '20:00'
+  band_name: John Scofield Tribute
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50058
+  date: '2015-03-16'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50059
+  date: '2015-03-23'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50060
+  date: '2015-03-30'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50061
+  date: '2015-03-17'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50062
+  date: '2015-03-24'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50063
+  date: '2015-03-31'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50526
+  date: '2015-04-08'
+  time: '20:00'
+  band_name: Екатерина Воробьева
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50517
+  date: '2015-04-20'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50518
+  date: '2015-04-27'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50519
+  date: '2015-04-07'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50520
+  date: '2015-04-14'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50521
+  date: '2015-04-21'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50522
+  date: '2015-04-28'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 50523
+  date: '2015-04-01'
+  time: '20:00'
+  band_name: Hidden trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50524
+  date: '2015-04-02'
+  time: '20:00'
+  band_name: Настя Заяц
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50525
+  date: '2015-04-05'
+  time: '20:00'
+  band_name: Tony Roulhac (США)
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50528
+  date: '2015-04-15'
+  time: '20:00'
+  band_name: Soma Project
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50532
+  date: '2015-04-29'
+  time: '20:00'
+  band_name: John Scofield Tribute
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50515
+  date: '2015-04-06'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50516
+  date: '2015-04-13'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 50527
+  date: '2015-04-12'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50529
+  date: '2015-04-19'
+  time: '20:00'
+  band_name: Квартет Никиты Кана
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50530
+  date: '2015-04-22'
+  time: '20:00'
+  band_name: Nataly Kozlova Funk Project
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 50531
+  date: '2015-04-26'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51338
+  date: '2015-05-06'
+  time: '20:00'
+  band_name: Soma Project
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51340
+  date: '2015-05-13'
+  time: '20:00'
+  band_name: Анатолий Осипов
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51341
+  date: '2015-05-17'
+  time: '20:00'
+  band_name: Dani Yard
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51342
+  date: '2015-05-20'
+  time: '20:00'
+  band_name: John Scofield tribute
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51343
+  date: '2015-05-24'
+  time: '20:00'
+  band_name: Bukanero
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51345
+  date: '2015-05-31'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51346
+  date: '2015-05-04'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 51347
+  date: '2015-05-11'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 51348
+  date: '2015-05-18'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 51352
+  date: '2015-05-26'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 51353
+  date: '2015-05-19'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 51354
+  date: '2015-05-12'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 51355
+  date: '2015-05-05'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 51356
+  date: '2015-05-14'
+  time: '20:00'
+  band_id: 227
+  band_name: Alligators
+  band_token: alligators
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51339
+  date: '2015-05-07'
+  time: '20:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51344
+  date: '2015-05-27'
+  time: '20:00'
+  band_name: Michael Brecker tribute
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 51349
+  date: '2015-05-25'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 51350
+  date: '2015-06-01'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 51351
+  date: '2015-06-02'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 54051
+  date: '2015-10-05'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54052
+  date: '2015-10-26'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54053
+  date: '2015-10-19'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54054
+  date: '2015-10-12'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54055
+  date: '2015-10-27'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 54056
+  date: '2015-10-20'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 54057
+  date: '2015-10-13'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 54058
+  date: '2015-10-06'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 54059
+  date: '2015-10-04'
+  time: '20:00'
+  band_name: Masala
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54060
+  date: '2015-10-11'
+  time: '20:00'
+  band_name: Paellera
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54061
+  date: '2015-10-14'
+  time: '20:00'
+  band_name: Катя Лесючевская
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54062
+  date: '2015-10-18'
+  time: '20:00'
+  band_name: Lisov trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54063
+  date: '2015-10-21'
+  time: '20:00'
+  band_name: Dani Yard
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54064
+  date: '2015-10-24'
+  time: '22:00'
+  band_id: 276
+  band_name: Betty Boop Lovers
+  band_token: betty-boop-lovers
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54065
+  date: '2015-10-28'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54066
+  date: '2015-10-29'
+  time: '20:00'
+  band_id: 227
+  band_name: Alligators
+  band_token: alligators
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54067
+  date: '2015-10-01'
+  time: '20:00'
+  band_name: Hula Hoop
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 54068
+  date: '2015-10-15'
+  time: '20:00'
+  band_name: Rock'n'Lora
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52106
+  date: '2015-06-03'
+  time: '20:00'
+  band_name: Djangoband
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52107
+  date: '2015-06-08'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52108
+  date: '2015-06-15'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52109
+  date: '2015-06-22'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52110
+  date: '2015-06-29'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52111
+  date: '2015-06-04'
+  time: '20:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52112
+  date: '2015-06-09'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52113
+  date: '2015-06-16'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52114
+  date: '2015-06-23'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52115
+  date: '2015-06-30'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52116
+  date: '2015-06-10'
+  time: '20:00'
+  band_name: Анатолий Осипов
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52117
+  date: '2015-06-17'
+  time: '20:00'
+  band_name: Masala
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52118
+  date: '2015-06-18'
+  time: '20:00'
+  band_name: Boozemen acoustic jam
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52119
+  date: '2015-06-21'
+  time: '20:00'
+  band_name: Blue Hat trio & Ann Solo
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52120
+  date: '2015-06-24'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52121
+  date: '2015-06-25'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52122
+  date: '2015-06-28'
+  time: '20:00'
+  band_name: Jazz band MOVE
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52555
+  date: '2015-07-06'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52556
+  date: '2015-07-13'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52557
+  date: '2015-07-20'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52558
+  date: '2015-07-27'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52559
+  date: '2015-08-03'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 52560
+  date: '2015-08-04'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52561
+  date: '2015-07-07'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52562
+  date: '2015-07-14'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52563
+  date: '2015-07-21'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52564
+  date: '2015-07-28'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 52565
+  date: '2015-07-12'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52566
+  date: '2015-07-15'
+  time: '20:00'
+  band_name: MOVE jazz band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52567
+  date: '2015-07-22'
+  time: '20:00'
+  band_name: Анатолий Осипов
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52568
+  date: '2015-07-29'
+  time: '20:00'
+  band_name: Blue Hat trio & Ann Solo
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 52569
+  date: '2015-07-26'
+  time: '20:00'
+  band_name: Завтрак у Тифани
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53209
+  date: '2015-08-16'
+  time: '20:00'
+  band_name: Lisov trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53210
+  date: '2015-08-23'
+  time: '20:00'
+  band_name: Valentin Dmitriev band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53211
+  date: '2015-08-30'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53212
+  date: '2015-08-10'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 53213
+  date: '2015-08-17'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 53214
+  date: '2015-08-24'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 53215
+  date: '2015-08-31'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 53216
+  date: '2015-09-07'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 53217
+  date: '2015-09-08'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 53218
+  date: '2015-09-01'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 53219
+  date: '2015-08-25'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 53220
+  date: '2015-08-11'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 53221
+  date: '2015-08-18'
+  time: '20:00'
+  band_name: Funk по вторникам с Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 53743
+  date: '2015-09-20'
+  time: '20:00'
+  band_name: КатринАриум
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53744
+  date: '2015-09-23'
+  time: '20:00'
+  band_name: Ксения Рубан
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 53745
+  date: '2015-09-30'
+  time: '20:00'
+  band_name: Blue hat trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54786
+  date: '2015-11-02'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54787
+  date: '2015-11-09'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54788
+  date: '2015-11-16'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54789
+  date: '2015-11-23'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54790
+  date: '2015-11-30'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 54791
+  date: '2015-11-29'
+  time: '20:00'
+  band_name: Майя Заведия band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54792
+  date: '2015-11-25'
+  time: '20:00'
+  band_name: Valentin Dmitriev band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54793
+  date: '2015-11-22'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54794
+  date: '2015-11-18'
+  time: '20:00'
+  band_name: Ananswer
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54795
+  date: '2015-11-11'
+  time: '20:00'
+  band_name: Delta Elephant
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54796
+  date: '2015-11-08'
+  time: '20:00'
+  band_name: Jazz band MOVE
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 54797
+  date: '2015-11-04'
+  time: '20:00'
+  band_name: Livestreet band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 55303
+  date: '2015-12-07'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 55304
+  date: '2015-12-21'
+  time: '20:00'
+  band_name: Джаз с Анастасией Глазковой
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 55305
+  date: '2015-12-22'
+  time: '20:00'
+  band_name: Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 55306
+  date: '2015-12-08'
+  time: '20:00'
+  band_name: Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 55307
+  date: '2015-12-13'
+  time: '20:00'
+  band_name: Jazz band MOVE
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto

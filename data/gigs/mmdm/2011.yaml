@@ -1,0 +1,558 @@
+- id: 15041
+  date: '2011-01-30'
+  time: '19:00'
+  band_name: Сергей Чипенко и Транс-Атлантик
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15051
+  date: '2011-01-31'
+  time: '19:00'
+  band_name: Мэри Уилсон (США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15363
+  date: '2011-02-09'
+  time: '19:00'
+  band_name: DEUS-квартет
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15388
+  date: '2011-02-10'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15436
+  date: '2011-02-13'
+  time: '19:00'
+  band_name: Сергей Жилин и "Фонограф"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15353
+  date: '2011-02-08'
+  time: '19:00'
+  band_name: Биг-бэнд имени Олега Лундстрема
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15453
+  date: '2011-02-14'
+  time: '19:00'
+  band_name: Сергей Жилин и "Фонограф"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 15645
+  date: '2011-02-20'
+  time: '19:00'
+  band_name: 'XI фестиваль "Триумф Джаза": Virgil Donati Band (США), Аллан Харрис
+    (США), Биг-бэнд Игоря Бутмана, Квинтет Виктора Епанешникова'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 16089
+  date: '2011-03-06'
+  time: '19:00'
+  band_name: Канди Далфер (саксофон, Нидерланды)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16292
+  date: '2011-03-11'
+  time: '19:00'
+  band_name: 'The Beatles глазами звезд московского блюза: Леван Ломидзе и Blues Cousins'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 16127
+  date: '2011-03-08'
+  time: '19:00'
+  band_name: Smokie (Великобритания), Mirros
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16337
+  date: '2011-03-12'
+  time: '19:00'
+  band_name: Александра Шерлинг, Матвей Шерлинг, Квартет Валерия Гроховского
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16140
+  date: '2011-03-08'
+  time: '19:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16415
+  date: '2011-03-18'
+  time: '19:00'
+  band_name: Виктория Макарская
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16347
+  date: '2011-03-13'
+  time: '19:00'
+  band_name: Tambor de saia (Бразилия)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16699
+  date: '2011-04-05'
+  time: '20:00'
+  band_name: Chick Corea и Gary Burton
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16861
+  date: '2011-03-31'
+  time: '19:00'
+  band_name: Братья Ивановы, Шенда Рул (США), Франк Ваганэ (Бельгия), Полина Лаптева,
+    Камерный оркестр им. О. Лундстрема
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16883
+  date: '2011-04-01'
+  time: '19:00'
+  band_name: Несчастный случай
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16908
+  date: '2011-04-03'
+  time: '19:00'
+  band_name: Несчастный случай
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16698
+  date: '2011-04-04'
+  time: '20:00'
+  band_name: Chick Corea и Gary Burton
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16749
+  date: '2011-03-24'
+  time: '19:00'
+  band_name: Влад Скандалли, Muzz
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16839
+  date: '2011-03-29'
+  time: '19:00'
+  band_name: Биг-бэнд имени Олега Лундстрема
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16834
+  date: '2011-03-29'
+  time: '19:00'
+  band_name: Биг-бэнд им. Олега Лундстрема
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 16814
+  date: '2011-03-27'
+  time: '14:00'
+  band_name: Григорий Файн, Ансамбль "Звезды джаза"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 17213
+  date: '2011-04-06'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 17257
+  date: '2011-04-08'
+  time: '19:00'
+  band_name: Ди Ди Бриджуотер (США, вокал), Биг-бэнд Игоря Бутмана
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 17594
+  date: '2011-04-16'
+  time: '19:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 17603
+  date: '2011-04-16'
+  time: '19:00'
+  band_name: Игорь Бриль, Валерий Гроховский
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 17955
+  date: '2011-04-22'
+  time: '19:00'
+  band_name: Алексей Козлов и Новый Арсенал
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 17962
+  date: '2011-04-22'
+  time: '19:00'
+  band_name: Крис Ботти (США, труба)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 18074
+  date: '2011-04-30'
+  time: '19:00'
+  band_name: "Jazzprofi 35: Игорь Бриль, Алексей Кузнецов, Александр Осейчук, Давид\
+    \ Голощекин, Сергей Жилин, Алексей Исплатовский, Александр Бриль, Дмитрий Бриль,\
+    \ Анна Бутурлина, Иван Фармаковский, Биг-бэнд им. Олега Лундстрема, \r\nБорис\
+    \ Фрумкин, Бриль Family, Ансамбль Академик-Бэнд, Анатолий Кролл, Андрей Макаревич,\
+    \ Лариса Долина, Игорь Бутман, \r\nАлександр Филиппенко"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 18209
+  date: '2011-04-29'
+  time: '19:00'
+  band_name: Алекс Новиков (саксофон)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 18968
+  date: '2011-05-17'
+  time: '19:00'
+  band_name: Давид Голощекин
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19131
+  date: '2011-05-19'
+  time: '19:00'
+  band_name: Нина Дилон
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19132
+  date: '2011-05-19'
+  time: '19:00'
+  band_name: Original Gospels of Harlem (USA)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19316
+  date: '2011-05-20'
+  time: '19:00'
+  band_name: Ричард Маркс (USA)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19412
+  date: '2011-05-24'
+  time: '19:00'
+  band_id: 449
+  band_name: The Smithsonian Jazz Masterworks Orchestra
+  band_token: the-sjmo
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 300-800 руб.
+- id: 19510
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Мегаполис
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19569
+  date: '2011-06-01'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19599
+  date: '2011-06-03'
+  time: '20:00'
+  band_name: Цветы
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19809
+  date: '2011-05-27'
+  time: '19:00'
+  band_name: Tango de Buenos Aires (ARG)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 19604
+  date: '2011-06-04'
+  time: '19:00'
+  band_name: Эйо (GER)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 20145
+  date: '2011-06-08'
+  time: '20:00'
+  band_name: Итальянская опера сквозь призму джаза
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 20207
+  date: '2011-06-13'
+  time: '20:00'
+  band_name: Элвис Станич (Хорватия), Elvis Stanic Group
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 20176
+  date: '2011-06-10'
+  time: '19:00'
+  band_name: Melvin Williams Group (USA)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 20179
+  date: '2011-06-10'
+  time: '20:00'
+  band_name: Роберто Чиотти (IT), Алексей Колосов и Аура, Фабио Константино (IT)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 20190
+  date: '2011-06-11'
+  time: '19:00'
+  band_name: The Shin (Грузия)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 21603
+  date: '2011-09-16'
+  time: '19:00'
+  band_id: 530
+  band_name: Maceo Parker
+  band_token: maceo-parker
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1000-6000 руб.
+- id: 21486
+  date: '2011-09-06'
+  time: '19:00'
+  band_name: Алексей Кузнецов, Игорь Бутман, Игорь Бриль, Анатолий Кролл, Владимир
+    Данилин, Давид Голощекин, Иосиф Кобзон, Лев Лещенко, Мурад Кажлаев, Андрей Эшпай,
+    Олег Анофриев, Андрей Макаревич, Павел Козлов, Леонид Винцкевич, Сергей Чернышов,
+    Биг-бэнд Георгия Гараняна и другие
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 800 руб.
+  comments: Юбилейный концерт легендарного гитариста,  Народного артиста России Алексея
+    Кузнецова. "Семь нот моей жизни" к 70-ти летию Маэстро.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 21713
+  date: '2011-09-24'
+  time: '19:00'
+  band_id: 536
+  band_name: Трио Михаила Окуня
+  band_token: trio-mikhaila-okunya
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 21681
+  date: '2011-09-27'
+  time: '19:00'
+  band_name: Иван Фармаковский (рояль), Ральф Бауэн (саксофон, США), Дэррил Холл (контрабас,
+    США), Дональд Эдвардс (барабаны, США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-1200 руб.
+  comments: Звезды нью-йоркской джазовой сцены исполняют музыку российских композиторов.
+  extra_bands:
+  - id: 532
+    name: Ральф Бауэн
+    token: ralf-bauehn
+  - id: 533
+    name: Дэррил Холл
+    token: dehrril-kholl
+  - id: 534
+    name: Дональд Эдвардс
+    token: donald-ehdvards
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 23303
+  date: '2011-11-30'
+  time: '19:00'
+  band_name: Роберто Фонсека
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 21858
+  date: '2011-10-10'
+  time: '19:00'
+  band_name: Вагиф Садыхов (фортепиано), Петр Востоков (труба), Сергей Головня (саксофон),
+    Алексей Беккер (барабаны), Мака Новиков (контрабас), Вадим Ахметгареев (тромбон),
+    Анна Бутурлина и Анастасия Глазкова (вокал)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  comments: Камерный зал, юбилейный концерт.
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 22084
+  date: '2011-10-13'
+  time: '19:00'
+  band_name: Фредди Коул (Freddy Cole) - вокал, США
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1300-4000 руб.
+- id: 22085
+  date: '2011-11-01'
+  time: '19:00'
+  band_name: Кейко Мацуи
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1000-6000 руб.
+- id: 22282
+  date: '2011-10-20'
+  time: '19:00'
+  band_name: Ирина Богушевская
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1300-3500 руб.
+  comments: Светлановский зал
+- id: 22286
+  date: '2011-11-05'
+  time: '20:00'
+  band_name: Оркестр Гленна Миллера
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1200-5000 руб.
+  comments: Светлановский зал
+- id: 23861
+  date: '2011-12-04'
+  time: '19:00'
+  band_name: Лаки Питерсон (USA)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 22881
+  date: '2011-11-12'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 22882
+  date: '2011-11-13'
+  time: '19:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 22980
+  date: '2011-11-09'
+  time: '19:00'
+  band_id: 447
+  band_name: In-Temporalis
+  band_token: in-temporalis
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 800-2500 руб.
+  comments: Камерный зал
+- id: 23540
+  date: '2011-12-07'
+  time: '19:00'
+  band_name: Big Sky (Фабио Костантино - саксофон, Италия; Руджеро Ротоло - перкуссия,
+    Италия; Алексей Колосов - гитара, Россия; Борис Прусаков - ф-но); квартет "Locomotive"
+    Раффаэле Касарано (саксофон)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  comments: Театральный зал

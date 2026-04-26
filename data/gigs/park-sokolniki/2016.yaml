@@ -1,0 +1,18 @@
+- id: 59797
+  date: '2016-07-02'
+  time: '17:00'
+  band_name: 'Джазовые субботы ParkSeason: Алла Рид (вокал)'
+  club_id: 847
+  club_name: Парк "Сокольники"
+  club_token: park-sokolniki
+- id: 59798
+  date: '2016-07-09'
+  time: '17:00'
+  band_name: 'Джазовые субботы ParkSeason: Алина Ростоцкая'
+  club_id: 847
+  club_name: Парк "Сокольники"
+  club_token: park-sokolniki
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya

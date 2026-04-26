@@ -1,0 +1,22 @@
+id: 483
+token: janine-carter
+name: Janine Carter
+alive: true
+url: http://www.janinecarter.com/
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Janine Carter
+  instruments: вокал
+clips:
+- id: 2216
+  type: photo
+  url: janine-carter.jpg
+  sort_order: 0
+  width: 150
+  height: 150
+- id: 2217
+  type: weblink
+  url: http://www.janinecarter.com/
+  name: Официальный сайт
+  sort_order: 0

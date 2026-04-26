@@ -1,0 +1,14 @@
+id: 452
+token: vysotsky
+name: Высоцкий
+alive: true
+address: Нижний Таганский тупик, дом 3
+subway: Таганская
+phone: (495) 915-0434
+city_id: 1
+clips:
+- id: 2123
+  type: weblink
+  url: http://www.club-vysotsky.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,13 @@
+id: 115
+token: levitis
+name: Иосиф и его Братия
+alive: true
+url: http://www.levitis.ru/brothers.html
+city_id: 1
+genre_id: 11
+clips:
+- id: 79
+  type: weblink
+  url: http://www.levitis.ru/
+  name: Сайт Иосифа Левитиса
+  sort_order: 0

@@ -1,0 +1,15 @@
+id: 776
+token: epic-power-quartet
+name: Epic Power Quartet
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Иван Фармаковский
+  instruments: рояль, фортепиано
+- name: Сергей Головня
+  instruments: саксофон, флейта
+- name: Макар Новиков
+  instruments: контрабас
+- name: Саша Машин
+  instruments: барабаны

@@ -1,0 +1,493 @@
+- id: 56259
+  date: '2016-01-21'
+  time: '20:00'
+  band_name: Ксения Рубан
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 56260
+  date: '2016-01-23'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,800 рублей
+- id: 56361
+  date: '2016-02-19'
+  time: '20:00'
+  band_name: Big City Jazz Show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700,900 рублей
+- id: 56358
+  date: '2016-02-05'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 56359
+  date: '2016-02-11'
+  time: '20:00'
+  band_name: Саша Фрид
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 56360
+  date: '2016-02-12'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700, 900 рублей
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 57437
+  date: '2016-03-05'
+  time: '20:00'
+  band_name: Катя Мардоян и Джаз бэнд
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 57438
+  date: '2016-03-08'
+  time: '20:00'
+  band_name: The Soulongers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 57439
+  date: '2016-03-12'
+  time: '20:00'
+  band_name: Квартет Олега Бутмана
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: Вход 600 / 800 / 1000 рублей
+- id: 57441
+  date: '2016-03-25'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: Вход 500 | 700 | 1000 рублей
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 57440
+  date: '2016-03-19'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800 / 1000 рублей.
+- id: 57560
+  date: '2016-04-30'
+  time: '20:00'
+  band_name: Jazz band Кати Мардоян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 58309
+  date: '2016-05-07'
+  time: '20:00'
+  band_name: Алла Рид
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700, 900 рублей
+- id: 57555
+  date: '2016-04-07'
+  time: '20:00'
+  band_name: Ксения Рубан и Ruban's band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 57556
+  date: '2016-04-09'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 57557
+  date: '2016-04-21'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 57558
+  date: '2016-04-23'
+  time: '21:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700, 900 рублей
+- id: 58310
+  date: '2016-05-08'
+  time: '20:00'
+  band_name: Big City Jazz Show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800,1000,1200 рублей
+- id: 58311
+  date: '2016-05-19'
+  time: '20:00'
+  band_name: Jazz Forever band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 58312
+  date: '2016-05-21'
+  time: '20:00'
+  band_name: The Soulongers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 58918
+  date: '2016-05-28'
+  time: '20:00'
+  band_name: Секстет Кати Мардоян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 58958
+  date: '2016-06-17'
+  time: '21:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800 | 1000 рублей
+- id: 58960
+  date: '2016-06-25'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 58959
+  date: '2016-06-18'
+  time: '20:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 59524
+  date: '2016-07-01'
+  time: '20:00'
+  band_name: Big City Jazz Show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800,1000,1200 рублей
+- id: 59525
+  date: '2016-07-07'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 59526
+  date: '2016-07-09'
+  time: '20:00'
+  band_name: The Soulongers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 59527
+  date: '2016-07-15'
+  time: '20:00'
+  band_name: Диана Шарапова
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700, 900 рублей
+- id: 59529
+  date: '2016-07-23'
+  time: '20:00'
+  band_name: Виктория Пьер-Мари
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700,900, 1200 рублей
+- id: 59528
+  date: '2016-07-16'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 59530
+  date: '2016-07-30'
+  time: '20:00'
+  band_name: Квартет Олега Бутмана
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600,800,1000 рублей
+- id: 59993
+  date: '2016-08-06'
+  time: '20:00'
+  band_name: Джаз-бэнд Екатерины Мардоян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 59996
+  date: '2016-08-27'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 рублей
+- id: 59997
+  date: '2016-08-04'
+  time: '20:00'
+  band_name: Юрий Иванов и "Doстучаться Do небес" с программой Blues&Bossa
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 60107
+  date: '2016-08-03'
+  time: '20:00'
+  band_name: Открытый блюзовый JAM с Dyamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 59994
+  date: '2016-08-12'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700,900 рублей
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 59995
+  date: '2016-08-25'
+  time: '20:00'
+  band_name: Ксения Рубан
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 60416
+  date: '2016-09-02'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: от 700 р.
+- id: 60475
+  date: '2016-09-16'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700,900 рублей
+- id: 60477
+  date: '2016-09-29'
+  time: '20:00'
+  band_name: Квинтет Антона Котикова
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 60474
+  date: '2016-09-01'
+  time: '20:00'
+  band_name: Блюз-рок трио John King
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 60476
+  date: '2016-09-17'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 60478
+  date: '2016-09-30'
+  time: '20:00'
+  band_name: Dixie Purple
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,700 рублей
+- id: 60998
+  date: '2016-10-08'
+  time: '20:00'
+  band_name: Dance Ramblers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 рублей
+- id: 60999
+  date: '2016-10-15'
+  time: '20:00'
+  band_name: Квартет Олега Бутмана
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800,1000,1500
+- id: 61000
+  date: '2016-10-21'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 рублей
+- id: 61001
+  date: '2016-10-22'
+  time: '20:00'
+  band_name: Оркестр Московский джаз
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,800,1000 рублей
+- id: 60996
+  date: '2016-10-01'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 рублей
+- id: 60997
+  date: '2016-10-06'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 61002
+  date: '2016-10-26'
+  time: '20:00'
+  band_name: Виктор Плотнов, Вадим Иващенко и The Boneshakers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 61003
+  date: '2016-10-29'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800,1000 рублей
+- id: 61523
+  date: '2016-11-05'
+  time: '20:00'
+  band_name: The Soulongers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 61525
+  date: '2016-11-11'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700,900,1100,1300,1500 рублей
+- id: 61527
+  date: '2016-11-26'
+  time: '20:00'
+  band_name: Юрий Рябов и джаз-трио Игоря Молчанова
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 61524
+  date: '2016-11-08'
+  time: '20:00'
+  band_name: Джаз-трио Михаила Шостака
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 61526
+  date: '2016-11-24'
+  time: '20:00'
+  band_name: Алла Рид
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный

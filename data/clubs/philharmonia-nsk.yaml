@@ -1,0 +1,15 @@
+id: 460
+token: philharmonia-nsk
+name: Новосибирская государственная филармония
+aliases: Филармония (здание на Красном)
+alive: true
+address: Красный просп., 32
+subway: Площадь Ленина
+phone: +7(383)223-41-41, +7(383) 222-15-11
+city_id: 19
+clips:
+- id: 2169
+  type: weblink
+  url: http://www.philharmonia-nsk.ru/
+  name: Официальный сайт
+  sort_order: 0

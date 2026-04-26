@@ -1,0 +1,28 @@
+id: 431
+token: dusche
+name: Dusche
+alive: true
+address: Лиговский просп., 50, корп. 6
+subway: Лиговский Проспект, Владимирская
+phone: +7 (960) 2464550
+city_id: 2
+clips:
+- id: 2009
+  type: weblink
+  url: http://www.dusche.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2010
+  type: rss
+  url: http://dusche.livejournal.com/data/rss
+  sort_order: 99
+- id: 2011
+  type: weblink
+  url: http://vk.com/club21755075
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2012
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=123739704346394
+  name: Страница на FaceBook
+  sort_order: 200

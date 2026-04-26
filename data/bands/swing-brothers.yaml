@@ -1,0 +1,19 @@
+id: 620
+token: swing-brothers
+name: Swing Brothers
+alive: true
+url: http://vk.com/swingbrothers
+city_id: 2
+genre_id: 18
+secondary_genre_id: 2
+clips:
+- id: 4124
+  type: weblink
+  url: http://vk.com/swingbrothers
+  name: Официальный сайт
+  sort_order: 0
+- id: 4125
+  type: weblink
+  url: http://vk.com/swingbrothers
+  name: Страница ВКонтакте
+  sort_order: 100

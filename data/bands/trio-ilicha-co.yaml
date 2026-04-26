@@ -1,0 +1,30 @@
+id: 233
+token: trio-ilicha-co
+name: Трио Ильича и Co
+alive: true
+url: http://vkontakte.ru/club12293559
+city_id: 51
+genre_id: 1
+musicians:
+- name: Илья Гарах
+  instruments: гитара
+- name: Леонид Сорокин
+  instruments: бас
+- name: Данил Меньшиков
+  instruments: ударные
+- name: Александр Попов
+  instruments: вокал, гитара
+- name: Роман Ботов
+  instruments: губная гармоника
+clips:
+- id: 726
+  type: weblink
+  url: http://vk.com/club12293559
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 727
+  type: photo
+  url: trio-ilicha-co.jpg
+  sort_order: 0
+  width: 592
+  height: 480

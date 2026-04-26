@@ -1,0 +1,71 @@
+id: 201
+token: outback
+name: DZh & Outback Blues Company
+alive: true
+url: http://outback-blues.com
+city_id: 31
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Дмитрий DZh Жлобницкий
+  instruments: гитара, вокал
+- name: Андрей Гудков
+  instruments: басс
+- name: Олег Шапоренков
+  instruments: клавишные
+- name: Алексей Зерниченко
+  instruments: ударные
+clips:
+- id: 527
+  type: weblink
+  url: http://outback-blues.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1286
+  type: photo
+  url: outback-2.jpg
+  sort_order: 100
+  width: 3872
+  height: 2592
+- id: 1287
+  type: photo
+  url: outback-3.jpg
+  sort_order: 200
+  width: 1920
+  height: 1280
+- id: 1289
+  type: photo
+  url: outback-5.jpg
+  name: Еще ДЖЕМ
+  sort_order: 400
+  width: 3888
+  height: 2592
+- id: 1224
+  type: photo
+  url: outback.jpg
+  sort_order: 500
+  width: 3888
+  height: 2592
+- id: 1288
+  type: photo
+  url: outback-4.jpg
+  name: ДЖЕМ
+  sort_order: 300
+  width: 1920
+  height: 1280
+- id: 1225
+  type: mp3
+  url: outback.mp3
+  sort_order: 99
+- id: 1614
+  type: youtube
+  url: http://www.youtube.com/?v=n0BMzlTOqlk
+  name: Outback Blues Co "Lies"
+  comments: 15/01/2011  1-st Alternative Music Club
+  sort_order: 99
+- id: 6418
+  type: photo
+  url: outback-6.jpg
+  sort_order: 0
+  width: 586
+  height: 476

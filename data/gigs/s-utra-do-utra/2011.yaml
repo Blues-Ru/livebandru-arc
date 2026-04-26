@@ -1,0 +1,16 @@
+- id: 21125
+  date: '2011-08-10'
+  time: '20:30'
+  band_name: Jazzelectro и Валерий Пономарев
+  club_id: 482
+  club_name: Арт-кафе "С утра до утра"
+  club_token: s-utra-do-utra
+  comments: Проект "Jazzelectro" (музыканты оркестра Левона Оганезова) и легенда мировой
+    джазовой сцены Валерий Пономарев.
+  extra_bands:
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+  - id: 517
+    name: Jazzelectro
+    token: jazzelectro

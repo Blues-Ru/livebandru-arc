@@ -1,0 +1,14 @@
+id: 907
+token: jazzberry
+name: Jazzberry
+alive: true
+address: Синопская набережная, д. 52
+subway: пл. А. Невского
+phone: +7 (812) 333-8-777, +7 (911) 990-33-33
+city_id: 2
+clips:
+- id: 9253
+  type: weblink
+  url: http://www.jazzberry.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,191 @@
+- id: 33252
+  date: '2013-02-01'
+  time: '20:00'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 33711
+  date: '2013-02-20'
+  time: '20:00'
+  band_name: Олег Киреев (саксофон) и трио Евгения Гречищева (фортепиано)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 34079
+  date: '2013-02-15'
+  time: '19:00'
+  band_name: Анастасия Орлова & 13/8 Jazz Band
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 34953
+  date: '2013-03-20'
+  time: '20:00'
+  band_name: Марина Виноградова и "Джангобэнд"
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 34954
+  date: '2013-03-27'
+  time: '20:00'
+  band_name: Владимир Квачев и его квартет
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 34955
+  date: '2013-03-29'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 35448
+  date: '2013-04-10'
+  time: '20:00'
+  band_name: 'Квартет Ильи Зырянова (гитара): Алексей Беккер (фортепиано), Владимир
+    Черницын (контрабас), Александр Машин (барабаны)'
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 36607
+  date: '2013-06-07'
+  time: '20:00'
+  band_name: Трио Игоря Иванушкина
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 36608
+  date: '2013-06-05'
+  time: '20:00'
+  band_name: Марина Виноградова и Джангобэнд
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37439
+  date: '2013-07-24'
+  time: '20:00'
+  band_name: Асет
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37441
+  date: '2013-07-27'
+  time: '14:00'
+  band_name: Джаз в московском дворике с Moscow Ragtime Band
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 37440
+  date: '2013-07-26'
+  time: '20:00'
+  band_name: Максим Шибин
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37722
+  date: '2013-07-31'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37987
+  date: '2013-08-14'
+  time: '20:00'
+  band_name: Хутас - Борец - Ткебучава
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37988
+  date: '2013-08-16'
+  time: '20:00'
+  band_name: Muztang Orchestra
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 37916
+  date: '2013-09-20'
+  time: '20:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  price: бесплатный
+- id: 38142
+  date: '2013-08-28'
+  time: '20:00'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 38143
+  date: '2013-08-29'
+  time: '20:00'
+  band_name: Jazz Classic Trio Андрея Зимовца (Санкт-Петербург)
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 39083
+  date: '2013-10-04'
+  time: '19:00'
+  band_name: Анастасия Глазкова (вокал), Евгений Гречищев (фортепиано) и Дарья Чернакова
+    (контрабас) с программой "Бродский кот"
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 40139
+  date: '2013-11-22'
+  time: '19:00'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 40140
+  date: '2013-11-20'
+  time: '19:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak
+- id: 40942
+  date: '2013-12-25'
+  time: '19:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 523
+  club_name: Журфак
+  club_token: zhurfak

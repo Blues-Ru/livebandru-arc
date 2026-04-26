@@ -1,0 +1,79 @@
+id: 69
+token: drunken-sailors-band
+name: Drunken Sailors Band
+alive: true
+url: http://www.sailors.ru/
+city_id: 1
+genre_id: 10
+secondary_genre_id: 1
+musicians:
+- name: Дмитрий Кумченко
+  instruments: Гитара, подпевки, подтанцовки
+- name: Александр Бахирев
+  instruments: Гитара, вокал
+- name: Юрий Соколов
+  instruments: Губная гармоника, вокал
+- name: Михаил Богданов
+  instruments: Контрабас, подпевки, подтанцовки
+- name: Алексей Киселев
+  instruments: Кахон
+clips:
+- id: 359
+  type: youtube
+  url: http://www.youtube.com/?v=90rEL1ehF80
+  name: Goodbye Mary
+  comments: в Доме у Дороги
+  sort_order: 0
+- id: 1607
+  type: youtube
+  url: http://www.youtube.com/?v=vD-Z17YcmqU
+  name: Плейлист от клуба "Дом у Дороги" на YouTube
+  comments: Big River, Drunken Sailors Band
+  sort_order: 100
+- id: 1606
+  type: weblink
+  url: http://www.sailors.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1609
+  type: photo
+  url: 2.jpg
+  name: Юрий Соколов
+  sort_order: 100
+  width: 533
+  height: 800
+- id: 1610
+  type: photo
+  url: 4.jpg
+  name: Михаил Богданов
+  sort_order: 200
+  width: 533
+  height: 800
+- id: 1611
+  type: photo
+  url: 3.jpg
+  name: Александр Бахирев
+  sort_order: 300
+  width: 800
+  height: 533
+- id: 1608
+  type: photo
+  url: 1.jpg
+  name: Дмитрий Кумченко
+  sort_order: 75
+  width: 533
+  height: 800
+- id: 1612
+  type: photo
+  url: 5.jpg
+  name: Алексей Киселев
+  sort_order: 400
+  width: 533
+  height: 800
+- id: 1613
+  type: photo
+  url: 6.jpg
+  name: 4/5 DSB
+  sort_order: 50
+  width: 800
+  height: 533

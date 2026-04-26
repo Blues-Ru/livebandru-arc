@@ -1,0 +1,14 @@
+id: 632
+token: art-cafe-bukle
+name: Art Cafe Bukle
+alive: true
+address: ул. Арбат, 27/47
+subway: Арбатская
+phone: +7(495)691-65-38
+city_id: 1
+clips:
+- id: 3737
+  type: weblink
+  url: http://www.cafebukle.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,28 @@
+id: 718
+token: john-gilroys
+name: John Gilroy's Pub
+aliases: 'John Gilroy''s
+
+  J.Gilroys
+
+  J.Gilroy''s
+
+  J.Gilroy''s Pub
+
+  J.Gilroys Pub'
+alive: true
+address: Братиславская, 6
+subway: Братиславская
+phone: (499) 784-71-79
+city_id: 1
+clips:
+- id: 4626
+  type: weblink
+  url: http://gilroyspub.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4627
+  type: weblink
+  url: https://www.facebook.com/JohnGilroysPub
+  name: Страница на FaceBook
+  sort_order: 100

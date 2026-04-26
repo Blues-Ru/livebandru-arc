@@ -1,0 +1,14 @@
+id: 389
+token: fontan
+name: Фонтан
+alive: true
+address: Первомайский просп., 68
+phone: 96-36-04
+city_id: 85
+comments: здание МКЦ
+clips:
+- id: 1719
+  type: weblink
+  url: http://cafe-fontan.info/
+  name: Официальный сайт
+  sort_order: 0

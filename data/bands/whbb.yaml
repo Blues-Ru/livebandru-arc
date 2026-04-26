@@ -1,0 +1,81 @@
+id: 405
+token: whbb
+name: White Hound Blues Band
+aliases: WHBB
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Софи Челидзе
+  instruments: вокал
+- name: Владислав Бабанов
+  instruments: вокал
+- name: Евгений Кудряшов
+  instruments: гитара
+- name: Елизавета Смирнова
+  instruments: скрипка
+- name: Сергей Безчастнов
+  instruments: бас
+- name: Павел Гладышев
+  instruments: барабаны
+clips:
+- id: 1827
+  type: weblink
+  url: http://vk.com/club15848984
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 3133
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 3137
+  type: mp3
+  url: whbb-2.mp3
+  name: I loved another woman (Peter Green)
+  sort_order: 99
+- id: 3134
+  type: youtube
+  url: http://www.youtube.com/?v=tDhB1VqzaiQ
+  name: Rock me baby (BB King)
+  comments: 'Вечеринка "I wanna fall in jazz" 29 ноября 2011 В арт-клубе Дуров
+
+    www.whitehound.ru
+
+    Больше информациии о White Houndздесь:
+
+    WHBB вконтакте http://vkontakte.ru/wh_bluesband'
+  sort_order: 99
+- id: 3135
+  type: youtube
+  url: http://www.youtube.com/?v=Djl9mZpW_Vk
+  name: Cocaine (JJ Cale)
+  comments: "Вечеринка \"I wanna fall in jazz\" 29 ноября 2011 В Арт-Кафе Дуров\r\n\
+    www.whitehound.ru\r\n\r\nБольше информациии здесь:\r\nWHBB вконтакте http://vkontakte.ru/wh_bluesband"
+  sort_order: 199
+reviews:
+- id: 270
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'White Hound Blues Band - это одна из лучших молодых московских команд, исполняющих
+    классику блюза и околоблюзовых стилей со своим сложившимся стилем исполнения.
+    В первую очередь, группа интересна свежим взглядом на известные композиции, но
+    это не подражание классикам блюза, а умное и тонкое переосмысление знакомых и
+    любимых вещей. Свои авторские композиции по качеству, пожалуй, не уступают.
+
+
+    Зрителям очень интересно наличие в группе скрипки (Елизавета Смирнова). Ее не
+    так часто можно встретить среди инструментария блюзовых групп, а между тем ее
+    партии придают удивительную выразительность исполняемым песням. Еще среди ярких
+    привлекательных особенностей группы сочетание хрипловатого чувственного вокала
+    (Владислав Бабанов). Гитарными соло White Hound Blues Band может по праву гордиться
+    - гитаристу (Евгений Кудряшов) не занимать ни техники, ни скорости, ни экспрессии.
+    Работа ритм-секции (Павел Гладышев - барабаны и Сергей Безчастнов - бас-гитара)
+    заслуженно придает неповторимый драв и позитивную энергетику. Глядя на выступление
+    музыкантов, становится ясно, что участникам коллектива очень нравится играть хорошую
+    музыку, и, находясь на сцене, они получают огромное удовольствие просто от того,
+    что любят делать.'
+  verified: true
+  created: '2012-01-28'
+  is_press_release: true

@@ -1,0 +1,45 @@
+- id: 65513
+  date: '2017-06-09'
+  time: '18:00'
+  band_name: 'Фестиваль современной музыки "Дубрава Музыка 2017": Сергиево-Посадский
+    муниципальный оркестр п/у заслуженного артиста России Владислава Кадерского; Иван
+    Смирнов и сыновья; Феликс Лахути & UniversaLove'
+  club_id: 880
+  club_name: КПЦ "Дубрава" им. протоиерея Александра Меня
+  club_token: kpts-dubrava-im-protoiereya-aleksandra-menya
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+  - id: 321
+    name: Иван Смирнов
+    token: ivan-smirnov
+- id: 65514
+  date: '2017-06-10'
+  time: '18:00'
+  band_name: 'Фестиваль современной музыки "Дубрава Музыка 2017": Алексей Козлов и
+    ансамбль "Арсенал", Александр Миронов & Arimoya Band'
+  club_id: 880
+  club_name: КПЦ "Дубрава" им. протоиерея Александра Меня
+  club_token: kpts-dubrava-im-protoiereya-aleksandra-menya
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 65516
+  date: '2017-06-12'
+  time: '14:00'
+  band_name: Закрытие фестиваля "Дубрава Музыка 2017" при уч. студенческих коллективов
+    студии современной музыки "Индиго Лэнд" и филармонии КПЦ "Дубрава"
+  club_id: 880
+  club_name: КПЦ "Дубрава" им. протоиерея Александра Меня
+  club_token: kpts-dubrava-im-protoiereya-aleksandra-menya
+  comments: На летней сцене
+- id: 65515
+  date: '2017-06-11'
+  time: '18:00'
+  band_name: 'Фестиваль современной музыки "Дубрава Музыка 2017": Тина Кузнецова и
+    Zventa Sventana, Алексей Заволокин & Bass X'
+  club_id: 880
+  club_name: КПЦ "Дубрава" им. протоиерея Александра Меня
+  club_token: kpts-dubrava-im-protoiereya-aleksandra-menya

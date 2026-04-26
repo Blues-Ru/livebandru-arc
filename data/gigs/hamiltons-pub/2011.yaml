@@ -1,0 +1,56 @@
+- id: 15983
+  date: '2011-03-04'
+  time: '22:00'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+- id: 15984
+  date: '2011-03-05'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+- id: 16644
+  date: '2011-03-26'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+- id: 20888
+  date: '2011-07-09'
+  time: '22:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+- id: 20899
+  date: '2011-07-30'
+  time: '22:00'
+  band_name: Max Tavrichesky
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+  price: бесплатный
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 22513
+  date: '2011-11-05'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub

@@ -1,0 +1,28 @@
+id: 566
+token: che-morale
+name: Че Морале
+alive: true
+url: http://www.chemorale.com/
+city_id: 2
+genre_id: 6
+secondary_genre_id: 25
+clips:
+- id: 3103
+  type: weblink
+  url: http://www.chemorale.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3107
+  type: youtube
+  url: http://www.youtube.com/?v=FlmkxOdho6c
+  name: Счастье
+  comments: http://chemorale.comhttp://vkontakte.ru/club21693683Спасибо Всем всем
+    всем! Ура!Спасибо всем прекрасным людям на улице, кто подарил нам свою счастливую
+    улыбку.Спасибо артистам Гене, Владе, Ант
+  sort_order: 99
+- id: 3108
+  type: photo
+  url: che-morale.jpg
+  sort_order: 0
+  width: 600
+  height: 399

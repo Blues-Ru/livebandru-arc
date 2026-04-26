@@ -1,0 +1,26 @@
+id: 296
+token: gary-moore
+name: Gary Moore
+aliases: Гэри Мур
+alive: true
+url: http://www.gary-moore.com
+city_id: 13
+genre_id: 1
+secondary_genre_id: 3
+clips:
+- id: 991
+  type: photo
+  url: gary-moore.jpg
+  sort_order: 0
+  width: 320
+  height: 480
+- id: 989
+  type: weblink
+  url: http://www.gary-moore.com
+  name: Официальный сайт
+  sort_order: 99
+- id: 990
+  type: weblink
+  url: http://www.blues.ru/bluesmen/Gary_Moore/
+  name: О Gary Moore на blues.ru
+  sort_order: 199

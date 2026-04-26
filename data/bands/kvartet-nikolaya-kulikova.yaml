@@ -1,0 +1,22 @@
+id: 550
+token: kvartet-nikolaya-kulikova
+name: Квартет Николая Куликова
+alive: true
+city_id: 51
+genre_id: 2
+musicians:
+- name: Николай Куликов
+  instruments: гитара
+- name: Петр Талалай
+  instruments: ударные
+- name: Денис Шушков
+  instruments: контрабас
+- name: Овагем Султанян
+  instruments: саксофон
+clips:
+- id: 2724
+  type: photo
+  url: kvartet-nikolaya-kulikova.jpg
+  sort_order: 0
+  width: 301
+  height: 180

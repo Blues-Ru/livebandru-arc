@@ -1,0 +1,29 @@
+id: 351
+token: eteri
+name: Этери Бериашвили
+aliases: Этери JAZZ
+alive: true
+url: http://www.eteri.ru/
+city_id: 1
+genre_id: 2
+musicians:
+- name: Юрий Луценко
+  instruments: фортепиано
+- name: Владимир Галактионов
+  instruments: труба
+- name: Андрей Никонов
+  instruments: ударные
+- name: Алексей Балабанов
+  instruments: бас
+clips:
+- id: 1409
+  type: photo
+  url: beriashvili.jpg
+  sort_order: 0
+  width: 588
+  height: 450
+- id: 1408
+  type: weblink
+  url: http://www.eteri.ru/
+  name: Официальный сайт
+  sort_order: 0

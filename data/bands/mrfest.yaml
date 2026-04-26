@@ -1,0 +1,16 @@
+id: 572
+token: mrfest
+name: Фестиваль МестоРождения
+aliases: 'Фестиваль "МестоРождения"
+
+  МестоРождения'
+alive: true
+url: http://www.mrfest.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 3276
+  type: weblink
+  url: http://www.mrfest.ru/
+  name: Официальный сайт
+  sort_order: 0

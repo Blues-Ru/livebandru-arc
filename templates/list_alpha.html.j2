@@ -1,0 +1,46 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ page_title }} — LiveBand.Ru{% endblock %}
+{% block content %}
+
+{% if alpha_ru or alpha_latin %}
+<div id="alfaBit" class="nopr">
+  {% if alpha_ru %}
+  <table><tbody><tr>
+    {% for letter in alpha_ru %}
+    <td>{% if letter.enc == current_letter %}<b>{{ letter.char }}</b>{% else %}<a href="{{ base_url }}/{{ letter.enc }}/">{{ letter.char }}</a>{% endif %}</td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+  {% if alpha_latin %}
+  <table><tbody><tr>
+    {% for letter in alpha_latin %}
+    <td>{% if letter.enc == current_letter %}<b>{{ letter.char }}</b>{% else %}<a href="{{ base_url }}/{{ letter.enc }}/">{{ letter.char }}</a>{% endif %}</td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if items %}
+<table class="packless">
+  <tbody>
+    {% for item in items %}
+    <tr>
+      <td>
+        <p class="main"><a href="{{ item.url }}/">{{ item.title }}</a></p>
+      </td>
+      <td class="{{ 'w33' if list_type == 'bands' else 'w66' }}">
+        {% for cat in item.categories %}
+        <a href="{{ cat.url }}/">{{ cat.title }}</a>&#160;
+        {% endfor %}
+        {% if item.description %}&#160; {{ item.description }}{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p id="noData">Список пуст.</p>
+{% endif %}
+
+{% endblock %}

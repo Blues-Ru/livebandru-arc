@@ -1,0 +1,25 @@
+- id: 47069
+  date: '2015-02-15'
+  time: '17:00'
+  band_name: Валерий Гроховский (фортепиано), Сергей Манукян (вокал, клавишные)
+  club_id: 785
+  club_name: КЗ "Гнесинский на Поварской"
+  club_token: kz-gnesinskij-na-povarskoj
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 47083
+  date: '2015-05-24'
+  time: '17:00'
+  band_name: Даниил Крамер (фортепиано)
+  club_id: 785
+  club_name: КЗ "Гнесинский на Поварской"
+  club_token: kz-gnesinskij-na-povarskoj
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer

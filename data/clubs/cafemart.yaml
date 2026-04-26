@@ -1,0 +1,23 @@
+id: 486
+token: cafemart
+name: Кафе Март
+aliases: 'Март
+
+  Mart'
+alive: true
+address: Петровка, 25
+subway: Пушкинская, Чеховская, Трубная
+phone: +7 (495) 231-3661, +7 (916) 669-1407
+city_id: 1
+clips:
+- id: 2459
+  type: weblink
+  url: http://www.cafemart.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2460
+  type: photo
+  url: cafemart.jpg
+  sort_order: 0
+  width: 536
+  height: 338

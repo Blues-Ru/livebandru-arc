@@ -1,0 +1,30 @@
+id: 188
+token: shtraff
+name: ШтраFF
+alive: true
+city_id: 1
+genre_id: 3
+musicians:
+- name: Евгений Шарпф
+  instruments: гитара, вокал
+- name: Сергей Ермаков
+  instruments: гитара, вокал
+- name: Максим Пужайкин
+  instruments: бас
+- name: Сергей Чудаков
+  instruments: ударные
+- name: Василий Шарпф
+  instruments: клавишные
+clips:
+- id: 431
+  type: weblink
+  url: http://vk.com/club13859473
+  name: Страница ВКонтакте
+  sort_order: 0
+- id: 432
+  type: photo
+  url: shtraff.jpg
+  name: ШтраFF
+  sort_order: 99
+  width: 604
+  height: 402

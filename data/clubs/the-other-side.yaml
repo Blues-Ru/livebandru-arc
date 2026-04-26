@@ -1,0 +1,14 @@
+id: 210
+token: the-other-side
+name: The Other Side
+alive: true
+address: Большая Конюшенная, 1
+subway: Невский Проспект
+phone: (812) 312-9554
+city_id: 2
+clips:
+- id: 363
+  type: weblink
+  url: http://www.theotherside.ru/
+  name: Официальный сайт
+  sort_order: 0

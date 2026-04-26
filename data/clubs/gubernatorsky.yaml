@@ -1,0 +1,17 @@
+id: 720
+token: gubernatorsky
+name: ДК Губернаторский
+alive: true
+address: Карла Маркса, 2/13
+city_id: 120
+clips:
+- id: 4633
+  type: weblink
+  url: http://www.cultura-cnk.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 4634
+  type: weblink
+  url: http://www.ulconcert.ru/
+  name: Ульяновская филармония
+  sort_order: 100

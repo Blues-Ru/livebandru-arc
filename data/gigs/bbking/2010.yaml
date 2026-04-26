@@ -1,0 +1,2871 @@
+- id: 12705
+  date: '2010-09-04'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 350 руб
+- id: 12706
+  date: '2010-09-06'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12707
+  date: '2010-09-07'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12963
+  date: '2010-09-25'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12968
+  date: '2010-10-09'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13003
+  date: '2010-10-06'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13099
+  date: '2010-10-01'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 13106
+  date: '2010-10-02'
+  time: '20:30'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 13107
+  date: '2010-10-03'
+  time: '20:30'
+  band_name: Ованес Гулишьян
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13111
+  date: '2010-10-08'
+  time: '20:30'
+  band_name: Стиляги
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13116
+  date: '2010-10-15'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13123
+  date: '2010-10-23'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13124
+  date: '2010-10-25'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13127
+  date: '2010-10-28'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 13128
+  date: '2010-10-29'
+  time: '20:30'
+  band_name: Денис Мажуков и Валерий Гелюта
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 13129
+  date: '2010-10-30'
+  time: '20:30'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13112
+  date: '2010-10-11'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13113
+  date: '2010-10-12'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13114
+  date: '2010-10-13'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13115
+  date: '2010-10-14'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13120
+  date: '2010-10-20'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13121
+  date: '2010-10-21'
+  time: '20:30'
+  band_name: Rhythm & Blues Independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 180
+    name: Rhythm & Blues Independent
+    token: rnb-independent
+- id: 13122
+  date: '2010-10-22'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13126
+  date: '2010-10-27'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13158
+  date: '2010-10-17'
+  time: '20:30'
+  band_name: B.B. Max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13159
+  date: '2010-10-24'
+  time: '20:30'
+  band_id: 309
+  band_name: Плимут
+  band_token: plimut
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13108
+  date: '2010-10-04'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13117
+  date: '2010-10-16'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13118
+  date: '2010-10-18'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13119
+  date: '2010-10-19'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13125
+  date: '2010-10-26'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13330
+  date: '2010-11-10'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13332
+  date: '2010-11-20'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13130
+  date: '2010-10-31'
+  time: '20:30'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13386
+  date: '2010-11-07'
+  time: '20:00'
+  band_name: Hovik Gulishian & Friends (специальный гость Илья Алехин)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 13465
+  date: '2010-11-04'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13466
+  date: '2010-11-05'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13467
+  date: '2010-11-06'
+  time: '20:30'
+  band_id: 127
+  band_name: D'Black
+  band_token: d-black
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13468
+  date: '2010-11-08'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13469
+  date: '2010-11-09'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 13470
+  date: '2010-11-11'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13834
+  date: '2010-11-18'
+  time: '20:30'
+  band_name: Off Beat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 13836
+  date: '2010-11-21'
+  time: '20:30'
+  band_name: B.B. Max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13838
+  date: '2010-11-23'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13839
+  date: '2010-11-25'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13835
+  date: '2010-11-20'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13895
+  date: '2010-12-02'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13896
+  date: '2010-12-03'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13897
+  date: '2010-12-04'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13898
+  date: '2010-12-05'
+  time: '20:30'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13899
+  date: '2010-12-06'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13900
+  date: '2010-12-07'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13901
+  date: '2010-12-08'
+  time: '20:30'
+  band_id: 339
+  band_name: Оптимальный Вариант
+  band_token: optimal-variant
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13902
+  date: '2010-12-09'
+  time: '20:30'
+  band_name: Ованес Гулишьян
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+- id: 13903
+  date: '2010-12-10'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13904
+  date: '2010-12-11'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13905
+  date: '2010-12-12'
+  time: '20:30'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13837
+  date: '2010-11-22'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13840
+  date: '2010-11-26'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 600 руб.
+- id: 13842
+  date: '2010-11-28'
+  time: '20:30'
+  band_name: B.B.Max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13843
+  date: '2010-11-29'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13844
+  date: '2010-11-30'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 13872
+  date: '2010-12-15'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 350 р.
+- id: 13906
+  date: '2010-12-14'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13907
+  date: '2010-12-16'
+  time: '20:30'
+  band_name: h-Bar & А.Казанков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13908
+  date: '2010-12-17'
+  time: '20:30'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13909
+  date: '2010-12-18'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13910
+  date: '2010-12-19'
+  time: '20:30'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13911
+  date: '2010-12-20'
+  time: '20:30'
+  band_name: Julia Smolanin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13912
+  date: '2010-12-21'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13923
+  date: '2010-12-30'
+  time: '20:30'
+  band_name: Сергей Виноградов & Blues Gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13916
+  date: '2010-12-23'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 13918
+  date: '2010-12-25'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13919
+  date: '2010-12-26'
+  time: '20:30'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13920
+  date: '2010-12-27'
+  time: '20:30'
+  band_name: Julia Smolanin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13921
+  date: '2010-12-28'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13922
+  date: '2010-12-29'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13925
+  date: '2010-12-31'
+  time: '20:30'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13878
+  date: '2010-11-27'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 13894
+  date: '2010-12-01'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12338
+  date: '2010-07-05'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12339
+  date: '2010-07-06'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12340
+  date: '2010-07-07'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12341
+  date: '2010-07-08'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12342
+  date: '2010-07-09'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12343
+  date: '2010-07-10'
+  time: '20:30'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12344
+  date: '2010-07-11'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12345
+  date: '2010-07-12'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12346
+  date: '2010-07-13'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12347
+  date: '2010-07-14'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12348
+  date: '2010-07-15'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12349
+  date: '2010-07-16'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12350
+  date: '2010-07-17'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12351
+  date: '2010-07-18'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12352
+  date: '2010-07-19'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12353
+  date: '2010-07-20'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12354
+  date: '2010-07-21'
+  time: '20:30'
+  band_name: Юрий Каверкин
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 12355
+  date: '2010-07-22'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12356
+  date: '2010-07-23'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12357
+  date: '2010-07-24'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12358
+  date: '2010-07-25'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12359
+  date: '2010-07-26'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12360
+  date: '2010-07-27'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12362
+  date: '2010-07-29'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12363
+  date: '2010-07-30'
+  time: '20:30'
+  band_name: Rock Machine
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12361
+  date: '2010-07-28'
+  time: '20:30'
+  band_name: Louisiana Jumping Cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 11407
+  date: '2010-01-08'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11449
+  date: '2010-01-03'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 11455
+  date: '2010-01-06'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11456
+  date: '2010-01-13'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11469
+  date: '2010-01-07'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11458
+  date: '2010-01-09'
+  time: '20:30'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11459
+  date: '2010-01-10'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11460
+  date: '2010-01-11'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11461
+  date: '2010-01-12'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11462
+  date: '2010-01-14'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11463
+  date: '2010-01-15'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11470
+  date: '2010-01-21'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11472
+  date: '2010-01-22'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11473
+  date: '2010-01-23'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11474
+  date: '2010-01-24'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11475
+  date: '2010-01-25'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11476
+  date: '2010-01-26'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11477
+  date: '2010-01-27'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11478
+  date: '2010-01-28'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 11479
+  date: '2010-01-29'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11480
+  date: '2010-01-30'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11688
+  date: '2010-03-04'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11657
+  date: '2010-02-17'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11695
+  date: '2010-03-26'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11746
+  date: '2010-02-26'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11747
+  date: '2010-02-27'
+  time: '20:30'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11748
+  date: '2010-02-28'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11749
+  date: '2010-03-01'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11750
+  date: '2010-03-02'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 11751
+  date: '2010-03-03'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11752
+  date: '2010-03-05'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11753
+  date: '2010-03-06'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11754
+  date: '2010-03-07'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11755
+  date: '2010-03-08'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11756
+  date: '2010-03-09'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 11757
+  date: '2010-03-10'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11758
+  date: '2010-03-11'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11759
+  date: '2010-03-12'
+  time: '20:30'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11845
+  date: '2010-04-03'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11761
+  date: '2010-03-14'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11762
+  date: '2010-03-15'
+  time: '20:30'
+  band_id: 121
+  band_name: Foggy Dew
+  band_token: foggy-dew
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11763
+  date: '2010-03-16'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 11764
+  date: '2010-03-17'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11765
+  date: '2010-03-18'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11766
+  date: '2010-03-19'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11767
+  date: '2010-03-20'
+  time: '20:30'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11768
+  date: '2010-03-21'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11769
+  date: '2010-03-22'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11770
+  date: '2010-03-23'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 11771
+  date: '2010-03-24'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11772
+  date: '2010-03-25'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 11774
+  date: '2010-03-27'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11775
+  date: '2010-03-28'
+  time: '20:30'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11776
+  date: '2010-03-30'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 11792
+  date: '2010-03-08'
+  time: '19:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11799
+  date: '2010-03-07'
+  time: '20:30'
+  band_id: 108
+  band_name: Денис Мажуков и Алексей Блохин - "Два Рояля"
+  band_token: mazhukov-blokhin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11802
+  date: '2010-03-13'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11874
+  date: '2010-03-24'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11777
+  date: '2010-03-29'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11778
+  date: '2010-03-31'
+  time: '20:30'
+  band_name: Open Jam
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11927
+  date: '2010-05-07'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11932
+  date: '2010-04-30'
+  time: '20:30'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11934
+  date: '2010-04-04'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 11942
+  date: '2010-04-06'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11943
+  date: '2010-04-07'
+  time: '20:30'
+  band_name: Open Jam с Вадимом Иващенко
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11944
+  date: '2010-04-08'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11945
+  date: '2010-04-09'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11946
+  date: '2010-04-10'
+  time: '20:30'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11947
+  date: '2010-04-11'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11948
+  date: '2010-04-12'
+  time: '19:00'
+  band_name: 'Мини-фестиваль в честь дня рождения Rock-n-Rolla, с 19.00 до 22.00,
+    приглашенные гости: Сикорский, Блохин, Сеткин, Мажуков'
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11949
+  date: '2010-04-13'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11950
+  date: '2010-04-20'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11951
+  date: '2010-04-27'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11952
+  date: '2010-04-14'
+  time: '20:30'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11953
+  date: '2010-04-15'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11954
+  date: '2010-04-16'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11955
+  date: '2010-04-17'
+  time: '20:30'
+  band_name: Billy T Band (Норвегия)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11956
+  date: '2010-04-18'
+  time: '20:30'
+  band_name: Tecora Rodgers ( США)& Jazz Town Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11957
+  date: '2010-04-19'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11958
+  date: '2010-04-26'
+  time: '20:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11959
+  date: '2010-04-21'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11960
+  date: '2010-04-22'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 11961
+  date: '2010-04-23'
+  time: '20:30'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11962
+  date: '2010-04-24'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11963
+  date: '2010-04-25'
+  time: '20:30'
+  band_name: Денис Мажуков и Алексей Блохин "Два Рояля"
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 11964
+  date: '2010-04-28'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11986
+  date: '2010-05-06'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 11987
+  date: '2010-04-25'
+  time: '20:30'
+  band_id: 108
+  band_name: Денис Мажуков и Алексей Блохин - "Два Рояля"
+  band_token: mazhukov-blokhin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12044
+  date: '2010-04-29'
+  time: '20:15'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12046
+  date: '2010-05-01'
+  time: '20:30'
+  band_name: МаЙовка  с В. Гелютой и Ю. Ивановым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12047
+  date: '2010-05-02'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12048
+  date: '2010-05-03'
+  time: '20:30'
+  band_name: Jazz с Настей Глазковой
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 12049
+  date: '2010-05-17'
+  time: '20:30'
+  band_name: Jazz с Настей Глазковой
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 12050
+  date: '2010-05-04'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12051
+  date: '2010-05-05'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12052
+  date: '2010-05-08'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12053
+  date: '2010-05-09'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12054
+  date: '2010-05-10'
+  time: '20:30'
+  band_name: Bossa Bravo Club Юрия Иванова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12055
+  date: '2010-05-11'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12056
+  date: '2010-05-12'
+  time: '20:30'
+  band_name: Д. Мажуков  & А. Блохин "Два Рояля"
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12057
+  date: '2010-05-13'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12058
+  date: '2010-05-14'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12059
+  date: '2010-05-15'
+  time: '20:30'
+  band_id: 104
+  band_name: Blast
+  band_token: blast
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12060
+  date: '2010-05-16'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12061
+  date: '2010-05-18'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12062
+  date: '2010-05-19'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12063
+  date: '2010-05-20'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12079
+  date: '2010-05-09'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12064
+  date: '2010-05-21'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12065
+  date: '2010-05-22'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12066
+  date: '2010-05-23'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12067
+  date: '2010-05-24'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12068
+  date: '2010-05-25'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12069
+  date: '2010-05-26'
+  time: '20:30'
+  band_name: '"Две Эпохи" Валерий Гелюта & Денис Мажуков'
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 12070
+  date: '2010-05-27'
+  time: '20:30'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12071
+  date: '2010-05-28'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12072
+  date: '2010-05-29'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12073
+  date: '2010-05-30'
+  time: '20:30'
+  band_id: 127
+  band_name: D'Black
+  band_token: d-black
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12138
+  date: '2010-06-16'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12098
+  date: '2010-06-13'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12131
+  date: '2010-05-20'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12140
+  date: '2010-06-02'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12144
+  date: '2010-06-18'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12151
+  date: '2010-06-03'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12152
+  date: '2010-06-04'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12153
+  date: '2010-06-05'
+  time: '20:30'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12154
+  date: '2010-06-06'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12155
+  date: '2010-06-07'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12156
+  date: '2010-06-08'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12157
+  date: '2010-06-09'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12158
+  date: '2010-06-10'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12159
+  date: '2010-06-11'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12160
+  date: '2010-06-12'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12161
+  date: '2010-06-14'
+  time: '20:30'
+  band_name: Jazz с Настей Глазковой
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 12162
+  date: '2010-06-28'
+  time: '20:30'
+  band_name: Jazz с Настей Глазковой
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 12163
+  date: '2010-06-15'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12164
+  date: '2010-06-17'
+  time: '20:30'
+  band_name: Оксана Кочубей & Plumbum Dreams
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12165
+  date: '2010-06-19'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12276
+  date: '2010-07-03'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12167
+  date: '2010-06-21'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12168
+  date: '2010-06-22'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12169
+  date: '2010-06-23'
+  time: '20:30'
+  band_name: Сергей Воронов & Гия Дзагнидзе
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 12170
+  date: '2010-06-24'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12171
+  date: '2010-06-25'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12172
+  date: '2010-06-26'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12173
+  date: '2010-06-27'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12174
+  date: '2010-06-29'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12175
+  date: '2010-06-30'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12256
+  date: '2010-06-20'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12312
+  date: '2010-07-02'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12418
+  date: '2010-08-06'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12424
+  date: '2010-08-07'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12434
+  date: '2010-08-13'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12507
+  date: '2010-08-12'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 600 руб.
+- id: 12508
+  date: '2010-08-05'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12509
+  date: '2010-08-03'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12516
+  date: '2010-08-08'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12517
+  date: '2010-08-09'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12520
+  date: '2010-08-16'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12524
+  date: '2010-08-21'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12525
+  date: '2010-08-22'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12530
+  date: '2010-08-27'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12533
+  date: '2010-08-31'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12564
+  date: '2010-08-14'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12512
+  date: '2010-08-20'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12518
+  date: '2010-08-10'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12519
+  date: '2010-08-15'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12521
+  date: '2010-08-17'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12522
+  date: '2010-08-18'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12523
+  date: '2010-08-19'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12526
+  date: '2010-08-23'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12527
+  date: '2010-08-24'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12528
+  date: '2010-08-25'
+  time: '20:30'
+  band_id: 179
+  band_name: Rock Machine
+  band_token: rock-machine
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12529
+  date: '2010-08-26'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 12531
+  date: '2010-08-29'
+  time: '20:30'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12532
+  date: '2010-08-30'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12574
+  date: '2010-09-05'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12575
+  date: '2010-09-18'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12578
+  date: '2010-09-08'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12704
+  date: '2010-09-03'
+  time: '20:30'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12563
+  date: '2010-08-28'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12703
+  date: '2010-09-01'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12727
+  date: '2010-09-12'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12728
+  date: '2010-09-13'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12732
+  date: '2010-09-19'
+  time: '20:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12734
+  date: '2010-09-21'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12735
+  date: '2010-09-22'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12737
+  date: '2010-09-24'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12738
+  date: '2010-09-26'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12740
+  date: '2010-09-28'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12741
+  date: '2010-09-29'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12576
+  date: '2010-09-02'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12659
+  date: '2010-09-15'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12733
+  date: '2010-09-20'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12736
+  date: '2010-09-23'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 12739
+  date: '2010-09-27'
+  time: '20:30'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12742
+  date: '2010-09-30'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12899
+  date: '2010-09-16'
+  time: '20:30'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+- id: 12831
+  date: '2010-09-09'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12726
+  date: '2010-09-09'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12729
+  date: '2010-09-14'
+  time: '20:30'
+  band_name: Вторник с Петровичем
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 12730
+  date: '2010-09-16'
+  time: '20:30'
+  band_name: Оксана Кочубей
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 12731
+  date: '2010-09-17'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13109
+  date: '2010-10-05'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13110
+  date: '2010-10-07'
+  time: '20:30'
+  band_name: '"Оптимальный вариант"'
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 13157
+  date: '2010-10-10'
+  time: '20:30'
+  band_name: B.B. Max
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking

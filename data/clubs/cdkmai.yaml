@@ -1,0 +1,14 @@
+id: 140
+token: cdkmai
+name: СДК МАИ
+alive: true
+address: Дубосековская, 8
+subway: Сокол
+phone: (495) 785 17 60
+city_id: 1
+clips:
+- id: 52
+  type: weblink
+  url: http://www.cdk.ru/
+  name: Официальный сайт
+  sort_order: 0

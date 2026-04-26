@@ -1,0 +1,21 @@
+id: 218
+token: sky-high
+name: Sky High
+alive: true
+url: http://www.skyhighblues.com
+city_id: 44
+genre_id: 1
+clips:
+- id: 635
+  type: weblink
+  url: http://www.skyhighblues.com
+  name: Официальный сайт
+  sort_order: 99
+- id: 637
+  type: youtube
+  url: http://www.youtube.com/?v=hN2QQ0I8Wj8
+  name: Clas Yngström & SKY HIGH, Power Of Soul
+  comments: "Recorded live in Gothenburg, Musikens Hus, 091119.\r\nOuttake from the\
+    \ new live dvd, to be released in may 2010.\r\nClas Yngström, guitar/ vocals\r\
+    \nUlf\"Rockis\"Ivarsson - bass\r\nJames Bradley Jr - drums/voca"
+  sort_order: 99

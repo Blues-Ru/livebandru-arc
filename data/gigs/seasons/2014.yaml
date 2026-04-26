@@ -1,0 +1,78 @@
+- id: 42039
+  date: '2014-02-06'
+  time: '21:00'
+  band_name: Алексей Батыченко & Jazz Parking Band, Этери Бериашвили, Анжелика Фролова,
+    Анастасия Беляева, Иделия Мухаметзянова, Родион Газманов
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+- id: 42041
+  date: '2014-02-13'
+  time: '21:00'
+  band_name: Этери Бериашвили, Нодар Ревия, Ачи Пурцеладзе, Ольга Синяева, Полина
+    Зизак, Фарид Аскеров, Эдгар Акопян, Георгий Меликишвили
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 42042
+  date: '2014-02-27'
+  time: '21:00'
+  band_name: Полина Зизак & Jazz Parking Band, Мариам Мерабова, Этери Бериашвили,
+    Артем Качарян, Владимир Мусаелян, Гаяна Захарова, Александр Панайотов
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 42040
+  date: '2014-02-20'
+  time: '21:00'
+  band_name: Лилит Арутюнян & Jazz Parking Band, Эдгар Акопян, Ольга Синяева, Мариам
+    Мерабова, Арцвик, Маргарита Позоян, Александр Карпов
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+- id: 42777
+  date: '2014-03-27'
+  time: '21:00'
+  band_name: Ольга Синяева & Jazz Parking Band, Мариам Мерабова, Тина Кузнецова, Ирина
+    Застрогина, Анжелика Фролова, Виктория Жук, Милета Агнаева
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+- id: 42778
+  date: '2014-04-03'
+  time: '21:00'
+  band_name: Маргарита Позоян & Jazz Parking Band, Арцвик, Кристиан Костов, Анастасия
+    Спиридонова, Март Бабаян, Лиза Пурис, Александр Панайотов
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+- id: 42776
+  date: '2014-03-20'
+  time: '21:00'
+  band_name: Нодар Ревия & Jazz Parking Band, Александр Панайотов, Георгий Меликишвили,
+    Элина Чага, Этери Бериашвили, Арцвик, Карина Цветкова
+  club_id: 756
+  club_name: Seasons
+  club_token: seasons
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri

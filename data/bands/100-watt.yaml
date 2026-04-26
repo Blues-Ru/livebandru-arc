@@ -1,0 +1,28 @@
+id: 713
+token: 100-watt
+name: Сто Ватт
+alive: true
+url: http://vk.com/watts100
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Дмитрий Шайхатаров
+  instruments: вокал
+- name: Константин Матюхин
+  instruments: гитара
+- name: Михаил Пахомов
+  instruments: бас-гитара
+- name: Всеволод Миронов
+  instruments: ударные
+clips:
+- id: 7457
+  type: weblink
+  url: http://vk.com/watts100
+  name: Официальный сайт
+  sort_order: 0
+- id: 7461
+  type: youtube
+  url: https://youtu.be/f2M6z_vXB9g
+  name: Группа Сто Ватт. Stop Drinkin'
+  sort_order: 99

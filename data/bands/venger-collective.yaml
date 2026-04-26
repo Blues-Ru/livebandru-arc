@@ -1,0 +1,57 @@
+id: 525
+token: venger-collective
+name: Venger Collective
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Александр Лыгин
+  instruments: акустическая гитара
+- name: Владислав Венгеровский
+  instruments: электрогитара
+- name: Павел Титов
+  instruments: бас
+- name: Маркелл Титов
+  instruments: ударные
+- name: Юля Терещенко
+  instruments: вокал
+- name: Андрей Шестаков
+  instruments: перкуссия
+- name: Владислав Дашкевич
+  instruments: труба
+- name: Александр Лагутенко
+  instruments: тромбон
+- name: Тигран Хачатрян
+  instruments: клавиши
+clips:
+- id: 2424
+  type: photo
+  url: venger-collective.jpg
+  sort_order: 0
+  width: 150
+  height: 150
+- id: 2425
+  type: youtube
+  url: http://www.youtube.com/?v=a8QCZ4uK_kg
+  name: Venger Collective - 9 o'clock
+  comments: Venger Collective - 9 o'clock
+  sort_order: 99
+reviews:
+- id: 188
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Venger Collective - московский acidjazz - проект, чья популярность стремительно
+    растет не только среди любителей легкой музыки, но и среди активных участников
+    клубной жизни. Их музыка - это удачное смешение acid jazz, soulfunk и lounge.
+    Энергетика, танцевальные ритмы и красивые мелодии воплощают идею создателей коллектива
+    о стильной музыке и красивой жизни. Venger Collective - новое рождение эйсид-джаза,
+    музыки наслаждений. Первая группа, играющая с стилях acidjazz, funky, которая
+    вошла в пятерку финалистов конкурса Евровидение от России. Коллектив был образован
+    в 2006 году двумя гитаристами - Александром Лыгиным и Владиславом Венгеровским.
+    Их целью стало создание музыки, в основе которой acid jazz, а стимулом послужила
+    энергетика Jamiroquai и Incognito. Результат - красивые, нежные, энергичные композиции,
+    наполненные теплом и счастьем.
+  verified: true
+  created: '2011-08-11'
+  is_press_release: true

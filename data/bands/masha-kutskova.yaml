@@ -1,0 +1,25 @@
+id: 579
+token: masha-kutskova
+name: Masha Kutskova
+alive: true
+url: http://mashakutskova.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 32
+musicians:
+- name: Маша Куцкова
+  instruments: альт-саксофон
+- name: Сергей Коньков
+  instruments: гитара
+- name: Алиса Мандрик
+  instruments: клавиши
+- name: Евгений Степанов
+  instruments: бас-гитара
+- name: Денис Маранин
+  instruments: ударные
+clips:
+- id: 3424
+  type: weblink
+  url: http://mashakutskova.ru
+  name: Официальный сайт
+  sort_order: 0

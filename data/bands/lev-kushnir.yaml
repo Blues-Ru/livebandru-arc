@@ -1,0 +1,21 @@
+id: 480
+token: lev-kushnir
+name: Лев Кушнир
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Лев Кушнир
+  instruments: фортепиано
+clips:
+- id: 2214
+  type: photo
+  url: lev-kushnir.jpg
+  sort_order: 0
+  width: 720
+  height: 480
+- id: 2223
+  type: weblink
+  url: http://www.jazz.ru/pages/kushnir/
+  name: Страница на Jazz.Ru
+  sort_order: 99

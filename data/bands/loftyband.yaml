@@ -1,0 +1,64 @@
+id: 228
+token: loftyband
+name: LoftyBand
+alive: true
+url: http://www.sounddesign.su
+city_id: 1
+genre_id: 3
+secondary_genre_id: 16
+musicians:
+- name: Сергей Борисов
+  instruments: вокал, акустика
+- name: Сергей Смолявский
+  instruments: ударные
+- name: Владимир Красильников
+  instruments: гитара
+- name: Евгений Глухов
+  instruments: бас
+- name: Александр Голиков
+  instruments: клавиши
+clips:
+- id: 708
+  type: weblink
+  url: http://www.rusblues.ru/node/206
+  name: Страница на rusblues.ru
+  sort_order: 99
+- id: 711
+  type: photo
+  url: loftyband.jpg
+  name: BikeRockFest в Старом Осколе
+  comments: BikeRockFest в Старом Осколе
+  sort_order: 0
+  width: 512
+  height: 341
+- id: 712
+  type: mp3
+  url: loftyband.mp3
+  name: LoftyBand - Секс и виски
+  sort_order: 99
+- id: 709
+  type: youtube
+  url: http://www.youtube.com/?v=W0IH5MEHPFw
+  name: LoftyBnd - Жизнь как покер
+  comments: Первый вечер живой музыки H2O-music
+  sort_order: 99
+- id: 1344
+  type: youtube
+  url: http://www.youtube.com/?v=2tF69Hlcef8
+  name: Секс и Виски
+  comments: "Группа LoftyBand \n\"Секс и Виски\"\nVideo by dechi.ru\n\nАвтор сценария\
+    \ и режиссер: Михаил Морсков\nОператор-постановщик: Даниил Сальхов\nХудожник-постановщик:\
+    \ Полина Орехова\nИсполнительный продюсер: Артем Б"
+  sort_order: 0
+- id: 1345
+  type: mp3
+  url: loftyband-2.mp3
+  name: Рок на продажу
+  sort_order: 0
+- id: 1346
+  type: photo
+  url: loftyband-3.jpg
+  name: LoftyBand
+  sort_order: 100
+  width: 3314
+  height: 2209

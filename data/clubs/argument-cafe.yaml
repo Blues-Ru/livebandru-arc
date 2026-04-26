@@ -1,0 +1,14 @@
+id: 665
+token: argument-cafe
+name: Аргумент Кафе
+alive: true
+address: Кутузовский пр-т, д. 41
+subway: Кутузовская
+phone: +7(499)249-99-55, +7(903)679-68-09
+city_id: 1
+clips:
+- id: 4103
+  type: weblink
+  url: http://www.argumentcafe.ru/
+  name: Официальный сайт
+  sort_order: 0

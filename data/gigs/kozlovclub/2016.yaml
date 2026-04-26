@@ -1,0 +1,3277 @@
+- id: 54607
+  date: '2016-01-08'
+  time: '20:00'
+  band_id: 363
+  band_name: Петр Мамонов
+  band_token: mamonov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55089
+  date: '2016-01-17'
+  time: '20:00'
+  band_name: Amber Sept
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55589
+  date: '2016-01-21'
+  time: '20:00'
+  band_id: 111
+  band_name: Кимбата
+  band_token: kimbata
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55590
+  date: '2016-01-22'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55591
+  date: '2016-01-23'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55593
+  date: '2016-01-02'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55594
+  date: '2016-01-04'
+  time: '20:00'
+  band_name: Бенарес Экспресс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55595
+  date: '2016-01-04'
+  time: '20:00'
+  band_name: Евгений Ревнюк и Laber Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 256
+    name: Laber Band
+    token: laber-band
+- id: 55596
+  date: '2016-01-06'
+  time: '20:00'
+  band_name: Концертное трио Горбунова - Клевенского - Голоухова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55597
+  date: '2016-01-06'
+  time: '20:00'
+  band_name: Артем Лалаян и Секстет Амарас - "Джаз с армянским акцентом"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55598
+  date: '2016-01-09'
+  time: '20:00'
+  band_name: Алена Тойминцева & Think Twice
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55599
+  date: '2016-01-09'
+  time: '20:00'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55600
+  date: '2016-01-10'
+  time: '20:00'
+  band_name: Horsepower - премьера программы "Anthem"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55601
+  date: '2016-01-12'
+  time: '20:00'
+  band_name: Анна Королева & Two Siberians с программой "Дорога на Эльдорадо"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 55736
+  date: '2016-01-05'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55738
+  date: '2016-01-03'
+  time: '20:30'
+  band_name: Нани Ева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55739
+  date: '2016-01-05'
+  time: '17:00'
+  band_name: 'Катерина Чистова и друзья: "Мы Меняем Мир" - концерт благотворительного
+    проекта для детей с особенностями развития'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55740
+  date: '2016-01-07'
+  time: '20:30'
+  band_name: Анна Королева и друзья
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 55741
+  date: '2016-01-11'
+  time: '20:00'
+  band_name: Мария Линева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55742
+  date: '2016-01-11'
+  time: '20:30'
+  band_name: Flamenco A Dos II
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55743
+  date: '2016-01-13'
+  time: '20:30'
+  band_name: Kayem and Up-tempo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55744
+  date: '2016-01-14'
+  time: '20:00'
+  band_name: 'Kosmax by Max Dorbeko представляет: "Волшебное рождество с Unite it"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55745
+  date: '2016-01-15'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55746
+  date: '2016-01-16'
+  time: '20:30'
+  band_name: Егор Сесарев
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55747
+  date: '2016-01-17'
+  time: '14:00'
+  band_name: 'Тили Мили Концерт: Григорий Гладков - "Пластилиновая Ворона Forever!"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55748
+  date: '2016-01-18'
+  time: '20:30'
+  band_name: Godse, Goat's Notes, Critical Mass - концерт трех проектов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 55749
+  date: '2016-01-19'
+  time: '20:00'
+  band_name: Сергей Седых - Нечто Новое
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55750
+  date: '2016-01-19'
+  time: '20:30'
+  band_name: Blacksax Power - Neo Soul Motion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55751
+  date: '2016-01-20'
+  time: '17:00'
+  band_name: 'Катерина Чистова и друзья: "Мы Меняем Мир" - концерт благотворительного
+    проекта для детей с особенностями развития'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55752
+  date: '2016-01-20'
+  time: '20:00'
+  band_name: 'Анна Волкова и Квартет Владимира Нестеренко: "Синематограф. Часть вторая"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 465
+    name: Квартет Владимира Нестеренко
+    token: kvartet-nesterenko
+- id: 55753
+  date: '2016-01-24'
+  time: '14:00'
+  band_name: '"Голосята" - Участники Тв-проекта "Голос. Дети" и финального отбора
+    "Детского Евровидения"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55754
+  date: '2016-01-24'
+  time: '20:30'
+  band_name: With A Little Help From MY Friends - концерт в честь 55-летия Александра
+    Костикова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55755
+  date: '2016-01-25'
+  time: '20:00'
+  band_name: Соборяне
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55756
+  date: '2016-01-25'
+  time: '20:30'
+  band_name: Квинтет С.Кондратьева ("Унесенные Ветки")
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55757
+  date: '2016-01-26'
+  time: '20:00'
+  band_name: 'Сергей Старостин и Татьяна Бондаренко в спектакле "Северные сказы: мужья
+    и жены, любови и страсти"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55758
+  date: '2016-01-26'
+  time: '20:30'
+  band_name: Goodi Gorazdo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55759
+  date: '2016-01-27'
+  time: '20:00'
+  band_name: Andrea Manzoni Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55760
+  date: '2016-01-27'
+  time: '20:30'
+  band_name: Sasha Magerova & Dani Yard Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55761
+  date: '2016-01-28'
+  time: '20:00'
+  band_name: Школа-студия Sunny Side Singers - Маленький и славный юбилей
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55762
+  date: '2016-01-28'
+  time: '20:00'
+  band_name: Оксана Селихова - концерт-презентация нового альбома
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55763
+  date: '2016-01-29'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55764
+  date: '2016-01-30'
+  time: '20:30'
+  band_name: Алена Тойминцева & Think Twice
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55765
+  date: '2016-01-31'
+  time: '18:30'
+  band_name: Молодежная джазовая студия "C-jam Сlub" - концерт-марафон "C-jam Zima
+    2016"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 55766
+  date: '2016-01-31'
+  time: '20:00'
+  band_name: Ансамбли Веретенце и Дукач - концерт "Христос рождается, славите"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56292
+  date: '2016-02-20'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56293
+  date: '2016-02-23'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56294
+  date: '2016-02-01'
+  time: '20:30'
+  band_name: Anneya - проект "Sangita"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56295
+  date: '2016-02-02'
+  time: '20:00'
+  band_id: 513
+  band_name: Круглый Бенд
+  band_token: krugliy-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56296
+  date: '2016-02-02'
+  time: '20:30'
+  band_name: Арутюнов & Quorum
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56297
+  date: '2016-02-03'
+  time: '20:00'
+  band_name: Концертное трио Горбунова - Клевенского - Голоухова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56298
+  date: '2016-02-04'
+  time: '20:00'
+  band_name: Антон Беляев и Therr Maitz - благотворительный концерт Всемирного Дня
+    борьбы с раком
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56299
+  date: '2016-02-04'
+  time: '20:00'
+  band_name: Феликс Лахути и Трио Орнамент
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 56300
+  date: '2016-02-05'
+  time: '20:00'
+  band_name: Святослав Текучев & Good Sound Men Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56301
+  date: '2016-02-05'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56302
+  date: '2016-02-06'
+  time: '20:00'
+  band_name: Собянина/Маряхин/Балашов - "От фри-джаза до нео-классики"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56303
+  date: '2016-02-06'
+  time: '20:30'
+  band_name: Pervoe Solnce - Всем, кто любит солнце
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56304
+  date: '2016-02-07'
+  time: '20:00'
+  band_name: Blacksax Power - Neo Soul Motion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56305
+  date: '2016-02-08'
+  time: '20:00'
+  band_name: Евгений Ревнюк и Laber Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 256
+    name: Laber Band
+    token: laber-band
+- id: 56306
+  date: '2016-02-09'
+  time: '19:00'
+  band_name: Shamania Impro Fest. День первый.
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56307
+  date: '2016-02-09'
+  time: '20:00'
+  band_name: Alina M & Body Wave
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56308
+  date: '2016-02-10'
+  time: '19:00'
+  band_name: Shamania Impro Fest. День второй.
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56309
+  date: '2016-02-10'
+  time: '20:00'
+  band_name: Tango Extremo (Нидерланды)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56310
+  date: '2016-02-11'
+  time: '20:00'
+  band_name: Ellina R & band - I Call It Jazz&Dance
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56311
+  date: '2016-02-11'
+  time: '21:00'
+  band_name: Звезды Тв-шоу Голос. 4-й сезон - Концерт ко Дню Всех Влюбленных
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56312
+  date: '2016-02-12'
+  time: '20:00'
+  band_name: Salto
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56313
+  date: '2016-02-12'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56314
+  date: '2016-02-13'
+  time: '20:00'
+  band_name: Myzza с программой "О любви в теплых тонах"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56315
+  date: '2016-02-14'
+  time: '20:30'
+  band_name: Auroria
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56316
+  date: '2016-02-15'
+  time: '20:30'
+  band_name: Анатолий Осипов - "Пять лет на сцене"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56318
+  date: '2016-02-16'
+  time: '20:00'
+  band_name: Андрей Сучилин и друзья - "Серенады Любви"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56319
+  date: '2016-02-17'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56320
+  date: '2016-02-17'
+  time: '20:30'
+  band_name: Kayem and Up-tempo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56321
+  date: '2016-02-18'
+  time: '20:00'
+  band_name: Матана
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56322
+  date: '2016-02-18'
+  time: '20:30'
+  band_name: Kosh BA Kosh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56323
+  date: '2016-02-19'
+  time: '20:00'
+  band_name: Folkbeat - концерт-презентация альбома "Светлая встреча"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56324
+  date: '2016-02-19'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56325
+  date: '2016-02-21'
+  time: '15:00'
+  band_name: Мини-фестиваль "Брожение"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56326
+  date: '2016-02-21'
+  time: '18:30'
+  band_name: Концерт-презентация альбома Сергея Бокарева - "Отражение"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56327
+  date: '2016-02-22'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56328
+  date: '2016-02-25'
+  time: '20:00'
+  band_name: Антон Горбунов и друзья
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56329
+  date: '2016-02-25'
+  time: '20:30'
+  band_name: Sasha Magerova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56330
+  date: '2016-02-26'
+  time: '20:00'
+  band_name: 26 Герц и Ольга Олейникова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 61
+    name: 26 Герц
+    token: 26herz
+- id: 56331
+  date: '2016-02-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56332
+  date: '2016-02-27'
+  time: '13:30'
+  band_name: '"Фанк на снегу" - Отчетный концерт Школы Искусств Musical Wave'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56333
+  date: '2016-02-27'
+  time: '20:30'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56334
+  date: '2016-02-28'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers - Предвесенний концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56335
+  date: '2016-02-28'
+  time: '20:00'
+  band_name: Puzzlewood
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56336
+  date: '2016-02-28'
+  time: '20:30'
+  band_name: El Tebi Flamenco & Ildar Sh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56337
+  date: '2016-02-29'
+  time: '20:30'
+  band_name: Квинтет Алексея Беккера с программой "Scriabin Jazz Illusion"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56317
+  date: '2016-02-03'
+  time: '20:30'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56868
+  date: '2016-03-25'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56869
+  date: '2016-03-27'
+  time: '20:00'
+  band_id: 714
+  band_name: FunCOOlio
+  band_token: funcoolio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56870
+  date: '2016-03-27'
+  time: '20:30'
+  band_name: Иван Дыма - Авторский концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56871
+  date: '2016-03-30'
+  time: '20:00'
+  band_name: Квинтет Сергея Баранова "Full House"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56872
+  date: '2016-03-30'
+  time: '20:30'
+  band_name: Артем Лалаян и Секстет Амарас - "Джаз с армянским акцентом"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56873
+  date: '2016-03-31'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56832
+  date: '2016-03-26'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56833
+  date: '2016-02-24'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56834
+  date: '2016-02-24'
+  time: '20:30'
+  band_name: Голос 4етыре. Dream Team Полины
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56835
+  date: '2016-03-01'
+  time: '20:00'
+  band_name: Jazz Forever! Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56836
+  date: '2016-03-01'
+  time: '20:30'
+  band_name: Проект "Арфа & Джаз" с программой "От Барокко до Джаза"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56837
+  date: '2016-03-02'
+  time: '19:30'
+  band_name: Встреча Клуба Путешествий Михаила Кожухова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56838
+  date: '2016-03-02'
+  time: '20:00'
+  band_name: ЯАК Соояар и Оркестр Алексея Круглова "Круглый Бенд" - Концерт в рамках
+    дней эстонского джаза в Москве
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 56839
+  date: '2016-03-03'
+  time: '20:00'
+  band_name: 'New Cycle Band: Natalie Aley and Daniel Carneiro'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56840
+  date: '2016-03-04'
+  time: '20:30'
+  band_name: Энвер Измайлов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56841
+  date: '2016-03-04'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56842
+  date: '2016-03-06'
+  time: '20:00'
+  band_name: '"МЫС Луны" - Концерт-презентация Альбома "МЫ С Луны"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56843
+  date: '2016-03-06'
+  time: '20:30'
+  band_name: Blacksax Power - Neo Soul Motion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56844
+  date: '2016-03-07'
+  time: '20:00'
+  band_name: Olga Dudkova & Jazzy Tourists band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56845
+  date: '2016-03-08'
+  time: '20:00'
+  band_name: Мама РО
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56846
+  date: '2016-03-08'
+  time: '20:30'
+  band_name: 'LRK Trio: Lebedev / Revnyuk / Kravtsov - Tribute to Joni Mitchell'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56847
+  date: '2016-03-09'
+  time: '19:00'
+  band_name: Харпфест 2016
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56848
+  date: '2016-03-09'
+  time: '20:00'
+  band_name: Утехин-бэндъ - "Песни предков"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56849
+  date: '2016-03-10'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56850
+  date: '2016-03-10'
+  time: '20:30'
+  band_name: Universoul 2016
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56851
+  date: '2016-03-11'
+  time: '20:00'
+  band_name: Bed Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56852
+  date: '2016-03-11'
+  time: '20:30'
+  band_name: Алексей Козлов  и Арсенал
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 56853
+  date: '2016-03-12'
+  time: '20:30'
+  band_name: Алена Тойминцева & Think Twice
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56854
+  date: '2016-03-15'
+  time: '20:00'
+  band_name: Kle2go Trio (Gorbunov / Klevensky / Goloukhov) feat. Mario Caldararu
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56855
+  date: '2016-03-15'
+  time: '20:30'
+  band_name: Элож Акифева & Gank'Groov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56856
+  date: '2016-03-16'
+  time: '20:00'
+  band_name: Сергей Клевенский и Сергей Филатов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56857
+  date: '2016-03-16'
+  time: '20:30'
+  band_name: Kayem and Up-tempo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56858
+  date: '2016-03-17'
+  time: '20:00'
+  band_name: Эра Канн & Crazy Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56859
+  date: '2016-03-17'
+  time: '20:30'
+  band_name: Валерий Степанов & Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56860
+  date: '2016-03-18'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56861
+  date: '2016-03-19'
+  time: '20:30'
+  band_name: Pervoe Solnce - "... и мартовских лучей касанье"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56862
+  date: '2016-03-20'
+  time: '20:00'
+  band_name: Ангелина Сергеева и Cocktail Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56863
+  date: '2016-03-21'
+  time: '20:00'
+  band_name: Luca Stricagnoli (Италия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56864
+  date: '2016-03-22'
+  time: '20:00'
+  band_name: Koltsov&Samsonov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56865
+  date: '2016-03-22'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56866
+  date: '2016-03-23'
+  time: '20:30'
+  band_name: Антон Горбунов и друзья
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 56867
+  date: '2016-03-24'
+  time: '20:00'
+  band_name: Tiger Cave
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57057
+  date: '2016-03-05'
+  time: '20:30'
+  band_name: Благотворительный концерт в поддержку Алексея Цепилова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57058
+  date: '2016-03-06'
+  time: '14:00'
+  band_name: '"Молодые зажигают! Сами поют и сами играют!" - благотворительный концерт
+    в поддержку Риты Смановой'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57059
+  date: '2016-03-13'
+  time: '20:00'
+  band_name: Бенарес Экспресс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57060
+  date: '2016-03-13'
+  time: '20:30'
+  band_name: Таня Ларина и Владимир Пресняков-старший - Sax Machine
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57061
+  date: '2016-03-14'
+  time: '20:30'
+  band_name: Michael Braun Electro
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57062
+  date: '2016-03-20'
+  time: '15:00'
+  band_name: Школа музыки "Виртуозы" - Концерт Эстрадно-джазовой Музыки
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57063
+  date: '2016-03-27'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers - Весенний концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57064
+  date: '2016-03-28'
+  time: '20:00'
+  band_name: Magnifika
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57065
+  date: '2016-03-28'
+  time: '20:30'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 57066
+  date: '2016-03-29'
+  time: '20:00'
+  band_name: 'No Name Band с программой "Число Пи: Трансцендентность и Иррациональность"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57067
+  date: '2016-03-29'
+  time: '20:30'
+  band_name: Буша Гоман
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58871
+  date: '2016-06-12'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58872
+  date: '2016-06-23'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58873
+  date: '2016-06-24'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57592
+  date: '2016-04-01'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57593
+  date: '2016-04-16'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57594
+  date: '2016-04-16'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57595
+  date: '2016-04-01'
+  time: '19:00'
+  band_name: Камерный оркестр Kremlin - "Первоапрельский концерт"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57596
+  date: '2016-04-02'
+  time: '20:00'
+  band_name: Tambores
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57597
+  date: '2016-04-02'
+  time: '20:30'
+  band_name: Lebedev / Revnyuk / Kravtsov Trio при уч. струнного квартета Main Strings
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57598
+  date: '2016-04-03'
+  time: '18:00'
+  band_name: 4-й ежегодный фестиваль гитарной музыки "Золотая Гитара"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57599
+  date: '2016-04-03'
+  time: '20:30'
+  band_name: Aset
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57600
+  date: '2016-04-04'
+  time: '20:30'
+  band_name: 'Frank Zappa Fest #7'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57601
+  date: '2016-04-05'
+  time: '20:00'
+  band_name: Арутюнов & Quorum
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57602
+  date: '2016-04-05'
+  time: '20:30'
+  band_name: Анна Королева - "Импровизации из Чемодана"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 57603
+  date: '2016-04-06'
+  time: '20:00'
+  band_name: Alina M. & Body Wave
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57604
+  date: '2016-04-06'
+  time: '20:30'
+  band_name: Dos Alas (Два крыла)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57605
+  date: '2016-04-07'
+  time: '20:00'
+  band_name: '"Большое Спасибо" и Софи Окран'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 327
+    name: Софи Окран
+    token: sofi-okran
+- id: 57606
+  date: '2016-04-07'
+  time: '20:30'
+  band_name: Оркестр "Круглый Бенд" и Тим Дорофеев с программой "Free Blues"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 57607
+  date: '2016-04-08'
+  time: '20:00'
+  band_id: 623
+  band_name: Bubamara Brass Band
+  band_token: bubamara-brass-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57608
+  date: '2016-04-08'
+  time: '20:30'
+  band_name: Алексей Козлов и "Арсенал"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 57609
+  date: '2016-04-09'
+  time: '20:30'
+  band_name: Эра Канн & Crazy Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57610
+  date: '2016-04-10'
+  time: '18:30'
+  band_name: Молодежная джазовая студия "C-Jam Сlub" - концерт "C-Jam Vesna 2016"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57611
+  date: '2016-04-10'
+  time: '20:00'
+  band_name: Сергей Седых
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57612
+  date: '2016-04-11'
+  time: '20:00'
+  band_name: Евгения Савинкина и трио "Зареница" - "Славянские песни о любви"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57613
+  date: '2016-04-11'
+  time: '20:30'
+  band_name: Александра Арбацкая и Владимир Голоухов feat. Геннадий Лаврентьев
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57614
+  date: '2016-04-12'
+  time: '20:00'
+  band_name: Аркадий Шилклопер с программой "Hornology"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57615
+  date: '2016-04-12'
+  time: '20:30'
+  band_name: Анна Королева & Two Siberians с программой Дорога на Эльдорадо
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 57616
+  date: '2016-04-13'
+  time: '20:00'
+  band_name: Ольга Серебряная - "Экспромт-эксперимент"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57617
+  date: '2016-04-13'
+  time: '20:30'
+  band_name: Acoustic Rain с программой "Предчувствие дождя"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57618
+  date: '2016-04-14'
+  time: '20:00'
+  band_id: 332
+  band_name: Вячеслав Горский
+  band_token: gorsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57619
+  date: '2016-04-14'
+  time: '20:30'
+  band_name: Goat'S Notes | Critical Mass - "Весеннее Обострение"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 57620
+  date: '2016-04-15'
+  time: '20:00'
+  band_name: Violin Fusion Fest
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57621
+  date: '2016-04-15'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57622
+  date: '2016-04-17'
+  time: '13:30'
+  band_name: Проект "Поющие дети" при уч. группы Kosmax - концерт "Забавный апрель"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57623
+  date: '2016-04-17'
+  time: '20:30'
+  band_name: Алена Тойминцева & Think Twice
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57624
+  date: '2016-04-18'
+  time: '20:30'
+  band_name: Владимир Сидоркович и его вокальный Класс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57625
+  date: '2016-04-19'
+  time: '20:00'
+  band_name: Позитив
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57626
+  date: '2016-04-19'
+  time: '20:30'
+  band_name: Anna Rakita Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57627
+  date: '2016-04-20'
+  time: '20:00'
+  band_name: Derrin Nauendorf (Англия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57628
+  date: '2016-04-20'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57629
+  date: '2016-04-21'
+  time: '20:00'
+  band_name: Gareth Pearson (Англия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57630
+  date: '2016-04-22'
+  time: '20:00'
+  band_name: Джо Бадди (Финляндия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57631
+  date: '2016-04-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57632
+  date: '2016-04-23'
+  time: '18:00'
+  band_name: VII Международный Фестиваль Radio 1jazz.ru. День Первый
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57633
+  date: '2016-04-24'
+  time: '18:00'
+  band_name: VII Международный Фестиваль Radio 1jazz.ru. День Второй
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57634
+  date: '2016-04-24'
+  time: '20:00'
+  band_name: 'Viva Andalucia: Cafe Cantante'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57635
+  date: '2016-04-25'
+  time: '20:00'
+  band_name: Kosh BA Kosh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57636
+  date: '2016-04-25'
+  time: '20:30'
+  band_name: Намгар (Бурятия/Москва) с программой Nomad
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57637
+  date: '2016-04-26'
+  time: '20:30'
+  band_name: Екатерина Черноусова с программой "От блюза до фанка"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57638
+  date: '2016-04-27'
+  time: '20:00'
+  band_name: Трио Арфабит (Барский - Игнатов - Туляков)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57639
+  date: '2016-04-27'
+  time: '20:30'
+  band_name: SAX Days - "Мini Jazz Festival", 2-й концерт сезона 2015/2016
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57640
+  date: '2016-04-28'
+  time: '20:00'
+  band_name: Саша Фрид & Funk Band с программой "Take Me just As I Am"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57641
+  date: '2016-04-28'
+  time: '20:30'
+  band_name: Anton Gorbunov & Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57642
+  date: '2016-04-29'
+  time: '20:00'
+  band_name: Lossamos - концерт-презентация альбома "Offcourse" (2015)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57643
+  date: '2016-04-29'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 57644
+  date: '2016-04-30'
+  time: '20:00'
+  band_name: Алиса Игнатьева и группа Alisa Franka
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58488
+  date: '2016-05-20'
+  time: '20:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58874
+  date: '2016-05-17'
+  time: '19:00'
+  band_name: Bazzday - 10 лет фестивалю. Второй вечер юбилея.
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58875
+  date: '2016-06-02'
+  time: '20:00'
+  band_name: Дмитрий Четвергов, его команда и Володя Черноклинов - Время ЧЕ
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 58876
+  date: '2016-06-02'
+  time: '20:30'
+  band_id: 513
+  band_name: Круглый Бенд
+  band_token: krugliy-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58877
+  date: '2016-06-03'
+  time: '20:00'
+  band_name: Masta Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58878
+  date: '2016-06-03'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 58879
+  date: '2016-06-04'
+  time: '20:30'
+  band_name: Just Jazz Вячеслава Великого с авторской программой "Play MY Part"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58880
+  date: '2016-06-05'
+  time: '20:30'
+  band_name: Kenny "Blues Boss" Wayne (США) & Jose Luis Pardo (Аргентина)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 58881
+  date: '2016-06-07'
+  time: '20:30'
+  band_name: Анатолий Текучев, Павел Овчинников и Funky Outlet Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58882
+  date: '2016-06-11'
+  time: '20:30'
+  band_name: Виталий Головнев (труба, США) - концерт-презентация альбома "When In
+    Moscow"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58883
+  date: '2016-06-16'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58884
+  date: '2016-06-17'
+  time: '20:15'
+  band_name: Алексей Козлов и Ars-nova Квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 58885
+  date: '2016-06-19'
+  time: '18:30'
+  band_name: Молодежная джазовая студия "C-jam Сlub" - Концерт-фестиваль "C-jam Leto
+    2016"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58886
+  date: '2016-06-21'
+  time: '20:00'
+  band_name: Арутюнов & Quorum
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58887
+  date: '2016-06-23'
+  time: '20:00'
+  band_name: Ольга Кляйн
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58199
+  date: '2016-05-06'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58200
+  date: '2016-05-07'
+  time: '20:30'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58201
+  date: '2016-05-13'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58202
+  date: '2016-05-01'
+  time: '20:30'
+  band_name: Merger Of Six Elements - Дебютный концерт проекта
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58203
+  date: '2016-05-02'
+  time: '20:00'
+  band_name: Михаил Озеров - первый сольный концерт в Москве
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58204
+  date: '2016-05-04'
+  time: '20:00'
+  band_name: Just Jazz Quintet Вячеслава Великого с программой "Like Sonny"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58205
+  date: '2016-05-06'
+  time: '20:00'
+  band_name: Ellina R & band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58206
+  date: '2016-05-08'
+  time: '20:30'
+  band_name: Folkbeat и друзья - Большой весенний концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58207
+  date: '2016-05-11'
+  time: '20:00'
+  band_name: Manuk Ghazaryan Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58208
+  date: '2016-05-11'
+  time: '20:30'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58209
+  date: '2016-05-12'
+  time: '20:00'
+  band_name: Liberty Jazz Trio и Трио Дмитрия Купцова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58210
+  date: '2016-05-13'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58211
+  date: '2016-05-15'
+  time: '20:00'
+  band_name: Avenue (Польша-Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58212
+  date: '2016-05-15'
+  time: '20:30'
+  band_name: Sasha Magerova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58213
+  date: '2016-05-18'
+  time: '20:00'
+  band_name: Святослав Текучев & Good Sound Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58214
+  date: '2016-05-18'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58215
+  date: '2016-05-19'
+  time: '20:30'
+  band_name: Pervoe Solnce - "Музыкальный Синематограф"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58216
+  date: '2016-05-20'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58217
+  date: '2016-05-24'
+  time: '20:30'
+  band_name: Джазовый авангард и авангардный джаз. Заключительный концерт цикла
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58218
+  date: '2016-05-25'
+  time: '20:30'
+  band_name: SAX Days - Мini Jazz Festival, 3-й концерт сезона 2015/2016
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58219
+  date: '2016-05-27'
+  time: '20:00'
+  band_name: Артем Айвазян и Laya Bam Band с программой "От джаза до рока"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 474
+    name: Laya Bam Band
+    token: laya-bam-band
+- id: 58220
+  date: '2016-05-27'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58372
+  date: '2016-05-26'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58373
+  date: '2016-05-03'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58374
+  date: '2016-05-03'
+  time: '20:30'
+  band_name: Валерий Степанов / Петр Ившин
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58376
+  date: '2016-05-05'
+  time: '20:30'
+  band_name: Концерт памяти Игоря Широкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58377
+  date: '2016-05-09'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58378
+  date: '2016-05-09'
+  time: '20:30'
+  band_name: Ансамбль Jam Bait при уч. джаз-квартета и ансамбля солистов ВГТРК
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58379
+  date: '2016-05-10'
+  time: '19:00'
+  band_name: Благотворительный вокальный фестиваль "На одном дыхании"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58380
+  date: '2016-05-15'
+  time: '14:00'
+  band_name: Центр Искусств №1 - "Весенний отчетный концерт"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58381
+  date: '2016-05-16'
+  time: '20:00'
+  band_name: Alex Davletshin Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 58382
+  date: '2016-05-21'
+  time: '20:30'
+  band_name: Александр Вершинин, Николай Массальский, Игорь Иванушкин - "Музыкальные
+    истории"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58383
+  date: '2016-05-22'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers - Весенний Концерт №2
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58384
+  date: '2016-05-22'
+  time: '20:30'
+  band_name: Blacksax Power
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58385
+  date: '2016-05-23'
+  time: '20:30'
+  band_name: Virgil Donati Band (Австралия-Бразилия-Россия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58386
+  date: '2016-05-26'
+  time: '20:00'
+  band_name: 'Сергей Старостин и Татьяна Бондаренко в спектакле "Северные сказы: мужья
+    и жены, любови и страсти"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58387
+  date: '2016-05-28'
+  time: '20:30'
+  band_name: Оркестр балканской музыки Bubamara Brass Band п/у Александра Каштанова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 623
+    name: Bubamara Brass Band
+    token: bubamara-brass-band
+- id: 58375
+  date: '2016-05-05'
+  time: '20:00'
+  band_id: 271
+  band_name: Art Ceilidh
+  band_token: art-ceilidh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58388
+  date: '2016-05-29'
+  time: '20:00'
+  band_name: Sunjam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58389
+  date: '2016-05-31'
+  time: '20:30'
+  band_name: Anton Gorbunov & Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58858
+  date: '2016-06-10'
+  time: '20:00'
+  band_name: 'Yourekafest: Надежда Миронова и Подворье / Ольга Егорова / Наталья Блинова
+    и Priot Ensemble'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 400-500 руб.
+  extra_bands:
+  - id: 541
+    name: Priot Ensemble
+    token: priot
+- id: 58888
+  date: '2016-06-26'
+  time: '20:30'
+  band_name: Дмитрий "Ветеран" Честных - концерт в честь Дня Рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58889
+  date: '2016-06-27'
+  time: '20:30'
+  band_name: Игорь Иванушкин - концерт-презентация альбома "Одинокий колокол в пустыне"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58890
+  date: '2016-06-28'
+  time: '20:30'
+  band_name: Harrison Young
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 58891
+  date: '2016-06-30'
+  time: '20:30'
+  band_name: Grzegorz Karnas Quartet (Польша)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59209
+  date: '2016-06-01'
+  time: '20:00'
+  band_name: Живица
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59211
+  date: '2016-06-08'
+  time: '20:00'
+  band_name: Сальса-оркестр Sol-fiesta Band (ex-3d Mambo)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59212
+  date: '2016-06-09'
+  time: '20:30'
+  band_name: 'Бриль Фемили представляет: Дюк Эллингтон и Джордж Гершвин'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59214
+  date: '2016-06-14'
+  time: '20:30'
+  band_name: Sound Gardens & Matsumoto Zoku
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59215
+  date: '2016-06-15'
+  time: '19:30'
+  band_name: Bologa Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59216
+  date: '2016-06-15'
+  time: '20:30'
+  band_name: Amber Sept
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59217
+  date: '2016-06-19'
+  time: '20:00'
+  band_name: Shenzo & Sanchez
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59219
+  date: '2016-06-29'
+  time: '20:00'
+  band_name: Дуэт "Живые Ворота" (Марио Калдарару и Луиза Имангулова)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59220
+  date: '2016-06-29'
+  time: '20:30'
+  band_name: Anton Gorbunov & Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59653
+  date: '2016-07-29'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59655
+  date: '2016-07-01'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 59210
+  date: '2016-06-06'
+  time: '20:00'
+  band_name: Сергей Седых
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59213
+  date: '2016-06-13'
+  time: '20:30'
+  band_name: Виталий Сидоркин
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59218
+  date: '2016-06-25'
+  time: '20:30'
+  band_name: Виталий Головнев (труба, США) и SG BIG Band п/у Сергея Головни, поет
+    Анна Бутурлина
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 59474
+  date: '2016-07-06'
+  time: '20:30'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59475
+  date: '2016-07-16'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59476
+  date: '2016-07-28'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59477
+  date: '2016-06-17'
+  time: '19:00'
+  band_name: Благотворительный концерт Магия Джаза
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59403
+  date: '2016-07-07'
+  time: '20:30'
+  band_id: 710
+  band_name: Igor Prado & Raphael Wressnig
+  band_token: prado-wressnig
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59662
+  date: '2016-07-10'
+  time: '20:30'
+  band_name: Felix Lahuti Birthday Universoul Party
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 59664
+  date: '2016-07-13'
+  time: '20:30'
+  band_name: Seven Eight Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59652
+  date: '2016-07-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59654
+  date: '2016-07-01'
+  time: '20:00'
+  band_name: Lee Mays & Fulton Turnage
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59657
+  date: '2016-07-04'
+  time: '20:00'
+  band_name: Сергей Седых
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59656
+  date: '2016-07-03'
+  time: '20:00'
+  band_name: 'Концерт в честь ДР Виктора Радзиевского: Vladimir Nesterenko Trio +
+    Jam Session'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59658
+  date: '2016-07-05'
+  time: '19:00'
+  band_name: Концерт и прочее в честь ДР Александра Костарева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59659
+  date: '2016-07-05'
+  time: '20:00'
+  band_name: Яков Мейман представляет джаз-проект "Bridge" (New York - Moscow)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59660
+  date: '2016-07-08'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 59661
+  date: '2016-07-09'
+  time: '20:30'
+  band_name: Катя Котеночкина, Тимур Ведерников и ТВ-бэнд - презентация диска Кати
+    Котеночкиной "Город детства"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59663
+  date: '2016-07-12'
+  time: '20:30'
+  band_name: Секстет Айка Григоряна
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59665
+  date: '2016-07-15'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 59666
+  date: '2016-07-17'
+  time: '20:30'
+  band_name: Sasha Magerova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59667
+  date: '2016-07-19'
+  time: '20:30'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59668
+  date: '2016-07-20'
+  time: '20:30'
+  band_name: Up-tempo feat. Milleusha
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59669
+  date: '2016-07-24'
+  time: '20:30'
+  band_name: Blacksax Power
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59927
+  date: '2016-09-24'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 59933
+  date: '2016-08-11'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60005
+  date: '2016-08-25'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60006
+  date: '2016-08-03'
+  time: '20:30'
+  band_name: Второй Ежегодный Концерт-фестиваль памяти Анатолия Макурова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60007
+  date: '2016-08-05'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60008
+  date: '2016-08-07'
+  time: '20:00'
+  band_name: Spacehead
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60009
+  date: '2016-08-09'
+  time: '19:30'
+  band_name: Imram
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60010
+  date: '2016-08-10'
+  time: '20:30'
+  band_name: Alex Davletshin Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 60011
+  date: '2016-08-12'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60012
+  date: '2016-08-19'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60013
+  date: '2016-08-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60014
+  date: '2016-08-30'
+  time: '20:30'
+  band_name: Valeriy Stepanov's Zdvig PO Faze
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60400
+  date: '2016-08-31'
+  time: '20:30'
+  band_name: No Name Band с программой A Love Supreme
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60402
+  date: '2016-09-02'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет с программой "В стиле ЕСМ"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 60403
+  date: '2016-09-04'
+  time: '20:00'
+  band_name: Anton Gorbunov & Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60405
+  date: '2016-09-05'
+  time: '20:30'
+  band_name: Осенний Квартет Виталия Головнева (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60406
+  date: '2016-09-06'
+  time: '20:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60407
+  date: '2016-09-07'
+  time: '20:30'
+  band_id: 346
+  band_name: Виктория Урусова
+  band_token: victoria-urusova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60408
+  date: '2016-09-09'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60409
+  date: '2016-09-16'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет с программой "Электро-поп"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 60410
+  date: '2016-09-23'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет - Новые композиции
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 60399
+  date: '2016-08-23'
+  time: '20:30'
+  band_name: Валентин Дмитриев и Vd-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60401
+  date: '2016-09-01'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60404
+  date: '2016-09-04'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60411
+  date: '2016-09-30'
+  time: '18:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60500
+  date: '2016-09-03'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60503
+  date: '2016-09-08'
+  time: '20:00'
+  band_name: Ян Бедерман и Оркестр Интуитивной Музыки - Концерт в честь 15-летия
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 441
+    name: Оркестр Интуитивной Музыки
+    token: bederman
+- id: 60507
+  date: '2016-09-15'
+  time: '20:30'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60511
+  date: '2016-09-25'
+  time: '15:00'
+  band_name: Сергей Старостин и Татьяна Бондаренко в спектакле Северные сказы. Про
+    Шиша Московского
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60512
+  date: '2016-09-25'
+  time: '20:30'
+  band_name: Amber Sept
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60501
+  date: '2016-09-10'
+  time: '20:30'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60502
+  date: '2016-08-28'
+  time: '20:30'
+  band_name: Blacksax Power - Neo Soul Motion
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60504
+  date: '2016-09-08'
+  time: '20:30'
+  band_name: Элож Акифева и Gank&Groov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60505
+  date: '2016-09-13'
+  time: '20:30'
+  band_name: Татьяна Шишкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60506
+  date: '2016-09-14'
+  time: '20:30'
+  band_name: Чой и группа Девять - Исключительный концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60508
+  date: '2016-09-18'
+  time: '20:00'
+  band_name: Александр Кинач Акинкин и Дмитрий Ветеран Честных - "Тридцать лет дуэту"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60509
+  date: '2016-09-22'
+  time: '20:00'
+  band_name: Квадро Вячеслава Горского и Маша Кац
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 60510
+  date: '2016-09-22'
+  time: '20:30'
+  band_name: Tres Muchachos & Companeros
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60513
+  date: '2016-09-27'
+  time: '20:00'
+  band_name: Kle2go Trio (Gorbunov / Klevensky / Goloukhov)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60514
+  date: '2016-09-28'
+  time: '20:30'
+  band_name: Emmanuel Hovhannisyan (duduk) feat. Authentic Light Orchestra, String
+    Quartet & Manuk Gazaryan Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60515
+  date: '2016-09-29'
+  time: '20:00'
+  band_name: Сергей Баранов & Full House - "Вокруг света за восемьдесят минут"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60516
+  date: '2016-09-29'
+  time: '20:30'
+  band_name: Kosh ba Kosh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60517
+  date: '2016-09-30'
+  time: '20:00'
+  band_name: Духовой оркестр балканской музыки Bubamara Brass Band п/у Александра
+    Каштанова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 623
+    name: Bubamara Brass Band
+    token: bubamara-brass-band
+- id: 60671
+  date: '2016-09-17'
+  time: '20:30'
+  band_name: Алена Тойминцева & Think Twice
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60672
+  date: '2016-09-20'
+  time: '20:30'
+  band_name: На Берегу Трио (Анна Королева / Вартан Бабаян / Виктор Шестак)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 60673
+  date: '2016-10-14'
+  time: '19:30'
+  band_name: Jojo Mayer
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60668
+  date: '2016-09-11'
+  time: '20:30'
+  band_name: Анна Королева и Jump - "Song For Sax"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 60950
+  date: '2016-10-01'
+  time: '20:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60952
+  date: '2016-10-21'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60954
+  date: '2016-09-19'
+  time: '20:30'
+  band_name: No Name Band с программой A Love Supreme
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60955
+  date: '2016-09-21'
+  time: '20:30'
+  band_name: Александр Довгополый Project - Freedom
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60956
+  date: '2016-10-05'
+  time: '20:30'
+  band_name: Трио Второе Приближение
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60957
+  date: '2016-10-07'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60958
+  date: '2016-10-09'
+  time: '20:30'
+  band_name: Baraka (Рига, Латвия) - Песни Персии в джазе
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60960
+  date: '2016-10-12'
+  time: '20:30'
+  band_name: Dennis Chambers & Christian Galvez from the Trace Elements Band by Paolo
+    di Sabatino
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60961
+  date: '2016-10-18'
+  time: '20:00'
+  band_name: Феликс Лахути и Трио Орнамент при уч. Нафсет Чениб
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 60964
+  date: '2016-10-26'
+  time: '20:30'
+  band_name: Pervoe Solnce - Сквозь пальцы дерев
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61023
+  date: '2016-10-29'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61024
+  date: '2016-10-03'
+  time: '20:30'
+  band_name: Трио Артема Третьякова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61025
+  date: '2016-10-06'
+  time: '20:00'
+  band_name: Московский фестиваль Хаммонд-органа
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61026
+  date: '2016-10-13'
+  time: '20:30'
+  band_name: Павел Корбут - Концерт-плюс В Честь 70-летия
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61027
+  date: '2016-10-15'
+  time: '20:30'
+  band_name: 26 Герц
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 61
+    name: 26 Герц
+    token: 26herz
+- id: 61028
+  date: '2016-10-16'
+  time: '20:00'
+  band_name: 5th Leo Records Festival in Russia. День первый
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61029
+  date: '2016-10-17'
+  time: '20:00'
+  band_name: Дуэт Петроса Клампаниса
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61030
+  date: '2016-10-17'
+  time: '20:30'
+  band_name: 5th Leo Records Festival in Russia. День второй
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61031
+  date: '2016-10-20'
+  time: '20:30'
+  band_name: Иван Дыма, Николай Курдюмов, Арсений Строковский - Triple Concerto
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61032
+  date: '2016-10-22'
+  time: '20:30'
+  band_name: Евгений Лебедев, LRK Trio и Вера Лекомцева (sand show) презентуют альбом
+    Евгения "Inner Sphere"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61033
+  date: '2016-10-30'
+  time: '20:00'
+  band_name: Илья Драгунов - Концерт в День Рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60951
+  date: '2016-10-07'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60953
+  date: '2016-09-18'
+  time: '15:00'
+  band_name: Sunny Side Singers с концертом "Фильм! Фильм! Фильм! И мультфильм!"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60959
+  date: '2016-10-10'
+  time: '20:30'
+  band_name: Проект "Джаз-танго-комбо" - Танго с джазовым акцентом
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60962
+  date: '2016-10-19'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60963
+  date: '2016-10-21'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60965
+  date: '2016-10-27'
+  time: '20:30'
+  band_name: Sergey Baranov & Friends - "Аll2gether"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 60967
+  date: '2016-10-28'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет - Новые композиции
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 61123
+  date: '2016-10-02'
+  time: '20:30'
+  band_name: Stradiваленки
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61124
+  date: '2016-10-08'
+  time: '20:30'
+  band_name: Квартет Алевтины Поляковой
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61126
+  date: '2016-10-24'
+  time: '20:30'
+  band_name: Концерт учеников Елены Крашевской (ГКА им. Маймонида) при участии Kosmax
+    и Юрия Крашевского
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61129
+  date: '2016-12-10'
+  time: '20:30'
+  band_name: Kuana Torres Kahele (Гавайи)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61355
+  date: '2016-10-11'
+  time: '20:00'
+  band_name: Ануш Мальян - Концерт в честь Дня Рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61357
+  date: '2016-11-01'
+  time: '20:30'
+  band_name: Алина Филиппова - Презентация авторской программы
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61359
+  date: '2016-11-06'
+  time: '14:00'
+  band_name: II Открытый фестиваль современной народной музыки Осенины
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61424
+  date: '2016-11-04'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61425
+  date: '2016-10-22'
+  time: '13:30'
+  band_name: Школа искусств Musical Wave - Осенний джаз
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61426
+  date: '2016-10-23'
+  time: '20:30'
+  band_name: Аннa Королева - Soul Songs
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61427
+  date: '2016-10-25'
+  time: '20:30'
+  band_name: Анна Королева - "Импровизации ИЗ Чемодана"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 61428
+  date: '2016-11-03'
+  time: '20:00'
+  band_name: 'Manouche Club vs Folkline - Музыкальная дуэль: jazz-manouche vs country-blues'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61429
+  date: '2016-11-04'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61431
+  date: '2016-11-08'
+  time: '20:30'
+  band_name: 'Трио Игоря Иванушкина: Проект "Три И"... и гости'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61433
+  date: '2016-11-09'
+  time: '13:00'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61434
+  date: '2016-11-11'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61435
+  date: '2016-11-18'
+  time: '20:30'
+  band_name: Алексей Козлов и Ars-nova Квартет с программой "Электропоп"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 61436
+  date: '2016-11-19'
+  time: '20:30'
+  band_name: Pervoe Solnce - Музыкальное приношение
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61438
+  date: '2016-11-23'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61440
+  date: '2016-11-24'
+  time: '20:00'
+  band_name: Philippe Darees (Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61441
+  date: '2016-11-25'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61442
+  date: '2016-11-26'
+  time: '18:00'
+  band_name: VIII Международный Фестиваль Radio 1jazz.RU. День Четвертый.
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61443
+  date: '2016-11-27'
+  time: '18:00'
+  band_name: VIII Международный Фестиваль Radio 1jazz.RU. День Пятый, Заключительный.
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61444
+  date: '2016-11-30'
+  time: '19:30'
+  band_name: SAX Days - "Мini Jazz Festival", 1-й концерт сезона 2016/2017
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61546
+  date: '2016-11-05'
+  time: '20:00'
+  band_id: 321
+  band_name: Иван Смирнов
+  band_token: ivan-smirnov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61547
+  date: '2016-11-13'
+  time: '16:00'
+  band_name: Мастер-класс Gergo Borlai (Венгрия, барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61549
+  date: '2016-11-21'
+  time: '20:30'
+  band_name: Григорий Сандомирский сотоварищи - Концерт в честь дня рождения Григория
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61499
+  date: '2016-10-31'
+  time: '20:30'
+  band_name: No Name Band с программой "A Love Supreme"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61500
+  date: '2016-11-02'
+  time: '20:00'
+  band_name: Jimi Hendrix Live Tribute - Live Today Band & special guests
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61501
+  date: '2016-11-06'
+  time: '20:30'
+  band_name: Iggita
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61502
+  date: '2016-11-07'
+  time: '20:30'
+  band_name: Michaela "Misha" Steinhauer (Германия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61503
+  date: '2016-11-09'
+  time: '20:00'
+  band_name: Борис Базуров [experience] feat. Александр Брагин
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61504
+  date: '2016-11-12'
+  time: '20:30'
+  band_name: Horndogz (Франция) - A Very Horny Hiphop Funk Driven Show
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61505
+  date: '2016-11-14'
+  time: '20:30'
+  band_name: Auroria
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61506
+  date: '2016-11-15'
+  time: '20:30'
+  band_name: Darlini Singh Kaul (Великобритания)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61507
+  date: '2016-11-16'
+  time: '20:00'
+  band_name: М-артель и все-все-все - концерт в честь Дня Рождения Михаила Леванова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 61508
+  date: '2016-11-17'
+  time: '20:30'
+  band_name: Universoul Fest
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61509
+  date: '2016-11-28'
+  time: '20:30'
+  band_name: Светлана Жаворонкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61510
+  date: '2016-12-04'
+  time: '20:00'
+  band_name: Олег Фриш в джазовом кабаре "Swing International"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61545
+  date: '2016-11-29'
+  time: '20:30'
+  band_id: 271
+  band_name: Art Ceilidh
+  band_token: art-ceilidh
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61548
+  date: '2016-11-20'
+  time: '20:00'
+  band_name: Станислав Обухов - премьера программы "Sting In Swing"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61940
+  date: '2016-11-22'
+  time: '20:30'
+  band_name: На Берегу Трио (Анна Королева / Вартан Бабаян / Петр Дольский)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 61939
+  date: '2016-11-10'
+  time: '20:30'
+  band_name: Bio Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61942
+  date: '2016-12-01'
+  time: '20:30'
+  band_name: 'Bazzday Stars: Алексей Заволокин - Концерт ко дню рождения'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 61987
+  date: '2016-12-03'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub

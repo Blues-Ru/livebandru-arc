@@ -1,0 +1,38 @@
+id: 33
+token: schwein
+name: Швайн
+alive: true
+address: Лефортовский пер. 12/50
+subway: Бауманская
+phone: (499) 267-45-04
+city_id: 1
+clips:
+- id: 43
+  type: weblink
+  url: http://www.schwein.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 369
+  type: photo
+  url: schwein.jpg
+  sort_order: 99
+  width: 500
+  height: 511
+- id: 390
+  type: youtube
+  url: http://www.youtube.com/?v=asDV1tA9i0s
+  name: Юта в Швайне
+  comments: 13.06.2008
+  sort_order: 99
+- id: 391
+  type: youtube
+  url: http://www.youtube.com/?v=_eJ1L39nekk
+  name: БОНИ НЕМ в Швайне
+  comments: Концерт В "Швайн"
+  sort_order: 199
+- id: 392
+  type: youtube
+  url: http://www.youtube.com/?v=IA-9iiOiaWM
+  name: Монгол Шуудан (клип посетителей клуба "Швайн")
+  comments: Февраль 2008, клуб "Швайн"
+  sort_order: 299

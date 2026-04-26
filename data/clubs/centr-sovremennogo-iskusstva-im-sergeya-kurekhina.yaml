@@ -1,0 +1,14 @@
+id: 502
+token: centr-sovremennogo-iskusstva-im-sergeya-kurekhina
+name: Центр Современного Искусства им. Сергея Курехина
+alive: true
+address: Средний пр., 93
+subway: Василеостровская
+phone: +7(812)322-4223
+city_id: 2
+clips:
+- id: 2619
+  type: weblink
+  url: http://www.kuryokhin.net/
+  name: Официальный сайт
+  sort_order: 0

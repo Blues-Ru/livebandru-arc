@@ -1,0 +1,17 @@
+id: 578
+token: sreda-obitaniya
+name: Среда Обитания
+alive: true
+address: Нижняя Радищевская, 10/4
+subway: Таганская, Марксистская
+city_id: 1
+clips:
+- id: 3259
+  type: weblink
+  url: http://sredaobitaniya.livejournal.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3260
+  type: rss
+  url: http://sredaobitaniya.livejournal.com/data/rss
+  sort_order: 99

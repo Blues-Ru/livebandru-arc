@@ -1,0 +1,14 @@
+id: 348
+token: orlandina
+name: Орландина
+alive: false
+address: Инструментальная, 3
+subway: Петроградская, Лесная
+phone: (812) 958-38-88
+city_id: 2
+clips:
+- id: 1316
+  type: weblink
+  url: http://www.orlandina.ru
+  name: Официальный сайт
+  sort_order: 99

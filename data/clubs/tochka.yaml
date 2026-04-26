@@ -1,0 +1,18 @@
+id: 29
+token: tochka
+name: Точка
+alive: true
+address: Ленинский проспект, 6 стр. 7
+subway: Октябрьская
+phone: 737-76-66
+city_id: 1
+clips:
+- id: 42
+  type: weblink
+  url: http://www.newtochka.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 469
+  type: rss
+  url: http://community.livejournal.com/clubtochka_ru/data/rss
+  sort_order: 99

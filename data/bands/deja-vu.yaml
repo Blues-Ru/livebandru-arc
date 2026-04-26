@@ -1,0 +1,30 @@
+id: 418
+token: deja-vu
+name: Дежа Вю
+alive: true
+url: http://dejavu.region48.ru/
+city_id: 8
+genre_id: 7
+secondary_genre_id: 3
+musicians:
+- name: Андрей Шпренгер
+  instruments: гитара, вокал
+- name: Александр Савин
+  instruments: саксофон
+- name: Михаил Кузин
+  instruments: ударные
+- name: Игорь Аверин
+  instruments: бас
+- name: Алексей Докучаев
+  instruments: гитара
+clips:
+- id: 1930
+  type: weblink
+  url: http://dejavu.region48.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1931
+  type: weblink
+  url: http://vk.com/club4012435
+  name: Страница ВКонтакте
+  sort_order: 100

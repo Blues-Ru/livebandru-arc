@@ -1,0 +1,20 @@
+- id: 39035
+  date: '2013-10-16'
+  time: '19:00'
+  band_name: 'Фестиваль Ениjazz: Лешек Можджер (фортепиано, Польша), трио Peedu Kass
+    Momentum (Эстония)'
+  club_id: 728
+  club_name: Красноярская краевая филармония
+  club_token: krasnoyarskaya-filarmoniya
+- id: 39036
+  date: '2013-10-17'
+  time: '19:00'
+  band_name: 'Фестиваль Ениjazz: трио Михаила Окуня (Россия), квинтет Якова Окуня
+    (Россия-США), квартет Карлы Марчиано (Италия)'
+  club_id: 728
+  club_name: Красноярская краевая филармония
+  club_token: krasnoyarskaya-filarmoniya
+  extra_bands:
+  - id: 536
+    name: Трио Михаила Окуня
+    token: trio-mikhaila-okunya

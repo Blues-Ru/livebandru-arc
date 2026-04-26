@@ -1,0 +1,33 @@
+id: 394
+token: long-way
+name: Long Way
+alive: true
+city_id: 17
+genre_id: 1
+musicians:
+- name: Инна Швановская
+  instruments: вокал
+- name: Глеб Баженов
+  instruments: бас
+- name: Андрей "Gary" Лазарев
+  instruments: ударные
+- name: Алексей Гудимов
+  instruments: гитара
+clips:
+- id: 1782
+  type: weblink
+  url: http://vk.com/club12968966
+  name: Страница ВКонтакте
+  sort_order: 99
+reviews:
+- id: 115
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Группа "Long Way" образовалась в июле 2008 в Минске. Все участники группы
+    по-своему боролись со страстью к музыке и по долгу не играли, но, в конце концов,
+    дурная привычка взяла верх над музыкантами, а музыканты взяли в руки инструменты.
+    Так появился коллектив, изголодавшийся по творчеству.
+  verified: true
+  created: '2011-03-02'
+  is_press_release: true

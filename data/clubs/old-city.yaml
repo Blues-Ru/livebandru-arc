@@ -1,0 +1,14 @@
+id: 441
+token: old-city
+name: Старый Город
+aliases: Джаз-клуб "Старый Город"
+alive: true
+address: Дрелевского, 15
+phone: (8332) 64-58-19
+city_id: 90
+clips:
+- id: 2048
+  type: weblink
+  url: http://jazzkirov.ru/
+  name: Официальный сайт
+  sort_order: 0

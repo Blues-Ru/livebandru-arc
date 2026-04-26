@@ -1,0 +1,29 @@
+id: 356
+token: laertsky
+name: Александр Лаэртский
+aliases: Лаэртский Бэнд
+alive: true
+url: http://www.laertsky.com
+city_id: 1
+genre_id: 3
+clips:
+- id: 1429
+  type: rss
+  url: http://laertsky.livejournal.com/data/rss
+  sort_order: 99
+- id: 1430
+  type: weblink
+  url: http://vk.com/club289228
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1432
+  type: photo
+  url: laertsky.jpg
+  sort_order: 0
+  width: 600
+  height: 709
+- id: 1428
+  type: weblink
+  url: http://www.laertsky.com
+  name: Официальный сайт
+  sort_order: 0

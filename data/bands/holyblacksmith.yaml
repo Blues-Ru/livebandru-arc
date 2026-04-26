@@ -1,0 +1,49 @@
+id: 757
+token: holyblacksmith
+name: Holy Blacksmith
+alive: true
+url: https://www.facebook.com/groups/1411725442228527/
+city_id: 2
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Holy Blacksmith (Ольга Кузнецова)
+  instruments: вокал
+- name: Геннадий Выборов
+  instruments: соло-гитара
+- name: Владимир Гришаев
+  instruments: клавиши
+- name: Иван Громов
+  instruments: ударные
+- name: Александр Швецов
+  instruments: бас-гитара
+- name: Алексей Селезнёв
+  instruments: ритм-гитара, бэк-вокал
+references:
+- id: 756
+  name: '"Любовь и Рок-н-Ролл"'
+  token: lovernr
+clips:
+- id: 8798
+  type: weblink
+  url: https://www.facebook.com/groups/1411725442228527/
+  name: Страница на FaceBook
+  sort_order: 0
+- id: 8800
+  type: photo
+  url: holyblacksmith.jpg
+  sort_order: 0
+  width: 697
+  height: 465
+- id: 9027
+  type: photo
+  url: holyblacksmith-3.jpg
+  sort_order: 200
+  width: 1280
+  height: 853
+- id: 9025
+  type: photo
+  url: holyblacksmith-2.jpg
+  sort_order: 100
+  width: 1192
+  height: 1080

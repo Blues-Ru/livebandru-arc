@@ -1,0 +1,19 @@
+id: 500
+token: chaykovsky
+name: Концертный Зал им. Чайковского
+aliases: 'Зал Чайковского
+
+  КЗ Чайковского
+
+  Концертный Зал имени Чайковского'
+alive: true
+address: Триумфальная пл., 4/31
+subway: Маяковская
+phone: (495) 232-5353
+city_id: 1
+clips:
+- id: 2612
+  type: weblink
+  url: http://www.meloman.ru/?id=19
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,65 @@
+/* defaults */
+html, body {width:100%;height:100%;margin:0;padding:0;}
+body {position:relative;background: white;color: black;}
+
+p,ol,ul,dl,blockquote,form,pre {margin: 0 0 1em;}
+
+small {font-size: 100%;}
+
+img {border: 0;}
+
+a[href], a[href]:hover {text-decoration: underline;}
+a.tdn, a.tdn:hover {text-decoration: none;}
+a.hu {text-decoration: none;}
+a.hu:hover {text-decoration: underline;}
+
+table {font-size: 100%;border-collapse: collapse;margin: 0;}
+th, td {padding: 0;}
+.contentZone table {margin-bottom: 1em;margin-bottom: expression('1.33em'); /*MSIE exception, having little bigger margins for paragraphs*/}
+
+br {line-height: 0;}
+.contentZone br {line-height: 1em;}
+
+.maxwh {width: 100%;height: 100%;}
+.maxw {width: 100%;}
+.maxh {height: 100%;}
+
+.centered {right: 50%;bottom: 50%;}
+
+.invsbl {display: none;}
+.hidden {visibility: hidden;}
+.transparent {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);opacity:0;}
+
+.ofh {overflow: hidden;}
+.abs {position: absolute;}
+.rel {position: relative;}
+.vat {vertical-align: top;}
+.vam {vertical-align: middle;}
+.vab {vertical-align: bottom;}
+.tal {text-align: left;}
+.tac {text-align: center;}
+.tar {text-align: right;}
+
+.nobr {white-space: nowrap;}
+
+div.clear, br.clear, span.clear {display: block;height: 0;clear: both;overflow: hidden;}
+
+.sup {display: inline !important;padding: 0 !important;position: relative;top: -.5em;font-size: .8em;}
+
+/* sifr */
+.sIFR-flash{visibility:visible !important;margin:0;}
+.sIFR-replaced{visibility:visible !important;font-size: 0 !important;}
+span.sIFR-alternate{position:absolute;left:0;top:0;width:0;height:0;display:block;overflow:hidden;}
+.sIFR-flash + div[adblocktab=true]{display:none !important;}
+
+/* debug */
+table.test1, table.test1 td {border: dotted 3px green;}
+table.test1 table, table.test1 table td {border: 0;}
+table.test2, table.test2 td {border: solid 1px #f0f;}
+table.test2 table, table.test2 table td {border: 0;}
+table.test3, table.test3 td {border: dotted 2px red;}
+table.test3 table, table.test3 table td {border: 0;}
+div.test1 {background: red !important;}
+div.test2 {background: yellow !important;}
+div.test3 {background: green !important;}
+/*end defautls*/

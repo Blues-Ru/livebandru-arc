@@ -1,0 +1,69 @@
+id: 705
+token: klyagin-tereshina
+name: Клягин & Терешина Band
+aliases: KiTBand
+alive: true
+url: http://ktband.ru/
+city_id: 1
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Михаил Клягин
+  instruments: гитара
+- name: Виктория Терешина
+  instruments: вокал
+- name: Евгений Лепендин
+  instruments: ударные
+- name: Юлия Шишкина
+  instruments: клавишные
+- name: Василий Терехов
+  instruments: бас
+clips:
+- id: 6626
+  type: photo
+  url: klyagin-tereshina-2.jpg
+  sort_order: 100
+  width: 821
+  height: 960
+- id: 6627
+  type: youtube
+  url: http://www.youtube.com/?v=FYf5sp8OX7M
+  name: Клягин Терёшина Band - That'll Be The Day (cover by Buddy Holly) @ Rhythm'n'Blues
+    Cafe 16.01.2015
+  comments: ''
+  sort_order: 99
+- id: 6628
+  type: youtube
+  url: http://www.youtube.com/?v=sGb83P82iDY
+  name: Клягин Терешина Band - Blue Moon of Kentucky (cover by Bill Monroe) @ Rhythm'n'Blues
+    Cafe 16.01.2015
+  sort_order: 199
+- id: 6629
+  type: youtube
+  url: http://www.youtube.com/?v=yu4v1LFvN7g
+  name: Клягин&Терешина Band - официальное демо видео
+  comments: Группа Клягин&Терешина Band исполняет зажигательную смесь из Rock'n'Roll,
+    R'n'B, Country, Blues, Swing. В репертуаре группы популярные мелодии 50-70-х годов
+    в оригинальной обработке, а так же авторс
+  sort_order: 299
+- id: 6630
+  type: weblink
+  url: http://vk.com/kt_band
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 6624
+  type: weblink
+  url: https://www.facebook.com/kliagin.tereshina.band?ref=hl
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 6625
+  type: photo
+  url: klyagin-tereshina.jpg
+  sort_order: 0
+  width: 900
+  height: 600
+- id: 6623
+  type: weblink
+  url: http://ktband.ru/
+  name: Официальный сайт
+  sort_order: 0

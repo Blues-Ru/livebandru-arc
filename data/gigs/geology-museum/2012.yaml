@@ -1,0 +1,84 @@
+- id: 25735
+  date: '2012-02-24'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 25736
+  date: '2012-03-23'
+  time: '20:00'
+  band_name: Юлиана Рогачева и ее квартет
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 25903
+  date: '2012-05-11'
+  time: '20:00'
+  band_name: Ансамбль "Fortuna Brass Band". По улочкам Нового Орлеана
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 25904
+  date: '2012-05-31'
+  time: '20:00'
+  band_name: Орган в джазе. Трио Владимира Нестеренко
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 25893
+  date: '2012-04-12'
+  time: '20:00'
+  band_name: Квартет Анны Королевой в программе "Song for Sax"
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 25902
+  date: '2012-04-20'
+  time: '20:00'
+  band_name: Петр Востоков (труба) и друзья, при уч. Дарьи Антоновой (вокал)
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 29831
+  date: '2012-09-07'
+  time: '20:00'
+  band_name: Трио Максима Шибина и Алина Ростоцкая (вокал).
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 29832
+  date: '2012-09-14'
+  time: '20:00'
+  band_name: Легенды джазовой гитары. Алексей Кузнецов и его трио. "Друзьям на память"
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 29833
+  date: '2012-09-21'
+  time: '20:00'
+  band_name: Квартет Романа Иванова (труба, вокал) - "Письма любви"
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+- id: 29834
+  date: '2012-09-28'
+  time: '20:00'
+  band_name: Трио Евгения Гречищева (фортепиано) - "Джем на троих"
+  club_id: 462
+  club_name: Джаз в музее
+  club_token: geology-museum
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev

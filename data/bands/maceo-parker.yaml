@@ -1,0 +1,22 @@
+id: 530
+token: maceo-parker
+name: Maceo Parker
+alive: true
+url: http://www.maceo.com/
+genre_id: 7
+secondary_genre_id: 2
+musicians:
+- name: Maceo Parker
+  instruments: саксофон
+clips:
+- id: 2472
+  type: photo
+  url: maceo-parker.jpg
+  sort_order: 0
+  width: 210
+  height: 155
+- id: 2473
+  type: weblink
+  url: http://www.maceo.com/
+  name: Официальный сайт
+  sort_order: 0

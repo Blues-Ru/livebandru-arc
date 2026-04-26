@@ -1,0 +1,73 @@
+- id: 41003
+  date: '2014-01-10'
+  time: '19:00'
+  band_name: Даниил Крамер и Bril Brothers с программой "Jazz fires"
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  price: 800 руб.
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 42149
+  date: '2014-02-28'
+  time: '19:00'
+  band_name: 'Wayne Shorter Tribute: квартет Ивана Фармаковского - Сергей Головня
+    (саксофон), Иван Фармаковский (рояль), Макар Новиков (контрабас), Игнат Кравцов
+    (барабаны)'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 42150
+  date: '2014-02-15'
+  time: '19:00'
+  band_name: '"Джаз в классической обработке": Сергей Поспелов (скрипка), Маргарита
+    Поспелова (фортепиано), Дмитрий Тарбеев (бас), Алексей Корбанов (гитара), Антон
+    Образцов (кахон)'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+- id: 46566
+  date: '2014-10-11'
+  time: '19:00'
+  band_name: Абонемент №16 "Классическая гитара в джазе". Исполнитель - Александр
+    Виницкий (гитара)
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+- id: 46567
+  date: '2014-10-31'
+  time: '19:00'
+  band_name: 'Абонемент № 15 "Встречи с Олегом Киреевым": Джазовое трио Олега Киреева:
+    Олег Киреев (саксофон), Сергей Хутас (контрабас), Артем Федотов (ударные), специальный
+    гость - Андрей Кондаков (фортепиано, Санкт-Петербург)'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 48175
+  date: '2014-12-05'
+  time: '19:00'
+  band_name: 'Второй концерт цикла "Встречи с Олегом Киреевым": Олег Киреев (саксофон),
+    Евгений Гречищев (фортепиано)'
+  club_id: 623
+  club_name: Центральный музей музыкальной культуры имени М.И. Глинки
+  club_token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev

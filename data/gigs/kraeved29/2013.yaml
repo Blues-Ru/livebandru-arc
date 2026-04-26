@@ -1,0 +1,322 @@
+- id: 32845
+  date: '2013-01-12'
+  time: '20:00'
+  band_name: The New Blues Band (Архангельск) и А. Гуреев (саксофон, Москва)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 32847
+  date: '2013-01-25'
+  time: '20:00'
+  band_name: Midal E Garda (Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+- id: 32848
+  date: '2013-01-26'
+  time: '20:00'
+  band_name: Ансамбль В. Зеленова
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+- id: 32849
+  date: '2013-01-27'
+  time: '20:00'
+  band_name: '"Когда звонит звонарь": Владимир Петровский (колокола) и "Север" (рук.
+    Тим Дорофеев)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+- id: 32844
+  date: '2013-01-05'
+  time: '20:00'
+  band_name: Jam session архангельских музыкантов
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+- id: 32846
+  date: '2013-01-19'
+  time: '20:00'
+  band_name: Олег Юданов (ударные) - соло; Трио Ильича & Co
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 200-350 руб.
+- id: 33437
+  date: '2013-02-02'
+  time: '20:00'
+  band_name: Федор Багрецов (гитара), Yesterday now
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 33438
+  date: '2013-02-09'
+  time: '20:00'
+  band_name: Виктор Колесов (гитара, вокал - Вологда) и Анна Колесова (вокал, Вологда);
+    проект Guitar Summit
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 33439
+  date: '2013-02-11'
+  time: '20:00'
+  band_name: Хосе Луис Пардо (гитара, Аргентина), Николай Клишин (бас), Валерий Барандов
+    (барабаны), Андрей Рогозин (клавишные )
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 33440
+  date: '2013-02-16'
+  time: '20:00'
+  band_name: '"Hameleon" Андрея Рогозина'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 33441
+  date: '2013-02-23'
+  time: '20:00'
+  band_name: Трио Андрея Шабашева (рояль, клавишные)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 34613
+  date: '2013-03-09'
+  time: '20:00'
+  band_name: Абду Салим (саксофон, флейты - Франция), Олег Юданов (барабаны), Николай
+    Клишин (бас), Андрей Рогозин (клавишные, рояль), Тим Дорофеев (гитара)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб., для студентов 200 руб.
+- id: 34995
+  date: '2013-03-23'
+  time: '20:00'
+  band_name: Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Новая программа
+- id: 34996
+  date: '2013-03-30'
+  time: '20:00'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб.
+- id: 34997
+  date: '2013-04-06'
+  time: '20:00'
+  band_name: Ада Мартынова (вокал,Москва), ансамбль Валентина Зеленова
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 34998
+  date: '2013-04-13'
+  time: '20:00'
+  band_name: Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 34999
+  date: '2013-04-20'
+  time: '20:00'
+  band_name: Трио Андрея Шабашева, академический хор
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 35000
+  date: '2013-04-27'
+  time: '20:00'
+  band_name: Проект Елены Сигаловой - Seagall (Москва)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Гитарная музыка
+- id: 36128
+  date: '2013-05-18'
+  time: '20:00'
+  band_name: Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 36129
+  date: '2013-05-26'
+  time: '20:00'
+  band_name: 'Фестиваль "Архангельск Блюз": "Guitar Summit"(Архангельск - Вологда),
+    "Groggy"(Омск), Banderas Blues Band" (Харьков, Украина), Robert Lighhouse (США
+    - Архангельск)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 500 руб.
+  extra_bands:
+  - id: 39
+    name: Banderas Blues Band
+    token: banderas
+- id: 36682
+  date: '2013-06-08'
+  time: '20:00'
+  band_name: Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 36683
+  date: '2013-06-22'
+  time: '20:00'
+  band_name: Arkchangelsk Jazz Friends, вокал - Константин Седовин
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 36684
+  date: '2013-06-29'
+  time: '20:00'
+  band_name: Закрытие сезона - jazz jam session
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 36685
+  date: '2013-06-15'
+  time: '20:00'
+  band_name: 'Yesterday Now в составе: Владимир Лукин (клавиши), Юрий Фоминский (бас-гитара),
+    Илья Русанов (ударные), Мария Степанова (вокал), Денис Овчинников (саксофон)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 39176
+  date: '2013-10-12'
+  time: '20:00'
+  band_name: Прекрасный город п/у Алексея Питалова
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 39177
+  date: '2013-10-26'
+  time: '20:00'
+  band_name: Sage (Екатеринбург)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 300 руб.
+- id: 39178
+  date: '2013-10-27'
+  time: '20:00'
+  band_name: Jam Session
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб.
+- id: 39871
+  date: '2013-11-05'
+  time: '20:00'
+  band_name: J.C.Smith (вокал, гитара, США), Олег Юданов (барабаны), Николай Клишин
+    (бас), Тим Дорофеев (гитара)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+  extra_bands:
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith
+- id: 39989
+  date: '2013-11-09'
+  time: '20:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+- id: 39990
+  date: '2013-11-16'
+  time: '20:00'
+  band_name: Arkhangelsk Jazz Friends - Валентин Зеленов (рояль), Константин Седовин
+    (вокал), Алесей Барандов (барабаны), Николай Клишин (бас), Татьяна Попова (вокал)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+- id: 39991
+  date: '2013-11-23'
+  time: '20:00'
+  band_name: 'Программа два дуэта: "Красавица и чудовище" - Николай Куликов (гитара,
+    вокал), Наталья Репницина (вокал, рояль); дуэт Олег Юданов (барабаны) - Тим Дорофеев
+    (гитара )'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+- id: 39992
+  date: '2013-11-30'
+  time: '20:00'
+  band_name: Проект Андрея Шабашева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+- id: 40126
+  date: '2013-12-10'
+  time: '20:00'
+  band_name: Kaos Protokoll (Швейцария)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб.
+- id: 40291
+  date: '2013-12-07'
+  time: '20:00'
+  band_name: Leo Bass F.J.P.
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 350 руб., студенты 200 руб.
+- id: 40791
+  date: '2013-12-18'
+  time: '20:00'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб.
+- id: 40753
+  date: '2013-12-14'
+  time: '20:00'
+  band_name: Татьяна Попова и Arkhangelsk Jazz Friends
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 40754
+  date: '2013-12-25'
+  time: '20:00'
+  band_name: Алекс Сипягин (труба, США), Михаил Цыганов (рояль, США)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб.
+- id: 41096
+  date: '2013-12-28'
+  time: '20:00'
+  band_name: Джаз-маскарад
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41097
+  date: '2013-12-29'
+  time: '20:00'
+  band_name: Джаз-маскарад
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29

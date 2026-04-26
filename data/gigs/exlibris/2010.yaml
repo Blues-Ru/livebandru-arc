@@ -1,0 +1,44 @@
+- id: 13806
+  date: '2010-11-11'
+  time: '20:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 218
+  club_name: Ex:Libris
+  club_token: exlibris
+  price: бесплатный
+- id: 14014
+  date: '2010-12-09'
+  time: '20:00'
+  band_name: Psychedelta Blues Band
+  club_id: 218
+  club_name: Ex:Libris
+  club_token: exlibris
+  price: бесплатный
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+- id: 14015
+  date: '2010-12-16'
+  time: '20:00'
+  band_name: Psychedelta Blues Band
+  club_id: 218
+  club_name: Ex:Libris
+  club_token: exlibris
+  price: бесплатный
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+- id: 12666
+  date: '2010-09-03'
+  time: '20:00'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 218
+  club_name: Ex:Libris
+  club_token: exlibris
+  price: 200 руб.

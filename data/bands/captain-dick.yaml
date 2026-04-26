@@ -1,0 +1,160 @@
+id: 317
+token: captain-dick
+name: Капитан Дик
+alive: true
+url: http://captain-dick.ucoz.ru
+city_id: 19
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Вадим Денисов
+  instruments: гитара, вокал
+- name: Вячеслав Сазонов
+  instruments: клавишные, вокал
+- name: Валерий Фомин
+  instruments: ударные
+- name: Андрей Лавринович
+  instruments: бас-гитара
+clips:
+- id: 1204
+  type: mp3
+  url: captain-dick-4.mp3
+  name: Капитан Дик - Be-Bop-A-Lu-La
+  comments: кавер-программа
+  sort_order: 0
+- id: 1206
+  type: mp3
+  url: captain-dick-6.mp3
+  name: Капитан Дик - Another Brick In The Wall
+  comments: кавер-программа
+  sort_order: 399
+- id: 1207
+  type: mp3
+  url: captain-dick-7.mp3
+  name: Капитан Дик - Улетай
+  comments: авторская программа
+  sort_order: 499
+- id: 1208
+  type: weblink
+  url: http://vk.com/club8407074
+  name: Страница ВКонтакте
+  comments: '"Капитан Дик" вКонтакте'
+  sort_order: 99
+- id: 1209
+  type: weblink
+  url: http://captain-dick.ucoz.ru
+  name: Официальный сайт
+  sort_order: 199
+- id: 1211
+  type: photo
+  url: captain-dick-2.jpg
+  name: Слава Сазонов
+  comments: клавишные
+  sort_order: 100
+  width: 604
+  height: 403
+- id: 1213
+  type: photo
+  url: captain-dick-4.jpg
+  name: Вадим Денисов
+  comments: вокал, гитара
+  sort_order: 50
+  width: 1994
+  height: 3078
+- id: 1203
+  type: mp3
+  url: captain-dick-3.mp3
+  name: Капитан Дик - After Dark
+  comments: кавер-программа
+  sort_order: 299
+- id: 1205
+  type: mp3
+  url: captain-dick-5.mp3
+  name: Капитан Дик - Ol'Man Mose
+  comments: кавер-программа
+  sort_order: 50
+- id: 1214
+  type: photo
+  url: captain-dick.jpg
+  name: Валера Фомин
+  comments: ударные
+  sort_order: 300
+  width: 604
+  height: 403
+- id: 1201
+  type: mp3
+  url: captain-dick.mp3
+  name: Капитан Дик - Lucille
+  comments: кавер-программа
+  sort_order: 99
+- id: 1202
+  type: mp3
+  url: captain-dick-2.mp3
+  name: Капитан Дик - Johnny B. Good
+  comments: кавер-программа
+  sort_order: 199
+- id: 1653
+  type: youtube
+  url: http://www.youtube.com/?v=RStmOeKf7Gk
+  name: Капитан Дик - Лето пришло
+  comments: авторская программа
+  sort_order: 99
+- id: 1654
+  type: youtube
+  url: http://www.youtube.com/?v=CSfBMn0JMD8
+  name: Капитан Дик - Пираты Обского моря
+  comments: авторская программа
+  sort_order: 50
+- id: 1655
+  type: youtube
+  url: http://www.youtube.com/?v=ts2HXmPNfrY
+  name: Капитан Дик - Пасмурным утром
+  comments: авторская программа
+  sort_order: 25
+- id: 1656
+  type: youtube
+  url: http://www.youtube.com/?v=AZeasgqMP08
+  name: Капитан Дик - Улетай
+  comments: авторская программа
+  sort_order: 0
+reviews:
+- id: 59
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Пресс-релиз группы "Капитан Дик"
+  text: '"Капитан Дик" - одна из самых старых и известных коммерческих групп г. Новосибирска,
+    уже зарекомендовавшая себя в творческой среде, а также на клубной сцене и больших
+    концертных площадках Новосибирска и регионов.
+
+
+    Музыка "Капитанов" - это экспрессивная смесь рок-н-ролла, блюза и классического
+    рока 80-х, а также большой пласт собственных, авторских песен лидера группы Вадима
+    Денисова.
+
+
+    Каждое выступление группы "Капитан Дик" - это уникальное сочетание профессионализма
+    музыкантов, авторских аранжировок в подаче музыкального материала и неповторимая
+    атмосфера настоящего рок-концерта.
+
+
+    В послужном списке "Капитанов" совместные выступления с такими группами как "Пикник",
+    "Крематорий", "Несчастный случай", "Crossroads", "Иван-Кайф", "Ленинград", "Ария"
+    и "Парк Горького", совместные джем-сейшены с легендарными "Scorpions", немецкой
+    группой "Feedlers Green" и блюзменом Джеймсом Виллером. В свое время группа "Капитан
+    Дик" играла на открытии культовых для Новосибирска баров New-York Times, Pub 501
+    и клуба Rock City, с кем продолжает сотрудничать и до сих пор. Также группа дает
+    концерты в других городах Сибирского региона (Томск, Красноярск, Барнаул, Кемерово),
+    имеет там свою публику, участвует в различных фестивалях.
+
+
+    Лидер группы Вадим Денисов является дипломантом 1-го городского фестиваля профессиональных
+    музыкальных групп (1999 г.), дипломантом конкурса "Лица года -2007" фестиваля
+    "Парад Сибирской Культуры" в номинации "За вклад в развитие музыки".
+
+
+    Состав группы: Вадим Денисов (вокал, гитара), Вячеслав Сазонов (клавишные инструменты),
+    Андрей Лавринович (бас-гитара), Валерий Фомин (ударные инструменты).'
+  verified: true
+  created: '2010-11-02'
+  is_press_release: true

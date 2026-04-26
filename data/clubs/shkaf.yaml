@@ -1,0 +1,17 @@
+id: 273
+token: shkaf
+name: Шкаф
+alive: true
+address: Дерибасовская, 14
+phone: (098) 350-08-61
+city_id: 53
+clips:
+- id: 741
+  type: rss
+  url: http://community.livejournal.com/w_k_a_f_f/data/rss
+  sort_order: 99
+- id: 742
+  type: weblink
+  url: http://community.livejournal.com/w_k_a_f_f
+  name: Комьюнити в ЖЖ
+  sort_order: 99

@@ -1,0 +1,91 @@
+- id: 64384
+  date: '2017-04-01'
+  time: '20:00'
+  band_name: 'I - отделение: трио "Россия - Германия" - Андрей Шабашев (рояль, Россия),
+    Ханнс Хен (контрабас, Германия), Бенно Саттлер (барабаны, Германия), специальный
+    гость - Тим Дорофеев (гитара), II - отделение "Арктический мэппинг" - режиссер,
+    автор Сергей Жигальцов; проект "ОТК" - состав: Олег Юданов (барабаны), Тим Дорофеев
+    (гитара)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 64721
+  date: '2017-04-15'
+  time: '18:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 67551
+  date: '2017-09-26'
+  time: '20:00'
+  band_name: Арт Ансамбль; Tango Extremo
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 68203
+  date: '2017-10-28'
+  time: '18:00'
+  band_name: Burning Jazz Quartet
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 68201
+  date: '2017-10-07'
+  time: '18:00'
+  band_name: Arkhangelsk Jazz Friends
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 68202
+  date: '2017-10-14'
+  time: '18:00'
+  band_name: 'Анонс фестиваля "Международные дни джаза в Архангельске": проект SoundsWeaver'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 68207
+  date: '2017-10-21'
+  time: '19:00'
+  band_name: 'Фестиваль "Международные дни джаза в Архангельске": Live PeopLe Ensemble
+    (Москва); Mordy Ferber & Lenny Sendersky & Band (США - Израиль - Архангельск);
+    Владимир Тарасов & Круглый бенд (Литва - Москва)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 69442
+  date: '2017-12-02'
+  time: '18:00'
+  band_name: WonRedfull Town
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 69445
+  date: '2017-12-23'
+  time: '18:00'
+  band_name: I отделение -Трио ОТК & Сергей Жигальцов; II отделение - Арт-ансамбль
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 69443
+  date: '2017-12-09'
+  time: '18:00'
+  band_name: I отделение - музыкальный спектакль "Чемодан" по мотивам рассказов Сергея
+    Довлатова, читает Сергей Чуркин; II отделение - Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 69444
+  date: '2017-12-16'
+  time: '18:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29

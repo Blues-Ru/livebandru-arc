@@ -1,0 +1,2031 @@
+- id: 32707
+  date: '2013-01-07'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32708
+  date: '2013-01-14'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32709
+  date: '2013-01-21'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32710
+  date: '2013-01-28'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32711
+  date: '2013-01-06'
+  time: '21:00'
+  band_name: Магелланово Облако и Серф
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 32712
+  date: '2013-01-12'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 32713
+  date: '2013-01-13'
+  time: '20:00'
+  band_name: Yoki
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250-400 руб.
+- id: 32714
+  date: '2013-01-19'
+  time: '22:00'
+  band_name: Борис Хлуднев и BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32715
+  date: '2013-01-24'
+  time: '20:00'
+  band_name: Analog Attention
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 32716
+  date: '2013-01-25'
+  time: '22:00'
+  band_name: Мейделех
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-500 руб.
+- id: 32717
+  date: '2013-01-26'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-500 руб.
+- id: 32718
+  date: '2013-01-27'
+  time: '20:00'
+  band_name: Sol Morei
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 32719
+  date: '2013-01-31'
+  time: '20:00'
+  band_name: Sambateria
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33230
+  date: '2013-02-07'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 33611
+  date: '2013-02-02'
+  time: '18:00'
+  band_name: Дмитрий Войтюшкевич (Белоруссия)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33614
+  date: '2013-02-09'
+  time: '22:00'
+  band_name: МузГруппаЛиц
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33616
+  date: '2013-02-13'
+  time: '20:00'
+  band_name: M'Poongi & SP
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 33617
+  date: '2013-02-14'
+  time: '20:00'
+  band_name: Real Bodrit
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33618
+  date: '2013-02-15'
+  time: '22:00'
+  band_name: Beatles Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 33619
+  date: '2013-02-16'
+  time: '22:00'
+  band_name: S.U.L.A.
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250-300 руб.
+- id: 33620
+  date: '2013-02-21'
+  time: '20:00'
+  band_name: StoneBerry
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 33623
+  date: '2013-02-24'
+  time: '20:00'
+  band_name: Язык кошки
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 33624
+  date: '2013-02-28'
+  time: '20:00'
+  band_name: Томас & Пятая Власть
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33625
+  date: '2013-02-04'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 33627
+  date: '2013-02-18'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 33628
+  date: '2013-02-25'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 33629
+  date: '2013-03-04'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 33758
+  date: '2013-02-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 33612
+  date: '2013-02-03'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 33613
+  date: '2013-02-08'
+  time: '22:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 33615
+  date: '2013-02-10'
+  time: '20:00'
+  band_name: Capital F
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 33621
+  date: '2013-02-22'
+  time: '22:00'
+  band_name: Foxy Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 33622
+  date: '2013-02-23'
+  time: '22:00'
+  band_name: Rockовые девушки
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 33626
+  date: '2013-02-11'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34342
+  date: '2013-03-11'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34343
+  date: '2013-03-18'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34344
+  date: '2013-03-25'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34345
+  date: '2013-04-01'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34346
+  date: '2013-03-07'
+  time: '22:00'
+  band_name: Pur:pur (Украина)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+- id: 34347
+  date: '2013-03-03'
+  time: '20:00'
+  band_name: Юлия Пак
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 34348
+  date: '2013-03-06'
+  time: '20:00'
+  band_name: Александр Гумбарг
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 34349
+  date: '2013-03-10'
+  time: '20:00'
+  band_name: 600V-66A
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34350
+  date: '2013-03-14'
+  time: '20:00'
+  band_name: Blind Trust (Германия)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 34351
+  date: '2013-03-17'
+  time: '20:00'
+  band_name: Royal Garden
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 34352
+  date: '2013-03-20'
+  time: '20:00'
+  band_name: Макс Сергеев
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 150 руб.
+- id: 34353
+  date: '2013-03-21'
+  time: '20:00'
+  band_name: Импульс
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34354
+  date: '2013-03-24'
+  time: '20:00'
+  band_name: Panda Night
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 34355
+  date: '2013-03-28'
+  time: '20:00'
+  band_name: ЮЮЮ
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 34356
+  date: '2013-03-31'
+  time: '20:00'
+  band_name: Hearts of three
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 34357
+  date: '2013-03-30'
+  time: '20:00'
+  band_name: The Duck Tales
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 34358
+  date: '2013-03-23'
+  time: '22:00'
+  band_name: ТакиДа
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 34359
+  date: '2013-03-22'
+  time: '22:00'
+  band_name: Ms.Sounday
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+- id: 34360
+  date: '2013-03-16'
+  time: '22:00'
+  band_name: Борис Хлуднев & BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 34361
+  date: '2013-03-09'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 100-500 руб.
+- id: 34362
+  date: '2013-03-08'
+  time: '22:00'
+  band_name: Мейделех
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250-500 руб.
+- id: 34363
+  date: '2013-03-02'
+  time: '22:00'
+  band_name: H2O
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 34364
+  date: '2013-03-01'
+  time: '22:00'
+  band_name: Табаско band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35114
+  date: '2013-04-03'
+  time: '20:00'
+  band_name: Алевтина Полякова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35115
+  date: '2013-04-04'
+  time: '20:00'
+  band_name: Коперник
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200-300 руб.
+- id: 35116
+  date: '2013-04-07'
+  time: '20:00'
+  band_name: Atava band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 35117
+  date: '2013-04-11'
+  time: '21:00'
+  band_name: Salt Peanutz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 35118
+  date: '2013-04-06'
+  time: '22:00'
+  band_name: Мейделех
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 35119
+  date: '2013-04-12'
+  time: '22:00'
+  band_id: 276
+  band_name: Betty Boop Lovers
+  band_token: betty-boop-lovers
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35120
+  date: '2013-04-13'
+  time: '22:00'
+  band_name: Double Martyn
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 35121
+  date: '2013-04-10'
+  time: '20:00'
+  band_name: Максим Кудымов - Стендап Камеди
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35122
+  date: '2013-04-17'
+  time: '20:00'
+  band_name: The Keep Silence band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 35123
+  date: '2013-04-18'
+  time: '20:00'
+  band_name: Офис Бэнд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 150-300 руб.
+- id: 35124
+  date: '2013-04-19'
+  time: '22:00'
+  band_name: ГКЧП
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35125
+  date: '2013-04-20'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 35126
+  date: '2013-04-21'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35127
+  date: '2013-04-24'
+  time: '20:00'
+  band_name: Максим Кудымов - Стендап Камеди
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35128
+  date: '2013-04-25'
+  time: '20:00'
+  band_name: Юрий Шмыров & Co
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35129
+  date: '2013-04-26'
+  time: '22:00'
+  band_name: Foxy Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 35130
+  date: '2013-04-27'
+  time: '22:00'
+  band_name: The Bastards
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 35131
+  date: '2013-04-28'
+  time: '20:00'
+  band_name: Эфоника
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35110
+  date: '2013-04-08'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35111
+  date: '2013-04-15'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35112
+  date: '2013-04-22'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35113
+  date: '2013-04-29'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35879
+  date: '2013-05-06'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35880
+  date: '2013-05-13'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35881
+  date: '2013-05-20'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35882
+  date: '2013-05-27'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35883
+  date: '2013-05-02'
+  time: '22:00'
+  band_name: Румыния
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35884
+  date: '2013-05-05'
+  time: '18:00'
+  band_name: 'Sun Day Reggae Festival: Dub tv, Каникулы Бонифация, Green Tea'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 35885
+  date: '2013-05-08'
+  time: '22:00'
+  band_name: Marimba plus
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 512
+    name: Marimba Plus
+    token: marimba-plus
+- id: 35886
+  date: '2013-05-10'
+  time: '22:00'
+  band_name: JustListen
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35887
+  date: '2013-05-11'
+  time: '22:00'
+  band_name: Офис Бенд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35888
+  date: '2013-05-12'
+  time: '20:00'
+  band_name: The Frotters
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 35889
+  date: '2013-05-17'
+  time: '22:00'
+  band_name: Борис Хлуднев и BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35890
+  date: '2013-05-18'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35891
+  date: '2013-05-19'
+  time: '20:00'
+  band_name: Нани Ева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35892
+  date: '2013-05-22'
+  time: '20:00'
+  band_name: Алла Титиевская
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 35893
+  date: '2013-05-23'
+  time: '20:00'
+  band_name: Лунг
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 35894
+  date: '2013-05-24'
+  time: '22:00'
+  band_name: ГКЧП
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35895
+  date: '2013-05-25'
+  time: '22:00'
+  band_name: Табаско бенд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35896
+  date: '2013-05-26'
+  time: '20:00'
+  band_name: Саша Виста
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600 руб.
+- id: 35897
+  date: '2013-05-30'
+  time: '20:00'
+  band_name: Palevo
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 35898
+  date: '2013-05-31'
+  time: '22:00'
+  band_name: Вечеринка Московский Beat
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 36534
+  date: '2013-06-01'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 36535
+  date: '2013-06-02'
+  time: '20:00'
+  band_name: Jazz Pro
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 36536
+  date: '2013-06-05'
+  time: '20:00'
+  band_name: Наталья Дунаевская
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 36537
+  date: '2013-06-06'
+  time: '18:00'
+  band_name: Moscow Raggamuffin Congress
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36538
+  date: '2013-06-07'
+  time: '22:00'
+  band_name: The Bastards
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 36539
+  date: '2013-06-08'
+  time: '22:00'
+  band_name: Bukanero
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 36540
+  date: '2013-06-09'
+  time: '20:00'
+  band_name: Rayan
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 36541
+  date: '2013-06-11'
+  time: '20:00'
+  band_name: Synoptix (Екб)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 36542
+  date: '2013-06-13'
+  time: '20:00'
+  band_name: Ultra Zhook Project
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36543
+  date: '2013-06-15'
+  time: '22:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36544
+  date: '2013-06-16'
+  time: '20:00'
+  band_name: Artesanos del Flamenco
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36545
+  date: '2013-06-19'
+  time: '20:00'
+  band_name: Трио Игоря Иванушкина
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36546
+  date: '2013-06-23'
+  time: '20:00'
+  band_name: Electric Avenue
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36547
+  date: '2013-06-26'
+  time: '20:00'
+  band_name: Катерина Анохина и Atava band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 36548
+  date: '2013-06-27'
+  time: '20:00'
+  band_name: Квартет Даниила Федорова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36549
+  date: '2013-06-30'
+  time: '20:00'
+  band_name: Саша Акманова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 36529
+  date: '2013-06-03'
+  time: '20:00'
+  band_name: 'Джазовый Jam Session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 36530
+  date: '2013-06-10'
+  time: '20:00'
+  band_name: 'Джазовый Jam Session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 36531
+  date: '2013-06-17'
+  time: '20:00'
+  band_name: 'Джазовый Jam Session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 36532
+  date: '2013-06-24'
+  time: '20:00'
+  band_name: 'Джазовый Jam Session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 36533
+  date: '2013-07-01'
+  time: '20:00'
+  band_name: 'Джазовый Jam Session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 37258
+  date: '2013-07-04'
+  time: '20:00'
+  band_name: Дуэт Do-It
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37259
+  date: '2013-07-08'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37260
+  date: '2013-07-15'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37261
+  date: '2013-07-22'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37262
+  date: '2013-07-29'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37263
+  date: '2013-07-05'
+  time: '22:00'
+  band_name: Рейкьявик
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 37264
+  date: '2013-07-06'
+  time: '22:00'
+  band_name: Richies Blues band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37265
+  date: '2013-07-07'
+  time: '20:00'
+  band_name: Zakon ПоdLo$ти
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37266
+  date: '2013-07-11'
+  time: '20:00'
+  band_name: Psy Кукушечка
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37267
+  date: '2013-07-12'
+  time: '21:00'
+  band_name: Ретро Rock-n-roll Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 37268
+  date: '2013-07-18'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37269
+  date: '2013-07-20'
+  time: '22:00'
+  band_name: Chiefs band (Минск)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 591
+    name: Chiefs Band
+    token: chiefs-band
+- id: 37270
+  date: '2013-07-21'
+  time: '20:00'
+  band_name: NOA NOA
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 37271
+  date: '2013-07-25'
+  time: '20:00'
+  band_name: Карамаджонги и Акулы на прогулке
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37272
+  date: '2013-07-26'
+  time: '22:00'
+  band_name: Борис Хлуднев & BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37273
+  date: '2013-07-26'
+  time: '21:00'
+  band_name: Alina OS
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  comments: На летней терассе
+- id: 37274
+  date: '2013-07-28'
+  time: '20:00'
+  band_name: Appleme
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37804
+  date: '2013-08-16'
+  time: '22:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37805
+  date: '2013-08-18'
+  time: '20:00'
+  band_name: Алла Рид
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37806
+  date: '2013-08-22'
+  time: '20:00'
+  band_name: Artesanos del Flamenco
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37807
+  date: '2013-08-23'
+  time: '22:00'
+  band_name: Bukanero
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 37808
+  date: '2013-08-25'
+  time: '20:00'
+  band_name: Noa Noa
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 37809
+  date: '2013-08-30'
+  time: '22:00'
+  band_name: Сентябрь FM
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200-300 руб.
+- id: 37810
+  date: '2013-08-31'
+  time: '22:00'
+  band_name: Beatles Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 37796
+  date: '2013-08-05'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37797
+  date: '2013-08-12'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37798
+  date: '2013-08-19'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37799
+  date: '2013-08-26'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37800
+  date: '2013-09-02'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37801
+  date: '2013-08-03'
+  time: '22:00'
+  band_name: Radio Kamerger
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 37802
+  date: '2013-08-08'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37803
+  date: '2013-08-15'
+  time: '20:00'
+  band_name: Chiefs band (Минск)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+  extra_bands:
+  - id: 591
+    name: Chiefs Band
+    token: chiefs-band
+- id: 37908
+  date: '2013-08-17'
+  time: '22:00'
+  band_name: Ms. Sounday
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37909
+  date: '2013-08-24'
+  time: '22:00'
+  band_name: RH
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 37910
+  date: '2013-08-29'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 37917
+  date: '2013-09-07'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  comments: Королевская порция харизматичного рок-н-ролла для анти-депрессивной осени
+    от Fly Mexican Airlines®. Самоиграющие инструменты в руках безумно позитивных
+    людей. Только драйв и ничего лишнего
+- id: 37914
+  date: '2013-08-15'
+  time: '20:00'
+  band_id: 591
+  band_name: Chiefs Band
+  band_token: chiefs-band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+  comments: "15 августа белорусская группа Chiefs Band снова устроит фанк-о-джазовую\
+    \ феерию в Москве!\r\n\r\nНа этот раз для всех любителей по истине \"живой\" музыки\
+    \ двери откроет столичный клуб FAQ-Cafe Creative Studio!\r\n\r\nСтоличная публика\
+    \ услышит не только уже полюбившиеся мелодии в стиле \"чифсов\": Lady of sunshine,\
+    \ Music in my head и хит New York City, ребята готовят что-то грандиозное, новые\
+    \ \"прирокешные\" нотки в известных популярных композициях и еще больше белорусского\
+    \ языка!\r\n\r\nДжазовые пираты, группа Chiefs Band идет на абордаж!!!"
+- id: 38246
+  date: '2013-09-09'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38247
+  date: '2013-09-16'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38248
+  date: '2013-09-23'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38249
+  date: '2013-09-30'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38250
+  date: '2013-10-07'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38251
+  date: '2013-09-01'
+  time: '20:00'
+  band_name: ULME
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300/400 руб.
+- id: 38252
+  date: '2013-09-05'
+  time: '20:00'
+  band_name: Две Трети
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38253
+  date: '2013-09-06'
+  time: '22:00'
+  band_name: Garage band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38254
+  date: '2013-09-08'
+  time: '20:00'
+  band_name: NSWE
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 150/300 руб.
+- id: 38255
+  date: '2013-09-12'
+  time: '20:00'
+  band_name: D#EZ
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38256
+  date: '2013-09-13'
+  time: '22:00'
+  band_name: The Duck Tales
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38257
+  date: '2013-09-14'
+  time: '22:00'
+  band_name: 16 бит
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38258
+  date: '2013-09-15'
+  time: '20:00'
+  band_name: Moscow Raggamuffin Congress 2
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38259
+  date: '2013-09-18'
+  time: '20:00'
+  band_name: PUR PUR (Украина)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600 руб.
+- id: 38260
+  date: '2013-09-20'
+  time: '22:00'
+  band_name: Акустические Ботинки и Патризан FM
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 38261
+  date: '2013-09-21'
+  time: '22:00'
+  band_name: ГКЧП
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38262
+  date: '2013-09-22'
+  time: '20:00'
+  band_name: Офис band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38263
+  date: '2013-09-26'
+  time: '20:00'
+  band_name: Безымянский band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38264
+  date: '2013-09-27'
+  time: '21:00'
+  band_name: 'День Рождения FAQ-Cafe: Алина ОС / Вахтанг / Жулики'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38265
+  date: '2013-09-28'
+  time: '22:00'
+  band_name: Улица Правды
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 38266
+  date: '2013-09-29'
+  time: '20:00'
+  band_name: Green Tea
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38675
+  date: '2013-10-18'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38754
+  date: '2013-10-21'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38762
+  date: '2013-10-11'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 38763
+  date: '2013-10-12'
+  time: '22:00'
+  band_name: Garage band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38764
+  date: '2013-10-13'
+  time: '20:00'
+  band_name: Jazz Up band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38768
+  date: '2013-10-24'
+  time: '20:00'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38592
+  date: '2013-10-27'
+  time: '20:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб
+- id: 38753
+  date: '2013-10-14'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38755
+  date: '2013-10-28'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38756
+  date: '2013-11-04'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 38757
+  date: '2013-10-03'
+  time: '21:00'
+  band_name: Kamilla
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38758
+  date: '2013-10-04'
+  time: '22:00'
+  band_name: Чайка
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38759
+  date: '2013-10-05'
+  time: '22:00'
+  band_name: The Bastards
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38760
+  date: '2013-10-06'
+  time: '20:00'
+  band_name: Ксения Лебедева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 38761
+  date: '2013-10-10'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 38765
+  date: '2013-10-17'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38766
+  date: '2013-10-19'
+  time: '22:00'
+  band_name: Московской Beat
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 38767
+  date: '2013-10-20'
+  time: '20:00'
+  band_name: Воскресный Лайм
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 38769
+  date: '2013-10-25'
+  time: '22:00'
+  band_name: Табаско бэнд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 38770
+  date: '2013-10-26'
+  time: '21:00'
+  band_name: Halloween c Ногу Свело
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 700 руб.
+  extra_bands:
+  - id: 320
+    name: Ногу свело!
+    token: nogu-svelo
+- id: 38771
+  date: '2013-10-31'
+  time: '20:00'
+  band_name: Rayan
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 39872
+  date: '2013-11-07'
+  time: '19:00'
+  band_name: Dub Division, The Dubsters, The Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  comments: "Первая вечеринка из серии Moscow Dub Club!\r\n\r\n7 ноября, четверг,\
+    \ FAQ-Cafe creative studio и Moscow Dub Club представляют:\r\nDub Division\r\n\
+    The Dubsters\r\nThe Stereodrop\r\n+ специальные гости!\r\n\r\nВремя: 19:00-00:00\r\
+    \nВход: free\r\nАдрес: г. Москва, улица Большая Полянка, д. 65/74, стр.1 (м. \"\
+    Добрынинская\", \"Серпуховская\").\r\nТелефоны: +7 (495) 951-52-27, +7 (499) 755-88-27\r\
+    \nПочта: cafe@faqcafe.ru\r\nВеб-сайт:http://vk.com/moscowdubclub"
+  extra_bands:
+  - id: 208
+    name: Dub Division
+    token: dubdivision
+- id: 39984
+  date: '2013-11-10'
+  time: '20:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: Pay What You Want
+- id: 40499
+  date: '2013-12-09'
+  time: '20:00'
+  band_name: Jazz jam session. Александр Гуреев и друзья
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 40500
+  date: '2013-12-16'
+  time: '20:00'
+  band_name: Jazz jam session. Александр Гуреев и друзья
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 40502
+  date: '2013-12-30'
+  time: '20:00'
+  band_name: Jazz jam session. Александр Гуреев и друзья
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 40503
+  date: '2013-12-31'
+  time: '21:00'
+  band_name: Garage band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 1000 руб.
+- id: 40504
+  date: '2013-12-29'
+  time: '21:00'
+  band_name: Oran Juzz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 40505
+  date: '2013-12-28'
+  time: '21:00'
+  band_name: Rock'n'Roll Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 40506
+  date: '2013-12-26'
+  time: '20:00'
+  band_name: Polityca
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 40501
+  date: '2013-12-23'
+  time: '20:00'
+  band_name: Jazz jam session. Александр Гуреев и друзья
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 40507
+  date: '2013-12-25'
+  time: '20:00'
+  band_name: Олег Киреев квартет
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 40508
+  date: '2013-12-24'
+  time: '20:00'
+  band_name: Bradbury
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 40509
+  date: '2013-12-22'
+  time: '20:00'
+  band_name: Radio Kamerger
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 40510
+  date: '2013-12-20'
+  time: '22:00'
+  band_name: Sadme
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40511
+  date: '2013-12-19'
+  time: '20:00'
+  band_name: Gipsy Flamenco
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40512
+  date: '2013-12-17'
+  time: '20:00'
+  band_name: Obi-Wan Laden & Aspersound
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 40513
+  date: '2013-12-15'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 40514
+  date: '2013-12-14'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 40515
+  date: '2013-12-13'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 40516
+  date: '2013-12-12'
+  time: '20:00'
+  band_name: Палево
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40517
+  date: '2013-12-11'
+  time: '20:00'
+  band_name: М-Артель
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40518
+  date: '2013-12-10'
+  time: '20:00'
+  band_name: Ivanov Vibe band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 528
+    name: Ivanov Vibe Band
+    token: ivanov-vibe-band
+- id: 40519
+  date: '2013-12-08'
+  time: '20:00'
+  band_name: Suita de Ora
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40520
+  date: '2013-12-07'
+  time: '22:00'
+  band_name: Rocking Sun
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 40521
+  date: '2013-12-06'
+  time: '22:00'
+  band_name: Real Bodrit
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 40522
+  date: '2013-12-05'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.

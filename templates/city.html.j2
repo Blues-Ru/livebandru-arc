@@ -1,0 +1,65 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ city.name }} — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+{% if web_links %}
+<div id="aboutBox">
+  <p class="main">
+    {% for link in web_links %}
+    <a href="{{ link.url }}" target="_blank"><bx>{{ link.name }}</bx></a>{% if link.comments %} - {{ link.comments }}{% endif %}<br />
+    {% endfor %}
+  </p>
+  <div class="clear"></div>
+</div>
+{% endif %}
+
+<div class="lrBlocks">
+{% if top_bands %}
+<div class="lBlock">
+  <h4 class="und">Группы</h4>
+  <table class="wide">
+    <thead><tr><th>Группа</th><th style="width:4em;">Концерты</th></tr></thead>
+    <tbody>
+      {% for b in top_bands %}
+      <tr class="{{ 'odd' if loop.index is odd else 'even' }}">
+        <td><a href="/band/{{ b.token }}/">{{ b.name }}</a></td>
+        <td style="width:4em;" align="right"><span class="aux">{{ b.gig_count or '' }}</span></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% if has_all_bands %}
+  <p class="more"><a class="more" href="{{ all_bands_url }}">Все группы города...</a></p>
+  {% endif %}
+  <div class="brdBtm"></div>
+</div>
+{% endif %}
+
+{% if top_clubs %}
+<div class="rBlock">
+  <h4 class="und">Клубы</h4>
+  <table class="wide">
+    <thead><tr><th>Клуб</th><th style="width:4em;">Концерты</th></tr></thead>
+    <tbody>
+      {% for c in top_clubs %}
+      <tr class="{{ 'odd' if loop.index is odd else 'even' }}">
+        <td><a href="/club/{{ c.token }}/">{{ c.name }}</a></td>
+        <td style="width:4em;" align="right"><span class="aux">{{ c.gig_count or '' }}</span></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% if has_all_clubs %}
+  <p class="more"><a class="more" href="{{ all_clubs_url }}">Все клубы города...</a></p>
+  {% endif %}
+  <div class="brdBtm"></div>
+</div>
+{% endif %}
+<div class="clear"></div>
+</div>
+
+{% if not top_bands and not top_clubs %}
+<p class="main">Группы и клубы из этого города не зарегистрированы.</p>
+{% endif %}
+{% endblock %}

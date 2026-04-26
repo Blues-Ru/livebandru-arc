@@ -1,0 +1,14 @@
+id: 539
+token: perekrestok-dzhaza
+name: Перекресток джаза
+alive: true
+address: К.Маркса, 55
+subway: Площадь Тукая
+phone: +7(843)264-3355
+city_id: 10
+clips:
+- id: 2887
+  type: weblink
+  url: http://prkjazza.ru/
+  name: Официальный сайт
+  sort_order: 0

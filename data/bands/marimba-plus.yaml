@@ -1,0 +1,36 @@
+id: 512
+token: marimba-plus
+name: Marimba Plus
+alive: true
+city_id: 1
+genre_id: 2
+secondary_genre_id: 11
+musicians:
+- name: Лев Слепнер
+  instruments: маримба, перкуссия
+- name: Сергей Нанкин
+  instruments: кларнет, бассетгорн, вокал
+- name: Тимур Некрасов
+  instruments: саксофоны
+- name: Евгений Ярын
+  instruments: бас-гитара
+- name: Александр Кульков
+  instruments: барабаны
+clips:
+- id: 2540
+  type: youtube
+  url: http://youtu.be/EFzmrkCy_6s
+  name: Marimba Plus в проекте видео-арт от А. Наймушина
+  sort_order: 0
+- id: 2541
+  type: photo
+  url: marimba-plus.jpg
+  sort_order: 0
+  width: 800
+  height: 532
+- id: 2905
+  type: photo
+  url: marimba-plus-2.jpg
+  sort_order: 100
+  width: 544
+  height: 735

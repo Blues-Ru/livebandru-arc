@@ -1,0 +1,37 @@
+- id: 51309
+  date: '2015-05-15'
+  time: '18:30'
+  band_name: 'Jazz May 2015: звезды петербургского Дджаза (Билли Новик, Юлия Михайловская);
+    Open Strings - Евгений Лебедев, Антон Ревню, Игнат Кравцов и струнный квартет
+    "Премьера"'
+  club_id: 659
+  club_name: Пензенская Областная Филармония
+  club_token: penzenskaya-oblastnaya-filarmoniya
+- id: 51311
+  date: '2015-05-17'
+  time: '18:30'
+  band_name: 'Jazz May 2015: Эстрадно-джазовый ансамбль "Экспресс-Бэнд" (Пенза), Квинтет
+    Алексея Беккера (Москва), Квартет Игоря Бутмана (Москва) и Полина Зизак (вокал)'
+  club_id: 659
+  club_name: Пензенская Областная Филармония
+  club_token: penzenskaya-oblastnaya-filarmoniya
+  extra_bands:
+  - id: 463
+    name: Квартет Игоря Бутмана
+    token: igor-butman-kvartet
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 51310
+  date: '2015-05-16'
+  time: '18:30'
+  band_name: 'Jazz May 2015: Биг-бэнд п/у Валерия Дмитриева (Заречный, Пензенская
+    обл.); Биг-бэнд "Саранск" п/у Александра Курина; Большой Джазовый Оркестр трубача
+    Петра Востокова (Москва)'
+  club_id: 659
+  club_name: Пензенская Областная Филармония
+  club_token: penzenskaya-oblastnaya-filarmoniya
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo

@@ -1,0 +1,289 @@
+- id: 56776
+  date: '2016-02-15'
+  time: '20:00'
+  band_name: 'Новый проект Владимира Чекасина "Open Communication": Владимир Чекасин
+    (саксофон, фортепиано, вокал), Дмитрий Илугдин (клавишные)'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 56777
+  date: '2016-02-16'
+  time: '17:30'
+  band_name: 'Новый проект Владимира Чекасина "Open Communication"+"Open School":
+    Владимир Чекасин (саксофон, фортепиано, вокал), Анна Королева (саксофон, вокал)'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 56819
+  date: '2016-02-18'
+  time: '20:00'
+  band_name: Гайворонский - Волков - Кондаков (Санкт-Петербург)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 56820
+  date: '2016-02-19'
+  time: '20:00'
+  band_name: '"Шестидесятник". Юбилейный концерт Сергея Старостина'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57078
+  date: '2016-03-24'
+  band_name: Mikko Innanen & Simo Laihonen (FIN)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57079
+  date: '2016-03-29'
+  time: '20:00'
+  band_name: Sonic Intervention - вечер спонтанной музыки с Illi Adato (UK)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57076
+  date: '2016-03-14'
+  time: '20:00'
+  band_name: Микро-фестиваль импровизационной музыки "The Meat, The Fish and The Vegetable"
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57077
+  date: '2016-03-17'
+  time: '20:00'
+  band_name: Вечер свободной импровизации
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58446
+  date: '2016-05-14'
+  time: '20:00'
+  band_name: 'Концерт московской импровизационной музыки: Алексей Борисов + Константин
+    Жаба Гурьянов + Пётр Отоцкий; Изразец; Константин Сухан + Антон Колос + Катя Рекк;
+    Алексей Сысоев + Владимир Горлинский + Юрий Фаворин + Дарья Звездина'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57767
+  date: '2016-04-03'
+  time: '20:00'
+  band_name: Мина Агосси (Франция) + Алексей Айги и Ансамбль 4'33"
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57768
+  date: '2016-04-15'
+  time: '20:00'
+  band_name: Rubatong (Нидерланды)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 57769
+  date: '2016-04-20'
+  time: '20:00'
+  band_name: Plaistow + Antoine Lang (Швейцария)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58447
+  date: '2016-05-16'
+  time: '20:00'
+  band_name: Shelley Hirsсh (вокал, США)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58449
+  date: '2016-05-19'
+  time: '21:00'
+  band_name: Otomo Yoshihide / Paal Nilssen-love duo (Япония-Норвегия)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58451
+  date: '2016-05-22'
+  time: '20:00'
+  band_name: День рождения Культурного Центра ДОМ. 17 лет.
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58452
+  date: '2016-05-24'
+  time: '20:00'
+  band_name: Новый проект Владимира Чекасина "Open Communication". (саксофоны, клавишные,
+    голос - Литва) - Григорий Сандомирский (рояль)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58448
+  date: '2016-05-17'
+  time: '20:00'
+  band_name: Новый проект Владимира Чекасина "Open Communication". Владимир Чекасин
+    (саксофоны, клавишные, голос - Литва) - Алексей Наджаров (рояль, электроника)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58450
+  date: '2016-05-20'
+  time: '20:00'
+  band_name: Glintshake
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 58453
+  date: '2016-05-25'
+  time: '20:00'
+  band_name: Moscow Wroclaw Cyber Laptop Orchestra
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 59071
+  date: '2016-06-09'
+  time: '20:00'
+  band_name: 'Новый проект Владимира Чекасина "Open communication": Владимир Чекасин
+    - саксофоны, клавишные, голос (Литва); Андрей Разин - рояль'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 59072
+  date: '2016-06-02'
+  time: '20:00'
+  band_name: Ken Vandermark - саксофоны, кларнет (США), Terrie Ex (The Ex) - электрогитара
+    (Нидерланды), Andy Moor (The Ex) - электрогитара (Нидерланды), Paal Nilssen-Love
+    - ударные, перкуссия (Норвегия)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 60695
+  date: '2016-09-12'
+  time: '20:00'
+  band_name: Eugene Chadbourne - вокал, гитара, банджо (США)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 60696
+  date: '2016-09-13'
+  time: '20:00'
+  band_name: Локально-деревянный ансамбль Аркадия Шилклопера
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 60697
+  date: '2016-09-18'
+  time: '20:00'
+  band_name: Гала-концерт Фестиваля Варгана
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 60698
+  date: '2016-09-22'
+  time: '20:00'
+  band_name: Sidsel Endresen / Stian Westerhus Duo (Норвегия)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 60699
+  date: '2016-09-30'
+  time: '20:00'
+  band_name: Фестиваль Moscow hang out
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61154
+  date: '2016-10-13'
+  time: '20:00'
+  band_name: 'Konk Pack Trio: Фестиваль Гете-института "Джаз осенью - Impro" , концерт
+    первый'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61155
+  date: '2016-10-17'
+  time: '20:00'
+  band_name: Аркадию Шилклоперу 60 лет! Юбилейный концерт
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61156
+  date: '2016-10-25'
+  time: '20:00'
+  band_name: Thomas Buckner (USA)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61157
+  date: '2016-10-29'
+  time: '20:00'
+  band_name: The Young Mothers
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61618
+  date: '2016-11-06'
+  time: '20:00'
+  band_name: 'Blume / Butcher / De Joode Trio: Фестиваль Гете-института "Джаз осенью
+    - Impro" , концерт второй'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61619
+  date: '2016-11-10'
+  time: '20:00'
+  band_name: A Zoology of the Future
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61621
+  date: '2016-11-17'
+  time: '20:00'
+  band_name: Seven / Eight Band
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61620
+  date: '2016-11-12'
+  time: '20:00'
+  band_name: Jones Jones Trio
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61623
+  date: '2016-11-25'
+  time: '20:00'
+  band_name: Peter Brotzmann - 75! Фестиваль Гете-института "Джаз осенью - Impro"
+    , концерт третий
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 61622
+  date: '2016-11-24'
+  time: '20:00'
+  band_name: Nawal (Коморские острова)
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 62043
+  date: '2016-12-01'
+  time: '20:00'
+  band_name: 'Kazuhisa Uchihashi + DDK Trio: Фестиваль Гете-института "Джаз осенью
+    - Impro", концерт четвертый'
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 62044
+  date: '2016-12-02'
+  time: '20:00'
+  band_name: Алексей Айги и Кэйсукэ Ота
+  club_id: 135
+  club_name: Дом
+  club_token: dom
+- id: 62045
+  date: '2016-12-10'
+  time: '20:00'
+  band_name: Kuchen / Berthling / Noble Trio (Швеция-Великобритания)
+  club_id: 135
+  club_name: Дом
+  club_token: dom

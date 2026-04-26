@@ -1,0 +1,19 @@
+id: 537
+token: koncertno-teatralnyj-centr-yugra-klassik
+name: Концертно-театральный центр "Югра-Классик"
+alive: true
+address: Мира, 22
+phone: +7(3467)352-635, 352-739
+city_id: 102
+clips:
+- id: 2881
+  type: weblink
+  url: http://ugraclassic.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2883
+  type: photo
+  url: koncertno-teatralnyj-centr-yugra-klassik.jpg
+  sort_order: 0
+  width: 675
+  height: 361

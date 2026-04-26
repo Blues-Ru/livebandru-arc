@@ -1,0 +1,13 @@
+id: 868
+token: biblioteka-iskusstv-im-a-p-bogolyubova
+name: Библиотека искусств им. А.П. Боголюбова
+alive: true
+address: ул. Сущевская, 14
+subway: Менделеевская, Новослободская
+city_id: 1
+clips:
+- id: 8260
+  type: weblink
+  url: http://www.bogolublib.ru/
+  name: Официальный сайт
+  sort_order: 0

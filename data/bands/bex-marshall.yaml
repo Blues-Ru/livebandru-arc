@@ -1,0 +1,100 @@
+id: 645
+token: bex-marshall
+name: Bex Marshall
+alive: true
+url: http://www.bexmarshall.co.uk
+city_id: 77
+genre_id: 1
+secondary_genre_id: 10
+musicians:
+- name: Bex Marshall
+  instruments: vocals/resonator guitar/dobro/guitar
+- name: Герман Тигай
+  instruments: бас-гитара
+- name: Егор Горкин
+  instruments: ударные
+clips:
+- id: 5048
+  type: youtube
+  url: http://www.youtube.com/?v=RjpMbMf1hxs
+  name: Love (Bex Marshall) - From her 2012 Album 'House Of Mercy", performed live
+    on the Raven & Blues radio show
+  comments: From her 2012 Album 'House Of Mercy" (http://www.bexmarshall.co.uk/) performed
+    live on the Raven & Blues radio show - http://www.raven.dj
+  sort_order: 99
+- id: 5049
+  type: youtube
+  url: http://www.youtube.com/?v=iq9lxW26-yc
+  name: Bex Marshall Live at the Warrington Blues Club 25th September 2009
+  comments: "http://www.flickr.com/photos/12547928@N07/3955266301/\r\nBex Marshall\
+    \ Live at the Warrington Blues Club 25th September 2009"
+  sort_order: 199
+- id: 5101
+  type: photo
+  url: bex-marshall.jpg
+  sort_order: 0
+  width: 1772
+  height: 1927
+- id: 5040
+  type: weblink
+  url: http://www.bexmarshall.co.uk
+  name: Официальный сайт
+  sort_order: 0
+- id: 5050
+  type: youtube
+  url: http://www.youtube.com/?v=KWlJEwuYu2I
+  name: Rattlesnake - Bex Marshall Band Live at Warrington Blues Club September 2009
+  comments: http://www.flickr.com/photos/12547928@N07/3955266301/Bex Marshall Band
+    Live at Warrington Blues Club September 2009
+  sort_order: 149
+- id: 5184
+  type: youtube
+  url: http://www.youtube.com/?v=wmHFhOHf43s
+  name: Bex Marshall - Kitchen Table (Live @ BayFM studios Byron Bay)
+  comments: Hope the syncing is better on this one!
+  sort_order: 124
+- id: 5185
+  type: youtube
+  url: http://www.youtube.com/?v=BpO4ScxuTxE
+  name: Bex Marshall Band live at 'Maryport Blues Festival 2010
+  comments: Bex Marshall Band Live at Maryport Blues Festival 2010
+  sort_order: 137
+reviews:
+- id: 384
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженка Лондона БЭКС МАРШАЛЛ - певица, сонграйтер, гитаристка - это просто
+    ураган,"музыкальное торнадо"! Можно не сомневаться в том, что ее выступление не
+    оставит равнодушной публику независимо от того, исполняет ли она свои проникновенные,
+    страстные, чувcтвенные песни сольно в маленьком клубе или в составе группы от
+    пауэр-трио до биг-бэнда на главной сцене крупнейшего фестиваля.
+
+
+    Неоднократно номинированная на British Blues Awards в категории "Best Female Vocalist",
+    она потучила награду в 2008 и пришла к финишу второй в 2013. Ее фирменный гитарный
+    стиль - сплав блюз-роковых риффов, кантри-блюза, рэг-тайма, игры слайдом и "корневого"
+    фингерпикинга.
+
+
+    Бэкс Маршал много и успешно гастролирует по Британии, Континентальной Европе,
+    странам Северной и Южной Америки, особенно часто в США и Бразилии, причем в Штатах
+    с оригинальным составом Big Brother and The Holding Company!
+
+
+    Последний, обласканный критиками и горячо принятый поклонниками, студийный альбом
+    Бекс Маршалл "The House оf Mercy" в 2013 году занимал высокие позиции в чартах
+    по обе стороны Атлантики, достиг шестой строчки Top-20 в Британии и надолго закрепился
+    в Top-40 в Штатах!
+
+
+    Во второй приезд Бекс Маршал в Россию в феврале 2018 года, она была одним из участников
+    представительного Beatles Fest, отыгала несколько концерта в московских клубах
+    и в ЦДХ, а также выступила с эксклюзивным акустическим сетом на презентации книги
+    Эркина Тузмухамедова.
+
+
+    Третий тур Бэкс Маршал с успехом прошел в начале августа 2019 года.'
+  verified: true
+  created: '2013-12-20'
+  is_press_release: true

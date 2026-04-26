@@ -1,0 +1,27 @@
+id: 380
+token: arteria
+name: АртЭрия
+aliases: 'Артерия
+
+  Арт''Эрия'
+alive: true
+address: Пушечная, 9/6
+subway: Кузнецкий мост, Лубянка
+phone: 925-0267
+city_id: 1
+comments: Каминный зал ЦДРИ
+clips:
+- id: 1600
+  type: rss
+  url: http://community.livejournal.com/art_eria/data/rss
+  sort_order: 99
+- id: 1602
+  type: weblink
+  url: http://vk.com/club1295653
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1601
+  type: weblink
+  url: http://www.cdri.ru/clubart/
+  name: Официальный сайт
+  sort_order: 0

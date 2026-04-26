@@ -1,0 +1,497 @@
+- id: 64679
+  date: '2017-04-18'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 62990
+  date: '2017-01-24'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 62960
+  date: '2017-01-05'
+  band_name: Hula Hoop
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 62962
+  date: '2017-01-12'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 62961
+  date: '2017-01-10'
+  band_name: Salt Peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 63140
+  date: '2017-02-07'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 63456
+  date: '2017-02-05'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63459
+  date: '2017-02-14'
+  time: '20:00'
+  band_id: 713
+  band_name: Сто Ватт
+  band_token: 100-watt
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63461
+  date: '2017-02-26'
+  time: '20:00'
+  band_name: Dani Yard Quartet
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63455
+  date: '2017-02-02'
+  time: '20:00'
+  band_name: Майя Заведия & Band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63457
+  date: '2017-02-09'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63458
+  date: '2017-02-12'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63460
+  date: '2017-02-16'
+  time: '20:00'
+  band_id: 360
+  band_name: Beat Devils
+  band_token: beat-devils
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63462
+  date: '2017-02-28'
+  time: '20:00'
+  band_name: Органавты
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 63658
+  date: '2017-03-28'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 63595
+  date: '2017-03-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 64155
+  date: '2017-03-19'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 64157
+  date: '2017-03-23'
+  time: '20:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 64156
+  date: '2017-03-21'
+  time: '20:00'
+  band_name: Кристина Ковалева (вокал) и квартет Алексея Рябухина (фортепиано)
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 64158
+  date: '2017-03-26'
+  time: '20:00'
+  band_name: Моника Рогальска
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 64678
+  date: '2017-04-16'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 65635
+  date: '2017-06-08'
+  band_name: Михаил Кистанов и его ТРИО
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 66073
+  date: '2017-06-10'
+  band_name: MOVE band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66074
+  date: '2017-06-14'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66075
+  date: '2017-06-15'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66076
+  date: '2017-06-18'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66210
+  date: '2017-07-06'
+  band_name: Майя Заведия & Band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66208
+  date: '2017-07-02'
+  band_name: Dani Yard Quartet
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66209
+  date: '2017-07-05'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66878
+  date: '2017-08-09'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66879
+  date: '2017-08-10'
+  band_name: Майя Заведия & Band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 66876
+  date: '2017-08-02'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67248
+  date: '2017-08-16'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67247
+  date: '2017-08-13'
+  band_name: Jazz band Move
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67563
+  date: '2017-09-08'
+  band_name: MOVE band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67561
+  date: '2017-08-31'
+  band_name: Михаил Кистанов и его трио
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 67562
+  date: '2017-09-07'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67767
+  date: '2017-09-24'
+  time: '20:00'
+  band_name: Артур Лоран & LA Jazz Band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67769
+  date: '2017-09-20'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67766
+  date: '2017-09-14'
+  band_name: Aleksey Fetisov rock-n-roll trio
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67768
+  date: '2017-09-13'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67770
+  date: '2017-09-27'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67942
+  date: '2017-10-01'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67943
+  date: '2017-10-04'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67944
+  date: '2017-10-08'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 67945
+  date: '2017-10-11'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 68423
+  date: '2017-10-15'
+  band_name: Moscow organ trio + 1
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 68618
+  date: '2017-11-01'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 68619
+  date: '2017-11-02'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 68720
+  date: '2017-11-08'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 69073
+  date: '2017-11-12'
+  time: '20:00'
+  band_name: Compression Jazz collective
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69074
+  date: '2017-11-15'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69075
+  date: '2017-11-19'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69076
+  date: '2017-11-22'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69077
+  date: '2017-11-23'
+  time: '20:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69078
+  date: '2017-11-29'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69276
+  date: '2017-11-30'
+  band_name: The Funkaholics
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 69312
+  date: '2017-12-10'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69313
+  date: '2017-12-13'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69314
+  date: '2017-12-20'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69315
+  date: '2017-12-27'
+  time: '20:00'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69316
+  date: '2017-12-28'
+  time: '20:00'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 69277
+  date: '2017-12-06'
+  band_name: Masala Quartet - открытый Джазовый Джем
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный

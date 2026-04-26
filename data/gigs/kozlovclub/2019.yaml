@@ -1,0 +1,6120 @@
+- id: 75693
+  date: '2019-01-19'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75694
+  date: '2019-02-19'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75705
+  date: '2019-01-06'
+  time: '20:30'
+  band_name: Dario Napoli (Италия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75706
+  date: '2019-01-07'
+  time: '19:00'
+  band_name: Surfing DOG
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75708
+  date: '2019-01-12'
+  time: '20:30'
+  band_name: Kle2go
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75709
+  date: '2019-01-16'
+  time: '20:30'
+  band_name: DM Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75711
+  date: '2019-01-26'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75713
+  date: '2019-02-21'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75707
+  date: '2019-01-08'
+  time: '23:00'
+  band_name: Sasha Mashin Outsidethebox Feat. Alina Sokulska
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75710
+  date: '2019-01-23'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75712
+  date: '2019-01-26'
+  time: '20:00'
+  band_name: Lera Gehner & Alexey Popov Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75768
+  date: '2019-01-02'
+  time: '20:00'
+  band_name: Квинтет Павла Тимофеева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75769
+  date: '2019-01-02'
+  time: '20:30'
+  band_name: Backstage Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 75775
+  date: '2019-01-25'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75776
+  date: '2019-01-04'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75777
+  date: '2019-01-11'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75772
+  date: '2019-01-04'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75773
+  date: '2019-01-11'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75778
+  date: '2019-01-18'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75779
+  date: '2019-01-25'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75780
+  date: '2019-01-06'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 75781
+  date: '2019-01-04'
+  time: '22:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 75742
+  date: '2019-01-01'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 75767
+  date: '2019-01-01'
+  time: '20:00'
+  band_name: Новый год с Алексеем Козловым и Арсеналом
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75770
+  date: '2019-01-03'
+  time: '20:00'
+  band_name: Alexander Dovgopoly Project feat. Виктория Newman
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75771
+  date: '2019-01-03'
+  time: '20:30'
+  band_name: Jose Moryan & Ensolarado Acoustic
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 75774
+  date: '2019-01-18'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 76533
+  date: '2019-01-17'
+  time: '19:30'
+  band_id: 768
+  band_name: Elisha Blue
+  band_token: elisha-blue
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000-2000
+- id: 76647
+  date: '2019-03-19'
+  time: '20:30'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76648
+  date: '2019-03-22'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76650
+  date: '2019-01-27'
+  time: '14:00'
+  band_name: C-jam "Zima 2019". Концерт-марафон
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Плати сколько хочешь
+- id: 76652
+  date: '2019-01-27'
+  time: '20:30'
+  band_name: Юлиана Рогачева И Квартет Алексея Чернакова. "Night Bird"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76653
+  date: '2019-01-27'
+  time: '22:00'
+  band_name: Downtown Beat JAM!
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76655
+  date: '2019-01-28'
+  time: '20:00'
+  band_name: Spacehead
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76661
+  date: '2019-01-30'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76634
+  date: '2019-01-27'
+  time: '20:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 76638
+  date: '2019-02-09'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76640
+  date: '2019-02-15'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76635
+  date: '2019-02-01'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76636
+  date: '2019-02-02'
+  time: '22:00'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76637
+  date: '2019-02-08'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76639
+  date: '2019-02-12'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76641
+  date: '2019-02-16'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76642
+  date: '2019-02-22'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76643
+  date: '2019-03-01'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76644
+  date: '2019-03-08'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76645
+  date: '2019-03-15'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76646
+  date: '2019-03-16'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76651
+  date: '2019-01-27'
+  time: '15:00'
+  band_name: Мастер-класс Евгения Гречищева И Людмилы Сваровской. "Tribute FOR Ella"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 700 руб.
+- id: 76654
+  date: '2019-01-28'
+  time: '19:00'
+  band_name: Trane ZEN ART. Live People Ensemble + Xудожник Стас Шакарвис
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 76656
+  date: '2019-01-28'
+  time: '22:00'
+  band_name: Sasha Mashin Happy LAB. "Outsidethebox"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76657
+  date: '2019-01-29'
+  time: '20:00'
+  band_name: Анна Королева. "Passion Dance"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 76658
+  date: '2019-01-29'
+  time: '22:00'
+  band_name: Anton Chekurov 4tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76659
+  date: '2019-01-30'
+  time: '20:00'
+  band_name: C-jam Club Jazz Orchestra. Фанк-программа
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 448
+    name: C-Jam Club Jazz Orchestra
+    token: cjc-jazz-orchestra
+- id: 76660
+  date: '2019-01-30'
+  time: '20:30'
+  band_name: The Lunar Brothers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76662
+  date: '2019-01-31'
+  time: '19:30'
+  band_name: 'British Blues Invasion: William James Mead (London, UK). Pre-party -
+    шоу "Блюз на виниле" С Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 761
+    name: William James Mead
+    token: william-james-mead
+- id: 76663
+  date: '2019-01-31'
+  time: '20:00'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76664
+  date: '2019-01-31'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76725
+  date: '2019-02-01'
+  time: '22:00'
+  band_name: Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76726
+  date: '2019-02-01'
+  time: '23:30'
+  band_name: Главмосджем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76727
+  date: '2019-02-02'
+  time: '17:00'
+  band_name: Zava Matotra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76728
+  date: '2019-02-02'
+  time: '20:00'
+  band_name: JJ Thames (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76729
+  date: '2019-02-02'
+  time: '23:30'
+  band_name: Число ПИ
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76732
+  date: '2019-02-03'
+  time: '20:00'
+  band_name: Puzzlewood
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76733
+  date: '2019-02-03'
+  time: '20:30'
+  band_name: Алексей Попов и трио Сергея Васильева - "Affordable Luxury"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76734
+  date: '2019-02-03'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76736
+  date: '2019-02-04'
+  time: '20:00'
+  band_name: Брасс-бэнд "Голоса" Ростислава Кочетова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76738
+  date: '2019-02-05'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 76739
+  date: '2019-02-05'
+  time: '22:00'
+  band_name: Masala Quartet. Jazz on the beat
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76743
+  date: '2019-02-07'
+  time: '20:00'
+  band_name: Mylah (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76745
+  date: '2019-02-07'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76747
+  date: '2019-02-09'
+  time: '18:00'
+  band_name: Moscow Ragtime Band. One-step Upstairs
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 76748
+  date: '2019-02-09'
+  time: '22:00'
+  band_name: DR. Agranovsky & DE Blues Spinners
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 76751
+  date: '2019-02-10'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76754
+  date: '2019-02-12'
+  time: '20:30'
+  band_name: Guitar DAY. Country Music Evening
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76757
+  date: '2019-02-13'
+  time: '22:00'
+  band_name: Ураганный Джем Павла Тимофеева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76758
+  date: '2019-02-14'
+  time: '19:30'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76760
+  date: '2019-02-14'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76762
+  date: '2019-02-16'
+  time: '22:00'
+  band_name: Saturday Night with Mary
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76765
+  date: '2019-02-17'
+  time: '20:00'
+  band_name: Светлана Жаворонкова и Secret Atelier
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76767
+  date: '2019-02-17'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76770
+  date: '2019-02-19'
+  time: '22:00'
+  band_name: Arseny Rykov Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76772
+  date: '2019-02-20'
+  time: '20:30'
+  band_name: Квартет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76774
+  date: '2019-02-21'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76741
+  date: '2019-02-06'
+  time: '20:30'
+  band_name: Неожид. Псой Короленко и Ян Бедерман
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76746
+  date: '2019-02-08'
+  time: '22:00'
+  band_name: Somewhere Music Session
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76775
+  date: '2019-02-22'
+  time: '22:00'
+  band_name: Friday Night With Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76773
+  date: '2019-02-20'
+  time: '22:00'
+  band_name: Ураганный Джем Павла Тимофеева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76778
+  date: '2019-02-23'
+  time: '22:00'
+  band_name: Saturday Night With Anna Purcen
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76779
+  date: '2019-02-24'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76781
+  date: '2019-02-25'
+  time: '20:00'
+  band_name: Brainwork
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76783
+  date: '2019-02-26'
+  time: '20:30'
+  band_name: Таис Урумидис. Концерт в День рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 76785
+  date: '2019-02-27'
+  time: '20:00'
+  band_name: Квартет Евгения Пономарева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76786
+  date: '2019-02-27'
+  time: '20:30'
+  band_name: Рембетика
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76787
+  date: '2019-02-27'
+  time: '22:00'
+  band_name: Ураганный Джем Павла Тимофеева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76789
+  date: '2019-02-28'
+  time: '20:00'
+  band_name: Pervoe Solnce
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76730
+  date: '2019-02-03'
+  time: '15:00'
+  band_name: Алексей Козлов - "О чём пели во дворах после войны. Часть первая"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 76731
+  date: '2019-02-03'
+  time: '15:00'
+  band_name: Andrei Quint (Испания)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76735
+  date: '2019-02-04'
+  time: '19:00'
+  band_name: Трио Яремчук-Иванушкин-Рагазанов и Art Splash
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76737
+  date: '2019-02-05'
+  time: '20:00'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76740
+  date: '2019-02-06'
+  time: '20:00'
+  band_name: Eilenkrig Crew Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76742
+  date: '2019-02-06'
+  time: '22:00'
+  band_name: Ураганный Джем Павла Тимофеева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76744
+  date: '2019-02-07'
+  time: '20:30'
+  band_name: Квинч
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76749
+  date: '2019-02-10'
+  time: '20:00'
+  band_name: Andreas Varady (Словакия-Ирландия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1500 руб.
+- id: 76750
+  date: '2019-02-10'
+  time: '20:30'
+  band_name: Василиса Мороз & Unibird
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76752
+  date: '2019-02-11'
+  time: '19:00'
+  band_name: Трио Орнамент
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76753
+  date: '2019-02-11'
+  time: '20:00'
+  band_name: Даниил Дражников и Petrified Drops
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76755
+  date: '2019-02-12'
+  time: '22:00'
+  band_name: Planck'stone
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76756
+  date: '2019-02-13'
+  time: '20:30'
+  band_name: Квартет Антона Горбунова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76759
+  date: '2019-02-14'
+  time: '20:00'
+  band_name: Шер Остон и его оркестр - "L.O.V.E."
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76761
+  date: '2019-02-16'
+  time: '20:00'
+  band_name: Sambateria & Катерина Балыкбаева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76763
+  date: '2019-02-16'
+  time: '23:30'
+  band_name: Olga Sinyaeva & Anton Chekurov 6tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76764
+  date: '2019-02-17'
+  time: '15:00'
+  band_name: Андрей Виноградов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76766
+  date: '2019-02-17'
+  time: '20:30'
+  band_name: Lisov - Marinkin
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76768
+  date: '2019-02-18'
+  time: '19:00'
+  band_name: Герман Лукьянов и Каданс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 451
+    name: Ансамбль "Каданс" Германа Лукьянова
+    token: kadans-lukiyanov
+- id: 76769
+  date: '2019-02-18'
+  time: '20:00'
+  band_name: Григорий Сандомирский и друзья
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76771
+  date: '2019-02-20'
+  time: '20:00'
+  band_name: 'Трио Анны Королевой: "Ocean Inside. Piano Birds & Song OF Russian North"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76777
+  date: '2019-02-23'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76780
+  date: '2019-02-25'
+  time: '19:00'
+  band_name: Luca Sisera Roofer (Швейцария)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76782
+  date: '2019-02-26'
+  time: '20:00'
+  band_name: Дарья Шорр
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76784
+  date: '2019-02-26'
+  time: '22:00'
+  band_name: Anton Chekurov 4tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76788
+  date: '2019-02-28'
+  time: '19:30'
+  band_id: 667
+  band_name: Krissy Matthews
+  band_token: krissy-matthews
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76790
+  date: '2019-02-28'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76776
+  date: '2019-02-23'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 76892
+  date: '2019-02-15'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76894
+  date: '2019-03-02'
+  time: '17:00'
+  band_name: Мыс Луны - презентация альбома "Лунные народные сказки"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 774
+    name: Lunar Cape
+    token: lunar-cape
+- id: 76895
+  date: '2019-03-02'
+  time: '20:00'
+  band_name: Milena Barrett (Австралия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 76896
+  date: '2019-03-02'
+  time: '22:00'
+  band_name: Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 76897
+  date: '2019-03-03'
+  time: '20:00'
+  band_name: Sasha Magerova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76898
+  date: '2019-03-03'
+  time: '20:30'
+  band_name: Сергей Клевенский и Сергей Филатов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76899
+  date: '2019-03-04'
+  time: '19:00'
+  band_name: Квинтет Залетаева - Рябухина. Новый "Летный Сезон"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 76900
+  date: '2019-03-05'
+  time: '20:00'
+  band_name: Nikolai Sidorenko Project с программой "Elements"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 76901
+  date: '2019-03-05'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 77365
+  date: '2019-02-15'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77247
+  date: '2019-02-21'
+  time: '20:30'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77251
+  date: '2019-02-19'
+  time: '20:00'
+  band_name: Wild Brass Feat. T.Check
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 77248
+  date: '2019-02-04'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy LAB. Presents: Azat Bayazitov'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77249
+  date: '2019-02-13'
+  time: '20:00'
+  band_name: IV Фестиваль Фламенко "Flamenсura"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 77250
+  date: '2019-02-17'
+  time: '13:00'
+  band_name: Усадьба Jazz Kids. "Как Три Молодца За Счастьем... К Лету GO"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77254
+  date: '2019-02-24'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers. Февральский отчетный
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77255
+  date: '2019-02-24'
+  time: '20:00'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77257
+  date: '2019-03-04'
+  time: '20:00'
+  band_name: Masala Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 600 руб.
+- id: 77259
+  date: '2019-03-06'
+  time: '20:00'
+  band_name: Francesca Tandoi & Emanuele Cisi (Italy). Презентация Альбома "Sometimes
+    We're Happy"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77261
+  date: '2019-03-07'
+  time: '23:30'
+  band_name: Антон Лаврентьев. "Близнецы"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 77263
+  date: '2019-03-11'
+  time: '19:00'
+  band_name: Trane Zen Art. Ансамбль Московских Композиторов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: вход свободный
+- id: 77264
+  date: '2019-03-11'
+  time: '20:00'
+  band_name: Jazz Friends a Cappella Band by Vladimir Sidorkovich
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77268
+  date: '2019-03-17'
+  time: '20:00'
+  band_name: Art Splash
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77252
+  date: '2019-02-19'
+  time: '20:30'
+  band_name: 'Guitar Day: The Jumping Cats'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 77253
+  date: '2019-02-20'
+  time: '20:30'
+  band_name: Joander Santos Trio (Brazil). "Вечер в Рио-де-Жанейро"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77256
+  date: '2019-02-24'
+  time: '20:30'
+  band_name: Алиса Тен в программе "EL Pastor и другие"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77258
+  date: '2019-03-05'
+  time: '22:00'
+  band_name: Ася Фрейдкина и Трио Арсения Рыкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77260
+  date: '2019-03-07'
+  time: '20:00'
+  band_name: Аuthentic Light Orchestra (Russia-Switzerland-Armenia) - "Magic Roots"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77262
+  date: '2019-03-09'
+  time: '18:00'
+  band_name: Moscow Ragtime Band. "One-step Upstairs"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 77265
+  date: '2019-03-12'
+  time: '20:30'
+  band_name: 'Guitar Day: Сергей Седых'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77267
+  date: '2019-03-14'
+  time: '19:30'
+  band_name: British Blues Invasion to Russia, Big Boy Bloater (London, UK). Pre-party
+    - шоу "Блюз на виниле" с Павлом Катковым
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 769
+    name: Big Boy Bloater
+    token: big-boy-bloater
+- id: 77266
+  date: '2019-03-13'
+  time: '20:30'
+  band_name: Алиса Тен. Сольный концерт с "LE Miracle DE L'amour"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77356
+  date: '2019-03-16'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77357
+  date: '2019-02-15'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77358
+  date: '2019-03-08'
+  time: '18:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 77360
+  date: '2019-03-09'
+  time: '22:00'
+  band_name: Mikhail Merkulov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77361
+  date: '2019-03-11'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77362
+  date: '2019-03-12'
+  time: '20:00'
+  band_name: Remey Williams (USA)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1500 руб.
+- id: 77363
+  date: '2019-03-12'
+  time: '22:00'
+  band_name: Kaifullin Company
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77381
+  date: '2019-03-13'
+  time: '20:00'
+  band_name: 'Игорь Иванушкин - юбилейный концерт: "И друзей созову"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77359
+  date: '2019-03-08'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77373
+  date: '2019-02-15'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77380
+  date: '2019-03-13'
+  time: '15:00'
+  band_name: Диалоги с гитарой. Интерактив. Мукуч Суджян и Тимур Ведерников
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77500
+  date: '2019-03-26'
+  time: '20:00'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77501
+  date: '2019-03-29'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77502
+  date: '2019-04-05'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77503
+  date: '2019-04-12'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77504
+  date: '2019-04-19'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77505
+  date: '2019-04-20'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77506
+  date: '2019-04-20'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77507
+  date: '2019-04-26'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77508
+  date: '2019-02-26'
+  time: '22:00'
+  band_name: Black Braces Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77509
+  date: '2019-03-01'
+  time: '22:00'
+  band_name: Friday Night with Mary
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77510
+  date: '2019-03-03'
+  time: '16:30'
+  band_name: Tamzara - "Это просто праздник какой-то 2.0"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77511
+  date: '2019-03-06'
+  time: '20:30'
+  band_name: Арина Багарякова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77512
+  date: '2019-03-07'
+  time: '20:30'
+  band_name: Jose Moryan
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 77527
+  date: '2019-03-20'
+  time: '20:30'
+  band_name: Квартет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77528
+  date: '2019-03-21'
+  time: '20:00'
+  band_name: Мариам Мерабова и проект Армена Мерабова "Miraif"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77529
+  date: '2019-03-21'
+  time: '20:30'
+  band_name: Backstage Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 77530
+  date: '2019-03-22'
+  time: '22:00'
+  band_name: Friday Night with Orange Band & Marianna Savon
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77531
+  date: '2019-03-23'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 77532
+  date: '2019-03-23'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77533
+  date: '2019-03-23'
+  time: '22:00'
+  band_name: Saturday Night with Boop Lovers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77534
+  date: '2019-03-24'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77535
+  date: '2019-03-24'
+  time: '20:30'
+  band_name: Группа Ивана Смирнова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 600 руб.
+- id: 77536
+  date: '2019-03-25'
+  time: '19:00'
+  band_name: 'Trane Zen Art. Джаз и Авангард: Концерт-лекция. Алексей Потапов - Юрий
+    Яремчук'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77537
+  date: '2019-03-25'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 77538
+  date: '2019-03-26'
+  time: '20:30'
+  band_name: Guitar DAY. Django Friends Георгия Яшагашвили. Презентация новой программы
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77539
+  date: '2019-03-27'
+  time: '20:00'
+  band_name: SAX Days - Мini Jazz Festival. 2-Й Концерт Сезона 2018/2019
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 300 руб.
+- id: 77540
+  date: '2019-03-27'
+  time: '20:30'
+  band_name: Shacara Rogers (США) и трио Сергея Васильева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77571
+  date: '2019-03-28'
+  time: '19:30'
+  band_name: 'British blues invasion to Russia: Mike Ross (Великобритания). Pre-party
+    - шоу "Блюз на виниле" с Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 741
+    name: Mike Ross
+    token: mike-ross
+- id: 77572
+  date: '2019-03-28'
+  time: '20:00'
+  band_name: Трио Шилклопер - Горбунов - Ившин
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 77573
+  date: '2019-03-29'
+  time: '22:00'
+  band_name: Friday Night with Natalia Evelina & The Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77574
+  date: '2019-03-30'
+  time: '18:00'
+  band_name: Стефано Бароне (Италия). "Alive"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77575
+  date: '2019-03-30'
+  time: '20:00'
+  band_name: Lera Gehner - Alexey Popov Project (Санкт-Петербург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77576
+  date: '2019-03-30'
+  time: '22:00'
+  band_name: Saturday Night with Anna Purcen
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77577
+  date: '2019-03-31'
+  time: '20:00'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77578
+  date: '2019-03-31'
+  time: '20:30'
+  band_name: Hellmoller Trio (Швейцария)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77579
+  date: '2019-04-01'
+  time: '19:00'
+  band_name: 'Trane Zen Art. Концерт-перформанс: Алексей Потапов, Николай Попов и
+    художник Давид Ру'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77580
+  date: '2019-04-02'
+  time: '20:00'
+  band_name: Lost World Band (США-Россия) - презентация альбома "Spheres Aligned"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77581
+  date: '2019-04-02'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 77582
+  date: '2019-04-08'
+  time: '19:00'
+  band_name: Trane Zen Art. Angel Ontalva VS Priot Duo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77583
+  date: '2019-04-10'
+  time: '19:30'
+  band_name: 'British blues invasion to Russia: Ben Poole (Великобритания)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 664
+    name: Ben Poole
+    token: ben-poole
+- id: 77584
+  date: '2019-04-10'
+  time: '20:00'
+  band_name: Scott Henderson Trio (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1500 руб.
+- id: 77513
+  date: '2019-03-08'
+  time: '22:00'
+  band_name: Friday Night with the Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77514
+  date: '2019-03-09'
+  time: '20:00'
+  band_name: Seven Eight Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77515
+  date: '2019-03-09'
+  time: '22:00'
+  band_name: Квартет Дарьи Антоновой
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77516
+  date: '2019-03-10'
+  time: '20:00'
+  band_name: Анна Королева с проектом Soul Flight 14
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 77517
+  date: '2019-03-10'
+  time: '20:30'
+  band_name: Kle2go
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 77518
+  date: '2019-03-14'
+  time: '20:00'
+  band_name: Sambateria & Las Bellezas
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77519
+  date: '2019-03-15'
+  time: '22:00'
+  band_name: Friday Night with Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77520
+  date: '2019-03-16'
+  time: '22:00'
+  band_name: Saturday Night with Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 77521
+  date: '2019-03-17'
+  time: '20:30'
+  band_name: Lisov - Marinkin
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77522
+  date: '2019-03-18'
+  time: '19:00'
+  band_name: Trane Zen Art. Токио-москва. The end does not end. Jun Kawasaki - AYA
+    - Саинхо Намчылак - Алексей Круглов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 77523
+  date: '2019-03-18'
+  time: '20:00'
+  band_name: Jazz Friends a'cappella band by Vladimir Sidorkovich
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77524
+  date: '2019-03-19'
+  time: '20:00'
+  band_name: Two Siberians. "Весна"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 77525
+  date: '2019-03-19'
+  time: '22:00'
+  band_name: Jazz Guitar Evolution
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 77526
+  date: '2019-03-20'
+  time: '20:00'
+  band_name: C-jam Club Jazz Orchestra. Фанк-программа
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 448
+    name: C-Jam Club Jazz Orchestra
+    token: cjc-jazz-orchestra
+- id: 77585
+  date: '2019-04-13'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78178
+  date: '2019-04-06'
+  time: '22:00'
+  band_name: Saturday Night with The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78179
+  date: '2019-04-06'
+  time: '23:30'
+  band_name: Anatoly Ice Live Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78187
+  date: '2019-04-09'
+  time: '20:30'
+  band_name: Kenny ‘Blues Boss' Wayne (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78188
+  date: '2019-04-09'
+  time: '22:00'
+  band_name: Трио Владимира Нестеренко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78189
+  date: '2019-04-11'
+  time: '20:00'
+  band_name: Alexander Dovgopoly Project Feat. Виктория Newman
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78190
+  date: '2019-04-11'
+  time: '20:30'
+  band_name: Ольга Серебряная - "Эклектика. Концерт В День Рождения"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78191
+  date: '2019-04-13'
+  time: '20:00'
+  band_name: Шер Остон и его оркестр - "Парад Звезд"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78192
+  date: '2019-04-13'
+  time: '22:00'
+  band_name: Saturday Night with Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78193
+  date: '2019-04-14'
+  time: '20:00'
+  band_name: Трио Армена Мерабова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78194
+  date: '2019-04-14'
+  time: '20:30'
+  band_name: Алиса Тен
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78195
+  date: '2019-04-15'
+  time: '19:00'
+  band_name: Trane Zen Art. The Great Harry Hillman Quartet (Швейцария-Германия),
+    Квартет Круглова-Соояара (Эстония-Россия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Плати сколько хочешь
+- id: 78199
+  date: '2019-04-17'
+  time: '20:00'
+  band_name: Empathy Project. Презентация Альбома "Influences"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 718
+    name: Empathy Project
+    token: empathypro
+- id: 78201
+  date: '2019-04-17'
+  time: '20:30'
+  band_name: Mara Kaye (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78215
+  date: '2019-04-22'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78217
+  date: '2019-04-23'
+  time: '20:00'
+  band_name: Анна Королева. "Antigravity"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 78219
+  date: '2019-04-23'
+  time: '20:30'
+  band_name: Shoo. Концерт в День рождения
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78220
+  date: '2019-04-23'
+  time: '22:00'
+  band_name: Квартет Ивана Акатова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78221
+  date: '2019-04-24'
+  time: '19:30'
+  band_name: SAX Days - "Мini Jazz Festival". 3-Й Концерт Сезона 2018/2019
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 300 руб.
+- id: 78222
+  date: '2019-04-24'
+  time: '20:30'
+  band_name: Квинтет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78225
+  date: '2019-04-26'
+  time: '22:00'
+  band_name: Friday Night with Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78226
+  date: '2019-04-27'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78227
+  date: '2019-04-27'
+  time: '20:00'
+  band_name: Sambateria & Катерина Балыкбаева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78233
+  date: '2019-04-29'
+  time: '20:00'
+  band_name: Григорий Сандомирский и друзья
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78234
+  date: '2019-04-30'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78235
+  date: '2019-04-30'
+  time: '20:30'
+  band_name: Guitar DAY. Tele-vision
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78236
+  date: '2019-04-30'
+  time: '22:00'
+  band_name: Anton Chekurov 4tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78237
+  date: '2019-05-01'
+  time: '20:00'
+  band_name: Dani Yard Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78158
+  date: '2019-05-03'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78159
+  date: '2019-05-10'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78160
+  date: '2019-05-17'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78161
+  date: '2019-05-18'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78162
+  date: '2019-05-23'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78163
+  date: '2019-05-24'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78164
+  date: '2019-05-31'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78165
+  date: '2019-03-28'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78166
+  date: '2019-03-31'
+  time: '15:00'
+  band_name: Мастер-класс Людмилы Сваровской и Евгения Гречищева. "Tribute for Sassy"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 700 руб.
+- id: 78167
+  date: '2019-03-31'
+  time: '22:00'
+  band_name: Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78168
+  date: '2019-04-01'
+  time: '20:00'
+  band_name: МГИК (джаз-оркестр Jazz Magic п/р Сергея Долженкова и Кристина Крит)
+    feat. Лариса Долина, Сергей Манукян и Этери Бериашвили - "Let it be"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 78169
+  date: '2019-04-02'
+  time: '22:00'
+  band_name: Карен Гаспарян Трио
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78170
+  date: '2019-04-03'
+  time: '20:00'
+  band_name: Quentin Moore (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1500 руб.
+- id: 78171
+  date: '2019-04-03'
+  time: '20:30'
+  band_name: '"Этносфера" - Новое Дыхание Традиций'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78172
+  date: '2019-04-03'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78173
+  date: '2019-04-04'
+  time: '20:00'
+  band_name: Анна Королева. "Импровизации из чемодана"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 78174
+  date: '2019-04-04'
+  time: '20:30'
+  band_name: The Lunar Brothers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78175
+  date: '2019-04-04'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78176
+  date: '2019-04-06'
+  time: '18:00'
+  band_name: Оркестр Александра Каштанова - Бубамара Брасс-бэнд. Презентация новых
+    альбомов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78177
+  date: '2019-04-06'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78180
+  date: '2019-04-07'
+  time: '14:00'
+  band_name: C-jam "Vesna '19". Концерт-марафон
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Плати сколько хочешь
+- id: 78181
+  date: '2019-04-07'
+  time: '15:00'
+  band_name: Алексей Козлов - "Песни времен НЭПа и одесские песни"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 78182
+  date: '2019-04-07'
+  time: '20:00'
+  band_name: Seven Eight Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78183
+  date: '2019-04-07'
+  time: '20:30'
+  band_id: 290
+  band_name: Андрей Козловский
+  band_token: andrey-kozlovsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78184
+  date: '2019-04-07'
+  time: '22:00'
+  band_name: Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78185
+  date: '2019-04-08'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78186
+  date: '2019-04-09'
+  time: '20:00'
+  band_name: '"Zemля-voзdух": Петр Термен (терменвокс), Артур Ахмедеев (ханг)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78196
+  date: '2019-04-15'
+  time: '20:00'
+  band_name: Арфа & Джаз - "Танго в оттенках джаза"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78197
+  date: '2019-04-16'
+  time: '20:30'
+  band_name: Guitar DAY. 1+1. Мукуч Суджян и Виталий Кись
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78198
+  date: '2019-04-16'
+  time: '22:00'
+  band_name: Дуэт Балакирская - Бруни
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78205
+  date: '2019-04-18'
+  time: '20:30'
+  band_name: Dogon (Швейцария)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78207
+  date: '2019-04-20'
+  time: '22:00'
+  band_name: Saturday Night with Mankagroove
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78209
+  date: '2019-04-21'
+  time: '20:00'
+  band_name: Студии "C-jam Club" 15 лет
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78211
+  date: '2019-04-21'
+  time: '20:30'
+  band_name: Mirja Klippel & Alex Jonsson (Финляндия-Дания)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78213
+  date: '2019-04-22'
+  time: '19:00'
+  band_name: Trane ZEN ART. Татьяна Комова - Алексей Круглов. Презентация Альбома
+    "Deuce Crossings"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78231
+  date: '2019-04-28'
+  time: '20:30'
+  band_name: Andy M. Stewart Tribute Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78232
+  date: '2019-04-29'
+  time: '19:00'
+  band_name: Trane ZEN ART. Концерт струнного квартета "A&C" и Алексея Потапова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78203
+  date: '2019-04-18'
+  time: '20:00'
+  band_name: Ильдар Казаханов и Electric Blue (Санкт-петербург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78223
+  date: '2019-04-25'
+  time: '19:30'
+  band_name: 'British blues invasion to Russia: Jon Amor (Великобритания). Pre-party
+    - "Блюз на виниле" с Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78224
+  date: '2019-04-25'
+  time: '20:00'
+  band_name: Mr. Hide's Band. "Странная история доктора Джекила и мистера Хайда"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78228
+  date: '2019-04-27'
+  time: '22:00'
+  band_name: Saturday Night with Mishouris XXL
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 78229
+  date: '2019-04-28'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers. "Песни Народов Мира"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78230
+  date: '2019-04-28'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78400
+  date: '2019-05-09'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78401
+  date: '2019-04-01'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy Lab. presents: Nikolay Kulikov'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78402
+  date: '2019-04-05'
+  time: '22:00'
+  band_name: Friday Night With Orange Band & Marianna Savon
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78403
+  date: '2019-04-05'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78404
+  date: '2019-04-12'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78405
+  date: '2019-04-16'
+  time: '20:00'
+  band_name: Arseny Rykov Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78406
+  date: '2019-04-19'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78407
+  date: '2019-04-26'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78408
+  date: '2019-05-02'
+  time: '20:00'
+  band_name: Oxana Voytenko Quartet - презентация альбома "Amber Light"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78409
+  date: '2019-05-02'
+  time: '20:30'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78410
+  date: '2019-05-03'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78627
+  date: '2019-08-22'
+  time: '20:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78628
+  date: '2019-04-15'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy LAB. Presents: Makar Novikov Trio'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78629
+  date: '2019-04-17'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78630
+  date: '2019-04-18'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78631
+  date: '2019-04-21'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78632
+  date: '2019-04-22'
+  time: '20:00'
+  band_name: Horsepower
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78633
+  date: '2019-04-25'
+  time: '20:00'
+  band_name: Authentic Light Orchestra feat. Mr.Hyde. "Странная история доктора Джекила
+    и мистера Хайда"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78634
+  date: '2019-05-03'
+  time: '17:00'
+  band_name: Андрей Виноградов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78635
+  date: '2019-05-03'
+  time: '22:00'
+  band_name: Friday Night with Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78636
+  date: '2019-05-04'
+  time: '18:00'
+  band_name: Оркестр Александра Каштанова "Бубамара Брасс-бэнд"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78637
+  date: '2019-05-04'
+  time: '22:00'
+  band_name: Dr. Agranovsky & De Blues Spinners - Watchin' the good trains
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 78638
+  date: '2019-05-05'
+  time: '15:00'
+  band_name: Алексей Козлов - "Песни войны и о войне"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 78639
+  date: '2019-05-06'
+  time: '19:00'
+  band_name: Trane Zen Art. Концерт ко дню рождения Антона Котикова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78640
+  date: '2019-05-06'
+  time: '20:00'
+  band_name: Алексей Козлов и Второе Приближение с программой "Обэриуты"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 78641
+  date: '2019-05-07'
+  time: '20:00'
+  band_name: Revo.Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 78642
+  date: '2019-05-07'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 78643
+  date: '2019-05-07'
+  time: '22:00'
+  band_name: David Lyttle Trio (Ирландия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78644
+  date: '2019-05-08'
+  time: '20:00'
+  band_name: Lera Gehner - Alexey Popov Project (Санкт-Петербург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78645
+  date: '2019-05-08'
+  time: '20:30'
+  band_name: Olga Sinyaeva & Anton Chekurov 6tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 78646
+  date: '2019-05-09'
+  time: '19:30'
+  band_name: 'British blues invasion to Russia: Richard Townend (Великобритания).
+    Pre-party - "Блюз на виниле" с Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 743
+    name: Richard Townend
+    token: richard-townend
+- id: 78647
+  date: '2019-05-10'
+  time: '22:00'
+  band_name: Friday Night with Betty Boop Lovers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 276
+    name: Betty Boop Lovers
+    token: betty-boop-lovers
+- id: 78648
+  date: '2019-05-10'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 78649
+  date: '2019-05-11'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 78650
+  date: '2019-05-11'
+  time: '20:00'
+  band_name: Соул-фест "Welcome to Moscow"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 78696
+  date: '2019-04-25'
+  time: '19:30'
+  band_id: 671
+  band_name: Jon Amor
+  band_token: jon-amor
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000-2000
+  comments: + pre-party Блюз-на-Виниле с Павлом Катковым
+- id: 79275
+  date: '2019-08-06'
+  time: '20:30'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  comments: "Элегантное московское трио Тамара Оген & Magnet Vox исполняет музыку\
+    \ на стыке блюза и джаза. Внешне минималистичный состав раз за разом удивляет\
+    \ слушателей: фортепиано и вокал причудливо переплетаются с многогранными басовыми\
+    \ и ударными партиями. Соединение стилей, разные настроения и полет фантазии -\
+    \ у них есть все то, за что мы любим джаз и блюз! А классическое музыкальное образование\
+    \ Тамары придает всей музыкальной картине точность и изящность.\r\n\r\nСостав\
+    \ трио:\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара, вокал\r\
+    \nМихаил Данилов - ударные, перкуссия"
+- id: 79861
+  date: '2019-06-16'
+  time: '14:00'
+  band_name: C-jam "Leto'19". Концерт-марафон
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Плати сколько хочешь
+- id: 79579
+  date: '2019-06-06'
+  time: '19:30'
+  band_id: 690
+  band_name: Rosco Levee
+  band_token: rosco-levee
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000-2000
+- id: 79606
+  date: '2019-06-05'
+  time: '20:30'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79607
+  date: '2019-06-07'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79608
+  date: '2019-06-14'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79609
+  date: '2019-06-15'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79610
+  date: '2019-06-20'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 79611
+  date: '2019-06-21'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79612
+  date: '2019-06-28'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79613
+  date: '2019-07-05'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79614
+  date: '2019-07-12'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79615
+  date: '2019-07-19'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79616
+  date: '2019-07-20'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79617
+  date: '2019-07-26'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79618
+  date: '2019-06-02'
+  time: '20:00'
+  band_name: The Trombone Show by Maxim Piganov - "What A Wonderful World, или Нестандартные
+    Стандарты"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79619
+  date: '2019-06-02'
+  time: '20:30'
+  band_name: Reflections DUO Plus - "More Reflections"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 79620
+  date: '2019-06-02'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79621
+  date: '2019-06-03'
+  time: '19:00'
+  band_name: Trane ZEN ART. Фестиваль к 40-летию Алексея Круглова. Part I
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79622
+  date: '2019-06-03'
+  time: '20:00'
+  band_name: Alex Davletshin Project - "Kiss and Fly"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 79623
+  date: '2019-06-03'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy LAB. Presents: Vladimir Nesterenko Trio'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79624
+  date: '2019-06-04'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 79625
+  date: '2019-06-04'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 79646
+  date: '2019-06-11'
+  time: '22:00'
+  band_name: Квартет Дмитрия Купцова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79647
+  date: '2019-06-12'
+  time: '20:00'
+  band_name: Valeriy Stepanov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79648
+  date: '2019-06-12'
+  time: '20:30'
+  band_name: Kle2go
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 800 руб.
+- id: 79649
+  date: '2019-06-12'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79650
+  date: '2019-06-13'
+  time: '20:00'
+  band_name: Brik Liam (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1500 руб.
+- id: 79651
+  date: '2019-06-13'
+  time: '20:30'
+  band_name: 'Gianni Iorio & Pasquale Stafano (Италия) - "Astor Piazzolla: Tango &
+    Jazz"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 79652
+  date: '2019-06-13'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79653
+  date: '2019-06-14'
+  time: '22:00'
+  band_name: Friday Night With Mishouris XXL
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79654
+  date: '2019-06-14'
+  time: '23:30'
+  band_name: ГлавМосдДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79655
+  date: '2019-06-15'
+  time: '20:00'
+  band_name: Светлана Жаворонкова и Secret Atelier
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79656
+  date: '2019-06-15'
+  time: '22:00'
+  band_name: Saturday Night with Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79657
+  date: '2019-06-15'
+  time: '23:30'
+  band_name: Егор Сесарев - Презентация Альбома "Романтик Коллекшн"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79658
+  date: '2019-06-16'
+  time: '13:00'
+  band_name: Концерт класса Алины Ростоцкой
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79659
+  date: '2019-06-16'
+  time: '20:00'
+  band_name: Alexander Dovgopoly Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79626
+  date: '2019-06-04'
+  time: '22:00'
+  band_name: V_V Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79627
+  date: '2019-06-05'
+  time: '20:00'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79628
+  date: '2019-06-05'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79629
+  date: '2019-06-06'
+  time: '19:30'
+  band_name: 'British Blues Invasion: Rosco Levee (Великобритания). Pre-party - шоу
+    "Блюз на виниле" с Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 690
+    name: Rosco Levee
+    token: rosco-levee
+- id: 79630
+  date: '2019-06-06'
+  time: '20:00'
+  band_name: Ярослава Симонова & LRK Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79631
+  date: '2019-06-06'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79632
+  date: '2019-06-07'
+  time: '22:00'
+  band_name: Friday Night with Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79633
+  date: '2019-06-07'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79634
+  date: '2019-06-08'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 79635
+  date: '2019-06-08'
+  time: '20:00'
+  band_name: Sambateria & Катерина Балыкбаева. Спецгость - Willie Key (Cuba)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79636
+  date: '2019-06-08'
+  time: '22:00'
+  band_name: Saturday Night with Директор Азовского Моря
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79637
+  date: '2019-06-08'
+  time: '23:30'
+  band_name: Bumbata Project - Latino Night JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79638
+  date: '2019-06-09'
+  time: '13:00'
+  band_name: 'Мастер-класс Романа Столяра - "Как играть, не готовясь: секреты свободной
+    импровизации"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 300 руб.
+- id: 79639
+  date: '2019-06-09'
+  time: '20:00'
+  band_name: Борис Гребенщиков и Аквариум - Акустический Концерт
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 5000 руб.
+- id: 79640
+  date: '2019-06-09'
+  time: '20:30'
+  band_name: Eve Cornelious (США) и Трио Сергея Васильева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79641
+  date: '2019-06-09'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79642
+  date: '2019-06-10'
+  time: '19:00'
+  band_name: Trane ZEN ART. Фестиваль к 40-летию Алексея Круглова. Part II
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79643
+  date: '2019-06-10'
+  time: '20:00'
+  band_name: Юрий Терлецкий и Yur'ski Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79644
+  date: '2019-06-11'
+  time: '20:00'
+  band_name: Brainwork
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79645
+  date: '2019-06-11'
+  time: '20:30'
+  band_name: Guitar Day. 1+1. Мукуч Суджян и Георгий Яшагашвили
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 500 руб.
+- id: 79666
+  date: '2019-06-19'
+  time: '20:00'
+  band_name: Антон Залетаев. "Летный Сезон 50". Концерт-праздник
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79667
+  date: '2019-06-19'
+  time: '20:30'
+  band_name: Квинтет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79668
+  date: '2019-06-20'
+  time: '19:30'
+  band_name: 'British Blues Invasion: Ron Sayer (Великобритания). Pre-party - шоу
+    "Блюз на виниле" С Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79669
+  date: '2019-06-21'
+  time: '22:00'
+  band_name: Friday Night with Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79670
+  date: '2019-06-21'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79671
+  date: '2019-06-22'
+  time: '18:00'
+  band_name: Moscow Ragtime Band. "One-step Upstairs"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 79672
+  date: '2019-06-22'
+  time: '20:00'
+  band_name: Шер Остон и его оркестр. "The Summer Wind"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79673
+  date: '2019-06-22'
+  time: '22:00'
+  band_name: Saturday Night with Betty Boop Lovers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 276
+    name: Betty Boop Lovers
+    token: betty-boop-lovers
+- id: 79674
+  date: '2019-06-22'
+  time: '23:30'
+  band_name: Bumbata Project - Latino Night JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79675
+  date: '2019-06-23'
+  time: '15:00'
+  band_name: Школа-студия Sunny Side Singers. "Sir Paul Birthday и кое-что ещё"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79676
+  date: '2019-06-23'
+  time: '20:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79677
+  date: '2019-06-23'
+  time: '20:30'
+  band_name: Рембетика
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79678
+  date: '2019-06-24'
+  time: '19:00'
+  band_name: Trane ZEN ART. Фестиваль к 40-летию Алексея Круглова. Финальный Вечер
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79679
+  date: '2019-06-24'
+  time: '20:00'
+  band_name: Дмитрий "Ветеран" Честных. Birthday Concert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79680
+  date: '2019-06-25'
+  time: '20:00'
+  band_name: Horsepower
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79681
+  date: '2019-06-25'
+  time: '20:30'
+  band_name: Colescott Rubin (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 700 руб.
+- id: 79682
+  date: '2019-06-25'
+  time: '22:00'
+  band_name: Anton Chekurov 4tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79683
+  date: '2019-06-26'
+  time: '20:00'
+  band_name: Amber Sept. "Naked"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79684
+  date: '2019-06-26'
+  time: '20:30'
+  band_name: Buduchi. Афрофутуризм Московских Джунглей
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79685
+  date: '2019-06-27'
+  time: '20:00'
+  band_name: Кубанаты. Единственный Концерт В Сезоне
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79660
+  date: '2019-06-16'
+  time: '20:30'
+  band_name: Lisov - Marinkin
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79661
+  date: '2019-06-16'
+  time: '22:00'
+  band_name: Downtown Beat JAM
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79662
+  date: '2019-06-17'
+  time: '19:00'
+  band_name: Trane ZEN ART. Фестиваль к 40-летию Алексея Круглова. Part III
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79663
+  date: '2019-06-17'
+  time: '20:00'
+  band_name: Ольга Синяева & All See Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79664
+  date: '2019-06-18'
+  time: '20:00'
+  band_name: Masala Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79665
+  date: '2019-06-18'
+  time: '20:30'
+  band_name: Guitar Day. Николай Куликов и Francesca Tandoi (Италия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79686
+  date: '2019-06-27'
+  time: '20:30'
+  band_name: Backstage Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 79687
+  date: '2019-06-28'
+  time: '22:00'
+  band_name: Friday Night with Orange Band и Марианна Савон
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79688
+  date: '2019-06-28'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79689
+  date: '2019-06-29'
+  time: '13:30'
+  band_name: 'Blastbeat Drum Shop Представляет: Барабанная Клиника Daniel Glass'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79690
+  date: '2019-06-29'
+  time: '18:00'
+  band_name: Оркестр Александра Каштанова "Бубамара Брасс-бэнд"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79691
+  date: '2019-06-29'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79692
+  date: '2019-06-29'
+  time: '22:00'
+  band_name: Saturday Night with the Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79693
+  date: '2019-06-30'
+  time: '20:00'
+  band_name: C-jam Club Jazz Orchestra by George Gorbov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 448
+    name: C-Jam Club Jazz Orchestra
+    token: cjc-jazz-orchestra
+- id: 79694
+  date: '2019-06-30'
+  time: '20:30'
+  band_name: Ася Фрейдкина
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79695
+  date: '2019-07-01'
+  time: '19:00'
+  band_name: Trane ZEN ART. Live People Ensemble
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 79696
+  date: '2019-07-01'
+  time: '20:00'
+  band_name: Сергей Гуцан & The Beggars Banquet - THE Rolling Stones Tribute
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79795
+  date: '2019-07-08'
+  time: '19:00'
+  band_name: 'Проект Trane Zen Art представляет: Michelle Daniel (фортепиано, вокал
+    - США), Андрей Соловьев (труба, синтезатор), Андрей Бессонов (кларнет, бас-кларнет),
+    Павел Тонковид (сопрано-саксофон), Владимир Кисляков (бас), Владимир "Биг" Глушко
+    (барабаны)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: бесплатный
+- id: 79862
+  date: '2019-06-18'
+  time: '22:00'
+  band_name: Петр Ившин & West Coast Revival
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79863
+  date: '2019-06-19'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79864
+  date: '2019-06-20'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79865
+  date: '2019-06-26'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79866
+  date: '2019-06-27'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79867
+  date: '2019-06-29'
+  time: '23:30'
+  band_name: Ямолодость
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79868
+  date: '2019-07-02'
+  time: '20:00'
+  band_name: Brainwork
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79869
+  date: '2019-07-02'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный Джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 79870
+  date: '2019-07-02'
+  time: '22:00'
+  band_name: Алексей Соколов - "Неджазовый Аккордеон"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 79871
+  date: '2019-07-03'
+  time: '20:00'
+  band_name: Даниил Дражников и Petrified Drops
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79872
+  date: '2019-07-03'
+  time: '20:30'
+  band_name: Zaindiveli
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 500 руб.
+- id: 79873
+  date: '2019-07-04'
+  time: '20:00'
+  band_name: 'LRK Trio: Лебедев, Ревнюк, Кравцов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: от 1000 руб.
+- id: 79874
+  date: '2019-07-05'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: Вход свободный
+- id: 80054
+  date: '2019-07-01'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy Lab.: Andrew Krasilnikov'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80066
+  date: '2019-07-09'
+  time: '20:30'
+  band_name: 'Андрей Козловский. Юбилейный концерт в составе: Сергей Клевенский (народные
+    и академические духовые), Дмитрий Толпегов (тромбон), Александр Родовский (гитара),
+    Николай Масальский (битбокс, вокал, музыкальная эксцентрика); принимают участие:
+    Анна Королева, Юрий Новгородский, Алексей Архиповский, Ирина Сурина, Николай Добкин,
+    Сергей Филатов, Андрей Шепелев'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 290
+    name: Андрей Козловский
+    token: andrey-kozlovsky
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+  - id: 255
+    name: Ирина Сурина
+    token: irina-surina
+- id: 80067
+  date: '2019-07-10'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80068
+  date: '2019-07-31'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 80069
+  date: '2019-08-02'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80070
+  date: '2019-07-12'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80071
+  date: '2019-07-19'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80072
+  date: '2019-07-26'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80088
+  date: '2019-07-11'
+  time: '20:00'
+  band_name: 'Большой Джазовый Оркестр п/у Петра Востокова: бал свинговой музыки'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 80089
+  date: '2019-07-11'
+  time: '20:30'
+  band_name: Tasiya & Sammy Lukas
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80090
+  date: '2019-07-11'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80091
+  date: '2019-07-12'
+  time: '22:00'
+  band_name: Orange Band & Марианна Савон
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80092
+  date: '2019-07-13'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80094
+  date: '2019-07-14'
+  time: '20:30'
+  band_name: Spacehead
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80061
+  date: '2019-07-07'
+  time: '20:30'
+  band_name: Сергей Клевенский (народные и академические духовые) и Сергей Филатов
+    (клавишные)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80062
+  date: '2019-07-08'
+  time: '20:00'
+  band_name: Live People Ensemble
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 80095
+  date: '2019-07-15'
+  time: '20:00'
+  band_name: Наталья Сидорцова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80096
+  date: '2019-07-13'
+  time: '20:00'
+  band_name: REVO.Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80097
+  date: '2019-07-13'
+  time: '21:00'
+  band_name: Django Friends
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80098
+  date: '2019-07-13'
+  time: '22:00'
+  band_name: Mishouris XXL
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80099
+  date: '2019-07-14'
+  time: '15:00'
+  band_name: Александр Лосев - проект "Versus Piano 2"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80100
+  date: '2019-07-16'
+  time: '22:00'
+  band_name: 'Cigar Hall: Nat King Cole - 100!'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 80101
+  date: '2019-07-16'
+  time: '20:30'
+  band_name: Алексей Бадьянов (гитара, Марокко) & Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80102
+  date: '2019-07-16'
+  time: '20:00'
+  band_name: FunCOOLio (Латвия) feat. Fred Hormain (саксофон, Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 714
+    name: FunCOOlio
+    token: funcoolio
+- id: 80105
+  date: '2019-07-18'
+  time: '19:30'
+  band_name: 'Dom Martin (Великобритания). Pre-party: "Блюз на виниле" с Павлом Катковым'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80110
+  date: '2019-07-21'
+  time: '20:00'
+  band_name: Darien Dean (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80111
+  date: '2019-07-22'
+  time: '20:00'
+  band_name: Tasiya (Настя Волокитина) & Epic Power Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 776
+    name: Epic Power Quartet
+    token: epic-power-quartet
+- id: 80114
+  date: '2019-07-23'
+  time: '22:00'
+  band_name: Just Jazz Вячеслава Великого
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80115
+  date: '2019-07-24'
+  time: '20:00'
+  band_name: Sasha Magerova Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80116
+  date: '2019-07-24'
+  time: '20:30'
+  band_name: Квинтет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80117
+  date: '2019-07-25'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80119
+  date: '2019-07-27'
+  time: '22:00'
+  band_id: 276
+  band_name: Betty Boop Lovers
+  band_token: betty-boop-lovers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80120
+  date: '2019-07-27'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80121
+  date: '2019-07-27'
+  time: '18:00'
+  band_name: Jack Latimer (гитара, Германия) & Moscow Ragtime Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 80064
+  date: '2019-07-10'
+  time: '20:30'
+  band_name: DM Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80081
+  date: '2019-07-28'
+  time: '20:00'
+  band_name: Ольна Синяева и All See Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80082
+  date: '2019-07-30'
+  time: '20:00'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80083
+  date: '2019-07-30'
+  time: '22:00'
+  band_name: 'Дарья Захарова: "Tribute to jazz greats"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80084
+  date: '2019-07-30'
+  time: '20:30'
+  band_name: Moscow Manouche Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80085
+  date: '2019-07-29'
+  time: '19:00'
+  band_name: 'Проект Trane Zen Art представляет: брасс-бэнд "Голоса" Ростислава Кочетова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80086
+  date: '2019-07-22'
+  time: '19:00'
+  band_name: 'Проект Trane Zen Art представляет: Яремчук-Иванушкин-Ившин'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80087
+  date: '2019-07-15'
+  time: '19:00'
+  band_name: 'Проект Trane Zen Art представляет: "Арфа и Джаз" с новой программой
+    "Путешествие в Египет"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80093
+  date: '2019-07-14'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 80103
+  date: '2019-07-17'
+  time: '20:00'
+  band_name: Masha Art Quartet + Veronika Lileeva с программой "Bjork Songbook"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80106
+  date: '2019-07-18'
+  time: '20:00'
+  band_name: 'Павел Иванов (труба, вокал) и камерный оркестр Imperialis в составе:
+    Тарас Гусаров (сопрано-саксофон, альт-саксофон, художественный руководитель),
+    Роман Соколов (тенор-саксофон), Даниэль Адиянц (рояль), Александр Ахмаев (ударные),
+    Владимир Кольцов-Крутов (контрабас)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80107
+  date: '2019-07-20'
+  time: '20:00'
+  band_name: Светлана Жаворонкова и Secret Atelier
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80108
+  date: '2019-07-19'
+  time: '22:00'
+  band_name: Alexandra Chernousova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80078
+  date: '2019-08-01'
+  time: '19:30'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80079
+  date: '2019-07-31'
+  time: '20:30'
+  band_name: Buduchi
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80080
+  date: '2019-07-29'
+  time: '20:00'
+  band_name: Таня Балакирская. Презентация альбома "Живы благодарить"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80109
+  date: '2019-07-20'
+  time: '22:00'
+  band_name: Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80112
+  date: '2019-07-23'
+  time: '20:00'
+  band_name: Horsepower
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80113
+  date: '2019-07-23'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80118
+  date: '2019-07-25'
+  time: '20:30'
+  band_name: Рембетика
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80055
+  date: '2019-07-03'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80056
+  date: '2019-07-04'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80057
+  date: '2019-07-05'
+  time: '22:00'
+  band_name: Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80058
+  date: '2019-07-06'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80059
+  date: '2019-07-06'
+  time: '22:00'
+  band_name: Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80060
+  date: '2019-07-07'
+  time: '20:00'
+  band_name: 'Владимир Сидоркович - "К сожаленью, день рожения...": Jazz Friends A''Capella
+    Band п/у Владимира Сидорковича; Давид Тодуа; Ярослава Павлова & Yuppies; Ольга
+    Егоршина & Voodoprople; трио Полины Воденисовой; Мария Гарничева и трио Алексея
+    Федорова; трио Игоря Смирнова; Руслан Семенов; Анастасия Чумакова; Даниил Давыдов'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80063
+  date: '2019-07-09'
+  time: '20:00'
+  band_name: 'Квинтет Павла Тимофеева: "Ураганный джаз"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80065
+  date: '2019-07-09'
+  time: '22:00'
+  band_name: Planck'sTone
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80073
+  date: '2019-08-02'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80074
+  date: '2019-08-09'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80075
+  date: '2019-08-16'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80076
+  date: '2019-08-23'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80077
+  date: '2019-08-30'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80104
+  date: '2019-07-17'
+  time: '20:30'
+  band_name: Трио Антона Горбунова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80362
+  date: '2019-08-15'
+  time: '19:30'
+  band_id: 673
+  band_name: Innes Sibun
+  band_token: innes-sibun
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  price: 1000-2000
+- id: 80651
+  date: '2019-08-09'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80649
+  date: '2019-08-01'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80650
+  date: '2019-08-01'
+  time: '20:00'
+  band_name: Татьяна Нова (вокал, Германия), Макар Кашицын (альт-саксофон), Виктор
+    Потемкин (тенор-саксофон), Евгений Сивцов (фортепиано), Артем Баскаков (контрабас),
+    Виталий Эпов (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80652
+  date: '2019-08-16'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80653
+  date: '2019-08-23'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80654
+  date: '2019-08-30'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80655
+  date: '2019-08-31'
+  time: '18:00'
+  band_name: Бубамара Брасс Бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80656
+  date: '2019-08-31'
+  time: '22:00'
+  band_name: Saha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80657
+  date: '2019-08-29'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80658
+  date: '2019-08-29'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80663
+  date: '2019-08-27'
+  time: '20:00'
+  band_name: Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 80664
+  date: '2019-08-27'
+  time: '22:00'
+  band_name: Квартет Анастасии Родной
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80665
+  date: '2019-08-27'
+  time: '20:30'
+  band_name: Full Moon Jazz Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80666
+  date: '2019-08-25'
+  time: '20:00'
+  band_name: LRK Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80667
+  date: '2019-08-26'
+  time: '19:00'
+  band_name: 'Проект "Trane Zen Art" представляет: Арт-Арфа-Медитация'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80668
+  date: '2019-08-25'
+  time: '22:00'
+  band_name: The Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80669
+  date: '2019-08-25'
+  time: '20:30'
+  band_name: Oili
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80675
+  date: '2019-08-21'
+  time: '20:00'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80678
+  date: '2019-08-20'
+  time: '20:30'
+  band_name: The EarlyBird (Санкт-Петербург)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80679
+  date: '2019-08-20'
+  time: '20:00'
+  band_name: Art Splash - проект Алекса Ростоцкого
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 80680
+  date: '2019-08-18'
+  time: '22:00'
+  band_name: The Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80681
+  date: '2019-08-18'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80682
+  date: '2019-08-19'
+  time: '19:00'
+  band_name: 'Проект "Trane Zen Art" представляет: Diving Panda'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80683
+  date: '2019-08-19'
+  time: '20:00'
+  band_name: Roz Vitalis и OT&DO
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80684
+  date: '2019-08-18'
+  time: '20:30'
+  band_name: Михаил Лисов (гитара) - Ден Маринкин (барабаны)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80685
+  date: '2019-08-17'
+  time: '20:00'
+  band_name: Анна Королева - Quentin Moore (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 80686
+  date: '2019-08-15'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80689
+  date: '2019-08-15'
+  time: '20:00'
+  band_name: REVO.band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80692
+  date: '2019-08-13'
+  time: '22:00'
+  band_name: Ерванд Маргарян & Нара Аракелян Квартет feat. Сергей Манукян (вокал,
+    фортепиано) и Григорий Мальян (контрабас)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 80693
+  date: '2019-08-13'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 80694
+  date: '2019-08-12'
+  time: '19:00'
+  band_name: 'Проект "Trane Zen Art" представляет: Квартет Юрия Яремчука'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80695
+  date: '2019-08-11'
+  time: '20:30'
+  band_name: Квинтет Евгении Петерс
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80696
+  date: '2019-08-11'
+  time: '22:00'
+  band_name: The Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80697
+  date: '2019-08-12'
+  time: '20:00'
+  band_name: CoolGroove Bigband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80698
+  date: '2019-08-11'
+  time: '20:00'
+  band_name: Ольга Синяева & All See Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80699
+  date: '2019-08-10'
+  time: '22:00'
+  band_name: Saha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80700
+  date: '2019-08-10'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80701
+  date: '2019-08-10'
+  time: '20:00'
+  band_name: Ensolarado & Jose Moryan
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80702
+  date: '2019-08-08'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80703
+  date: '2019-08-09'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80704
+  date: '2019-08-07'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80670
+  date: '2019-08-24'
+  time: '22:00'
+  band_name: Mishouris XXL
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80671
+  date: '2019-08-24'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80672
+  date: '2019-08-24'
+  time: '20:00'
+  band_name: Таль Бабицкий (фортепиано, Израиль)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80673
+  date: '2019-08-22'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80674
+  date: '2019-08-21'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80676
+  date: '2019-08-21'
+  time: '20:30'
+  band_name: Beatum
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80677
+  date: '2019-08-20'
+  time: '22:00'
+  band_name: Mr. V. B. Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80648
+  date: '2019-07-31'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80659
+  date: '2019-08-28'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80660
+  date: '2019-08-29'
+  time: '19:30'
+  band_id: 650
+  band_name: Danny Giles
+  band_token: danny-giles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80661
+  date: '2019-08-28'
+  time: '20:30'
+  band_name: Spacehead
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80662
+  date: '2019-08-28'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80687
+  date: '2019-08-17'
+  time: '18:00'
+  band_name: GUDI Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80688
+  date: '2019-08-14'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80690
+  date: '2019-08-13'
+  time: '20:00'
+  band_name: Eric Alexander Quintet (США-Россия)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80711
+  date: '2019-08-04'
+  time: '20:30'
+  band_name: 5-й ежегодный концерт-фестиваль памяти Анатолия Макурова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80712
+  date: '2019-08-04'
+  time: '22:00'
+  band_name: The Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80713
+  date: '2019-08-04'
+  time: '20:00'
+  band_name: Этери Бериашвили, Александр Лосев и Beriashvili-Losev Group
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+- id: 80714
+  date: '2019-08-07'
+  time: '20:00'
+  band_name: Андрей Коробейников & Дюны (Санкт-Петербург) feat. Анна Королева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 80715
+  date: '2019-08-03'
+  time: '20:00'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80716
+  date: '2019-08-02'
+  time: '22:00'
+  band_name: Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80691
+  date: '2019-08-14'
+  time: '20:00'
+  band_id: 727
+  band_name: Reflections Duo
+  band_token: reflections-duo
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80705
+  date: '2019-08-08'
+  time: '20:30'
+  band_name: Трио Николая Мищенко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80706
+  date: '2019-08-08'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80707
+  date: '2019-08-07'
+  time: '20:30'
+  band_name: Сергей Головня - "Electro Machine"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80708
+  date: '2019-08-05'
+  time: '19:00'
+  band_name: 'Проект "Trane Zen Art" представляет: Квинтет Залетаева - Рябухина'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80709
+  date: '2019-08-05'
+  time: '20:00'
+  band_name: Under Influence
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 80710
+  date: '2019-08-06'
+  time: '19:00'
+  band_name: Afterparty петербургского блюзового фестиваля "Мосты"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81184
+  date: '2019-09-02'
+  time: '19:00'
+  band_name: 'Trane Zen Art: Ансамбль Ивана Гребенщикова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81190
+  date: '2019-10-01'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 81191
+  date: '2019-10-01'
+  time: '20:00'
+  band_name: Дарья Шорр
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81197
+  date: '2019-09-01'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81198
+  date: '2019-09-01'
+  time: '22:00'
+  band_name: Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81203
+  date: '2019-09-13'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81206
+  date: '2019-09-02'
+  time: '22:00'
+  band_name: 'Sasha Mashin Happy Lab.: Aleksandr Zinger'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81211
+  date: '2019-09-27'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81216
+  date: '2019-09-03'
+  time: '20:00'
+  band_name: Валерий Степанов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81217
+  date: '2019-09-03'
+  time: '22:00'
+  band_name: Light Messengers Jazz Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81218
+  date: '2019-09-04'
+  time: '20:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81219
+  date: '2019-09-04'
+  time: '20:00'
+  band_name: Жорж Сергеев и его "Мюзик-Холл-Трио"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81220
+  date: '2019-09-04'
+  time: '20:30'
+  band_name: DM Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81221
+  date: '2019-09-04'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81222
+  date: '2019-09-11'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81223
+  date: '2019-09-18'
+  time: '22:00'
+  band_name: '"Ураганный джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81224
+  date: '2019-09-25'
+  time: '20:30'
+  band_name: Трио Антона Горбунова. "Bass Magic"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81225
+  date: '2019-09-25'
+  time: '20:00'
+  band_id: 766
+  band_name: Chris Cain
+  band_token: chris-cain
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81226
+  date: '2019-09-23'
+  time: '20:00'
+  band_name: Vein (Швейцария)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81227
+  date: '2019-09-24'
+  time: '20:00'
+  band_name: Horsepower
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81228
+  date: '2019-09-24'
+  time: '22:00'
+  band_name: Квартет Анатолия Мачуленко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81229
+  date: '2019-09-24'
+  time: '20:30'
+  band_name: Квинтет Айка Григоряна. Специальные гости Карен Кочарян (США) и Артур
+    Григорян (ОАЭ)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81230
+  date: '2019-09-22'
+  time: '20:30'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81231
+  date: '2019-09-22'
+  time: '18:00'
+  band_name: Воскресенье винила с Павлом Катковым
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81232
+  date: '2019-09-22'
+  time: '20:00'
+  band_name: Анна Королева. Презентация альбома "Ocean Inside"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 81233
+  date: '2019-09-21'
+  time: '22:00'
+  band_name: Sasha Magerova & JazzPlay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81234
+  date: '2019-09-21'
+  time: '23:30'
+  band_name: '#Ямолодость'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81235
+  date: '2019-09-21'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81236
+  date: '2019-09-21'
+  time: '18:00'
+  band_name: Лисикова и ОНИ
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81237
+  date: '2019-09-20'
+  time: '22:00'
+  band_name: The Gracious
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81238
+  date: '2019-09-19'
+  time: '20:30'
+  band_name: Квинтет Евгения Побожего
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81240
+  date: '2019-09-18'
+  time: '20:30'
+  band_name: Backstage Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 81243
+  date: '2019-09-17'
+  time: '20:30'
+  band_name: Jazz Guitar Evolution Николая Куликова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81260
+  date: '2019-09-07'
+  time: '20:00'
+  band_name: Павел Иванов с программой "So in love"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81185
+  date: '2019-09-09'
+  time: '19:00'
+  band_name: 'Trane Zen Art: Петяев-Петяев Квартет'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81186
+  date: '2019-09-16'
+  time: '19:00'
+  band_name: 'Trane Zen Art: Вечер памяти Германа Лукьянова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81187
+  date: '2019-09-23'
+  time: '19:00'
+  band_name: 'Trane Zen Art: Квартет Олега Грымова'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81188
+  date: '2019-09-30'
+  time: '19:00'
+  band_name: 'Trane Zen Art: Avant-Garde Jazz Laboratory'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81189
+  date: '2019-09-26'
+  time: '20:00'
+  band_name: Мариам Мерабова и проект Армена Мерабова "Miraif". "Вечная любовь"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81192
+  date: '2019-10-01'
+  time: '22:00'
+  band_name: Петр Ившин и West Coast Revival
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81193
+  date: '2019-09-30'
+  time: '20:00'
+  band_name: Oggy & The Phonics (Швейцария/Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81194
+  date: '2019-09-29'
+  time: '20:30'
+  band_name: Alexey Popov Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81195
+  date: '2019-09-29'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81196
+  date: '2019-09-29'
+  time: '18:00'
+  band_name: Воскресенье винила с Павлом Катковым
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81199
+  date: '2019-09-09'
+  time: '20:00'
+  band_name: Группа Ивана Смирнова - концерт памяти маэстро
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81200
+  date: '2019-09-29'
+  time: '15:00'
+  band_name: Андрей Виноградов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81201
+  date: '2019-09-27'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81202
+  date: '2019-09-20'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81204
+  date: '2019-09-06'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81205
+  date: '2019-09-01'
+  time: '20:00'
+  band_name: Funk Corporation
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81207
+  date: '2019-09-28'
+  time: '18:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81208
+  date: '2019-09-28'
+  time: '20:00'
+  band_name: Moscow Gospel Team
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81209
+  date: '2019-09-28'
+  time: '22:00'
+  band_id: 276
+  band_name: Betty Boop Lovers
+  band_token: betty-boop-lovers
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81210
+  date: '2019-09-27'
+  time: '22:00'
+  band_name: Алексей Геращенко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81212
+  date: '2019-09-20'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81213
+  date: '2019-09-13'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81214
+  date: '2019-09-06'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81215
+  date: '2019-09-03'
+  time: '20:30'
+  band_name: Алексей Кузнецов. Интеллигентный джаз-гитар-бэнд
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 81239
+  date: '2019-09-19'
+  time: '20:00'
+  band_name: REVO.band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81241
+  date: '2019-09-17'
+  time: '22:00'
+  band_name: Live People Ensemble
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 81242
+  date: '2019-09-18'
+  time: '20:00'
+  band_name: Странная история доктора Джекила и мистера Хайда
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81244
+  date: '2019-09-17'
+  time: '20:00'
+  band_name: Two Siberians
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81245
+  date: '2019-09-16'
+  time: '20:00'
+  band_name: Nikolay Moiseenko Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81246
+  date: '2019-09-15'
+  time: '18:00'
+  band_name: Воскресенье винила с Павлом Катковым
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81247
+  date: '2019-09-15'
+  time: '20:00'
+  band_name: Sambateria & Катерина Балыкбаева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81248
+  date: '2019-09-14'
+  time: '20:00'
+  band_name: LRK Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81249
+  date: '2019-09-14'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81250
+  date: '2019-09-14'
+  time: '13:00'
+  band_name: 'Мастер-класс Романа Столяра - "Как играть, не готовясь: секреты свободной
+    импровизации"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81251
+  date: '2019-09-12'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81252
+  date: '2019-09-12'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова. К 120-летию Дюка Эллингтона
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 81253
+  date: '2019-09-11'
+  time: '20:30'
+  band_name: Gitane Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81254
+  date: '2019-09-11'
+  time: '20:00'
+  band_name: Квартет Айка Григоряна
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81255
+  date: '2019-09-10'
+  time: '22:00'
+  band_name: DownTownBeat Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81256
+  date: '2019-09-08'
+  time: '20:30'
+  band_name: Сергей Филатов (фортепиано) и Виталий Кись (гитара)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81257
+  date: '2019-09-08'
+  time: '20:00'
+  band_name: Seven Eight Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81258
+  date: '2019-09-07'
+  time: '22:00'
+  band_name: Mishouris XXL
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81259
+  date: '2019-09-06'
+  time: '22:00'
+  band_name: Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81261
+  date: '2019-09-05'
+  time: '22:00'
+  band_name: Большой джазовый джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81262
+  date: '2019-09-05'
+  time: '20:30'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81263
+  date: '2019-09-05'
+  time: '20:00'
+  band_name: Числj Пи
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81882
+  date: '2019-10-02'
+  time: '12:00'
+  band_name: Jazz Birds 2019. 1-й конкурсный день
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81885
+  date: '2019-10-03'
+  time: '12:00'
+  band_name: Jazz Birds 2019. 2-й конкурсный день
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81886
+  date: '2019-10-03'
+  time: '20:00'
+  band_name: Анна Королева. Song For Sax
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 81887
+  date: '2019-10-03'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81888
+  date: '2019-10-04'
+  time: '12:00'
+  band_name: Jazz Birds 2019. Мастер-класс. Круглый стол жюри
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81889
+  date: '2019-10-04'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81890
+  date: '2019-10-11'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81891
+  date: '2019-10-18'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81892
+  date: '2019-10-25'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81893
+  date: '2019-10-04'
+  time: '22:00'
+  band_name: Friday Night with Nash Albert
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81894
+  date: '2019-10-04'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81895
+  date: '2019-10-11'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81896
+  date: '2019-10-18'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81897
+  date: '2019-10-25'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81898
+  date: '2019-10-05'
+  time: '12:00'
+  band_name: Jazz Birds 2019. Дискуссия с арт-директорами джаз-клубов
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81899
+  date: '2019-10-05'
+  time: '20:00'
+  band_name: Alexander Dovgopoly Project
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81900
+  date: '2019-10-06'
+  time: '18:00'
+  band_name: 'Воскресенье Винила с Павлом Катковым: "Герои 80-х. От Police до Tears
+    For Fears"'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81901
+  date: '2019-10-06'
+  time: '20:00'
+  band_name: Святослав Текучев & Good Sound Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81902
+  date: '2019-10-06'
+  time: '20:30'
+  band_name: Иван Смирнов-мл. и Михаил Оленченко
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 321
+    name: Иван Смирнов
+    token: ivan-smirnov
+- id: 81903
+  date: '2019-10-06'
+  time: '22:00'
+  band_name: Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81904
+  date: '2019-10-07'
+  time: '19:00'
+  band_name: Trane Zen Art. Prepared Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81906
+  date: '2019-10-08'
+  time: '20:00'
+  band_name: Seven Eight Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81910
+  date: '2019-10-09'
+  time: '20:30'
+  band_name: Алина Ростоцкая. "Motilda"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 81915
+  date: '2019-10-16'
+  time: '20:00'
+  band_name: The Lesson GK (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81916
+  date: '2019-10-15'
+  time: '22:00'
+  band_name: Трио Виктории Кривозубовой. "На пару слов"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81883
+  date: '2019-10-02'
+  time: '20:30'
+  band_name: Квартет Айка Григоряна
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81884
+  date: '2019-10-02'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81905
+  date: '2019-10-07'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 81907
+  date: '2019-10-08'
+  time: '20:30'
+  band_name: Guitar Day. Квартет Дениса Назарова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81908
+  date: '2019-10-08'
+  time: '22:00'
+  band_name: Downtownbeat Quintet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81909
+  date: '2019-10-09'
+  time: '20:00'
+  band_name: 'Zildjian Day and Drum Show: Eric Moore (США)'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81931
+  date: '2019-10-18'
+  time: '22:00'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81932
+  date: '2019-10-19'
+  time: '18:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81933
+  date: '2019-10-19'
+  time: '20:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81934
+  date: '2019-10-20'
+  time: '18:00'
+  band_name: Rainy Days Jazz Fest 2019
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81938
+  date: '2019-10-22'
+  time: '20:30'
+  band_name: Sonke Meinen (Germany)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81939
+  date: '2019-10-22'
+  time: '22:00'
+  band_name: Masala Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81940
+  date: '2019-10-23'
+  time: '20:00'
+  band_id: 722
+  band_name: Shanna Waterstown
+  band_token: shanna-waterstown
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81941
+  date: '2019-10-23'
+  time: '20:30'
+  band_name: Kle2go
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81942
+  date: '2019-10-24'
+  time: '20:00'
+  band_name: Oz Noy Trio with Dennis Chambers & Jimmy Haslip (США)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81943
+  date: '2019-10-26'
+  time: '22:00'
+  band_name: Sasha Magerova & Jazzplay
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81946
+  date: '2019-10-28'
+  time: '20:00'
+  band_name: Horsepower
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81948
+  date: '2019-10-29'
+  time: '20:30'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81911
+  date: '2019-10-09'
+  time: '22:00'
+  band_name: '"Ураганный Джем" Павла Тимофеева'
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81912
+  date: '2019-10-17'
+  time: '20:30'
+  band_name: Юлиана Рогачева и квартет Алексея Чернакова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81913
+  date: '2019-10-17'
+  time: '20:00'
+  band_name: Светлана Жаворонкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81914
+  date: '2019-10-16'
+  time: '20:30'
+  band_name: Planck'stone
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81919
+  date: '2019-10-14'
+  time: '20:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81920
+  date: '2019-10-14'
+  time: '19:00'
+  band_name: Trane Zen Art. Алексей Чичилин
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81922
+  date: '2019-10-13'
+  time: '20:30'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81923
+  date: '2019-10-13'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81924
+  date: '2019-10-13'
+  time: '19:00'
+  band_name: Концерт памяти Александра Веремьева
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81927
+  date: '2019-10-10'
+  time: '22:00'
+  band_name: Большой Джазовый Джем Петра Востокова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81928
+  date: '2019-10-10'
+  time: '20:30'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81929
+  date: '2019-10-10'
+  time: '20:00'
+  band_name: Квинтет Сергея Долженкова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81930
+  date: '2019-10-10'
+  time: '20:00'
+  band_name: Sound Dealer feat. Ksenia Kohan
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81917
+  date: '2019-10-15'
+  time: '20:30'
+  band_name: Guitar Day. Gibson Day
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81918
+  date: '2019-10-15'
+  time: '20:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81921
+  date: '2019-10-13'
+  time: '22:00'
+  band_name: Downtown Beat Jam
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81925
+  date: '2019-10-12'
+  time: '20:00'
+  band_name: Carlos Echavarria (Куба) & Jazz Park
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81926
+  date: '2019-10-12'
+  time: '18:00'
+  band_name: The Kikipickles
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81935
+  date: '2019-10-21'
+  time: '19:00'
+  band_name: Trane Zen Art. VIII Leo Records Festival in Russia
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81936
+  date: '2019-10-21'
+  time: '20:00'
+  band_name: No Square (Швейцария/Германия/Франция)
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81937
+  date: '2019-10-22'
+  time: '20:00'
+  band_name: Olga Sinyaeva & Anton Chekurov 6tet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  comments: Презентация Альбома "Jump!"
+- id: 81944
+  date: '2019-10-27'
+  time: '20:00'
+  band_name: REVO.Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81945
+  date: '2019-10-28'
+  time: '19:00'
+  band_name: Trane Zen Art. Moscow Organ Quartet
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81947
+  date: '2019-10-29'
+  time: '20:00'
+  band_name: Анна Королева. "Bang Of Rules"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+- id: 81949
+  date: '2019-10-29'
+  time: '22:00'
+  band_name: Квартет Ксении Кохан
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81950
+  date: '2019-10-30'
+  time: '20:00'
+  band_name: Жорж Сергеев (вокал) и Modern Music Hall Band
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  comments: Евгений Сивцов (фортепиано), Матвей Войнаровский (фортепиано), Анна Гелюк
+    (ударные), Виталий Братухин (саксофон), Джо Таранов (контрабас), Юрий Ковешников
+    (тромбон). При уч. Анфисы Пономаревой, Надежды Петровой, Дарьи Захаровой, Яны
+    Успенской, Китти Орловой - вокал.  Специальные гости - Анна Бутурлина (вокал)
+    и Алина Крочева (вокал)
+- id: 81951
+  date: '2019-10-30'
+  time: '20:00'
+  band_name: Число Пи
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81952
+  date: '2019-10-30'
+  time: '20:30'
+  band_name: Алина Филиппова. "Легкий Концерт"
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81953
+  date: '2019-10-31'
+  time: '20:00'
+  band_name: Ilugdin Trio
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81954
+  date: '2019-10-31'
+  time: '20:30'
+  band_id: 741
+  band_name: Mike Ross
+  band_token: mike-ross
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81955
+  date: '2019-11-01'
+  time: '23:30'
+  band_name: ГлавМосДжем
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 81956
+  date: '2019-11-01'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+- id: 82209
+  date: '2019-11-02'
+  time: '20:00'
+  band_name: Raphael Wressnig (Австрия) & C-Jam Club Jazz Orchestra
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub
+  extra_bands:
+  - id: 448
+    name: C-Jam Club Jazz Orchestra
+    token: cjc-jazz-orchestra
+  - id: 596
+    name: Raphael Wressnig & The Soul Gift Band
+    token: wressnig-schultz
+- id: 82621
+  date: '2019-12-03'
+  band_id: 777
+  band_name: Carlos Johnson
+  band_token: carlos-johnson
+  club_id: 598
+  club_name: Клуб Алексея Козлова
+  club_token: kozlovclub

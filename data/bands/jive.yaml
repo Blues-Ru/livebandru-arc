@@ -1,0 +1,21 @@
+id: 236
+token: jive
+name: Jive
+alive: true
+url: http://jive.name/
+city_id: 10
+genre_id: 7
+secondary_genre_id: 2
+musicians:
+- name: Валерий Коротков
+  instruments: фортепиано, клавишные
+- name: Станислав Калабанов
+  instruments: бас
+- name: Владимир Чигарев
+  instruments: вокал
+clips:
+- id: 730
+  type: weblink
+  url: http://www.jazz.ru/pages/jive/
+  name: Страница на Jazz.Ru
+  sort_order: 99

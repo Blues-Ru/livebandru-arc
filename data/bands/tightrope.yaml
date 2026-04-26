@@ -1,0 +1,20 @@
+id: 402
+token: tightrope
+name: Tightrope
+alive: true
+city_id: 31
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Виталий Степанов
+  instruments: гитара, вокал
+- name: Виктор Степанов
+  instruments: гитара, вокал
+- name: Анатолий Сейнов
+  instruments: ударные
+clips:
+- id: 1813
+  type: weblink
+  url: http://vk.com/club21706427
+  name: Страница ВКонтакте
+  sort_order: 99

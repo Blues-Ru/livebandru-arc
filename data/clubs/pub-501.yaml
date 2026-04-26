@@ -1,0 +1,14 @@
+id: 330
+token: pub-501
+name: Pub 501
+alive: true
+address: Ленина, 20
+subway: Площадь Ленина
+phone: (383) 218-09-39
+city_id: 19
+clips:
+- id: 1215
+  type: weblink
+  url: http://www.pub501.ru
+  name: Официальный сайт
+  sort_order: 99

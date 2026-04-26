@@ -1,0 +1,18 @@
+id: 689
+token: panamericano
+name: PanAmericano
+aliases: ПанАмерикано
+alive: true
+address: Кирова, 90
+city_id: 38
+clips:
+- id: 4317
+  type: weblink
+  url: http://vk.com/panamericano_chel
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 4316
+  type: weblink
+  url: http://panamericano.ru/
+  name: Официальный сайт
+  sort_order: 0

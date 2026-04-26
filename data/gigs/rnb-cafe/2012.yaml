@@ -1,0 +1,6734 @@
+- id: 24168
+  date: '2012-01-26'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24281
+  date: '2012-01-02'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24282
+  date: '2012-01-12'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24283
+  date: '2012-01-19'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24292
+  date: '2012-01-01'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24293
+  date: '2012-01-03'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24294
+  date: '2012-01-04'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24295
+  date: '2012-01-05'
+  time: '19:00'
+  band_name: Elvis Birthday Party, Dr. Nick, Mellow Yellow, RawCats'88, Вадим Иващенко
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 113
+    name: Mellow Yellow
+    token: mellow-yellow
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 24296
+  date: '2012-01-06'
+  time: '19:00'
+  band_name: 'Благотворительный конерт: , Полина Касьянова и Django Band, X-Team,
+    Full Moon Jazz Band, , RawCats''88'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+  - id: 84
+    name: X-Team
+    token: x-team
+- id: 24297
+  date: '2012-01-07'
+  time: '19:00'
+  band_name: Годовщина Новоселья
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24298
+  date: '2012-01-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24299
+  date: '2012-01-10'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24330
+  date: '2012-01-11'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24331
+  date: '2012-01-11'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24332
+  date: '2012-01-12'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24333
+  date: '2012-01-13'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24334
+  date: '2012-01-13'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24335
+  date: '2012-01-13'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24336
+  date: '2012-01-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24337
+  date: '2012-01-14'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24338
+  date: '2012-01-15'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24340
+  date: '2012-01-17'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24341
+  date: '2012-01-17'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24342
+  date: '2012-01-18'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24343
+  date: '2012-01-18'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24344
+  date: '2012-01-19'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24345
+  date: '2012-01-20'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24346
+  date: '2012-01-20'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24347
+  date: '2012-01-20'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24348
+  date: '2012-01-21'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24349
+  date: '2012-01-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24350
+  date: '2012-01-21'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24351
+  date: '2012-01-22'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24326
+  date: '2012-01-14'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24284
+  date: '2012-01-26'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24616
+  date: '2012-01-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24617
+  date: '2012-01-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24851
+  date: '2012-01-31'
+  time: '21:00'
+  band_name: The Jumping Cats и Ксения Федулова (гитара, вокал)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 24852
+  date: '2012-01-31'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24853
+  date: '2012-02-01'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24854
+  date: '2012-02-01'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24855
+  date: '2012-02-02'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24856
+  date: '2012-02-02'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 24857
+  date: '2012-02-03'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24858
+  date: '2012-02-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24859
+  date: '2012-02-03'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24860
+  date: '2012-02-04'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 24861
+  date: '2012-02-04'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24862
+  date: '2012-02-04'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24863
+  date: '2012-02-05'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25429
+  date: '2012-02-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25366
+  date: '2012-02-08'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25367
+  date: '2012-02-08'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25368
+  date: '2012-02-09'
+  time: '21:00'
+  band_name: Второе Дыхание
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25369
+  date: '2012-02-09'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25370
+  date: '2012-02-10'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25371
+  date: '2012-02-10'
+  time: '23:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25372
+  date: '2012-02-10'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25373
+  date: '2012-02-11'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25374
+  date: '2012-02-11'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25375
+  date: '2012-02-11'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25376
+  date: '2012-02-12'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25377
+  date: '2012-02-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25378
+  date: '2012-02-14'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25379
+  date: '2012-02-14'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25380
+  date: '2012-02-15'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25381
+  date: '2012-02-16'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25382
+  date: '2012-02-16'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25383
+  date: '2012-02-17'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25384
+  date: '2012-02-17'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25385
+  date: '2012-02-17'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25386
+  date: '2012-02-19'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24846
+  date: '2012-01-27'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24847
+  date: '2012-01-28'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24848
+  date: '2012-01-28'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24849
+  date: '2012-01-28'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 24850
+  date: '2012-01-29'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24844
+  date: '2012-01-27'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 24845
+  date: '2012-01-27'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 24884
+  date: '2012-02-07'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24840
+  date: '2012-01-24'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24841
+  date: '2012-01-24'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 24842
+  date: '2012-01-25'
+  time: '21:00'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 24843
+  date: '2012-01-25'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25437
+  date: '2012-02-15'
+  time: '21:00'
+  band_name: Colonel Colt Fan Club
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25364
+  date: '2012-02-06'
+  time: '21:00'
+  band_name: Dr. Nick, Леша Тишин 27, фестиваль
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 25365
+  date: '2012-02-07'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25686
+  date: '2012-02-28'
+  time: '21:00'
+  band_name: The Jumping Cats и Сергей Воронов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 25688
+  date: '2012-02-29'
+  time: '21:00'
+  band_name: Денис Мажуков,Вадим Иващенко
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 25689
+  date: '2012-02-29'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25690
+  date: '2012-03-01'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25691
+  date: '2012-03-01'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25692
+  date: '2012-03-02'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25693
+  date: '2012-03-02'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25694
+  date: '2012-03-02'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25698
+  date: '2012-03-04'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25699
+  date: '2012-03-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25700
+  date: '2012-03-06'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25701
+  date: '2012-03-06'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25702
+  date: '2012-03-07'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25703
+  date: '2012-03-07'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25704
+  date: '2012-03-07'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25672
+  date: '2012-02-21'
+  time: '21:00'
+  band_name: The Jumping Cats и Елена Шерри (вокал, клавиши)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 551
+    name: Елена Шерри
+    token: elena-sherry
+- id: 25674
+  date: '2012-02-22'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25675
+  date: '2012-02-22'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25676
+  date: '2012-02-23'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25679
+  date: '2012-02-24'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25681
+  date: '2012-02-25'
+  time: '21:00'
+  band_name: Robert Lighthouse, USA
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 - 600
+  extra_bands:
+  - id: 251
+    name: Robert Lighthouse
+    token: robert-lighthouse
+- id: 25683
+  date: '2012-02-25'
+  time: '20:30'
+  band_name: Red Brick Boys, Happy Penguins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25684
+  date: '2012-02-26'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25685
+  date: '2012-02-27'
+  time: '21:00'
+  band_name: Dr. Nick, ДР Коли Добкина
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 25687
+  date: '2012-02-28'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25705
+  date: '2012-03-08'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25708
+  date: '2012-03-09'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25710
+  date: '2012-03-09'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25673
+  date: '2012-02-21'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25677
+  date: '2012-02-23'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25678
+  date: '2012-02-24'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25680
+  date: '2012-02-24'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25682
+  date: '2012-02-25'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25695
+  date: '2012-03-03'
+  time: '21:00'
+  band_name: RawCats'88, Marshmallows
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 25696
+  date: '2012-03-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25697
+  date: '2012-03-03'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25706
+  date: '2012-03-08'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25707
+  date: '2012-03-08'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25709
+  date: '2012-03-09'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25711
+  date: '2012-03-10'
+  time: '20:30'
+  band_name: Jose Luis Pardo, Вадим Иващенко и The Boneshakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600-700
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 25712
+  date: '2012-03-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25713
+  date: '2012-03-13'
+  time: '21:00'
+  band_name: Red Brick Boys
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25714
+  date: '2012-03-13'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25715
+  date: '2012-03-14'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 25716
+  date: '2012-03-14'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25717
+  date: '2012-03-15'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25718
+  date: '2012-03-15'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 25719
+  date: '2012-03-16'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 25720
+  date: '2012-03-16'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25721
+  date: '2012-03-16'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25722
+  date: '2012-03-17'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 25723
+  date: '2012-03-17'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 25724
+  date: '2012-03-17'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 25725
+  date: '2012-03-18'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26432
+  date: '2012-03-19'
+  time: '21:00'
+  band_name: Dr. Nick и Елена Шерри
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 551
+    name: Елена Шерри
+    token: elena-sherry
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 26434
+  date: '2012-03-20'
+  time: '21:00'
+  band_name: Happy Penguins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26435
+  date: '2012-03-20'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26461
+  date: '2012-03-31'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 26462
+  date: '2012-03-31'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26463
+  date: '2012-03-31'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26464
+  date: '2012-04-01'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26498
+  date: '2012-03-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26904
+  date: '2012-04-02'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26905
+  date: '2012-04-03'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26906
+  date: '2012-04-03'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26907
+  date: '2012-04-04'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26908
+  date: '2012-04-04'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26909
+  date: '2012-04-05'
+  time: '21:00'
+  band_name: J.C. Smith (Чикаго, США) with Omar Itcovici & the Kingsize
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 - 700
+  extra_bands:
+  - id: 88
+    name: Omar Itcovici & The Kingsize
+    token: omar
+- id: 26910
+  date: '2012-04-05'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26911
+  date: '2012-04-06'
+  time: '21:00'
+  band_name: J.C. Smith (Чикаго, США) with Omar Itcovici & the Kingsize
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 - 800
+  extra_bands:
+  - id: 88
+    name: Omar Itcovici & The Kingsize
+    token: omar
+- id: 26912
+  date: '2012-04-06'
+  time: '20:30'
+  band_name: Happy Pinguins и PsycheDELTA blues band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+- id: 26913
+  date: '2012-04-06'
+  time: '23:30'
+  band_name: Moonshine
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26914
+  date: '2012-04-07'
+  time: '21:00'
+  band_name: J.C. Smith (Чикаго, США) with Omar Itcovici & the Kingsize
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 - 800
+  extra_bands:
+  - id: 88
+    name: Omar Itcovici & The Kingsize
+    token: omar
+- id: 26915
+  date: '2012-04-07'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26953
+  date: '2012-04-27'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26937
+  date: '2012-04-19'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26938
+  date: '2012-04-19'
+  time: '21:30'
+  band_name: Red Brick Boys
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26939
+  date: '2012-04-20'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26940
+  date: '2012-04-20'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26941
+  date: '2012-04-20'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26942
+  date: '2012-04-21'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 26943
+  date: '2012-04-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26945
+  date: '2012-04-22'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26946
+  date: '2012-04-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26947
+  date: '2012-04-24'
+  time: '21:00'
+  band_name: The Jumping Cats и Ксения Федулова (вокал, гитара)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 26948
+  date: '2012-04-24'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26949
+  date: '2012-04-25'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26950
+  date: '2012-04-25'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26951
+  date: '2012-04-26'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26952
+  date: '2012-04-26'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27165
+  date: '2012-04-16'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27169
+  date: '2012-04-21'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27262
+  date: '2012-05-05'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27263
+  date: '2012-05-05'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27264
+  date: '2012-05-05'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27265
+  date: '2012-05-06'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27266
+  date: '2012-05-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27267
+  date: '2012-05-08'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27268
+  date: '2012-05-08'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27269
+  date: '2012-05-09'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27270
+  date: '2012-05-09'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27271
+  date: '2012-05-10'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27272
+  date: '2012-05-10'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27273
+  date: '2012-05-11'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27275
+  date: '2012-05-11'
+  time: '20:30'
+  band_name: Colonel Colt Fan Club
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27276
+  date: '2012-05-12'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27277
+  date: '2012-05-12'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27278
+  date: '2012-05-12'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27279
+  date: '2012-05-13'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27280
+  date: '2012-05-14'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27281
+  date: '2012-05-15'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27283
+  date: '2012-05-16'
+  time: '21:00'
+  band_name: Сергей Воронов, Юрий Новгородский, Дмитрий Честных "Ветеран", Вадим Иващенко,
+    Сергей Новиков, Dariya
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 27284
+  date: '2012-05-16'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27285
+  date: '2012-05-17'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27286
+  date: '2012-05-17'
+  time: '20:30'
+  band_name: Ольга Лисикова & Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27287
+  date: '2012-05-18'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27288
+  date: '2012-05-18'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27289
+  date: '2012-05-18'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27290
+  date: '2012-05-19'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27291
+  date: '2012-05-19'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26460
+  date: '2012-03-30'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26440
+  date: '2012-03-21'
+  time: '21:00'
+  band_name: Folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26441
+  date: '2012-03-21'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26442
+  date: '2012-03-22'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26443
+  date: '2012-03-22'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26444
+  date: '2012-03-23'
+  time: '20:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26445
+  date: '2012-03-23'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26446
+  date: '2012-03-23'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26447
+  date: '2012-03-24'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26448
+  date: '2012-03-24'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26449
+  date: '2012-03-24'
+  time: '21:00'
+  band_name: Happy Penguins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26450
+  date: '2012-03-25'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26452
+  date: '2012-03-27'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26453
+  date: '2012-03-27'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26454
+  date: '2012-03-28'
+  time: '21:00'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 26455
+  date: '2012-03-28'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26456
+  date: '2012-03-29'
+  time: '21:00'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26457
+  date: '2012-03-29'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26458
+  date: '2012-03-30'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26459
+  date: '2012-03-30'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26916
+  date: '2012-04-07'
+  time: '23:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26917
+  date: '2012-04-08'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26918
+  date: '2012-04-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26919
+  date: '2012-04-10'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26921
+  date: '2012-04-11'
+  time: '21:00'
+  band_name: вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26922
+  date: '2012-04-11'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26923
+  date: '2012-04-12'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26924
+  date: '2012-04-12'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 26925
+  date: '2012-04-13'
+  time: '21:00'
+  band_name: Moscow Ragtime Band и Полина Касьянова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 26926
+  date: '2012-04-13'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26927
+  date: '2012-04-13'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26928
+  date: '2012-04-14'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 26929
+  date: '2012-04-14'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 26930
+  date: '2012-04-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 26931
+  date: '2012-04-15'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26933
+  date: '2012-04-17'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26934
+  date: '2012-04-17'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26935
+  date: '2012-04-18'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 26936
+  date: '2012-04-18'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27245
+  date: '2012-04-28'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27246
+  date: '2012-04-28'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27247
+  date: '2012-04-27'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27248
+  date: '2012-04-28'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27249
+  date: '2012-04-29'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27250
+  date: '2012-04-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27251
+  date: '2012-05-01'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27252
+  date: '2012-05-01'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27254
+  date: '2012-05-02'
+  time: '21:00'
+  band_name: Bad Bimbos
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27255
+  date: '2012-05-02'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27257
+  date: '2012-05-03'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27258
+  date: '2012-05-03'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27259
+  date: '2012-05-04'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 27260
+  date: '2012-05-04'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27615
+  date: '2012-05-25'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 27812
+  date: '2012-05-22'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27745
+  date: '2012-05-20'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27746
+  date: '2012-05-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27747
+  date: '2012-05-22'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27748
+  date: '2012-05-23'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27749
+  date: '2012-05-23'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27750
+  date: '2012-05-24'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27751
+  date: '2012-05-24'
+  time: '20:30'
+  band_name: Настя Концевая & Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27752
+  date: '2012-05-25'
+  time: '20:30'
+  band_name: Дмитрий dr. Endo Казачков & the Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27753
+  date: '2012-05-25'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27754
+  date: '2012-05-26'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27755
+  date: '2012-05-26'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27756
+  date: '2012-05-26'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27757
+  date: '2012-05-27'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27758
+  date: '2012-05-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27759
+  date: '2012-05-29'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27760
+  date: '2012-05-29'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27761
+  date: '2012-05-30'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27762
+  date: '2012-05-30'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27763
+  date: '2012-05-31'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27935
+  date: '2012-06-21'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27765
+  date: '2012-06-01'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 27766
+  date: '2012-06-01'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27886
+  date: '2012-06-01'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27887
+  date: '2012-06-02'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27888
+  date: '2012-06-02'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27889
+  date: '2012-06-02'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27890
+  date: '2012-06-03'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27891
+  date: '2012-06-04'
+  time: '20:30'
+  band_name: Dr. Nick, Встреча с Валерием Писигиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 27892
+  date: '2012-06-05'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27893
+  date: '2012-06-05'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27894
+  date: '2012-06-06'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27895
+  date: '2012-06-06'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27896
+  date: '2012-06-07'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27897
+  date: '2012-06-08'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27900
+  date: '2012-06-09'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27899
+  date: '2012-06-08'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27901
+  date: '2012-06-09'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27902
+  date: '2012-06-09'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27903
+  date: '2012-06-10'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27904
+  date: '2012-06-11'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27905
+  date: '2012-06-12'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27906
+  date: '2012-06-12'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27907
+  date: '2012-06-13'
+  time: '21:00'
+  band_name: Folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27908
+  date: '2012-06-13'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27909
+  date: '2012-06-14'
+  time: '21:00'
+  band_name: Петрович & Hot Rod Band, Karmen Moxie
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 27911
+  date: '2012-06-15'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 27912
+  date: '2012-06-15'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27913
+  date: '2012-06-15'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27914
+  date: '2012-06-16'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27915
+  date: '2012-06-16'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27916
+  date: '2012-06-16'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27917
+  date: '2012-06-17'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27918
+  date: '2012-06-18'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27919
+  date: '2012-06-19'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27920
+  date: '2012-06-19'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27921
+  date: '2012-06-20'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27922
+  date: '2012-06-20'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 27926
+  date: '2012-06-22'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27928
+  date: '2012-06-23'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 27929
+  date: '2012-06-23'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 27930
+  date: '2012-06-23'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 27931
+  date: '2012-06-24'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 27932
+  date: '2012-06-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28224
+  date: '2012-07-26'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28225
+  date: '2012-06-28'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28474
+  date: '2012-06-14'
+  time: '20:30'
+  band_name: Red Brick Boys
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28475
+  date: '2012-06-21'
+  time: '20:30'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28532
+  date: '2012-06-26'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28533
+  date: '2012-06-26'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28534
+  date: '2012-06-27'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28535
+  date: '2012-06-27'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28536
+  date: '2012-06-28'
+  time: '20:30'
+  band_name: Вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28537
+  date: '2012-06-29'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 28538
+  date: '2012-06-29'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28539
+  date: '2012-06-29'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28540
+  date: '2012-06-30'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28541
+  date: '2012-06-30'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28542
+  date: '2012-06-30'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28543
+  date: '2012-07-01'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28544
+  date: '2012-07-02'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28545
+  date: '2012-07-03'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28546
+  date: '2012-07-03'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28547
+  date: '2012-07-04'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28628
+  date: '2012-06-22'
+  time: '21:00'
+  band_id: 169
+  band_name: Marat Dakota Band
+  band_token: marat-dakota
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29169
+  date: '2012-08-14'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29552
+  date: '2012-09-14'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29554
+  date: '2012-10-05'
+  time: '21:00'
+  band_id: 596
+  band_name: Raphael Wressnig & The Soul Gift Band
+  band_token: wressnig-schultz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700-900
+- id: 29555
+  date: '2012-10-06'
+  time: '21:00'
+  band_id: 596
+  band_name: Raphael Wressnig & The Soul Gift Band
+  band_token: wressnig-schultz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700-900
+- id: 29464
+  date: '2012-09-06'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29465
+  date: '2012-09-06'
+  time: '20:30'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29466
+  date: '2012-09-07'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 29467
+  date: '2012-09-07'
+  time: '23:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29468
+  date: '2012-09-07'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29469
+  date: '2012-09-08'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29470
+  date: '2012-09-08'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29887
+  date: '2012-09-10'
+  time: '19:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 29472
+  date: '2012-09-09'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29473
+  date: '2012-09-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29474
+  date: '2012-09-11'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29475
+  date: '2012-09-11'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29476
+  date: '2012-09-12'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29477
+  date: '2012-09-12'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29478
+  date: '2012-09-13'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29479
+  date: '2012-09-14'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 29480
+  date: '2012-09-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29481
+  date: '2012-09-15'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29482
+  date: '2012-09-15'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29483
+  date: '2012-09-15'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29484
+  date: '2012-09-16'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29881
+  date: '2012-09-28'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29884
+  date: '2012-09-29'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28548
+  date: '2012-07-04'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28549
+  date: '2012-07-05'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28550
+  date: '2012-07-05'
+  time: '20:30'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28551
+  date: '2012-07-06'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28552
+  date: '2012-07-06'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28553
+  date: '2012-07-06'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28554
+  date: '2012-07-07'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28555
+  date: '2012-07-07'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28556
+  date: '2012-07-07'
+  time: '20:30'
+  band_id: 578
+  band_name: Colonel Colt Fan Club
+  band_token: colonel-colt-fan-club
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28557
+  date: '2012-07-08'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28558
+  date: '2012-07-09'
+  time: '21:00'
+  band_name: Dr. Nick и Вадим Иващенко
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 28559
+  date: '2012-07-10'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28560
+  date: '2012-07-10'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28561
+  date: '2012-07-11'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28562
+  date: '2012-07-11'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28563
+  date: '2012-07-12'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28564
+  date: '2012-07-12'
+  time: '20:30'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28565
+  date: '2012-07-13'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28566
+  date: '2012-07-13'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28567
+  date: '2012-07-13'
+  time: '20:30'
+  band_name: D. Novokolsky & Good Ol' Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28568
+  date: '2012-07-14'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28569
+  date: '2012-07-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28570
+  date: '2012-07-14'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28571
+  date: '2012-07-15'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28572
+  date: '2012-07-16'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28573
+  date: '2012-07-17'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28574
+  date: '2012-07-17'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28575
+  date: '2012-07-18'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28989
+  date: '2012-07-19'
+  time: '19:00'
+  band_name: Musecube - фестиваль
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28990
+  date: '2012-07-20'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28991
+  date: '2012-07-20'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28992
+  date: '2012-07-20'
+  time: '20:30'
+  band_name: dr. Endo & the Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28994
+  date: '2012-07-21'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28995
+  date: '2012-07-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28996
+  date: '2012-07-21'
+  time: '20:30'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 28997
+  date: '2012-07-22'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 28998
+  date: '2012-07-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 28999
+  date: '2012-07-24'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29000
+  date: '2012-07-24'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29001
+  date: '2012-07-25'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29002
+  date: '2012-07-25'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29003
+  date: '2012-07-26'
+  time: '20:30'
+  band_name: вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29004
+  date: '2012-07-27'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29005
+  date: '2012-07-27'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29006
+  date: '2012-07-28'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29007
+  date: '2012-07-27'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29008
+  date: '2012-07-28'
+  time: '20:30'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29009
+  date: '2012-07-28'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29010
+  date: '2012-07-29'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29011
+  date: '2012-07-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29012
+  date: '2012-07-31'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29013
+  date: '2012-07-31'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29057
+  date: '2012-08-30'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29066
+  date: '2012-08-04'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 28987
+  date: '2012-07-18'
+  time: '21:00'
+  band_name: Вечеринка в стиле Delta Blues
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 28988
+  date: '2012-07-19'
+  time: '19:00'
+  band_name: Musecube - фестиваль
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29170
+  date: '2012-08-15'
+  time: '21:00'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29171
+  date: '2012-08-15'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29172
+  date: '2012-08-16'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29173
+  date: '2012-08-17'
+  time: '21:00'
+  band_name: dr. Endo & DreamTeam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29174
+  date: '2012-08-17'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29175
+  date: '2012-08-18'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29176
+  date: '2012-08-18'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29177
+  date: '2012-08-19'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29180
+  date: '2012-08-01'
+  time: '21:00'
+  band_name: D. Novokolsky & Good Ol' Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29179
+  date: '2012-08-09'
+  time: '21:00'
+  band_id: 578
+  band_name: Colonel Colt Fan Club
+  band_token: colonel-colt-fan-club
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29151
+  date: '2012-08-01'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29152
+  date: '2012-08-02'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29153
+  date: '2012-08-03'
+  time: '20:30'
+  band_name: Red Brick Boys
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29154
+  date: '2012-08-03'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 29155
+  date: '2012-08-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29156
+  date: '2012-08-04'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29157
+  date: '2012-08-05'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29158
+  date: '2012-08-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29159
+  date: '2012-08-07'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29160
+  date: '2012-08-08'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29161
+  date: '2012-08-08'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29162
+  date: '2012-08-10'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29163
+  date: '2012-08-10'
+  time: '23:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29164
+  date: '2012-08-11'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29165
+  date: '2012-08-11'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29166
+  date: '2012-08-12'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29167
+  date: '2012-08-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29168
+  date: '2012-08-14'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29389
+  date: '2012-08-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29393
+  date: '2012-08-23'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29394
+  date: '2012-08-24'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29399
+  date: '2012-08-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29401
+  date: '2012-08-28'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29408
+  date: '2012-09-01'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29409
+  date: '2012-09-02'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29411
+  date: '2012-09-04'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29412
+  date: '2012-09-04'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29450
+  date: '2012-09-13'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29451
+  date: '2012-09-26'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29390
+  date: '2012-08-21'
+  time: '21:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29391
+  date: '2012-08-22'
+  time: '21:00'
+  band_name: Сергей Воронов, VoronoFFF Jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 29392
+  date: '2012-08-22'
+  time: '19:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29395
+  date: '2012-08-24'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29396
+  date: '2012-08-25'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29397
+  date: '2012-08-25'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29398
+  date: '2012-08-26'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29400
+  date: '2012-08-28'
+  time: '21:00'
+  band_name: Bad Bimbos
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29402
+  date: '2012-08-29'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29403
+  date: '2012-08-29'
+  time: '19:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29404
+  date: '2012-08-31'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29405
+  date: '2012-08-31'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29406
+  date: '2012-09-01'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29407
+  date: '2012-09-01'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29410
+  date: '2012-09-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29413
+  date: '2012-09-05'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29414
+  date: '2012-09-05'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 30160
+  date: '2012-10-10'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29870
+  date: '2012-09-22'
+  time: '21:00'
+  band_name: Bob Margolin with the Jumping Cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700-900 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 598
+    name: Bob Margolin
+    token: bob-margolin
+- id: 29872
+  date: '2012-09-22'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 29873
+  date: '2012-09-23'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29875
+  date: '2012-09-25'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29876
+  date: '2012-09-25'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29877
+  date: '2012-09-26'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29878
+  date: '2012-09-27'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29879
+  date: '2012-09-27'
+  time: '20:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29880
+  date: '2012-09-28'
+  time: '21:00'
+  band_name: Джазовые трансформации с Андреем Макаревичем
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-2000
+- id: 29882
+  date: '2012-09-29'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29883
+  date: '2012-09-29'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29886
+  date: '2012-10-10'
+  time: '21:00'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 - 800
+- id: 29860
+  date: '2012-09-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29861
+  date: '2012-09-18'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29862
+  date: '2012-09-18'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 29863
+  date: '2012-09-19'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29864
+  date: '2012-09-19'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29865
+  date: '2012-09-20'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 29866
+  date: '2012-09-20'
+  time: '20:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 29867
+  date: '2012-09-21'
+  time: '21:00'
+  band_name: Bob Margolin with the Jumping Cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700-900 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 598
+    name: Bob Margolin
+    token: bob-margolin
+- id: 29868
+  date: '2012-09-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29871
+  date: '2012-09-22'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 29874
+  date: '2012-09-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30143
+  date: '2012-09-28'
+  time: '20:30'
+  band_name: the Likes(USA)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30144
+  date: '2012-09-30'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30145
+  date: '2012-10-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30146
+  date: '2012-10-02'
+  time: '21:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30147
+  date: '2012-10-02'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30148
+  date: '2012-10-03'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30149
+  date: '2012-10-03'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30150
+  date: '2012-10-04'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30151
+  date: '2012-10-04'
+  time: '20:30'
+  band_name: Вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30152
+  date: '2012-10-05'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30153
+  date: '2012-10-05'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30154
+  date: '2012-10-06'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30155
+  date: '2012-10-06'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30156
+  date: '2012-10-07'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30158
+  date: '2012-10-09'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30159
+  date: '2012-10-09'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30174
+  date: '2012-10-16'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30176
+  date: '2012-10-17'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30179
+  date: '2012-10-18'
+  time: '20:30'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30181
+  date: '2012-10-19'
+  time: '20:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30182
+  date: '2012-10-19'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30183
+  date: '2012-10-20'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 30184
+  date: '2012-10-20'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30190
+  date: '2012-10-24'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30191
+  date: '2012-10-25'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30192
+  date: '2012-10-25'
+  time: '20:30'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30161
+  date: '2012-10-11'
+  time: '20:30'
+  band_name: Red Brick Boys
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30162
+  date: '2012-10-11'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30163
+  date: '2012-10-12'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 - 600
+- id: 30164
+  date: '2012-10-12'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30165
+  date: '2012-10-12'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30166
+  date: '2012-10-13'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30167
+  date: '2012-10-13'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30168
+  date: '2012-10-13'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30169
+  date: '2012-10-14'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30173
+  date: '2012-10-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30175
+  date: '2012-10-16'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30177
+  date: '2012-10-17'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30178
+  date: '2012-10-18'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30180
+  date: '2012-10-19'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 30185
+  date: '2012-10-21'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30186
+  date: '2012-10-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30187
+  date: '2012-10-23'
+  time: '21:00'
+  band_name: Bad Bimbos
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30188
+  date: '2012-10-23'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30189
+  date: '2012-10-24'
+  time: '21:00'
+  band_name: D. Novokolsky & Good Ol' Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30431
+  date: '2012-10-08'
+  time: '21:00'
+  band_name: Jimmy C & Dr.Nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30756
+  date: '2012-11-02'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30763
+  date: '2012-11-05'
+  time: '21:00'
+  band_name: Dr. Nick, Adam Rogowski
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30765
+  date: '2012-11-06'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30768
+  date: '2012-11-08'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30769
+  date: '2012-11-08'
+  time: '20:30'
+  band_id: 551
+  band_name: Елена Шерри
+  band_token: elena-sherry
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30770
+  date: '2012-11-09'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30771
+  date: '2012-11-09'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30774
+  date: '2012-11-10'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30776
+  date: '2012-11-11'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30777
+  date: '2012-11-12'
+  time: '21:00'
+  band_name: Dr. Nick, Костя Кремнев
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 30779
+  date: '2012-11-13'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30783
+  date: '2012-11-15'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30831
+  date: '2012-11-01'
+  time: '21:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30742
+  date: '2012-10-26'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30747
+  date: '2012-10-27'
+  time: '19:00'
+  band_name: Svet. Показ нового фильма и концерт друзей
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30748
+  date: '2012-10-28'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30749
+  date: '2012-10-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30750
+  date: '2012-10-30'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30751
+  date: '2012-10-30'
+  time: '20:00'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30752
+  date: '2012-10-31'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30753
+  date: '2012-10-31'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30755
+  date: '2012-11-01'
+  time: '20:30'
+  band_name: Вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30757
+  date: '2012-11-02'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30758
+  date: '2012-11-02'
+  time: '20:30'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30759
+  date: '2012-11-03'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30760
+  date: '2012-11-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30761
+  date: '2012-11-03'
+  time: '20:30'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30762
+  date: '2012-11-04'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30764
+  date: '2012-11-06'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30766
+  date: '2012-11-07'
+  time: '21:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30767
+  date: '2012-11-07'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30824
+  date: '2012-11-21'
+  time: '21:00'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30743
+  date: '2012-10-26'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30744
+  date: '2012-10-26'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30745
+  date: '2012-10-27'
+  time: '21:00'
+  band_name: Дмитрий dr. Endo Казачков & The Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 30746
+  date: '2012-10-27'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 30772
+  date: '2012-11-09'
+  time: '20:30'
+  band_name: Happy Penguins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30773
+  date: '2012-11-10'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 30775
+  date: '2012-11-10'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 30778
+  date: '2012-11-13'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 30780
+  date: '2012-11-14'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30781
+  date: '2012-11-14'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 30782
+  date: '2012-11-15'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31687
+  date: '2012-11-17'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31688
+  date: '2012-11-17'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31689
+  date: '2012-11-17'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 31690
+  date: '2012-11-18'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31693
+  date: '2012-11-20'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31695
+  date: '2012-11-22'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31696
+  date: '2012-11-22'
+  time: '20:30'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31697
+  date: '2012-11-23'
+  time: '20:30'
+  band_name: dr. Endo & the Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31703
+  date: '2012-11-27'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31727
+  date: '2012-11-29'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31728
+  date: '2012-12-13'
+  time: '20:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31746
+  date: '2012-11-23'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31747
+  date: '2012-11-28'
+  time: '21:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31748
+  date: '2012-11-28'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31749
+  date: '2012-11-29'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31750
+  date: '2012-11-30'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31751
+  date: '2012-11-30'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31752
+  date: '2012-11-30'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 31753
+  date: '2012-12-01'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31754
+  date: '2012-12-01'
+  time: '21:00'
+  band_id: 161
+  band_name: Анна Королева и группа Jump
+  band_token: anna-koroleva
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 31755
+  date: '2012-12-02'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31756
+  date: '2012-12-01'
+  time: '22:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31757
+  date: '2012-12-03'
+  time: '21:00'
+  band_name: Dr. Nick, Олег Канаков, Сергей Сорокин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 31684
+  date: '2012-11-16'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 31686
+  date: '2012-11-16'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31691
+  date: '2012-11-19'
+  time: '21:00'
+  band_name: Dr. Nick, Антон Дашкин, Олег Канаков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 31692
+  date: '2012-11-20'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31694
+  date: '2012-11-21'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31758
+  date: '2012-12-04'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31769
+  date: '2012-12-08'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31770
+  date: '2012-12-09'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31771
+  date: '2012-12-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31772
+  date: '2012-12-11'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31773
+  date: '2012-12-11'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31766
+  date: '2012-12-07'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 31767
+  date: '2012-12-08'
+  time: '21:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 - 600
+- id: 31698
+  date: '2012-11-24'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 31699
+  date: '2012-11-24'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 31700
+  date: '2012-11-24'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 31701
+  date: '2012-11-25'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31702
+  date: '2012-11-26'
+  time: '21:00'
+  band_name: Dr. Nick, Тони Янг
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 31704
+  date: '2012-11-27'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31759
+  date: '2012-12-04'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 31760
+  date: '2012-12-05'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31761
+  date: '2012-12-05'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31762
+  date: '2012-12-06'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31763
+  date: '2012-12-06'
+  time: '20:30'
+  band_name: Вечер с Денисом Мажуковым
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 31764
+  date: '2012-12-07'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 31765
+  date: '2012-12-07'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32046
+  date: '2012-12-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32047
+  date: '2012-12-24'
+  time: '21:00'
+  band_name: Dr. Nick, Sunny Side Singers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 32048
+  date: '2012-12-26'
+  time: '20:00'
+  band_name: Dr. Nick, День Рождения
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 32264
+  date: '2012-12-12'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 32265
+  date: '2012-12-14'
+  time: '20:30'
+  band_name: dr. Endo & The Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 32269
+  date: '2012-12-15'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 32270
+  date: '2012-12-16'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32274
+  date: '2012-12-20'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 32275
+  date: '2012-12-20'
+  time: '20:30'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 32276
+  date: '2012-12-21'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 32277
+  date: '2012-12-21'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32278
+  date: '2012-12-22'
+  time: '21:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 600 руб.
+- id: 32279
+  date: '2012-12-22'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32280
+  date: '2012-12-23'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32281
+  date: '2012-12-25'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32282
+  date: '2012-12-25'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32306
+  date: '2012-12-27'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 32307
+  date: '2012-12-28'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 32308
+  date: '2012-12-29'
+  time: '21:00'
+  band_name: Antti Sarpila & The Jazz Loft Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700 руб.
+  extra_bands:
+  - id: 486
+    name: The Jazz Loft
+    token: jazz-loft
+- id: 32266
+  date: '2012-12-14'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32268
+  date: '2012-12-15'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32271
+  date: '2012-12-18'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32272
+  date: '2012-12-18'
+  time: '20:30'
+  band_name: 'Elvis: That''s The Way It Is'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.
+- id: 32273
+  date: '2012-12-19'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 32293
+  date: '2012-12-11'
+  time: '21:00'
+  band_name: Макс Таврический в гостях у The Jumping Cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 32263
+  date: '2012-12-12'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 300 руб.
+- id: 32267
+  date: '2012-12-15'
+  time: '21:00'
+  band_name: J. C. Smith, USA with Вадим Иващенко и Boneshakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 - 700
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 32743
+  date: '2012-12-21'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 400 руб.
+- id: 32744
+  date: '2012-12-26'
+  time: '20:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 700 руб.
+- id: 32606
+  date: '2012-12-22'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 32783
+  date: '2012-12-29'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 32787
+  date: '2012-12-30'
+  time: '18:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 200 руб.

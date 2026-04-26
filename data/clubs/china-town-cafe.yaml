@@ -1,0 +1,19 @@
+id: 354
+token: china-town-cafe
+name: China-Town-Cafe
+aliases: 'China Town
+
+  China Town Cafe
+
+  China-Town Cafe'
+alive: true
+address: Лубянский проезд, 25/12
+subway: Китай-Город
+phone: (495) 623-6163
+city_id: 1
+clips:
+- id: 1328
+  type: weblink
+  url: http://www.chinatowncafe.ru
+  name: Официальный сайт
+  sort_order: 99

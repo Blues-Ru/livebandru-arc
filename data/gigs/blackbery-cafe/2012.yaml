@@ -1,0 +1,15 @@
+- id: 30116
+  date: '2012-09-21'
+  time: '21:00'
+  band_name: Полина Зизак & квартет Ивана Фармаковского
+  club_id: 621
+  club_name: BlackBery cafe
+  club_token: blackbery-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak

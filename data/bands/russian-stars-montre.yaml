@@ -1,0 +1,45 @@
+id: 460
+token: russian-stars-montre
+name: Российские звезды джаз-фестиваля Монтре-2010
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Юлиана Рогачева
+  instruments: вокал
+- name: Алексей Иванников
+  instruments: фортепиано
+- name: Тимур Некрасов
+  instruments: саксафон
+- name: Макар Новиков
+  instruments: бас
+- name: Александр Зингер
+  instruments: ударные
+references:
+- id: 282
+  name: Квартет Андрея Блинчевского
+  token: andrey-blinchevsky
+- id: 307
+  name: Фруктовый кефир
+  token: fryktoviykefir
+- id: 451
+  name: Ансамбль "Каданс" Германа Лукьянова
+  token: kadans-lukiyanov
+reviews:
+- id: 149
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '2.06.2011
+
+
+    Благотворительный концерт "Российские звезды джаз-фестиваля Монтре-2010": Юлиана
+    Рогачева (вокал), Алексей Иванников (фортепиано), Тимур Некрасов (саксофон), Макар
+    Новиков (бас), Александр Зингер (ударные).
+
+
+    Средства, полученные от концерта пойдут на создание Всероссийского детского геологического
+    клуба.'
+  verified: true
+  created: '2011-05-24'
+  is_press_release: true

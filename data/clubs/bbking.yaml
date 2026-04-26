@@ -1,0 +1,24 @@
+id: 5
+token: bbking
+name: B.B.King
+aliases: 'Дом Блюза B.B.King
+
+  Би Би Кинг
+
+  B.B. King'
+alive: true
+address: Садовая-Самотечная, 4/2
+subway: Цветной Бульвар
+phone: (495) 699-8206
+city_id: 1
+comments: вход со двора
+clips:
+- id: 492
+  type: weblink
+  url: http://www.bbkingclub.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 1283
+  type: youtube
+  url: http://www.youtube.com/BBKingclubMoscow
+  sort_order: 99

@@ -1,0 +1,27 @@
+id: 827
+token: old-school
+name: Старая Школа
+aliases: 'Бар "Старая школа"
+
+  Бар Старая школа'
+alive: true
+address: Преображенская пл., 6
+subway: Преображенская площадь
+phone: (495) 720-18-52
+city_id: 1
+clips:
+- id: 7354
+  type: photo
+  url: old-school.jpg
+  sort_order: 0
+  width: 640
+  height: 960
+- id: 7352
+  type: weblink
+  url: https://www.facebook.com/barstarayshkola
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 7353
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

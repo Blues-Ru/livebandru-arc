@@ -1,0 +1,69 @@
+id: 538
+token: pandora-snail
+name: Pandora Snail
+alive: true
+url: http://www.myspace.com/pandora_art
+city_id: 2
+genre_id: 3
+secondary_genre_id: 4
+musicians:
+- name: Ульяна Гор
+  instruments: клавиши
+- name: Игорь Черидник
+  instruments: ударные
+- name: Олег Горгадзе
+  instruments: гитара
+- name: Кирилл Клюшин
+  instruments: бас-гитара
+- name: Артём Гареев
+  instruments: скрипка
+clips:
+- id: 2570
+  type: youtube
+  url: http://www.youtube.com/?v=bjti-wM9ZE0
+  name: Pandora Snail-Сатори
+  comments: Russian Progressive Rock Band
+  sort_order: 199
+- id: 2565
+  type: weblink
+  url: http://vk.com/club7726824
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2566
+  type: youtube
+  url: http://www.youtube.com/?v=13kRLwe2SFI
+  name: Pandora Snail-Танец под пулями
+  comments: инструентальный арт-рок
+  sort_order: 99
+- id: 2567
+  type: photo
+  url: pandora-snail.jpg
+  sort_order: 0
+  width: 604
+  height: 428
+- id: 2568
+  type: weblink
+  url: http://www.myspace.com/pandora_art
+  name: Официальный сайт
+  sort_order: 0
+- id: 2569
+  type: mp3
+  url: pandora-snail.mp3
+  name: Танец под пулями
+  sort_order: 99
+reviews:
+- id: 212
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Группа Pandora Snail
+  text: Группа Pandora Snail образовалась 13 декабря, в 2008 году, как инструментальный
+    проект. Главная идея группы состоит в том, чтобы воздействовать на слушателя с
+    помощью музыки, вызывая в воображении красочные образы и вполне реальные ассоциации,
+    тем самым рождая эмпатию. Группа успешно выступает как на фестивалях мейнстрима,
+    так и на различных прогрессивных мероприятиях, занимая лидирующие позиции. Стиль
+    группы можно охарактеризовать как инструментальный арт-рок с собственными тенденциями
+    в сторону мелодики и музыкальной событийности.
+  verified: true
+  created: '2011-09-12'
+  is_press_release: true

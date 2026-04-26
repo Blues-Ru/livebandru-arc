@@ -1,0 +1,13 @@
+id: 654
+token: restoran-panorama
+name: Ресторан Панорама
+alive: true
+address: пр.Ф.Амирхана, 1Б
+phone: +7(843)225-25-75 (бронирование столиков)
+city_id: 10
+clips:
+- id: 3920
+  type: weblink
+  url: http://www.kazanriviera.ru/hotel/restaurants/panorama
+  name: Официальный сайт
+  sort_order: 0

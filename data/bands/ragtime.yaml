@@ -1,0 +1,25 @@
+id: 33
+token: ragtime
+name: Арсен Шомахов и Регтайм
+aliases: Регтайм
+alive: false
+url: http://ragtime.blues.ru
+city_id: 4
+genre_id: 1
+musicians:
+- name: Арсен Шомахов
+  instruments: гитара, вокал
+- name: Аслан Жантуев
+  instruments: бас
+- name: Султанбек Мамышев
+  instruments: ударные
+references:
+- id: 71
+  name: Арсен Шомахов
+  token: arsen-shomakhov
+clips:
+- id: 1856
+  type: weblink
+  url: http://ragtime.blues.ru
+  name: Официальный сайт
+  sort_order: 0

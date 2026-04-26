@@ -1,0 +1,176 @@
+id: 97
+token: alex-soloviev
+name: Alex Soloviev
+aliases: 'Саша Соловьев
+
+  Александр Соловьев
+
+  Александром Соловьевым
+
+  Алексом Соловьевым
+
+  Электрохарпер
+
+  Губная гармошка
+
+  Блюзовый гармонист'
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 18
+clips:
+- id: 8
+  type: photo
+  url: soloviev.jpg
+  sort_order: 99
+  width: 512
+  height: 384
+- id: 9
+  type: youtube
+  url: http://www.youtube.com/?v=OOxj5z5SsJo
+  name: Baby, What You Want Me To Do
+  comments: Blues by Soloviev Alex. Moscow.
+  sort_order: 99
+- id: 11
+  type: photo
+  url: alex-soloviev.jpg
+  name: Blues Harp
+  comments: BluesHarp.ru
+  sort_order: 25
+  width: 412
+  height: 400
+- id: 12
+  type: mp3
+  url: alex-soloviev.mp3
+  name: Solovievs Jumping
+  comments: Harpin talk
+  sort_order: 99
+- id: 13
+  type: youtube
+  url: http://www.youtube.com/?v=JX241rDKno4
+  name: Swing in da House
+  comments: Играли с Raw Hide
+  sort_order: 199
+- id: 1638
+  type: youtube
+  url: http://www.youtube.com/?v=VYXfWg5Loxg
+  name: Russian blues
+  comments: Russian blues BluesHarp.ru
+  sort_order: 50
+- id: 1639
+  type: weblink
+  url: http://bluesharp.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3115
+  type: photo
+  url: alex-soloviev-2.jpg
+  name: alex
+  sort_order: 10
+  width: 3168
+  height: 4752
+- id: 3265
+  type: mp3
+  url: alex-soloviev-2.mp3
+  name: Mr. Jailer
+  sort_order: 199
+- id: 3266
+  type: mp3
+  url: alex-soloviev-3.mp3
+  name: Hip Harp
+  sort_order: 87
+- id: 3116
+  type: photo
+  url: alex-soloviev-3.jpg
+  name: High School
+  sort_order: 13
+  width: 4752
+  height: 3168
+- id: 3117
+  type: photo
+  url: alex-soloviev-4.jpg
+  name: All band
+  sort_order: 19
+  width: 4752
+  height: 3168
+- id: 5397
+  type: mp3
+  url: alex-soloviev-4.mp3
+  name: Подумай
+  comments: Soloviev Alex & Friends
+  sort_order: 50
+- id: 5398
+  type: mp3
+  url: alex-soloviev-5.mp3
+  name: Blues Why Do You Worry Me
+  comments: Soloviev Alex & Friends
+  sort_order: 75
+- id: 5399
+  type: youtube
+  url: http://www.youtube.com/?v=YDX8HoP6jYI
+  name: Shuffle Hop
+  comments: That is Harp Hop Style
+  sort_order: 0
+- id: 5400
+  type: youtube
+  url: http://www.youtube.com/?v=j6xxjUb65bk
+  name: Knockin' On Heaven's Door
+  comments: Soloviev Alex & Friends
+  sort_order: 25
+- id: 5401
+  type: photo
+  url: alex-soloviev-5.jpg
+  name: Soloviev Alex
+  comments: Electric Harp
+  sort_order: 7
+  width: 2848
+  height: 4288
+reviews:
+- id: 1
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: High School
+  text: 'High School - группа, исповедующая редкий стиль харп-хоп. В настоящий момент
+    в постоянный состав группы входят:
+
+
+    Александр Соловьев (губная гармоника, вокал) и Дмитрий Рессер (гитара, вокал).
+    Молодая группа, набирающая обороты на территории Москвы, представляет часть концертной
+    программы, которая станет основой для программы полугодового тура в Америку, стартующего
+    в октябре. Музыканты исполняют как известные образцы чикагских блюзов, так и собственные
+    произведения в своем уникальном стиле. Фронтмен группы Александр Соловьев, победитель
+    конкурса "Blues.ru 09", уже в свои 20 лет был признан лучшим электрическим харпером
+    России. Александр начинал осваивать гармошку под руководством Александра Братецкого
+    и вскоре сам начал преподавать, разработав свою собственную методологию обучения
+    и самоучителя. Кроме сольных проектов успел посотрудничать как с ведущими блюзменами
+    Москвы: Доктор Аграновский, Арсен Шомахов, Вадим Иващенко, Михаил Петрович Соколов,
+    Владимир Русинов, Вофка Кожекин, Михаил Мишуриc, Евгений Немов, Владимир Кораблин,-
+    так и с DJ Skunk Selecta, DJ Руслан Пресняков, Даниилом Жешковым, Владимиром Пресняковым.
+    А. Соловьев не упускает случая пообщаться и поджемовать со всеми зарубежными классиками
+    губной гармоники, посещающими Москву. Его превосходное владение звуком и аутентичный
+    стиль отмечали Pera Joe, Mud Morganfield, Wolf Mayl, Keit Dunn, Paul Lamb, Eirik
+    Bergene, Mitch Kashmar, Bob Stroger, Kid Andersen, Z-Star, Sugar Ray Norcia, Beata
+    Kossowska, Richard Gjems, Bad Mamas Boys и многие другие.
+
+
+    "You''ve got a powerful tongue blocking, it''s so groovy!" (Mitch Kashmar, харпер,
+    LA) "I checked out your music, man, it''s so cool, can feel the Big Walter''s
+    influence, your harp sounds lot like him sometimes" (Paul Lamb, харпер, GB)
+
+
+    Дмитрий Рессер известен не только как гитарист и композитор High School, но и
+    как экс-продюсер группы The Second Approach, установивший своеобразный рекорд
+    c овациями от Дейва Брубека, устроив их гастрольный тур в Америку в возрасте 20
+    лет. Помимо группы, Дмитрий участвует в антрепризных постановках театра "Сатирикон"
+    и Театра Сатиры совместно с М. Авериным и В. Добронравовым.
+
+
+    "Man, he gotta be black to sound like this. I wish I could the same at his age"
+    (Сharles Dignan, гитарист).
+
+
+    Groove Bastards.'
+  verified: true
+  created: '2009-08-30'
+  is_press_release: true

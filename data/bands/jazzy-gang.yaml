@@ -1,0 +1,62 @@
+id: 427
+token: jazzy-gang
+name: Jazzy Gang
+alive: true
+url: http://www.jazzygang.com
+city_id: 76
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Черкасова Надежда
+  instruments: вокал
+- name: Романовский Арсений
+  instruments: гитара
+- name: Зиновьев Денис
+  instruments: саксофон
+- name: Родионов Виктор
+  instruments: бас-гитара
+- name: Каюмова Елена
+  instruments: ударные
+- name: Зеленин Дмитрий
+  instruments: фортепиано
+- name: Кожевников Иван
+  instruments: труба
+clips:
+- id: 2014
+  type: weblink
+  url: http://www.jazzygang.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 2017
+  type: youtube
+  url: http://www.youtube.com/?v=ZlqrcAFsN4Y
+  name: Hit the road jack
+  comments: Amazing song by JAZZY GANG
+  sort_order: 0
+- id: 2015
+  type: weblink
+  url: http://vk.com/jazzygang
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2016
+  type: photo
+  url: jazzy-gang2.jpg
+  name: JAZZY GANG
+  sort_order: 0
+  width: 696
+  height: 461
+reviews:
+- id: 135
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Что же такое джаз, как не особое состояние души, когда не важно богат ты
+    или беден, белый или черный, ребенок или взрослый. Тебя прет и все на этом!!!
+    Так то! )))
+
+
+    Сочный college jazz от победителей джазовых фестивалей в Питере и Сочи! Блюз из
+    самого сердца, лечащий душу. Невероятно энергичный, драйвовый рок-н-ролл!!!'
+  verified: true
+  created: '2011-04-12'
+  is_press_release: true

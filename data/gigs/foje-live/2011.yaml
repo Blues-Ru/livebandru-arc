@@ -1,0 +1,146 @@
+- id: 21867
+  date: '2011-09-22'
+  time: '21:00'
+  band_name: Nothing Personal и Юрий Каверкин
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 21868
+  date: '2011-10-12'
+  time: '21:30'
+  band_name: Music for the people
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+- id: 21869
+  date: '2011-10-26'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+- id: 21811
+  date: '2011-09-15'
+  time: '21:00'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+  comments: Наталья Липницкая (тенор и сопрано-саксофоны, вокал), Марина Макарова
+    (клавишные инструменты), Ольга Варшавская (бас-гитара, эл. контрабас), Виктория
+    Иванова (ударные инструменты)
+- id: 21812
+  date: '2011-09-16'
+  time: '21:00'
+  band_name: Маша Покровская и Кавер Корпорация
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 22400
+  date: '2011-10-08'
+  time: '21:00'
+  band_name: КУБАнаТы
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 21847
+  date: '2011-10-27'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 21848
+  date: '2011-10-28'
+  time: '21:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 21843
+  date: '2011-09-23'
+  time: '21:00'
+  band_name: Юлия Алимова
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+  comments: Юлия Алимова и Кавер группа
+- id: 21844
+  date: '2011-10-07'
+  time: '21:00'
+  band_name: Jazz Dance Orcestra
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 21845
+  date: '2011-10-13'
+  time: '21:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 22401
+  date: '2011-10-15'
+  time: '21:00'
+  band_name: The Members
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 22402
+  date: '2011-10-21'
+  time: '21:00'
+  band_name: Intelligent Village
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 22403
+  date: '2011-10-29'
+  time: '21:00'
+  band_name: Люсия Знаменская
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+- id: 22509
+  date: '2011-10-20'
+  time: '21:00'
+  band_name: Павел Козлов & Alright Band
+  club_id: 498
+  club_name: Фойе Live
+  club_token: foje-live
+  price: бесплатный
+  comments: Ждем Вас всех в очень красивом и уютном месте на выступлении Павла Козлова
+    и его ансамбля. В программе как всегда, ВСЕ ВАШИ САМЫЕ ЛЮБИМЫЕ ПЕСНИ!! Прозвучит
+    и Битлз, и Депеш Мод, и джаз, и блюз, и рок-н-ролл, и фьюжн, и босса-нова, и джаз-рок!
+    Роскошные баллады в бархатном исполнении Павла Козлова и энергичные танцевальные
+    пьессы ждут Вас! В концерте прозвучат и совершенно новые песни! И песни с нового
+    альбома тоже! Вход свободный!!! http://www.pavelkozlov.Su/
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov

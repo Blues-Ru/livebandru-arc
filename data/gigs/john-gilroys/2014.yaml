@@ -1,0 +1,86 @@
+- id: 41343
+  date: '2014-01-10'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 42037
+  date: '2014-02-28'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+- id: 42769
+  date: '2014-03-14'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  price: бесплатно
+- id: 43467
+  date: '2014-04-18'
+  time: '22:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  comments: Старый,добрый РОК.
+- id: 43495
+  date: '2014-05-09'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+- id: 45166
+  date: '2014-07-25'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+- id: 47052
+  date: '2014-10-31'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+- id: 47169
+  date: '2014-11-07'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys
+  price: бесплатный
+- id: 48408
+  date: '2014-12-26'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 718
+  club_name: John Gilroy's Pub
+  club_token: john-gilroys

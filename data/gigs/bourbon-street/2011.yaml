@@ -1,0 +1,712 @@
+- id: 14898
+  date: '2011-01-18'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 14899
+  date: '2011-01-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 14877
+  date: '2011-01-11'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 15137
+  date: '2011-01-22'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 15262
+  date: '2011-02-25'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 15310
+  date: '2011-02-01'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 15313
+  date: '2011-02-22'
+  time: '20:30'
+  band_name: Большой джем с Dr. Nick & Cpt.Nemoff Blues Trio
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 15138
+  date: '2011-02-05'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 15311
+  date: '2011-02-08'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 15312
+  date: '2011-02-15'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 15606
+  date: '2011-03-11'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 15627
+  date: '2011-03-08'
+  time: '21:00'
+  band_name: Dr. Nick, Cpt.Nemoff Blues Trio - джем
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 15629
+  date: '2011-03-22'
+  time: '21:00'
+  band_name: Большой джем с Dr. Nick & Cpt.Nemoff Blues Trio
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 15630
+  date: '2011-03-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 15626
+  date: '2011-03-01'
+  time: '21:00'
+  band_name: Dr. Nick, Cpt.Nemoff Blues Trio - джем
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 15628
+  date: '2011-03-15'
+  time: '21:00'
+  band_name: Большой джем с Dr. Nick & Cpt.Nemoff Blues Trio
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 17096
+  date: '2011-04-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 16004
+  date: '2011-03-04'
+  time: '23:00'
+  band_id: 250
+  band_name: Cpt.Nemoff Blues Trio
+  band_token: evgeny-nemov
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: '0'
+- id: 16656
+  date: '2011-03-19'
+  time: '23:00'
+  band_name: Михаил Кистанов & Dodger's Band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 17095
+  date: '2011-04-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 17441
+  date: '2011-04-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 17442
+  date: '2011-04-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 17156
+  date: '2011-04-15'
+  time: '23:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 17729
+  date: '2011-04-21'
+  time: '20:00'
+  band_name: Alex Carlin (Польша)
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 18675
+  date: '2011-05-28'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 18667
+  date: '2011-05-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 18544
+  date: '2011-04-27'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 18931
+  date: '2011-05-12'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 19352
+  date: '2011-05-17'
+  time: '21:00'
+  band_name: Dr. Nick, открытый блюзовый джем-сейшн
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 18668
+  date: '2011-05-06'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 20067
+  date: '2011-06-14'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 19354
+  date: '2011-05-24'
+  time: '21:00'
+  band_name: Dr. Nick, открытый блюзовый джем-сейшн
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 20168
+  date: '2011-06-30'
+  time: '22:00'
+  band_name: Erik Harstad & Eirik Bergene (NO)
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  extra_bands:
+  - id: 103
+    name: Eirik Bergene
+    token: eirik-bergene
+  - id: 491
+    name: Erik Harstad
+    token: erik-harstad
+- id: 19912
+  date: '2011-06-24'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 20016
+  date: '2011-06-01'
+  time: '21:30'
+  band_id: 484
+  band_name: Jeff Rowe
+  band_token: jeff-rowe
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 20066
+  date: '2011-06-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: открытый джем
+- id: 20068
+  date: '2011-06-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20103
+  date: '2011-06-09'
+  time: '23:00'
+  band_id: 489
+  band_name: Квартет Анны Левшиной
+  band_token: anna-levshina
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: Анна Левшина - джазовая певица, солистка джазового ансамбля "The Moscow
+    Jazz Passengers", ее музыка - постоянный поиск особого сплава различных стилей.
+    Диапазон музыкальных пристрастий Анны Левшиной весьма широк - от мэтров джаза
+    Билли Холлидей и Эллы Фитцджеральд до современного андеграунда. Это блюз и свинг,
+    джаз-рок и регги, фанк и госпел. В ее исполнении всегда поражают искренность,
+    юмор, чувство меры и, конечно же, необыкновенный, завораживающий тембр голоса.
+- id: 20069
+  date: '2011-06-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 21492
+  date: '2011-08-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 21493
+  date: '2011-08-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 21494
+  date: '2011-09-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 21495
+  date: '2011-09-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20594
+  date: '2011-07-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20595
+  date: '2011-07-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20596
+  date: '2011-07-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20597
+  date: '2011-07-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 20621
+  date: '2011-07-16'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 20617
+  date: '2011-07-02'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 20919
+  date: '2011-08-06'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 21677
+  date: '2011-09-24'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 21733
+  date: '2011-10-28'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 21737
+  date: '2011-09-20'
+  time: '21:00'
+  band_name: Dr. Nick, открытый блюзовый джем
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 21738
+  date: '2011-09-27'
+  time: '21:00'
+  band_name: Dr. Nick, открытый блюзовый джем
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 23225
+  date: '2011-12-24'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 23051
+  date: '2011-11-19'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 22043
+  date: '2011-10-29'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 22467
+  date: '2011-10-11'
+  time: '21:00'
+  band_name: Евгений Немов & Dodger's Band - акустический Jam&Gig
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+- id: 22601
+  date: '2011-11-18'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 22622
+  date: '2011-10-27'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 22658
+  date: '2011-10-25'
+  time: '22:00'
+  band_name: Антон Бенеславский & Dodger's Band - Acoustic Jam&Gig
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 22798
+  date: '2011-11-01'
+  time: '22:00'
+  band_name: Дмитрий Смагин(Rawcats'88) & Dodger's Band - acoustic gig&jam
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 22799
+  date: '2011-11-08'
+  time: '22:00'
+  band_name: Петр Кунарев & Dodger's Band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: acoustic Gig&Jam
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 22800
+  date: '2011-11-15'
+  time: '22:00'
+  band_name: Дмитрий Смагин & Dodger's Band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: acoustic Gig&Jam
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 22801
+  date: '2011-11-22'
+  time: '22:00'
+  band_name: Антон Бенеславский & Dodger's Band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: acoustic Gig&Jam
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 22802
+  date: '2011-12-01'
+  time: '22:00'
+  band_name: Дмитрий Смагин & Dodger's Band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  comments: acoustic Gig&Jam
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 24280
+  date: '2011-12-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный

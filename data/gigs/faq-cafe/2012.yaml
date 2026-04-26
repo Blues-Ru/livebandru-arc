@@ -1,0 +1,2643 @@
+- id: 24164
+  date: '2012-01-18'
+  time: '22:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 24220
+  date: '2012-01-14'
+  time: '22:00'
+  band_name: Sкальпель
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 23344
+  date: '2012-01-20'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 24221
+  date: '2012-01-19'
+  time: '21:00'
+  band_name: Rocking Time
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 24222
+  date: '2012-01-21'
+  time: '22:00'
+  band_name: Евгения Зима Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 24223
+  date: '2012-01-25'
+  time: '20:00'
+  band_name: The Boneshakers
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 24224
+  date: '2012-01-26'
+  time: '20:00'
+  band_name: Юлиана Рогачева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 24225
+  date: '2012-01-27'
+  time: '22:00'
+  band_name: Boris Khludnev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 24226
+  date: '2012-01-28'
+  time: '22:00'
+  band_name: Sambateria
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 24227
+  date: '2012-01-02'
+  time: '20:00'
+  band_name: Джазовый jam-session (Александр Гуреев и друзья)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: free, музыкантам 4500
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 24228
+  date: '2012-01-09'
+  time: '20:00'
+  band_name: Джазовый jam-session (Александр Гуреев и друзья)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: вход free, музыкантам 4500
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 24229
+  date: '2012-01-16'
+  time: '20:00'
+  band_name: Джазовый jam-session (Александр Гуреев и друзья)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 24230
+  date: '2012-01-23'
+  time: '20:00'
+  band_name: Джазовый jam-session (Александр Гуреев и друзья)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 24231
+  date: '2012-01-30'
+  time: '20:00'
+  band_name: Джазовый jam-session (Александр Гуреев и друзья)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 24232
+  date: '2012-01-03'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: вход free, музыкантам 6000
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 24233
+  date: '2012-01-10'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: вход free, музыкантам 6000
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 24234
+  date: '2012-01-17'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 24235
+  date: '2012-01-24'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 24236
+  date: '2012-01-31'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 24117
+  date: '2012-01-05'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 24216
+  date: '2012-01-04'
+  time: '21:00'
+  band_name: Маракату
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350-450 руб.
+- id: 24217
+  date: '2012-01-11'
+  time: '20:00'
+  band_name: Ольга Герчакова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 24218
+  date: '2012-01-12'
+  time: '20:00'
+  band_name: Клише
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 24219
+  date: '2012-01-13'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 25290
+  date: '2012-02-11'
+  time: '22:00'
+  band_name: Анна Март
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25291
+  date: '2012-02-12'
+  time: '20:00'
+  band_name: Кассандра
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25292
+  date: '2012-02-15'
+  time: '20:00'
+  band_name: Можжевельник
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25293
+  date: '2012-02-16'
+  time: '20:00'
+  band_name: Modeloza
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25294
+  date: '2012-02-17'
+  time: '22:00'
+  band_name: FAQ-Брак 2 с Pozitive Orchestra
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+  extra_bands:
+  - id: 281
+    name: Pozitive Orchestra
+    token: pozitive-orchestra
+- id: 25295
+  date: '2012-02-18'
+  time: '21:00'
+  band_name: Франкарди
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25296
+  date: '2012-02-19'
+  time: '20:00'
+  band_name: Соль Морей
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25297
+  date: '2012-02-22'
+  time: '20:00'
+  band_name: Rockовые девушки
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 25298
+  date: '2012-02-23'
+  time: '22:00'
+  band_name: Tabasco Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25299
+  date: '2012-02-24'
+  time: '22:00'
+  band_name: Город 312
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 1200 руб.
+- id: 25300
+  date: '2012-02-25'
+  time: '22:00'
+  band_name: Данса
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25301
+  date: '2012-02-29'
+  time: '20:00'
+  band_name: JazzMobile trio
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25389
+  date: '2012-02-26'
+  time: '20:00'
+  band_name: Борис Хлуднев
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25273
+  date: '2012-02-01'
+  time: '20:00'
+  band_name: Masha Kutskova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25274
+  date: '2012-02-02'
+  time: '21:00'
+  band_name: Rocking Time (reggae party)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25275
+  date: '2012-02-03'
+  time: '22:00'
+  band_name: BubaMara Brass Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25276
+  date: '2012-02-04'
+  time: '16:00'
+  band_name: Акорн-Пати (hip hop party)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 25277
+  date: '2012-02-04'
+  time: '22:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25278
+  date: '2012-02-05'
+  time: '22:00'
+  band_name: Staff Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 50 руб.
+- id: 25279
+  date: '2012-02-06'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25280
+  date: '2012-02-07'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 25281
+  date: '2012-02-14'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 25282
+  date: '2012-02-21'
+  time: '20:00'
+  band_name: Блюзовые вечера с группой Dynamic James
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 25283
+  date: '2012-02-28'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25284
+  date: '2012-02-27'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25285
+  date: '2012-02-20'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25286
+  date: '2012-02-13'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25287
+  date: '2012-02-08'
+  time: '20:00'
+  band_name: Шанталь
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25288
+  date: '2012-02-09'
+  time: '20:00'
+  band_name: Mosst
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25289
+  date: '2012-02-10'
+  time: '22:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 25332
+  date: '2012-02-15'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 25854
+  date: '2012-03-05'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25855
+  date: '2012-03-12'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25856
+  date: '2012-03-19'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25857
+  date: '2012-03-26'
+  time: '20:00'
+  band_name: 'Джазовый джем-сейшн: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 25858
+  date: '2012-03-06'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25859
+  date: '2012-03-13'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25860
+  date: '2012-03-20'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25861
+  date: '2012-03-27'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25862
+  date: '2012-03-01'
+  time: '20:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25863
+  date: '2012-03-02'
+  time: '22:00'
+  band_name: Дмитрий Хмелев
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 25864
+  date: '2012-03-03'
+  time: '22:00'
+  band_name: Sambateria
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25865
+  date: '2012-03-04'
+  time: '20:00'
+  band_name: EkatSam
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25866
+  date: '2012-03-07'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 25867
+  date: '2012-03-08'
+  time: '22:00'
+  band_name: PianoBoy
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: от 1000 руб.
+- id: 25868
+  date: '2012-03-09'
+  time: '22:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25869
+  date: '2012-03-10'
+  time: '22:00'
+  band_name: BubaMara Brass Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25870
+  date: '2012-03-11'
+  time: '20:00'
+  band_name: ArmanJazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25871
+  date: '2012-03-14'
+  time: '20:00'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25872
+  date: '2012-03-15'
+  time: '19:30'
+  band_name: Da Voice
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25873
+  date: '2012-03-16'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25874
+  date: '2012-03-17'
+  time: '22:00'
+  band_name: Пицца
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 25875
+  date: '2012-03-18'
+  time: '20:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25876
+  date: '2012-03-21'
+  time: '20:00'
+  band_name: Fusiality
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25877
+  date: '2012-03-22'
+  time: '20:00'
+  band_name: NOA NOA
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25878
+  date: '2012-03-23'
+  time: '22:00'
+  band_name: Чичерина
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 1200 руб.
+- id: 25879
+  date: '2012-03-24'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 25880
+  date: '2012-03-25'
+  time: '20:00'
+  band_name: Мохито
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25881
+  date: '2012-03-28'
+  time: '20:00'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 25882
+  date: '2012-03-29'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 25883
+  date: '2012-03-30'
+  time: '22:00'
+  band_name: Bahroma (Украина)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 25884
+  date: '2012-03-31'
+  time: '22:00'
+  band_name: Маракату
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350-500 руб.
+- id: 26603
+  date: '2012-04-02'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26604
+  date: '2012-04-09'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26605
+  date: '2012-04-16'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26606
+  date: '2012-04-23'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26607
+  date: '2012-04-30'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26609
+  date: '2012-04-10'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26612
+  date: '2012-04-24'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26614
+  date: '2012-04-04'
+  time: '20:00'
+  band_name: Extrovert
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 26602
+  date: '2012-04-20'
+  time: '22:00'
+  band_name: MoveItOn
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26608
+  date: '2012-04-03'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26610
+  date: '2012-04-17'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 26613
+  date: '2012-04-01'
+  time: '20:00'
+  band_name: Masha Kutskova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 26615
+  date: '2012-04-05'
+  time: '20:00'
+  band_name: I Will Kill Chita
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 26616
+  date: '2012-04-06'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 26619
+  date: '2012-04-11'
+  time: '20:00'
+  band_name: Андрей Красильников
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 26620
+  date: '2012-04-12'
+  time: '19:30'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 26621
+  date: '2012-04-26'
+  time: '20:00'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 26622
+  date: '2012-04-13'
+  time: '22:00'
+  band_name: КУБАнаТЫ
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26626
+  date: '2012-04-18'
+  time: '22:00'
+  band_name: La Fille
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+  comments: Французский шансон
+- id: 26627
+  date: '2012-04-19'
+  time: '20:00'
+  band_name: Тамерлан и Винил
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26569
+  date: '2012-03-23'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26632
+  date: '2012-04-28'
+  time: '22:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 26633
+  date: '2012-04-29'
+  time: '22:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26634
+  date: '2012-04-30'
+  time: '22:00'
+  band_name: Sambateria
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  comments: Drum шоу
+- id: 26617
+  date: '2012-04-07'
+  time: '21:00'
+  band_name: Коровас milkshake
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26618
+  date: '2012-04-08'
+  time: '20:00'
+  band_name: Synth-Dimension
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 26623
+  date: '2012-04-14'
+  time: '18:00'
+  band_name: NoBody.One
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 26624
+  date: '2012-04-14'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 26625
+  date: '2012-04-15'
+  time: '18:00'
+  band_name: Hip-hop фестиваль "Staff'Кa"
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 26628
+  date: '2012-04-21'
+  time: '22:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 26629
+  date: '2012-04-22'
+  time: '20:00'
+  band_name: Армянский дудук
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+- id: 26630
+  date: '2012-04-25'
+  time: '20:00'
+  band_name: October Sun
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 26631
+  date: '2012-04-27'
+  time: '22:00'
+  band_name: The Moscow Sax Quintet
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27614
+  date: '2012-05-19'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 27550
+  date: '2012-05-01'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27553
+  date: '2012-05-22'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27555
+  date: '2012-05-07'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27556
+  date: '2012-05-14'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27558
+  date: '2012-05-28'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27551
+  date: '2012-05-08'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27552
+  date: '2012-05-15'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27554
+  date: '2012-05-29'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27557
+  date: '2012-05-21'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27559
+  date: '2012-05-02'
+  time: '20:00'
+  band_name: Bobby Blesk
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27561
+  date: '2012-05-04'
+  time: '20:00'
+  band_name: Ольга Герчакова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27563
+  date: '2012-05-06'
+  time: '20:00'
+  band_name: QuintaToka
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27564
+  date: '2012-05-09'
+  time: '20:00'
+  band_name: YellowBrickRoad
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27565
+  date: '2012-05-10'
+  time: '20:00'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27567
+  date: '2012-05-12'
+  time: '22:00'
+  band_name: HeartBeat
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 27571
+  date: '2012-05-18'
+  time: '22:00'
+  band_name: BubaMara Brass band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27573
+  date: '2012-05-20'
+  time: '20:00'
+  band_name: NoPaperBand
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27575
+  date: '2012-05-24'
+  time: '20:00'
+  band_name: Stereodrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27579
+  date: '2012-05-31'
+  time: '20:00'
+  band_name: Дмитрий МасимачЕв и БСО
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27560
+  date: '2012-05-03'
+  time: '20:00'
+  band_name: Stoneberry & RadioLife
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27562
+  date: '2012-05-05'
+  time: '20:00'
+  band_name: Трибьют группы Сплин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 27566
+  date: '2012-05-11'
+  time: '21:00'
+  band_name: Jazz Pro
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27568
+  date: '2012-05-13'
+  time: '21:00'
+  band_name: Richies Blues band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27569
+  date: '2012-05-16'
+  time: '20:00'
+  band_name: Корней
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27570
+  date: '2012-05-17'
+  time: '20:00'
+  band_name: Prosto band и Акулы на прогулке
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27572
+  date: '2012-05-19'
+  time: '22:00'
+  band_name: Встреча Рыбы
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27574
+  date: '2012-05-23'
+  time: '20:00'
+  band_name: Антон Гришин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 27576
+  date: '2012-05-25'
+  time: '22:00'
+  band_name: Борис Хлуднев и BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27577
+  date: '2012-05-26'
+  time: '22:00'
+  band_name: Tabasco band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 27578
+  date: '2012-05-27'
+  time: '19:00'
+  band_name: ArtMeteo
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28226
+  date: '2012-06-20'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 28438
+  date: '2012-06-29'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28439
+  date: '2012-06-24'
+  time: '20:00'
+  band_name: J.A. Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 28440
+  date: '2012-06-27'
+  time: '20:00'
+  band_name: Арт Кейли
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28441
+  date: '2012-06-11'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28442
+  date: '2012-06-18'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28443
+  date: '2012-06-25'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28444
+  date: '2012-07-02'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28445
+  date: '2012-06-23'
+  time: '22:00'
+  band_name: Магелланово Облако
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28446
+  date: '2012-06-22'
+  time: '22:00'
+  band_id: 354
+  band_name: Карл Хламкин и ОгнеОпаснОркестр
+  band_token: hlamkin
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28447
+  date: '2012-06-17'
+  time: '20:00'
+  band_name: Argishty
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+- id: 28448
+  date: '2012-06-16'
+  time: '22:00'
+  band_name: Big Stuff
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28449
+  date: '2012-06-15'
+  time: '21:00'
+  band_name: Франкарди
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 28153
+  date: '2012-06-28'
+  time: '21:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28217
+  date: '2012-06-21'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 28450
+  date: '2012-06-14'
+  time: '20:00'
+  band_name: Маракату
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 28451
+  date: '2012-06-10'
+  time: '20:00'
+  band_name: Неделька
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28452
+  date: '2012-06-08'
+  time: '22:00'
+  band_name: MAD band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28453
+  date: '2012-06-07'
+  time: '20:00'
+  band_name: FolkLine
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29515
+  date: '2012-08-23'
+  time: '21:00'
+  band_name: Hovik Gulishian
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+- id: 29756
+  date: '2012-09-03'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29757
+  date: '2012-09-10'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29758
+  date: '2012-09-17'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29759
+  date: '2012-09-24'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29760
+  date: '2012-09-02'
+  time: '21:00'
+  band_name: Jazz Pro
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29761
+  date: '2012-09-01'
+  time: '22:00'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+- id: 29762
+  date: '2012-09-07'
+  time: '20:00'
+  band_name: Г К Ч П
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29763
+  date: '2012-09-08'
+  time: '22:00'
+  band_name: Boris Khludnev & BK band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29764
+  date: '2012-09-09'
+  time: '19:00'
+  band_name: Бухарин blues
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29765
+  date: '2012-09-13'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29766
+  date: '2012-09-14'
+  time: '21:00'
+  band_name: Вечеринка Другие 60-е
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 29767
+  date: '2012-09-15'
+  time: '20:00'
+  band_name: 'День рождения FAQ-Cafe: Александр Демидов и "Бобры", "Манго-манго",
+    "Торонто"'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400-500 руб.
+- id: 29768
+  date: '2012-09-16'
+  time: '21:00'
+  band_name: Грачи
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29769
+  date: '2012-09-20'
+  time: '20:00'
+  band_name: Андрей Красильников
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29770
+  date: '2012-09-23'
+  time: '21:00'
+  band_name: Satin & Jame's joys
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29771
+  date: '2012-09-27'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29772
+  date: '2012-09-28'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 29773
+  date: '2012-09-29'
+  time: '20:00'
+  band_name: Strange Daze
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29774
+  date: '2012-09-30'
+  time: '21:00'
+  band_name: Bagmet & J.A.Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 28932
+  date: '2012-07-06'
+  time: '22:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28933
+  date: '2012-07-07'
+  time: '22:00'
+  band_name: Juniper
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 28934
+  date: '2012-07-09'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28935
+  date: '2012-07-16'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28936
+  date: '2012-07-23'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28937
+  date: '2012-07-08'
+  time: '21:00'
+  band_name: Peekabo
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 28938
+  date: '2012-07-11'
+  time: '21:00'
+  band_name: Ромео должен умереть
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28939
+  date: '2012-07-12'
+  time: '21:00'
+  band_name: Маракату
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350-500 руб.
+- id: 28940
+  date: '2012-07-19'
+  time: '21:00'
+  band_name: Troy
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 28941
+  date: '2012-07-20'
+  time: '22:00'
+  band_name: Hula Hoop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 28942
+  date: '2012-07-22'
+  time: '21:00'
+  band_name: Orange House
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 28986
+  date: '2012-07-14'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29221
+  date: '2012-09-06'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 29067
+  date: '2012-08-05'
+  time: '21:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29349
+  date: '2012-08-30'
+  time: '21:00'
+  band_name: NOA NOA
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29350
+  date: '2012-08-31'
+  time: '21:00'
+  band_name: Beatles party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 29332
+  date: '2012-08-06'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29333
+  date: '2012-08-13'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29334
+  date: '2012-08-20'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29335
+  date: '2012-08-27'
+  time: '20:00'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29336
+  date: '2012-08-01'
+  time: '21:00'
+  band_name: Sofia Ezziati & The Seagulls
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29337
+  date: '2012-08-02'
+  time: '21:00'
+  band_name: All my Secrets
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29338
+  date: '2012-08-03'
+  time: '21:30'
+  band_name: Tabasco band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29339
+  date: '2012-08-08'
+  time: '21:00'
+  band_name: Random Transition
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 29340
+  date: '2012-08-09'
+  time: '20:00'
+  band_name: Coal
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29341
+  date: '2012-08-26'
+  time: '20:00'
+  band_name: ОТД (Оркестр тоталитарного джаза)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 29342
+  date: '2012-08-16'
+  time: '20:00'
+  band_name: Press_like
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29343
+  date: '2012-08-17'
+  time: '22:00'
+  band_name: A S T A
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 29344
+  date: '2012-08-18'
+  time: '22:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29345
+  date: '2012-08-19'
+  time: '21:00'
+  band_name: JazzUp band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 29346
+  date: '2012-08-24'
+  time: '21:00'
+  band_name: Марат
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 29347
+  date: '2012-08-25'
+  time: '20:00'
+  band_name: Красные Звезды (Минск)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500-600 руб.
+- id: 29348
+  date: '2012-08-29'
+  time: '21:00'
+  band_name: Vosne
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200-300 руб.
+- id: 30592
+  date: '2012-10-01'
+  time: '20:00'
+  band_name: 'Джазовый jam-session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 30593
+  date: '2012-10-08'
+  time: '20:00'
+  band_name: 'Джазовый jam-session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 30594
+  date: '2012-10-15'
+  time: '20:00'
+  band_name: 'Джазовый jam-session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 30595
+  date: '2012-10-22'
+  time: '20:00'
+  band_name: 'Джазовый jam-session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 30596
+  date: '2012-10-29'
+  time: '20:00'
+  band_name: 'Джазовый jam-session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 30597
+  date: '2012-10-04'
+  time: '20:00'
+  band_name: МаксимачЕв и БСО
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350-400 руб.
+- id: 30598
+  date: '2012-10-05'
+  time: '22:00'
+  band_name: Boris Khludnev & Bk band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 30599
+  date: '2012-10-06'
+  time: '21:00'
+  band_name: Магелланово облако
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 30600
+  date: '2012-10-07'
+  time: '20:00'
+  band_name: Pro et Contra
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 150-200 руб.
+- id: 30601
+  date: '2012-10-10'
+  time: '20:00'
+  band_name: Офис бэнд
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 30602
+  date: '2012-10-11'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 30603
+  date: '2012-10-25'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 30604
+  date: '2012-10-12'
+  time: '22:00'
+  band_name: Пони
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 30605
+  date: '2012-10-13'
+  time: '22:00'
+  band_name: Свободный Полет
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 30606
+  date: '2012-10-14'
+  time: '20:00'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 30607
+  date: '2012-10-17'
+  time: '20:00'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 30608
+  date: '2012-10-18'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 30609
+  date: '2012-10-19'
+  time: '22:00'
+  band_name: Mystic Brew (Самара), The Thunderbeats (Москва)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 30610
+  date: '2012-10-20'
+  time: '22:00'
+  band_name: Франкарди
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 30611
+  date: '2012-10-21'
+  time: '20:00'
+  band_name: Vosne
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 30612
+  date: '2012-10-26'
+  time: '20:00'
+  band_name: Exilados
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 30613
+  date: '2012-10-27'
+  time: '20:00'
+  band_name: Halloween с группой Ногу Свело
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: от 500 руб.
+  extra_bands:
+  - id: 320
+    name: Ногу свело!
+    token: nogu-svelo
+- id: 30614
+  date: '2012-10-28'
+  time: '20:00'
+  band_name: Вальс и Конго
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 31378
+  date: '2012-11-19'
+  time: '20:00'
+  band_name: 'Jazz jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 31381
+  date: '2012-11-02'
+  time: '21:00'
+  band_name: Городская Культура & Шиз-оркестр "Каша"
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31386
+  date: '2012-11-22'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 31388
+  date: '2012-11-10'
+  time: '22:00'
+  band_name: The Bastards
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31391
+  date: '2012-11-15'
+  time: '20:00'
+  band_name: Huskey
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 31392
+  date: '2012-11-16'
+  time: '22:00'
+  band_name: Strange Daze
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31393
+  date: '2012-11-17'
+  time: '22:00'
+  band_name: Карл Хламкин
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+- id: 31396
+  date: '2012-11-23'
+  time: '22:00'
+  band_name: H2O
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 31397
+  date: '2012-11-24'
+  time: '22:00'
+  band_name: Маракату
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350-450 руб.
+- id: 31398
+  date: '2012-11-25'
+  time: '20:00'
+  band_name: Peekaboo (вокал)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 31399
+  date: '2012-11-28'
+  time: '20:00'
+  band_name: Adam project
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31400
+  date: '2012-11-29'
+  time: '20:00'
+  band_name: Илья Соболев
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31401
+  date: '2012-11-30'
+  time: '20:00'
+  band_name: 'Другие 60-е: The Stampletons (Минск), Thunderbeats (Москва), Dj Misty
+    Lane'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31376
+  date: '2012-11-05'
+  time: '20:00'
+  band_name: 'Jazz jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 31377
+  date: '2012-11-12'
+  time: '20:00'
+  band_name: 'Jazz jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 31379
+  date: '2012-11-26'
+  time: '20:00'
+  band_name: 'Jazz jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 31380
+  date: '2012-11-01'
+  time: '20:00'
+  band_name: Кассандра
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31382
+  date: '2012-11-03'
+  time: '22:00'
+  band_name: Tabasco band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31383
+  date: '2012-11-04'
+  time: '20:00'
+  band_name: Небесный Аптекарь
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31384
+  date: '2012-11-07'
+  time: '20:00'
+  band_name: Дмитрий Спиваковский
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 31385
+  date: '2012-11-08'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 31387
+  date: '2012-11-09'
+  time: '22:00'
+  band_name: Фокси Джаз
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 31389
+  date: '2012-11-11'
+  time: '20:00'
+  band_name: Перцем по Сердцу
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 31390
+  date: '2012-11-14'
+  time: '20:00'
+  band_name: Ксения Лебедева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 31394
+  date: '2012-11-18'
+  time: '20:00'
+  band_name: Mateee
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 31395
+  date: '2012-11-21'
+  time: '20:00'
+  band_name: Андрей Красильников
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 32072
+  date: '2012-12-03'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32073
+  date: '2012-12-10'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32074
+  date: '2012-12-17'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32075
+  date: '2012-12-24'
+  time: '20:00'
+  band_name: 'Джазовый jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 32076
+  date: '2012-12-30'
+  time: '22:00'
+  band_name: Orange House
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32077
+  date: '2012-12-31'
+  time: '21:00'
+  band_name: Вечеринка "Белоснежка и 7 гномов" с Garage band & Dj Oleg Ant
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 1000 руб.
+- id: 32078
+  date: '2012-12-29'
+  time: '22:00'
+  band_name: Небо №7
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 32079
+  date: '2012-12-28'
+  time: '22:00'
+  band_name: Импульс
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 32080
+  date: '2012-12-26'
+  time: '20:00'
+  band_name: Март-Мьюзик
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 32081
+  date: '2012-12-23'
+  time: '20:00'
+  band_name: Bairro do Sol
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32082
+  date: '2012-12-22'
+  time: '22:00'
+  band_name: Korovas MilkShake
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32083
+  date: '2012-12-21'
+  time: '22:00'
+  band_name: Foxy Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-350 руб.
+- id: 32084
+  date: '2012-12-20'
+  time: '20:00'
+  band_name: ПлюмБум
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 32085
+  date: '2012-12-19'
+  time: '20:00'
+  band_name: Sahra
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 32086
+  date: '2012-12-16'
+  time: '20:00'
+  band_name: Mc Mac'Key
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 32087
+  date: '2012-12-15'
+  time: '22:00'
+  band_name: Pollityca
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250-300 руб.
+- id: 32088
+  date: '2012-12-14'
+  time: '22:00'
+  band_name: Duck Tales
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32089
+  date: '2012-12-13'
+  time: '20:00'
+  band_name: Bahroma (Украина)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32090
+  date: '2012-12-09'
+  time: '20:00'
+  band_name: Владим
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32091
+  date: '2012-12-08'
+  time: '22:00'
+  band_name: Олег Универсал (Украина)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 32092
+  date: '2012-12-07'
+  time: '21:30'
+  band_name: Катя Гордон
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 32093
+  date: '2012-12-06'
+  time: '20:00'
+  band_name: StereoDrop
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 32094
+  date: '2012-12-05'
+  time: '20:00'
+  band_name: Колея
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 150 руб.
+- id: 32095
+  date: '2012-12-02'
+  time: '20:00'
+  band_name: Rebel Music Show
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.

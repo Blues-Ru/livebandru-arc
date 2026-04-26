@@ -1,0 +1,81 @@
+- id: 8483
+  date: '2008-01-05'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 8553
+  date: '2008-01-31'
+  band_name: Backstage
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 8594
+  date: '2008-02-07'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: бесплатный
+- id: 8785
+  date: '2008-03-15'
+  band_name: Петр Подгородецкий
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 8851
+  date: '2008-04-03'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 100 руб.
+- id: 9095
+  date: '2008-06-21'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 9106
+  date: '2008-06-28'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+- id: 9120
+  date: '2008-06-18'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 100 руб.
+- id: 9152
+  date: '2008-06-22'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein
+  price: 100 руб.
+- id: 9674
+  date: '2008-11-19'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 33
+  club_name: Швайн
+  club_token: schwein

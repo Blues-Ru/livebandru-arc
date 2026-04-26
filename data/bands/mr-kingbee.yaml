@@ -1,0 +1,22 @@
+id: 720
+token: mr-kingbee
+name: Mr. KingBee
+alive: true
+city_id: 11
+genre_id: 1
+clips:
+- id: 8132
+  type: weblink
+  url: https://vk.com/mr.kingbee
+  name: Страница ВКонтакте
+  sort_order: 0
+- id: 8133
+  type: weblink
+  url: https://www.facebook.com/mr.kingbee.blues/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 8134
+  type: weblink
+  url: https://soundcloud.com/user-286702553
+  name: SoundCloud
+  sort_order: 200

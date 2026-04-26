@@ -1,0 +1,24 @@
+id: 341
+token: thomas-moore
+name: Томас Мур
+alive: true
+city_id: 19
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Лев Торский
+  instruments: гитара, вокал
+- name: Александр Касаткин
+  instruments: бас
+- name: Александр Волчков
+  instruments: ударные
+- name: Вячеслав Алексеев
+  instruments: перкуссия
+- name: Константин "Вождь" Поталюков
+  instruments: клавишные
+clips:
+- id: 1362
+  type: weblink
+  url: http://vk.com/club3974623
+  name: Страница ВКонтакте
+  sort_order: 0

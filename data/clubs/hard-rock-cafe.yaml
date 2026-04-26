@@ -1,0 +1,14 @@
+id: 454
+token: hard-rock-cafe
+name: Hard Rock Cafe
+alive: true
+address: Арбат, 44
+subway: Смоленская
+phone: (499) 241-98-53
+city_id: 1
+clips:
+- id: 2125
+  type: weblink
+  url: http://www.hardrockcafe.ru/
+  name: Официальный сайт
+  sort_order: 0

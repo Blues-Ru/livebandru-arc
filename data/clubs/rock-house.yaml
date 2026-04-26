@@ -1,0 +1,14 @@
+id: 616
+token: rock-house
+name: Rock House
+alive: true
+address: Измайловское ш., 11е
+subway: Семеновская
+phone: +7(495)728-04-66
+city_id: 1
+clips:
+- id: 3539
+  type: weblink
+  url: http://www.rock-house.ru
+  name: Официальный сайт
+  sort_order: 0

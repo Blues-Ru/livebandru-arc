@@ -1,0 +1,27 @@
+id: 205
+token: cabernet-deneuve
+name: Каберне Денев
+aliases: 'Cabernet Deneuve
+
+  Chattanooga SKA Orchestra'
+alive: true
+url: http://www.cabernetdeneuve.ru/
+city_id: 1
+genre_id: 12
+secondary_genre_id: 2
+clips:
+- id: 567
+  type: weblink
+  url: http://www.cabernetdeneuve.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 568
+  type: rss
+  url: http://community.livejournal.com/cabernetdeneuve/data/rss
+  sort_order: 99
+- id: 570
+  type: photo
+  url: cabernet-deneuve.jpg
+  sort_order: 0
+  width: 604
+  height: 396

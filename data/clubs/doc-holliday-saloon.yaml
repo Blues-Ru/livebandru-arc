@@ -1,0 +1,20 @@
+id: 484
+token: doc-holliday-saloon
+name: Doc Holliday Saloon
+alive: true
+address: Москва, ул. Старая Басманная, д. 38/2
+subway: Бауманская, Красные ворота
+phone: +7(495)690-9650
+city_id: 1
+clips:
+- id: 2437
+  type: weblink
+  url: http://www.dhsaloon.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2438
+  type: photo
+  url: doc-holliday-saloon.jpg
+  sort_order: 0
+  width: 677
+  height: 450

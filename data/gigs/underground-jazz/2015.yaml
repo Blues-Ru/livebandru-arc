@@ -1,0 +1,77 @@
+- id: 49112
+  date: '2015-02-05'
+  time: '20:00'
+  band_name: Bob Stroger (США)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 950 руб.
+- id: 49988
+  date: '2015-03-13'
+  time: '20:00'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 50834
+  date: '2015-04-22'
+  time: '20:00'
+  band_name: Vanisha Gould (вокал, США) и Квартет Алексея Подымкина (Россия)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 50835
+  date: '2015-04-16'
+  time: '21:00'
+  band_name: Accordi Disaccordi
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 53924
+  date: '2015-10-22'
+  band_name: Kenny Blues Boss Wayne Russian Tour 2015 (feat. Jose Luis Pardo)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 52245
+  date: '2015-06-25'
+  time: '19:00'
+  band_name: 'Первый джазовый open-air: "Всякий джаз", Георгий Фефелов (фортепиано),
+    Игорь Байбуров (бас-гитара), Сергей Цюх (ударные), Михаил Талейко (гитара), Борис
+    Еремеев (перкуссия), Степан Пономарев (скрипка), Андрей Горбуля (тромбон), Николай
+    Иванов (труба), Алексей Демидовский (альт-саксофон), Александр Туранов (баритон-саксофон),
+    Ольга Носенко (вокал), Полина Шараева (вокал), Тамара Устименко (вокал), Татьяна
+    Торгаева (вокал), Андрей Иноземцев (вокал)'
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  price: 200 руб.
+- id: 54829
+  date: '2015-11-17'
+  time: '20:00'
+  band_name: Квартет The Staple (США/Россия) - Mark Shim (тенор-саксофон, Нью-Йорк),
+    Алексей Подымкин (рояль, Москва), Юрий Галкин (контрабас, Москва), Colin Stranahan
+    (ударные, Нью-Йорк)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 54830
+  date: '2015-11-18'
+  time: '20:00'
+  band_name: Luca Stricagnioli (гитара, Италия)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 55334
+  date: '2015-12-11'
+  time: '20:00'
+  band_name: Accordi Disaccordi (Италия)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz

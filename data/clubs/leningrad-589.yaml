@@ -1,0 +1,15 @@
+id: 589
+token: leningrad
+name: LeninGrad
+alive: true
+address: Ленинградский проспект, д. 24а
+subway: Белорусская
+phone: +7(925)311-2132
+city_id: 1
+comments: вход со стороны ул. Правды, д. 3
+clips:
+- id: 3344
+  type: weblink
+  url: http://clubleningrad.ru/
+  name: Официальный сайт
+  sort_order: 0

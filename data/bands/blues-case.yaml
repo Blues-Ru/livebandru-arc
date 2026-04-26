@@ -1,0 +1,25 @@
+id: 708
+token: blues-case
+name: The Blues Case
+alive: true
+city_id: 17
+genre_id: 1
+musicians:
+- name: Александр Колосов
+  instruments: гитара, вокал
+- name: Сергей Рилакс
+  instruments: губная гармоника
+- name: Влад Красько
+  instruments: контрабас
+- name: Алексей Волков
+  instruments: барабаны
+clips:
+- id: 6734
+  type: weblink
+  url: https://vk.com/club68883818
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 6735
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

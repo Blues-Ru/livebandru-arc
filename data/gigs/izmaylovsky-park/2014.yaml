@@ -1,0 +1,47 @@
+- id: 44651
+  date: '2014-06-13'
+  time: '13:00'
+  band_name: 'Фестиваль "2 Days" призван объединить поклонников качественной живой
+    музыки и custom-культуры, владельцев уникальных мотоциклов и коллекционных авто.,
+    http://2daysfest.ru/, В большой разнообразной программе - значительная доля блюза:
+    Nothing Personal • Вадим Иващенко &, Boneshakers • Modern Blues Band • Кистанов
+    Трио, • Борис Булкин'
+  club_id: 478
+  club_name: Измайловский парк
+  club_token: izmaylovsky-park
+  price: 1500 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 44652
+  date: '2014-06-14'
+  time: '13:00'
+  band_name: '2 Days Fest: Mishouris Blues Band, Денис Мажуков, The Crossroadz, Blues
+    Сousins, Modern Blues Band, Deacon Jones (USA)'
+  club_id: 478
+  club_name: Измайловский парк
+  club_token: izmaylovsky-park
+  price: 1500 руб.
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+  - id: 7
+    name: Crossroadz
+    token: crossroadz

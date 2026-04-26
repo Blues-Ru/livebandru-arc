@@ -1,0 +1,23 @@
+id: 187
+token: posledny-sok
+name: Последний Сок
+alive: true
+city_id: 1
+genre_id: 3
+musicians:
+- name: Мария Авдюшина
+  instruments: ударные
+- name: Владислав Черноусов
+  instruments: бас
+- name: Дмитрий Синичкин
+  instruments: гитара
+- name: Михаил Турбинин
+  instruments: вокал
+- name: Андрей Чевагин
+  instruments: звукорежиссер
+clips:
+- id: 430
+  type: weblink
+  url: http://vk.com/club16584952
+  name: Страница ВКонтакте
+  sort_order: 0

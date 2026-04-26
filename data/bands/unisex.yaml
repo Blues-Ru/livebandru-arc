@@ -1,0 +1,23 @@
+id: 193
+token: unisex
+name: Unisex
+alive: true
+url: http://www.unisex-band.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 438
+  type: weblink
+  url: http://www.unisex-band.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 439
+  type: weblink
+  url: http://vk.com/club5062734
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 440
+  type: weblink
+  url: http://www.myspace.com/leogoreunisex
+  name: Страница на MySpace
+  sort_order: 200

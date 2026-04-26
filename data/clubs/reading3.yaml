@@ -1,0 +1,19 @@
+id: 266
+token: reading3
+name: Ридинг 3
+alive: true
+address: а-Тааруха, 3
+phone: +972-3-7624000
+city_id: 21
+comments: северный Тель-авивский порт, info@reading3.co.il
+clips:
+- id: 624
+  type: weblink
+  url: http://www.facebook.com/reading3tlv
+  name: страница facebook
+  sort_order: 199
+- id: 623
+  type: weblink
+  url: http://www.reading3.co.il
+  name: Официальный сайт
+  sort_order: 99

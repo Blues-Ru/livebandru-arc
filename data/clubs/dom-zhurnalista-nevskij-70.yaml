@@ -1,0 +1,14 @@
+id: 920
+token: dom-zhurnalista-nevskij-70
+name: Дом журналиста (Невский, 70)
+aliases: Союз журналистов Петербурга и Ленобласти
+alive: true
+address: Невский проспект, 70
+subway: Маяковская, Достоевская
+city_id: 2
+clips:
+- id: 10602
+  type: weblink
+  url: http://spbsj.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,49 @@
+id: 285
+token: richies-blues-band
+name: Richie's Blues Band
+alive: true
+url: https://www.facebook.com/pages/RICHIES-BLUES-BAND/228985133778566
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Риат "Ричи" Мадатов
+  instruments: гитара, вокал
+- name: Артем Колядин
+  instruments: бас, вокал
+- name: Владимир Окунев
+  instruments: ударные,  вокал
+clips:
+- id: 1311
+  type: mp3
+  url: 1.mp3
+  name: Dust my Broom
+  sort_order: 99
+- id: 2861
+  type: weblink
+  url: https://www.facebook.com/pages/RICHIES-BLUES-BAND/228985133778566
+  name: Официальный сайт
+  sort_order: 0
+- id: 3219
+  type: youtube
+  url: https://www.facebook.com/pages/RICHIES-BLUES-BAND/228985133778566
+  sort_order: 99
+reviews:
+- id: 114
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: преcc рилиз
+  text: 'RICHIE''S BLUES BAND-это мощное блюз-роковое трио. RBB проповедуют стиль,
+    и исполняют номера основоположников этого направления: Jimi Hendrix Exp.,Cream,Steppenfolf,Johnny
+    Winter,Allman Brothers,Eric Clapton,The Rolling Stones, Creedence Clearwater Revival,
+    Chuck Berry,Muddy Waters,Fleetwood Mac,The Black Crowes и др. RICHIE''S BLUES
+    BAND единственное блюз-роковая команда,где каждый из музыкантов вокально исполняет
+    свои, отдельные номера. Подбор легендарных песен,убойной аккомпанемент и море
+    драйва-вот основа этой команды.В арсенале трио лучшие хиты золотой эпохи рока,конца
+    60,начала 70-х годов,но с более современной подачей! На концертах RBB сейсмические
+    волны распространяются со скоростью звука,давление которого разрушает шкалу Рихтера
+    и оставляет слушателя один на один со стихией!'
+  verified: true
+  created: '2011-03-01'
+  is_press_release: true

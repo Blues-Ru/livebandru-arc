@@ -1,0 +1,14 @@
+id: 761
+token: art-klub-rukav
+name: Арт-клуб "Рукав"
+alive: true
+address: Земляной Вал, 59/2
+subway: Таганская, Марксистская
+phone: +7(499)271-88-74
+city_id: 1
+clips:
+- id: 5464
+  type: weblink
+  url: http://www.caferukav.ru
+  name: Официальный сайт
+  sort_order: 0

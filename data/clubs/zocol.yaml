@@ -1,0 +1,14 @@
+id: 180
+token: zocol
+name: '"Цоколь 2.0"'
+alive: true
+address: Лиговский проспект, дом 50, корп. 3
+subway: '"Площадь Восстания"'
+phone: (812) 274-94-67
+city_id: 2
+clips:
+- id: 189
+  type: weblink
+  url: http://www.zoccolo.ru/; http://vk.com/club62383216
+  name: Официальный сайт
+  sort_order: 0

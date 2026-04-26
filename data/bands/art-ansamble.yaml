@@ -1,0 +1,18 @@
+id: 775
+token: art-ansamble
+name: Арт-ансмабль
+aliases: Арт-квартет
+alive: true
+city_id: 51
+genre_id: 2
+musicians:
+- name: Тим Дорофеев
+  instruments: гитара
+- name: Олег Юданов
+  instruments: ударные
+- name: Николай Клишин
+  instruments: бас
+- name: Константин Седовин
+  instruments: флейта, вокал
+- name: Сергей Жигальцов
+  instruments: видео

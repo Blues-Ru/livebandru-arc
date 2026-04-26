@@ -1,0 +1,319 @@
+- id: 48463
+  date: '2015-01-15'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49480
+  date: '2015-03-26'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49472
+  date: '2015-02-05'
+  time: '20:00'
+  band_name: Ty Stephens (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 49473
+  date: '2015-02-07'
+  time: '20:00'
+  band_name: Джей Ди Уолтер (вокал, США) и трио Андрея Кондакова
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49474
+  date: '2015-02-11'
+  time: '20:00'
+  band_name: Майя Асусэна (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 49475
+  date: '2015-02-13'
+  time: '20:00'
+  band_name: Кармэн Мокси (вокал)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49476
+  date: '2015-02-19'
+  time: '20:00'
+  band_name: Лиза Генри (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49477
+  date: '2015-02-22'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49478
+  date: '2015-02-23'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 49479
+  date: '2015-02-26'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 50836
+  date: '2015-04-02'
+  time: '20:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 50837
+  date: '2015-04-09'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 50838
+  date: '2015-04-10'
+  time: '20:00'
+  band_name: Таис Урумидис
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 50839
+  date: '2015-04-11'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 50840
+  date: '2015-04-15'
+  time: '20:00'
+  band_name: Jazz Dance Orchest­ra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 50841
+  date: '2015-04-16'
+  time: '20:00'
+  band_name: Felicia Temple (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 50842
+  date: '2015-04-24'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 50843
+  date: '2015-04-30'
+  time: '20:00'
+  band_name: Ваниша Гульд (вокал, США), Сергей Баулин (тенор-саксофон), Алексей Подымкин
+    (рояль), Владимир Кольцов-Крутов (контрабас), Артем Юрлов (барабаны)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51378
+  date: '2015-05-12'
+  time: '20:00'
+  band_name: Кармэн Мокси
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51379
+  date: '2015-05-14'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51380
+  date: '2015-05-21'
+  time: '20:00'
+  band_name: Sharon Clark (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51381
+  date: '2015-05-28'
+  time: '20:00'
+  band_name: Али Колдуэлл (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51382
+  date: '2015-06-04'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 51383
+  date: '2015-06-17'
+  time: '20:00'
+  band_name: Jazz Dance Orchest­ra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 52976
+  date: '2015-08-12'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52978
+  date: '2015-08-20'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52979
+  date: '2015-08-27'
+  time: '20:00'
+  band_name: Greg Tardy и и Трио Евгения Рябого
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52981
+  date: '2015-09-10'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52975
+  date: '2015-08-06'
+  time: '20:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52977
+  date: '2015-08-13'
+  time: '20:00'
+  band_name: Eve Cornelius (Ив Корнелиус - вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52980
+  date: '2015-09-03'
+  time: '20:00'
+  band_name: Ада Дайер (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 52982
+  date: '2015-09-11'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 52983
+  date: '2015-10-08'
+  time: '20:00'
+  band_name: Maya Azucena (Майя Асусэна - вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 55335
+  date: '2015-12-03'
+  time: '20:00'
+  band_id: 468
+  band_name: Полина Зизак
+  band_token: polina-zizak
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 55336
+  date: '2015-12-10'
+  time: '20:00'
+  band_name: Эми Аллен (вокал, США-Франция) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 55337
+  date: '2015-12-21'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov

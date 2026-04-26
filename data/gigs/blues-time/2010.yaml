@@ -1,0 +1,379 @@
+- id: 11450
+  date: '2010-01-05'
+  time: '20:30'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11571
+  date: '2010-01-21'
+  time: '21:00'
+  band_name: Вадик Иващенко и The Boneshakers
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11572
+  date: '2010-01-22'
+  time: '20:30'
+  band_name: Dynamic James и Оксана Кочубей
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 11513
+  date: '2010-01-08'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11514
+  date: '2010-01-09'
+  time: '20:30'
+  band_id: 115
+  band_name: Иосиф и его Братия
+  band_token: levitis
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11515
+  date: '2010-01-10'
+  time: '20:30'
+  band_name: Blues Academy с Вофкой Кожекиным
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11520
+  date: '2010-01-27'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11521
+  date: '2010-01-14'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 250 руб.
+- id: 11558
+  date: '2010-01-13'
+  time: '21:00'
+  band_name: Анна Королева и Soul Wings
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 150 руб.
+- id: 11559
+  date: '2010-01-16'
+  time: '20:00'
+  band_name: Андрей Козловский, Сергей Клевенский, Вовка Кожекин
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11560
+  date: '2010-01-17'
+  time: '21:00'
+  band_name: Samarin-Band
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11576
+  date: '2010-01-28'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11603
+  date: '2010-02-13'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11610
+  date: '2010-02-04'
+  time: '21:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11651
+  date: '2010-01-30'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11652
+  date: '2010-01-31'
+  time: '21:00'
+  band_name: Вовка Кожекин и блюзовая академия
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11654
+  date: '2010-02-25'
+  time: '20:30'
+  band_name: John Nemeth**** (US) при поддержке The Jumping Cats (количество мест
+    ограничено!!!)
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 500 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 11662
+  date: '2010-02-11'
+  time: '20:30'
+  band_name: "Дмитрий Казанцев и Катя Плетнева \r\n\"The Beatles and other great songs\""
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 11663
+  date: '2010-02-12'
+  time: '20:30'
+  band_name: Blues Academy с Вовкой Кожекиным
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 100 руб.
+- id: 11664
+  date: '2010-02-14'
+  time: '20:30'
+  band_name: Valentine's Day with D.O.D.Band
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11665
+  date: '2010-02-18'
+  time: '21:00'
+  band_name: Дмитрий "Ветеран" Честных, Саша Родовский, Денис Назаров
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11666
+  date: '2010-02-19'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11670
+  date: '2010-02-20'
+  time: '21:00'
+  band_name: Blues Academy с Вовкой Кожекиным
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 100 руб.
+- id: 11671
+  date: '2010-02-26'
+  time: '20:30'
+  band_name: SafrON/OFF
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11694
+  date: '2010-03-06'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11844
+  date: '2010-03-25'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11808
+  date: '2010-03-26'
+  time: '21:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11836
+  date: '2010-03-11'
+  time: '21:00'
+  band_name: Массальский, Родовский, Ветеран
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11837
+  date: '2010-03-12'
+  time: '21:00'
+  band_name: Андрей Козловкий, Сергей Клевенский, Александр Родовский
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11838
+  date: '2010-03-13'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11839
+  date: '2010-03-14'
+  time: '21:00'
+  band_name: 50 ways to make your heart sing
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11840
+  date: '2010-03-19'
+  time: '20:30'
+  band_name: Blues Academy
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 100 руб.
+- id: 11841
+  date: '2010-03-21'
+  time: '20:30'
+  band_name: Анна Королева и Soul Wings
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11926
+  date: '2010-04-09'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11939
+  date: '2010-04-04'
+  time: '20:30'
+  band_name: Вадим Иващенко и Евгений Немов
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 11940
+  date: '2010-04-22'
+  time: '21:00'
+  band_id: 122
+  band_name: Алена Иванова и MC-Band
+  band_token: mc-band
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+- id: 11968
+  date: '2010-04-07'
+  time: '21:00'
+  band_name: Алена Иванова (вокал) и Константин Кокорин (гитара)
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+  extra_bands:
+  - id: 122
+    name: Алена Иванова и MC-Band
+    token: mc-band
+- id: 11969
+  date: '2010-04-14'
+  time: '21:00'
+  band_name: Алена Иванова (вокал) и Константин Кокорин (гитара)
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+  extra_bands:
+  - id: 122
+    name: Алена Иванова и MC-Band
+    token: mc-band
+- id: 11974
+  date: '2010-04-18'
+  time: '20:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 12026
+  date: '2010-04-23'
+  time: '21:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 200 руб.
+- id: 12132
+  date: '2010-05-21'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time

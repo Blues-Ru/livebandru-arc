@@ -1,0 +1,13 @@
+id: 887
+token: restoran-pochtovaya-kontora-1786-g
+name: Ресторан "Почтовая контора 1786 г."
+alive: true
+address: наб. Северной Двины, 78
+phone: +7(8182)40-78-40
+city_id: 51
+clips:
+- id: 8626
+  type: weblink
+  url: http://pk1786.ru
+  name: Официальный сайт
+  sort_order: 0

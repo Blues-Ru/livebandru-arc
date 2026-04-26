@@ -1,0 +1,32 @@
+id: 254
+token: easy-dizzy
+name: Easy Dizzy
+aliases: AC/DC-party c "Easy Dizzy"
+alive: true
+url: http://www.easydizzy.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 857
+  type: youtube
+  url: http://www.youtube.com/?v=5U8qmPpZUVQ
+  name: Easy Dizzy, Rock'n Roll Train
+  comments: Easy Dizzy, Music Town, 20.01.09
+  sort_order: 199
+- id: 855
+  type: weblink
+  url: http://www.easydizzy.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 856
+  type: youtube
+  url: http://www.youtube.com/?v=2inRwBn3ou0
+  name: Easy Dizzy Trailer
+  comments: Easy Dizzy (russian tribute AC/DC) Live In B2 Club
+  sort_order: 99
+- id: 858
+  type: youtube
+  url: http://www.youtube.com/?v=x9V1mxLG2I4
+  name: Easy Dizzy - Highway To Hell
+  comments: Russian AC/DC Tribute band - Easy Dizzy.
+  sort_order: 299

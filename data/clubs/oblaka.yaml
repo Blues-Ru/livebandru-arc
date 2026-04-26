@@ -1,0 +1,15 @@
+id: 716
+token: oblaka
+name: Облака
+alive: true
+address: Кутузовский, 48
+subway: Филевский Парк, Славянский Бульвар
+phone: +7(495)642-83-00
+city_id: 1
+comments: Галерея "Времена года"
+clips:
+- id: 4624
+  type: weblink
+  url: http://www.oblakarestoran.ru/index2.php
+  name: Официальный сайт
+  sort_order: 0

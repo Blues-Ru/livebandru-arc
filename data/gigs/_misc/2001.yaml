@@ -1,0 +1,246 @@
+- id: 991
+  date: '2001-09-14'
+  band_id: 20
+  band_name: Mishouris And His Orchestra
+  band_token: mishouris-and-his-orchestra
+  club_name: Альп-Индустрия (165-0429)
+  city_id: 1
+- id: 997
+  date: '2001-09-15'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_name: Платинум-диско-гриль
+  city_id: 1
+- id: 1011
+  date: '2001-09-08'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: Rim (ул. Думская, 9, м. Гостиный двор)
+  city_id: 2
+- id: 1028
+  date: '2001-09-29'
+  band_id: 2
+  band_name: Петрович & Blues Hammer Band
+  band_token: petrovich-blues-hammer-band
+  club_name: Платинум-диско-гриль
+  city_id: 1
+- id: 1033
+  date: '2001-09-28'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Рок-Вегас
+  city_id: 1
+- id: 1037
+  date: '2001-09-25'
+  band_name: Milestones
+  club_name: Jazz Club
+  city_id: 2
+- id: 1051
+  date: '2001-09-28'
+  band_id: 20
+  band_name: Mishouris And His Orchestra
+  band_token: mishouris-and-his-orchestra
+  club_name: Формула-1
+  city_id: 1
+- id: 1067
+  date: '2001-10-03'
+  band_id: 25
+  band_name: Splash Point
+  band_token: splash-point
+  club_name: Арт-кафе Палитра
+  city_id: 2
+- id: 1072
+  date: '2001-10-05'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Арт-кафе Палитра (угол М. Морской и Невского)
+  city_id: 2
+- id: 1084
+  date: '2001-10-11'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Штопор
+  city_id: 1
+- id: 1110
+  date: '2001-10-19'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Четыре комнаты
+  city_id: 1
+- id: 1119
+  date: '2001-10-11'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Старый город (Cущевский вал 3/5)
+  city_id: 1
+  price: бесплатный
+- id: 1120
+  date: '2001-10-13'
+  band_name: 'Выставка "Музыка Москва 2001": Blues Hammer Band, Stainless Blues Band,
+    Blues Cousins, Удачное Приобретение, Mishouris & His Swinging Orchestra, Черный
+    Хлеб и Д-р Аграновский'
+  club_name: Сокольники
+  city_id: 1
+- id: 1132
+  date: '2001-10-25'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Старый Город
+  city_id: 1
+- id: 1143
+  date: '2001-11-09'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Открытие клуба ExPat
+  city_id: 1
+- id: 1144
+  date: '2001-11-01'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Гигант Холл
+  city_id: 2
+- id: 1147
+  date: '2001-11-07'
+  band_name: '12th Efes Pilsener BF: E. "King" Milton, O.Taylor, M.Hill'
+  club_name: Дворец Спорта "Юбилейный", мал. арена
+  city_id: 2
+  price: 180 руб.
+- id: 1155
+  date: '2001-11-02'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Ирландский паб "Shamrock"
+  city_id: 1
+- id: 1156
+  date: '2001-11-02'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Formula 1
+  city_id: 1
+- id: 1226
+  date: '2001-11-16'
+  band_id: 6
+  band_name: Вольный Стиль
+  band_token: volnyj-stil
+  club_name: Старый Город (ул. Сущевский вал, д. 3/5)
+  city_id: 1
+- id: 1227
+  date: '2001-11-16'
+  band_id: 6
+  band_name: Вольный Стиль
+  band_token: volnyj-stil
+  club_name: Формула 1
+  city_id: 1
+- id: 1229
+  date: '2001-11-23'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Старый Город
+  city_id: 1
+- id: 1230
+  date: '2001-11-28'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Shamrock
+  city_id: 1
+- id: 1231
+  date: '2001-11-30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Старый Город
+  city_id: 1
+- id: 1235
+  date: '2001-12-14'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Вестерн
+  city_id: 1
+- id: 1238
+  date: '2001-12-27'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Вестерн
+  city_id: 1
+- id: 1250
+  date: '2001-11-27'
+  band_name: 'J.Hendrix birthday party - Разные группы - Джем '
+  club_name: Концертный зал, пл. Ленина, 1, тел. 542-0944
+  city_id: 2
+- id: 1283
+  date: '2001-12-03'
+  band_id: 14
+  band_name: The Evergreens
+  band_token: the-evergreens
+  club_name: Матрица
+  city_id: 1
+  price: 100 руб.
+- id: 1285
+  date: '2001-12-06'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_name: Старый Город
+  city_id: 1
+- id: 1288
+  date: '2001-12-12'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Shamrock
+  city_id: 1
+- id: 1292
+  date: '2001-12-28'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Старый Город
+  city_id: 1
+- id: 1294
+  date: '2001-12-08'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Бункер
+  city_id: 1
+- id: 1316
+  date: '2001-12-11'
+  band_id: 34
+  band_name: J.A.M.
+  band_token: jam
+  club_name: МАТРИЦА
+  city_id: 1
+  price: 100 руб.
+- id: 1330
+  date: '2001-12-19'
+  band_name: Alexander Gensler Blues
+  club_name: Chaplin Club
+  city_id: 2
+- id: 1331
+  date: '2001-12-19'
+  band_name: Blues Cousins (Москва)
+  club_name: Gigant Hall
+  city_id: 2
+- id: 1362
+  date: '2001-12-27'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Вестерн - КОНЦЕРТ ОТМЕНЕН
+  city_id: 1

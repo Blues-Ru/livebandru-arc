@@ -1,0 +1,27 @@
+id: 240
+token: reddish-avenue
+name: Reddish Avenue
+alive: true
+city_id: 1
+genre_id: 5
+clips:
+- id: 743
+  type: mp3
+  url: reddish-avenue.mp3
+  name: Reggae, reggae
+  sort_order: 99
+- id: 744
+  type: mp3
+  url: reddish-avenue-2.mp3
+  name: Guilty Though Guiltless
+  sort_order: 199
+- id: 745
+  type: mp3
+  url: reddish-avenue-3.mp3
+  name: Iration Stuff
+  sort_order: 299
+- id: 746
+  type: weblink
+  url: http://vk.com/club6264695
+  name: Страница ВКонтакте
+  sort_order: 99

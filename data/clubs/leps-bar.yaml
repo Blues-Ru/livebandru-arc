@@ -1,0 +1,14 @@
+id: 743
+token: leps-bar
+name: Leps Bar
+alive: true
+address: ул. Красная Пресня, д. 23, стр. 1, корп.Б
+subway: Улица 1905 года, Краснопресненская
+phone: +7(499)252-12-14, (495)970-39-18
+city_id: 1
+clips:
+- id: 5018
+  type: weblink
+  url: http://leps-bar.ru
+  name: Официальный сайт
+  sort_order: 0

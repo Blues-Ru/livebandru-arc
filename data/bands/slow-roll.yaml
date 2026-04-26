@@ -1,0 +1,17 @@
+id: 422
+token: slow-roll
+name: Slow Roll
+alive: true
+url: http://slowroll.kiev.ua/
+city_id: 16
+genre_id: 1
+clips:
+- id: 1960
+  type: weblink
+  url: http://slowroll.kiev.ua/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1961
+  type: rss
+  url: http://community.livejournal.com/slowroll/data/rss
+  sort_order: 99

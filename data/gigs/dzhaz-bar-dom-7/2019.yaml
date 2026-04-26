@@ -1,0 +1,1576 @@
+- id: 77132
+  date: '2019-02-01'
+  time: '21:30'
+  band_name: Trombonissimo - Вячеслав Лисаченко, Александр Козлов
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77134
+  date: '2019-02-03'
+  time: '21:30'
+  band_name: Resonant Emotions Quartet Вячеслава Ипатова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 681
+    name: Септет Вячеслава Ипатова
+    token: ipatov-septet
+- id: 77135
+  date: '2019-02-04'
+  time: '21:30'
+  band_name: Organ Trio Константина Маминова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77146
+  date: '2019-02-15'
+  time: '21:30'
+  band_name: Квaртет Кирилла Бубякина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77148
+  date: '2019-02-17'
+  time: '21:30'
+  band_name: Квартет Константина Хазановича (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77149
+  date: '2019-02-18'
+  time: '21:30'
+  band_name: Трио Андрея Марухина (фортепиано, Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77150
+  date: '2019-02-19'
+  time: '21:30'
+  band_name: Трио Александра Алексеева (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77151
+  date: '2019-02-20'
+  time: '21:30'
+  band_name: Квартет Юрия Богатырева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77152
+  date: '2019-02-21'
+  time: '21:30'
+  band_name: Квартет Николая Поправко (саксофон), Александра Беренсона (труба)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77133
+  date: '2019-02-02'
+  time: '21:30'
+  band_name: '"Shoobedoobe" Натальи Родиной (вокал)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77136
+  date: '2019-02-05'
+  time: '21:30'
+  band_name: Трио Анны Новожиловой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77137
+  date: '2019-02-06'
+  time: '21:30'
+  band_name: Квартет Алексея Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77138
+  date: '2019-02-07'
+  time: '21:30'
+  band_name: Квартет Сергея Баулина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77139
+  date: '2019-02-08'
+  time: '21:30'
+  band_name: Квартет Влада Колчина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77140
+  date: '2019-02-09'
+  time: '21:30'
+  band_name: '"Tribute To Stan Getz" Андрея Половко (саксофон)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77141
+  date: '2019-02-10'
+  time: '21:30'
+  band_name: '"Чистый Проект" Ивана Васильева (труба)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77142
+  date: '2019-02-11'
+  time: '21:30'
+  band_name: Трио Николая Сизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77143
+  date: '2019-02-12'
+  time: '21:30'
+  band_name: Amelie Acoustic Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77144
+  date: '2019-02-13'
+  time: '21:30'
+  band_name: Квартет Аллы Туровской (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77145
+  date: '2019-02-14'
+  time: '21:30'
+  band_name: Квартет Марины Малышевой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77147
+  date: '2019-02-16'
+  time: '21:30'
+  band_name: 'Вечер Аккордионного Джаза: Николай Мирошник, Анатолий Мачуленко (Москва)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77153
+  date: '2019-02-22'
+  time: '21:30'
+  band_name: Квинтет Михаила Костюшкина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77154
+  date: '2019-02-23'
+  time: '21:30'
+  band_name: Квинтет Дмитрия Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77155
+  date: '2019-02-24'
+  time: '21:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77156
+  date: '2019-02-25'
+  time: '21:30'
+  band_name: Organ Trio Екатерины Мыльниковой (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77157
+  date: '2019-02-26'
+  time: '21:30'
+  band_name: Трио Даниила Клешнина (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77158
+  date: '2019-02-27'
+  time: '21:30'
+  band_name: Трио Гасана Багирова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77159
+  date: '2019-02-28'
+  time: '21:30'
+  band_name: Квинтет Антона Боярских (тромбон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77160
+  date: '2019-02-10'
+  time: '14:00'
+  band_name: '"Джаз Детям" Олега Кувайцева (саксофон)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77161
+  date: '2019-02-01'
+  time: '23:30'
+  band_name: Квинтет Надежды Овчарук (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77162
+  date: '2019-02-02'
+  time: '23:30'
+  band_name: Квинтет Максима Титкова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77163
+  date: '2019-02-08'
+  time: '23:30'
+  band_name: Евгений Ламба Blues Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 493
+    name: Евгений Ламба Бэнд
+    token: lamba
+- id: 77164
+  date: '2019-02-09'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77165
+  date: '2019-02-15'
+  time: '23:30'
+  band_name: Niklas Winter Quartet (гитара, Финляндия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77166
+  date: '2019-02-16'
+  time: '23:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77167
+  date: '2019-02-22'
+  time: '23:30'
+  band_name: Filoritmica by Joel Gonzalez
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77168
+  date: '2019-02-23'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77746
+  date: '2019-03-01'
+  time: '21:30'
+  band_name: Квартет Валерия Нагорного (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77747
+  date: '2019-03-01'
+  time: '23:30'
+  band_id: 496
+  band_name: Black & White
+  band_token: black-n-white
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77749
+  date: '2019-03-02'
+  time: '23:30'
+  band_name: Квинтет Михаила Мелешихина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77751
+  date: '2019-03-04'
+  time: '21:30'
+  band_name: Трио Алексея Петкевича (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77748
+  date: '2019-03-02'
+  time: '21:30'
+  band_name: Квинтет Кирилла Бубякина (саксофон), Михаила Марышева (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77750
+  date: '2019-03-03'
+  time: '21:30'
+  band_name: Квартет Николая Поправко (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77752
+  date: '2019-03-05'
+  time: '21:30'
+  band_name: Las Palmas Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77858
+  date: '2019-03-04'
+  time: '21:30'
+  band_name: Трио Алексея Петкевича (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77859
+  date: '2019-03-05'
+  time: '21:30'
+  band_name: Las Palmas Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77860
+  date: '2019-03-06'
+  time: '21:30'
+  band_name: John Marshall (труба) Quartet (USA)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77861
+  date: '2019-03-07'
+  time: '21:30'
+  band_name: '"Jazz Factory" Вадима Хотина'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77862
+  date: '2019-03-08'
+  time: '21:30'
+  band_name: Квинтет Татьяны Бубельниковой
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77863
+  date: '2019-03-08'
+  time: '23:30'
+  band_name: Spb Ramblers Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77864
+  date: '2019-03-09'
+  time: '21:30'
+  band_id: 282
+  band_name: Квартет Андрея Блинчевского
+  band_token: andrey-blinchevsky
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77865
+  date: '2019-03-09'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77866
+  date: '2019-03-10'
+  time: '14:00'
+  band_name: '"What''s New" Евгения Соколова (труба)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77867
+  date: '2019-03-11'
+  time: '21:30'
+  band_name: Трио Алексея Никонова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77868
+  date: '2019-03-12'
+  time: '21:30'
+  band_name: Трио Руслана Воротникова (фортепиано) (Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77869
+  date: '2019-03-13'
+  time: '21:30'
+  band_name: Квартет Александры Шакиной
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77870
+  date: '2019-03-14'
+  time: '21:30'
+  band_name: Квартет Виктории Урусовой
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 77871
+  date: '2019-03-15'
+  time: '21:30'
+  band_name: Квинтет Дмитрия Носкова "Tribute To Frank Sinatra"
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77872
+  date: '2019-03-15'
+  time: '23:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77873
+  date: '2019-03-16'
+  time: '21:30'
+  band_name: New-Z Quintet
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77874
+  date: '2019-03-16'
+  time: '23:30'
+  band_name: '"The Earlybird" Екатерины Самковой'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77875
+  date: '2019-03-17'
+  time: '21:30'
+  band_name: The Empathy Project
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 718
+    name: Empathy Project
+    token: empathypro
+- id: 77876
+  date: '2019-03-18'
+  time: '21:30'
+  band_name: Трио Николая Сизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77877
+  date: '2019-03-19'
+  time: '21:30'
+  band_name: Трио Ильи Щеклеина (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77878
+  date: '2019-03-20'
+  time: '21:30'
+  band_name: Квартет Евгения Стригалева (саксофон) (UK)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77881
+  date: '2019-03-22'
+  time: '23:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77882
+  date: '2019-03-23'
+  time: '21:30'
+  band_name: Квинтет Антона Сушева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77883
+  date: '2019-03-23'
+  time: '23:30'
+  band_name: Группа "Forest Gump" И Дядя Миша Чернов (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 23
+    name: Forrest Gump
+    token: forrest-gump
+- id: 77884
+  date: '2019-03-24'
+  time: '14:00'
+  band_name: '"Джаз Детям" Квинтет Олега Кувайцева'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77885
+  date: '2019-03-24'
+  time: '21:30'
+  band_name: Наталья Хомулло (вокал), Виталий Прусаков (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77886
+  date: '2019-03-25'
+  time: '21:30'
+  band_name: Трио Андрея Рябова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77887
+  date: '2019-03-26'
+  time: '21:30'
+  band_name: Трио Джерри Кима (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77888
+  date: '2019-03-27'
+  time: '21:30'
+  band_name: Квартет Ильи Луштака (гитара) (USA)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77889
+  date: '2019-03-28'
+  time: '21:30'
+  band_name: Квинтет Игоря Шилова (труба)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77890
+  date: '2019-03-29'
+  time: '21:30'
+  band_name: Квинтет Виктора Матвеева (гитара), Дмитрия Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77891
+  date: '2019-03-29'
+  time: '23:30'
+  band_name: '"Filoritmica" By Joel Gonzalez (Сuba)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77892
+  date: '2019-03-30'
+  time: '21:30'
+  band_name: Квинтет Андрея Зимовца (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77893
+  date: '2019-03-30'
+  time: '23:30'
+  band_name: Квинтет Михаила Костюшкина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77894
+  date: '2019-03-31'
+  time: '21:30'
+  band_name: Квартет Ирины Тищенко (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77879
+  date: '2019-03-21'
+  time: '21:30'
+  band_name: Todd Herbert Quartet (саксофон) (USA)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 77880
+  date: '2019-03-22'
+  time: '21:30'
+  band_name: Квартет Алексея Самарина
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78361
+  date: '2019-04-01'
+  time: '21:30'
+  band_name: Трио Марка Петрова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78362
+  date: '2019-04-02'
+  time: '21:30'
+  band_name: Трио Александра Алексеева (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78363
+  date: '2019-04-03'
+  time: '21:30'
+  band_name: Ray Blue Quartet (США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78364
+  date: '2019-04-04'
+  time: '21:30'
+  band_name: Dwayne Clemons - Ilya Lushtak Quintet (США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78365
+  date: '2019-04-05'
+  time: '21:30'
+  band_name: Квинтет Полины Ильиной (вокал) - Дениса Кузьмина (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78366
+  date: '2019-04-05'
+  time: '23:30'
+  band_name: Евгений Ламба Blues Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 493
+    name: Евгений Ламба Бэнд
+    token: lamba
+- id: 78367
+  date: '2019-04-06'
+  time: '21:30'
+  band_name: Чижик Джаз Квартет
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 78368
+  date: '2019-04-06'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78369
+  date: '2019-04-07'
+  time: '21:30'
+  band_name: Квартет Андрея Зимовца (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78370
+  date: '2019-04-08'
+  time: '21:30'
+  band_name: Трио Ирины Марголиной (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78371
+  date: '2019-04-09'
+  time: '21:30'
+  band_name: Трио Александра Соболевского (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78372
+  date: '2019-04-10'
+  time: '21:30'
+  band_name: Amelie Acoustic Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78373
+  date: '2019-04-11'
+  time: '21:30'
+  band_name: '"Polly Quartet" Полины Ковыршиной'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78374
+  date: '2019-04-12'
+  time: '21:30'
+  band_name: Квинтет Николая Поправко (саксофон) - Александра Беренсона (труба)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78375
+  date: '2019-04-12'
+  time: '23:30'
+  band_name: Filoritmika by Joel Gonzalez
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78376
+  date: '2019-04-13'
+  time: '21:30'
+  band_name: Квинтет Марины Малышевой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78377
+  date: '2019-04-13'
+  time: '23:30'
+  band_name: Ольга Пономарева и Black & White
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 497
+    name: Ольга Пономарева
+    token: olga-ponomareva
+  - id: 496
+    name: Black & White
+    token: black-n-white
+- id: 78378
+  date: '2019-04-14'
+  time: '21:30'
+  band_name: Квартет Аллы Туровской (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78379
+  date: '2019-04-15'
+  time: '21:30'
+  band_name: Трио Николая Сизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78380
+  date: '2019-04-16'
+  time: '21:30'
+  band_name: Трио Анны Новожиловой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78381
+  date: '2019-04-17'
+  time: '21:30'
+  band_name: Квартет Влада Колчина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78382
+  date: '2019-04-18'
+  time: '21:30'
+  band_name: Квартет Григория Воскобойника
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78383
+  date: '2019-04-19'
+  time: '21:30'
+  band_name: '"Quartet Nord West" Филиппа Мещерякова'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78384
+  date: '2019-04-19'
+  time: '23:30'
+  band_name: '"Paradigma" Сергея Татаринцева'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78385
+  date: '2019-04-20'
+  time: '21:30'
+  band_name: '"Shoobedoobe Jazz Band" Натальи Родиной (вокал)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78386
+  date: '2019-04-20'
+  time: '23:30'
+  band_name: Квинтет Максима Титкова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78387
+  date: '2019-04-21'
+  time: '14:00'
+  band_name: '"Джаз Детям" - квинтет Олега Кувайцева (саксофон)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78388
+  date: '2019-04-21'
+  time: '21:30'
+  band_name: Квартет Руслана Тустановского (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78389
+  date: '2019-04-22'
+  time: '21:30'
+  band_name: Трио Никиты Арефьева (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78390
+  date: '2019-04-23'
+  time: '21:30'
+  band_name: Трио Юрия Тараненко (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78391
+  date: '2019-04-24'
+  time: '21:30'
+  band_name: Квартет Надежды Кузнецовой (фортепиано, вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78392
+  date: '2019-04-25'
+  time: '21:30'
+  band_name: Квартет Дмитрия Баевского (саксофон, США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78393
+  date: '2019-04-26'
+  time: '21:30'
+  band_name: Berlin Jazz Trio by Ekkehard Wolk (фортепиано, Германия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78394
+  date: '2019-04-26'
+  time: '23:30'
+  band_name: Oleg Capovani Blues Band (Италия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78395
+  date: '2019-04-27'
+  time: '21:30'
+  band_name: Квинтет Дмитрия Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78396
+  date: '2019-04-27'
+  time: '23:30'
+  band_name: Intuitive Project (Россия) feat. Rickard Malmsten (Швеция)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78397
+  date: '2019-04-28'
+  time: '21:30'
+  band_name: Квартет Константина Хазановича
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78398
+  date: '2019-04-29'
+  time: '21:30'
+  band_name: Трио Валентина Колпашникова
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78399
+  date: '2019-04-30'
+  time: '21:30'
+  band_name: Трио Андрея Смирнова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78919
+  date: '2019-05-01'
+  time: '21:30'
+  band_name: Квартет Софьи Шустровой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78920
+  date: '2019-05-01'
+  time: '23:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78921
+  date: '2019-05-02'
+  time: '21:30'
+  band_name: Квинтет Татьяны Бубельниковой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78922
+  date: '2019-05-02'
+  time: '23:30'
+  band_name: Евгений Ламба Blues Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 493
+    name: Евгений Ламба Бэнд
+    token: lamba
+- id: 78923
+  date: '2019-05-03'
+  time: '21:30'
+  band_name: Квинтет Николая Поправко (саксофон), Александра Беренсона (труба)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78924
+  date: '2019-05-03'
+  time: '23:30'
+  band_name: Jango Friends (Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78925
+  date: '2019-05-04'
+  time: '21:30'
+  band_name: Квартет Полины Ильиной (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78926
+  date: '2019-05-04'
+  time: '23:30'
+  band_name: Forest Gump и Дядя Миша Чернов (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 23
+    name: Forrest Gump
+    token: forrest-gump
+- id: 78927
+  date: '2019-05-05'
+  time: '21:30'
+  band_name: Квартет Максима Челомина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78929
+  date: '2019-05-07'
+  time: '21:30'
+  band_name: Jazz Factory Вадима Хотина
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78930
+  date: '2019-05-08'
+  time: '21:30'
+  band_name: Квартет Александры Шакиной (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78931
+  date: '2019-05-09'
+  time: '21:30'
+  band_name: Квинтет Руслана Хаина (США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78933
+  date: '2019-05-10'
+  time: '21:30'
+  band_name: David Lyttle Trio (Ирландия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78934
+  date: '2019-05-10'
+  time: '23:30'
+  band_name: Квинтет Алексея Петкевича (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78935
+  date: '2019-05-11'
+  time: '21:30'
+  band_name: Квинтет Александра Блинчевского (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78936
+  date: '2019-05-11'
+  time: '23:30'
+  band_name: Spb Ramblers Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78937
+  date: '2019-05-12'
+  time: '21:30'
+  band_name: Квартет Алексея Самарина
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78938
+  date: '2019-05-13'
+  time: '21:30'
+  band_name: Трио Cергея Белоусова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78942
+  date: '2019-05-14'
+  time: '21:30'
+  band_name: The Real Jazz Piano Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78943
+  date: '2019-05-15'
+  time: '21:30'
+  band_name: Квартет Дарьи Захаровой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78944
+  date: '2019-05-16'
+  time: '21:30'
+  band_name: Квартет Валерия Нагорного (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78946
+  date: '2019-05-17'
+  time: '23:30'
+  band_name: Квартет Михаила Костюшкина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78947
+  date: '2019-05-18'
+  time: '21:30'
+  band_name: Квинтет Игоря Шилова (труба)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78948
+  date: '2019-05-18'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78949
+  date: '2019-05-19'
+  time: '21:30'
+  band_name: Квартет Дмитрия Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78950
+  date: '2019-05-20'
+  time: '21:30'
+  band_name: Трио Андрея Рябова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78928
+  date: '2019-05-06'
+  time: '21:30'
+  band_name: Трио Алексея Черемизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78932
+  date: '2019-05-09'
+  time: '23:30'
+  band_name: Квинтет Александра Беккера (труба), Геннадия Рубцова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78945
+  date: '2019-05-17'
+  time: '21:30'
+  band_name: '"What''s New" - Евгений Соколов (труба)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78952
+  date: '2019-05-22'
+  time: '21:30'
+  band_name: Квартет Алексея Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78959
+  date: '2019-05-26'
+  time: '14:00'
+  band_name: '"Джаз Детям" Олега Кувайцева'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78951
+  date: '2019-05-21'
+  time: '21:30'
+  band_name: Трио Андрея Зимовца (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78953
+  date: '2019-05-23'
+  time: '21:30'
+  band_name: Евгений Стригалев (саксофон), Иноземцы (Великобритания)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78955
+  date: '2019-05-24'
+  time: '21:30'
+  band_name: Микко
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78956
+  date: '2019-05-24'
+  time: '23:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78957
+  date: '2019-05-25'
+  time: '21:30'
+  band_name: Квинтет Антона Сушева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78958
+  date: '2019-05-25'
+  time: '23:30'
+  band_name: Валерий Белинов и Belinov Blues Band (США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 24
+    name: Belinov Blues Band
+    token: belinov-blues-band
+- id: 78960
+  date: '2019-05-26'
+  time: '23:30'
+  band_name: Квартет Виталия Прусакова (гитара) и Натальи Хомулло (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78961
+  date: '2019-05-27'
+  time: '21:30'
+  band_name: '"Organ Trio" Екатерины Мыльниковой (гитара)'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78962
+  date: '2019-05-28'
+  time: '21:30'
+  band_name: Трио Ильи Щеклеина (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78967
+  date: '2019-05-29'
+  time: '21:30'
+  band_name: Tom Van Der Zaal Quartet (Нидерланды)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78968
+  date: '2019-05-30'
+  time: '21:30'
+  band_name: Квартет Виктории Урусовой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+  extra_bands:
+  - id: 346
+    name: Виктория Урусова
+    token: victoria-urusova
+- id: 78969
+  date: '2019-05-31'
+  time: '21:30'
+  band_name: Квартет Марии Арт (саксофон, Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 78970
+  date: '2019-05-31'
+  time: '23:30'
+  band_name: '"Filoritmica" by Joel Gonzalez'
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79204
+  date: '2019-05-24'
+  time: '21:30'
+  band_name: Mikko Gunu Karjalainen Quintet (труба, Финляндия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79203
+  date: '2019-05-23'
+  time: '21:30'
+  band_name: Bedmakers (Франция) feat. R.Finker (саксофон), M. Werchowski (скрипка)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79728
+  date: '2019-06-02'
+  time: '21:30'
+  band_name: Квартет Николая Поправко (саксофон) и Андрея Рябова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79729
+  date: '2019-06-03'
+  time: '21:30'
+  band_name: Трио Николая Сизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79730
+  date: '2019-06-04'
+  time: '21:30'
+  band_name: Трио Александра Алексеева (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79733
+  date: '2019-06-07'
+  time: '21:30'
+  band_name: Квинтет Ивана Сивкова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79734
+  date: '2019-06-07'
+  time: '23:30'
+  band_name: Paradigma Cергея Татаринцева
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79761
+  date: '2019-06-28'
+  time: '23:30'
+  band_name: Filoritmica
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79762
+  date: '2019-06-29'
+  time: '21:30'
+  band_name: Квинтет Михаила Костюшкина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79763
+  date: '2019-06-29'
+  time: '23:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79731
+  date: '2019-06-05'
+  time: '21:30'
+  band_name: Квартет Ричи Рейнгхельта (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79732
+  date: '2019-06-06'
+  time: '21:30'
+  band_name: Квартет Анастасии Прокловой (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79735
+  date: '2019-06-08'
+  time: '21:30'
+  band_name: Квинтет О. Прилуцкого (труба) и М. Марышева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79736
+  date: '2019-06-08'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79737
+  date: '2019-06-09'
+  time: '21:30'
+  band_name: Квартет Софии Ацбехи Негги (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79738
+  date: '2019-06-10'
+  time: '21:30'
+  band_name: Jazz Organ Trio Константина Маминова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79739
+  date: '2019-06-11'
+  time: '21:30'
+  band_name: Трио Ирины Марголиной (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79740
+  date: '2019-06-12'
+  time: '21:30'
+  band_name: Квартет Руслана Тустановского (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79741
+  date: '2019-06-13'
+  time: '21:30'
+  band_name: Квартет Анны Колчиной (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79752
+  date: '2019-06-21'
+  time: '23:30'
+  band_name: Blues Clan
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79753
+  date: '2019-06-22'
+  time: '21:30'
+  band_name: Квинтет Анны Валиулиной (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79742
+  date: '2019-06-14'
+  time: '21:30'
+  band_name: Trombonissimo Вячеслав Лисаченко (тромбон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79743
+  date: '2019-06-14'
+  time: '23:30'
+  band_name: Круглоугольник
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79744
+  date: '2019-06-15'
+  time: '21:30'
+  band_name: Квартет Андрея Красильникова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79745
+  date: '2019-06-15'
+  time: '23:30'
+  band_name: Квинтет Сергея Баулина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79746
+  date: '2019-06-16'
+  time: '21:30'
+  band_id: 465
+  band_name: Квартет Владимира Нестеренко
+  band_token: kvartet-nesterenko
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79747
+  date: '2019-06-17'
+  time: '21:30'
+  band_name: Трио Джерри Кима (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79748
+  date: '2019-06-18'
+  time: '21:30'
+  band_name: Трио Гасана Багирова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79749
+  date: '2019-06-19'
+  time: '21:30'
+  band_name: Квартет Юлии Михайловской (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79750
+  date: '2019-06-20'
+  time: '21:30'
+  band_name: Квартет Евгения Стригалева (саксофон, Великобритания)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79751
+  date: '2019-06-21'
+  time: '21:30'
+  band_name: Квинтет Виктора Матвеева (гитара) - Дмитрия Попова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79754
+  date: '2019-06-22'
+  time: '23:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79755
+  date: '2019-06-23'
+  time: '21:30'
+  band_name: Francesca Todol Quartet (Италия)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79756
+  date: '2019-06-24'
+  time: '21:30'
+  band_name: Трио Ильдара Казаханова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79757
+  date: '2019-06-25'
+  time: '21:30'
+  band_name: Квартет Константина Хазановича (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79758
+  date: '2019-06-26'
+  time: '21:30'
+  band_name: Amelie Trio
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79759
+  date: '2019-06-27'
+  time: '21:30'
+  band_name: Квартет Натальи Скворцовой (фортепиано, Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79760
+  date: '2019-06-28'
+  time: '21:30'
+  band_name: Квартет Влада Колчина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79764
+  date: '2019-06-30'
+  time: '21:30'
+  band_name: Квартет Роберта Анчиполовского (саксофон, Израиль)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 79849
+  date: '2019-06-15'
+  time: '23:30'
+  band_name: Квинтет Сергея Баулина (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 80804
+  date: '2019-08-02'
+  time: '21:30'
+  band_name: Квартет Максима Юдина (вокал)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 80806
+  date: '2019-08-03'
+  time: '21:30'
+  band_name: Pre Party блюзового фестиваля "Мосты"
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 80805
+  date: '2019-08-02'
+  time: '23:30'
+  band_name: Квинтет Олега Кувайцева (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 80807
+  date: '2019-08-04'
+  time: '21:30'
+  band_name: Квартет Ильи Луштака (гитара, США)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82039
+  date: '2019-10-01'
+  time: '21:30'
+  band_name: Трио Андрея Смирнова (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82040
+  date: '2019-10-02'
+  time: '21:30'
+  band_name: Квартет Максима Титкова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82041
+  date: '2019-10-03'
+  time: '21:30'
+  band_name: Квартет Ивана Петрова (саксофон)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82042
+  date: '2019-10-04'
+  time: '22:00'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82043
+  date: '2019-10-05'
+  time: '21:30'
+  band_name: Квинтет Анастасии Лютовой (вокал, Москва)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82044
+  date: '2019-10-06'
+  time: '21:30'
+  band_name: Квартет Алексея Петкевича (гитара)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7
+- id: 82045
+  date: '2019-10-07'
+  time: '21:30'
+  band_name: Трио Николая Сизова (фортепиано)
+  club_id: 678
+  club_name: Джаз-бар Дом 7
+  club_token: dzhaz-bar-dom-7

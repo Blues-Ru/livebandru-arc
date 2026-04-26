@@ -1,0 +1,13 @@
+id: 244
+token: a-cafe
+name: А кафе
+alive: true
+address: Просп. Октября, 75
+phone: (347) 244-54-45
+city_id: 37
+clips:
+- id: 561
+  type: weblink
+  url: http://www.a-kafe.ru/
+  name: Официальный сайт
+  sort_order: 0

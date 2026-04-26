@@ -1,0 +1,72 @@
+- id: 12803
+  date: '2010-09-12'
+  time: '19:00'
+  band_name: Sum 41
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12804
+  date: '2010-09-24'
+  time: '21:00'
+  band_id: 148
+  band_name: Музыкальный коллектив Петра Налича
+  band_token: petr-nalich
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 13249
+  date: '2010-10-24'
+  time: '19:00'
+  band_id: 296
+  band_name: Gary Moore
+  band_token: gary-moore
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 12802
+  date: '2010-09-07'
+  time: '20:00'
+  band_id: 200
+  band_name: Земфира
+  band_token: zemfira
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12833
+  date: '2010-09-10'
+  time: '23:00'
+  band_name: Tiеstо
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12834
+  date: '2010-09-18'
+  time: '20:00'
+  band_name: Dub FX and Friends
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12835
+  date: '2010-09-25'
+  time: '19:00'
+  band_name: Kreator
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12836
+  date: '2010-09-26'
+  time: '19:30'
+  band_name: 65daysofstatic
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club
+- id: 12837
+  date: '2010-10-01'
+  band_name: Океан Ельзы
+  club_id: 220
+  club_name: Tele Club
+  club_token: tele-club

@@ -1,0 +1,39 @@
+- id: 15897
+  date: '2011-03-05'
+  time: '18:00'
+  band_name: Monsieur D'Art, Malefic House, Своя Философия,  Main road, GrishaBend,
+    Вольный художник, The Hollystoun.
+  club_id: 387
+  club_name: Кратер
+  club_token: crater
+  price: 200 руб.
+  extra_bands:
+  - id: 386
+    name: Main Road
+    token: main-road
+- id: 19915
+  date: '2011-06-11'
+  time: '19:00'
+  band_name: Шпроты, не пОшло, Indastrium, Двинь Бабе, Main Road
+  club_id: 387
+  club_name: Кратер
+  club_token: crater
+  price: 150 руб.
+  extra_bands:
+  - id: 386
+    name: Main Road
+    token: main-road
+- id: 21691
+  date: '2011-09-04'
+  time: '18:00'
+  band_name: Main Road, Malefic House, The hollystoun, Monsieur D'Art, Lighthouse
+  club_id: 387
+  club_name: Кратер
+  club_token: crater
+  price: 200 руб.
+  comments: "Блюз фестиваль - 2. \r\nCпец гость : Алексей Н.(г. Саратов) \r\nИнформационная\
+    \ поддержка : радио Самара Максимум и рекламное агентство \"Снег\""
+  extra_bands:
+  - id: 386
+    name: Main Road
+    token: main-road

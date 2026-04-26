@@ -1,0 +1,14 @@
+- id: 80784
+  date: '2019-09-27'
+  time: '19:00'
+  band_name: 'Программа "Диалог со свингом": Ленинградский диксиленд п/у Олега Кувайцева;
+    Jazz Philharmonic Оrchestra п/у Кирилла Бубякина, John Marshall (труба, США) и
+    Michelle Walker (вокал, США)'
+  club_id: 614
+  club_name: Концертный зал Колизей
+  club_token: koncertnyj-zal-kolizej
+  comments: Ведущий - Владимир Фейертаг
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev

@@ -1,0 +1,17 @@
+id: 319
+token: victor-zinchuk
+name: Виктор Зинчук
+alive: true
+url: http://www.zinchuk.ru/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 6
+musicians:
+- name: Виктор Зинчук
+  instruments: гитара
+clips:
+- id: 1195
+  type: weblink
+  url: http://www.zinchuk.ru/
+  name: Официальный сайт
+  sort_order: 99

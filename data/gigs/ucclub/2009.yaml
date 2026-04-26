@@ -1,0 +1,102 @@
+- id: 9927
+  date: '2009-01-31'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 10592
+  date: '2009-07-17'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 10649
+  date: '2009-07-10'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 10660
+  date: '2009-08-22'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 10661
+  date: '2009-08-23'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 10886
+  date: '2009-10-01'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 500 руб.
+- id: 10887
+  date: '2009-10-02'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 500 руб.
+- id: 11050
+  date: '2009-11-20'
+  time: '20:30'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 11280
+  date: '2009-12-04'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 11281
+  date: '2009-12-24'
+  time: '20:30'
+  band_name: Большой акустический джем. Петрович, Наталья Липницкая, Вадим Иващенко,
+    Юрий Каверкин и группа Hot Rod Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin

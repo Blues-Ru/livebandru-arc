@@ -1,0 +1,183 @@
+id: 313
+token: the-helsinki-cowboys
+name: The Helsinki Cowboys
+aliases: ритм-энд-блюз бэнд
+alive: true
+city_id: 1
+genre_id: 8
+secondary_genre_id: 3
+musicians:
+- name: KOZLOV
+  instruments: вокал, гармоника
+- name: EUGENE
+  instruments: гитара
+- name: BRAT
+  instruments: бас
+- name: PUTIN
+  instruments: барабаны
+clips:
+- id: 1125
+  type: weblink
+  url: http://vk.com/helsinkicowboys
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1385
+  type: photo
+  url: the-helsinki-cowboys.jpg
+  sort_order: 1500
+  width: 848
+  height: 480
+- id: 1388
+  type: photo
+  url: the-helsinki-cowboys-2.jpg
+  sort_order: 300
+  width: 402
+  height: 402
+- id: 1389
+  type: photo
+  url: the-helsinki-cowboys-4.jpg
+  sort_order: 400
+  width: 402
+  height: 604
+- id: 1390
+  type: photo
+  url: the-helsinki-cowboys-5.jpg
+  sort_order: 500
+  width: 768
+  height: 768
+- id: 1391
+  type: photo
+  url: the-helsinki-cowboys-6.jpg
+  sort_order: 600
+  width: 344
+  height: 344
+- id: 1392
+  type: photo
+  url: the-helsinki-cowboys-7.jpg
+  sort_order: 700
+  width: 2685
+  height: 1857
+- id: 1394
+  type: photo
+  url: the-helsinki-cowboys-9.jpg
+  sort_order: 900
+  width: 736
+  height: 550
+- id: 1541
+  type: photo
+  url: the-helsinki-cowboys-10.jpg
+  sort_order: 1000
+  width: 370
+  height: 401
+- id: 1542
+  type: photo
+  url: the-helsinki-cowboys-11.jpg
+  sort_order: 0
+  width: 3648
+  height: 2736
+- id: 1543
+  type: photo
+  url: the-helsinki-cowboys-12.png
+  sort_order: 1200
+  width: 836
+  height: 487
+- id: 1557
+  type: photo
+  url: the-helsinki-cowboys-13.jpg
+  sort_order: 1300
+  width: 4721
+  height: 4728
+- id: 1558
+  type: photo
+  url: the-helsinki-cowboys-14.png
+  sort_order: 1700
+  width: 584
+  height: 800
+- id: 1393
+  type: photo
+  url: the-helsinki-cowboys-8.jpg
+  sort_order: 800
+  width: 827
+  height: 617
+- id: 1588
+  type: mp3
+  url: the-helsinki-cowboys-3.mp3
+  name: Hooker
+  sort_order: 849
+- id: 1589
+  type: mp3
+  url: the-helsinki-cowboys-4.mp3
+  name: Got No Thoughts
+  sort_order: 399
+- id: 1590
+  type: mp3
+  url: the-helsinki-cowboys-5.mp3
+  name: Slightly Fat
+  sort_order: 499
+- id: 1591
+  type: mp3
+  url: the-helsinki-cowboys-6.mp3
+  name: Not Quiet Right
+  sort_order: 599
+- id: 1592
+  type: mp3
+  url: the-helsinki-cowboys-7.mp3
+  name: Like a Fork
+  sort_order: 699
+- id: 1593
+  type: mp3
+  url: the-helsinki-cowboys-8.mp3
+  name: Smells Like a Rose
+  sort_order: 799
+- id: 1596
+  type: mp3
+  url: the-helsinki-cowboys-11.mp3
+  name: On the Run
+  sort_order: 1099
+- id: 1586
+  type: mp3
+  url: the-helsinki-cowboys.mp3
+  name: Furious Cowboys
+  sort_order: 874
+- id: 1587
+  type: mp3
+  url: the-helsinki-cowboys-2.mp3
+  name: Homewardbound
+  sort_order: 0
+- id: 1761
+  type: photo
+  url: the-helsinki-cowboys-15.jpg
+  sort_order: 2100
+  width: 261
+  height: 604
+- id: 1605
+  type: mp3
+  url: the-helsinki-cowboys-13.mp3
+  name: Darling
+  sort_order: 200
+- id: 1594
+  type: mp3
+  url: the-helsinki-cowboys-9.mp3
+  name: Three Months
+  sort_order: 899
+- id: 1595
+  type: mp3
+  url: the-helsinki-cowboys-10.mp3
+  name: Wounded Cat
+  sort_order: 999
+- id: 1631
+  type: photo
+  url: the-helsinki-cowboys-16.jpg
+  sort_order: 1900
+  width: 200
+  height: 267
+- id: 1912
+  type: photo
+  url: the-helsinki-cowboys-17.jpg
+  sort_order: 2200
+  width: 200
+  height: 516
+- id: 2860
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

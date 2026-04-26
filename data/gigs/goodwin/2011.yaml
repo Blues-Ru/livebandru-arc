@@ -1,0 +1,18 @@
+- id: 16010
+  date: '2011-03-20'
+  time: '19:00'
+  band_name: Cross B Band, Денис Балахонов (Maddy Daddy Band), Алексей Гудимов (Long
+    Way)
+  club_id: 400
+  club_name: Гудвин
+  club_token: goodwin
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 393
+    name: Maddy Daddy Band
+    token: maddy-daddy
+  - id: 394
+    name: Long Way
+    token: long-way

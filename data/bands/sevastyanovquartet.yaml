@@ -1,0 +1,25 @@
+id: 544
+token: sevastyanovquartet
+name: Квартет Юрия Севастьянова
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Юрий Севастьянов
+  instruments: тенор и сопрано саксофоны
+- name: Петр Талалай
+  instruments: ударные
+- name: Алексей Наджаров
+  instruments: клавишные, электроника
+- name: Дмитрий Толочков
+  instruments: контрабас
+references:
+- id: 502
+  name: Живые Люди
+  token: livepeople
+- id: 541
+  name: Priot Ensemble
+  token: priot
+- id: 543
+  name: Трио Одиссея
+  token: odysseytrio

@@ -1,0 +1,273 @@
+- id: 14690
+  date: '2011-01-05'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 15151
+  date: '2011-02-05'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 18521
+  date: '2011-04-28'
+  time: '21:00'
+  band_name: Рэй Гаскинс (США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 18523
+  date: '2011-04-29'
+  time: '21:00'
+  band_name: Бинго-Бонго
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 18525
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Балканизация
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 18526
+  date: '2011-05-02'
+  time: '19:00'
+  band_name: Леонид Федоров и Владимир Волков
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19280
+  date: '2011-05-14'
+  time: '21:00'
+  band_name: Ступени
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19754
+  date: '2011-05-24'
+  time: '20:00'
+  band_name: Чэйси Лэйн, Куба
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19772
+  date: '2011-05-28'
+  time: '21:00'
+  band_name: Мадера
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19775
+  date: '2011-05-29'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19763
+  date: '2011-05-26'
+  time: '21:00'
+  band_name: Green Jazz
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 19769
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Compadres
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 20293
+  date: '2011-06-07'
+  time: '20:00'
+  band_name: Томас Мур, Grinevich Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  extra_bands:
+  - id: 341
+    name: Томас Мур
+    token: thomas-moore
+- id: 20294
+  date: '2011-06-08'
+  time: '20:00'
+  band_name: Acoustic Pleasure, We Have Facts, Summer's Almost Gone, Lost Angeles
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 20299
+  date: '2011-06-09'
+  time: '21:00'
+  band_name: Квинтет Владимира Тимофеева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 20303
+  date: '2011-06-10'
+  time: '21:00'
+  band_name: Бинго-Бонго
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 20309
+  date: '2011-06-11'
+  time: '21:00'
+  band_name: 2+1
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 20311
+  date: '2011-06-12'
+  time: '21:00'
+  band_name: Ультрафиолет
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 21459
+  date: '2011-08-18'
+  time: '21:00'
+  band_name: Week And
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 21462
+  date: '2011-08-25'
+  time: '21:00'
+  band_name: Квинтет Владимира Тимофеева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 21464
+  date: '2011-08-28'
+  time: '21:00'
+  band_name: Ре-марка
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 23156
+  date: '2011-11-11'
+  time: '21:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 23973
+  date: '2011-12-09'
+  time: '21:00'
+  band_name: Apple Jam
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 23974
+  date: '2011-12-08'
+  time: '21:00'
+  band_name: Week And и CQ Plam
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 23975
+  date: '2011-12-11'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 23976
+  date: '2011-12-14'
+  time: '21:00'
+  band_name: Silenzium
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300-350 руб.
+- id: 23979
+  date: '2011-12-18'
+  time: '21:00'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: бесплатный
+- id: 23980
+  date: '2011-12-21'
+  time: '21:00'
+  band_name: The Boys
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 300 руб.
+- id: 23977
+  date: '2011-12-16'
+  time: '21:00'
+  band_name: Empty Heads
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 23978
+  date: '2011-12-17'
+  time: '21:00'
+  band_name: Traffic
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 24116
+  date: '2011-12-25'
+  time: '21:00'
+  band_name: Католическое рождество с группой Apple Jamm
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 23477
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Женщина с бородой
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 23478
+  date: '2011-12-02'
+  time: '21:00'
+  band_name: Штрих Кот
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 250 руб.
+- id: 23479
+  date: '2011-12-04'
+  time: '21:00'
+  band_name: Александр Пушной и "Джанкой бразерс"
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 600-1000 руб.
+- id: 24266
+  date: '2011-12-31'
+  time: '21:00'
+  band_name: Мексиканский Новый Год в НИИ КуДА с группой Free Time, Евгением Collini
+    и Владимиром Дудой.
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub

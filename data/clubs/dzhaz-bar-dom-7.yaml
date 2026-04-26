@@ -1,0 +1,80 @@
+id: 678
+token: dzhaz-bar-dom-7
+name: Джаз-бар Дом 7
+alive: true
+address: Набережная канала Грибоедова, д. 7
+subway: Невский Проспект
+phone: +7(812)314-82-50
+city_id: 2
+comments: Наш джаз-бар находится рядом с храмом Спас-на-крови
+clips:
+- id: 4383
+  type: photo
+  url: dzhaz-bar-dom-7-4.jpg
+  name: only jazz...
+  sort_order: 300
+  width: 402
+  height: 604
+- id: 4378
+  type: youtube
+  url: https://vk.com/dom_7?z=video-41650767_165398897%2Fvideos-41650767
+  name: Autumn Leaves  Ф. Кувайцев, К. Хазанович
+  sort_order: 99
+- id: 4218
+  type: weblink
+  url: http://vk.com/dom_7
+  name: Официальный сайт
+  comments: http://vk.com/dom_7  https://vk.com/swing_and_dance   https://vk.com/jazz_and_wine
+  sort_order: 0
+- id: 4377
+  type: photo
+  url: dzhaz-bar-dom-7.jpg
+  name: Джаз-бар "Дом 7" Грибоедова Канала наб. 7.
+  comments: Вечерний джаз в Санкт-Петербурге...
+  sort_order: 0
+  width: 734
+  height: 485
+- id: 4379
+  type: rss
+  url: https://vk.com/jazz_and_wine
+  name: Винные вечера "Jazz&Wine"
+  comments: Джаз-бар "Дом 7" представляет новые Винные вечера "Jazz&Wine". Каждый
+    вторник воссоединяются звуки джаза и аромат прекрасного вина. Интимная, уютная
+    атмосфера дополняет эстетику ритуала питья "напитка
+  sort_order: 99
+- id: 4382
+  type: photo
+  url: dzhaz-bar-dom-7-3.jpg
+  name: интерьер джаз-бара "Дом 7"
+  sort_order: 200
+  width: 807
+  height: 538
+- id: 4385
+  type: photo
+  url: dzhaz-bar-dom-7-6.jpg
+  name: Swing&Dance вечеринки. Субботы с 00 до 04...
+  sort_order: 500
+  width: 577
+  height: 604
+- id: 4380
+  type: rss
+  url: https://vk.com/swing_and_dance
+  name: Еженедельные танцевальные вечеринки "Swing & Dance" под живую музыку
+  comments: Еженедельные танцевальные вечеринки "Swing & Dance" под живую музыку -
+    джаз. ----------------------  Любителей джазового звучания и зажигательных танцев,
+    каждую субботу ждем в джаз-баре "Дом 7".  Подо
+  sort_order: 0
+- id: 4381
+  type: photo
+  url: dzhaz-bar-dom-7-2.jpg
+  name: '"Дом 7"'
+  sort_order: 100
+  width: 796
+  height: 807
+- id: 4384
+  type: photo
+  url: dzhaz-bar-dom-7-5.jpg
+  name: концерты в джаз-баре "Дом 7"
+  sort_order: 400
+  width: 604
+  height: 403

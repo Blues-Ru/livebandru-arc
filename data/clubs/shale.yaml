@@ -1,0 +1,15 @@
+id: 835
+token: shale
+name: Арт-клуб Шале
+alive: true
+address: Электролитный проезд, д. 7, кор. 2
+subway: Нагорная
+phone: +7(495)669-78-80
+city_id: 1
+comments: На территории спорт комплекса "Кант"
+clips:
+- id: 7544
+  type: weblink
+  url: http://www.shale.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,13 @@
+id: 102
+token: apple-jack
+name: Apple Jack
+alive: true
+url: http://www.applejack.ru/
+city_id: 1
+genre_id: 10
+clips:
+- id: 20
+  type: weblink
+  url: http://www.applejack.ru/
+  name: Официальный сайт
+  sort_order: 0

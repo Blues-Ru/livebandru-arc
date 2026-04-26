@@ -1,0 +1,6237 @@
+- id: 65005
+  date: '2017-05-20'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65007
+  date: '2017-05-20'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65009
+  date: '2017-05-21'
+  time: '20:00'
+  band_name: Marakesh Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65010
+  date: '2017-05-22'
+  time: '21:00'
+  band_name: Свободный понедельNick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65011
+  date: '2017-05-23'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65012
+  date: '2017-05-25'
+  time: '20:00'
+  band_name: Катя Гордон
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65013
+  date: '2017-05-25'
+  time: '20:00'
+  band_id: 448
+  band_name: C-Jam Club Jazz Orchestra
+  band_token: cjc-jazz-orchestra
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65014
+  date: '2017-05-26'
+  time: '19:00'
+  band_name: EaZZy Top
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65015
+  date: '2017-05-26'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65016
+  date: '2017-05-26'
+  time: '21:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65025
+  date: '2017-05-30'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62923
+  date: '2017-01-13'
+  time: '20:30'
+  band_name: Salty Sea Dogs
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62924
+  date: '2017-01-13'
+  time: '21:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62925
+  date: '2017-01-14'
+  time: '19:00'
+  band_name: Александра Черноусова & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62929
+  date: '2017-01-18'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62930
+  date: '2017-01-19'
+  time: '20:00'
+  band_name: San Salvador
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62931
+  date: '2017-01-19'
+  time: '21:00'
+  band_name: LiVerion Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62914
+  date: '2017-01-23'
+  time: '21:00'
+  band_name: Свободный понедельник с Mishouris Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 62915
+  date: '2017-01-16'
+  time: '21:00'
+  band_name: Свободный понедельник с Mishouris Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 62918
+  date: '2017-01-24'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62919
+  date: '2017-01-10'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62920
+  date: '2017-01-11'
+  time: '21:00'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62926
+  date: '2017-01-14'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62927
+  date: '2017-01-14'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Д.Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 62928
+  date: '2017-01-14'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 62932
+  date: '2017-01-20'
+  time: '19:00'
+  band_name: Стереошейк
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62933
+  date: '2017-01-20'
+  time: '20:30'
+  band_name: Dr.Endo& Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 62934
+  date: '2017-01-20'
+  time: '21:30'
+  band_name: Большой концерт Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 62935
+  date: '2017-01-20'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62936
+  date: '2017-01-21'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 62937
+  date: '2017-01-21'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62938
+  date: '2017-01-21'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Петрович'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 62939
+  date: '2017-01-21'
+  time: '23:30'
+  band_name: Влад Листков Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62940
+  date: '2017-01-22'
+  time: '20:00'
+  band_name: R-Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62941
+  date: '2017-01-26'
+  time: '20:00'
+  band_name: Colobus
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62944
+  date: '2017-01-27'
+  time: '21:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62945
+  date: '2017-01-27'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62946
+  date: '2017-01-28'
+  time: '19:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62947
+  date: '2017-01-28'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62948
+  date: '2017-01-28'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: К.Федулова'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 62894
+  date: '2017-01-02'
+  time: '19:00'
+  band_name: Run, Run, Rudolph!
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62895
+  date: '2017-01-03'
+  time: '19:00'
+  band_name: Machete-Rock Show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62897
+  date: '2017-01-04'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62900
+  date: '2017-01-11'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62901
+  date: '2017-01-12'
+  time: '20:00'
+  band_name: Четвергов и его команда
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 62904
+  date: '2017-01-06'
+  time: '19:00'
+  band_name: Battle of the Bands
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62906
+  date: '2017-01-07'
+  time: '19:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62907
+  date: '2017-01-07'
+  time: '20:30'
+  band_name: Леонсия Эрденко и Газ Мануш
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62909
+  date: '2017-01-07'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62911
+  date: '2017-01-08'
+  time: '20:00'
+  band_name: Happy Birthday Elvis
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62912
+  date: '2017-01-09'
+  time: '21:00'
+  band_name: Свободный понедельник с Mishouris Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 62913
+  date: '2017-01-30'
+  time: '21:00'
+  band_name: Свободный понедельник с Mishouris Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 62896
+  date: '2017-01-04'
+  time: '19:00'
+  band_name: Rock'n'roll Time
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62898
+  date: '2017-01-18'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62899
+  date: '2017-01-25'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62902
+  date: '2017-01-05'
+  time: '19:00'
+  band_name: Same Old Blues
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62903
+  date: '2017-01-05'
+  time: '20:00'
+  band_name: Jolly Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62905
+  date: '2017-01-06'
+  time: '23:30'
+  band_name: Д.Новокольский & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62908
+  date: '2017-01-07'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Д.Малолетов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 62910
+  date: '2017-01-08'
+  time: '20:00'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62916
+  date: '2017-01-31'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62917
+  date: '2017-01-17'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62921
+  date: '2017-01-25'
+  time: '21:00'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62922
+  date: '2017-01-13'
+  time: '19:00'
+  band_name: М-Артель "Beatles on my mind"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 63016
+  date: '2017-02-12'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: от 800 руб.
+  comments: "Встречайте самый романтический праздник в году вместе с умопомрачительном\
+    \ джаз-бендом столицы!\r\n\r\nBIG CITY JAZZ SHOW - это кавер-группа, получившая\
+    \ титул \"Лучшая Кавер-группа России\" по итогам конкурса Flash Hits!\r\n\r\n\
+    Шоу, вдохновленное эпохой Великого Гэтсби, бродвейскими мюзиклами, искрометными\
+    \ джазовыми импровизациями и, конечно, современными популярными направлениями!\
+    \ \r\n\r\nМузыканты BIG CITY, собирающие от концерта к концерту полные залы, подготовили\
+    \ выступление, которое будет согревать Вас теплыми воспоминаниями! \r\n\r\nВ программе\
+    \ известные джазовые композиции, буги-вуги, соул, рок-н-ролл, джазовые интерпретации\
+    \ известных поп- и рок хитов. \r\n\r\nГоловокружительный вихрь музыки, танцев,\
+    \ интерактива со зрителями, по традиции живое выступление артистов, стильная атмосфера\
+    \ Rhythm & Blues Cafe И ПОДАРКИ наполнят вас незабываемыми эмоциями!\r\n__________________\r\
+    \n\r\nRhythm & Blues Cafe\r\n\r\nСбор гостей: в 20:00\r\n \r\nАдрес: ст. м. Александровский\
+    \ сад, Библиотека им. Ленина, Боровицкая, Староваганьковский пер., д. 19, стр.\
+    \ 2\r\n\r\nhttp://rhythm-blues-cafe.ru\r\n\r\nБилеты и заказ столиков: +7 (926)\
+    \ 555 14 15\r\n\r\nСсылка на видео BIG CITY JAZZ SHOW: \r\nhttps://youtu.be/iMXXuFiVLoM"
+- id: 62942
+  date: '2017-01-26'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62943
+  date: '2017-01-27'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 62949
+  date: '2017-01-29'
+  time: '21:00'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63143
+  date: '2017-02-04'
+  time: '19:30'
+  band_id: 720
+  band_name: Mr. KingBee
+  band_token: mr-kingbee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  comments: '"Mr. KingBee" - это: - старый добрый блюз с новым звучанием - музыка,
+    которая однажды сломала расовые предрассудки - душераздирающий плач губной гармоники
+    и чувственный вокал - рев струн и пронзающие насквозь гитарные соло - жгучая смесь
+    мощного грува барабанно-басовой секции Благодаря этому мы способны выступать в
+    разных концертных условиях: Большие сцены на многотысячных фестивалях, где ноги
+    перестанут вас слушаться под Мадди Уотерса; маленькие заведения и анти-кафе, где
+    нужно играть так тихо, что сам Сонни Бой Вильямсон II захочет прийти и сказать:
+    - "One more time" (с).'
+- id: 63155
+  date: '2017-02-20'
+  time: '21:00'
+  band_name: Dr. Nick, plays Rolling Stones
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63159
+  date: '2017-02-27'
+  time: '21:00'
+  band_name: Dr. Nick, plays Clapton & Knopfler
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63148
+  date: '2017-02-06'
+  time: '21:00'
+  band_name: Dr. Nick, plays Pink Floyd
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63151
+  date: '2017-02-13'
+  time: '21:00'
+  band_name: Dr. Nick, plays Bob Dylan
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63349
+  date: '2017-02-08'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63351
+  date: '2017-02-22'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63352
+  date: '2017-03-01'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63353
+  date: '2017-04-30'
+  time: '20:00'
+  band_id: 112
+  band_name: Калинов мост
+  band_token: kalinov-most
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63354
+  date: '2017-03-31'
+  time: '21:30'
+  band_name: Сергей Воронов & The CrossroadZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 63355
+  date: '2017-03-23'
+  time: '20:00'
+  band_name: '"Цветы" Стаса Намина'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63358
+  date: '2017-02-14'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63359
+  date: '2017-02-07'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63360
+  date: '2017-02-01'
+  time: '21:00'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63367
+  date: '2017-02-24'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63368
+  date: '2017-02-24'
+  time: '21:30'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 63369
+  date: '2017-02-24'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63371
+  date: '2017-02-23'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63373
+  date: '2017-02-22'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63374
+  date: '2017-02-08'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63375
+  date: '2017-02-21'
+  time: '20:00'
+  band_name: Сергей Канунников и Возвращение
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63376
+  date: '2017-02-19'
+  time: '19:00'
+  band_name: Екатерина Болдырева
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63377
+  date: '2017-02-19'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63378
+  date: '2017-02-18'
+  time: '23:30'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63379
+  date: '2017-02-18'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / спец. гость: Н.Липницкая'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63380
+  date: '2017-02-18'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63381
+  date: '2017-02-18'
+  time: '19:00'
+  band_name: Marina Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63382
+  date: '2017-02-17'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63383
+  date: '2017-02-17'
+  time: '21:30'
+  band_name: Red Hot Chili Peppers tribute show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63384
+  date: '2017-02-17'
+  time: '20:30'
+  band_name: Girls Get Funky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63385
+  date: '2017-02-17'
+  time: '19:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63386
+  date: '2017-02-16'
+  time: '21:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 63387
+  date: '2017-02-16'
+  time: '20:00'
+  band_name: Rockit Moscow Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63388
+  date: '2017-02-14'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63389
+  date: '2017-02-12'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63390
+  date: '2017-02-12'
+  time: '20:00'
+  band_name: Акустический концерт Бориса Булкина
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63391
+  date: '2017-02-11'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63392
+  date: '2017-02-11'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins / Спец. гость Дмитрий Малолетов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63348
+  date: '2017-02-01'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63350
+  date: '2017-02-15'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63356
+  date: '2017-02-28'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63357
+  date: '2017-02-21'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63396
+  date: '2017-02-10'
+  time: '21:30'
+  band_name: Вячесав Горский и Маша Кац. Группа "Квадро"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63397
+  date: '2017-02-10'
+  time: '20:30'
+  band_name: Четвергов и его команда
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 63399
+  date: '2017-02-09'
+  time: '21:00'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63400
+  date: '2017-02-07'
+  time: '20:00'
+  band_name: Алексей Lex Блохин. С днем рождения
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63361
+  date: '2017-02-15'
+  time: '21:00'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63362
+  date: '2017-02-28'
+  time: '20:00'
+  band_name: Алексей Витаков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63363
+  date: '2017-02-25'
+  time: '23:30'
+  band_name: Б.Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+- id: 63364
+  date: '2017-02-25'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Петрович'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63365
+  date: '2017-02-25'
+  time: '20:30'
+  band_name: British Blues Fest / Matt Taylor
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 672
+    name: Matt Taylor
+    token: matt-taylor
+- id: 63366
+  date: '2017-02-25'
+  time: '19:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63370
+  date: '2017-02-24'
+  time: '19:00'
+  band_id: 694
+  band_name: М-АРТель
+  band_token: m-artel
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63372
+  date: '2017-02-23'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63393
+  date: '2017-02-11'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63394
+  date: '2017-02-11'
+  time: '19:00'
+  band_name: MindGip
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63395
+  date: '2017-02-10'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63398
+  date: '2017-02-09'
+  time: '20:30'
+  band_name: Гастарбайтер блюз (Липецк)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+- id: 63401
+  date: '2017-02-05'
+  time: '18:00'
+  band_name: Вечер бардовской песни.Б.Бергер & М.Матвеев
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63402
+  date: '2017-02-05'
+  time: '20:00'
+  band_id: 318
+  band_name: Дмитрий Малолетов
+  band_token: maloletov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63403
+  date: '2017-02-04'
+  time: '23:30'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63407
+  date: '2017-02-03'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63409
+  date: '2017-02-03'
+  time: '20:30'
+  band_name: Classy Jazz Олега Матвеева и Дарья Дари в программе "Новоорлеанский Карнавал"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63410
+  date: '2017-02-03'
+  time: '19:00'
+  band_name: Сергей Пахомов & друзья
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63411
+  date: '2017-02-02'
+  time: '19:30'
+  band_name: 'Благотворительный концерт: "Звезды" и не только при уч. Леры Гехнер,
+    Марины Макенза и Marina Volkova Jazz Band'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63404
+  date: '2017-02-04'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / спец. гость: М.Леванов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63405
+  date: '2017-02-04'
+  time: '19:30'
+  band_name: Mr.KingBee (Ростов-на-Дону)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63406
+  date: '2017-02-04'
+  time: '19:00'
+  band_name: Aleksey Fetisov Rock-n-Roll Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63408
+  date: '2017-02-03'
+  time: '21:30'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63412
+  date: '2017-02-02'
+  time: '20:00'
+  band_name: Organ Hammond's Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63955
+  date: '2017-03-15'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63593
+  date: '2017-03-25'
+  time: '21:00'
+  band_id: 664
+  band_name: Ben Poole
+  band_token: ben-poole
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 63960
+  date: '2017-04-12'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63963
+  date: '2017-04-19'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63965
+  date: '2017-04-25'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63966
+  date: '2017-04-26'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63967
+  date: '2017-04-26'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63968
+  date: '2017-04-27'
+  time: '20:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63969
+  date: '2017-04-27'
+  time: '20:00'
+  band_name: British Blues Fest/Danny Giles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 650
+    name: Danny Giles
+    token: danny-giles
+- id: 63970
+  date: '2017-04-28'
+  time: '19:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63971
+  date: '2017-04-28'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63972
+  date: '2017-04-28'
+  time: '21:30'
+  band_name: Суп Харчо
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63973
+  date: '2017-04-28'
+  time: '23:30'
+  band_name: Майя ЗведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63982
+  date: '2017-03-03'
+  time: '19:00'
+  band_name: А.Черноусова & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63983
+  date: '2017-03-03'
+  time: '20:30'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63984
+  date: '2017-03-03'
+  time: '21:30'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63985
+  date: '2017-03-03'
+  time: '23:30'
+  band_name: Boogie-Woogie Boom
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63986
+  date: '2017-03-04'
+  time: '19:00'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63989
+  date: '2017-03-04'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63990
+  date: '2017-03-05'
+  time: '20:00'
+  band_name: A.Trubkin & Forever Monday
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63991
+  date: '2017-03-05'
+  time: '20:30'
+  band_id: 504
+  band_name: Bingo Paprika
+  band_token: bingo-paprika
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63992
+  date: '2017-03-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63993
+  date: '2017-03-07'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63994
+  date: '2017-03-14'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63996
+  date: '2017-03-28'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63998
+  date: '2017-03-08'
+  time: '21:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64000
+  date: '2017-03-10'
+  time: '19:00'
+  band_name: М-Артель. Beatles on my mind
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 64001
+  date: '2017-03-10'
+  time: '20:30'
+  band_name: Четвергов и его команда
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 64002
+  date: '2017-03-10'
+  time: '21:30'
+  band_name: The Marshmallows
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64003
+  date: '2017-03-10'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64004
+  date: '2017-03-11'
+  time: '19:00'
+  band_name: LiVersion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64005
+  date: '2017-03-11'
+  time: '20:30'
+  band_name: R-Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64006
+  date: '2017-03-11'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Дмитрий Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64007
+  date: '2017-03-11'
+  time: '23:30'
+  band_name: Борис Булкин и Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+- id: 64008
+  date: '2017-03-12'
+  time: '20:00'
+  band_name: Sax Show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64009
+  date: '2017-03-12'
+  time: '20:00'
+  band_name: Образ-Мечта
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64010
+  date: '2017-03-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64011
+  date: '2017-03-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64012
+  date: '2017-03-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64013
+  date: '2017-04-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64014
+  date: '2017-04-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64015
+  date: '2017-04-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64016
+  date: '2017-03-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64017
+  date: '2017-03-15'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64018
+  date: '2017-04-05'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64019
+  date: '2017-03-29'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64020
+  date: '2017-03-16'
+  time: '20:00'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64021
+  date: '2017-03-16'
+  time: '21:00'
+  band_id: 71
+  band_name: Арсен Шомахов
+  band_token: arsen-shomakhov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64022
+  date: '2017-03-17'
+  time: '19:00'
+  band_name: Aleksey Fetisov Rock-n-Roll Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64023
+  date: '2017-03-17'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 64024
+  date: '2017-03-17'
+  time: '21:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64025
+  date: '2017-03-17'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64026
+  date: '2017-03-18'
+  time: '19:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64027
+  date: '2017-03-18'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64028
+  date: '2017-03-18'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Сергей Манукян'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64029
+  date: '2017-03-25'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Ксения Федулова'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63954
+  date: '2017-03-08'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63957
+  date: '2017-03-29'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64030
+  date: '2017-04-01'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64032
+  date: '2017-04-15'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64036
+  date: '2017-03-19'
+  time: '20:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 64037
+  date: '2017-03-23'
+  time: '21:00'
+  band_name: Степан Гречка & Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64038
+  date: '2017-03-24'
+  time: '19:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64039
+  date: '2017-03-24'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64040
+  date: '2017-03-24'
+  time: '21:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64044
+  date: '2017-03-26'
+  time: '20:00'
+  band_name: Thomas Stwaley Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64057
+  date: '2017-04-07'
+  time: '21:30'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64058
+  date: '2017-04-07'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64060
+  date: '2017-04-08'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64062
+  date: '2017-04-13'
+  time: '20:00'
+  band_name: А.Черноусова & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64063
+  date: '2017-04-14'
+  time: '19:00'
+  band_name: Marina Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64064
+  date: '2017-04-14'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64066
+  date: '2017-04-14'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64067
+  date: '2017-04-15'
+  time: '19:00'
+  band_name: Simple Riff
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64069
+  date: '2017-04-15'
+  time: '23:30'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64078
+  date: '2017-04-22'
+  time: '20:30'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64079
+  date: '2017-04-22'
+  time: '23:30'
+  band_name: Boogie Woogie Boom
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63956
+  date: '2017-03-22'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63958
+  date: '2017-04-05'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64046
+  date: '2017-03-30'
+  time: '20:00'
+  band_name: BiG City Jazz Show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: от 800 рублей
+  comments: "Впусти в себя льющееся рекой веселье под конец рабочей недели!\r\n\r\n\
+    30 марта у Вас появится возможность скрасить трудовые будни вместе с неугомонными\
+    \ участниками шоу-оркестра, который сочетает в себе театрализованное представление,\
+    \ кавер-версии на известнейшие мировые хиты и легендарные симфонии, не теряющие\
+    \ своей вечной актуальности спустя многие десятилетия.\r\n\r\nBIG CITY JAZZ SHOW\
+    \ - это фееричный музыкальный коктейль совершенно разных музыкальных направлений:\
+    \ от зажигательного swing-a и rockabilly - до речитатива в дерзновенных hip-hop\
+    \ традициях. Это - выстрел прямиком в душу, оркестровый бунт, способный задеть\
+    \ за живое как самых искушенных меломанов, так и любителей современного звучания.\r\
+    \n\r\nНа этот раз прицел направлен прямиком на историческое сердце Москвы - Староваганьковский\
+    \ переулок, в котором в этот вечер будет как никогда шумно, ведь любой визит этих\
+    \ ребят создает мощнейший эмоциональный двигатель, мощности которого хватает еще\
+    \ на несколько недель вперед. \r\n\r\nВнесите разнообразие в воронку рабочих будней,\
+    \ превратив ее в музыкальный смерч, насыщенный блистательными, музыкальными красками."
+  extra_bands:
+  - id: 719
+    name: Big City Jazz Show
+    token: big-city-jazz-show
+- id: 64047
+  date: '2017-03-31'
+  time: '19:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64050
+  date: '2017-04-01'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 64051
+  date: '2017-04-02'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64052
+  date: '2017-04-02'
+  time: '21:00'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64053
+  date: '2017-04-06'
+  time: '20:00'
+  band_name: 'Вадим Дзуцев: концерт-презинтация нового альбома'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64055
+  date: '2017-04-07'
+  time: '19:00'
+  band_name: Mind Gap
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64056
+  date: '2017-04-07'
+  time: '20:30'
+  band_name: Гия Дзагнизде & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 64059
+  date: '2017-04-08'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63959
+  date: '2017-04-11'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63961
+  date: '2017-04-12'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63962
+  date: '2017-04-18'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63964
+  date: '2017-04-19'
+  time: '21:00'
+  band_name: Rock-n-Roll show c Д.Смагиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63978
+  date: '2017-03-01'
+  time: '21:00'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63980
+  date: '2017-03-02'
+  time: '20:00'
+  band_name: Jolly Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63987
+  date: '2017-03-04'
+  time: '20:30'
+  band_name: Diamond hand
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64045
+  date: '2017-03-30'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64048
+  date: '2017-03-31'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64049
+  date: '2017-04-01'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64054
+  date: '2017-04-06'
+  time: '20:00'
+  band_name: Цветы Стаса Намина
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63974
+  date: '2017-04-29'
+  time: '19:00'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63975
+  date: '2017-04-29'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63976
+  date: '2017-04-29'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63977
+  date: '2017-04-29'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63979
+  date: '2017-03-22'
+  time: '20:30'
+  band_name: Rockabilly Riot с В.Сеткиным
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63981
+  date: '2017-03-02'
+  time: '21:00'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63988
+  date: '2017-03-04'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Chuck Register'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 63995
+  date: '2017-03-21'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63997
+  date: '2017-04-04'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 63999
+  date: '2017-03-09'
+  time: '20:00'
+  band_name: Марат Карапетян & The Mood
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64061
+  date: '2017-04-09'
+  time: '20:00'
+  band_name: The Ivories
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64065
+  date: '2017-04-14'
+  time: '21:30'
+  band_name: Квадро при уч. Маши Кац. Концерт в честь дня рождения Вячеслава Горского
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64068
+  date: '2017-04-15'
+  time: '20:30'
+  band_name: British Blues Fest / Giles Robson
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 643
+    name: Giles Robson
+    token: giles-robson
+- id: 64070
+  date: '2017-04-16'
+  time: '20:00'
+  band_name: Дмитрий Варшавский и Черный Кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64071
+  date: '2017-04-18'
+  time: '20:00'
+  band_name: Сергей Канунников и Возвращение
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64072
+  date: '2017-04-20'
+  time: '20:00'
+  band_id: 347
+  band_name: Маша и Медведи
+  band_token: masha-i-medvedi
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64073
+  date: '2017-04-21'
+  time: '19:00'
+  band_name: М-Артель
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 64075
+  date: '2017-04-21'
+  time: '21:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64076
+  date: '2017-04-21'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64077
+  date: '2017-04-22'
+  time: '19:00'
+  band_name: Jolly Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64031
+  date: '2017-04-08'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64033
+  date: '2017-04-22'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Counsins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64034
+  date: '2017-03-18'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64035
+  date: '2017-03-19'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64041
+  date: '2017-03-24'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64042
+  date: '2017-03-25'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 64043
+  date: '2017-03-25'
+  time: '20:30'
+  band_name: British Blues Fest /Ben Pool
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64074
+  date: '2017-04-21'
+  time: '20:30'
+  band_name: Aleksey Fetisov Rock-n-Roll Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64080
+  date: '2017-04-23'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64956
+  date: '2017-05-03'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64962
+  date: '2017-05-17'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64967
+  date: '2017-05-04'
+  time: '20:00'
+  band_name: LiVersion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64968
+  date: '2017-05-31'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64969
+  date: '2017-05-31'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64970
+  date: '2017-05-04'
+  time: '20:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 64971
+  date: '2017-05-05'
+  time: '19:00'
+  band_name: Simple Riff
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64973
+  date: '2017-05-05'
+  time: '21:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65002
+  date: '2017-05-19'
+  time: '21:30'
+  band_name: Red Hot Chili Peppers tribute show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65004
+  date: '2017-05-20'
+  time: '19:00'
+  band_name: Светлана Жаворонкова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64731
+  date: '2017-06-02'
+  time: '21:00'
+  band_id: 656
+  band_name: Tom Attah
+  band_token: tom-attah
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-1500
+- id: 64954
+  date: '2017-05-02'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64955
+  date: '2017-05-03'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64957
+  date: '2017-05-09'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64958
+  date: '2017-05-10'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64959
+  date: '2017-05-10'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64960
+  date: '2017-05-16'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64961
+  date: '2017-05-17'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64963
+  date: '2017-05-23'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64964
+  date: '2017-05-24'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64965
+  date: '2017-05-24'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64966
+  date: '2017-05-30'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64972
+  date: '2017-05-05'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64974
+  date: '2017-05-05'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64975
+  date: '2017-05-06'
+  time: '19:00'
+  band_name: Blues Family (Воронеж)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64976
+  date: '2017-05-06'
+  time: '20:30'
+  band_name: Амели на мели
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64977
+  date: '2017-05-06'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Cousins, Спец.гость: Дмитрий Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64978
+  date: '2017-05-06'
+  time: '23:30'
+  band_name: Алексей Фетисов рок-н-ролл трио
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64979
+  date: '2017-05-07'
+  time: '20:00'
+  band_name: Child of Books
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64980
+  date: '2017-05-07'
+  time: '20:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64981
+  date: '2017-05-08'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64982
+  date: '2017-05-08'
+  time: '21:00'
+  band_name: Свободный понедельNick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64983
+  date: '2017-05-09'
+  time: '12:00'
+  band_name: Fortuna brass band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64984
+  date: '2017-05-09'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64985
+  date: '2017-05-11'
+  time: '20:00'
+  band_name: Jolly Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64986
+  date: '2017-05-11'
+  time: '20:00'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64987
+  date: '2017-05-12'
+  time: '19:00'
+  band_name: Черноусова & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64988
+  date: '2017-05-12'
+  time: '20:30'
+  band_name: Dr.Endo & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 64989
+  date: '2017-05-12'
+  time: '21:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64990
+  date: '2017-05-12'
+  time: '23:30'
+  band_name: The Stingers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64991
+  date: '2017-05-13'
+  time: '19:00'
+  band_name: Сергей Пахомов & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64992
+  date: '2017-05-13'
+  time: '20:30'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64993
+  date: '2017-05-13'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Cousins, спец.гость: Наталья Липницкая'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 64994
+  date: '2017-05-13'
+  time: '23:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64995
+  date: '2017-05-14'
+  time: '20:00'
+  band_name: Брат Бородат (Dasvidos)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64996
+  date: '2017-05-15'
+  time: '20:00'
+  band_name: Утехин-бэндЪ и Наталья Скворцова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64997
+  date: '2017-05-15'
+  time: '21:00'
+  band_name: Свободный понедельNick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64998
+  date: '2017-05-16'
+  time: '20:00'
+  band_name: Вечер авторской песни
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 64999
+  date: '2017-05-18'
+  time: '20:00'
+  band_name: Михаил Кистанов и Ксения Федулова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 65000
+  date: '2017-05-18'
+  time: '20:00'
+  band_name: Classy Jazz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65001
+  date: '2017-05-19'
+  time: '19:00'
+  band_name: Ольга Лисикова & Gracious
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65003
+  date: '2017-05-19'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65006
+  date: '2017-05-20'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Cousins, спец.гость: Е.Фомина'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 65008
+  date: '2017-05-21'
+  time: '20:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65017
+  date: '2017-05-26'
+  time: '23:30'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65018
+  date: '2017-05-27'
+  time: '19:00'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65019
+  date: '2017-05-27'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65020
+  date: '2017-05-27'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Cousins, спец.гость: Михаил "Петрович" Соколов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 65021
+  date: '2017-05-27'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65022
+  date: '2017-05-28'
+  time: '20:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65023
+  date: '2017-05-28'
+  time: '20:00'
+  band_name: I Love 60
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65024
+  date: '2017-05-29'
+  time: '21:00'
+  band_name: Свободный понедельNick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65428
+  date: '2017-06-02'
+  time: '20:30'
+  band_id: 725
+  band_name: Jack J Hutchinson
+  band_token: jack-j-hutchinson
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 65517
+  date: '2017-06-11'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1100 руб.
+- id: 65469
+  date: '2017-06-09'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+- id: 65949
+  date: '2017-06-01'
+  time: '19:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65950
+  date: '2017-06-01'
+  time: '21:00'
+  band_name: Концерт-посвящение Майлзу Девису
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65951
+  date: '2017-06-01'
+  time: '21:00'
+  band_name: Latino - Rock Show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65952
+  date: '2017-06-02'
+  time: '19:30'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 65953
+  date: '2017-06-03'
+  time: '22:00'
+  band_name: Леван Ломидзе & Blues Counsins / Дмитрий Четвергов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 65954
+  date: '2017-06-03'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65955
+  date: '2017-06-04'
+  time: '19:00'
+  band_name: М-Артель. Beatles old my mind
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 65956
+  date: '2017-06-04'
+  time: '20:00'
+  band_name: Ivories
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 65957
+  date: '2017-06-12'
+  time: '21:00'
+  band_name: Fortuna Brass
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66034
+  date: '2017-06-08'
+  time: '21:00'
+  band_name: The Mood
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 66035
+  date: '2017-06-09'
+  time: '19:30'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 66036
+  date: '2017-06-09'
+  time: '21:00'
+  band_name: 26 HerZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+  extra_bands:
+  - id: 61
+    name: 26 Герц
+    token: 26herz
+- id: 66040
+  date: '2017-06-10'
+  time: '23:30'
+  band_name: С.Пахомов & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 66033
+  date: '2017-06-08'
+  time: '19:30'
+  band_name: Django Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 66037
+  date: '2017-06-09'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: бесплатный
+- id: 66038
+  date: '2017-06-10'
+  time: '19:00'
+  band_name: Sunshine Special
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 500 руб.
+- id: 66039
+  date: '2017-06-10'
+  time: '21:00'
+  band_name: 'Л.Ломидзе & Blues Counsins/Спец.гость: Дмитрий Малолетов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000 руб.
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+- id: 66079
+  date: '2017-07-09'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 800 руб.
+- id: 66450
+  date: '2017-07-02'
+  time: '19:00'
+  band_name: БМВ (бэнд Михаила Владимирова)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 728
+    name: Бэнд Михаила Владимирова
+    token: bmv
+- id: 66451
+  date: '2017-07-01'
+  time: '23:30'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66462
+  date: '2017-07-12'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66464
+  date: '2017-07-18'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66465
+  date: '2017-08-01'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66478
+  date: '2017-07-13'
+  time: '19:30'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66479
+  date: '2017-07-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66480
+  date: '2017-07-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66482
+  date: '2017-07-31'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66485
+  date: '2017-07-14'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66486
+  date: '2017-07-14'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66489
+  date: '2017-07-15'
+  time: '21:00'
+  band_name: Леван Ломидзе & Blues Counsins, спец. гость:Charles Register
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 66490
+  date: '2017-07-15'
+  time: '23:30'
+  band_name: Борис Булкин& Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 66491
+  date: '2017-07-16'
+  time: '19:00'
+  band_name: Sax Show Михаила Леванова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66493
+  date: '2017-07-20'
+  time: '19:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66494
+  date: '2017-07-20'
+  time: '21:00'
+  band_name: Дмитрий Варшавский & Черный кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66495
+  date: '2017-07-21'
+  time: '19:30'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66499
+  date: '2017-07-22'
+  time: '19:00'
+  band_name: The Beatles on my mind
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66500
+  date: '2017-07-22'
+  time: '21:00'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Сергей Манукян'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 66501
+  date: '2017-07-22'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66502
+  date: '2017-07-23'
+  time: '19:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66504
+  date: '2017-07-27'
+  time: '19:30'
+  band_name: Television
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66505
+  date: '2017-07-27'
+  time: '21:00'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66508
+  date: '2017-07-28'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66509
+  date: '2017-07-28'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66447
+  date: '2017-07-01'
+  time: '19:00'
+  band_name: Mishouris Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66476
+  date: '2017-07-08'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66477
+  date: '2017-07-09'
+  time: '19:00'
+  band_name: I love 60
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66481
+  date: '2017-07-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66483
+  date: '2017-07-13'
+  time: '21:00'
+  band_name: Светлана Жаворонкова & Electric Soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66484
+  date: '2017-07-14'
+  time: '21:00'
+  band_name: Alex Paclin Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66487
+  date: '2017-07-15'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 66488
+  date: '2017-07-15'
+  time: '21:00'
+  band_name: Михаил Кистанов трио с новой программой
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 66492
+  date: '2017-07-16'
+  time: '20:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66496
+  date: '2017-07-21'
+  time: '21:00'
+  band_name: Stone Shades / The Rolling Stones - 55
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66497
+  date: '2017-07-21'
+  time: '21:00'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 66498
+  date: '2017-07-21'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66503
+  date: '2017-07-23'
+  time: '20:00'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66506
+  date: '2017-07-28'
+  time: '19:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66507
+  date: '2017-07-28'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66510
+  date: '2017-07-29'
+  time: '19:00'
+  band_name: Dr.Endo & Dreamteam
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 66511
+  date: '2017-07-29'
+  time: '21:00'
+  band_name: The Bastards
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66512
+  date: '2017-07-29'
+  time: '21:00'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Дмитрий Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 66513
+  date: '2017-07-29'
+  time: '23:30'
+  band_name: Jolli Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66514
+  date: '2017-07-30'
+  time: '19:00'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66448
+  date: '2017-07-01'
+  time: '21:00'
+  band_name: Moscow Rockit Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66449
+  date: '2017-07-01'
+  time: '21:00'
+  band_name: Л.Ломидзе & Blues Counsins, спец. гость - Петрович
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 66452
+  date: '2017-07-02'
+  time: '21:00'
+  band_name: С.Пахомов & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66453
+  date: '2017-07-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66454
+  date: '2017-07-04'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66455
+  date: '2017-07-05'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66456
+  date: '2017-07-05'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66457
+  date: '2017-07-12'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66458
+  date: '2017-07-19'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66459
+  date: '2017-07-26'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66460
+  date: '2017-07-26'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66461
+  date: '2017-07-19'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66463
+  date: '2017-07-11'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66466
+  date: '2017-07-25'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66467
+  date: '2017-07-06'
+  time: '19:30'
+  band_name: El Sur
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66468
+  date: '2017-07-06'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66469
+  date: '2017-07-07'
+  time: '19:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66470
+  date: '2017-07-07'
+  time: '21:00'
+  band_name: The Match Box Cover Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66471
+  date: '2017-07-07'
+  time: '21:00'
+  band_name: Вадим Иващенко & The Boneshakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 66472
+  date: '2017-07-07'
+  time: '23:30'
+  band_name: Rock Bar Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66473
+  date: '2017-07-08'
+  time: '21:00'
+  band_name: Петрович & Rod Hot Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 66474
+  date: '2017-07-08'
+  time: '19:00'
+  band_name: '"Юнона и Авось" (концертная версия рок-оперы-театра А. Рыбникова)'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66475
+  date: '2017-07-08'
+  time: '22:00'
+  band_name: Леван Ломидзе & Blues Counsins, спец. гость:Родион Гоборов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 66596
+  date: '2017-07-23'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: от 800
+- id: 66980
+  date: '2017-08-02'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66981
+  date: '2017-08-09'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66982
+  date: '2017-08-30'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66983
+  date: '2017-08-23'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66984
+  date: '2017-08-16'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66985
+  date: '2017-08-31'
+  time: '19:30'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66988
+  date: '2017-08-30'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66989
+  date: '2017-08-23'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66990
+  date: '2017-08-16'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66991
+  date: '2017-08-09'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66992
+  date: '2017-08-02'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66993
+  date: '2017-08-27'
+  time: '19:00'
+  band_name: I love 60*
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66994
+  date: '2017-08-27'
+  time: '20:00'
+  band_name: The Shufflemakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66986
+  date: '2017-09-16'
+  time: '19:00'
+  band_name: Рок-опера "Хоакин Мурьета"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66987
+  date: '2017-08-31'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66995
+  date: '2017-08-29'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66996
+  date: '2017-08-22'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66997
+  date: '2017-08-15'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66998
+  date: '2017-08-08'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 66999
+  date: '2017-08-03'
+  time: '19:30'
+  band_name: DjangoFriends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67000
+  date: '2017-08-03'
+  time: '20:00'
+  band_name: The MatchBoxCovers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67001
+  date: '2017-08-04'
+  time: '19:30'
+  band_name: Salty Sea Dogs
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67002
+  date: '2017-08-04'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67003
+  date: '2017-08-04'
+  time: '21:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67004
+  date: '2017-08-04'
+  time: '23:30'
+  band_name: Степан Юрлов & Live In
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67009
+  date: '2017-08-06'
+  time: '19:00'
+  band_name: Sax Show Михаила Леванова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67023
+  date: '2017-08-13'
+  time: '20:00'
+  band_name: R-Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67024
+  date: '2017-08-14'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67026
+  date: '2017-08-18'
+  time: '21:00'
+  band_name: LiVersion
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67027
+  date: '2017-08-18'
+  time: '21:00'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 67028
+  date: '2017-08-18'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67029
+  date: '2017-08-19'
+  time: '19:00'
+  band_name: SV Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67030
+  date: '2017-08-19'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67010
+  date: '2017-08-06'
+  time: '20:00'
+  band_name: Квадро В.Горского при уч. Маши Кац
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67011
+  date: '2017-08-07'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67012
+  date: '2017-08-10'
+  time: '19:30'
+  band_id: 636
+  band_name: Juliana Strangelove
+  band_token: juliana-strangelove
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67013
+  date: '2017-08-10'
+  time: '20:00'
+  band_name: Child of Books
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67014
+  date: '2017-08-11'
+  time: '19:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67015
+  date: '2017-08-11'
+  time: '21:00'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67016
+  date: '2017-08-11'
+  time: '21:00'
+  band_name: Guns N' Roses tribute show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67017
+  date: '2017-08-11'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67018
+  date: '2017-08-12'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67019
+  date: '2017-08-12'
+  time: '21:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67020
+  date: '2017-08-12'
+  time: '22:00'
+  band_name: Леван Ломидзе & Blues Counsins + Дмитрий Малолетов
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67021
+  date: '2017-08-12'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 67022
+  date: '2017-08-13'
+  time: '19:00'
+  band_name: Yunash-Bros trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67005
+  date: '2017-08-05'
+  time: '19:00'
+  band_name: Babanaman
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67006
+  date: '2017-08-05'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67007
+  date: '2017-08-05'
+  time: '21:00'
+  band_name: Леван Ломидзе & Blues Counsins + Петрович
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67008
+  date: '2017-08-05'
+  time: '23:30'
+  band_name: Rock bar Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67025
+  date: '2017-08-18'
+  time: '19:30'
+  band_name: El Sur
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67031
+  date: '2017-08-19'
+  time: '21:00'
+  band_name: Леван Ломидзе & Blues Counsins + Александр Гуреев
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67032
+  date: '2017-08-19'
+  time: '23:30'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67033
+  date: '2017-08-20'
+  time: '19:00'
+  band_name: Latina Jazz с Para Sempre project
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67034
+  date: '2017-08-20'
+  time: '20:00'
+  band_name: Dr. Endo & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 67035
+  date: '2017-08-21'
+  time: '20:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67036
+  date: '2017-08-24'
+  time: '19:30'
+  band_name: Toledo Bros
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67037
+  date: '2017-08-24'
+  time: '20:30'
+  band_name: Сергей Пахомов & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67038
+  date: '2017-08-25'
+  time: '19:30'
+  band_name: Гия Дзагнизде & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 67039
+  date: '2017-08-25'
+  time: '21:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67040
+  date: '2017-08-25'
+  time: '23:30'
+  band_name: Вадим Иващенко & The Boneshakers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 67041
+  date: '2017-08-26'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67296
+  date: '2017-09-09'
+  time: '21:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-1500
+- id: 67645
+  date: '2017-09-01'
+  time: '21:30'
+  band_name: Михаил Кистанов и Fabulous Human Being
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 67648
+  date: '2017-09-02'
+  time: '20:30'
+  band_name: Cross-Eyed Cats. Albert King tribute
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67653
+  date: '2017-09-05'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67654
+  date: '2017-09-12'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67655
+  date: '2017-09-19'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67656
+  date: '2017-09-26'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67658
+  date: '2017-09-13'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67660
+  date: '2017-09-27'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67664
+  date: '2017-09-27'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67665
+  date: '2017-09-07'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67666
+  date: '2017-09-07'
+  time: '21:00'
+  band_name: '"Квадро" Вячеслава Горского при уч. Маши Кац'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67667
+  date: '2017-09-08'
+  time: '19:00'
+  band_name: Lofty Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67668
+  date: '2017-09-08'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67670
+  date: '2017-09-08'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67671
+  date: '2017-09-09'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 67672
+  date: '2017-09-09'
+  time: '20:30'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67673
+  date: '2017-09-09'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец.гость: Р.Гоборов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67674
+  date: '2017-09-09'
+  time: '23:30'
+  band_name: Rock bar Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67675
+  date: '2017-09-10'
+  time: '20:00'
+  band_name: I love 60*
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67676
+  date: '2017-09-10'
+  time: '20:00'
+  band_name: Dr.Endo & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 67677
+  date: '2017-09-11'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67678
+  date: '2017-09-13'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67679
+  date: '2017-09-14'
+  time: '20:00'
+  band_name: Liberty Jazz Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67680
+  date: '2017-09-14'
+  time: '21:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67681
+  date: '2017-09-15'
+  time: '19:00'
+  band_name: Гастарбайтерс Блюз (Липецк)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67682
+  date: '2017-09-15'
+  time: '20:30'
+  band_name: Tribute Amy Winehouse Party
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67683
+  date: '2017-09-15'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67684
+  date: '2017-09-15'
+  time: '23:30'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67689
+  date: '2017-09-18'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67692
+  date: '2017-09-21'
+  time: '21:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67693
+  date: '2017-09-21'
+  time: '20:00'
+  band_name: the Ivories
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67694
+  date: '2017-09-22'
+  time: '19:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67695
+  date: '2017-09-22'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67697
+  date: '2017-09-23'
+  time: '19:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 67700
+  date: '2017-09-24'
+  time: '20:00'
+  band_name: Sax Show Михаила Леванова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67703
+  date: '2017-09-29'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67704
+  date: '2017-09-29'
+  time: '21:30'
+  band_name: Сергей Воронов & The CrossroadZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 67706
+  date: '2017-09-30'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67707
+  date: '2017-09-30'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67708
+  date: '2017-09-30'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Н.Липницкая'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67709
+  date: '2017-09-30'
+  time: '23:30'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67643
+  date: '2017-09-01'
+  time: '19:00'
+  band_name: Бэнд Михаила Владимирова (БМВ)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 728
+    name: Бэнд Михаила Владимирова
+    token: bmv
+- id: 67644
+  date: '2017-09-01'
+  time: '20:30'
+  band_name: I love 60*
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67646
+  date: '2017-09-01'
+  time: '23:30'
+  band_name: Bananaman
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67647
+  date: '2017-09-02'
+  time: '19:00'
+  band_name: Simple Riff
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67649
+  date: '2017-09-02'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Дмитрий Малолетов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67650
+  date: '2017-09-02'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67651
+  date: '2017-09-03'
+  time: '20:00'
+  band_name: Дмитрий Варшавский и Черный кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67652
+  date: '2017-09-04'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67657
+  date: '2017-09-06'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67659
+  date: '2017-09-20'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67661
+  date: '2017-09-06'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67662
+  date: '2017-09-13'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67663
+  date: '2017-09-20'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67669
+  date: '2017-09-08'
+  time: '21:30'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67685
+  date: '2017-09-16'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец.гость: Дмитрий Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67686
+  date: '2017-09-16'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 67696
+  date: '2017-09-22'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67698
+  date: '2017-09-23'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins, спец. гость: Сергей Манукян'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67699
+  date: '2017-09-23'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67701
+  date: '2017-09-24'
+  time: '19:00'
+  band_name: Благотворительный концерт группы "Несчастный случай" в пользу подопечных
+    фонда "МойМио"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67687
+  date: '2017-09-17'
+  time: '20:00'
+  band_name: Катя Гордон
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67688
+  date: '2017-09-17'
+  time: '20:00'
+  band_name: Monkey Folk
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67690
+  date: '2017-09-25'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67702
+  date: '2017-09-29'
+  time: '19:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 67705
+  date: '2017-09-29'
+  time: '23:30'
+  band_name: Влад Листков Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68280
+  date: '2017-10-02'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68281
+  date: '2017-10-09'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68283
+  date: '2017-10-23'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68285
+  date: '2017-10-03'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68286
+  date: '2017-10-10'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68289
+  date: '2017-10-17'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68290
+  date: '2017-11-01'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68291
+  date: '2017-10-04'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68292
+  date: '2017-10-25'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68293
+  date: '2017-10-18'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68294
+  date: '2017-10-11'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68297
+  date: '2017-10-25'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68298
+  date: '2017-10-18'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68299
+  date: '2017-10-11'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68300
+  date: '2017-10-05'
+  time: '20:00'
+  band_name: Spb Ramblers (Санкт-Петербург)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68301
+  date: '2017-10-05'
+  time: '20:00'
+  band_name: '"Guitar Forms" - Квартет Ильдара Казаханова и Алексея Кузнецова'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68302
+  date: '2017-10-06'
+  time: '20:30'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68303
+  date: '2017-10-06'
+  time: '21:30'
+  band_name: Гия Дзагнизде & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 68304
+  date: '2017-10-07'
+  time: '20:00'
+  band_name: 'Леван Ломидзе & Blues Counsins. Спец.гость: Дмитрий Четвергов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68305
+  date: '2017-10-07'
+  time: '22:00'
+  band_id: 690
+  band_name: Rosco Levee
+  band_token: rosco-levee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68306
+  date: '2017-10-07'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68307
+  date: '2017-10-08'
+  time: '20:00'
+  band_name: Rock-n-Lora
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68308
+  date: '2017-10-08'
+  time: '20:00'
+  band_name: R-Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68309
+  date: '2017-10-12'
+  time: '20:00'
+  band_name: Djangofriends & Марина Виноградова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68310
+  date: '2017-10-12'
+  time: '20:00'
+  band_name: Марат Карапетян & The Mood
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68312
+  date: '2017-10-13'
+  time: '20:30'
+  band_name: Diamond Hand
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68319
+  date: '2017-10-15'
+  time: '20:00'
+  band_name: I love 60*
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68320
+  date: '2017-10-15'
+  time: '20:00'
+  band_name: Neon Tapehead
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68321
+  date: '2017-10-19'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68322
+  date: '2017-10-19'
+  time: '20:00'
+  band_id: 397
+  band_name: Dipped in Purple
+  band_token: dipped-in-purple
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68323
+  date: '2017-10-20'
+  time: '19:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 68324
+  date: '2017-10-20'
+  time: '20:30'
+  band_name: Charles Register & Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68327
+  date: '2017-10-21'
+  time: '19:00'
+  band_name: Цветы
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68328
+  date: '2017-10-21'
+  time: '20:30'
+  band_name: The Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68329
+  date: '2017-10-21'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Р.Гоборов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68330
+  date: '2017-10-21'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68331
+  date: '2017-10-22'
+  time: '20:00'
+  band_name: Органавты
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68332
+  date: '2017-10-22'
+  time: '20:00'
+  band_name: Feliz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68333
+  date: '2017-10-23'
+  time: '20:00'
+  band_name: Yunash Bros Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68334
+  date: '2017-10-26'
+  time: '20:00'
+  band_name: Toledo Bros
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68335
+  date: '2017-10-26'
+  time: '20:00'
+  band_name: '"Квадро" Вячеслава Горского при уч. Маши Кац'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68336
+  date: '2017-10-27'
+  time: '19:00'
+  band_name: Алма-Мира
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68339
+  date: '2017-10-27'
+  time: '23:30'
+  band_name: Майя ЗаведиЯ Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68311
+  date: '2017-10-13'
+  time: '19:00'
+  band_name: Sergey Barshak & The Spots
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68313
+  date: '2017-10-13'
+  time: '21:30'
+  band_name: The Kikipickles - Hot Friday Music
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68314
+  date: '2017-10-13'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68315
+  date: '2017-10-14'
+  time: '19:00'
+  band_name: Дмитрий Варшавский и Черный кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68316
+  date: '2017-10-14'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68317
+  date: '2017-10-14'
+  time: '19:00'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: А.Гуреев'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68318
+  date: '2017-10-14'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 68325
+  date: '2017-10-20'
+  time: '21:30'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 68326
+  date: '2017-10-20'
+  time: '23:30'
+  band_name: Boogie Woogie Boom
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68282
+  date: '2017-10-30'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68284
+  date: '2017-10-16'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68287
+  date: '2017-10-31'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68288
+  date: '2017-10-24'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68295
+  date: '2017-10-04'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68296
+  date: '2017-11-01'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68337
+  date: '2017-10-27'
+  time: '20:30'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68338
+  date: '2017-10-27'
+  time: '21:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68340
+  date: '2017-10-28'
+  time: '19:00'
+  band_name: Wayland Rodd
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68341
+  date: '2017-10-28'
+  time: '20:30'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68342
+  date: '2017-10-28'
+  time: '21:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68343
+  date: '2017-10-28'
+  time: '23:30'
+  band_name: Jolly Fish
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68344
+  date: '2017-10-29'
+  time: '20:00'
+  band_name: Mishouris XXL
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 68345
+  date: '2017-10-29'
+  time: '20:00'
+  band_name: М-Артель с программой "Beatles on my mind"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 694
+    name: М-АРТель
+    token: m-artel
+- id: 68570
+  date: '2017-11-04'
+  time: '21:00'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-1500
+- id: 69006
+  date: '2017-11-29'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69009
+  date: '2017-11-02'
+  time: '20:00'
+  band_name: Malashkova & Quartet
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69010
+  date: '2017-11-02'
+  time: '20:00'
+  band_name: Алена Ярушина Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69011
+  date: '2017-11-03'
+  time: '19:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69012
+  date: '2017-11-03'
+  time: '20:30'
+  band_name: Aleksey Fetisov Rock-n-Roll Trio
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69013
+  date: '2017-11-03'
+  time: '21:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69014
+  date: '2017-11-03'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69015
+  date: '2017-11-04'
+  time: '19:00'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69016
+  date: '2017-11-04'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Наталья Липницкая'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69017
+  date: '2017-11-04'
+  time: '23:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69018
+  date: '2017-11-05'
+  time: '20:00'
+  band_name: Simple Riff
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69019
+  date: '2017-11-05'
+  time: '20:00'
+  band_name: FunQ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69020
+  date: '2017-11-06'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69021
+  date: '2017-11-13'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69022
+  date: '2017-11-20'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69023
+  date: '2017-11-27'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69024
+  date: '2017-11-28'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69025
+  date: '2017-11-21'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69026
+  date: '2017-11-14'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69027
+  date: '2017-11-07'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69028
+  date: '2017-11-09'
+  time: '20:30'
+  band_name: I love 60
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69029
+  date: '2017-11-10'
+  time: '19:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69030
+  date: '2017-11-10'
+  time: '20:30'
+  band_name: Петрович & The Hot Rod Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 69031
+  date: '2017-11-10'
+  time: '21:30'
+  band_name: The Kikipickles
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69032
+  date: '2017-11-10'
+  time: '23:30'
+  band_name: Jasper Lee
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69033
+  date: '2017-11-11'
+  time: '19:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69034
+  date: '2017-11-11'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69035
+  date: '2017-11-11'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Дмитрий Малолетов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69036
+  date: '2017-11-11'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 69037
+  date: '2017-11-12'
+  time: '20:00'
+  band_id: 540
+  band_name: Неправильные Пчелы
+  band_token: wrong-bees
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69038
+  date: '2017-11-12'
+  time: '20:00'
+  band_name: Дядя Ваня (Иван Вабищевич)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69039
+  date: '2017-11-16'
+  time: '20:00'
+  band_name: The MatchBoxCovers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69040
+  date: '2017-11-16'
+  time: '20:00'
+  band_id: 448
+  band_name: C-Jam Club Jazz Orchestra
+  band_token: cjc-jazz-orchestra
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69001
+  date: '2017-11-08'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69002
+  date: '2017-11-15'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69003
+  date: '2017-11-22'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69004
+  date: '2017-11-29'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69005
+  date: '2017-11-08'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69007
+  date: '2017-11-22'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69008
+  date: '2017-11-15'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69041
+  date: '2017-11-17'
+  time: '19:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69042
+  date: '2017-11-17'
+  time: '20:30'
+  band_name: Dr.Endo & Friends
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 69043
+  date: '2017-11-17'
+  time: '21:30'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 69044
+  date: '2017-11-17'
+  time: '23:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69045
+  date: '2017-11-18'
+  time: '20:00'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Ксения Федулова'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69046
+  date: '2017-11-18'
+  time: '20:30'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69047
+  date: '2017-11-18'
+  time: '21:30'
+  band_name: ГКЧП - Red Hot Chili Peppers tribute show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69048
+  date: '2017-11-18'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69049
+  date: '2017-11-19'
+  time: '20:00'
+  band_name: Р/Г
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69050
+  date: '2017-11-23'
+  time: '20:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69051
+  date: '2017-11-23'
+  time: '20:00'
+  band_name: Lite Sound
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69052
+  date: '2017-11-24'
+  time: '19:00'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 69053
+  date: '2017-11-24'
+  time: '20:30'
+  band_name: Алексей "Lex" Блохин
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69054
+  date: '2017-11-24'
+  time: '21:30'
+  band_name: Сергей Воронов & The CrossroadZ
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 69055
+  date: '2017-11-24'
+  time: '23:30'
+  band_name: Rock Bar Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69056
+  date: '2017-11-25'
+  time: '19:00'
+  band_name: Квадро Вячеслава Горского при уч. Маши Кац
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69057
+  date: '2017-11-25'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69058
+  date: '2017-11-25'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: А. Гуреев'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69059
+  date: '2017-11-25'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69060
+  date: '2017-11-30'
+  time: '19:00'
+  band_name: Квинтет Дмитрия Купцова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69061
+  date: '2017-12-31'
+  time: '19:00'
+  band_name: Музыкальный Новый 2018 год в Ритм-Блюз
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69062
+  date: '2017-12-30'
+  time: '13:00'
+  band_name: Детское Новогоднее путешествие в Ритм-Блюз кафе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69204
+  date: '2017-12-02'
+  time: '20:30'
+  band_id: 667
+  band_name: Krissy Matthews
+  band_token: krissy-matthews
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  price: 1000-1500
+- id: 69532
+  date: '2017-12-02'
+  time: '19:00'
+  band_name: Трио Игоря Молчанова и Юрий Рябов с программой "Фрэнк Синатра и не только"
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69533
+  date: '2017-12-02'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Лиза Волкова'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69534
+  date: '2017-12-02'
+  time: '23:30'
+  band_name: Neon Tapehead
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69535
+  date: '2017-12-03'
+  time: '20:00'
+  band_name: Dani Yard Orchestra
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69536
+  date: '2017-12-04'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69537
+  date: '2017-12-11'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69538
+  date: '2017-12-18'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69539
+  date: '2017-12-25'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69543
+  date: '2017-12-12'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69544
+  date: '2017-12-19'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69546
+  date: '2017-12-06'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69541
+  date: '2017-12-30'
+  time: '21:00'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Родион Гоборов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69542
+  date: '2017-12-05'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69548
+  date: '2017-12-27'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69549
+  date: '2017-12-20'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69550
+  date: '2017-12-06'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69551
+  date: '2017-12-13'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69552
+  date: '2017-12-20'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69553
+  date: '2017-12-27'
+  time: '21:00'
+  band_name: Rock-n-Roll show
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69558
+  date: '2017-12-09'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Наталья Липницкая'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69559
+  date: '2017-12-09'
+  time: '23:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69563
+  date: '2017-12-14'
+  time: '20:30'
+  band_name: KooRaga (Севастополь)
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69566
+  date: '2017-12-15'
+  time: '23:30'
+  band_name: Rock bar Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69568
+  date: '2017-12-16'
+  time: '20:30'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69569
+  date: '2017-12-16'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Counsins / Спец.гость: Михаил Леванов'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69570
+  date: '2017-12-16'
+  time: '23:30'
+  band_name: Борис Булкин & Stainless Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 69571
+  date: '2017-12-17'
+  time: '19:00'
+  band_name: Porto Moris
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69572
+  date: '2017-12-21'
+  time: '20:00'
+  band_name: Старый Добрый Dixieland
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69573
+  date: '2017-12-22'
+  time: '19:00'
+  band_name: Dr.Аграновский & De Blues Spinners
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 69574
+  date: '2017-12-22'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69575
+  date: '2017-12-22'
+  time: '21:30'
+  band_name: Гия Дзагнидзе & Modern Blues Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 69576
+  date: '2017-12-22'
+  time: '23:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69577
+  date: '2017-12-23'
+  time: '21:30'
+  band_name: 'Леван Ломидзе & Blues Cousins / Спец.гость: Петрович'
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69578
+  date: '2017-12-23'
+  time: '23:30'
+  band_name: Layna Shery
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69579
+  date: '2017-12-24'
+  time: '20:00'
+  band_name: Sax Show Михаила Леванова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69580
+  date: '2017-12-24'
+  time: '19:00'
+  band_name: Екатерина Яшникова
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69581
+  date: '2017-12-28'
+  time: '20:00'
+  band_name: I love 60*
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69582
+  date: '2017-12-29'
+  time: '19:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69583
+  date: '2017-12-29'
+  time: '20:30'
+  band_name: Simple Riff
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69584
+  date: '2017-12-29'
+  time: '21:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69540
+  date: '2017-12-30'
+  time: '23:30'
+  band_name: Beat Bombers
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  comments: Новый проект Вадима Иващенко и Дмитрия "Ветерана" Честных
+- id: 69545
+  date: '2017-12-26'
+  time: '20:00'
+  band_name: Open Blues Jam Session
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69547
+  date: '2017-12-13'
+  time: '20:30'
+  band_id: 486
+  band_name: The Jazz Loft
+  band_token: jazz-loft
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69554
+  date: '2017-12-07'
+  time: '20:00'
+  band_name: Калинов Мост
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 112
+    name: Калинов мост
+    token: kalinov-most
+- id: 69555
+  date: '2017-12-07'
+  time: '20:00'
+  band_name: Nina Garnet
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69556
+  date: '2017-12-09'
+  time: '19:00'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69557
+  date: '2017-12-09'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69560
+  date: '2017-12-10'
+  time: '20:00'
+  band_name: Gipsy Flamenco
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69561
+  date: '2017-12-10'
+  time: '20:00'
+  band_name: Благотворительный концерт в поддержку подопечных фонда "МойМио" / группа
+    Серьга
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69562
+  date: '2017-12-14'
+  time: '20:00'
+  band_name: Emergency Band
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69564
+  date: '2017-12-15'
+  time: '19:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+- id: 69565
+  date: '2017-12-15'
+  time: '21:30'
+  band_name: Денис Мажуков
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 69567
+  date: '2017-12-16'
+  time: '19:00'
+  band_name: Дмитрий Варшавский & Черный кофе
+  club_id: 74
+  club_name: Ритм Блюз Кафе
+  club_token: rnb-cafe

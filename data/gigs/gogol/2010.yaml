@@ -1,0 +1,132 @@
+- id: 12829
+  date: '2010-09-10'
+  time: '20:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13324
+  date: '2010-11-03'
+  time: '20:00'
+  band_id: 307
+  band_name: Фруктовый кефир
+  band_token: fryktoviykefir
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+  price: 500 руб.
+- id: 13439
+  date: '2010-11-07'
+  time: '19:00'
+  band_name: Ник Рок-н-ролл, Автоматические удовлетворители, Travы
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13616
+  date: '2010-11-11'
+  time: '20:00'
+  band_name: Marimba Plus
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13398
+  date: '2010-11-04'
+  time: '20:00'
+  band_name: Juri Gagarin (Германия)
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13414
+  date: '2010-11-05'
+  time: '20:00'
+  band_name: Снега
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13422
+  date: '2010-11-06'
+  time: '19:00'
+  band_name: Пончо панамас
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13529
+  date: '2010-11-18'
+  time: '20:00'
+  band_name: Trey Gunn и Pat Mastelotto
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14016
+  date: '2010-12-07'
+  time: '20:00'
+  band_name: ДаНуЧе
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14029
+  date: '2010-12-08'
+  time: '20:00'
+  band_name: Biting Elbows
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14077
+  date: '2010-12-11'
+  time: '20:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 13993
+  date: '2010-12-03'
+  time: '20:00'
+  band_name: DakhaBrakha (Украина)
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14042
+  date: '2010-12-09'
+  time: '20:00'
+  band_name: Вася Ложкин, Эбонитовый колотун
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14050
+  date: '2010-12-10'
+  time: '20:00'
+  band_name: SunSay
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14174
+  date: '2010-12-24'
+  time: '20:00'
+  band_name: 7 раса
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+- id: 14210
+  date: '2010-12-30'
+  time: '20:00'
+  band_name: Ландыши
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol
+  extra_bands:
+  - id: 185
+    name: Группа Дыши
+    token: dishi
+- id: 12663
+  date: '2010-09-11'
+  time: '20:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 128
+  club_name: Gogol
+  club_token: gogol

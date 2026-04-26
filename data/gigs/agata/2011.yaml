@@ -1,0 +1,29 @@
+- id: 15985
+  date: '2011-03-06'
+  band_name: Bluesology, Cross B Band
+  club_id: 391
+  club_name: Агата
+  club_token: agata
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 391
+    name: Bluesology
+    token: bluesology
+- id: 18097
+  date: '2011-04-23'
+  time: '20:00'
+  band_name: Макс Таврический, Виктор Донцов, Александр Долгов, Андрей Рахнин, Михаил
+    Приз, Banderas Blues Band
+  club_id: 391
+  club_name: Агата
+  club_token: agata
+  price: 50 грн.
+  extra_bands:
+  - id: 39
+    name: Banderas Blues Band
+    token: banderas
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky

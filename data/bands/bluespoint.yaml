@@ -1,0 +1,18 @@
+id: 417
+token: bluespoint
+name: Bluespoint
+alive: true
+city_id: 27
+genre_id: 1
+clips:
+- id: 1927
+  type: weblink
+  url: http://vk.com/club16737834
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1928
+  type: photo
+  url: bluespoint.jpg
+  sort_order: 0
+  width: 604
+  height: 404

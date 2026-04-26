@@ -1,0 +1,15 @@
+id: 342
+token: oktyabrsky
+name: БКЗ "Октябрьский"
+aliases: Октябрьский
+alive: true
+address: Лиговский просп., 6
+subway: Площадь Восстания
+phone: (812) 275-13-02
+city_id: 2
+clips:
+- id: 1241
+  type: weblink
+  url: http://www.bkz.ru
+  name: Официальный сайт
+  sort_order: 99

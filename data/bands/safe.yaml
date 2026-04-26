@@ -1,0 +1,11 @@
+id: 613
+token: safe
+name: Сейф
+alive: true
+genre_id: 8
+clips:
+- id: 3761
+  type: weblink
+  url: http://www.thesafe.ru/
+  name: Официальный сайт
+  sort_order: 99

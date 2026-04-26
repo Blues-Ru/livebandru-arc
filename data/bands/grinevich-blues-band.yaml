@@ -1,0 +1,28 @@
+id: 372
+token: grinevich-blues-band
+name: Гриневич Блюз Бэнд
+aliases: 'Гриневич Блюз Бенд
+
+  Grinevich Blues Band'
+alive: true
+city_id: 19
+genre_id: 1
+musicians:
+- name: Александр Горбунов
+  instruments: ударные
+- name: Михаил Гриневич
+  instruments: гитара, вокал
+- name: Артем Гриневич
+  instruments: гитара, вокал
+clips:
+- id: 1518
+  type: photo
+  url: grinevich-blues-band.jpg
+  sort_order: 0
+  width: 402
+  height: 604
+- id: 1517
+  type: weblink
+  url: http://vk.com/club20535237
+  name: Страница ВКонтакте
+  sort_order: 99

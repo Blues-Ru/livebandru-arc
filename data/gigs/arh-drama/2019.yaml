@@ -1,0 +1,47 @@
+- id: 77060
+  date: '2019-02-11'
+  time: '19:00'
+  band_name: Сергей Старостин (Москва) и Арт-квартет Тима Дорофеева (Архангельск)
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  price: 350 - 1000 р.
+- id: 79078
+  date: '2019-05-20'
+  time: '19:00'
+  band_name: 'Arkhangelsk Blues Festival - 2019: Guitar Summit Group (Архангельск-Вологда-Москва);
+    Ольга Юшкова & Blues Band (Новокузнецк); Jimmy Burns (США) & Blues Band (Москва)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 79079
+  date: '2019-05-21'
+  time: '19:00'
+  band_name: 'Arkhangelsk Blues Festival - 2019: Валерий Белинов (King B) - Layna
+    Shery (США-Россия) & Blues Band (Санкт-Петербург); Giles King (Великобритания)
+    & Folkline (Москва-Череповец); Chris Bergson (США) & Blues Band (Архангельск-Москва)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  extra_bands:
+  - id: 770
+    name: Giles King
+    token: giles-king
+  - id: 580
+    name: Folkline
+    token: folkline
+- id: 81436
+  date: '2019-10-22'
+  time: '19:00'
+  band_name: 'Международные Дни Джаза в Архангельске''2019: дуэт Deech (Барселона-Москва);
+    Леонид Пташка (рояль, Израиль) & Камерный оркестр Поморской филармонии п/р Владимира
+    Ануфриева; Super Trio (США) - Оз Ной (гитара), Джимми Хаслип (бас), Дэннис Чемберс
+    (барабаны)'
+  club_id: 444
+  club_name: Архангельский театр драмы
+  club_token: arh-drama
+  comments: Фестиваль посвящен 75-летию Владимира Резицкого

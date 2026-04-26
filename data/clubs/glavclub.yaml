@@ -1,0 +1,18 @@
+id: 181
+token: glavclub
+name: ГлавКлуб (СПб)
+aliases: 'ГлавClub
+
+  ГлавСlub'
+alive: true
+address: Профессора Попова, 47
+subway: Чкаловская, Петроградская
+phone: (812) 240-1030
+city_id: 2
+comments: ЛДМ
+clips:
+- id: 190
+  type: weblink
+  url: http://www.glavclub.com/
+  name: Официальный сайт
+  sort_order: 0

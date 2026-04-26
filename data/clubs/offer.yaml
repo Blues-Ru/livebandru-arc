@@ -1,0 +1,19 @@
+id: 853
+token: offer
+name: Offer
+alive: true
+address: Бауманская, д. 15
+subway: Бауманская
+phone: (495) 933-83-62
+city_id: 1
+clips:
+- id: 7975
+  type: weblink
+  url: https://www.facebook.com/OFFER.restaurant/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 7974
+  type: weblink
+  url: http://offer-restaurant.ru/
+  name: Официальный сайт
+  sort_order: 0

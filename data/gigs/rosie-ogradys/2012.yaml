@@ -1,0 +1,85 @@
+- id: 25448
+  date: '2012-02-10'
+  time: '21:00'
+  band_id: 397
+  band_name: Dipped in Purple
+  band_token: dipped-in-purple
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+  comments: концерт в 3-х отделениях
+- id: 25465
+  date: '2012-02-17'
+  time: '21:00'
+  band_id: 557
+  band_name: Good Company
+  band_token: good-company
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+  comments: Концерт в трех отделениях
+- id: 25628
+  date: '2012-02-16'
+  time: '20:30'
+  band_name: Андрей Храмов & Greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+  extra_bands:
+  - id: 556
+    name: Greentown
+    token: greentown
+- id: 25896
+  date: '2012-02-22'
+  time: '21:00'
+  band_name: Андрей Храмов и Greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+  comments: концерт в 3-х отделениях
+  extra_bands:
+  - id: 556
+    name: Greentown
+    token: greentown
+- id: 25897
+  date: '2012-02-24'
+  time: '20:30'
+  band_name: Второе дыхание
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+- id: 26101
+  date: '2012-03-16'
+  time: '21:00'
+  band_id: 397
+  band_name: Dipped in Purple
+  band_token: dipped-in-purple
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+  comments: концерт в 3-х отделениях
+- id: 25992
+  date: '2012-03-02'
+  time: '21:00'
+  band_id: 556
+  band_name: Greentown
+  band_token: greentown
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 400 руб.
+- id: 26102
+  date: '2012-03-08'
+  time: '19:00'
+  band_name: LongPlay
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+  comments: праздничный концерт. вход для женщин - бесплатный

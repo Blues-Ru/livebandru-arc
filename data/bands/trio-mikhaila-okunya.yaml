@@ -1,0 +1,43 @@
+id: 536
+token: trio-mikhaila-okunya
+name: Трио Михаила Окуня
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Михаил Окунь
+  instruments: фортепиано
+- name: Макар Новиков
+  instruments: контрабас
+- name: Яков Окунь
+  instruments: ударные
+clips:
+- id: 2528
+  type: photo
+  url: trio-mikhaila-okunya.jpg
+  sort_order: 0
+  width: 600
+  height: 400
+- id: 2530
+  type: youtube
+  url: http://www.youtube.com/?v=L1KHD3R-KCQ
+  name: Mikhail Okun's Trio - "Michelle"
+  comments: 'Mikhail Okun''s trio perform Paul McCartney''s "Michelle" at "Jazz Town"
+    club in Moscow.
+
+    18 January 2010.
+
+    Mikhail Okun - piano, arrangement
+
+    Makar Novikov - bass
+
+    Yakov Okun - drums
+
+    Published with artists'
+  sort_order: 99
+- id: 2531
+  type: photo
+  url: trio-mikhaila-okunya-2.jpg
+  sort_order: 100
+  width: 600
+  height: 400

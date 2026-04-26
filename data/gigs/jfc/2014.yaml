@@ -1,0 +1,2842 @@
+- id: 40867
+  date: '2014-01-12'
+  time: '15:30'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский стол" при уч. Ярослава
+    Погодина (перкуссия) и Александра Конанчука (ситар, гитара)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40869
+  date: '2014-01-26'
+  time: '15:30'
+  band_name: 'Easy Winners Ragtime Band с программой: «От кейкуока к свингу, или как
+    зарождался джаз»'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40874
+  date: '2014-01-06'
+  time: '19:00'
+  band_name: Gary D Brown (бас-гитара, США) и ансамбль Сергея Нагорного (саксофон)
+    при уч. Katy Moon (вокал)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40877
+  date: '2014-01-09'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40878
+  date: '2014-01-10'
+  time: '19:00'
+  band_name: '"Trumpets Summit" Валерий Пономарев (США) и Иван Васильев'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+- id: 40879
+  date: '2014-01-11'
+  time: '19:00'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40882
+  date: '2014-01-14'
+  time: '19:00'
+  band_name: 'Посвящение Стэну Гетцу: Андрей Половко, Петр Михеев, Евгений Пономарев,
+    Григорий Воскобойник'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40884
+  date: '2014-01-16'
+  time: '19:00'
+  band_name: Волковтрио
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40886
+  date: '2014-01-18'
+  time: '19:00'
+  band_name: Проект Вадима Лебедева (вокал, гитара) при уч. Sergio Brandao (бас-гитара,
+    Бразилия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40887
+  date: '2014-01-19'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40888
+  date: '2014-01-20'
+  time: '19:00'
+  band_name: '"Brazilian Project" Brandao & Kondakov'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40889
+  date: '2014-01-21'
+  time: '19:00'
+  band_name: Lera Gehner - "Flora & Fauna"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40890
+  date: '2014-01-22'
+  time: '19:00'
+  band_name: Пилигрим. И. Бродский
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40891
+  date: '2014-01-23'
+  time: '19:00'
+  band_name: Кондаков-Волков-Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40892
+  date: '2014-01-24'
+  time: '19:00'
+  band_name: Ансамбль Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40893
+  date: '2014-01-25'
+  time: '19:00'
+  band_name: Ансамбль Виктории Урусовой (вокал)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40894
+  date: '2014-01-26'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40895
+  date: '2014-01-27'
+  time: '19:00'
+  band_name: Алексей Попов - "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40896
+  date: '2014-01-29'
+  time: '19:00'
+  band_name: Lothar Kraft Quartet (Германия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40897
+  date: '2014-01-30'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40898
+  date: '2014-01-31'
+  time: '19:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40866
+  date: '2014-01-05'
+  time: '15:30'
+  band_name: Андрей Кондаков (фортепиано), Вячеслав Гайворонский (труба), Владимир
+    Волков (контрабас)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40868
+  date: '2014-01-19'
+  time: '15:30'
+  band_name: Маргарита Кондакова (вокал, фортепиано, Финляндия) с программой "Brave
+    Enough"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40870
+  date: '2014-01-02'
+  time: '19:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40871
+  date: '2014-01-03'
+  time: '19:00'
+  band_name: Hard-Bop Quintet Евгения Соколова (труба) и Кирилла Бубякина (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40872
+  date: '2014-01-04'
+  time: '19:00'
+  band_name: Анна Гузикова & EnerGetixBand
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40873
+  date: '2014-01-05'
+  time: '19:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40875
+  date: '2014-01-07'
+  time: '19:00'
+  band_name: Ансамбль Руслана Хаина (США) "Music Jazz Messengers" при уч. Валерия
+    Пономарева (США) и Ивана Васильева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40876
+  date: '2014-01-08'
+  time: '19:00'
+  band_name: Ансамбль Валерия Пономарева (США) "Our Father Who Art Blakey"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40880
+  date: '2014-01-12'
+  time: '19:00'
+  band_name: The Blues Jukebox
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40881
+  date: '2014-01-13'
+  time: '19:00'
+  band_name: Gary D Brown (бас, США) & Apple.Sin и Katy Moon (вокал) с программой
+    "Дарвин"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40883
+  date: '2014-01-15'
+  time: '19:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 40885
+  date: '2014-01-17'
+  time: '19:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41692
+  date: '2014-02-02'
+  time: '15:30'
+  band_name: 'Electricity Killed The Cat (Санкт-петербург): Михаил Шипов (саксофоны),
+    Кирилл Колешонок (гитара), Дмитрий Родионов (бас-гитара), Денис Каверзнев (ударные),
+    Мария Ашуркова (голос, клавишные)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41693
+  date: '2014-02-09'
+  time: '15:30'
+  band_name: 'Empathy jazz & Co: Александра Куркова (вокал), Дмитрий Васильев (контрабас,
+    вокал), Валерия Герценова (фортепиано), Денис Каверзнев (ударные)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41694
+  date: '2014-02-16'
+  time: '15:30'
+  band_name: Вокальная группа "Гармония"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41695
+  date: '2014-02-23'
+  time: '15:30'
+  band_name: 'Детский абонемент "Музыкальная Азбука": концерт "Танцующий оркестр"
+    genre: джаз'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41696
+  date: '2014-02-28'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41697
+  date: '2014-02-27'
+  time: '19:00'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41698
+  date: '2014-02-26'
+  time: '19:00'
+  band_name: Lera Gehner. "Flora & Fauna"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41699
+  date: '2014-02-25'
+  time: '19:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41700
+  date: '2014-02-24'
+  time: '19:00'
+  band_name: '"Лондон-Москва-Петербург": Евгений Стригалев (саксофон, Лондон), Александр
+    Машин (ударные, Москва), Евгений Пономарев (рояль), Григорий Воскобойник (контрабас)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41701
+  date: '2014-02-16'
+  time: '19:00'
+  band_name: Квинтет Евгения Соколова (труба), Кирилла Бубякина (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41702
+  date: '2014-02-15'
+  time: '19:00'
+  band_name: '"Вечер саксофона": Ансамбль Николая Поправко'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41703
+  date: '2014-02-14'
+  time: '19:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41704
+  date: '2014-02-13'
+  time: '19:00'
+  band_name: 'VI Международный молодежный музыкальный фестиваль "Тесные контакты Хельсинки
+    - Санкт-Петербург": Irma Seleman Trio (Малайзия / Корея / США), Laur Telliskivi
+    Trio (Эстония), Lo-Baa Band (Санкт-Петербург)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41705
+  date: '2014-02-12'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Сладкевич
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41706
+  date: '2014-02-11'
+  time: '19:00'
+  band_name: Алексей Попов "Four & More" & Lera Gehner
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41707
+  date: '2014-02-10'
+  time: '19:00'
+  band_name: Fat Son (Швейцария)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41708
+  date: '2014-02-09'
+  time: '19:00'
+  band_name: А.Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41709
+  date: '2014-02-08'
+  time: '19:00'
+  band_name: All Fine
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41710
+  date: '2014-02-07'
+  time: '19:00'
+  band_name: Ансамбль Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41711
+  date: '2014-02-06'
+  time: '19:00'
+  band_name: 'Звезды нью-йоркского джаза: Джо Фарнсуорт (ударные) - Илья Луштак (гитара)
+    квинтет'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41712
+  date: '2014-02-05'
+  time: '19:00'
+  band_name: 'The Open World Jazz Quartet: Андрей Блинчевский (саксофон, Санкт-Петербург),
+    Роман Дмитриев (фортепиано, Москва), Владимир Черницын (контрабас, Москва), Павел
+    Тимофеев (барабаны, Москва)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41713
+  date: '2014-02-04'
+  time: '19:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41714
+  date: '2014-02-03'
+  time: '19:00'
+  band_name: 'Tigoindigo project: Юрий Бедрак (тенор-саксофон, электроника), Сергей
+    Долженков (тромбон), Роман Квачев (труба), Марина Квачева (вокал)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41715
+  date: '2014-02-02'
+  time: '19:00'
+  band_name: Ансамбль Виктории Урусовой (вокал) при уч. Павла Тимофеева (барабаны,
+    Москва)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41716
+  date: '2014-02-01'
+  time: '19:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41717
+  date: '2014-02-17'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: The Break Orchestra (Архангельск)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  comments: Николай Куликов (гитара), Андрей Шабашев (клавишные), бас гитара, Валерий
+    Журавлев (ударны)
+- id: 41718
+  date: '2014-02-18'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Андрей Макаревич и Ильдар
+    Казаханов с гитарной программой "Ильдар и Андрей в Машине". Презентация "машинного"
+    диска. В концерте также участвуют: М. Кореневский (контрабас), Петр Михеев (ударные),
+    Евгений Пономарев (клавишные), Игорь Тимофеев (саксофон), Анна Чайковская (вокал).
+    Специальный гость Билли Новик.'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41719
+  date: '2014-02-19'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Swing Couture при уч. Алексея
+    Станкова и Максима Белицкого'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  comments: 'С программой, посвященной первому джазовому электро-гитаристу Чарли Крисчену:
+    Like a Charlie'
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 41720
+  date: '2014-02-20'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Get Happy с программой
+    "Маленький джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  comments: Ильдар Казаханов (гитара), Анна Колчина (вокал) и Максим Шибин (гитара,
+    Москва)
+- id: 41721
+  date: '2014-02-21'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Андрей Рябов & Андрей Светлов
+    Project, Ансамбль Джерри Кима'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41722
+  date: '2014-02-22'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Андрей Добровольский (акустическая
+    гитара), King B & Layna Shery (Нью-Йорк - Москва)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 41723
+  date: '2014-02-23'
+  time: '19:00'
+  band_name: 'XIX Международный фестиваль гитарного джаза: Tony Romano (гитара, США),
+    Lenny Sendersky (саксофон, Израиль), Cleve Douglas (вокал, США)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42504
+  date: '2014-03-09'
+  time: '15:00'
+  band_name: Svetamuzica - квартет Светланы Маринченко (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42503
+  date: '2014-03-02'
+  time: '15:00'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский стол" при уч. Дмитрия
+    Веселова (перкуссия), Александра Конанчука (ситар, гитара), Игоря Тимофеева (саксофон)
+    и Олега Фомина (бас)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42505
+  date: '2014-03-16'
+  time: '15:00'
+  band_name: Jazz Quartet 44 Павла Чижика (вибрафон) и Станислава Чигадаева (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42506
+  date: '2014-03-23'
+  time: '15:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42507
+  date: '2014-03-30'
+  time: '15:00'
+  band_name: 'Детский абонемент "Музыкальная Азбука": концерт "Звучащие краски"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42508
+  date: '2014-03-01'
+  time: '19:00'
+  band_name: King B (Валерий Белинов)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42509
+  date: '2014-03-02'
+  time: '19:00'
+  band_name: Юлия Михайловская и ее квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42510
+  date: '2014-03-03'
+  time: '19:00'
+  band_name: Schnellertollermeier (Швейцария)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42511
+  date: '2014-03-04'
+  time: '19:00'
+  band_name: Yoel Gonzalez & Alma Flamenca
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42512
+  date: '2014-03-05'
+  time: '19:00'
+  band_name: Yoel Gonzalez & Alma Flamenca
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42513
+  date: '2014-03-06'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42514
+  date: '2014-03-07'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42515
+  date: '2014-03-08'
+  time: '19:00'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42516
+  date: '2014-03-09'
+  time: '19:00'
+  band_name: Квинтет Евгения Соколова (труба), Кирилла Бубякина (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42517
+  date: '2014-03-10'
+  time: '19:00'
+  band_name: The Blues Jukebox
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42518
+  date: '2014-03-11'
+  time: '19:00'
+  band_name: Анастасия Абруцкая и Just For You
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42519
+  date: '2014-03-12'
+  time: '19:00'
+  band_name: Инструментальный ансамбль A Tempo
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42520
+  date: '2014-03-13'
+  time: '19:00'
+  band_name: Сергей Долженков (тромбон, дудук, диджерибон) "All Colors"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42521
+  date: '2014-03-14'
+  time: '19:00'
+  band_name: '"Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или
+    как зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42522
+  date: '2014-03-15'
+  time: '19:00'
+  band_name: Виталий Головнев (труба, Нью-Йорк)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42523
+  date: '2014-03-16'
+  time: '19:00'
+  band_name: Ансамбль Дарьи Кондаковой (фортепиано) при уч. Алексея Чижика (вибрафон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42524
+  date: '2014-03-17'
+  time: '19:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42525
+  date: '2014-03-18'
+  time: '19:00'
+  band_name: Алексей Попов "Four & More" & Lera Gehner
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42526
+  date: '2014-03-19'
+  time: '19:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42527
+  date: '2014-03-20'
+  time: '19:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42528
+  date: '2014-03-21'
+  time: '19:00'
+  band_name: Ансамбль Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42529
+  date: '2014-03-22'
+  time: '19:00'
+  band_name: Анна Чайковская при уч. Андрея Рябова и Андрея Кондакова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42530
+  date: '2014-03-23'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42531
+  date: '2014-03-24'
+  time: '19:00'
+  band_name: Lera Gehner - "Flora & Fauna"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42532
+  date: '2014-03-25'
+  time: '19:00'
+  band_name: Ансамбль Джерри Кима
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42533
+  date: '2014-03-26'
+  time: '19:00'
+  band_name: Igor Shilov B-Day Concert
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42534
+  date: '2014-03-27'
+  time: '19:00'
+  band_name: 'Квартет "ContraJazz" (Москва - Санкт- Петербург): Григорий Воскобойник
+    (бас), Дмитрий Семенов (саксофон), Александр Потапов (ударные), Александр Алексеев
+    (рояль)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42535
+  date: '2014-03-28'
+  time: '19:00'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42536
+  date: '2014-03-29'
+  time: '19:00'
+  band_name: Camaradas
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42537
+  date: '2014-03-30'
+  time: '19:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 42538
+  date: '2014-03-31'
+  time: '19:00'
+  band_name: Литературно-джазовый перфоманс "Пилигрим. И. Бродский"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43212
+  date: '2014-04-01'
+  time: '19:00'
+  band_name: Жан-Лу Лоньен (труба, Париж) и Jazz Philharmonic Orchestra
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43213
+  date: '2014-04-02'
+  time: '19:00'
+  band_name: Круглоугольник. Презентация альбома "Афера"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43214
+  date: '2014-04-03'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43215
+  date: '2014-04-04'
+  time: '19:00'
+  band_name: Anna & Brasilhando (Рио- де-Жанейро - Санкт-Петербург)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43216
+  date: '2014-04-05'
+  time: '19:00'
+  band_name: '"Посвящение Чарли Мингусу": Г. Воскобойник, И. Тимофеев, А. Половко,
+    Е. Пономарев, А. Вишняков, П. Михеев.'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43217
+  date: '2014-04-06'
+  time: '19:00'
+  band_name: Волковтрио
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43218
+  date: '2014-04-07'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Braziliando'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43219
+  date: '2014-04-08'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Vein
+    (Швейцария)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43220
+  date: '2014-04-09'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Трио
+    Владимира Шафранова (фортепиано, Финляндия)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43221
+  date: '2014-04-10'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Марина
+    Капуро - новая программа "Битломания"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43222
+  date: '2014-04-11'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Голощекин
+    - Кондаков. Джазовые диалоги'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43223
+  date: '2014-04-12'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Andrey
+    Kondakov Electric Project'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43224
+  date: '2014-04-13'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Шарон
+    Кларк (вокал, США) и ансамбль Алексея Черемизова'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43225
+  date: '2014-04-14'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Сергей
+    Манукян (Москва) & Yoel Gonzalez (Куба). Музыка без границ'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 43226
+  date: '2014-04-15'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Svetamuzika
+    & Петр Ивышин (барабаны, Москва)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43227
+  date: '2014-04-16'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Билл
+    Сакстон (США) и трио Алексея Черемизова (фортепиано, Санкт-Петербург)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43228
+  date: '2014-04-17'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Yoel
+    Gonzalez & Alma Flamenca'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43229
+  date: '2014-04-18'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Real
+    Jam'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43230
+  date: '2014-04-19'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Юрий
+    Каверкин & Old Fashioned blues'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 43231
+  date: '2014-04-20'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Swing
+    Couture при уч. Натальи Родиной (вокал)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 43232
+  date: '2014-04-21'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": King
+    B. (Валерий Белинов, США)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43233
+  date: '2014-04-22'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Lera
+    Gehner. Flora & Fauna при уч. Алексея Попова'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43234
+  date: '2014-04-23'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Катрин
+    Фермэ (вокал, США)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43235
+  date: '2014-04-24'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": "Берлин
+    - С-Петербург квартет" Ерн Хенриш (контрабас) и Алексей Чижик (вибрафон)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 43236
+  date: '2014-04-25'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": The
+    North (Архангельск - Санкт-Петербург) - квартет Тима Дорофеева (гитара) и Константина
+    Седовина (вокал, флейта)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43237
+  date: '2014-04-26'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Ансамбль
+    Олега Киреева (саксофон, Москва) и Андрея Кондакова (фортепиано)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 43238
+  date: '2014-04-27'
+  time: '19:00'
+  band_name: 'XX Международный фестиваль "Джазовая весна в Санкт-Петербурге": Ансамбль
+    Антона Баронина (фортепиано, Москва-Санкт-Петербург)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43239
+  date: '2014-04-28'
+  time: '19:00'
+  band_name: Пилигрим И. Бродский
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43240
+  date: '2014-04-29'
+  time: '19:00'
+  band_name: Алексей Попов "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43241
+  date: '2014-04-30'
+  time: '19:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43242
+  date: '2014-04-06'
+  time: '15:30'
+  band_name: Валерия Беленцова (вокал) с программой "It's All right with me" при уч.
+    Кнари Нерсесовой (фортепиано), Дмитрия Васильева (бас), Дениса Каверзнева (барабаны)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43243
+  date: '2014-04-13'
+  time: '15:30'
+  band_name: Ансамбль Дарьи Кондаковой (фортепиано, вокал) с программой "Jazz Fantazy";
+    Маргарита Кондакова (вокал, фортепиано, Финляндия) с программой "Brave Enough"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43244
+  date: '2014-04-20'
+  time: '15:30'
+  band_name: 'Проект Дмитрия Родионова (бас) - Кирилла Колешонка (гитара): "Elctricity
+    Killed The Cat"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43245
+  date: '2014-04-27'
+  time: '15:30'
+  band_name: Детский абонемент "Музыкальная Азбука" - концерт "Путешествие в мир тональностей"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43867
+  date: '2014-05-02'
+  time: '19:00'
+  band_name: All Fine
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43868
+  date: '2014-05-03'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43869
+  date: '2014-05-04'
+  time: '19:00'
+  band_name: Волков-Кондаков-Сладкевич
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43870
+  date: '2014-05-05'
+  time: '19:00'
+  band_name: Yoel Gonzalez & Alma Flamenca
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43871
+  date: '2014-05-06'
+  time: '19:00'
+  band_name: Антон Сушев (саксофон), Петр Михеев (барабаны), Александр Алексеев (клавиши),
+    Григорий Воскобойник (басгитара, контрабас)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43872
+  date: '2014-05-07'
+  time: '19:00'
+  band_name: 'Владимир Фейертаг представляет: Дуэт Jazz W.A.V.E. (Кострома)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43873
+  date: '2014-05-08'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43874
+  date: '2014-05-09'
+  time: '19:00'
+  band_name: Трио "Accordi Disaccordi" (Италия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43875
+  date: '2014-05-10'
+  time: '19:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43876
+  date: '2014-05-11'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43877
+  date: '2014-05-12'
+  time: '19:00'
+  band_name: Fusion Point
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43878
+  date: '2014-05-13'
+  time: '19:00'
+  band_name: Firebugs (Finland)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43879
+  date: '2014-05-14'
+  time: '19:00'
+  band_name: Международный студенческий фестиваль "Вечнозеленый джаз"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43880
+  date: '2014-05-15'
+  time: '19:00'
+  band_name: Katy Moon & Gary Brown (США)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43881
+  date: '2014-05-16'
+  time: '19:00'
+  band_name: New Quartet Ильи Зырянова (Москва)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43882
+  date: '2014-05-17'
+  time: '19:00'
+  band_name: 'Вечер вокального джаза "My Favorite Things": Вилена Пиккарайнен (вокал,
+    фортепиано), при уч. Николая Поправко (саксофон)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43883
+  date: '2014-05-18'
+  time: '19:00'
+  band_name: Квинтет Евгения Соколова и Кирилла Бубякина
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43884
+  date: '2014-05-19'
+  time: '19:00'
+  band_name: Группа Игоря Володина. Концерт-презентация нового диска "Вечная мерзлота"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43885
+  date: '2014-05-20'
+  time: '19:00'
+  band_name: Алексей Попов "Four & More" & Lera Gehner
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43886
+  date: '2014-05-21'
+  time: '19:00'
+  band_name: 20 лет проекту King B
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43887
+  date: '2014-05-22'
+  time: '19:00'
+  band_name: Анна Чайковская Project при уч. Андрея Кондакова, Владимира Волкова,
+    Петра Михеева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43888
+  date: '2014-05-23'
+  time: '19:00'
+  band_name: А.Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43889
+  date: '2014-05-24'
+  time: '19:00'
+  band_name: Давид Фридман (Германия, вибрафон) и трио Андрея Кондакова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43890
+  date: '2014-05-25'
+  time: '19:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43891
+  date: '2014-05-26'
+  time: '19:00'
+  band_name: Пилигрим. И. Бродский
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43892
+  date: '2014-05-27'
+  time: '19:00'
+  band_name: Lera Gehner. Flora & Fauna
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43893
+  date: '2014-05-28'
+  time: '19:00'
+  band_name: Юлия Михайловская и ее квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43894
+  date: '2014-05-29'
+  time: '19:00'
+  band_name: Camaradas
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43895
+  date: '2014-05-30'
+  time: '19:00'
+  band_name: SPB Jazz Quintet при уч. Александра Беренсона (труба) и Николая Поправко
+    (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43896
+  date: '2014-05-04'
+  time: '15:30'
+  band_name: Биг-бэнд колледжа им. Мусоргского п/у Марка Звонарева и ансамбль Николая
+    Мороза
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43897
+  date: '2014-05-11'
+  time: '15:30'
+  band_name: Школа Джаза и Мюзикла J&M School представляет Концерт "Дети и джаз"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43898
+  date: '2014-05-18'
+  time: '15:30'
+  band_name: Вокальный ансамбль "Гармония"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 43899
+  date: '2014-05-25'
+  time: '15:30'
+  band_name: 'Детский абонемент "Музыкальная Азбука": концерт "Праздник в сказочном
+    театре "'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45956
+  date: '2014-09-23'
+  time: '20:00'
+  band_name: Алексей Попов "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45957
+  date: '2014-09-24'
+  time: '20:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44512
+  date: '2014-06-01'
+  time: '19:00'
+  band_name: Волковтрио
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44513
+  date: '2014-06-02'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44518
+  date: '2014-06-07'
+  time: '19:00'
+  band_name: Ефим Чупахин (рояль), Сергей Балалаев (ударные), Анна Чайковская (вокал)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44520
+  date: '2014-06-09'
+  time: '19:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44526
+  date: '2014-06-15'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44527
+  date: '2014-06-16'
+  time: '19:00'
+  band_name: Антон Сушев (саксофон), Петр Михеев (барабаны), Александр Алексеев (клавиши),
+    Григорий Воскобойник (бас-гитара, контрабас)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44531
+  date: '2014-06-20'
+  time: '19:00'
+  band_name: Western Swing Four
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44514
+  date: '2014-06-03'
+  time: '19:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44515
+  date: '2014-06-04'
+  time: '19:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44516
+  date: '2014-06-05'
+  time: '19:00'
+  band_name: One Band Samba
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44517
+  date: '2014-06-06'
+  time: '19:00'
+  band_name: Анна Гузикова & EnerGetixBand
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44519
+  date: '2014-06-08'
+  time: '19:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44521
+  date: '2014-06-10'
+  time: '19:00'
+  band_name: Алексей Попов Four & More
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44522
+  date: '2014-06-11'
+  time: '19:00'
+  band_name: Sergeant Pepper's Band - rhythm and blues project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44523
+  date: '2014-06-12'
+  time: '19:00'
+  band_name: ValBand
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 494
+    name: Valband
+    token: valband
+- id: 44524
+  date: '2014-06-13'
+  time: '19:00'
+  band_name: Андрей Светлов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44525
+  date: '2014-06-14'
+  time: '19:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44528
+  date: '2014-06-17'
+  time: '19:00'
+  band_name: 'Lera Gehner: Flora & Fauna'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44529
+  date: '2014-06-18'
+  time: '19:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44530
+  date: '2014-06-19'
+  time: '19:00'
+  band_name: Ансамбль Татьяны Толстовой (вокал)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44532
+  date: '2014-06-21'
+  time: '19:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44533
+  date: '2014-06-22'
+  time: '19:00'
+  band_name: Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44534
+  date: '2014-06-23'
+  time: '19:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44535
+  date: '2014-06-24'
+  time: '19:00'
+  band_name: Empathy-jazz & Co
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44536
+  date: '2014-06-25'
+  time: '19:00'
+  band_name: 'Питер-Москва-транзит: Алексей Попов (саксофон, Санкт-Петербург), Алексей
+    Подымкин (фортепиано, Москва), Сергей Васильев (контрабас, Москва), Петр Михеев
+    (ударные, Санкт-Петербург), Антон Вишняков (тромбон, Санкт-Петербург)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44537
+  date: '2014-06-26'
+  time: '19:00'
+  band_name: Анастасия Абруцкая и Just For You
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44538
+  date: '2014-06-27'
+  time: '19:00'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44539
+  date: '2014-06-28'
+  time: '19:00'
+  band_name: Квартет Игоря Тимофеева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44540
+  date: '2014-06-29'
+  time: '19:00'
+  band_name: Jazz Quartet 44 Павла Чижика (вибрафон) и Станислава Чигадаева (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44541
+  date: '2014-06-30'
+  time: '19:00'
+  band_name: Jerry Kim band при уч. Николая Сизова. Посвящение Натану Лейтесу
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44542
+  date: '2014-06-01'
+  time: '15:30'
+  band_name: Школа Джаза и Мюзикла J&M School представляет концерт "Дети и джаз"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44543
+  date: '2014-06-08'
+  time: '15:30'
+  band_name: Ансамбль Дарьи Кондаковой (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44544
+  date: '2014-06-15'
+  time: '15:30'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 44545
+  date: '2014-06-22'
+  time: '15:30'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский стол" при уч. Ярослава
+    Погодина (перкуссия), Александра Конанчука (ситар), Игоря Тимофеева (саксофон)
+    и Олега Фомина (бас)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45037
+  date: '2014-07-01'
+  time: '20:00'
+  band_name: Ансамбль Ильи Луштака (гитара, США) feat. Todd Herbert (саксофон, США)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45042
+  date: '2014-07-06'
+  time: '20:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45044
+  date: '2014-07-08'
+  time: '20:00'
+  band_name: Алексей Попов - Four & More
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45047
+  date: '2014-07-11'
+  time: '20:00'
+  band_name: Андрей Рябов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45048
+  date: '2014-07-12'
+  time: '20:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45049
+  date: '2014-07-13'
+  time: '20:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45050
+  date: '2014-07-14'
+  time: '20:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45051
+  date: '2014-07-15'
+  time: '20:00'
+  band_name: Jerry Kim Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45052
+  date: '2014-07-16'
+  time: '20:00'
+  band_name: Марина Капуро Here Comes The Sun
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45053
+  date: '2014-07-17'
+  time: '20:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45054
+  date: '2014-07-18'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45055
+  date: '2014-07-19'
+  time: '20:00'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский стол"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45056
+  date: '2014-07-20'
+  time: '20:00'
+  band_id: 329
+  band_name: Chizhik Jazz Quartet
+  band_token: chizhik-jazz
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45057
+  date: '2014-07-21'
+  time: '20:00'
+  band_name: Йоель Гонсалес с программой "Искусство ритма"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45038
+  date: '2014-07-02'
+  time: '20:00'
+  band_name: Ансамбль Дарьи Кондаковой (фортепиано) при уч. Алексея Чижика (вибрафон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45039
+  date: '2014-07-03'
+  time: '20:00'
+  band_name: Domino Quartet - презентация альбома Domino
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45040
+  date: '2014-07-04'
+  time: '20:00'
+  band_name: Сергей Долженков (тромбон, дудук, диджерибон) "All Colors"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45041
+  date: '2014-07-05'
+  time: '20:00'
+  band_name: Юлия Михайловская и ее квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45043
+  date: '2014-07-07'
+  time: '20:00'
+  band_name: Jason Brown (ударные, США) и Groove Jazz Company; Дмитрий Семенов, Антон
+    Сушев, Александр Алексеев, Григорий Воскобойник
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45045
+  date: '2014-07-09'
+  time: '20:00'
+  band_name: King B & Layna Shery
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45046
+  date: '2014-07-10'
+  time: '20:00'
+  band_name: Диаna Огаnезова и Pearls при уч. Константина Хазановича (кларнет)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45058
+  date: '2014-07-22'
+  time: '20:00'
+  band_name: Lera Gehner. Flora & Fauna
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45059
+  date: '2014-07-23'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45060
+  date: '2014-07-24'
+  time: '20:00'
+  band_name: Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45061
+  date: '2014-07-25'
+  time: '20:00'
+  band_name: Анна Чайковская Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45062
+  date: '2014-07-26'
+  time: '20:00'
+  band_name: Ансамбль Руслана Хаина (контрабас) при уч. Ивана Васильева (труба)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45063
+  date: '2014-07-27'
+  time: '20:00'
+  band_name: Evgeniy Lamba's The Blues Jukebox
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45064
+  date: '2014-07-28'
+  time: '20:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45065
+  date: '2014-07-29'
+  time: '20:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45066
+  date: '2014-07-30'
+  time: '20:00'
+  band_name: Ансамбль Ивана Васильева (труба)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45917
+  date: '2014-08-15'
+  time: '20:00'
+  band_name: Ансамбль Ивана Васильева (труба)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45918
+  date: '2014-08-16'
+  time: '20:00'
+  band_name: Larry Porter (фортепиано, США) и Алексей Чижик (вибрафон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 45919
+  date: '2014-08-17'
+  time: '20:00'
+  band_name: День Рождения группы Swing Couture (9 лет)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 45920
+  date: '2014-08-18'
+  time: '20:00'
+  band_name: Йоель Гонсалес с программой "Искусство ритма"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45921
+  date: '2014-08-19'
+  time: '20:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45922
+  date: '2014-08-20'
+  time: '20:00'
+  band_name: Сендерский - Дегусаров - Михеев - Мещеряков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45923
+  date: '2014-08-21'
+  time: '20:00'
+  band_name: Леонид Сендерский (саксофон, Израиль)- Андрей Кондаков (фортепиано, Санкт-Петербург)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45924
+  date: '2014-08-22'
+  time: '20:00'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45925
+  date: '2014-08-23'
+  time: '20:00'
+  band_name: Ансамбль Виктории Урусовой (вокал)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45926
+  date: '2014-08-24'
+  time: '20:00'
+  band_name: Jazzphil Ансамбль Филиппа Мещерякова при уч. Дмитрия Семенова (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45927
+  date: '2014-08-25'
+  time: '20:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45928
+  date: '2014-08-26'
+  time: '20:00'
+  band_name: Алексей Попов "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45929
+  date: '2014-08-27'
+  time: '20:00'
+  band_name: Наталья Родина & Shoobedoobe Jazz
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45930
+  date: '2014-08-28'
+  time: '20:00'
+  band_name: А.Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45931
+  date: '2014-08-29'
+  time: '20:00'
+  band_name: Lenny Sendersky trio (Израиль) и струнный квартет. Музыка Гершвина, Брубека,
+    Джексона, Сендерского
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45934
+  date: '2014-09-01'
+  time: '20:00'
+  band_name: Терминатор Трио (Миронов, Дегусаров, Невелев)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45935
+  date: '2014-09-02'
+  time: '20:00'
+  band_name: Lera Gehner. Flora & Fauna
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45936
+  date: '2014-09-03'
+  time: '20:00'
+  band_name: Леонид Сендерский (саксофон) - Евгений Соколов (труба) Квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45937
+  date: '2014-09-04'
+  time: '20:00'
+  band_name: Волковтрио
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45938
+  date: '2014-09-05'
+  time: '20:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45939
+  date: '2014-09-06'
+  time: '20:00'
+  band_name: 'Фестиваль Лео Рекордс в JFC: Лео Фейгин и артисты Leo Records - Андрей
+    Кондаков, Вячеслав Гайворонский, Владимир Волков. Приглашенные гости - Яак Соояар
+    (Эстония), Алексей Круглов (Москва), Олег Юданов (Архангельск)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45940
+  date: '2014-09-07'
+  time: '20:00'
+  band_name: Анна Гузикова & Energetixband
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45941
+  date: '2014-09-08'
+  time: '20:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45942
+  date: '2014-09-09'
+  time: '20:00'
+  band_name: Диаna Огаnезова. Pearls при уч. Константина Хазановича (кларнет)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45943
+  date: '2014-09-10'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45944
+  date: '2014-09-11'
+  time: '20:00'
+  band_name: Ансамбль Ивана Васильева (труба)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45945
+  date: '2014-09-12'
+  time: '20:00'
+  band_name: Granny Smith
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45932
+  date: '2014-08-30'
+  time: '20:00'
+  band_id: 273
+  band_name: The Blues Gang
+  band_token: blues-gang
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45933
+  date: '2014-08-31'
+  time: '20:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45946
+  date: '2014-09-13'
+  time: '20:00'
+  band_name: Ансамбль Николая Сизова - Игоря Тимофеева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45947
+  date: '2014-09-14'
+  time: '20:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45948
+  date: '2014-09-15'
+  time: '20:00'
+  band_name: Андрей Светлов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45949
+  date: '2014-09-16'
+  time: '20:00'
+  band_name: '"Посвящение Чарли Мингусу": Г. Воскобойник, И. Тимофеев, А. Половко,
+    Е. Пономарев, А. Вишняков, П. Михеев'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45959
+  date: '2014-09-26'
+  time: '20:00'
+  band_name: Old Fashioned Blues Project & Elizabeth Allai
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 45950
+  date: '2014-09-17'
+  time: '20:00'
+  band_name: Дмитрий Семенов Квинтет (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45951
+  date: '2014-09-18'
+  time: '20:00'
+  band_name: Puttinbeatles
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45952
+  date: '2014-09-19'
+  time: '20:00'
+  band_name: All Fine
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45953
+  date: '2014-09-20'
+  time: '20:00'
+  band_name: Квинтет Евгения Соколова и Кирилла Бубякина
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45954
+  date: '2014-09-21'
+  time: '20:00'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45955
+  date: '2014-09-22'
+  time: '20:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45958
+  date: '2014-09-25'
+  time: '20:00'
+  band_name: Ансамбль Виктории Урусовой (вокал) с программой Gentle Voice
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45960
+  date: '2014-09-27'
+  time: '20:00'
+  band_name: А.Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45961
+  date: '2014-09-28'
+  time: '20:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45962
+  date: '2014-09-29'
+  time: '20:00'
+  band_name: Сергей Долженков (тромбон, дудук, диджерибон) "All Colors"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 45963
+  date: '2014-09-30'
+  time: '20:00'
+  band_name: Юлия Михайловская и ее квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46517
+  date: '2014-10-10'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46959
+  date: '2014-10-01'
+  time: '20:00'
+  band_name: Джаз-бэнд Федора Кувайцева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46960
+  date: '2014-10-02'
+  time: '20:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46961
+  date: '2014-10-03'
+  time: '20:00'
+  band_name: Евгений Соколов (труба), Кирилл Бубякин (саксофон)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46962
+  date: '2014-10-04'
+  time: '20:00'
+  band_name: '"Квартет Имени Музыки" при уч. Олега Белова и Александра Потапова (Вечерний
+    Ургант), а также Игорь Тимофеев (Аквариум)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46963
+  date: '2014-10-05'
+  time: '20:00'
+  band_name: King B & Layna Shery (Нью Йорк - Москва)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46964
+  date: '2014-10-06'
+  time: '20:00'
+  band_name: Йоель Гонсалес - секстет с программой "Искусство ритма"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46965
+  date: '2014-10-07'
+  time: '20:00'
+  band_name: Анастасия Абруцкая и Just For You
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46966
+  date: '2014-10-08'
+  time: '20:00'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский стол"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46967
+  date: '2014-10-09'
+  time: '20:00'
+  band_name: Квартет Ильи Зырянова (гитара, Москва) при уч. Натальи Скворцовой (фортепиано,
+    Москва)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46968
+  date: '2014-10-11'
+  time: '20:00'
+  band_name: Kondakov Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46969
+  date: '2014-10-12'
+  time: '20:00'
+  band_name: Margarita Kondakova Band (вокал, фортепиано, Финляндия) с программой
+    "Brave enough"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46970
+  date: '2014-10-13'
+  time: '20:00'
+  band_name: Jazz@Funck
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46971
+  date: '2014-10-14'
+  time: '20:00'
+  band_name: Lera Gehner. Flora & Fauna
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46972
+  date: '2014-10-15'
+  time: '20:00'
+  band_name: Трио Palmundo (Йоель Гонсалес - перкуссия, Артур Бочкивский - гитара,
+    Владимир Шальнев - бас-гитара) - программа "Музыка с историей"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46973
+  date: '2014-10-16'
+  time: '20:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46974
+  date: '2014-10-17'
+  time: '20:00'
+  band_name: '"Посвящение Чарли Мингусу": Г. Воскобойник, И. Тимофеев, А. Половко,
+    Е. Пономарев, А. Вишняков, П. Михеев'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46975
+  date: '2014-10-18'
+  time: '20:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46976
+  date: '2014-10-19'
+  time: '20:00'
+  band_name: Kat Gang (вокал, США), Tony Romano (гитара, США), трио Леонида Сендерского
+    (саксофон, Израиль) с программой "Manhattan Jazz Style"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46977
+  date: '2014-10-20'
+  time: '20:00'
+  band_name: Jerry Kim Band при уч. Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46978
+  date: '2014-10-21'
+  time: '20:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46979
+  date: '2014-10-22'
+  time: '20:00'
+  band_name: Шарон Кларк (вокал, США) и ансамбль Алексея Черемизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46980
+  date: '2014-10-23'
+  time: '20:00'
+  band_name: Юлия Михайловская и ее квинтет
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46981
+  date: '2014-10-24'
+  time: '20:00'
+  band_name: Camaradas
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46982
+  date: '2014-10-25'
+  time: '20:00'
+  band_name: Ансамбль Виктории Урусовой (вокал) с программой Gentle Voice
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46983
+  date: '2014-10-26'
+  time: '20:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46984
+  date: '2014-10-27'
+  time: '20:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46985
+  date: '2014-10-28'
+  time: '20:00'
+  band_name: Алексей Попов - "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46986
+  date: '2014-10-29'
+  time: '20:00'
+  band_name: Андрей Светлов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46987
+  date: '2014-10-30'
+  time: '20:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 46988
+  date: '2014-10-31'
+  time: '20:00'
+  band_name: '"Easy Winners Ragtime Band" с программой: "От кейкуока к свингу, или
+    как зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47664
+  date: '2014-11-16'
+  time: '15:30'
+  band_name: Анна Чайковская (фортепиано, вокал) Вячеслав Гайворонский (труба). Песни
+    для взрослых и детей
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47665
+  date: '2014-11-23'
+  time: '15:30'
+  band_name: Проект Дарьи Кондаковой (фортепиано, вокал) "От неоклассики до джаза".
+    Программа для взрослых и детей.
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47635
+  date: '2014-11-03'
+  time: '20:00'
+  band_name: Сергей Долженков (тромбон, дудук, диджерибон) "All Colors"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47636
+  date: '2014-11-04'
+  time: '20:00'
+  band_name: Ансамбль Виктории Урусовой (вокал) при уч. Владимира Нестеренко (фортепиано,
+    Москва)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47637
+  date: '2014-11-05'
+  time: '20:00'
+  band_name: Дуэт итальянских джазовых музыкантов Ренцо Руджери (аккордеон) и Паоло
+    ди Сабатино (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47638
+  date: '2014-11-06'
+  time: '20:00'
+  band_name: Гайворонский - Волков - Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47639
+  date: '2014-11-07'
+  time: '20:00'
+  band_name: Suvorov's Blues Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47640
+  date: '2014-11-08'
+  time: '20:00'
+  band_name: '"Квартет Имени Музыки" при уч. Олега Белова и Александра Потапова -
+    музыкантов шоу "Вечерний Ургант", а также Игорь Тимофеев (Аквариум)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47641
+  date: '2014-11-09'
+  time: '20:00'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47642
+  date: '2014-11-10'
+  time: '20:00'
+  band_name: Олеся Ялунина & Алексей Дегусаров
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47643
+  date: '2014-11-11'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47644
+  date: '2014-11-12'
+  time: '20:00'
+  band_name: Квартет Алексея Станкова (новый проект от создателя "Swing Couture")
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 47645
+  date: '2014-11-13'
+  time: '20:00'
+  band_name: А. Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47646
+  date: '2014-11-14'
+  time: '20:00'
+  band_name: 'Андрей Кондаков (фортепиано) и резиденты клуба Everjazz (Екатеринбург):
+    Андрей Плетнев (тенор-саксофон), Александр Булатов (контрабас), Артем Иванов (барабаны)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47647
+  date: '2014-11-15'
+  time: '20:00'
+  band_name: Old Fashioned B.P. & Elizabeth Allai
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 47648
+  date: '2014-11-16'
+  time: '20:00'
+  band_name: TOT SAM..... Андреа Бартелуччи (IT)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47649
+  date: '2014-11-17'
+  time: '20:00'
+  band_name: Андрей Светлов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47650
+  date: '2014-11-18'
+  time: '20:00'
+  band_name: Lera Gehner. "Flora & Fauna"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47651
+  date: '2014-11-19'
+  time: '20:00'
+  band_name: Jazz@Funck Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47652
+  date: '2014-11-20'
+  time: '20:00'
+  band_name: Концерт-джем при уч. Алексея Дегусарова, Ильдара Казаханова, Виктора
+    Матвеева, Андрея Рябова. А так же Юрий Силкин, Андрей Иванов, Роберт Пилякальнис
+    и другие
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47653
+  date: '2014-11-21'
+  time: '20:00'
+  band_name: Ансамбль Николая Сизова - Игоря Тимофеева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47654
+  date: '2014-11-22'
+  time: '20:00'
+  band_name: 'Easy Winners Ragtime Band с программой: "От кейкуока к свингу, или как
+    зарождался джаз"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47655
+  date: '2014-11-23'
+  time: '20:00'
+  band_name: Ансамбль Руслана Хаина (США) при уч. Ивана Васильева (ДДТ)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 333
+    name: ДДТ
+    token: ddt
+- id: 47656
+  date: '2014-11-24'
+  time: '20:00'
+  band_name: Domino Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47657
+  date: '2014-11-25'
+  time: '20:00'
+  band_name: Алексей Попов - Four & More
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47658
+  date: '2014-11-26'
+  time: '20:00'
+  band_name: Ансамбль Christopher Alpiar (США)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47659
+  date: '2014-11-27'
+  time: '20:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47660
+  date: '2014-11-28'
+  time: '20:00'
+  band_name: Наталья Родина & Shoobedoobe Jazz
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47661
+  date: '2014-11-29'
+  time: '20:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47662
+  date: '2014-11-30'
+  time: '20:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47663
+  date: '2014-11-09'
+  time: '15:30'
+  band_name: 'SergeAnt "Beatles songs beatless": СергейШевченков (вокал, гитара),
+    Макс Некрасов (губная гармошка), Александр Пухальский (клавишные)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 47666
+  date: '2014-11-30'
+  time: '15:30'
+  band_name: К 75-летию Марка Звонарева. Концерт Биг-бенда музыкального колледжа им.
+    Мусоргского. Джазовые стандарты.
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48454
+  date: '2014-12-28'
+  time: '20:00'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48433
+  date: '2014-12-07'
+  time: '20:00'
+  band_name: Олеся Ялунина Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48434
+  date: '2014-12-08'
+  time: '20:00'
+  band_name: Йоель Гонсалес секстет. Программа "Искусство ритма"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48435
+  date: '2014-12-09'
+  time: '20:00'
+  band_name: Андрей Рябов & Андрей Светлов Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48436
+  date: '2014-12-10'
+  time: '20:00'
+  band_name: Iris Kiss Kiss
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48437
+  date: '2014-12-11'
+  time: '20:00'
+  band_name: Ансамбль Дарьи Кондаковой при участии Алексея Чижика
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48438
+  date: '2014-12-12'
+  time: '20:00'
+  band_name: Квартет Антона Горбунова (Москва) с программой "След" при уч. Андрея
+    Кондакова, Петра Ившина, Дмитрия Семенова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48439
+  date: '2014-12-13'
+  time: '20:00'
+  band_name: Квинтет Евгения Соколова и Кирилла Бубякина
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48440
+  date: '2014-12-14'
+  time: '20:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48441
+  date: '2014-12-15'
+  time: '20:00'
+  band_name: Jazz@Funck Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48442
+  date: '2014-12-16'
+  time: '20:00'
+  band_name: Lera Gehner. "Flora & Fauna"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48443
+  date: '2014-12-17'
+  time: '20:00'
+  band_name: 'Kondakovfestival: Валерий Пономарев (труба, Нью-йорк) и ансамбль Андрея
+    Кондакова'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+- id: 48444
+  date: '2014-12-18'
+  time: '20:00'
+  band_name: 'Kondakovfestival: Гайворонский - Волков - Кондаков'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48445
+  date: '2014-12-19'
+  time: '20:00'
+  band_name: 'Kondakovfestival: Трио Андрея Кондакова при уч. Владимира Волкова и
+    Гария Багдасарьяна, специальный гость - Алексей Чижик (вибрафон)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 48446
+  date: '2014-12-20'
+  time: '20:00'
+  band_name: 'Kondakovfestival: Квартет Андрея Кондакова - Андрея Рябова, специальный
+    гость - Анна Чайковская'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48447
+  date: '2014-12-21'
+  time: '20:00'
+  band_name: 'Kondakovfestival: Andrei Kondakov Electric Orchestra'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48448
+  date: '2014-12-22'
+  time: '20:00'
+  band_name: 'Трио "Palmundo": Артур Бочкивский (гитара), Йоель Гонсалес (перкуссия),
+    Владимир Шальнев (бас-гитара) - программа "Музыка с историей"'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48449
+  date: '2014-12-23'
+  time: '20:00'
+  band_name: Алексей Попов "Four & More"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48450
+  date: '2014-12-24'
+  time: '20:00'
+  band_name: 'Trumpets Summit: Валерий Пономарев (США) и Иван Васильев'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+- id: 48451
+  date: '2014-12-25'
+  time: '20:00'
+  band_name: Проект Олега Насонова (фортепиано, вокал) "Шведский Стол"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48452
+  date: '2014-12-26'
+  time: '20:00'
+  band_name: Ансамбль Руслана Хаина (Нью-Йорк) при уч.Ивана Васильева (экс. ДДТ)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48453
+  date: '2014-12-27'
+  time: '20:00'
+  band_name: Camaradas
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48455
+  date: '2014-12-29'
+  time: '20:00'
+  band_name: Анна Чайковская и друзья
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48456
+  date: '2014-12-30'
+  time: '20:00'
+  band_name: Jerry Kim Band при уч. Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48457
+  date: '2014-12-31'
+  time: '20:00'
+  band_name: Вечерний Новогодний Джаз-бал
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48458
+  date: '2014-12-07'
+  time: '15:30'
+  band_name: Electricity killed the Cat
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48459
+  date: '2014-12-14'
+  time: '15:30'
+  band_name: 'Путешествие в мир джаза: Swing Couture и юные джазовые исполнители'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 605
+    name: Swing Couture
+    token: swing-couture
+- id: 48460
+  date: '2014-12-21'
+  time: '15:30'
+  band_name: Андрей Кондаков и ученики
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 48461
+  date: '2014-12-28'
+  time: '15:30'
+  band_name: Harms Project fusion
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc

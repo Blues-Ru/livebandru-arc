@@ -1,0 +1,13 @@
+id: 626
+token: blechschaden
+name: Blechschaden
+alive: true
+url: http://www.blechschaden.de/index.php
+genre_id: 33
+secondary_genre_id: 2
+clips:
+- id: 4409
+  type: weblink
+  url: http://www.blechschaden.de/index.php
+  name: Официальный сайт
+  sort_order: 0

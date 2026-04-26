@@ -1,0 +1,20 @@
+- id: 27107
+  date: '2012-04-17'
+  time: '19:00'
+  band_name: '"Третье дыхание": Алексей Козлов и Арсенал, Феликс Лахути (скрипка),
+    Дмитрий Илугдин (рояль), Анна Королева (саксофон, вокал)'
+  club_id: 509
+  club_name: Эльдар
+  club_token: ehldar
+  price: 500 руб.
+  comments: Презентация новых альбомов
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+  - id: 161
+    name: Анна Королева и группа Jump
+    token: anna-koroleva
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti

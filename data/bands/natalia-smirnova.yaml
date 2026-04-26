@@ -1,0 +1,12 @@
+id: 503
+token: natalia-smirnova
+name: Наталья Смирнова
+alive: true
+city_id: 1
+genre_id: 2
+clips:
+- id: 2332
+  type: weblink
+  url: http://www.jazz.ru/pages/smirnova/
+  name: Страница на Jazz.Ru
+  sort_order: 99

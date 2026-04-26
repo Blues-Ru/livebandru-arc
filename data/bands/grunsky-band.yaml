@@ -1,0 +1,44 @@
+id: 305
+token: grunsky-band
+name: Grunsky Band
+alive: true
+city_id: 70
+musicians:
+- name: Игорь Грунский
+  instruments: бас
+- name: Алексей Федоров
+  instruments: вокал, барабаны
+- name: Василий Леушкин
+  instruments: гитара
+- name: Владимир Коновалов
+  instruments: звукорежиссер
+clips:
+- id: 1089
+  type: youtube
+  url: http://www.youtube.com/?v=mpyyT5CDT5Q
+  name: Grunsky Band (Грунский Бэнд)-кавер-группа
+  comments: Grunsky Band (Грунский Бэнд-кавер-группа-8-067-793-55-93
+  sort_order: 299
+- id: 1090
+  type: youtube
+  url: http://www.youtube.com/?v=mF-ISgQKwXg
+  name: Грунский Бэнд - соло
+  comments: Grunsky Band (Грунский Бэнд-кавер-группа-8-067-793-55-93
+  sort_order: 399
+- id: 1091
+  type: youtube
+  url: http://www.youtube.com/?v=6u1K00Atp7g
+  name: Grunsky Band (Грунский Бэнд)-кавер-группа
+  comments: Grunsky Band (Грунский Бэнд)
+  sort_order: 499
+- id: 1087
+  type: youtube
+  url: http://www.youtube.com/?v=74XNn0a48ks
+  name: Грунский Бэнд - кавер-группа
+  comments: Grunsky Band (Грунский Бэнд)-кавер-группа-8-0 67-793-55-93
+  sort_order: 99
+- id: 1088
+  type: youtube
+  url: http://www.youtube.com/?v=xeur0ZY6kEM
+  name: Грунский- фрагмент-работа
+  sort_order: 199

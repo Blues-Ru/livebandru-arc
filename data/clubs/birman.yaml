@@ -1,0 +1,23 @@
+id: 259
+token: birman
+name: Бирман
+alive: true
+address: Дорот ришоним 8
+phone: +9722-623-6115
+city_id: 20
+clips:
+- id: 589
+  type: weblink
+  url: http://www.jerusalemite.net/blog/3555/a-conversation-with-dan-birron,-mayoral-candidate
+  name: Дан Бирон-хоязин Бирмана. Интервью
+  sort_order: 0
+- id: 607
+  type: youtube
+  url: http://www.youtube.com/?v=VTOQHkeka7Y
+  name: David Pearl music  Birman Jerusalem 3/6/09
+  comments: David Pearl-Drums
+  sort_order: 99
+- id: 615
+  type: youtube
+  url: http://www.facebook.com/video/video.php?v=1041548819580&subj=1391223241
+  sort_order: 199

@@ -1,0 +1,12 @@
+id: 208
+token: solnce
+name: Солнце
+alive: true
+phone: +7 (960) 727-9090
+city_id: 3
+clips:
+- id: 345
+  type: weblink
+  url: http://solnceclub.com/
+  name: Официальный сайт
+  sort_order: 0

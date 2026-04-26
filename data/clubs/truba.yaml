@@ -1,0 +1,14 @@
+id: 189
+token: truba
+name: Труба
+alive: true
+address: Фрунзе, 2
+subway: Красный проспект
+phone: (383) 227-15-69
+city_id: 19
+clips:
+- id: 195
+  type: weblink
+  url: http://www.clubtruba.ru/
+  name: Официальный сайт
+  sort_order: 0

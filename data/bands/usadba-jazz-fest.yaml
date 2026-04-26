@@ -1,0 +1,19 @@
+id: 457
+token: usadba-jazz-fest
+name: Фестиваль "Усадьба.Джаз"
+alive: true
+url: http://www.usadba-jazz.ru
+city_id: 1
+genre_id: 2
+clips:
+- id: 2162
+  type: weblink
+  url: http://www.usadba-jazz.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2163
+  type: photo
+  url: usadba-jazz-fest.jpg
+  sort_order: 0
+  width: 760
+  height: 732

@@ -1,0 +1,14 @@
+id: 650
+token: art-cafe-om
+name: Арт-кафе ОМ
+alive: true
+address: Челюскинцев, 30/2
+subway: Площадь Гарина Михайловского, Красный проспект
+phone: 221-39-17
+city_id: 19
+clips:
+- id: 3857
+  type: weblink
+  url: http://cafe-om.ru/
+  name: Официальный сайт
+  sort_order: 0

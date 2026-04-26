@@ -1,0 +1,62 @@
+- id: 16251
+  date: '2011-03-11'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: 150 руб.
+- id: 16706
+  date: '2011-04-08'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: 150 руб.
+- id: 17882
+  date: '2011-04-29'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: 150 руб.
+- id: 21117
+  date: '2011-08-05'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: бесплатный
+- id: 21704
+  date: '2011-09-09'
+  time: '20:30'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: бесплатный
+- id: 22058
+  date: '2011-10-14'
+  time: '20:00'
+  band_name: Петрович Бэнд+Анна Колесова
+  club_id: 405
+  club_name: Харди-Гарди
+  club_token: hurdy-gurdy
+  price: 200 руб.
+  extra_bands:
+  - id: 232
+    name: Петрович Бэнд
+    token: petrovich-band

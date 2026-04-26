@@ -1,0 +1,14 @@
+id: 116
+token: street-of-sound
+name: Улица Звуков
+alive: true
+url: http://www.streetofsounds.mrsu.ru
+city_id: 9
+genre_id: 1
+secondary_genre_id: 1
+clips:
+- id: 82
+  type: weblink
+  url: http://www.streetofsounds.mrsu.ru
+  name: Официальный сайт
+  sort_order: 0

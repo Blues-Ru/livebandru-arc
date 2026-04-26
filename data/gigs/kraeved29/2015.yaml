@@ -1,0 +1,305 @@
+- id: 49982
+  date: '2015-03-28'
+  time: '20:00'
+  band_name: Елена Сафонова (вокал, клавишные, Англия - Россия), Геогрий Стрелков
+    (бас), Алексей Питалов (гитара, Архангельск), Олег Юданов (барабаны, Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 49979
+  date: '2015-03-08'
+  time: '20:00'
+  band_name: 'Праздничный концерт: Александр Сипягин (труба, США), Михаил Цыганов
+    (рояль, США), Николай Клишин (контрабас, Архангельск), Алексей Барандов (барабаны,
+    Архангельск)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 49980
+  date: '2015-03-14'
+  time: '20:00'
+  band_name: Евгений "Captain" Nemoff (Москва)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 49981
+  date: '2015-03-21'
+  time: '20:00'
+  band_name: I отделение - Ансамбль Игоря Горькового, II отделение - The New Blues
+    Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 50276
+  date: '2015-03-27'
+  time: '20:00'
+  band_name: Елена Сафонова (вокал, клавишные, Россия-Англия), Георгий Стрелков (бас),
+    Алексей Питалов (гитара), Олег Юданов (барабаны)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 50429
+  date: '2015-03-28'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 50750
+  date: '2015-04-04'
+  time: '20:00'
+  band_name: 'Джазовый квартет (Москва-Архангельск): Наталья Репницына (клавиши),
+    Илья Ершов (скрипка), Владимир Борисов (барабаны), Николай Клишин (контрабас)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 50751
+  date: '2015-04-11'
+  time: '20:00'
+  band_name: 'We''re Welcome (Северодвинск): Екатерина Колосова (вокал, перкуссия),
+    Николай Честнейшин (гитара), Максим Анисимов (клавишные), Андрей Кулижников (бас),
+    Валерий Журавлев (барабаны)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 50752
+  date: '2015-04-18'
+  time: '20:00'
+  band_name: Ансамбль Тима Дорофеева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 50753
+  date: '2015-04-25'
+  time: '20:00'
+  band_name: Анжелика Маркова (вокал, Москва) и Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 51373
+  date: '2015-05-02'
+  time: '20:00'
+  band_name: '"Джаз-мастерская" - 10 лет'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 51376
+  date: '2015-05-30'
+  time: '20:00'
+  band_name: 'I отделение: Ансамбль Тима Дорофеева, II отделение: джазовый квартет
+    - Андрей Шабашев (рояль) / Илья Ершов (скрипка) / Николай Клишин (контрабас) /
+    Алексей Барандов (барабаны)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 51374
+  date: '2015-05-08'
+  time: '20:00'
+  band_name: Игорь Горьковой и друзья
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 51375
+  date: '2015-05-15'
+  time: '20:00'
+  band_name: The New Blues Band - концерт в поддержку фестиваля "Архангельск Блюз"
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 52146
+  date: '2015-06-06'
+  time: '19:00'
+  band_name: Arctic Ragas - Срегей Жигальцов (noise music, Олег Юданов (барабаны),
+    Александр Чулков (electronic music), Тим Дорофеев (гитара)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52147
+  date: '2015-06-20'
+  time: '19:00'
+  band_name: The New Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 52148
+  date: '2015-06-27'
+  time: '19:00'
+  band_name: 'Лариса Спиранова и джаз-ансамбль в программе "И не только джаз". Состав
+    ансамбля: Тим Дорофеев (гитара), Константин Седовин (вокал), Андрей Рогозин (клавишные),
+    Алексей Барандов (барабаны), Николай Клишин (бас), Виктор Хабаров (саксофон)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52484
+  date: '2015-07-04'
+  time: '19:00'
+  band_name: 'Ансамбль "Архангельские музыканты": Константин Седовин (вокал), Олег
+    Юданов (барабаны), Георгий Стрелков (бас), Тим Дорофеев (гитара), Виктор Хабаров
+    (саксофон)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52485
+  date: '2015-07-10'
+  time: '19:00'
+  band_name: Группа Ильи Федотова
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52486
+  date: '2015-07-16'
+  time: '19:00'
+  band_id: 565
+  band_name: Ива Нова
+  band_token: iva-nova
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52487
+  date: '2015-07-11'
+  time: '19:00'
+  band_name: 'I отделение: Electro accoustic string project - Илья Ершов (скрипка),
+    Алексей Питалов (гитара), Михаил Звягин (бас), Валерий Журавлев (барабаны). II
+    отделение: Jam session'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52488
+  date: '2015-07-18'
+  time: '19:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52489
+  date: '2015-07-24'
+  time: '19:00'
+  band_name: Квартет Поморской филармонии
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52490
+  date: '2015-07-25'
+  time: '19:00'
+  band_name: Арт - ансамбль
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52974
+  date: '2015-08-29'
+  time: '17:00'
+  band_name: 'IV международный джазовый фестиваль "Малина Джаз": Electro accoustic
+    string project, Ансамбль Ильи Федотова'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52970
+  date: '2015-08-01'
+  time: '19:00'
+  band_name: The New Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 52971
+  date: '2015-08-08'
+  time: '19:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52972
+  date: '2015-08-15'
+  time: '19:00'
+  band_name: We're welcome (Северодвинск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 52973
+  date: '2015-08-22'
+  time: '19:00'
+  band_name: 'I отделение - Elena Troshina Basano (ОАЭ) - вокал & архангельские музыканты;
+    II отделение - 44 Drums: Олег Кузнецов, Екатерина Пушкина, Дмитрий Лобов, Илья
+    Русанов, Алексей Питалов, Михаил Звягин, Сергей Якутенко, Алексей Филюшин, Константин
+    Рековский'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 53643
+  date: '2015-09-05'
+  time: '19:00'
+  band_name: Ансамбль "Архангельские музыканты"
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 53644
+  date: '2015-09-12'
+  time: '19:00'
+  band_name: Прекрасный город
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 53645
+  date: '2015-09-26'
+  time: '20:00'
+  band_name: Electro accoustic string project
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 53646
+  date: '2015-09-19'
+  time: '20:00'
+  band_name: 'Мини-Фест: "Баренц-Перекресток": Urband Kamp, Sobo (Израиль)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 153
+    name: SOBO
+    token: sobo
+- id: 55317
+  date: '2015-12-05'
+  time: '19:00'
+  band_name: 'Дуэт "Proton": Игорь Горьковой (клавишные, вокал, аранжировки), Татьяна
+    Попова (вокал, перкуссия) и Леонид Минин (бас)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 55318
+  date: '2015-12-12'
+  time: '19:00'
+  band_name: We're Welcome (Северодвинск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 55319
+  date: '2015-12-19'
+  time: '19:00'
+  band_name: Джаз-оркестр Владимира Федоровцева
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 55320
+  date: '2015-12-26'
+  time: '19:00'
+  band_name: 'Джаз-Маскарад: Ансамбль Тима Дорофеева & специальные гости'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Специальная праздничная программа. Вход в масках и костюмах обязательно

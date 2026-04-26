@@ -1,0 +1,18 @@
+id: 500
+token: jets
+name: The Jet's
+alive: true
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+clips:
+- id: 2303
+  type: weblink
+  url: http://vk.com/club746327
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2304
+  type: weblink
+  url: http://www.myspace.com/thejetsbandblues
+  name: Страница на MySpace
+  sort_order: 199

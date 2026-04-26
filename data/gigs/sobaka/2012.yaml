@@ -1,0 +1,151 @@
+- id: 28517
+  date: '2012-06-14'
+  time: '20:00'
+  band_name: Jimi Jagger, Pitbull Band
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+  extra_bands:
+  - id: 231
+    name: Pitbull Band
+    token: pitbull-band
+- id: 28518
+  date: '2012-06-24'
+  time: '20:00'
+  band_name: Григорий Абрамов (Bendedband), Вадим Денисов (Капитан Дик), Лев Турский
+    (Томас Мур)
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+  extra_bands:
+  - id: 317
+    name: Капитан Дик
+    token: captain-dick
+  - id: 341
+    name: Томас Мур
+    token: thomas-moore
+- id: 31496
+  date: '2012-11-02'
+  time: '21:00'
+  band_id: 283
+  band_name: Оркестр Савой
+  band_token: savoy
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31509
+  date: '2012-11-04'
+  time: '21:00'
+  band_name: Дельтоплан Гринберга
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31521
+  date: '2012-11-08'
+  time: '20:00'
+  band_name: Сообачий блюз
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31526
+  date: '2012-11-09'
+  time: '21:30'
+  band_name: Соседи
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31534
+  date: '2012-11-13'
+  time: '19:30'
+  band_name: 'Благотворительный концерт "Я хочу остаться в живых! Part 3": Антон Тажун
+    и Starlite Band, Соседи,...'
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31539
+  date: '2012-11-15'
+  time: '20:00'
+  band_name: Сложный вопрос
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31545
+  date: '2012-11-17'
+  time: '21:30'
+  band_name: Рви меха оркестр
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31546
+  date: '2012-11-18'
+  time: '19:00'
+  band_name: Sobo (USA, Израиль)
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 153
+    name: SOBO
+    token: sobo
+- id: 31549
+  date: '2012-11-20'
+  time: '20:00'
+  band_name: Low Mo
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31552
+  date: '2012-11-21'
+  time: '20:00'
+  band_name: '"Музыкальное лото": Николай Соловьев и Максим Мисютин'
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31557
+  date: '2012-11-22'
+  time: '20:00'
+  band_name: Молока стакан
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31565
+  date: '2012-11-25'
+  time: '20:00'
+  band_name: Кухня
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31568
+  date: '2012-11-27'
+  time: '19:30'
+  band_name: Музыкальный капустник клуба "Квант"
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31573
+  date: '2012-11-29'
+  time: '20:00'
+  band_name: '"Собачий блюз": Pitbull Band'
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 231
+    name: Pitbull Band
+    token: pitbull-band
+- id: 31577
+  date: '2012-12-02'
+  time: '19:00'
+  band_name: Джей Си Смит (USA)
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 31580
+  date: '2012-12-07'
+  time: '19:00'
+  band_name: Настя Полева
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka

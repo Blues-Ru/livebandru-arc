@@ -1,0 +1,332 @@
+- id: 56119
+  date: '2016-01-11'
+  time: '18:00'
+  band_name: 'Blues''n''Road: Elvis Presley Birthday'
+  club_name: Африка-2
+  city_id: 2
+  price: 100 рублей
+- id: 56449
+  date: '2016-02-04'
+  time: '20:00'
+  band_name: Умка. Электричество
+  club_name: Zoccolo
+  city_id: 2
+  price: 300+
+- id: 56450
+  date: '2016-02-05'
+  time: '19:30'
+  band_name: Умка; "Ключ"
+  club_name: Ауровилль
+  city_id: 2
+  price: Donation
+- id: 56447
+  date: '2016-01-31'
+  time: '19:00'
+  band_name: Blues'n'Road; "Ультраволна"
+  club_name: Байконур
+  city_id: 2
+  price: 150 руб.
+- id: 56742
+  date: '2016-02-06'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: White Shark (г. Королев)
+  city_id: 1
+  price: бесплатный
+- id: 56746
+  date: '2016-02-05'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Brugge pub
+  city_id: 1
+  price: бесплатный
+- id: 56822
+  date: '2016-02-22'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: White Shark Королев
+  city_id: 1
+  price: бесплатный
+- id: 56933
+  date: '2016-02-26'
+  time: '19:00'
+  band_name: День рождения Джорджа Харрисона. Blues'n'Road, Лондон, Владимир Леви
+    (Тамбурин), Грибы
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 57548
+  date: '2016-04-08'
+  time: '21:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_name: клуб "До лампочки"
+  city_id: 1
+- id: 57461
+  date: '2016-03-08'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_name: Machine Head
+  city_id: 29
+- id: 57465
+  date: '2016-03-14'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_name: ДК Алюминщик
+  city_id: 55
+- id: 57503
+  date: '2016-03-18'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: White Shark Королев
+  city_id: 1
+  price: бесплатный
+- id: 57521
+  date: '2016-04-16'
+  time: '21:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_name: бар Дума
+  city_id: 1
+  price: free
+- id: 57523
+  date: '2016-04-30'
+  time: '21:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_name: бар "Пятак" (г. Королев)
+  city_id: 1
+  price: free
+- id: 57525
+  date: '2016-03-26'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 57502
+  date: '2016-03-12'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Bashni Live Music Club\r\nнаб. Обводного канала д.74\r\nБронирование\
+    \ столов: +7 (921) 966-6464"
+- id: 57669
+  date: '2016-04-14'
+  time: '19:00'
+  band_name: Сергей Калугин (соло)
+  club_name: Opera Concert Club
+  city_id: 2
+  price: 600 - 1000 рублей
+- id: 58786
+  date: '2016-05-28'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: White Shark в Королеве
+  city_id: 1
+  price: бесплатный
+- id: 58861
+  date: '2016-05-20'
+  time: '22:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+- id: 58228
+  date: '2016-04-22'
+  time: '21:00'
+  band_id: 715
+  band_name: Jo' Buddy
+  band_token: jo-buddy
+  club_name: Hophead Craft Beer Pub
+  city_id: 1
+- id: 58288
+  date: '2016-04-29'
+  time: '21:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Чаплин Холл
+  city_id: 2
+- id: 58869
+  date: '2016-05-31'
+  time: '19:00'
+  band_name: 'Blues''n''Road: программа из песен Rolling Stones'
+  club_name: Байконур
+  city_id: 2
+  price: 100 рублей
+- id: 58860
+  date: '2016-05-13'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: brugge pub
+  city_id: 1
+  price: бесплатный
+- id: 59412
+  date: '2016-06-17'
+  time: '19:00'
+  band_name: Оргия праведников
+  club_name: Опера
+  city_id: 2
+  price: 700-1500 рублей
+- id: 59492
+  date: '2016-06-17'
+  time: '20:00'
+  band_name: Boogie Child+ J.D.Slinger (Texas USA)
+  club_name: Saloon Night Train
+  city_id: 1
+  price: бесплатный
+  comments: "Blues, Blues Rock, Classic Rock hit and Original Songs из Техаса\r\n\
+    На концерте Jake Slinger исполнит кавер-версии известных хитов ZZ Top, Jerry Lee\
+    \ Lewis. \"Chuck\" Berry, Dire Straits, Freddie King, Stevie Ray Vaughan, John\
+    \ Mayer, Brad Paisley, и несколько собственных песен. \r\nSALOON NIGHT TRAIN \r\
+    \nАдрес клуба: г. Москва, м.Дубровка, 1-ый Угрешский проезд д.7а, стр. 2"
+  extra_bands:
+  - id: 461
+    name: Boogie Child
+    token: boogie-child
+- id: 59904
+  date: '2016-08-20'
+  time: '19:00'
+  band_id: 717
+  band_name: Мыс доброй надежды
+  band_token: mysdn
+  club_name: https://vk.com/odnoy_dorogoy
+  city_id: 40
+  price: 800 руб.
+- id: 59930
+  date: '2016-07-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Sherwood Pub Мытищи
+  city_id: 1
+  price: бесплатный
+- id: 59999
+  date: '2016-08-26'
+  time: '20:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_name: Koktebel Jazz Party
+  city_id: 121
+- id: 59905
+  date: '2016-07-16'
+  time: '16:00'
+  band_name: Гитарно-вокальный фестиваль
+  club_name: Байконур
+  city_id: 2
+- id: 60380
+  date: '2016-08-27'
+  time: '18:00'
+  band_name: Wild Rose (Glam\Hard Rock); InsaneR (heavy metal); Suicide Sun (Gothic
+    metal); Ультраволна (Ultra-Heavy-Metal); Дорога воина (Hard'n'Heavy/Classic metal);
+    Rubrum Viper (metal)
+  club_name: Байконур
+  city_id: 2
+  price: 150 рублей
+- id: 60480
+  date: '2016-09-11'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_name: Rhythm & Blues Cafe
+  city_id: 1
+  price: от 800 р.
+- id: 60850
+  date: '2016-09-15'
+  band_name: Blind Boy Tinder
+  club_name: Mashine Head
+  city_id: 29
+  comments: http://blues.ru/news/2016/09/#1097
+- id: 61068
+  date: '2016-10-08'
+  time: '21:00'
+  band_id: 670
+  band_name: Will Wilde
+  band_token: will-wilde
+  club_name: Клуб Афиша
+  city_id: 1
+  price: 800 руб.
+- id: 61496
+  date: '2016-11-11'
+  time: '19:00'
+  band_name: Бернард Швентер (банджо, вокал, Швейцария) и Old Fashioned Trio (Екатеринбург)
+  club_name: Камчатский колледж искусств
+  city_id: 133
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 61489
+  date: '2016-11-04'
+  time: '16:00'
+  band_name: Old Fashioned Trio (Екатеринбург) и Бернард Швентер (банджо, вокал, Швейцария)
+  club_name: Детская школа искусств
+  city_id: 132
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 61497
+  date: '2016-11-16'
+  time: '19:00'
+  band_name: Бернард Швентер (банджо, вокал, Швейцария) и Old Fashioned Trio (Екатеринбург)
+  club_name: Ресторан-Клуб "Гости"
+  city_id: 134
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 61917
+  date: '2016-11-04'
+  time: '15:30'
+  band_name: Андрей Карлышев (гитары, стик) и его проект Karlsheff
+  club_name: LADы
+  city_id: 2
+  price: 150 - 700 рублей
+- id: 61957
+  date: '2016-11-11'
+  time: '21:00'
+  band_id: 555
+  band_name: '"After Midnight" Blues Rock Band'
+  band_token: after-midnight
+  club_name: Pianobar Niko
+  city_id: 2
+  price: плати за концерт, сколько можешь
+  comments: "Pianobar Niko, Коломенская д.9\r\nВход: donation"
+- id: 62419
+  date: '2016-12-02'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Brugge pub
+  city_id: 1
+  price: бесплатный

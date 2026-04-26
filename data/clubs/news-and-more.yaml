@@ -1,0 +1,14 @@
+id: 675
+token: news-and-more
+name: News&More
+alive: true
+address: Новинский бульвар, д. 11
+subway: Смоленская, Краснопресненская
+phone: +7(495)605-17-84
+city_id: 1
+clips:
+- id: 4172
+  type: weblink
+  url: http://newsandmore.ru
+  name: Официальный сайт
+  sort_order: 0

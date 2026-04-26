@@ -1,0 +1,13 @@
+id: 752
+token: cafe-jazz
+name: Кафе "Джаз"
+alive: true
+address: Московская обл., Воскресенский район, Цибино, ул. Пименовка, 68
+phone: +7(985)166-5-166
+city_id: 123
+clips:
+- id: 5279
+  type: weblink
+  url: http://vjazzcafe.ru
+  name: Официальный сайт
+  sort_order: 0

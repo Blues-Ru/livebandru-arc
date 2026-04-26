@@ -1,0 +1,39 @@
+- id: 8862
+  date: '2008-04-11'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 9519
+  date: '2008-11-01'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 9623
+  date: '2008-12-06'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 9686
+  date: '2008-12-05'
+  time: '20:30'
+  band_name: 'Фестиваль Блюза: Петр Подгородецкий'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 700 р.
+- id: 9687
+  date: '2008-11-26'
+  band_name: Фестиваль блюза. Вадим Иващенко, Михаил Соколов "Петрович", Алексей Аграновский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 р.

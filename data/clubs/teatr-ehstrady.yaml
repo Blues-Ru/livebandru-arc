@@ -1,0 +1,14 @@
+id: 507
+token: teatr-ehstrady
+name: Театр Эстрады
+alive: true
+address: Берсеневская наб., д. 20/2
+subway: Кропоткинская
+phone: +7(495)959-0550
+city_id: 1
+clips:
+- id: 2635
+  type: weblink
+  url: http://www.teatr-estrada.ru/
+  name: Официальный сайт
+  sort_order: 0

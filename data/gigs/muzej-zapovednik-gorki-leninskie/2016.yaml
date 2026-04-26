@@ -1,0 +1,27 @@
+- id: 59795
+  date: '2016-07-09'
+  time: '15:00'
+  band_name: 'Фестиваль "Джазовые сезоны в Ленинских Горках": Квинтет Сергея Долженкова,
+    Трио Юлии Перминовой, Alexander Dovgopoly Project, Юлиана Рогачева (вокал) и ее
+    группа, Игорь Бутман и Московский джазовый оркестр'
+  club_id: 846
+  club_name: Музей-заповедник "Горки Ленинские"
+  club_token: muzej-zapovednik-gorki-leninskie
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 59796
+  date: '2016-07-10'
+  time: '15:00'
+  band_name: 'Фестиваль "Джазовые сезоны в Ленинских Горках": Алина Ростоцкая (вокал)
+    и Jazzmobile; Ярослава Симонова (вокал) и ее группа; Квинтет Олега Бутмана при
+    уч. Randy Brecker (труба, США), Leon Foster Thomas (стилпэн, США), Calvin Jones
+    (бас-гитара, США); Оркестр Павла Овчинникова'
+  club_id: 846
+  club_name: Музей-заповедник "Горки Ленинские"
+  club_token: muzej-zapovednik-gorki-leninskie
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya

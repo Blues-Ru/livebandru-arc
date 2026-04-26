@@ -1,0 +1,865 @@
+- id: 12692
+  date: '2010-09-28'
+  time: '22:00'
+  band_id: 99
+  band_name: Полина Касьянова и Django Band
+  band_token: django-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12693
+  date: '2010-09-29'
+  time: '22:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12696
+  date: '2010-10-02'
+  time: '22:00'
+  band_name: St. Petersburg Ska-Jazz Review
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12698
+  date: '2010-10-07'
+  time: '22:00'
+  band_id: 195
+  band_name: Инна Желанная
+  band_token: inna-zhelannaya
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12683
+  date: '2010-09-17'
+  time: '22:00'
+  band_name: Гоша Куценко "Май Ворлд"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12684
+  date: '2010-09-18'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12686
+  date: '2010-09-21'
+  time: '22:00'
+  band_name: 'Большой джем: Сергей Воронов, Гия Дзагнидзе, Николай Девлет-Кильдеев,
+    Михаил Владимиров, Алексей Блохин, Дарья Ловать'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 12699
+  date: '2010-10-08'
+  time: '22:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12701
+  date: '2010-10-14'
+  time: '22:00'
+  band_name: 'Джазовые трансформации: Андрей Макаревич & Трио Евгения Борца, Ирина
+    Родилес'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 13064
+  date: '2010-10-11'
+  time: '22:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13066
+  date: '2010-10-15'
+  time: '22:00'
+  band_id: 112
+  band_name: Калинов мост
+  band_token: kalinov-most
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13069
+  date: '2010-10-21'
+  time: '22:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13070
+  date: '2010-10-23'
+  time: '22:00'
+  band_name: 'Фестиваль "Вдох": Фруктовый Кефир, Kooqla, Guru Groove Foundation, Dubstepler'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13072
+  date: '2010-10-28'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13074
+  date: '2010-10-30'
+  time: '22:00'
+  band_id: 253
+  band_name: Точка Росы
+  band_token: tochka-rosy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13097
+  date: '2010-10-19'
+  time: '21:00'
+  band_id: 250
+  band_name: Cpt.Nemoff Blues Trio
+  band_token: evgeny-nemov
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 100 руб.
+- id: 13063
+  date: '2010-10-04'
+  time: '22:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13065
+  date: '2010-10-13'
+  time: '22:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13067
+  date: '2010-10-16'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13068
+  date: '2010-10-20'
+  time: '22:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13071
+  date: '2010-10-25'
+  time: '22:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13073
+  date: '2010-10-29'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13276
+  date: '2010-11-05'
+  time: '20:30'
+  band_name: Jimmy C (UK) & Cpt.Nemoff
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+  extra_bands:
+  - id: 250
+    name: Cpt.Nemoff Blues Trio
+    token: evgeny-nemov
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+- id: 13473
+  date: '2010-11-06'
+  time: 01:00
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13474
+  date: '2010-11-07'
+  time: '22:00'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13476
+  date: '2010-11-10'
+  time: '22:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13478
+  date: '2010-11-12'
+  time: '22:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13479
+  date: '2010-11-13'
+  time: '22:00'
+  band_name: Ян Яненков и Алексей Белов (Парк Горького)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13480
+  date: '2010-11-15'
+  time: '22:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13483
+  date: '2010-11-18'
+  time: '22:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13484
+  date: '2010-11-19'
+  time: '22:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13485
+  date: '2010-11-20'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13492
+  date: '2010-11-29'
+  time: '22:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13493
+  date: '2010-11-30'
+  time: '22:00'
+  band_name: '95-летие Brownie McGhee: Сергей Воронов, Алексей Аграновский, Юрий Каверкин,
+    Вадим Иващенко'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 13447
+  date: '2010-11-08'
+  time: '22:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13481
+  date: '2010-11-16'
+  time: '22:00'
+  band_name: '"Brazil Jazz" c Анатолием Герасимовым'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13482
+  date: '2010-11-17'
+  time: '22:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13486
+  date: '2010-11-22'
+  time: '22:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13487
+  date: '2010-11-23'
+  time: '22:00'
+  band_name: 'Джем: Сергей Воронов, Гия Дзагнидзе, Николай Девлет-Кильдеев, Михаил
+    Владимиров, Алексей Блохина и Дарья Ловать'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 13488
+  date: '2010-11-24'
+  time: '22:00'
+  band_name: Dipped in Purple
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13489
+  date: '2010-11-25'
+  time: '22:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13490
+  date: '2010-11-26'
+  time: '22:00'
+  band_name: 'Real Rock Fest: Blast, Crossroadz, Twelve Dolls (Испания), Eddie And
+    The Hot Rods (Великобритания)'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 104
+    name: Blast
+    token: blast
+- id: 13491
+  date: '2010-11-27'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13933
+  date: '2010-12-06'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14504
+  date: '2010-12-27'
+  time: '22:00'
+  band_name: Проект Владимира Голоухова
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 13994
+  date: '2010-12-03'
+  time: '22:00'
+  band_name: Мегаполис
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14040
+  date: '2010-12-09'
+  time: '21:00'
+  band_name: Варя Демидова
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14434
+  date: '2010-12-13'
+  time: '21:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14435
+  date: '2010-12-14'
+  time: '21:00'
+  band_name: 'Большой джем: Сергей Воронов, Гия Дзагнидзе, Николай Девлет-Кильдеев,
+    Михаил Владимиров, Алексей Блохин и Дарья Ловать'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 14436
+  date: '2010-12-15'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14437
+  date: '2010-12-20'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14438
+  date: '2010-12-21'
+  time: '21:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 100 руб.
+- id: 14439
+  date: '2010-12-22'
+  time: '21:00'
+  band_id: 84
+  band_name: X-Team
+  band_token: x-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14501
+  date: '2010-12-31'
+  time: 02:00
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14505
+  date: '2010-12-28'
+  time: '22:00'
+  band_id: 83
+  band_name: Николай Садиков
+  band_token: sadikov
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14506
+  date: '2010-12-29'
+  time: '21:00'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12337
+  date: '2010-07-09'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12407
+  date: '2010-07-10'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12468
+  date: '2010-08-25'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12472
+  date: '2010-09-02'
+  time: '22:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12511
+  date: '2010-08-07'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12469
+  date: '2010-08-26'
+  time: '22:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12670
+  date: '2010-08-31'
+  time: '22:00'
+  band_name: 'Два рояля: Алексей Блохин и Евгений "Аллигатор" Лепихин'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 12671
+  date: '2010-09-01'
+  time: '22:00'
+  band_name: Dipped in Purple
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12672
+  date: '2010-09-03'
+  time: '22:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12674
+  date: '2010-09-06'
+  time: '22:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12675
+  date: '2010-09-07'
+  time: '22:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12470
+  date: '2010-08-27'
+  time: '22:00'
+  band_name: Howard Levy и Chris Siebold (USA)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12471
+  date: '2010-08-28'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12685
+  date: '2010-09-20'
+  time: '22:00'
+  band_id: 100
+  band_name: Jazz Fabrique
+  band_token: jazz-fabrique
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12673
+  date: '2010-09-04'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12676
+  date: '2010-09-08'
+  time: '22:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12677
+  date: '2010-09-09'
+  time: '22:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12678
+  date: '2010-09-10'
+  time: '22:00'
+  band_name: Варя Демидова
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12679
+  date: '2010-09-13'
+  time: '22:00'
+  band_name: 'Два рояля: Алексей Блохин и Евгений "Аллигатор" Лепихин'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 12680
+  date: '2010-09-14'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12681
+  date: '2010-09-15'
+  time: '22:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12682
+  date: '2010-09-16'
+  time: '22:00'
+  band_name: Мегаполис
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12687
+  date: '2010-09-22'
+  time: '22:00'
+  band_name: Easy Dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12688
+  date: '2010-09-23'
+  time: '22:00'
+  band_name: Квартал
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12689
+  date: '2010-09-24'
+  time: '22:00'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12690
+  date: '2010-09-25'
+  time: '22:00'
+  band_name: БоБРы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12691
+  date: '2010-09-27'
+  time: '22:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12694
+  date: '2010-09-30'
+  time: '22:00'
+  band_name: Александр Кутиков
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12695
+  date: '2010-10-01'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12697
+  date: '2010-10-06'
+  time: '22:00'
+  band_name: Sabbath Inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 133
+    name: Sabbath Inside
+    token: sabbath-inside
+- id: 12700
+  date: '2010-10-09'
+  time: '22:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 12658
+  date: '2010-09-11'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13222
+  date: '2010-10-26'
+  time: '22:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 13471
+  date: '2010-11-03'
+  time: '22:00'
+  band_name: El Canuto (Чили)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13472
+  date: '2010-11-04'
+  time: '22:00'
+  band_name: Joe Lynn Turner
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 13475
+  date: '2010-11-09'
+  time: '22:00'
+  band_name: 'Два рояля: Алексей Блохин и Евгений "Аллигатор" Лепихин'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 13477
+  date: '2010-11-11'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town

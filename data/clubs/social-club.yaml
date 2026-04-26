@@ -1,0 +1,14 @@
+id: 901
+token: social-club
+name: Social Club
+alive: true
+address: ул. Рубинштейна, 40
+subway: Достоевская, Владимирская
+phone: +7(812)925-4342
+city_id: 2
+clips:
+- id: 9081
+  type: weblink
+  url: https://vk.com/socialclub_spb
+  name: Официальный сайт
+  sort_order: 0

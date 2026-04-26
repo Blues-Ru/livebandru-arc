@@ -1,0 +1,43 @@
+id: 304
+token: ap-edinenie
+name: Ап-Единение
+alive: true
+city_id: 70
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Дмитрий Краснокутский
+  instruments: гитара
+- name: Михаил Надь
+  instruments: голос, бас
+- name: Юрий Погорелый
+  instruments: гитара
+- name: Виталий Жуков
+  instruments: ударные
+- name: Анатолий Собакарь
+  instruments: скрипка
+clips:
+- id: 1083
+  type: youtube
+  url: http://www.youtube.com/?v=251SJBQfrE0
+  name: Little Wing (Jimi Hendrix)
+  comments: "Blues MIX (2008)\r\nМое посвящение другу — виртуозному гитаристу Андрею\
+    \ Подвигину"
+  sort_order: 99
+- id: 1084
+  type: youtube
+  url: http://www.youtube.com/?v=4kMeNqIX6IA
+  name: Блюз "Покой"
+  comments: Jammin' BluezzZ (2008)
+  sort_order: 199
+- id: 1086
+  type: weblink
+  url: http://vk.com/topic-16355175
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1085
+  type: youtube
+  url: http://www.youtube.com/?v=fIJxF8NtNOU
+  name: Бесконечное Кольцо
+  comments: Живое выступление на утреннем эфире передачи "Утро с ТВ5" (2008)
+  sort_order: 299

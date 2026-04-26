@@ -1,0 +1,27 @@
+id: 173
+token: dacha-na-pokrovke
+name: Дача на Покровке
+alive: true
+address: Покровский бул., 18/15, стр. 2
+subway: Китай-Город
+phone: (499) 764-99-95, (495) 916-03-57
+city_id: 1
+clips:
+- id: 161
+  type: weblink
+  url: http://www.dacha-napokrovke.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 163
+  type: weblink
+  url: http://vk.com/club9753053
+  sort_order: 100
+- id: 164
+  type: weblink
+  url: http://www.facebook.com/profile.php?id=100001287930308
+  name: на Facebook
+  sort_order: 200
+- id: 162
+  type: rss
+  url: http://club-dacha.livejournal.com/data/rss
+  sort_order: 99

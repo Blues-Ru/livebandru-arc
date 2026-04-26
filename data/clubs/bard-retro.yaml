@@ -1,0 +1,15 @@
+id: 432
+token: bard-retro
+name: Бард-ретро
+alive: true
+address: Каланчевская, 15а
+subway: Красные Ворота
+phone: (495) 975-55-03
+city_id: 1
+comments: в помещении ресторана "Золотой дракон"
+clips:
+- id: 2013
+  type: weblink
+  url: http://www.bard-retro.ru/
+  name: Официальный сайт
+  sort_order: 0

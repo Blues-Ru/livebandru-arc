@@ -1,0 +1,71 @@
+id: 61
+token: 26herz
+name: 26 Герц
+aliases: '26 Hz
+
+  26Hz
+
+  26herz
+
+  26 Herz'
+alive: true
+url: http://26hz.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Иван Авалиани
+  instruments: барабаны
+- name: Сергей Коньков
+  instruments: гитара
+- name: Николай Добкин
+  instruments: фагот
+- name: Сергей Шитов
+  instruments: кларнет
+- name: Ольга Олейникова
+  instruments: вокал
+- name: Александр Байдаков
+  instruments: бас
+clips:
+- id: 3228
+  type: weblink
+  url: http://26hz.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 8385
+  type: weblink
+  url: https://vk.com/26herz
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 8386
+  type: weblink
+  url: https://www.facebook.com/26Herz/
+  name: Страница на FaceBook
+  sort_order: 299
+- id: 8388
+  type: youtube
+  url: https://www.youtube.com/watch?v=-k_CiPj-hk4
+  name: 26 Герц So what
+  sort_order: 99
+- id: 8387
+  type: photo
+  url: 26herz.jpg
+  sort_order: 0
+  width: 4169
+  height: 2801
+- id: 8599
+  type: youtube
+  url: https://www.youtube.com/watch?v=R_iSpp6QkD4
+  name: Живой концерт группы "26 герц" - Роковой уикенд
+  comments: "Подписывайтесь - http://www.youtube.com/mayaktv?sub_confirmation=1\n\n\
+    У нас не всегда рок в дестилированном виде, но это всегда достойные музыканты.\
+    \ \n\nГруппа 26 герц — вокал Ольги Олейниковой, и её обуч"
+  sort_order: 50
+- id: 8755
+  type: youtube
+  url: https://www.youtube.com/watch?v=NnvSvQHTnFU
+  name: 26 Герц - Let It Snow
+  comments: Новогоднее поздравление от группы 26 Герц.Съемка и монтаж  Дмитрий АлейниковСостав:Николай
+    Добкин (фагот)Сергей Шитов (кларнет)Сергей Коньков (гитара)Александр Байдаков
+    (бас)Иван Авалиани (у
+  sort_order: 0

@@ -1,0 +1,4712 @@
+- id: 76226
+  date: '2019-01-05'
+  time: '15:00'
+  band_name: Новогодний джазовый бранч. The Kikipickles
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76227
+  date: '2019-01-12'
+  time: '15:00'
+  band_name: Новогодний джазовый бранч. The Kikipickles
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76228
+  date: '2019-01-08'
+  time: '15:00'
+  band_name: Новогодний джазовый бранч. Moscow Ragtime Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 76231
+  date: '2019-01-04'
+  time: '20:00'
+  band_name: Рождественские каникулы с Большим Джазовым Оркестром (БДО). Джаз-сюита
+    "Щелкунчик"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76232
+  date: '2019-01-04'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76233
+  date: '2019-01-11'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76234
+  date: '2019-01-18'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76235
+  date: '2019-01-25'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76237
+  date: '2019-01-06'
+  time: '21:00'
+  band_name: Квартет Макара Новикова. "In a Cello mood"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76242
+  date: '2019-01-27'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76246
+  date: '2019-01-08'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76250
+  date: '2019-01-10'
+  time: '21:00'
+  band_name: Ray Blue и трио Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76251
+  date: '2019-01-11'
+  time: '21:00'
+  band_name: LRK Trio при уч. струнного квартета Main Strings
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76252
+  date: '2019-01-12'
+  time: '19:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 76253
+  date: '2019-01-12'
+  time: '22:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 76254
+  date: '2019-01-12'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76255
+  date: '2019-01-14'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76256
+  date: '2019-01-21'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76257
+  date: '2019-01-28'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76258
+  date: '2019-01-17'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76259
+  date: '2019-01-17'
+  time: '21:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76260
+  date: '2019-01-18'
+  time: '21:00'
+  band_name: 'Анастасия Лютова и Лютый Бэнд: "The Cole Porter Songbook"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76268
+  date: '2019-01-31'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76269
+  date: '2019-01-31'
+  time: '21:00'
+  band_name: Alemay Fernandez (вокал, Сингапур) и ансамбль Якова Окуня
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76222
+  date: '2019-01-03'
+  time: '22:00'
+  band_name: Рождественские каникулы с Большим Джазовым Оркестром (БДО). Джаз-сюита
+    "Щелкунчик"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76223
+  date: '2019-01-03'
+  time: '19:00'
+  band_name: Рождественские каникулы с Большим Джазовым Оркестром (БДО). Джаз-сюита
+    "Щелкунчик"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76224
+  date: '2019-01-03'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Виталия Головнева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76225
+  date: '2019-01-04'
+  time: '15:00'
+  band_name: Новогодний джазовый бранч. Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76229
+  date: '2019-01-07'
+  time: '15:00'
+  band_name: Новогодний джазовый бранч. Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76230
+  date: '2019-01-04'
+  time: '22:00'
+  band_name: Рождественские каникулы с Большим Джазовым Оркестром (БДО). Джаз-сюита
+    "Щелкунчик"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76236
+  date: '2019-02-01'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76238
+  date: '2019-01-05'
+  time: '21:00'
+  band_name: Трио Олега Аккуратова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76239
+  date: '2019-01-06'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76240
+  date: '2019-01-13'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76241
+  date: '2019-01-20'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76243
+  date: '2019-01-05'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 76244
+  date: '2019-01-06'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Ирина Родилес и Михаил Меркулов'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 76245
+  date: '2019-01-07'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76247
+  date: '2019-01-15'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76248
+  date: '2019-01-22'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76249
+  date: '2019-01-29'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76261
+  date: '2019-01-19'
+  time: '21:00'
+  band_name: Квартет Анны Бутурлиной
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76262
+  date: '2019-01-19'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Леонида Винцкевича-младшегойй'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76263
+  date: '2019-01-20'
+  time: '21:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76264
+  date: '2019-01-24'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76265
+  date: '2019-01-24'
+  time: '21:00'
+  band_name: София Ацбеха Негга и Джаз Классик Трио
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76266
+  date: '2019-01-26'
+  time: '19:00'
+  band_name: Торстен Гудс (гитара, Германия) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 76267
+  date: '2019-01-26'
+  time: '22:00'
+  band_name: Торстен Гудс (гитара, Германия) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 77658
+  date: '2019-03-24'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76930
+  date: '2019-02-01'
+  time: '21:00'
+  band_name: Давид Голощекин и друзья. Программа "Ни дня без свинга"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76931
+  date: '2019-02-02'
+  time: '21:00'
+  band_name: Биг-бенд Георгия Гараняна п/у Станислава Должкова с программой "Золотые
+    Мелодии Джаза"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76932
+  date: '2019-02-02'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Sakhra'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76933
+  date: '2019-02-03'
+  time: '15:00'
+  band_name: Воскресный бранч с Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76934
+  date: '2019-02-03'
+  time: '21:00'
+  band_name: Ark Ovrutski Quartet (Россия / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76935
+  date: '2019-02-04'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76936
+  date: '2019-02-11'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76937
+  date: '2019-02-18'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76938
+  date: '2019-02-25'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76942
+  date: '2019-02-24'
+  time: '21:00'
+  band_name: Квинтет Павла Тимофеева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76943
+  date: '2019-02-24'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76944
+  date: '2019-02-17'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76939
+  date: '2019-02-28'
+  time: '21:00'
+  band_name: Jazz F@nck Quartet
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76940
+  date: '2019-02-28'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76941
+  date: '2019-02-26'
+  time: '21:00'
+  band_name: Квартет Дарьи Антоновой
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76956
+  date: '2019-02-08'
+  time: '21:30'
+  band_name: Билли Новик & Петербургский Джазовый Актив
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76961
+  date: '2019-02-10'
+  time: '21:00'
+  band_name: Тесса Сутер (вокал, США) и трио Даниила Крамера
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 76962
+  date: '2019-02-12'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76965
+  date: '2019-02-15'
+  time: '22:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 76966
+  date: '2019-02-15'
+  time: '19:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 76945
+  date: '2019-02-10'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 76946
+  date: '2019-02-08'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76947
+  date: '2019-02-15'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76948
+  date: '2019-02-22'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76949
+  date: '2019-03-01'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76950
+  date: '2019-02-05'
+  time: '21:00'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 76951
+  date: '2019-02-07'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76952
+  date: '2019-02-14'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76953
+  date: '2019-02-21'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76954
+  date: '2019-02-21'
+  time: '21:00'
+  band_name: Трио Жоандера Сантоса (Бразилия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76955
+  date: '2019-02-07'
+  time: '21:00'
+  band_name: Bril Family & специальный гость Андрей Макаревич с программой "Эллингтониада"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76957
+  date: '2019-02-08'
+  time: '19:00'
+  band_name: Билли Новик & Петербургский Джазовый Актив
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76958
+  date: '2019-02-09'
+  time: '20:00'
+  band_name: Just Jazz Вячеслава Великого с программой "Всматриваясь в портреты"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Концерт в новом пространстве Jazz Lab на первом этаже клуба
+- id: 76959
+  date: '2019-02-09'
+  time: '21:00'
+  band_name: Леонид Пташка и трио Стаса Майнугина
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76960
+  date: '2019-02-09'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Органное трио Владимира Нестеренко'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76963
+  date: '2019-02-19'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76964
+  date: '2019-02-14'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76967
+  date: '2019-02-16'
+  time: '20:00'
+  band_name: Трио Алексея Иванникова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Концерт в пространстве Jazz Lab на первом этаже клуба
+- id: 76968
+  date: '2019-02-16'
+  time: '21:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76969
+  date: '2019-02-16'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 76970
+  date: '2019-02-17'
+  time: '20:30'
+  band_name: Larry Willis Trio (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76971
+  date: '2019-02-22'
+  time: '19:00'
+  band_name: '11 друзей Большого Джазового Оркестра. Концерт 7: Benny Goodman vs.
+    Artie Shaw'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76972
+  date: '2019-02-22'
+  time: '22:00'
+  band_name: '11 друзей Большого Джазового Оркестра. Концерт 7: Benny Goodman vs.
+    Artie Shaw'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76973
+  date: '2019-02-23'
+  time: '19:00'
+  band_name: The John Marshall Quartet (США-Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76974
+  date: '2019-02-23'
+  time: '22:00'
+  band_name: The John Marshall Quartet (США-Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 76975
+  date: '2019-02-23'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77654
+  date: '2019-03-21'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77655
+  date: '2019-03-28'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77656
+  date: '2019-03-31'
+  time: '21:00'
+  band_name: Ray Blue (саксофон, США) и трио Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77657
+  date: '2019-03-31'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 77651
+  date: '2019-03-02'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 77652
+  date: '2019-03-07'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77664
+  date: '2019-03-11'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77686
+  date: '2019-03-10'
+  time: '21:00'
+  band_name: Jon Davis Trio (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77687
+  date: '2019-03-14'
+  time: '21:00'
+  band_name: Тыну Найссоо (Эстония) и Игорь Бриль. Проект "Два Рояля"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 77694
+  date: '2019-03-21'
+  time: '21:00'
+  band_name: Братья Бриль
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 77695
+  date: '2019-03-22'
+  time: '21:00'
+  band_name: Rosario Giuliani Quartet (Италия-Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Rosario Giuliani (саксофон, Италия), Евгений Лебедев (фортепиано), Асхат
+    Сайфуллин (контрабас), Саша Машин (барабаны)
+- id: 77697
+  date: '2019-03-24'
+  time: '21:00'
+  band_name: The Todd Herbert Quartet (США-Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Тодд Херберт (тенор-саксофон, США), Николай Зимовец (рояль), Николай Затолочный
+    (контрабас), Егор Крюковских (ударные)
+- id: 77698
+  date: '2019-03-28'
+  time: '21:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77699
+  date: '2019-03-29'
+  time: '19:00'
+  band_name: 'Цикл "11 друзей Большого Джазового Оркестра". Концерт 8: Boyd Raeburn
+    (с добавлением арфы, валторн и бас-саксофона)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77650
+  date: '2019-03-02'
+  time: '21:00'
+  band_name: International Jazz Quintet Алексея Подымкина
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Роберт Анчиполовский (альт-саксофон, Израиль), Андрей Лобанов (труба,
+    флюгельгорн), Алексей Подымкин (рояль), Владимир Кольцов-Крутов (контрабас), Даррелл
+    Грин (барабаны, США)
+- id: 77653
+  date: '2019-03-14'
+  time: '19:00'
+  band_name: Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77667
+  date: '2019-03-05'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77668
+  date: '2019-03-12'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77669
+  date: '2019-03-19'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77670
+  date: '2019-03-26'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77675
+  date: '2019-03-08'
+  time: '19:00'
+  band_name: Sakhra
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Lab, первый этаж
+- id: 77693
+  date: '2019-03-17'
+  time: '21:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77648
+  date: '2019-03-01'
+  time: '21:00'
+  band_name: Tamara Hoekwater & Maynugin Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77649
+  date: '2019-03-02'
+  time: '20:00'
+  band_name: Tриo Apceния Pыкoвa
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Lab, первый этаж
+- id: 77659
+  date: '2019-03-17'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 77660
+  date: '2019-03-10'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 77661
+  date: '2019-03-03'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 77662
+  date: '2019-03-03'
+  time: '21:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77663
+  date: '2019-03-04'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77665
+  date: '2019-03-18'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77666
+  date: '2019-03-25'
+  time: '21:00'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77671
+  date: '2019-03-07'
+  time: '19:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 77672
+  date: '2019-03-07'
+  time: '22:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 77673
+  date: '2019-03-07'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Ансамбль Олега Старикова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77674
+  date: '2019-03-08'
+  time: '15:00'
+  band_name: Праздничный джазовый бранч c Dani Yard Orchestra
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77676
+  date: '2019-03-08'
+  time: '20:30'
+  band_name: 'Большой праздничный концерт. I отделение: Арк Овруцкий (контрабас, США),
+    Владимир Нестеренко (рояль), Артем Юрлов (барабаны), Грегори Бойд (вокал, США)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77677
+  date: '2019-03-08'
+  time: '22:00'
+  band_name: 'Большой праздничный концерт. II отделение: Mary McBride Band (США)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77678
+  date: '2019-03-08'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77679
+  date: '2019-03-15'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77680
+  date: '2019-03-22'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77681
+  date: '2019-03-29'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77682
+  date: '2019-03-09'
+  time: '14:30'
+  band_name: Праздничный джазовый бранч c Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77683
+  date: '2019-03-09'
+  time: '20:00'
+  band_name: Дуэт Арка Овруцкого и Ивана Фармаковского
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Leb, первый этаж
+- id: 77684
+  date: '2019-03-09'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: День рождения коллектива
+- id: 77685
+  date: '2019-03-09'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Владимира Нестеренко'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77688
+  date: '2019-03-15'
+  time: '19:00'
+  band_name: Ада Дайер (вокал, США) и квартет Павла Тимофеева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77689
+  date: '2019-03-15'
+  time: '22:00'
+  band_name: Ада Дайер (вокал, США) и квартет Павла Тимофеева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77690
+  date: '2019-03-16'
+  time: '20:00'
+  band_name: Артем Лалаян с сольной программой "Полет в мечту"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Lab, первый этаж
+- id: 77691
+  date: '2019-03-16'
+  time: '21:00'
+  band_name: Секстет Павла Иванова с программой к столетию Нэта Кинг Коула
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77692
+  date: '2019-03-16'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77696
+  date: '2019-03-23'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана и специальный гость - Полина Юрченко (вокал)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Lab, первый этаж
+- id: 77700
+  date: '2019-03-29'
+  time: '22:00'
+  band_name: 'Цикл "11 друзей Большого Джазового Оркестра". Концерт 8: Boyd Raeburn
+    (с добавлением арфы, валторн и бас-саксофона)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 77701
+  date: '2019-03-30'
+  time: '19:00'
+  band_name: Elliott Munnerlyn (вокал, США) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 77702
+  date: '2019-03-30'
+  time: '22:00'
+  band_name: Elliott Munnerlyn (вокал, США) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 77703
+  date: '2019-03-30'
+  time: '20:00'
+  band_name: Карен Гаспарян Трио
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Пространство Jazz Lab, первый этаж
+- id: 77704
+  date: '2019-03-30'
+  time: '23:00'
+  band_name: 'Midnight Jazz: Квартет Макара Новикова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78248
+  date: '2019-04-08'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78250
+  date: '2019-04-22'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78252
+  date: '2019-04-02'
+  time: '21:00'
+  band_name: Jam session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78253
+  date: '2019-04-09'
+  time: '21:00'
+  band_name: Jam session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78254
+  date: '2019-04-16'
+  time: '21:00'
+  band_name: Jam session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78255
+  date: '2019-04-23'
+  time: '21:00'
+  band_name: Jam session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78256
+  date: '2019-04-30'
+  time: '21:00'
+  band_name: Jam session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78257
+  date: '2019-04-04'
+  time: '19:00'
+  band_name: Jazz Lab. Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78258
+  date: '2019-04-11'
+  time: '19:00'
+  band_name: Jazz Lab. Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78261
+  date: '2019-04-04'
+  time: '21:00'
+  band_name: Nikolai Sidorenko Project
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78262
+  date: '2019-04-05'
+  time: '19:00'
+  band_name: Квинтет Дуэйна Клемонса (труба, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78263
+  date: '2019-04-05'
+  time: '22:00'
+  band_name: Квартет Марка Гросса (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78264
+  date: '2019-04-06'
+  time: '21:00'
+  band_name: Квартет Марка Гросса (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78265
+  date: '2019-04-07'
+  time: '21:00'
+  band_name: Биг-бенд Георгия Гараняна п/у Станислава Должкова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78267
+  date: '2019-04-12'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78269
+  date: '2019-04-26'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78272
+  date: '2019-04-11'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78273
+  date: '2019-04-13'
+  time: '19:00'
+  band_name: Shacara Rogers (вокал, США) и трио Сергея Васильева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78274
+  date: '2019-04-13'
+  time: '20:00'
+  band_name: Jazz Lab. Квартет Макара Новикова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78276
+  date: '2019-04-13'
+  time: '22:00'
+  band_name: Shacara Rogers (вокал, США) и трио Сергея Васильева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78277
+  date: '2019-04-07'
+  time: '15:00'
+  band_name: Воскресный бранч с Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78284
+  date: '2019-04-19'
+  time: '21:00'
+  band_name: LRK Trio
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78288
+  date: '2019-04-21'
+  time: '21:00'
+  band_name: Ленни Сендерский (саксофон, Израиль) и струнный квартет "FX Quartet".
+    Специальный гость - Аркадий Шилклопер (волторна)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78290
+  date: '2019-04-27'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78247
+  date: '2019-04-01'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78249
+  date: '2019-04-15'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78251
+  date: '2019-04-29'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78266
+  date: '2019-04-05'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78268
+  date: '2019-04-19'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78275
+  date: '2019-04-12'
+  time: '21:00'
+  band_name: Оливье Кер Орио (губная гармоника, Франция) и трио Андрея Кондакова с
+    программой "Апрель в Париже"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78280
+  date: '2019-04-21'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78282
+  date: '2019-04-14'
+  time: '21:00'
+  band_name: Рой Янг (США) и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78285
+  date: '2019-04-20'
+  time: '20:00'
+  band_name: Jazz Lab. Трио Артема Лалаяна
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78286
+  date: '2019-04-20'
+  time: '21:00'
+  band_name: Трио Таля Бабицкого (Израиль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78287
+  date: '2019-04-20'
+  time: '23:30'
+  band_name: 'Midnight Jazz: трио Алексея Иванникова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78289
+  date: '2019-04-25'
+  time: '21:00'
+  band_name: Илугдин Трио и специльный гость - Ленни Сендерский
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78291
+  date: '2019-04-27'
+  time: '20:00'
+  band_name: Jazz Lab. Трио Арсения Рыкова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78292
+  date: '2019-04-27'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78293
+  date: '2019-04-28'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78259
+  date: '2019-04-18'
+  time: '19:00'
+  band_name: Jazz Lab. Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78260
+  date: '2019-04-25'
+  time: '19:00'
+  band_name: Jazz Lab. Вино / Винил
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78270
+  date: '2019-04-06'
+  time: '20:00'
+  band_name: Jaz Lab. Трио Владимира Нестеренко
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78271
+  date: '2019-04-06'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78278
+  date: '2019-04-14'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78279
+  date: '2019-04-13'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 78281
+  date: '2019-04-28'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78283
+  date: '2019-04-18'
+  time: '21:00'
+  band_name: Братья Бриль
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 78866
+  date: '2019-05-02'
+  time: '21:00'
+  band_name: Квартет Софьи Шустровой
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Джазовые хиты 1930-1940 гг.
+- id: 78867
+  date: '2019-05-03'
+  time: '15:00'
+  band_name: 'Праздничный джазовый бранч: Ансамбль Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78868
+  date: '2019-05-02'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Ваагна Айрапетяна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 482
+    name: Трио Ваагна Айрапетяна
+    token: v-airapetyan-trio
+- id: 78870
+  date: '2019-05-10'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78875
+  date: '2019-05-04'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78876
+  date: '2019-05-04'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Артема Лалаяна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78877
+  date: '2019-05-04'
+  time: '21:00'
+  band_name: Ark Ovrutski Quartet (Россия-США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78879
+  date: '2019-05-05'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78883
+  date: '2019-05-05'
+  time: '21:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78886
+  date: '2019-05-20'
+  time: '21:00'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78887
+  date: '2019-05-27'
+  time: '21:00'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78888
+  date: '2019-05-07'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78889
+  date: '2019-05-14'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78891
+  date: '2019-05-28'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78892
+  date: '2019-05-09'
+  time: '21:00'
+  band_name: Ансамбль "Мелодия" Георгия Гараняна и Маргарита Позоян (вокал) с программой
+    "Хиты музыкального кино"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78896
+  date: '2019-05-11'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Дуэт Ивана Соломонова (рояль / Аргентина) и Татьяны
+    Изотовой с программой "Аргентинское танго"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78897
+  date: '2019-05-11'
+  time: '21:00'
+  band_name: LRK Trio & Grzech Piotrowski (саксофон, Польша)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78898
+  date: '2019-05-11'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 78901
+  date: '2019-05-23'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78903
+  date: '2019-05-16'
+  time: '21:00'
+  band_name: Квинтет Жана-Лу Лоньона (труба, Франция)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78910
+  date: '2019-05-23'
+  time: '21:00'
+  band_name: Братья Бриль
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 78913
+  date: '2019-05-25'
+  time: '21:00'
+  band_name: Seven Eight Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78914
+  date: '2019-05-25'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78915
+  date: '2019-05-26'
+  time: '21:00'
+  band_name: Квартет Евгения Пономарева (Санкт-Петербург)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78916
+  date: '2019-05-29'
+  time: '21:00'
+  band_name: Amber Sept
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78917
+  date: '2019-05-31'
+  time: '19:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: 'Программа "11 друзей Большого Джазового Оркестра". Концерт 10: Glenn
+    Miller'
+- id: 78918
+  date: '2019-05-31'
+  time: '22:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: 'Программа "11 друзей Большого Джазового Оркестра". Концерт 10: Glenn
+    Miller'
+- id: 78863
+  date: '2019-05-01'
+  time: '15:00'
+  band_name: 'Праздничный джазовый бранч: Ансамбль Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78864
+  date: '2019-05-02'
+  time: '15:00'
+  band_name: 'Праздничный джазовый бранч: Moscow Ragtime Band'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 78865
+  date: '2019-05-02'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78869
+  date: '2019-05-03'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78871
+  date: '2019-05-17'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78872
+  date: '2019-05-24'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78873
+  date: '2019-05-31'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78874
+  date: '2019-05-03'
+  time: '21:00'
+  band_name: Тимофей Хазанов и Black Sax Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78878
+  date: '2019-05-04'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78880
+  date: '2019-05-12'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78881
+  date: '2019-05-19'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78882
+  date: '2019-05-26'
+  time: '15:00'
+  band_name: 'Воскресный бранч: Большой Джазовый Оркестр п/у Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 78884
+  date: '2019-05-06'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78885
+  date: '2019-05-13'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78890
+  date: '2019-05-21'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78893
+  date: '2019-05-10'
+  time: '15:00'
+  band_name: 'Праздничный джазовый бранч: Ансамбль Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78894
+  date: '2019-05-11'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78895
+  date: '2019-05-10'
+  time: '21:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78899
+  date: '2019-05-12'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78900
+  date: '2019-05-16'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78902
+  date: '2019-05-30'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78904
+  date: '2019-05-17'
+  time: '21:00'
+  band_name: Анна Бутурлина. "50 Ways To Leave Your Lover" - презентация клипа и праздничный
+    концерт
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 78905
+  date: '2019-05-18'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78906
+  date: '2019-05-18'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Карен Гаспарян Трио
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78907
+  date: '2019-05-18'
+  time: '21:00'
+  band_name: David Helbock's Random/Control (Австрия). Презентация нового альбома
+    "Tour d'Horizon - From Brubeck to Zawinul"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78908
+  date: '2019-05-18'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78909
+  date: '2019-05-19'
+  time: '21:00'
+  band_id: 482
+  band_name: Трио Ваагна Айрапетяна
+  band_token: v-airapetyan-trio
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 78911
+  date: '2019-05-24'
+  time: '19:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 78912
+  date: '2019-05-24'
+  time: '22:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 79499
+  date: '2019-06-02'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79502
+  date: '2019-06-23'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79503
+  date: '2019-06-30'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79504
+  date: '2019-06-07'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79513
+  date: '2019-06-13'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79514
+  date: '2019-06-06'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79515
+  date: '2019-06-02'
+  time: '21:00'
+  band_name: Tom Van Der Zaal Quartet (Нидерланды-Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79512
+  date: '2019-06-20'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79516
+  date: '2019-06-03'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79517
+  date: '2019-06-10'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79518
+  date: '2019-06-17'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79519
+  date: '2019-06-24'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79520
+  date: '2019-06-25'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79521
+  date: '2019-06-18'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79522
+  date: '2019-06-11'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79523
+  date: '2019-06-04'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79524
+  date: '2019-06-06'
+  time: '21:00'
+  band_name: Трио Алексея Иванникова при уч. Джесси Симпсона (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79525
+  date: '2019-06-08'
+  time: '19:00'
+  band_name: Torsten Goods (гитара, Германия) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 79526
+  date: '2019-06-08'
+  time: '22:00'
+  band_name: Torsten Goods (гитара, Германия) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 79527
+  date: '2019-06-08'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Арсения Владимирова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79528
+  date: '2019-06-08'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79529
+  date: '2019-06-09'
+  time: '21:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79530
+  date: '2019-06-12'
+  time: '15:00'
+  band_name: 'Праздничный бранч: Moscow Ragtime Band'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 79531
+  date: '2019-06-15'
+  time: '21:00'
+  band_name: Квартет Макара Новикова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79532
+  date: '2019-06-14'
+  time: '21:00'
+  band_name: Квартет Давида Голощекина "Четверо" и Eve Cornelious (вокал, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: К 75-летию Маэстро с программой "Ни дня без свинга"
+- id: 79534
+  date: '2019-06-15'
+  time: '21:00'
+  band_name: Биг-бенд Георгия Гараняна c программой "Cotton tail". Солистка - Алина
+    Ростоцкая (вокал)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 79539
+  date: '2019-06-22'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Айка Григоряна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79496
+  date: '2019-06-01'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79497
+  date: '2019-06-01'
+  time: '21:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79498
+  date: '2019-06-01'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 79500
+  date: '2019-06-09'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79501
+  date: '2019-06-16'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79505
+  date: '2019-06-28'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79506
+  date: '2019-06-21'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79507
+  date: '2019-06-14'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79508
+  date: '2019-06-30'
+  time: '21:00'
+  band_name: Colescott Rubin (США) & Moscow Ragtime Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 79509
+  date: '2019-06-29'
+  time: '21:00'
+  band_name: Дэниз Кинг (вокал, США/Франция) и квартет Виталия Головнева (США/Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79510
+  date: '2019-06-27'
+  time: '21:00'
+  band_name: Caleb Hawley's band (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79511
+  date: '2019-06-27'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Программа "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79533
+  date: '2019-06-15'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Just Jazz Quintet Вячеслава Великого'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79535
+  date: '2019-06-16'
+  time: '21:00'
+  band_id: 482
+  band_name: Трио Ваагна Айрапетяна
+  band_token: v-airapetyan-trio
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79536
+  date: '2019-06-20'
+  time: '21:00'
+  band_name: Bril Family и Андрей Макаревич
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79537
+  date: '2019-06-21'
+  time: '21:00'
+  band_name: Artem Ayvazyan Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79538
+  date: '2019-06-22'
+  time: '21:00'
+  band_name: 5th Season Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Арто Тунчбояджян (перкусии, вокал), Ваагн Айрапетян (фортепиано, вокал),
+    Макар Новиков (контрабас), Сам Сарян (звуковые эффекты)
+- id: 79540
+  date: '2019-06-23'
+  time: '21:00'
+  band_name: 5th Season Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Арто Тунчбояджян (перкусии, вокал), Ваагн Айрапетян (фортепиано, вокал),
+    Макар Новиков (контрабас), Сам Сарян (звуковые эффекты)
+- id: 79541
+  date: '2019-07-20'
+  time: '21:00'
+  band_name: Квартет "Busquitos" (Нидерланды)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79953
+  date: '2019-07-22'
+  time: '20:30'
+  band_name: Шедевры немого кино
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79954
+  date: '2019-07-15'
+  time: '20:30'
+  band_name: Шедевры немого кино
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79957
+  date: '2019-07-02'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79963
+  date: '2019-07-21'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79969
+  date: '2019-07-20'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Николая Мищенко, спец. гость Армир Ли (США)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79973
+  date: '2019-07-18'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79976
+  date: '2019-07-05'
+  time: '21:00'
+  band_name: Mary McBride Band (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79979
+  date: '2019-07-12'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79984
+  date: '2019-07-06'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79991
+  date: '2019-07-18'
+  time: '21:00'
+  band_name: Трио Григория Файна
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79995
+  date: '2019-07-25'
+  time: '21:00'
+  band_name: Seven Eight Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79986
+  date: '2019-07-07'
+  time: '21:00'
+  band_name: Jesse Davis (саксофон, США) и трио Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79988
+  date: '2019-07-12'
+  time: '21:00'
+  band_name: LRK Trio & София Рубина-Хантер
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79989
+  date: '2019-07-13'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд с новой программой "The Antonio Carlos
+    Jobim Songbook"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79993
+  date: '2019-07-19'
+  time: '22:00'
+  band_name: Kim Sanders (вокал, США) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 79994
+  date: '2019-07-21'
+  time: '21:00'
+  band_name: Overdrive Blues Band (Ярославль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79996
+  date: '2019-07-26'
+  time: '21:00'
+  band_name: Tasiya (Настя Волокитина) и Epic Power Quartet
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 776
+    name: Epic Power Quartet
+    token: epic-power-quartet
+- id: 79959
+  date: '2019-07-16'
+  time: '21:00'
+  band_name: 'Яков Окунь рекомендует: Трио Владимира Нестеренко'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79962
+  date: '2019-07-14'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79964
+  date: '2019-07-28'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79965
+  date: '2019-07-28'
+  time: '21:00'
+  band_name: Jack Latimer (США) & Moscow Ragtime Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 79966
+  date: '2019-07-27'
+  time: '21:00'
+  band_name: Все звезды Большого Джазового Оркестра (БДО)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 79967
+  date: '2019-07-27'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 79971
+  date: '2019-07-04'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79972
+  date: '2019-07-11'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79974
+  date: '2019-07-25'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79992
+  date: '2019-07-19'
+  time: '19:00'
+  band_name: Kim Sanders (вокал, США) и трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 79951
+  date: '2019-07-30'
+  time: '21:00'
+  band_name: 'Яков Окунь рекомендует: Ансамбль Алексея Чернакова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79952
+  date: '2019-07-29'
+  time: '20:30'
+  band_name: Шедевры немого кино
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79955
+  date: '2019-07-08'
+  time: '20:30'
+  band_name: Шедевры немого кино
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79956
+  date: '2019-07-01'
+  time: '20:30'
+  band_name: Шедевры немого кино
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79958
+  date: '2019-07-09'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79960
+  date: '2019-07-23'
+  time: '21:00'
+  band_name: 'Яков Окунь рекомендует: Квартет Петра Востокова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79961
+  date: '2019-07-07'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансмаблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79968
+  date: '2019-07-27'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Артема Лалаяна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79970
+  date: '2019-07-06'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab: Трио Павла Ершова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79975
+  date: '2019-07-04'
+  time: '21:00'
+  band_name: Tal Babitzky Quintet (Израиль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79977
+  date: '2019-07-06'
+  time: '21:00'
+  band_name: Dan Barnett Quintet (Австрия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79978
+  date: '2019-07-05'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79980
+  date: '2019-07-19'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79981
+  date: '2019-07-26'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79982
+  date: '2019-07-13'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79983
+  date: '2019-07-06'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79985
+  date: '2019-07-27'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79987
+  date: '2019-07-11'
+  time: '21:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 79990
+  date: '2019-07-14'
+  time: '21:00'
+  band_name: Квартет Айка Григоряна
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80603
+  date: '2019-08-26'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80604
+  date: '2019-08-19'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80605
+  date: '2019-08-05'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80598
+  date: '2019-08-01'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80599
+  date: '2019-08-08'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80600
+  date: '2019-08-15'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80601
+  date: '2019-08-22'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80602
+  date: '2019-08-29'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80606
+  date: '2019-08-06'
+  time: '21:00'
+  band_name: 'Яков Окунь представляет: Юлиана Рогачева и квартет Алексея Чернакова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80613
+  date: '2019-08-31'
+  time: '19:00'
+  band_name: Большой джазовый оркестр листает календарь
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 80617
+  date: '2019-08-29'
+  time: '21:00'
+  band_name: VAN Quartet feat. Jesse Simpson (ударные, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Ваагн Айрапетян (рояль), Эммануэль Ованнисян (дудук), Макар Новиков (контрабас)
+- id: 80618
+  date: '2019-08-29'
+  time: '21:00'
+  band_name: 'Интернациональное джаз-трио: Ереван-Нью-Йорк-Москва (Ваагн Айрапетян
+    - фортепиано, вокал/Армения; Джесси Симпсон - ударные/США; Макар Новиков - контрабас/Россия)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80620
+  date: '2019-08-24'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 80621
+  date: '2019-08-25'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80622
+  date: '2019-08-18'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80623
+  date: '2019-08-11'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80624
+  date: '2019-08-04'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80625
+  date: '2019-08-03'
+  time: '21:00'
+  band_name: '"Boss Tenors" & Карина Кожевникова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80632
+  date: '2019-08-04'
+  time: '21:00'
+  band_name: Трио Артема Лалаяна
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80633
+  date: '2019-08-09'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд с программой "The Antonio Carlos Jobim
+    Songbook"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80634
+  date: '2019-08-08'
+  time: '21:00'
+  band_name: Silver Quintet играет авторские пьесы и композиции Хораса Сильвера
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Андрей Лобанов (труба, флюгельгорн), Сергей Баулин (тенор-саксофон), Алексей
+    Подымкин (рояль), Владимир Кольцов-Крутов (контрабас), Давид Ткебучава (барабаны)
+- id: 80637
+  date: '2019-08-11'
+  time: '21:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80638
+  date: '2019-08-13'
+  time: '21:00'
+  band_name: 'Яков Окунь представляет: Анна Бутурлина и трио Алексея Беккера с программой
+    "Beautiful Friendship"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 80639
+  date: '2019-08-15'
+  time: '21:00'
+  band_name: Биг-бенд Георгия Гараняна п/у Антти Мартина Риссанена с программой "Swing,
+    swing, swing"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: 'Солисты: Алексей Кузнецов (гитара), Армине Саркисян (вокал), Наталья
+    Смирнова-Бутман (вокал, рояль). Специальный гость - Валерий Пономарев (дирижер,
+    труба/США)'
+- id: 80641
+  date: '2019-08-17'
+  time: '21:30'
+  band_name: Джем-сейшн фестиваля "Джаз в саду Эрмитаж"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80643
+  date: '2019-08-21'
+  time: '20:00'
+  band_name: Randy Brecker (труба, США) & SG Big Band Сергея Головни
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80645
+  date: '2019-08-23'
+  time: '21:00'
+  band_name: Септет Павла Иванова при уч. струнного оркестра с программой "So in love"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80646
+  date: '2019-08-24'
+  time: '21:00'
+  band_name: Ольга Синяева & All See Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80607
+  date: '2019-08-01'
+  time: '21:00'
+  band_name: Ark Ovrutski Quartet (Россия/США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80608
+  date: '2019-08-02'
+  time: '21:00'
+  band_name: Тимофей Хазанов и Black Sax Band"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80609
+  date: '2019-08-03'
+  time: '20:00'
+  band_name: 'Месяц контрабаса в Jazz Lab: дуэт Арка Овруцкого и Владимира Нестеренко'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80610
+  date: '2019-08-10'
+  time: '20:00'
+  band_name: 'Месяц контрабаса в Jazz Lab: Трио Дарьи Чернаковой'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80611
+  date: '2019-08-24'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab в рамках серии концертов Jazz Masters: Трио Макара
+    Новикова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80612
+  date: '2019-08-31'
+  time: '20:00'
+  band_name: 'Месяц контрабаса в Jazz Lab: Трио Сергея Хутаса'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80614
+  date: '2019-08-31'
+  time: '22:00'
+  band_name: Большой джазовый оркестр листает календарь
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 80615
+  date: '2019-08-31'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80616
+  date: '2019-08-30'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Сергея Баулина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80619
+  date: '2019-08-25'
+  time: '21:00'
+  band_name: Todd Herbert Quartet (США). Посвящение Джону Колтрейну
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Тодд Херберт (тенор-саксофон/Нью-Йорк), Николай Зимовец (рояль), Николай
+    Затолочный (контрабас), Егор Крюковских (ударные)
+- id: 80626
+  date: '2019-08-03'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80627
+  date: '2019-08-02'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80628
+  date: '2019-08-09'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80629
+  date: '2019-08-16'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80630
+  date: '2019-08-23'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Николая Сидоренко'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80631
+  date: '2019-08-10'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80635
+  date: '2019-08-10'
+  time: '19:00'
+  band_name: Ehud Ettun Trio (Израиль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80636
+  date: '2019-08-10'
+  time: '22:00'
+  band_name: Ehud Ettun Trio (Израиль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80640
+  date: '2019-08-16'
+  time: '21:00'
+  band_name: Eric Alexander (тенор-саксофон, США) и квартет Алексея Подымкина
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80642
+  date: '2019-08-18'
+  time: '21:00'
+  band_name: 'Яков Окунь - Сильвестр Островский: Российско-Польский диалог в рамках
+    джем-сейшна фестиваля "Джаз в саду Эрмитаж"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 80644
+  date: '2019-08-22'
+  time: '21:00'
+  band_name: Sharon Clark (вокал/США) и трио Сергея Васильева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81052
+  date: '2019-09-28'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Трио Алексея Иванникова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81053
+  date: '2019-09-02'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым. Семилетие
+    проекта "Кино-Мюзик-Холл"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81054
+  date: '2019-09-09'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81055
+  date: '2019-09-16'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81056
+  date: '2019-09-23'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81057
+  date: '2019-09-30'
+  time: '20:30'
+  band_name: Шедевры немого кино с Жоржем Сергеевым и Даниэлем Масловым
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81080
+  date: '2019-09-18'
+  time: '19:00'
+  band_name: Барабанный интенсив Александра Зингера
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81081
+  date: '2019-09-15'
+  time: '21:00'
+  band_name: Roy Young и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81089
+  date: '2019-09-06'
+  time: '21:00'
+  band_name: Анастасия Лютова и Лютый Бэнд с программой "The Antonio Carlos Jobim
+    Songbook"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81090
+  date: '2019-09-05'
+  time: '21:00'
+  band_name: Godwin Louis (альт-саксофон / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81091
+  date: '2019-09-04'
+  time: '20:00'
+  band_name: Marina Volkova Jazz Band с программой "Swingin' Easy"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81092
+  date: '2019-09-01'
+  time: '21:00'
+  band_name: CoolGroove Big Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81046
+  date: '2019-09-12'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81058
+  date: '2019-09-06'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81059
+  date: '2019-09-20'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81060
+  date: '2019-09-28'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Сергея Баулина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81061
+  date: '2019-09-27'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Айка Григоряна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81062
+  date: '2019-09-21'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 81043
+  date: '2019-09-22'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81044
+  date: '2019-09-29'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81047
+  date: '2019-09-19'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81048
+  date: '2019-09-26'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81049
+  date: '2019-09-07'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Квартет Арсения Владимирова "Jazz Sketchers"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81050
+  date: '2019-09-14'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Трио Арка Овруцкого
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81051
+  date: '2019-09-21'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Карен Гаспарян Трио
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81063
+  date: '2019-09-14'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81064
+  date: '2019-09-13'
+  time: '23:00'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева "Ураганный джаз"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81065
+  date: '2019-09-07'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81066
+  date: '2019-09-03'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81067
+  date: '2019-09-10'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81068
+  date: '2019-09-17'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81069
+  date: '2019-09-24'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81070
+  date: '2019-09-22'
+  time: '21:00'
+  band_name: Квартет Дмитрия Мосьпана. Специальный гость Полина Юрченко (вокал)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81071
+  date: '2019-09-26'
+  time: '21:00'
+  band_name: Квинтет Артура Григоряна (саксофон, ОАЭ)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81072
+  date: '2019-09-27'
+  time: '19:00'
+  band_name: Большой джазовый оркестр п/у Петра Востокова играет в КЛАССики
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 81073
+  date: '2019-09-27'
+  time: '22:00'
+  band_name: Большой джазовый оркестр п/у Петра Востокова играет в КЛАССики
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 81074
+  date: '2019-09-28'
+  time: '19:00'
+  band_name: Michele Walker (вокал, США) и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81040
+  date: '2019-09-01'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81041
+  date: '2019-09-08'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81042
+  date: '2019-09-15'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81045
+  date: '2019-09-05'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81075
+  date: '2019-09-28'
+  time: '22:00'
+  band_name: Michele Walker (вокал, США) и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81076
+  date: '2019-09-29'
+  time: '21:00'
+  band_name: The John Marshall Quartet (труба, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81077
+  date: '2019-09-21'
+  time: '21:00'
+  band_name: Vardan Ovsepyan Trio (США - Эстония)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81078
+  date: '2019-09-20'
+  time: '21:00'
+  band_name: Vardan Ovsepyan Trio (США - Эстония)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81079
+  date: '2019-09-19'
+  time: '21:00'
+  band_name: Vein (Швейцария)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81086
+  date: '2019-09-11'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81082
+  date: '2019-09-14'
+  time: '19:00'
+  band_name: Torsten Goods (гитара, вокал / Германия) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 81083
+  date: '2019-09-14'
+  time: '22:00'
+  band_name: Torsten Goods (гитара, вокал / Германия) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 81084
+  date: '2019-09-13'
+  time: '21:00'
+  band_name: Dennis Rowland Band (вокал, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81085
+  date: '2019-09-12'
+  time: '21:00'
+  band_name: Ark Ovrutski Quartet (Россия - США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81087
+  date: '2019-09-08'
+  time: '21:00'
+  band_name: 'Bril club: Даниил Крамер'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 81088
+  date: '2019-09-07'
+  time: '21:00'
+  band_name: Godwin Louis (альт-саксофон / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81711
+  date: '2019-10-01'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81725
+  date: '2019-10-05'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81726
+  date: '2019-10-05'
+  time: '15:00'
+  band_name: Пространство Jazz Lab. Творческая встреча с Александром Эйдельманом
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81732
+  date: '2019-10-20'
+  time: '18:00'
+  band_name: 'Пространство Jazz Lab. Книжный джем: читаем и обсуждаем "Конец сюжета"
+    Людмилы Улицкой'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81735
+  date: '2019-10-27'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Творческая встреча с Тыну Найссоо (рояль, Эстония).
+    Нестандартные стандарты
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81757
+  date: '2019-10-17'
+  time: '21:00'
+  band_name: EJB Soul feat. Candice Mills (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81758
+  date: '2019-10-13'
+  time: '21:00'
+  band_name: Дариус Брубек (рояль / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81759
+  date: '2019-10-12'
+  time: '21:00'
+  band_name: 'Bril Club: концерт в двух отделениях'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81760
+  date: '2019-10-11'
+  time: '19:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 81761
+  date: '2019-10-11'
+  time: '22:00'
+  band_name: Elliott Munnerlyn (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 81712
+  date: '2019-10-08'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81713
+  date: '2019-10-15'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81714
+  date: '2019-10-22'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81715
+  date: '2019-10-29'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81716
+  date: '2019-10-31'
+  time: '21:00'
+  band_name: 'Lars Danielsson: Liberetto III (Швеция)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81717
+  date: '2019-10-31'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81718
+  date: '2019-10-24'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81719
+  date: '2019-10-17'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81720
+  date: '2019-10-10'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81721
+  date: '2019-10-03'
+  time: '19:00'
+  band_name: Пространство Jazz Lab. Проект "Вино / Винил"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81722
+  date: '2019-10-03'
+  time: '21:00'
+  band_name: Трио "Kle2Go"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81723
+  date: '2019-10-04'
+  time: '21:00'
+  band_name: LRK Trio
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81724
+  date: '2019-10-04'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева "Ураганный джаз"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81727
+  date: '2019-10-05'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Трио Артема Лалаяна
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81728
+  date: '2019-10-12'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Трио Николая Сидоренко
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81729
+  date: '2019-10-13'
+  time: '14:00'
+  band_name: 'Пространство Jazz Lab. Мастер-класс: Дариус Брубек (фортепиано, США)
+    и его квартет (Дэйв О''Хиггинс - саксофон, Мэтт Ридли - контрабас и Уэсли Гиббенс
+    - барабаны)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  comments: Сложные нечетные размеры в джазе 5/4, 7/8, 9/8 и особенности взаимодействия
+    в ансамбле
+- id: 81730
+  date: '2019-10-13'
+  time: '18:00'
+  band_name: 'Пространство Jazz Lab. Книжный джем: читаем и обсуждаем "Детский сад"
+    Евгения Водолазкина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81731
+  date: '2019-10-19'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Ансамбль Евгения Гречищева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 81733
+  date: '2019-10-26'
+  time: '20:00'
+  band_name: Пространство Jazz Lab. Трио Даниэля Адиянца (рояль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81734
+  date: '2019-10-27'
+  time: '18:00'
+  band_name: 'Пространство Jazz Lab. Книжный джем: читаем и обсуждаем "Боярышник"
+    Марии Степновой'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81736
+  date: '2019-10-27'
+  time: '22:00'
+  band_name: Музглупости. John Raymond & Real Feels (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81737
+  date: '2019-10-30'
+  time: '21:00'
+  band_name: 'Lars Danielsson: Liberetto III (Швеция)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81738
+  date: '2019-10-05'
+  time: '21:00'
+  band_name: Карина Кожевникова (вокал) и трио Льва Кушнира
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81739
+  date: '2019-10-05'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Ансамбль Михаила Меркулова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81740
+  date: '2019-10-06'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81741
+  date: '2019-10-13'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81742
+  date: '2019-10-20'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81743
+  date: '2019-10-27'
+  time: '15:00'
+  band_name: Воскресный бранч с Ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81744
+  date: '2019-10-26'
+  time: '22:00'
+  band_name: Музглупости. John Raymond & Real Feels (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81745
+  date: '2019-10-27'
+  time: '19:00'
+  band_name: Музглупости. John Raymond & Real Feels (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81746
+  date: '2019-10-26'
+  time: '19:00'
+  band_name: Музглупости. John Raymond & Real Feels (США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81747
+  date: '2019-10-26'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 81748
+  date: '2019-10-25'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81749
+  date: '2019-10-18'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81750
+  date: '2019-10-11'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81751
+  date: '2019-10-12'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81752
+  date: '2019-10-19'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81753
+  date: '2019-10-24'
+  time: '21:00'
+  band_name: No square (Франция)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81754
+  date: '2019-10-19'
+  time: '19:00'
+  band_name: Jesse Jones Jr. (саксофон / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81755
+  date: '2019-10-19'
+  time: '22:00'
+  band_name: Jesse Jones Jr. (саксофон / США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81756
+  date: '2019-10-18'
+  time: '21:00'
+  band_name: Анастасия Лютова и Mussorgsky Jazz Orchestra
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81762
+  date: '2019-10-10'
+  time: '21:00'
+  band_name: Oggy & The Phonics (Швейцария)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 81763
+  date: '2019-10-06'
+  time: '21:00'
+  band_name: Overbass - новый проект Макара Новикова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82210
+  date: '2019-11-01'
+  time: '19:00'
+  band_name: Aaron LeRoy Myers (вокал, США) и трио Сергея Васильева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82211
+  date: '2019-11-01'
+  time: '22:00'
+  band_name: Aaron LeRoy Myers (вокал, США) и трио Сергея Васильева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82212
+  date: '2019-11-01'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82213
+  date: '2019-11-08'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82214
+  date: '2019-11-15'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82215
+  date: '2019-11-22'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82218
+  date: '2019-11-26'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82223
+  date: '2019-11-02'
+  time: '22:00'
+  band_name: Большой Джазовый Оркестр и его ночные кошмары. C киноиллюстрациями Жоржа
+    Сергеева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82226
+  date: '2019-11-17'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82227
+  date: '2019-11-24'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82228
+  date: '2019-11-30'
+  time: '23:30'
+  band_name: 'Midnight Jazz: The Kikipickles'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82231
+  date: '2019-11-30'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет - Jazz masters: Трио Евгения Гречищева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 82233
+  date: '2019-11-16'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Sherley Smart Trio (Великобритания)
+    - 11-й Международный фестиваль Vivacello'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82234
+  date: '2019-11-15'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Квартет Виталия Головнева (труба,
+    США)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82235
+  date: '2019-11-13'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Alessandro D''Anna Trio (барабаны,
+    Италия)'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82236
+  date: '2019-11-09'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Трио Евгения Сивцова c программой
+    "Зоопарк"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82238
+  date: '2019-11-02'
+  time: '23:30'
+  band_name: 'Minidght jazz: Квартет Алексея Давлетшина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82239
+  date: '2019-11-03'
+  time: '21:00'
+  band_name: Seven Eight Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82240
+  date: '2019-11-04'
+  time: '15:00'
+  band_name: Праздничный бранч с Ivanov Vibe Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 528
+    name: Ivanov Vibe Band
+    token: ivanov-vibe-band
+- id: 82243
+  date: '2019-11-18'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82244
+  date: '2019-11-25'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82245
+  date: '2019-11-07'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: Проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82246
+  date: '2019-11-14'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: Проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82248
+  date: '2019-11-28'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: Проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82250
+  date: '2019-11-29'
+  time: '22:00'
+  band_name: Jamie Davis (вокал, США) и трио Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82251
+  date: '2019-11-28'
+  time: '21:00'
+  band_name: Ансамбль Ирины Родилес "Ladies sing the blues"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82252
+  date: '2019-11-24'
+  time: '21:00'
+  band_name: Armir Lee Quartet (саксофон, США)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82253
+  date: '2019-11-23'
+  time: '21:00'
+  band_name: Квартет имени Музыки
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82254
+  date: '2019-11-23'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Сергея Баулина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82255
+  date: '2019-11-22'
+  time: '21:00'
+  band_name: Дарья Антонова и The Jazz Classic Trio с программой "Осенний Ноктюрн"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82256
+  date: '2019-11-21'
+  time: '21:00'
+  band_name: Трио Олега Аккуратова (фортепиано, вокал)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82257
+  date: '2019-11-16'
+  time: '21:00'
+  band_name: Miqayel Voskanyan & Friends (Армения)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82258
+  date: '2019-11-15'
+  time: '19:00'
+  band_name: Chanda Rule (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 82261
+  date: '2019-11-10'
+  time: '21:00'
+  band_name: Bril club, программа "В джазе только девушки" Этери Бериашвили, Мариам
+    Мерабова, Маша Кац
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 82262
+  date: '2019-11-09'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Айка Григоряна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82264
+  date: '2019-11-08'
+  time: '21:00'
+  band_name: 'Baptiste Herbin Quartet и Анастасия Лютова с программой "Джазовые диалоги:
+    Франция-Бразилия-Россия"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82265
+  date: '2019-11-07'
+  time: '21:00'
+  band_name: Gregory Boyd (вокал, США) и трио Арка Овруцкого
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82237
+  date: '2019-11-02'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Трио Артема Лалаяна'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82241
+  date: '2019-11-04'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82242
+  date: '2019-11-11'
+  time: '20:30'
+  band_name: '"Шедевры немого кино" с Жоржем Сергеевым и Даниэлем Масловым'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82249
+  date: '2019-11-29'
+  time: '19:00'
+  band_name: Jamie Davis (вокал, США) и трио Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82216
+  date: '2019-11-29'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82217
+  date: '2019-12-03'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82219
+  date: '2019-11-19'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82220
+  date: '2019-11-12'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82221
+  date: '2019-11-05'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82222
+  date: '2019-11-02'
+  time: '19:00'
+  band_name: Большой Джазовый Оркестр и его ночные кошмары. C киноиллюстрациями Жоржа
+    Сергеева
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82224
+  date: '2019-11-03'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82225
+  date: '2019-11-10'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82229
+  date: '2019-11-30'
+  time: '19:00'
+  band_name: Большой Джазовый Оркестр представляет программу "Большой Джазовый Экспресс
+    стучит колесами"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82230
+  date: '2019-11-30'
+  time: '22:00'
+  band_name: Большой Джазовый Оркестр представляет программу "Большой Джазовый Экспресс
+    стучит колесами"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82232
+  date: '2019-11-17'
+  time: '20:00'
+  band_name: 'Пространство Jazz Lab представляет: Lee ''Plink'' Floyd & Moscow Ragtime
+    Band'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 82247
+  date: '2019-11-21'
+  time: '19:00'
+  band_name: 'Пространство Jazz Lab: Проект "Вино / Винил"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82259
+  date: '2019-11-15'
+  time: '22:00'
+  band_name: Chanda Rule (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 82260
+  date: '2019-11-14'
+  time: '21:00'
+  band_name: Hiske Oosterwijk (вокал, Нидерланды) и Квартет Макара Новикова. Презентация
+    пластинки "Stereobass"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82263
+  date: '2019-11-09'
+  time: '21:00'
+  band_name: Ольга Синяева (вокал) & All See Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82569
+  date: '2019-12-04'
+  time: '20:00'
+  band_name: '25-й Международный фестиваль вокального джаза: Анна Бутурлина и трио
+    Алексея Беккера'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 82570
+  date: '2019-12-05'
+  time: '20:00'
+  band_name: '25-й Международный фестиваль вокального джаза: Джеймс Уильямс (вокал,
+    США) с квартетом "ММ Band" Якова Меймана и Вадима Майнугина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82572
+  date: '2019-12-07'
+  time: '20:00'
+  band_name: '25-й Международный фестиваль вокального джаза: Сергей Кузнецов и OverDrive
+    Blues Band, Константин Седовин и Арт Квартет Тима Дорофеева'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82571
+  date: '2019-12-06'
+  time: '20:00'
+  band_name: '25-й Международный фестиваль вокального джаза: Дарья Захарова и трио
+    Алексея Беккера, Павел Елисеев и квартет Асии Шакировой, Надежда Кузнецова и трио
+    Алексея Беккера'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82740
+  date: '2019-12-01'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82755
+  date: '2019-12-06'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82774
+  date: '2019-12-19'
+  time: '21:00'
+  band_name: Аuthentic Light Orchestra. Презентация альбома "The Sky Is Cloudy"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82775
+  date: '2019-12-20'
+  time: '19:00'
+  band_name: Аuthentic Light Orchestra. Презентация альбома "The Sky Is Cloudy"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82776
+  date: '2019-12-20'
+  time: '22:00'
+  band_name: Аuthentic Light Orchestra. Презентация альбома "The Sky Is Cloudy"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82777
+  date: '2019-12-22'
+  time: '21:00'
+  band_name: Арфа и Джаз. "Путешествие в Египет"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82778
+  date: '2019-12-21'
+  time: '19:00'
+  band_name: Sibel Kose (вокал, Турция) и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82779
+  date: '2019-12-21'
+  time: '22:00'
+  band_name: Sibel Kose (вокал, Турция) и квартет Алексея Черемизова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82780
+  date: '2019-12-26'
+  time: '21:00'
+  band_name: Азат Баязитов и Анастасия Проклова с программой "Christmas Connection"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82758
+  date: '2019-12-21'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квартет Сергея Баулина'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82759
+  date: '2019-12-28'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Трио Арсения Рыкова'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82760
+  date: '2019-12-28'
+  time: '15:00'
+  band_name: Школа танцев Ричарда Хьюма
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82764
+  date: '2019-12-23'
+  time: '20:30'
+  band_name: Modern Music Hall Band (новый проект Жоржа Сергеева)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82766
+  date: '2019-12-09'
+  time: '20:30'
+  band_name: Modern Music Hall Band (новый проект Жоржа Сергеева)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82767
+  date: '2019-12-12'
+  time: '21:00'
+  band_name: Treskatresk (Норвегия / Россия)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82771
+  date: '2019-12-13'
+  time: '22:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 82741
+  date: '2019-12-08'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82742
+  date: '2019-12-15'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82743
+  date: '2019-12-22'
+  time: '15:00'
+  band_name: Воскресный бранч с Full Moon Jazz Band
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82744
+  date: '2019-12-29'
+  time: '15:00'
+  band_name: Воскресный бранч с джазовым ансамблем Петра Востокова
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82745
+  date: '2019-12-29'
+  time: '21:00'
+  band_name: Биг-бенд Георгия Гараняна с программой "Winter-jazz"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82746
+  date: '2019-12-30'
+  time: '21:00'
+  band_name: Новогодний корпоратив для музыкантов
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82747
+  date: '2019-12-01'
+  time: '21:00'
+  band_name: Проект Sakhra с программой "Танцы древних людей"
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82748
+  date: '2019-12-02'
+  time: '20:30'
+  band_name: Modern Music Hall Band (новый проект Жоржа Сергеева)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82749
+  date: '2019-12-10'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82750
+  date: '2019-12-17'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82751
+  date: '2019-12-24'
+  time: '21:00'
+  band_name: Jam Session с Яковом Окунем
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82752
+  date: '2019-12-27'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82753
+  date: '2019-12-20'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82754
+  date: '2019-12-13'
+  time: '23:30'
+  band_name: Сергей Головня и Swing Machine
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82756
+  date: '2019-12-07'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Братья Бриль'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 82757
+  date: '2019-12-14'
+  time: '23:30'
+  band_name: 'Midnight Jazz: Квинтет Павла Тимофеева "Ураганный джаз"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82761
+  date: '2019-12-28'
+  time: '21:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82762
+  date: '2019-12-27'
+  time: '19:00'
+  band_name: Большой Джазовый Оркестр Разыскивает
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82763
+  date: '2019-12-27'
+  time: '22:00'
+  band_name: Большой Джазовый Оркестр Разыскивает
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 82765
+  date: '2019-12-16'
+  time: '20:30'
+  band_name: Modern Music Hall Band (новый проект Жоржа Сергеева)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82768
+  date: '2019-12-08'
+  time: '21:00'
+  band_name: Leszek Mozdzer (рояль, Польша) & Андрей Кондаков (рояль, Санкт-Петербург)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82769
+  date: '2019-12-07'
+  time: '14:00'
+  band_name: 'Барабанная клиника Miguel Lamas (Испания). При поддержке: Евгений Аноев
+    ("Фонограф") и Алексей Кравцов ("Леонид Агутин")'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82770
+  date: '2019-12-13'
+  time: '19:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 82772
+  date: '2019-12-14'
+  time: '21:00'
+  band_name: 'Bril club: Виктор Шендерович и Bril Family в проекте "Как мы таскали
+    пианино"'
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse
+- id: 82773
+  date: '2019-12-15'
+  time: '21:00'
+  band_name: Квартет Роберта Анчиполовского (Израиль)
+  club_id: 547
+  club_name: Эссе Джаз-кафе
+  club_token: cafeesse

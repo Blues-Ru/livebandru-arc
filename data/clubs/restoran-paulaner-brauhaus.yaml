@@ -1,0 +1,13 @@
+id: 893
+token: restoran-paulaner-brauhaus
+name: Ресторан Paulaner Brauhaus
+alive: true
+address: пр. Ермакова, 1/1
+phone: 8(3843)576-546
+city_id: 55
+clips:
+- id: 8908
+  type: weblink
+  url: https://vk.com/paulaner_novokuznetsk
+  name: Официальный сайт
+  sort_order: 0

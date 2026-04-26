@@ -1,0 +1,29 @@
+id: 498
+token: foje-live
+name: Фойе Live
+aliases: 'ФойеLive
+
+  ФойеЛайв
+
+  Фойе Лайв
+
+  Фойе Live Bar'
+alive: true
+address: ул. Никольская, 10
+subway: Лубянка
+phone: +7 (495) 783-8901
+city_id: 1
+comments: NIKOLSKAYA PLAZA, 1 этаж
+clips:
+- id: 2571
+  type: weblink
+  url: http://www.foyelive.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2689
+  type: photo
+  url: foje-live.jpg
+  name: Концерт
+  sort_order: 0
+  width: 3504
+  height: 2336

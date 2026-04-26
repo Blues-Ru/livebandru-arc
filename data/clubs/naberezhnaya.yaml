@@ -1,0 +1,15 @@
+id: 183
+token: naberezhnaya
+name: Набережная
+alive: true
+address: Аптекарская наб., 20а
+subway: Лесная, Петроградская
+phone: (812) 600-90-06
+city_id: 2
+comments: БЦ "Авеню"
+clips:
+- id: 192
+  type: weblink
+  url: http://www.nabeer.ru/
+  name: Официальный сайт
+  sort_order: 0

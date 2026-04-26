@@ -1,0 +1,746 @@
+- id: 14540
+  date: '2011-01-03'
+  time: '20:30'
+  band_name: Юлия Алимова & Jazz Forever Band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14545
+  date: '2011-01-04'
+  time: '22:00'
+  band_name: Сечень
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14559
+  date: '2011-01-06'
+  time: '22:00'
+  band_name: Феликс Лахути & Funky Land
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 14785
+  date: '2011-01-17'
+  time: '20:00'
+  band_name: DJ Варяг, Los Barabanos
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14570
+  date: '2011-01-07'
+  time: '22:00'
+  band_name: Олег Горшков
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14761
+  date: '2011-01-15'
+  time: '23:00'
+  band_name: Запрещенные барабанщики
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14779
+  date: '2011-01-16'
+  time: '22:00'
+  band_name: Абвиотура
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14792
+  date: '2011-01-19'
+  time: '21:00'
+  band_name: Максимачев Бэнд
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14985
+  date: '2011-01-26'
+  time: '21:00'
+  band_name: Николай Моисеенко project
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14946
+  date: '2011-01-21'
+  time: '23:00'
+  band_name: Ива Нова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 14974
+  date: '2011-01-25'
+  time: '21:00'
+  band_name: Татьяна Аверина
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15412
+  date: '2011-02-11'
+  time: '23:00'
+  band_id: 205
+  band_name: Каберне Денев
+  band_token: cabernet-deneuve
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15417
+  date: '2011-02-12'
+  time: '23:00'
+  band_name: Steppa Style & DJ Kingston
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15442
+  date: '2011-02-13'
+  time: '22:00'
+  band_name: Шри Ланка
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15368
+  date: '2011-02-09'
+  time: '19:00'
+  band_name: Евгения Теджетова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15385
+  date: '2011-02-10'
+  time: '22:00'
+  band_name: Sahra Band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15653
+  date: '2011-02-22'
+  time: '23:00'
+  band_name: Paul B and The Band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 15909
+  date: '2011-02-24'
+  time: '22:00'
+  band_id: 387
+  band_name: Move Red Objects
+  band_token: move-red-objects
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 350 р.
+- id: 16114
+  date: '2011-03-07'
+  time: '23:00'
+  band_name: Dubstepler
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16044
+  date: '2011-03-03'
+  time: '22:00'
+  band_name: Tabasco Band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16105
+  date: '2011-03-06'
+  time: '23:00'
+  band_name: Salvador
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16303
+  date: '2011-03-11'
+  time: '22:00'
+  band_name: One Gin Please, Sang Sattawood
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16131
+  date: '2011-03-08'
+  time: '22:00'
+  band_name: КубаНаты
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16319
+  date: '2011-03-12'
+  time: '21:00'
+  band_name: 'КомбинАрт: Bezdaty, Тут как Тут, Friday Night Sessions'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16277
+  date: '2011-03-10'
+  time: '21:00'
+  band_name: Кабаре безумного Пьеро
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16264
+  date: '2011-03-09'
+  time: '22:00'
+  band_name: Ледовитый Бенд
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16351
+  date: '2011-03-13'
+  time: '22:00'
+  band_name: Джан Ку
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16737
+  date: '2011-03-23'
+  time: '22:00'
+  band_name: Sun Music
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16752
+  date: '2011-03-24'
+  time: '23:00'
+  band_name: Treya
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16758
+  date: '2011-03-24'
+  time: '21:00'
+  band_name: El-Tebi
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16787
+  date: '2011-03-26'
+  time: '23:00'
+  band_name: Jah Pre
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16848
+  date: '2011-03-30'
+  time: '21:00'
+  band_name: Дмитрий Максимачёв и Большой стереофонический оркестр при участии струнного
+    квартета
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 16875
+  date: '2011-03-31'
+  time: '22:00'
+  band_name: Anadi Nad, Камаль Шажри
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17306
+  date: '2011-04-10'
+  time: '22:00'
+  band_id: 243
+  band_name: Наеховичи
+  band_token: nayekhovichi
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17239
+  date: '2011-04-07'
+  time: '22:00'
+  band_name: Diversion Voice
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17207
+  date: '2011-04-06'
+  time: '20:00'
+  band_name: 13/8, Неправильные пчелы, Freemanway
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17189
+  date: '2011-04-04'
+  time: '21:00'
+  band_name: Los Barabanos, DJ Savelove
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17529
+  date: '2011-04-13'
+  time: '22:00'
+  band_name: Beat of the silence
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17535
+  date: '2011-04-14'
+  time: '22:00'
+  band_name: Max Dmitrieff & Katherine's Favorites
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17558
+  date: '2011-04-15'
+  time: '23:00'
+  band_name: Самоиграйки, Self Players
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17630
+  date: '2011-04-17'
+  time: '22:00'
+  band_name: Hallabuddah, Tango Cocaine
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17860
+  date: '2011-04-18'
+  time: '20:00'
+  band_name: 'Тандем: Саша Бруни (флейта), DJ Pasha'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17919
+  date: '2011-04-20'
+  time: '22:00'
+  band_name: Ступени
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17991
+  date: '2011-04-23'
+  time: '23:00'
+  band_id: 344
+  band_name: С.О.К.
+  band_token: s-o-k
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17998
+  date: '2011-04-24'
+  time: '22:00'
+  band_name: Sкальпель
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 17877
+  date: '2011-04-19'
+  time: '20:00'
+  band_name: Дмитрий Максимачев
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18155
+  date: '2011-04-27'
+  time: '20:30'
+  band_name: Mirea
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18142
+  date: '2011-04-25'
+  time: '20:00'
+  band_name: DJ Pimprider, Виктория Астраханцева (вокал)
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18192
+  date: '2011-04-29'
+  time: '23:00'
+  band_name: Jah Division
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18219
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Dub TV, Каникулы Бонифация, Rasta Orchestra, Megedo
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18620
+  date: '2011-05-09'
+  time: '22:00'
+  band_name: Салют
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18689
+  date: '2011-05-11'
+  time: '21:00'
+  band_name: Летчик Потапов
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18711
+  date: '2011-05-13'
+  time: '23:00'
+  band_name: Reggaenauts
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18729
+  date: '2011-05-14'
+  time: '23:00'
+  band_name: Piano Chocolate
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18868
+  date: '2011-05-08'
+  time: '23:00'
+  band_id: 205
+  band_name: Каберне Денев
+  band_token: cabernet-deneuve
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18894
+  date: '2011-05-15'
+  time: '22:00'
+  band_name: Фома Егорыч и Big Band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18585
+  date: '2011-05-04'
+  time: '21:00'
+  band_name: Парадигма, Duendo
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18589
+  date: '2011-05-05'
+  time: '22:00'
+  band_name: Факты
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18594
+  date: '2011-05-06'
+  time: '23:00'
+  band_name: Рома ВПР, Фестиваль всего на свете
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18603
+  date: '2011-05-07'
+  time: '23:00'
+  band_name: Олег Костров
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18866
+  date: '2011-05-08'
+  time: '20:00'
+  band_name: Лев Рубинштейн, "Чип-и-бенд"
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 18703
+  date: '2011-05-12'
+  time: '22:00'
+  band_name: Svoбода
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19129
+  date: '2011-05-18'
+  time: '22:00'
+  band_name: Radiocity
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19144
+  date: '2011-05-19'
+  time: '22:00'
+  band_name: Шри Ланка
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19322
+  date: '2011-05-20'
+  time: '21:00'
+  band_name: Los Barabanos, DJ Savelove
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19326
+  date: '2011-05-20'
+  time: '22:00'
+  band_name: Китай-город
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19553
+  date: '2011-05-29'
+  time: '21:30'
+  band_name: Скворцы Степанова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19564
+  date: '2011-05-31'
+  time: '20:00'
+  band_name: Teenage Mixtape
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19345
+  date: '2011-05-22'
+  time: '22:00'
+  band_name: Puck & Piper
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19499
+  date: '2011-05-27'
+  time: '23:00'
+  band_id: 207
+  band_name: Аддис Абеба
+  band_token: addis-abeba
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19503
+  date: '2011-05-25'
+  time: '21:00'
+  band_name: Арс-Пегас и Аморальное блюдечко, Евгения Рыбакова и 8
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19516
+  date: '2011-05-26'
+  time: '22:00'
+  band_name: Таки Да
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19545
+  date: '2011-05-28'
+  time: '23:00'
+  band_name: Мультфильмы
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19558
+  date: '2011-05-30'
+  time: '21:00'
+  band_name: Underground Attack (FIN)
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19853
+  date: '2011-06-01'
+  time: '21:00'
+  band_name: АН-3
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19859
+  date: '2011-06-02'
+  time: '22:00'
+  band_name: Вьюга с юга
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19866
+  date: '2011-06-03'
+  time: '23:00'
+  band_name: Паперный ТАМ
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 19786
+  date: '2011-05-24'
+  time: '20:00'
+  band_name: Wax Angel
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 20141
+  date: '2011-06-06'
+  time: '20:00'
+  band_name: Виктория Астраханцева
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 20148
+  date: '2011-06-08'
+  time: '21:00'
+  band_name: В парке Чаир
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 20205
+  date: '2011-06-12'
+  time: '22:00'
+  band_name: Round Hills
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 20195
+  date: '2011-06-11'
+  time: '23:00'
+  band_name: И друг мой грузовик
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 21746
+  date: '2011-09-10'
+  time: '23:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 400 руб.
+  comments: "Специальные гости:\r\n\r\nТаис Урумидис (вокал)\r\nАндрей Красильников\
+    \ (саксофон)\r\nОвер Серрано (перкуссия)"
+- id: 21062
+  date: '2011-08-24'
+  time: '22:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+- id: 21981
+  date: '2011-09-28'
+  time: '19:30'
+  band_name: Another Trio, Неправильные Пчелы, Soul Message
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 250 руб.
+  comments: "Фестиваль \"Среда Джаза\" - территория, где обитают такие разные направления\
+    \ джазовой музыки, как свинг, бибоп, босса-нова и фанк.\r\nhttp://www.lookatme.ru/cities/moscow/events/188051-festival-sreda-dzhaza"
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 22389
+  date: '2011-10-15'
+  time: '22:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 400 руб.
+  comments: 2 года Smitanaband
+- id: 23849
+  date: '2011-12-03'
+  time: '22:00'
+  band_name: Китай-город
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 23874
+  date: '2011-12-04'
+  time: '22:00'
+  band_name: Татьяна Михина
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 23879
+  date: '2011-12-05'
+  time: '20:00'
+  band_name: Валерий Грошев и DJ Костя Skinny
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 23885
+  date: '2011-12-06'
+  time: '19:00'
+  band_id: 370
+  band_name: Анатолий Герасимов
+  band_token: anatoly-gerasimov
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 23890
+  date: '2011-12-06'
+  time: '20:00'
+  band_name: Dj Ольга Микрофонова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 23910
+  date: '2011-12-07'
+  time: '21:00'
+  band_name: Вячеслав Зиновский
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 24008
+  date: '2011-12-14'
+  time: '19:30'
+  band_name: 'Фестиваль "Среда джаза": Catherine''s Project, Неправильные Пчелы, Freeman
+    Way, Редкий Вид'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  comments: "Среда Джаза - территория, где обитают такие разные направления джазовой\
+    \ музыки, как свинг, бибоп, босса-нова и фанк.\r\n\r\n14 декабря в клубе \"Китайский\
+    \ летчик Джао Да\" выступят: \r\n\r\n\"Catherine's Project\" - это ласковая босса-нова,\
+    \ зажигательный данзон, романтичный соул, свинг, латино - такая музыка не оставит\
+    \ равнодушным никого! Играют яркие джазовые музыканты Москвы, и Екатерина Фомина\
+    \ - джазовая флейта!\r\nhttp://vkontakte.ru/catherines_project\r\n\r\n\"Неправильные\
+    \ Пчелы\" - коллектив, играющий танцевальную джазовую музыку - от свинга до фанка.\
+    \ Музыка команды излучает свет и оптимизм. В репертуаре авторские композиции,\
+    \ а также неожиданные прочтения джазовой классики и народной музыки.\r\nhttp://wrong-bees.ru\r\
+    \n\r\n\r\n\"Редкий Bид\" - одна из самых старых групп фанковой направленности\
+    \ на московской сцене. При своем постоянном и неизменном тяготении к фанку, в\
+    \ своем творчестве \"Редкий Bид\" смешивает самые разные жанры музыки - фанк,\r\
+    \nдиско, поп, соул, хип-хоп, рок.\r\nhttp://www.rvid.ru\r\n\r\n\"Freeman Way\"\
+    \ - коллектив, играющий фанк с вкраплением диско и джаза. Выразительный женский\
+    \ вокал дополняется гибкой качающей ритм-секцией, \"квакающей\" гитарой и ярким\
+    \ саксофоном. Не зря Freeman Way сравнивают с классическим американским фанком\
+    \ 70-х годов, отмечая танцевальность и грув звука с сильным, почти \"черным\"\
+    \ вокалом, и в тоже время приятную расслабленность и мягкость аранжировок и исполнения.\r\
+    \nhttp://vkontakte.ru/club1571070"
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 24064
+  date: '2011-12-29'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 22857
+  date: '2011-11-09'
+  time: '19:30'
+  band_name: 13/8 Jazz Band, Неправильные Пчелы, The Jamix
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 250 руб.
+  comments: "Среда Джаза - территория, где обитают такие разные направления джазовой\
+    \ музыки, как свинг, бибоп, босса-нова и фанк.\r\n\r\nПодробнее о концерте: http://vkontakte.ru/event31344007\
+    \ и http://www.lookatme.ru/cities/moscow/events/194969-festival-sreda-dzhaza-2011-10-25"
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 23819
+  date: '2011-12-02'
+  time: '23:00'
+  band_name: Антон Восьмой
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da

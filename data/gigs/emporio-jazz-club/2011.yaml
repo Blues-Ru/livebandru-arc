@@ -1,0 +1,84 @@
+- id: 22365
+  date: '2011-10-05'
+  time: '21:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  comments: "Александр & Дмитрий Бриль (тенор и сопрано саксофоны)\r\nЕвгений Борец\
+    \ (фортепиано)\r\nАнтон Ревнюк (контрабас)\r\nЭдуард Зизак (барабаны)"
+- id: 22366
+  date: '2011-10-12'
+  time: '21:00'
+  band_name: Квартет Льва Кушнира
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22368
+  date: '2011-10-26'
+  time: '21:00'
+  band_name: Михаил Суджян (гитара), Владимир Качаров (фортепиано) и Jazz, Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22370
+  date: '2011-11-09'
+  time: '21:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22372
+  date: '2011-11-23'
+  time: '21:00'
+  band_name: Ирина Родилес, Алина Ростоцкая, Полина Зизак и Трио Якова Окуня
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 22373
+  date: '2011-11-30'
+  time: '21:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22367
+  date: '2011-10-19'
+  time: '21:00'
+  band_name: Ольга Синяева (вокал) и Jazz квартет Андрея Марухина
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22369
+  date: '2011-11-02'
+  time: '21:00'
+  band_id: 464
+  band_name: Кристина Аглинц
+  band_token: kristina-anglintc
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 22371
+  date: '2011-11-16'
+  time: '21:00'
+  band_name: Kevin Mahogany (вокал, США), Victor Bailey (бас, США), Федор Досумов
+    (гитара, A'Studio), Евгений-Юджин Дальский (барабаны, A'Studio), Alex Nakhimovsky
+    (фортепиано, США), Егор Дергачев (фортепиано, Jazz Parking Band), Сергей Васильев
+    (саксофон, Jazz Parking Band). При уч. Байгали Серкебаева.
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club

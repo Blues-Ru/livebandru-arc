@@ -1,0 +1,31 @@
+- id: 15808
+  date: '2011-02-24'
+  time: '19:00'
+  band_name: АукцЫон, Юрий Шевчук, Сергей Чиграков, Диана Арбенина
+  club_id: 356
+  club_name: ДК им. Ленсовета
+  club_token: dk-lensoveta
+  extra_bands:
+  - id: 277
+    name: Ночные Снайперы
+    token: night-snipers
+  - id: 333
+    name: ДДТ
+    token: ddt
+  - id: 152
+    name: Аукцыон
+    token: auktyon
+- id: 20231
+  date: '2011-06-09'
+  time: '19:00'
+  band_name: Борис Гребенщиков и "Аквариум"
+  club_id: 356
+  club_name: ДК им. Ленсовета
+  club_token: dk-lensoveta
+- id: 23941
+  date: '2011-12-04'
+  time: '19:00'
+  band_name: Воскресение
+  club_id: 356
+  club_name: ДК им. Ленсовета
+  club_token: dk-lensoveta

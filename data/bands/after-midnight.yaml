@@ -1,0 +1,36 @@
+id: 555
+token: after-midnight
+name: '"After Midnight" Blues Rock Band'
+alive: true
+url: http://spb-blues.ru/
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Петр Трощенков-Губерман
+  instruments: ударные
+- name: Дмитрий Кожин
+  instruments: вокал
+- name: Павел Петров
+  instruments: ударные
+- name: Артем Семенов
+  instruments: вокал
+- name: Алексей Трушников
+  instruments: гитара
+- name: Петр Рибуш
+  instruments: бас гитара
+- name: Вадим Петухов
+  instruments: ударные
+clips:
+- id: 2889
+  type: weblink
+  url: http://spb-blues.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 8661
+  type: photo
+  url: after-midnight-2.jpg
+  name: AFTER MIDNIGHT Blues Rock Band
+  sort_order: 0
+  width: 1821
+  height: 1821

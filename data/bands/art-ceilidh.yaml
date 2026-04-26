@@ -1,0 +1,53 @@
+id: 271
+token: art-ceilidh
+name: Art Ceilidh
+alive: true
+url: http://www.artceilidh.ru/
+city_id: 1
+genre_id: 4
+secondary_genre_id: 3
+musicians:
+- name: Михаил Смирнов
+  instruments: клавишные, аккордеон, перкуссия, вокал.
+- name: Сергей Клевенский
+  instruments: этнические духовые
+- name: Вадим Бедов
+  instruments: акустическая гитара
+- name: Александр Шарашенидзе
+  instruments: электрогитара
+clips:
+- id: 886
+  type: photo
+  url: art-ceilidh.jpg
+  sort_order: 200
+  width: 398
+  height: 600
+- id: 887
+  type: photo
+  url: art-ceilidh-2.jpg
+  sort_order: 0
+  width: 467
+  height: 600
+- id: 880
+  type: weblink
+  url: http://www.artceilidh.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 2318
+  type: youtube
+  url: http://www.youtube.com/?v=eEabDS7BsLs
+  name: ART CEILIDH -  "Dos Tontos y Paella" ("Два дурака и рисовая каша")
+  sort_order: 99
+- id: 2319
+  type: youtube
+  url: http://www.youtube.com/?v=ZzTdeKJlDEQ
+  name: ART CEILIDH - "Self Prisoner"
+  sort_order: 199
+- id: 2320
+  type: youtube
+  url: http://www.youtube.com/?v=-TO6913zf8c
+  name: Art Ceilidh - "AMOURS"
+  comments: Art Ceilidh - Concert (Ortus Party) in Obninsk, Russia (26 March 2011)
+    The Band's official site - http://artceilidh.ru Mihail Smirnov's personal site
+    - http://mihailsmirnov.com | http://mihailsmirno
+  sort_order: 0

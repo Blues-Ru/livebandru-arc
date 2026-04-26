@@ -1,0 +1,1312 @@
+- id: 14528
+  date: '2011-01-01'
+  time: '21:00'
+  band_name: The Mattadors
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 14537
+  date: '2011-01-02'
+  time: '21:00'
+  band_name: Мистер-твистер
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 14554
+  date: '2011-01-05'
+  time: '21:00'
+  band_id: 309
+  band_name: Плимут
+  band_token: plimut
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 14583
+  date: '2011-01-08'
+  time: '21:00'
+  band_name: Ирина Родилес, Полина Зизак, Алина Ростоцкая, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 14516
+  date: '2011-01-13'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 14773
+  date: '2011-01-15'
+  time: '21:00'
+  band_name: Этери Бериашвили, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 14752
+  date: '2011-01-14'
+  time: '21:00'
+  band_name: Limmo
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 14892
+  date: '2011-01-29'
+  time: '21:00'
+  band_name: '"Джазовая Трансформация" с Гией Дзагнидзе и Jazz Town Band Евгения Борца.'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 15167
+  date: '2011-02-02'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 15008
+  date: '2011-01-28'
+  time: '21:00'
+  band_id: 106
+  band_name: Вадим Степанцов и Бахыт Компот
+  band_token: stepantsov
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15361
+  date: '2011-02-09'
+  time: '21:00'
+  band_name: Good Company
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15407
+  date: '2011-02-11'
+  time: '21:00'
+  band_id: 172
+  band_name: Пижоны
+  band_token: pijony
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15422
+  date: '2011-02-12'
+  time: '21:00'
+  band_name: Бриль Family
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15566
+  date: '2011-02-17'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 15603
+  date: '2011-03-10'
+  time: '21:00'
+  band_name: Вадим Иващенко и The Boneshakers, The Telescopes
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 15720
+  date: '2011-02-26'
+  time: '21:00'
+  band_name: Александр Бриль, Дмитрий Бриль, Александр Гуреев, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 15674
+  date: '2011-02-23'
+  time: '21:00'
+  band_name: Jazz Dance Orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15690
+  date: '2011-02-25'
+  time: '20:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 15687
+  date: '2011-02-24'
+  time: '21:00'
+  band_id: 309
+  band_name: Плимут
+  band_token: plimut
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16111
+  date: '2011-03-07'
+  time: '20:00'
+  band_name: Naya & The Silvertonez, Rawcats'88
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 16082
+  date: '2011-03-05'
+  time: '21:00'
+  band_name: Максим Пиганов, Констарнтин Гевондян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16058
+  date: '2011-03-04'
+  time: '21:00'
+  band_name: Юлия Алимова & Jazz Forever Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16132
+  date: '2011-03-08'
+  time: '21:00'
+  band_name: Братья Грим
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16306
+  date: '2011-03-11'
+  time: '21:00'
+  band_name: 7Б
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16329
+  date: '2011-03-12'
+  time: '21:00'
+  band_name: Этери Бериашвили, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 16278
+  date: '2011-03-10'
+  time: '21:00'
+  band_name: Вадим Иващенко & Boneshakers, The Telescopes
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 16265
+  date: '2011-03-09'
+  time: '21:00'
+  band_name: Limmo
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16380
+  date: '2011-03-16'
+  time: '21:00'
+  band_name: Range Lover
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16444
+  date: '2011-03-19'
+  time: '21:00'
+  band_name: Гия Дзагнидзе, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 16727
+  date: '2011-03-23'
+  time: '21:00'
+  band_name: Good Company
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16862
+  date: '2011-03-31'
+  time: '21:00'
+  band_name: Violinа Dans
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16775
+  date: '2011-03-25'
+  time: '21:00'
+  band_name: Кай Метов
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 16851
+  date: '2011-03-30'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17106
+  date: '2011-04-20'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 17088
+  date: '2011-04-07'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17281
+  date: '2011-04-09'
+  time: '21:00'
+  band_name: Александр Бриль, Дмитрий Бриль, Александр Гуреев, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 17501
+  date: '2011-05-09'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 17518
+  date: '2011-04-13'
+  time: '21:00'
+  band_name: Дилижанс
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17565
+  date: '2011-04-15'
+  time: '20:00'
+  band_name: Rawcats, The Telescopes
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17593
+  date: '2011-04-16'
+  time: '21:00'
+  band_name: Джазовые Трансформации
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17909
+  date: '2011-05-26'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 17946
+  date: '2011-04-22'
+  time: '21:00'
+  band_name: Черный кофе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 17979
+  date: '2011-04-23'
+  time: '21:00'
+  band_name: 61 Highway
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18166
+  date: '2011-04-27'
+  time: '21:00'
+  band_name: Ковер-квартет, Виктор Добронравов
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18180
+  date: '2011-04-28'
+  time: '21:00'
+  band_name: SadMe
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18214
+  date: '2011-04-29'
+  time: '21:00'
+  band_name: Знаки
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18237
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 18714
+  date: '2011-05-13'
+  time: '21:00'
+  band_name: Jazz Dance Orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18723
+  date: '2011-05-14'
+  time: '21:00'
+  band_name: Этери Бериашвили, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 18965
+  date: '2011-06-03'
+  time: '20:00'
+  band_name: Санчилло / Братецкий. Секретная Лаборатория, Barley Corn, Richie's Blues
+    Band, The Heartbeat, The Silvertonez
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 420
+    name: Санчилло / Братецкий. Секретная Лаборатория
+    token: secret-lab
+  - id: 285
+    name: Richie's Blues Band
+    token: richies-blues-band
+- id: 18631
+  date: '2011-05-02'
+  time: '21:00'
+  band_name: Анатомия звука
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18639
+  date: '2011-05-04'
+  time: '21:00'
+  band_name: Good Company
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18647
+  date: '2011-05-05'
+  time: '21:00'
+  band_id: 123
+  band_name: Jumble Tone
+  band_token: jumble-tone
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18652
+  date: '2011-05-06'
+  time: '21:00'
+  band_name: The Matadors
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 18659
+  date: '2011-05-07'
+  time: '21:00'
+  band_name: Гия Дзагнидзе, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 18704
+  date: '2011-05-12'
+  time: '21:00'
+  band_name: Jazz Report
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19128
+  date: '2011-05-18'
+  time: '21:00'
+  band_name: Shakin' Spirit
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19158
+  date: '2011-05-20'
+  time: '21:00'
+  band_name: Dorida Jazz
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19171
+  date: '2011-05-21'
+  time: '21:00'
+  band_name: Диана Поленова, Jazz Town Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+- id: 19529
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Кубанаты
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19902
+  date: '2011-06-05'
+  time: '21:00'
+  band_id: 123
+  band_name: Jumble Tone
+  band_token: jumble-tone
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 19301
+  date: '2011-05-17'
+  time: '21:00'
+  band_name: Юлия Алимова и Bridge Brothers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19542
+  date: '2011-05-28'
+  time: '21:00'
+  band_name: A'Capella Express
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 19910
+  date: '2011-06-16'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 20038
+  date: '2011-06-29'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 20087
+  date: '2011-06-25'
+  time: '21:00'
+  band_name: Лауреаты "Mount Baker Blues Fest" - Леван Ломидзе, "Blues Cousins" и
+    гости
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 20139
+  date: '2011-06-07'
+  time: '21:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 20149
+  date: '2011-06-08'
+  time: '21:00'
+  band_name: Tanslu
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 20085
+  date: '2011-06-11'
+  time: '21:00'
+  band_name: Денис Мажуков и Off Beat, Наталья Липницкая
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 300-500 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 20086
+  date: '2011-06-18'
+  time: '21:00'
+  band_name: '"Saxophone Party" - Александр Бриль, Дмитрий Бриль, Александр Гуреев
+    и трио Евгения Борца'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 20156
+  date: '2011-06-09'
+  time: '21:00'
+  band_name: Holy Crab, Side Fills, Bestseller, Город подо мной, Opus 22
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 20184
+  date: '2011-06-10'
+  time: '21:00'
+  band_name: Цветы
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 21057
+  date: '2011-08-13'
+  time: '21:00'
+  band_name: Диана Поленова и квартет Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 рублей
+  comments: Джазовая Трансформация
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 21058
+  date: '2011-08-20'
+  time: '21:00'
+  band_name: Макс Костра и квартет Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 рублей
+  comments: Джазовая Трансформация
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 21059
+  date: '2011-08-27'
+  time: '21:00'
+  band_name: A'Cappella ExpreSSS
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600-800 рублей
+  extra_bands:
+  - id: 352
+    name: Акапелла Экспресс
+    token: acapella-express
+- id: 21452
+  date: '2011-09-22'
+  time: '20:00'
+  band_id: 420
+  band_name: Санчилло / Братецкий. Секретная Лаборатория
+  band_token: secret-lab
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  comments: РОК-ЗВЕЗДА 2 фест. рок-н-ролла
+- id: 21472
+  date: '2011-09-15'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21474
+  date: '2011-09-23'
+  time: '21:00'
+  band_name: Виктор Добронравов и "Ковер-Квартет"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21499
+  date: '2011-09-07'
+  time: '21:00'
+  band_name: Андрей Ланд и AV
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 21500
+  date: '2011-09-13'
+  time: '21:00'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 21501
+  date: '2011-09-27'
+  time: '21:00'
+  band_name: Леван Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21468
+  date: '2011-09-03'
+  time: '21:00'
+  band_name: '"Джазовая Трансформация" с Гией Дзагнидзе и Jazz Town Band Евгения Борца'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400,600 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 21469
+  date: '2011-09-08'
+  time: '21:00'
+  band_name: Music for people
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21470
+  date: '2011-09-09'
+  time: '21:00'
+  band_name: Jazz Dance Orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+- id: 21471
+  date: '2011-09-10'
+  time: '21:00'
+  band_name: Трио Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  comments: Джазовый Джем-Сейшн
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 21475
+  date: '2011-09-24'
+  time: '21:00'
+  band_name: Александр Бриль, Дмитрий Бриль, Александр Гуреев и трио Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400,600 руб.
+  comments: '"Saxophone Party" c ведущими джазовыми саксофонистами Москвы'
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 20460
+  date: '2011-07-02'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 300-500 руб.
+- id: 20461
+  date: '2011-07-09'
+  time: '21:00'
+  band_name: Гия Дзагнидзе и Jazz Town Band Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 20462
+  date: '2011-07-16'
+  time: '21:00'
+  band_name: 'Блюзовый Джем "61 Highway": Д-р Аграновский, Юрий Каверкин, Вадим Иващенко
+    и Nothing Personal'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 20463
+  date: '2011-07-23'
+  time: '21:00'
+  band_name: Тэкора Роджерс
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 800-1000-1200 руб.
+- id: 20464
+  date: '2011-07-30'
+  time: '21:00'
+  band_name: '"Saxophone Party" - Александр Бриль, Дмитрий Бриль, Александр Гуреев
+    и трио Евгения Борца'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 20896
+  date: '2011-08-04'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21055
+  date: '2011-08-06'
+  time: '21:00'
+  band_name: '"Джазовая Трансформация" с Полиной Касьяновой и квартетом Евгения Борца'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 рублей
+  comments: "Квартет Евгения Борца - без преувеличения является одним их сильнейших\
+    \ мэйнстримовых коллективов на российской джазовой сцене. В его составе - ведущие\
+    \ московские джазовые музыканты  \"нового поколения\". Руководителя группы - пианиста,\
+    \ композитора, аранжировщика Евгения Борца характеризует виртуозное владение инструментом,\
+    \ блестящее знание традиций классической школы и нестандартность джазового мышления.\r\
+    \nА вот Полина Касьянова - настоящее уникальное открытие! С ее появлением в составе,\
+    \ репертуар бэнда несколько расширился, появились классические старые джазо-свинговые\
+    \ композиции. Как поет Полина словами не объяснить, она - истинное воплощение\
+    \ стиля и в манере исполнения и в подаче себя публике!"
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 20916
+  date: '2011-08-03'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 20945
+  date: '2011-09-01'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 21467
+  date: '2011-08-26'
+  time: '21:00'
+  band_name: 'Леван Ломидзе и Blues Cousins: The Beatles глазами звезд московского
+    блюза'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21056
+  date: '2011-08-11'
+  time: '21:00'
+  band_name: Fusion-quartet
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: свободный
+- id: 21473
+  date: '2011-09-17'
+  time: '21:00'
+  band_name: Народный артист России Алексей Кузнецов (гитара), Владимир Данилин (аккардеон),
+    Игорь Контюков (контрабас), Александр Гореткин (ударные) и Анна Бутурлина (вокал)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500, 700 руб
+  comments: Проект "В гостях у Седого Джаза", который объединяет в себе настоящих
+    легенд российского и советского джаза.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 23211
+  date: '2011-11-15'
+  time: '21:00'
+  band_id: 490
+  band_name: Кабаре Людмилы Петрушевской
+  band_token: petrushevskaya
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 350-1000
+- id: 23230
+  date: '2011-12-01'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21836
+  date: '2011-10-01'
+  time: '21:00'
+  band_name: Диана Поленова, , Евгений Борец
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  comments: Джазовые трансформации
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 21837
+  date: '2011-10-04'
+  time: '21:00'
+  band_name: Леван Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: Блюз Джем с Леваном Ломидзе
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21838
+  date: '2011-10-11'
+  time: '21:00'
+  band_name: Леван Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: Блюз Джем с Леваном Ломидзе
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21839
+  date: '2011-10-08'
+  time: '21:00'
+  band_name: Александр Бриль, Дмитрий Бриль, Сергей Баулин, трио Евгения Борца
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  comments: '"Saxophone Party" (c ведущими джазовыми саксофонистами Москвы)'
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 21840
+  date: '2011-10-18'
+  time: '21:00'
+  band_name: Леван Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21937
+  date: '2011-10-14'
+  time: '21:00'
+  band_name: Артур Беркут
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-900 руб.
+- id: 21938
+  date: '2011-10-15'
+  time: '21:00'
+  band_name: The Polecats
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600-800 руб.
+- id: 21939
+  date: '2011-10-19'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 21940
+  date: '2011-10-22'
+  time: '21:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600-800 руб.
+  comments: Наринэ Джинанян, Макс Костра, Катя Надареишвили, Антон Касаткин, Ксения
+    Пеньковская и Андрей Туник
+- id: 21841
+  date: '2011-10-25'
+  time: '21:00'
+  band_name: Леван Ломидзе
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: Блюз Джем с Леваном Ломидзе
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21842
+  date: '2011-10-29'
+  time: '21:00'
+  band_name: Юрий Каверкин и Nothing Personal, Вадим Иващенко, Др. Аграновский
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  comments: Большой Блюзовый Джем "61 Highway"
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 22445
+  date: '2011-11-02'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 22449
+  date: '2011-11-16'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 22512
+  date: '2011-11-08'
+  time: '21:00'
+  band_name: Павел Козлов & Alright Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: "Презентация новой программы Павла Козлова и Alright Band *The seeds of\
+    \ Love*\r\nНовые песни!!!! И все Ваши любимые!"
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 23895
+  date: '2011-12-06'
+  time: '21:00'
+  band_name: Юлия Алимова и Jazz Forever Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 23913
+  date: '2011-12-07'
+  time: '21:00'
+  band_name: Виктор Добронравов и Ковер квартет
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 22808
+  date: '2011-11-19'
+  time: '21:00'
+  band_name: '"Джазовые Трансформации": (Этери Бериашвили, Квартет Евгения Борца)'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 22809
+  date: '2011-11-26'
+  time: '21:00'
+  band_name: '"Джазовые Трансформации": (Гия Дзагнидзе, Квартет Евгения Борца)'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 22810
+  date: '2011-11-30'
+  time: '21:00'
+  band_name: Джаз-квинтет "Art Module" (Евгений Баженов - фортепиано, Антон Жуков
+    - балалайка, Роман Пост - цимбалы, Максим Макагонов - контрабас, Алексей Бударин
+    - кахон)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 22875
+  date: '2011-11-07'
+  time: '21:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 22805
+  date: '2011-11-05'
+  time: '21:00'
+  band_name: 'В гостях у "Седого Джаза": Алексей Кузнецов - гитара, Владимир Данилин
+    - аккордеон, Игорь Контюков - контрабас, Александр Гореткин - ударные и Анна Бутурлина
+    - вокал'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 22806
+  date: '2011-11-12'
+  time: '21:00'
+  band_name: 'Вечер Женского Джазового Вокала: Ирина Родилес, Алина Ростоцкая, Полина
+    Зизак'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 22807
+  date: '2011-11-17'
+  time: '21:00'
+  band_name: '"Джазовые Трансформации" с Андреем Макаревичем (Brill Brothers, трио
+    Евгения Борца, Полина Касьянова)'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1500-2200 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 23332
+  date: '2011-12-19'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 23347
+  date: '2011-11-24'
+  time: '21:00'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-600 руб.
+  comments: "Концерт-презентация новой программы\r\n\"ПУТЕШЕСТВИЕ ПО МИРУ\"\r\n\r\n\
+    24 ноября в клубе \"РадиоСити\" ансамбль Marimba Plus представляет свою новую\
+    \ программу \"Путешествие по миру\". Самые разные страны и самые сочные музыкальные\
+    \ краски предстанут перед зрителями в этот вечер. Африка - Восток - Болгария -\
+    \ Молдавия - Грузия - Испания, и все дальше и дальше...\r\n\r\nMarimba Plus завоевал\
+    \ популярность благодаря индивидуальному стилю - они искусно смешивают мировые\
+    \ культуры и современные музыкальные стили. Джаз - этно - электро.  Музыка Marimba\
+    \ Plus - это яркие композиции, полные драйва и целого урагана ритмов, искрящийся\
+    \ микс музыкальных красок самых разных народов и времен, стилевые эксперименты\
+    \ и импровизации, танцевальные мелодии и вокал, меняющийся от этники до скета.\r\
+    \n\r\nПроект \"Путешествие по миру\" - это продолжение успеха фестиваля \"Этнодрайв!\"\
+    , который Marimba Plus проводит в течение 2 лет. В рамках фестиваля с Marimba\
+    \ Plus работали российские и зарубежные звезды стиля world music (Adrian Sanchez\
+    \ (Испания), Хуун Хуур Ту, Сергей Старостин, и др.).\r\n\r\nСпециальной гостьей\
+    \ этого концерта станет Таис Урумидис - певица с мощной энергетикой: гипнотизирующая\
+    \ и заряжающая с первых же секунд. У Таис сильный глубокий чувственный голос и\
+    \ естественная чарующая музыкальность.\r\n\r\n24 ноября - 21.00\r\nКлуб \"РАДИО\
+    \ СИТИ bar & kitchen\"\r\nhttp://www.radiocitybar.ru\r\n(м. Маяковская, ул. Садовая\
+    \ Б., 5, в здании гостиницы \"Пекин\",\r\nзаказ столиков по тел. +7 (495) 363-42-23)"
+- id: 23552
+  date: '2011-12-05'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city

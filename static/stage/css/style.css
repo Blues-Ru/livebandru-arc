@@ -1,0 +1,321 @@
+/*tags*/
+	body {font: 11px 'Tahoma', sans-serif;background-color: #fff;color:#343434;/*color:#404040;*/}
+	a[href] {color: #7a4430;text-decoration: none; /* color: #8a4c36; */}
+	a[href]:hover {text-decoration: underline;}
+	a[href].more {font-weight: bold !important;font-style: italic !important;font-family: 'Georgia', serif !important;color: #e61e00 !important;}
+	a[href].red, a[href].red:active, a[href].red:visited {color: #e61e00;}
+	h3.und, h4.und {font: 17px/19px 'Georgia', serif;color: #000;border-bottom: 4px solid #000;}
+	h3.und {margin: 20px 0 0;padding: 0 0 8px;}
+	h4.und {margin: 14px 0 0;padding: 0 0 7px;}
+	h3.grg {font: 17px/1em 'Georgia', serif;color: #994123;}
+	input.btn {height: 19px;padding: 0;font: italic 12px/19px 'Georgia', serif;color: #fff;border: 0;background: #fff url(/stage/img/void.gif) no-repeat left bottom;}
+	input.btn97 {width: 97px;background-image: url(/stage/img/submit97.btn.png);}
+	input.btn133 {width: 133px;background-image: url(/stage/img/submit133.btn.png);}
+	input.btn66 {width: 66px;background-image: url(/stage/img/submit66.btn.png);}
+	input.btn100w {width: 100px;background-image: url(/stage/img/submit100w.btn.png);}
+	input.btn133w {width: 133px;background-image: url(/stage/img/submit133w.btn.png);}
+	input.btn137w {width: 137px;background-image: url(/stage/img/submit137w.btn.png);}
+
+/*classes*/
+	body.loginWindow {font: 14px/17px 'Georgia', serif;}
+	body.loginWindow div.box {padding: 54px 0px 0px 147px;width: 472px;background: url(/stage/img/logo.window.png) no-repeat 32px 25px;}
+	body.loginWindow h3 {position: relative;left: -3px;margin: 0;font: 32px/36px 'Georgia', serif;}
+	body.loginWindow .content {margin: 7px 0px 1em 0px;padding: 1em 0 0;border-top: 6px solid #000;border-bottom: 2px solid #000;}
+	body.loginWindow input.btn {font: italic 14px/19px 'Georgia', serif;}
+	body.loginWindow p.selected {border-left: 4px solid #cebda7;}
+	body.loginWindow p.selected span {font-style: italic;font-weight: bold;background-color: #cebda7;}
+
+	.contentZone table {margin: 0 0 10px;width: 100%;font: 11px/15px 'Tahoma', sans-serif;}
+	.contentZone table .w33 {width: 33.3%;}
+	.contentZone table .w66 {width: 66.6%;}
+	.contentZone table th {padding: 6px 10px;color: #6d5a4a;text-align: left;background-color: #eee8e1;}
+	.contentZone table td {padding: 3px 10px;border-bottom: 1px solid #cfc8c2;vertical-align: top;}
+	.contentZone tr.even td {background-color: #faf8f6;}
+	.contentZone table td.mineOffset em {padding-left: 15px;background: url(/stage/img/mine.ico.gif) no-repeat 0px 5px;font-style: normal;}
+	.contentZone .fav {padding-left: 12px;background: url(/stage/img/mine.ico.gif) no-repeat 0px 6px; background-positionxxx: right; font-style: normal;}
+	.contentZone table td.nowrap {white-space: nowrap;}
+	.contentZone table td.more {font-size: 12px;line-height: 14px;padding: 10px 0 9px 3px;}
+//	.contentZone table td span.day {/*position: absolute;*/}
+//	.contentZone table td span.date, .contentZone table td span.time {/*display: block;padding-left: 21px;width: 30px;*/}
+	.contentZone div.lBlock {float: left;width: 275px;}
+	.contentZone div.rBlock {float: right;margin: 0 0 0 11px;width: 276px;}
+	.contentZone div.wBlock {float: left;margin: 0 0 0 0;width: 562px;}
+	.contentZone div.lrBlocks h4 {margin-bottom: 8px;}
+	.contentZone div.lrBlocks p {margin: 0 0 15px;line-height: 16px;}
+	.contentZone div.lrBlocks div.brdBtm {height: 1px;overflow: hidden;background-color: #cfc8c2;}
+	.contentZone td h5 {margin: 0;font: 16px 'Tahoma', sans-serif;color: #8a4c36;}
+	.contentZone table.packless th {padding: 8px 13px;}
+	.contentZone table.packless td {padding: 12px 13px; /* padding: 15px 13px; */}
+	.contentZone table.packless td p {margin: 0;}
+	.contentZone table.wide th {padding-left: 0px; padding-right: 6px; }
+	.contentZone table.wide td {padding-left: 0px; padding-right: 6px; }
+	.contentZone b i {font-family: 'Georgia', sans-serif;}
+	.contentZone blockquote {margin: 0 0 16px;padding: 4px 0 7px;border-bottom: 1px solid #cfc8c2;line-height: 15px;}
+	.contentZone blockquote p {margin: 0;}
+	.contentZone p.more {margin: -15px 0 7px !important;text-align: right !important;font: 12px/15px 'Georgia', serif !important;}
+	.contentZone div.photo {float: left;margin: 5px 20px 10px 0;}
+	.contentZone h3 {xxclear: both;margin: 20px 0px 10px 0px;font: 18px 'Georgia',sans-serif;}
+	.contentZone .forward,
+	.contentZone .backward {margin: 0px 0px 10px 0px;font: 13px/19px 'Georgia', serif;}
+	.contentZone .forward a,
+	.contentZone .backward a {color: #E51E00;}
+
+	.main {font-size: 14px;}
+	.aux {font-size: 11px;}
+	.weekend {color: red;}
+
+	div.pager {position: relative;margin: 10px 0;padding: 9px;height: 18px;background-color: #F1ECE6;}
+	div.pager p {margin: 0;font: 13px/19px 'Georgia', serif;color: #000;}
+	div.pager p.right {position: absolute;right: 24px;top: 9px;}
+	div.pager p a {color: #994123;}
+	div.pager p span.hellip {color: #994123;}
+		div.pager p a.next, 
+		div.pager p a.prev
+			{color: #E51E00;font: italic 14px/19px 'Georgia', serif;}
+	div.pager p span.bar {padding: 0 3px;}
+	div.pager p span.page {font-style: italic;}
+	div.pager p a.prev {padding: 0 0 0 10px;}
+	div.pager form {margin: 0;padding: 4px 0;}
+	div.pager form span.title {font: italic 14px 'Georgia', serif;color: #000;}
+	div.pager form span.title br {display: none;}
+	
+	div.calendar {margin: 10px 0;padding: 9px;background-color: #F1ECE6;}
+	div.calendar p {margin: 0;}
+	div.calendar p span.years {display: block;padding: 0 0 7px;font: 21px/1em 'Georgia', serif;}
+	div.calendar p span.years b {font-weight: 400;}
+	div.calendar p span.months {display: block;padding: 0 0 7px;font: 11px/1em 'Tahoma', sans-serif;}
+	div.calendar p span.months * {padding: 0 4px 0 0;}
+	div.calendar p span.days {display: block;font: 13px/1em 'Georgia', serif;}
+
+	.bnr240x {margin: 0 0 10px;}
+	.bnr240x div.bg {background: url(/stage/img/bnr240x.bg.gif) no-repeat left bottom;height: 400px;}
+	.bnr240x>div.bg {height: auto;min-height: 400px;}
+	.bnr240x h5 {margin: 0;padding: 15px 10px 16px;font: 20px/21px 'Georgia', serif !important;background-color: #a47853;color: #fff;}
+	.bnr240x h5 a {display: block;text-decoration: none;color: #fff;}
+	.bnr240x div.img img {display: block;}
+	.bnr240x div.txt {padding: 10px 12px;}
+	.mediabnr240x400 {margin: 0 0 10px;}
+	.mediabnr240x400 img {display: block;}
+/*	.txtbnr240x {margin: 0 0 10px;padding: 12px 12px 9px;width: 216px;background-color: #f4f3f1;line-height: 16px;} */
+	.txtbnr240x {margin: 0 0 10px;padding: 12px 0 9px 0;background-color: #f4f3f1;line-height: 16px;}
+	.txtbnr240x p.bluesad {margin: 0;text-align: right;font: 13px/1em 'Times New Roman', sans-serif;}
+	.txtbnr240x p.bluesad span.b {color: #0039b6;}
+	.txtbnr240x p.bluesad span.r {color: #c41200;}
+	.txtbnr240x p.bluesad span.y {color: #f3c518;}
+	.txtbnr240x p.bluesad span.g {color: #30a72f;}
+	.bnr562x {margin: 0 0 10px;}
+	.bnr562x table tr td {padding: 0 0 0 10px;width: 240px;border: 0;}
+	.bnr562x table tr td.img a {display: block;}
+	.bnr562x table tr td.img img {display: block;}
+	.bnr562x table tr td.presents {padding: 0;width: 62px;background: #c0b5b4 url(/stage/img/bnr562x.bg.gif) no-repeat left bottom;}
+	.bnr562x table tr td.presents h5 {margin: 0;width: 62px;height: 5px;background: url(/stage/img/bnr562x.bgt.gif) no-repeat left top;}
+	.bnr562x table tr td.presents h5 span {display: none;}
+	.bnr562x .bnr240x {margin: 0;}
+
+	div.summary {margin: 19px 0 10px;border-bottom: 1px solid #cfc8c2; float:left; width:100%; padding: 0 13px 0 0; line-height: 15px;}
+	div.summary img {float:right; margin: 0px 0px 10px 10px;}
+	div.summary h3 {margin-top: 0;}
+
+	//.time {font-size: 20px; color:red;}
+
+/*ids*/
+	#mainBox {position: relative;margin: 0 auto;padding: 0 15px 0 10px;width: 740px;}
+	
+	#header {position: relative;height: 133px;}
+	#header div.bg {position: absolute;z-index: 1;width: 400px;height: 125px;right: 0;bottom: 8px;background-position: right bottom;background-repeat: no-repeat;}
+	#header div.bg01 {background-image: url(/stage/img/1.header.png);}
+	#header div.bg02 {background-image: url(/stage/img/2.header.png);}
+	#header div.bg03 {background-image: url(/stage/img/3.header.png);}
+	#header div.bg04 {background-image: url(/stage/img/4.header.png);}
+	#header div.bg05 {background-image: url(/stage/img/5.header.png);}
+	#header div.bg06 {background-image: url(/stage/img/6.header.png);}
+	#header .logo {position: absolute;left: 0px;bottom: 0px;width: 104px;height: 103px;}
+	#header .logo h4 {margin: 0;background: url(/stage/img/logo.gif) no-repeat;}
+	#header .logo h4 a {display: block;width: 104px;height: 103px;}
+	#header .logo h4 span {display: none;}
+	
+	#header .stripe {position: absolute;left: 104px;bottom: 8px;width: 611px;height: 53px;background: #cebda7;}
+
+	#logRegForm {margin: 0;height: 53px;background: #cebda7 url(/stage/img/logreg.bg.png) no-repeat 55px 19px;}
+	#logRegForm input {position: absolute;border: 0;}
+	#logRegForm .txt {left: 63px;top: 23px;padding: 0;width: 82px;height: 13px;color: #404040;/*color: #887769;*/background-color: #eee8e1;font: 11px/13px 'Tahoma', sans-serif;}
+	#logRegForm .btn {left: 158px;top: 19px;}
+	
+	#loggedIn {position: absolute;left: 63px;top: 23px;}
+	
+	#lcol, #mcol, #rcol {float: left;}
+	#lcol {padding: 26px 0 0 5px;width: 138px;overflow: hidden;background: url(/stage/img/lcol2.bg.gif) no-repeat 1px 0;}
+	#mcol {padding: 0 0 0 15px;width: 562px;overflow: hidden;}
+	#rcol {padding: 18px 0 0 15px;width: 240px;overflow: hidden;}
+	
+	#rubricator h4 {margin: 0;background: url(/stage/img/rubric.bg.gif) no-repeat;}
+	#rubricator h4 em {display: block;background: url(/stage/img/rubric.marker.gif) no-repeat 5px 7px;}
+	#rubricator h4 a {display: block;padding: 2px 5px 6px 16px;width: 117px;height: 16px;color: #fff;font: 14px/16px 'Georgia', sans-serif;/*text-decoration: none;*/}
+	#rubricator ul {margin: 0;padding: 5px 0 19px;list-style-type: none;line-height: 0;}
+	#rubricator li em {display: block;background: url(/stage/img/item.bg.gif) no-repeat 3px 5px;}
+	#rubricator li a {display: block;padding: 2px 0 2px 15px;font: 11px/1em 'Tahoma', sans-serif;color: #a47853;/*text-decoration: none;*/}
+	
+	#fastsearchForm {position: relative;margin: 0 0 0 -1px;width: 241px;height: 30px;background: url(/stage/img/fastsearch.bg.png) no-repeat 0 1px;}
+	#fastsearchForm input {position: absolute;border: 0;}
+	#fastsearchForm .txt {left: 5px;top: 4px;padding: 0;width: 159px;height: 13px;color: #404040;background-color: #eee8e1;font: 11px/13px 'Tahoma', sans-serif;}
+	#fastsearchForm .btn {left: 175px;top: 1px;}
+	
+	#rcol div.activity {margin: 0 0 20px;}
+	#rcol div.activity ol {list-style-type: none;margin: 0;padding: 0;}
+	#rcol div.activity li {padding: 4px 0 5px;height: 14px;border-bottom: 1px solid #cfc8c2;font: bold italic 12px/14px 'Georgia', serif;color: #383838;}
+	#rcol div.activity li a {font-weight: 400;/*text-decoration: none;*/}
+	#rcol div.activity p {margin: 8px 0 0;}
+	#rcol div.activity small {font: 10px/14px 'Tahoma', sans-serif;color: #666;}
+	#rcol div.activity p.note {position: relative;padding-left: 11px;}
+	#rcol div.activity p.note span.icon {position: absolute;top: 0;left: 2px;}
+	
+	#mcol h1 {margin: 0 0 1px;font: 32px/36px 'Georgia', serif;color: #000;}
+	#mcol h1 small {display: block;font: 11px/1em 'Tahoma', sans-serif;color: #8a4c36;}
+	#mcol h1 a {position: relative;top: 4px;}
+	#mcol .mediator {position: relative;bottom:-4px;}
+	#mcol div.static h1 {margin: 11px 0px;padding: 0px 0px 11px 0px;border-bottom: 7px solid #000;}
+	#mcol div.static p {font-size: 14px;line-height: 19px;}
+
+	#mcol h2 {margin: 0 0 1px;font: 22px/26px 'Georgia', serif;color: #000;}
+	#mcol h2 small {font-size: 16px;}
+	
+	#mcol div.xl {margin: 1em 0;font-size: 12px;}
+	
+	#tags small {font: 11px 'Tahoma', sans-serif;color: #404040;}
+	#tags a:hover {text-decoration: underline;}
+	
+	#contextMenu {border-top: 7px solid #000;width: 100%;}
+	#contextMenu td {background: url(/stage/img/937964.dot.gif) repeat-x center bottom;}
+		#contextMenu td a,
+		#contextMenu td b
+			{display: block;padding: 7px 0 9px;height: 13px;text-align: center;}
+	#contextMenu td a {background: #f1ece7 url(/stage/img/937964.dot.gif) repeat-x center bottom;}
+	#contextMenu td a:hover {background: #e0d5c9 url(/stage/img/937964.dot.gif) repeat-x center bottom;text-decoration: none;}
+	#contextMenu td b {background: url(/stage/img/contextmenu.active.bg.gif) no-repeat center bottom;font: 11px 'Tahoma', sans-serif;color: #404040;}
+	
+	#newsTopics {}
+	#newsTopics small.date {font: bold 11px 'Tahoma', sans-serif;}
+	#newsTopics a em {font-weight: bold;}
+	#newsTopics a.user {padding: 2px 0 0 14px;height: 12px;line-height: 1em;background: url(/stage/img/user.ico.gif) no-repeat 0 1px;}
+	
+	#forumTopics {}
+	#forumTopics small.date {font: bold 11px 'Tahoma', sans-serif;}
+	#forumTopics span.title {display: block;}
+	#forumTopics a[href] {font-weight: bold;}
+	#forumTopics a[href] em {font-style: normal;}
+	
+	#footer {position: relative;padding: 20px 0 94px 5px;}
+	#footer table {width: 730px;height: 29px;background: url(/stage/img/footermenu.bg.gif) no-repeat;}
+	#footer table td {padding: 9px 0 7px;text-align: center;background: url(/stage/img/footermenu.div.gif) no-repeat;}
+	#footer table td.first {background: transparent;}
+	#footer table td a {font: italic 13px/1em 'Georgia', serif;color: #fff;/*text-decoration: none;*/}
+	#footer p.copyright {position: absolute;top: 71px;left: 19px;margin: 0;}
+	
+	#alfaBit {margin: 10px 0px 2px; /*15px -6px 2px;*/}
+	#abc {margin: 2px -7px 13px;}
+	#alfaBit table, #abc table {width: 100%;}
+	#alfaBit td, #abc td {padding: 0;text-align: center;font: 13px 'Tahoma', sans-serif;color: #b4b4b4;text-transform: uppercase;}
+	
+	#aboutBox {margin: 19px 0 10px;border-bottom: 1px solid #cfc8c2;}
+	#aboutBox .photo {float: right;width: 200px;text-align: right;}
+	#aboutBox .photo img {display: block; float:right}
+	#aboutBox .photo a.more {display: block;margin: 6px 0 8px;text-align: right;}
+	#aboutBox .description {float: left;padding: 0 13px 0 0;width: 320px;line-height: 15px;}
+	#groupReview {border-bottom: 1px solid #cfc8c2;font: 14px/19px 'Tahoma', sans-serif;}
+	#groupReview h4 {margin-bottom: 11px;}
+
+	#musicVideo ul {margin-left: 0;padding-left: 0;list-style-type: none;line-height: 16px;}
+	#musicVideo ul li {padding: 0 0 3px 28px;}
+	#musicVideo ul li span.file {display: block;margin-left: -28px;padding-left: 28px;font: italic 12px/16px 'Georgia', serif;}
+	#musicVideo ul li span.file a {font-weight: bold;}
+	#musicVideo ul li.sound span.file {background: url(/stage/img/sound.ico.gif) no-repeat 7px 2px;}
+	#musicVideo ul li.video span.file {background: url(/stage/img/video.ico.gif) no-repeat 6px 1px;}
+
+	#news {padding: 5px 0 0;}
+	#news div.item {position: relative;zoom: 1;padding: 0 0 7px;border-bottom: 1px solid #CFC8C2;}
+	#news div.item div.preview {float: left;/*width: 100px;*/padding: 0 18px 0 0;}
+	#news div.item div.preview p {margin: 0;}
+	#news div.item div.preview p span.image {display: block;/*margin: -12px 0 12px;*/margin: 0 0 12px;line-height: 0;}
+	#news div.item div.timeAuthorTitle p.datetime {margin: 20px 0 5px;font: 11px/1em 'Verdana', sans-serif;}
+	#news div.item div.timeAuthorTitle p.publisher {margin: 8px 0;}
+	#news div.item div.timeAuthorTitle p.publisher a.livejournal {padding: 2px 9px 0 20px;background: url(/stage/img/livejournal.ico.png) no-repeat 0 0;color: #994123;font: bold 11px/1em 'Tahoma', sans-serif;}
+	#news div.item div.timeAuthorTitle p.publisher span {font: 11px/15px 'Verdana', sans-serif;}
+	#news div.item div.timeAuthorTitle h2 {margin: 0 0 13px;font: 20px/21px 'Georgia', serif;}
+	#news div.item div.body {/*float: left;width: 444px;*/overflow: hidden;line-height: 16px;}
+	#news div.item div.body div.attachedImage {display: block;float: right;margin: 0px 0px 10px 10px;line-height: 0px;}
+	#news div.item p.src {margin: 0; margin-top: 10px; font: 11px 'Verdana', sans-serif;}
+	#news div.item p.rb {position: absolute;right: 0;bottom: 7px;margin: 0;}
+	#news div.item p.rb a.comments {font: italic 11px/1em 'Georgia', serif;color: #FF2100;}
+
+	#forum {}
+	#forum p.empty {margin: 1em 0;font: 14px/19px 'Tahoma', sans-serif;}
+	#forum p.empty i {font-style: normal;}
+	#forum p.newTheme {margin: 0 0 9px;font: 17px 'Georgia', serif;color: #FF2100;}
+	#forum p.newTheme a[href] {font-style: italic;color: #FF2100;}
+	#forum div.post {border: 0 solid #000;border-width: 4px 0 2px;}
+	#forum div.post h1 {margin: 14px 0 5px;font: italic 24px/1em 'Georgia', serif;color: #000;}
+	#forum div.post p.userDate {font: 13px/1em 'Tahoma', sans-serif;color: #3f3f3f;}
+	#forum div.post div.announce {font: 14px/1.5em 'Verdana', sans-serif;}
+	#forum div.post p.newComment {margin: 0 0 9px;font: 17px 'Georgia', serif;color: #3f3f3f;}
+	#forum div.post p.makeComment {margin: 0 0 9px;font: 17px 'Georgia', serif;color: #FF2100;}
+	#forum div.post p.makeComment a {font-style: italic;color: #FF2100;}
+	#forum div.comments blockquote {margin: 0;padding: 0 0 0 16px;border: 0;}
+	#forum div.comments div.item h4 {position: relative;margin: 16px 0 3px;font: italic 16px/1.3em 'Georgia', serif;color: #000;}
+	#forum div.comments div.item h4 span.ndash {position: absolute;left: -16px;}
+	#forum div.comments div.item h4 strong {font-weight: 400;}
+	#forum div.comments div.item p.userDateLink {position: relative;margin: 0px 0px 1em 0px;padding-right: 100px;}
+	#forum div.comments div.item p.userDateLink small.userDate {font: 11px/1em 'Tahoma', sans-serif;color: #878787;}
+	#forum div.comments div.item p.userDateLink small.link {position: absolute;right: 0;bottom: 2px;display: block;font: 11px/1em 'Georgia', serif;}
+	#forum div.comments div.item p.userDateLink small.link a {font-style: italic;font-size: 100%;}
+	#forum div.comments div.item p.userDateLink small.link,
+	#forum div.comments div.item p.userDateLink small.link a {color: #ffb8ad;}
+	#forum div.comments div.item p.userDateLink small.link:hover,
+	#forum div.comments div.item p.userDateLink small.link a:hover {color: #FF2100;}
+	#forum div.comments div.item div.text {padding: 4px 9px;background-color: #F7F4F0;font: 14px/1.5em 'Tahoma', sans-serif;color: #3f3f3f;}
+	#forum div.comments div.item div.text p {padding: 5px 0px;}
+	#forum div.comments div.deep {margin-top: 21px;}
+	#forum div.comments div.deep p.userDateLink a {cursor: pointer;font: italic 16px/1em 'Georgia', serif;}
+	#forum div.comments div.deep p.userDateLink a span {position: absolute;left: -16px;color: #000;}
+	#forum div.comments div.deep p.userDateLink a:hover span {text-decoration: none !important;}
+	#forum div.comments div.deep p.userDateLink a strong {font-weight: 400;}
+		#forum div.comments div.deep div.text,
+		#forum div.comments div.deep p.userDateLink small.link
+			{display: none;}
+	#forum div.thread h3 {padding: 0 0 3px;font: 17px/20px 'Georgia', serif;color: #000;border-bottom: 4px solid #000;}
+	#forum div.thread blockquote {margin: 0;padding: 0 0 0 16px;border: 0;}
+	#forum div.thread div.item p.userDateLink {position: relative;margin: 0px 0px 6px 0px;}
+	#forum div.thread div.item p.userDateLink strong a {font: italic 16px/1em 'Georgia', serif;}
+	#forum div.thread div.item p.userDateLink strong a span {position: absolute;left: -16px;color: #000;}
+		#forum div.thread div.item div.text,
+		#forum div.thread div.item p.userDateLink small.link
+			{display: none;}
+
+	#forum div.thread {margin: 30px 0 30px -13px;}
+	#forum div.reply-form {font: 14px/17px 'Georgia',serif;}
+	#forum div.reply-form p {margin: 1em 0;}
+
+	#newPostForm {position: relative;padding: 17px 0 0;border-top: 2px solid #000;}
+	#newPostForm p {margin: 1em 0;}
+	#newPostForm p.close {position: absolute;top: 18px;right: 0;font: 11px/1em 'Georgia', serif;}
+	#newPostForm p.close a[href] {color: #FF2100;}
+	#newPostForm span.title {display: block;margin: 0 0 5px;font: italic 12px/1em 'Georgia', serif;color: #000;}
+		#newPostForm span.text input,
+		#newPostForm span.area textarea
+			{font: 13px/17px 'Tahoma', sans-serif;background-color: #F6F3F0;border: 0;}
+	#newPostForm span.text input {padding: 2px;width: 261px;}
+	#newPostForm span.area textarea {padding: 2px;width: 548px;height: 144px;}
+
+	#noData {margin: 1em 0;font: italic 14px/19px 'Georgia', sans-serif;}
+	
+	#searchBox h3 {margin: 1em 0 0.5em;font: 14px/16px 'Georgia',sans-serif;}
+	
+	#musicVideoBox p.linkObj {margin: 15px 0 30px;}
+	#musicVideoBox p.linkObj span.comments {display: block;margin: 4px 0px;}
+	#musicVideoBox p.linkObj span.linkfilesize {display: block;margin: 5px 0px;fontxxxx: 13px/1em 'Tahoma', sans-serif;color: #3f3f3f;}
+
+	
+	#photosBox { margin-top: 10px; }
+	#photosBox div.thumbnail {float: left;margin: 0px 20px 20px 0px;}
+	#photosBox div.thumbnail a.thumblink {display: block;margin: 0px 0px 5px 0px;}
+	#photosBox div.thumbnail a.subj {}
+	

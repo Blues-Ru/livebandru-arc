@@ -1,0 +1,90 @@
+id: 221
+token: dannysanderson
+name: Дани Сандерсон
+alive: true
+url: http://www.dannysanderson.net/index.html
+city_id: 47
+genre_id: 8
+musicians:
+- name: Дани Сандерсон
+  instruments: гитара, вокал
+- name: Шай Вецер
+  instruments: барабаны
+- name: Шауль Эшет
+  instruments: клавиши
+- name: Йотам бен Хорин
+  instruments: бас гитара, вокал
+- name: Тамар Эйзенман
+  instruments: гитара, вокал
+- name: Кфир бен Лаиш
+  instruments: гитара, вокал
+- name: Керен Мальха
+  instruments: вокал
+clips:
+- id: 674
+  type: weblink
+  url: http://www.dannysanderson.net/index.html
+  name: Официальный сайт
+  sort_order: 99
+- id: 676
+  type: weblink
+  url: http://en.wikipedia.org/wiki/Danny_Sanderson
+  name: Wikipedia
+  sort_order: 299
+- id: 677
+  type: weblink
+  url: http://en.wikipedia.org/wiki/Kaveret
+  name: Wikipedia о Каверет
+  sort_order: 399
+- id: 678
+  type: youtube
+  url: http://www.youtube.com/?v=4-rT4bLvUnI
+  name: Магафаим шель Барух (Сапоги Баруха)
+  comments: ממופע האיחוד של כוורת ב-84'. ההופעה צולמה באמפיתאטרון קיסריה. הפתיחה לקוחה
+    מהופעה טלוויזיונית מ-1974
+  sort_order: 99
+- id: 681
+  type: youtube
+  url: http://www.youtube.com/?v=AYSYBkE3zgQ
+  name: Гольят (Песня о Давиде и Голиафе)
+  comments: Kaveret Live
+  sort_order: 399
+- id: 682
+  type: youtube
+  url: http://www.youtube.com/?v=x6g9kRy5J64
+  name: Ха-Маколет (Ларек)
+  comments: Kaveret live
+  sort_order: 499
+- id: 675
+  type: weblink
+  url: http://www.myspace.com/dannysanderson
+  name: Страница на MySpace
+  sort_order: 199
+- id: 685
+  type: youtube
+  url: http://www.youtube.com/?v=EA2dfSLLae4
+  name: Ма дауин шелах?
+  sort_order: 799
+- id: 679
+  type: youtube
+  url: http://www.youtube.com/?v=XB_XeIxhYX4
+  name: По кавур ха-келев (здесь захоронена собака)
+  sort_order: 199
+- id: 680
+  type: youtube
+  url: http://www.youtube.com/?v=ncJzgCb9XvA
+  name: Натати ла хаяй (Я отдал ей свою жизнь)
+  comments: 'http://www.shiron.net/songView.aspx?song_id=2348&singer_id=563&song_title=5b0a8  Title:
+    I gave her my life (natati la chayay)'
+  sort_order: 299
+- id: 683
+  type: youtube
+  url: http://www.youtube.com/?v=OsCnrIUtbpc
+  name: Медина Ктана (Маленькое Государство)
+  comments: Kaveret live
+  sort_order: 599
+- id: 684
+  type: youtube
+  url: http://www.youtube.com/?v=qY5DEUQXvr8
+  name: Эцель Хадода ве Хадод (У дяди и тети)
+  sort_order: 699

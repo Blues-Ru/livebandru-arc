@@ -1,0 +1,36 @@
+id: 611
+token: vintage-blues
+name: The Vintage Blues Band
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Алексей Полубабкин
+  instruments: гитара
+- name: Сергей Колесниченко
+  instruments: бас
+- name: Евгений Малиманов
+  instruments: ударные
+- name: Сергей Дубовицкий
+  instruments: вокал
+clips:
+- id: 3757
+  type: youtube
+  url: http://www.youtube.com/?v=L0M6J7svXJI
+  name: The Vintage Blues Band - Comin' Home (studio live)
+  sort_order: 99
+- id: 3758
+  type: youtube
+  url: http://www.youtube.com/?v=S-1THv8OIY8
+  name: The Vintage Blues Band - Steppin' out (studio live)
+  sort_order: 199
+- id: 3759
+  type: youtube
+  url: http://www.youtube.com/?v=-n1PlouqNCI
+  name: The Vintage Blues Band - Don't you love me (studio live)
+  sort_order: 299
+- id: 3760
+  type: youtube
+  url: http://www.youtube.com/?v=m_dZ_Lwg-nM
+  name: The Vintage Trio - Los Turcos (feat. D Akashkin)
+  sort_order: 399

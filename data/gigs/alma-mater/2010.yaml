@@ -1,0 +1,26 @@
+- id: 13563
+  date: '2010-11-05'
+  time: '20:00'
+  band_name: 'Гитарный фестиваль О!строва: Андрей Козловский, Александр Родовский,
+    Вадим Иващенко, Андрей Шепелев'
+  club_id: 282
+  club_name: Альма-Матер
+  club_token: alma-mater
+  extra_bands:
+  - id: 290
+    name: Андрей Козловский
+    token: andrey-kozlovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 13212
+  date: '2010-10-15'
+  time: '22:00'
+  band_name: 'Блюзовая академия: Владимир Кожекин, Роман Гринев, Александр Староверов'
+  club_id: 282
+  club_name: Альма-Матер
+  club_token: alma-mater
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir

@@ -1,0 +1,72 @@
+id: 99
+token: django-band
+name: Полина Касьянова и Django Band
+aliases: 'Django Band
+
+  Полина Касьянова'
+alive: true
+url: http://www.djangoband.com
+city_id: 1
+genre_id: 2
+secondary_genre_id: 25
+musicians:
+- name: Полина Касьянова
+  instruments: вокал
+- name: Дмитрий Купцов
+  instruments: гитара
+- name: Георгий Яшагашвили
+  instruments: гитара
+- name: Александр Байдаков
+  instruments: контрабас
+clips:
+- id: 58
+  type: weblink
+  url: http://www.djangoband.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 291
+  type: photo
+  url: django-band.jpg
+  name: Георгий Яшагашвилли
+  sort_order: 99
+  width: 333
+  height: 500
+- id: 292
+  type: photo
+  url: django-band-2.jpg
+  name: Дмитрий Купцов
+  sort_order: 199
+  width: 751
+  height: 500
+- id: 294
+  type: photo
+  url: django-band-4.jpg
+  name: Полина Касьянова
+  sort_order: 0
+  width: 720
+  height: 480
+- id: 297
+  type: youtube
+  url: http://www.youtube.com/?v=dL5bSVCrDa8
+  name: Alright Okay You Win
+  comments: Django Band и Полина Касьянова
+  sort_order: 299
+- id: 293
+  type: photo
+  url: django-band-3.jpg
+  name: Кирилл Степурко
+  sort_order: 299
+  width: 751
+  height: 500
+- id: 295
+  type: youtube
+  url: http://www.youtube.com/?v=ylHgm8Cbtp4
+  name: My Heart Belongs to Daddy
+  comments: Django Band  и Полина Касьянова
+  sort_order: 99
+- id: 296
+  type: youtube
+  url: http://www.youtube.com/?v=CMWwTcWm4Go
+  name: Is You is or is You Ain't My Baby
+  comments: Django Band и Полина Касьянова
+  sort_order: 199

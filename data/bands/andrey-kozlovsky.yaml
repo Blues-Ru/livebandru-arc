@@ -1,0 +1,60 @@
+id: 290
+token: andrey-kozlovsky
+name: Андрей Козловский
+alive: true
+url: http://kozlovsky.blues.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 17
+musicians:
+- name: Андрей Козловский
+  instruments: гитара, вокал, клавиши
+clips:
+- id: 966
+  type: weblink
+  url: http://kozlovsky.blues.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 970
+  type: rss
+  url: http://akozlovsky.livejournal.com/data/rss
+  sort_order: 99
+- id: 967
+  type: weblink
+  url: http://www.bards.ru/Kozlovsky
+  name: Страница на Bards.Ru
+  sort_order: 199
+- id: 968
+  type: weblink
+  url: http://vk.com/club368428
+  name: Страница ВКонтакте
+  sort_order: 299
+- id: 969
+  type: photo
+  url: andrey-kozlovsky.jpg
+  sort_order: 0
+  width: 424
+  height: 640
+reviews:
+- id: 51
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Известный российский "бард поющий блюз", композитор, автор гимна Грушинского
+    фестиваля (на слова Виталия Калашникова), член жюри различных фестивалей и просто
+    гениальный музыкант. Услышав его песни однажды заболеваешь ими навсегда. Выступал
+    в составе дуэта "Баранов и Козловский" вместе с виртуозным гитаристом Андреем
+    Барановым. Записывал альбомы и выступал с концертами совместно с музыкантами групп
+    "ГрАссМейстер", "Станция Мир", Вовкой Кожекиным, Сергеем Клевенским.
+
+
+    В настоящее время Андрей Козловский продолжает писать и исполнять свои песни,
+    не только в жанре "классической" авторской песни, но и роковые и блюзовые композиции.
+
+
+    И если кто-то из вас и не вспомнил еще, кто такой Андрей Козловский, то достаточно
+    произнести названия его песен "Лифт на родину Мао", "Акула", "Я и мой кот", "Не
+    горюй", "Полный вперед", чтобы вы воскликнули "Ах, так это тот самый!"'
+  verified: true
+  created: '2010-10-14'
+  is_press_release: true

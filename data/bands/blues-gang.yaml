@@ -1,0 +1,18 @@
+id: 273
+token: blues-gang
+name: The Blues Gang
+alive: true
+url: http://www.bluesgang.lv
+city_id: 61
+genre_id: 1
+clips:
+- id: 889
+  type: weblink
+  url: http://www.bluesgang.lv
+  name: Официальный сайт
+  sort_order: 99
+- id: 890
+  type: weblink
+  url: http://www.myspace.com/blueslatvia
+  name: Страница на MySpace
+  sort_order: 199

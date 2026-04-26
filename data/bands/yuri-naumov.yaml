@@ -1,0 +1,15 @@
+id: 413
+token: yuri-naumov
+name: Юрий Наумов
+alive: true
+url: http://www.yurinaumov.ru/
+genre_id: 1
+musicians:
+- name: Юрий Наумов
+  instruments: гитара
+clips:
+- id: 1879
+  type: weblink
+  url: http://www.yurinaumov.ru/
+  name: Официальный сайт
+  sort_order: 0

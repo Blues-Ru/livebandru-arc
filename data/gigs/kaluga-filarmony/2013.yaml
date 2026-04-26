@@ -1,0 +1,43 @@
+- id: 34877
+  date: '2013-03-20'
+  time: '19:00'
+  band_name: Джаз-квартет Рафала Сарнецкого (гитара, Польша)
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+  price: 400 руб.
+- id: 35934
+  date: '2013-05-30'
+  time: '18:30'
+  band_name: The Rosenbergs, Paulus Schafer Gipsy Band + Доминик Паттс (аккордеон,
+    Нидерланды) и Тим Клипхаус (скрипка, Нидерланды)
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+- id: 35935
+  date: '2013-05-29'
+  time: '18:30'
+  band_name: Стэнли Джордан и его трио (США); "Acoustic Alchemy" (Великобритания);
+    Чарли Бишарат, Роман Мирошниченко, Марио Оливарес, Доминик ДиПьяцца, Гумби Ортис
+    (США-Украина-Мексика-Франция-Куба)
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+  price: 500-1000 руб.
+  extra_bands:
+  - id: 366
+    name: Роман Мирошниченко
+    token: roman-miro
+- id: 35936
+  date: '2013-05-25'
+  time: '17:00'
+  band_name: 'Город в блюзовых тонах: Леван Ломидзе и Blues Cousins (Грузия-Россия),
+    группа Лешека Чихоньского (Польша), Out of Style (Калуга) и ЭлектрикЛюдиЛэнд (Калуга)'
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+  price: 200-500 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins

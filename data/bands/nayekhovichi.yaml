@@ -1,0 +1,31 @@
+id: 243
+token: nayekhovichi
+name: Наеховичи
+aliases: 'Ваня Жук
+
+  Иван Жук'
+alive: true
+url: http://www.nayekhovichi.ru
+city_id: 2
+genre_id: 11
+musicians:
+- name: Иван Жук
+  instruments: вокал, гитара
+- name: Максим Карпычев
+  instruments: саксофон, кларнет
+- name: Митя "Пятак" Храмцов
+  instruments: бас
+- name: Федор Машенджинов
+  instruments: ударные
+clips:
+- id: 760
+  type: photo
+  url: nayekhovichi.jpg
+  sort_order: 0
+  width: 1200
+  height: 800
+- id: 759
+  type: weblink
+  url: http://www.nayekhovichi.ru
+  name: Официальный сайт
+  sort_order: 99

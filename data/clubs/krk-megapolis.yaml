@@ -1,0 +1,14 @@
+id: 558
+token: krk-megapolis
+name: КРК Мегаполис
+aliases: КРК "Мегаполис"
+alive: true
+address: Московская, 75а
+phone: (4742) 33-55-55
+city_id: 8
+clips:
+- id: 3040
+  type: weblink
+  url: http://www.vmegapolis.ru/
+  name: Официальный сайт
+  sort_order: 0

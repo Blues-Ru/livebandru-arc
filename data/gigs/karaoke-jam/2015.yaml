@@ -1,0 +1,69 @@
+- id: 49147
+  date: '2015-02-01'
+  time: '19:00'
+  band_name: Bob Stroger и группа американских музыкантов.
+  club_id: 792
+  club_name: Караоке Джем
+  club_token: karaoke-jam
+  price: 1000 рублей
+- id: 49148
+  date: '2015-02-23'
+  time: '19:00'
+  band_name: Jose Luis Pardo, Вадим Иващенко и The Boneshakers
+  club_id: 792
+  club_name: Караоке Джем
+  club_token: karaoke-jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 49149
+  date: '2015-03-05'
+  time: '19:00'
+  band_name: Deitra Farr, Вадим Иващенко и The Boneshakers
+  club_id: 792
+  club_name: Караоке Джем
+  club_token: karaoke-jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 683
+    name: Deitra Farr
+    token: deitra-farr
+- id: 50954
+  date: '2015-04-19'
+  time: '19:00'
+  band_name: Phil Speat Big Daddy Blues, Вадим Иващенко и The Boneshakers
+  club_id: 792
+  club_name: Караоке Джем
+  club_token: karaoke-jam
+  price: 1100 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 647
+    name: Big Daddy Blues
+    token: big-daddy-blues
+- id: 51472
+  date: '2015-05-27'
+  time: '20:00'
+  band_name: J.C. Smith, Вадим Иващенко и The Boneshakers, танцевальное шоу Jiving
+    Rockets "Америка 50-х"
+  club_id: 792
+  club_name: Караоке Джем
+  club_token: karaoke-jam
+  price: 1100 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith

@@ -1,0 +1,20 @@
+id: 382
+token: cat-art
+name: Арт-центр "Чеширский кот"
+aliases: '"Чеширский кот"'
+alive: true
+address: Жуковского, 13
+subway: '"Маяковская", "Площадь Восстания"'
+phone: +7 (953) 156-20-95     +7 (951)659-59-17
+city_id: 2
+clips:
+- id: 1662
+  type: weblink
+  url: http://catartclub.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1663
+  type: weblink
+  url: http://vk.com/club825518
+  name: Страница ВКонтакте
+  sort_order: 100

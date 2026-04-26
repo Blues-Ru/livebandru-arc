@@ -1,0 +1,427 @@
+- id: 14524
+  date: '2011-01-01'
+  time: '20:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14586
+  date: '2011-01-08'
+  time: '22:30'
+  band_name: Владимир Кузьмин
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14594
+  date: '2011-01-09'
+  time: '19:00'
+  band_name: F.P.G.
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14598
+  date: '2011-01-10'
+  time: '18:00'
+  band_name: Смех, Terpincode
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14732
+  date: '2011-01-12'
+  time: '18:30'
+  band_name: Ник Рок-н-ролл, Александр Чернецкий, Олег Сакмаров, Блондинка Ксю, Ключевая,
+    Небослов, Мои Друзья
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14756
+  date: '2011-01-14'
+  time: '22:30'
+  band_id: 347
+  band_name: Маша и Медведи
+  band_token: masha-i-medvedi
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14760
+  date: '2011-01-15'
+  time: '20:00'
+  band_name: Mucc (Япония)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14939
+  date: '2011-01-21'
+  time: '22:00'
+  band_id: 320
+  band_name: Ногу свело!
+  band_token: nogu-svelo
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14959
+  date: '2011-01-22'
+  time: '22:00'
+  band_name: Кукрыниксы
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15043
+  date: '2011-01-30'
+  time: '19:00'
+  band_name: Фактор страха
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15448
+  date: '2011-02-14'
+  time: '19:00'
+  band_name: Born of Osiris (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15706
+  date: '2011-02-25'
+  time: '20:00'
+  band_id: 152
+  band_name: Аукцыон
+  band_token: auktyon
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15658
+  date: '2011-02-22'
+  time: '21:00'
+  band_name: Дельфин
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15667
+  date: '2011-02-23'
+  time: '19:00'
+  band_name: Кирпичи
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15725
+  date: '2011-02-26'
+  time: '20:00'
+  band_name: Ольга Арефьева
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+  extra_bands:
+  - id: 149
+    name: Ольга Арефьева и "Ковчег"
+    token: ark
+- id: 15726
+  date: '2011-02-27'
+  time: '19:00'
+  band_name: 7 Раса, Адаптация пчел
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 15688
+  date: '2011-02-24'
+  time: '20:00'
+  band_name: Yellowcard (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16039
+  date: '2011-03-03'
+  time: '19:00'
+  band_name: Corvus Corax (Германия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16083
+  date: '2011-03-05'
+  time: '20:00'
+  band_name: Girugamesh (Япония)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16092
+  date: '2011-03-06'
+  time: '19:00'
+  band_name: Catharsis
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16307
+  date: '2011-03-11'
+  time: '22:00'
+  band_name: Мара
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16328
+  date: '2011-03-12'
+  time: '19:00'
+  band_name: Глеб Самойлов & The Matrixx
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16139
+  date: '2011-03-08'
+  time: '19:00'
+  band_name: Alai Oli
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16367
+  date: '2011-03-15'
+  time: '19:00'
+  band_name: Youth Of Today (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16361
+  date: '2011-03-14'
+  time: '19:00'
+  band_name: Carnifex (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16742
+  date: '2011-03-23'
+  time: '19:00'
+  band_name: Most Precious Blood (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16754
+  date: '2011-03-24'
+  time: '20:00'
+  band_name: Алексей Никитин и 9 район
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16800
+  date: '2011-03-26'
+  time: '19:00'
+  band_name: Animal ДжаZ
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 16811
+  date: '2011-03-27'
+  time: '19:00'
+  band_name: Crematory (Германия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17291
+  date: '2011-04-09'
+  time: '20:00'
+  band_name: Пикник
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17569
+  date: '2011-04-15'
+  time: '20:00'
+  band_name: Miyavi (Япония)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17604
+  date: '2011-04-16'
+  time: '21:00'
+  band_name: Кирпичи
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17624
+  date: '2011-04-17'
+  time: '19:00'
+  band_name: F.P.G.
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17971
+  date: '2011-04-22'
+  time: '20:30'
+  band_name: Тараканы
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 17993
+  date: '2011-04-23'
+  time: '21:00'
+  band_name: Торба-На-Круче
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18141
+  date: '2011-04-25'
+  time: '19:00'
+  band_name: Streetlight Manifesto
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18156
+  date: '2011-04-27'
+  time: '19:00'
+  band_name: Beneath The Massacre (Канада)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18208
+  date: '2011-04-29'
+  time: '21:00'
+  band_name: Dolphin
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18239
+  date: '2011-04-30'
+  time: '22:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18532
+  date: '2011-04-26'
+  time: '19:00'
+  band_name: Comeback Kid (Канада), Kvelertak (Норвегия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18726
+  date: '2011-05-14'
+  time: '20:00'
+  band_name: Die Apokalyptischen Reiter (GER)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18741
+  date: '2011-05-15'
+  time: '19:00'
+  band_name: Louna
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18599
+  date: '2011-05-07'
+  time: '21:00'
+  band_name: Технология
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19122
+  date: '2011-05-18'
+  time: '19:00'
+  band_name: Фактор страха
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 18713
+  date: '2011-05-13'
+  time: '22:00'
+  band_name: Вячеслав Бутусов и "Ю-Питер"
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19148
+  date: '2011-05-20'
+  time: '23:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19185
+  date: '2011-05-22'
+  time: '20:00'
+  band_name: Lake Of Tears (SWE)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19296
+  date: '2011-05-16'
+  time: '19:00'
+  band_name: The Black Dahlia Murder (USA)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19334
+  date: '2011-05-21'
+  time: '20:00'
+  band_name: D (JAP)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19579
+  date: '2011-06-03'
+  time: '22:00'
+  band_id: 152
+  band_name: Аукцыон
+  band_token: auktyon
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19803
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Игорь Растеряев
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19498
+  date: '2011-05-27'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19535
+  date: '2011-05-28'
+  time: '20:00'
+  band_name: Марти Фридман (USA)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19547
+  date: '2011-05-29'
+  time: '19:00'
+  band_name: Эпидемия
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19615
+  date: '2011-06-04'
+  time: '22:00'
+  band_name: Вася Обломов
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 19844
+  date: '2011-05-30'
+  time: '20:00'
+  band_name: August Burns Red (USA)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 20154
+  date: '2011-06-09'
+  time: '20:00'
+  band_name: All That Remains (USA)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 20187
+  date: '2011-06-10'
+  time: '22:00'
+  band_name: Тимур Валеев и Ключи
+  club_id: 29
+  club_name: Точка
+  club_token: tochka

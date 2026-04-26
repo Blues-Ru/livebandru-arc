@@ -1,0 +1,27 @@
+id: 832
+token: jam
+name: JAM Club
+aliases: 'JAM Клуб
+
+  Джем Клуб
+
+  Клуб Джем
+
+  Клуб Jam
+
+  JAM Club, малый зал
+
+  JAM Club, большой зал
+
+  Джаз-клуб Андрея Макаревича'
+alive: true
+address: Сретенка, 11
+subway: Сухаревская, Чистые Пруды, Трубная
+phone: (495) 628-21-48
+city_id: 1
+clips:
+- id: 7441
+  type: weblink
+  url: http://www.jamclub.moscow/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,68 @@
+id: 568
+token: night-people-time
+name: Время Ночных Людей
+alive: true
+url: http://vkontakte.ru/club19055239
+city_id: 1
+genre_id: 2
+secondary_genre_id: 13
+musicians:
+- name: Александр Григорьев
+  instruments: клавишные
+- name: Александра Шин
+  instruments: вокал перкуссия
+- name: Илья Литвинов
+  instruments: гитара
+- name: Александр Наумов
+  instruments: барабаны
+clips:
+- id: 3159
+  type: weblink
+  url: http://vk.com/club19055239
+  name: Официальный сайт
+  sort_order: 0
+- id: 3198
+  type: mp3
+  url: night-people-time.mp3
+  name: FavoriteThings
+  sort_order: 99
+- id: 3199
+  type: mp3
+  url: night-people-time-3.mp3
+  name: Aquarela do Brazil
+  sort_order: 99
+- id: 3200
+  type: mp3
+  url: night-people-time-2.mp3
+  name: RosaMorena
+  sort_order: 199
+- id: 3201
+  type: mp3
+  url: night-people-time-4.mp3
+  name: Мулатка
+  sort_order: 199
+- id: 3202
+  type: mp3
+  url: night-people-time-5.mp3
+  name: Мулатка
+  sort_order: 199
+- id: 3203
+  type: mp3
+  url: night-people-time-6.mp3
+  name: Младенцы
+  sort_order: 299
+- id: 3204
+  type: weblink
+  url: http://www.realmusic.ru/chas_sovy/info/
+  name: http://www.realmusic.ru/chas_sovy/
+  sort_order: 100
+- id: 3205
+  type: mp3
+  url: night-people-time-7.mp3
+  name: Pennies from Heaven
+  sort_order: 299
+- id: 3206
+  type: mp3
+  url: night-people-time-8.mp3
+  name: Body&Soul
+  sort_order: 299

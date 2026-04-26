@@ -1,0 +1,171 @@
+- id: 14871
+  date: '2011-01-13'
+  time: '20:00'
+  band_id: 371
+  band_name: Director's Blues Band
+  band_token: directors-blues-band
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+- id: 14872
+  date: '2011-01-20'
+  time: '20:00'
+  band_name: '3-й блюз-фест в "Собаке": Гриневич Блюз Бэнд, Director''s Blues Band,
+    The News, Pitbull Band'
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+  extra_bands:
+  - id: 372
+    name: Гриневич Блюз Бэнд
+    token: grinevich-blues-band
+  - id: 371
+    name: Director's Blues Band
+    token: directors-blues-band
+  - id: 231
+    name: Pitbull Band
+    token: pitbull-band
+  - id: 278
+    name: The News
+    token: the-news
+- id: 15155
+  date: '2011-02-24'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+- id: 16697
+  date: '2011-03-31'
+  time: '20:00'
+  band_name: The News, Томас Мур, Оркестр Тяжелого Блюза, Stereoдождь
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+  extra_bands:
+  - id: 230
+    name: Stereoдождь
+    token: stereo-dozhd
+  - id: 341
+    name: Томас Мур
+    token: thomas-moore
+  - id: 278
+    name: The News
+    token: the-news
+- id: 18519
+  date: '2011-04-27'
+  time: '19:00'
+  band_name: Quiz
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 18527
+  date: '2011-05-04'
+  time: '20:00'
+  band_id: 358
+  band_name: Монгол Шуудан
+  band_token: mongol-shuudan
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 19762
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Томас Мур, Grinevich Blues Band
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  extra_bands:
+  - id: 372
+    name: Гриневич Блюз Бэнд
+    token: grinevich-blues-band
+  - id: 341
+    name: Томас Мур
+    token: thomas-moore
+- id: 19776
+  date: '2011-05-31'
+  time: '20:00'
+  band_name: We Have Facts, Mirror Face, Glider Pilot
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 19780
+  date: '2011-06-04'
+  time: '22:00'
+  band_name: Банкомат
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20292
+  date: '2011-06-07'
+  time: '20:00'
+  band_name: Кухня
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20297
+  date: '2011-06-09'
+  time: '20:00'
+  band_name: Сергей Фалетенок
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20308
+  date: '2011-06-11'
+  time: '21:00'
+  band_name: Nuclear Лось
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20315
+  date: '2011-06-17'
+  time: '21:30'
+  band_name: Малобюджетная любовь
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20316
+  date: '2011-06-18'
+  time: '20:30'
+  band_name: Street Fiddlers
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 20317
+  date: '2011-06-19'
+  time: '20:00'
+  band_name: The Just, Say Goodbye to Panda, Metal Mickey
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 21855
+  date: '2011-09-22'
+  time: '20:00'
+  band_name: Новости, Jimi Jagger, Мыс Доброй Надежды (Барнаул), Оркестр Тяжелого
+    Блюза
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  price: 200 руб.
+  comments: Блюз-фест "Родная речь. Часть 1"
+- id: 21456
+  date: '2011-08-16'
+  time: '20:00'
+  band_name: Ежовы рукавицы, Абрис
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+- id: 21460
+  date: '2011-08-21'
+  time: '20:30'
+  band_name: Блюзовый фестиваль
+  club_id: 227
+  club_name: Бродячая собака
+  club_token: sobaka
+  comments: Пятилетие "Собаки"

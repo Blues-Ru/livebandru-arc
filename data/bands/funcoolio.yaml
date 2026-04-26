@@ -1,0 +1,118 @@
+id: 714
+token: funcoolio
+name: FunCOOlio
+alive: true
+url: https://vk.com/club87471589
+city_id: 61
+genre_id: 7
+secondary_genre_id: 2
+musicians:
+- name: Георгий Панфилов
+  instruments: гитара
+- name: Денис Градалев
+  instruments: бас
+- name: Юрий Осипович
+  instruments: барабаны
+- name: Райво Сташанс
+  instruments: саксофон, флейта
+- name: Игорь Смолин
+  instruments: орган хаммонда и клавишные инструменты
+clips:
+- id: 7467
+  type: weblink
+  url: https://vk.com/club87471589
+  name: Страница ВКонтакте
+  sort_order: 0
+- id: 7468
+  type: weblink
+  url: https://www.facebook.com/Funcoolio/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 7469
+  type: weblink
+  url: https://vk.com/club87471589
+  name: Официальный сайт
+  sort_order: 0
+- id: 7477
+  type: photo
+  url: funcoolio-4.jpg
+  sort_order: 300
+  width: 667
+  height: 1000
+- id: 7478
+  type: photo
+  url: funcoolio-5.jpg
+  sort_order: 400
+  width: 1500
+  height: 1000
+- id: 7473
+  type: photo
+  url: funcoolio-3.jpg
+  name: FunCOOLio
+  sort_order: 100
+  width: 1025
+  height: 768
+- id: 7479
+  type: photo
+  url: funcoolio-6.jpg
+  sort_order: 500
+  width: 960
+  height: 640
+- id: 7476
+  type: photo
+  url: funcoolio-2.jpg
+  sort_order: 200
+  width: 640
+  height: 960
+- id: 7474
+  type: photo
+  url: funcoolio.jpg
+  name: FunCOOLio.
+  sort_order: 0
+  width: 1500
+  height: 1000
+reviews:
+- id: 443
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Участие в фестивалях: - Sigulda Jazz 2012 (Sigulda, Latvija) - Fonofest 2012
+    (Cesu nov., Latvija) - Fontaine Festival 2012 (Liepaja, Latvija) - Jazz On Festival
+    2013 (Tallinn, Estonia) - Shine Cafe Festival 2013 (Liepaja, Latvija) - Jazz in
+    the Ruins 2014 (Гливце, Польша) - Riga Funk Fest 2014 (Riga, Latvija) - PetroJazz
+    2015 (Sankt Peterburg, Russia) - JazzTime 2015 (Sillame, Estonia) - Saulkrasti
+    Jazz 2015 (Saulkrasti, Latvija) - &#352;iaulai Jazz 2015 (&#352;iaulai, Lietuva)
+    - Petrojazz-Tallinn 2015 (Tallinn, Estonia)'
+  verified: true
+  created: '2016-02-21'
+  is_press_release: true
+- id: 445
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'FunCOOLio - коллектив из Латвии, исполняющий музыку в стиле Instumental funk
+    / fusion / acid jazz. Год основания: 2007. Название коллектива состоит из двух
+    слов: "funk"- (название стиля) и "Coolio" - известный R''n''B исполнитель, популярный
+    в 90-х годах ХХ века. Музыканты FunCOOLio имеют опыт работы в известных латвийских
+    коллективах: Dandelion Wine, оркестр русских народных инструментов "Садко", Labveligais
+    Tips, Keksi, Mirage Jazz Orchestra. Ансамбль исполняет свои оригинальные композиции
+    используя уникальный звук органа Хаммонда (Hammond organ) а также эффекты и структуру
+    композиций, применяемые в электронной музыке. Харизматичные рижане знают толк
+    в музыкальных коктейлях - именно поэтому стилистически их можно отнести именно
+    к фьюжну. Смело экспериментируя с пропорциями, они смешивают фанк, джаз, босса-нову
+    и множество других направлений, что чревато талантливейшими импровизациями, крепкой
+    сценической сцепкой и неминуемо задорной атмосферой, царящей на их выступлениях.
+    Они ловко сочетают техническую академичность и доступность формы, уверенно балансируя
+    между музыкой для ушей и тела - не танцевать на их концертах очень сложно. Не
+    влюбиться в их обаяние - невозможно. Дебютный альбом коллектива увидел свет 9
+    августа 2014 года. Впервые был представлен широкой публике на джазовом фестивале
+    "Jazz in the Ruins 2014" в городе Гливице (Польша). Альбом номинирован на Латвийскую
+    Национальную Музыкальную премию "Золотой микрофон 2014" в категории "Лучший джазовый
+    альбом". В 2015 году FunCOOLio участвали в проекте „Made in Latviа: Jazz/Funk".
+    Целью данного проекта является аранжировка в стиле Jazz/Funk песен известных латвийских
+    композиторов (Prata Vetra, Instrumenti, Lauris Reiniks, Dzelzs Vilks и др.). В
+    этом же году запланирован выпуск CD, состоящего из аранжировок песен в исполнении
+    ведущих групп Латвии в стиле Jazz/Funk.'
+  verified: true
+  created: '2016-02-21'
+  is_press_release: true

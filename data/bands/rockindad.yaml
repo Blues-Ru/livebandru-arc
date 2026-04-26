@@ -1,0 +1,21 @@
+id: 70
+token: rockindad
+name: Rockin' Dad
+alive: true
+url: https://www.facebook.com/groups/rockindad/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Виктор Чернов
+  instruments: вокал, бас
+- name: Дмитрий Гайдаш
+  instruments: гитара
+- name: Павел Ишханов
+  instruments: барабаны
+clips:
+- id: 10612
+  type: weblink
+  url: https://www.facebook.com/groups/rockindad/
+  name: Официальный сайт
+  sort_order: 0

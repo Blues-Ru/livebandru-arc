@@ -1,0 +1,17 @@
+id: 235
+token: lozhka
+name: Ложка
+alive: true
+address: Станиславского, 44
+phone: (988) 943-92-46
+city_id: 11
+clips:
+- id: 550
+  type: rss
+  url: http://community.livejournal.com/cafe_lojka/data/rss
+  sort_order: 0
+- id: 551
+  type: weblink
+  url: http://community.livejournal.com/cafe_lojka/
+  name: ЖЖ комьюнити
+  sort_order: 99

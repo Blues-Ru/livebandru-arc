@@ -1,0 +1,15 @@
+id: 815
+token: muzykalnyj-teatr-aleksandra-gradskogo
+name: Музыкальный театр Александра Градского
+aliases: Градский Холл
+alive: true
+address: ул. Коровий Вал, д. 3, стр. 1
+subway: Добрынинская
+phone: +7(499)682-7454
+city_id: 1
+clips:
+- id: 7110
+  type: weblink
+  url: http://www.gradskyhall.ru
+  name: Официальный сайт
+  sort_order: 0

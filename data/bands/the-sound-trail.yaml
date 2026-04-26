@@ -1,0 +1,27 @@
+id: 415
+token: the-sound-trail
+name: The Sound Trail
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 10
+musicians:
+- name: Антон Давыдов
+  instruments: губная гармошка, акустическая гитара, вокал
+- name: Adam Wolf
+  instruments: бас- гитара
+- name: Михаил Коновалов
+  instruments: гитара
+- name: Даниил Ленци
+  instruments: барабаны
+clips:
+- id: 10275
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 10276
+  type: photo
+  url: band-415.jpg
+  sort_order: 0
+  width: 960
+  height: 960

@@ -1,0 +1,14 @@
+id: 914
+token: zerkalnyj-zal
+name: Москонцерт на Пушечной
+alive: true
+address: ул. Пушечная, дом 4, строение 2
+subway: Лубянка, Кузнецкий мост
+phone: +7(495)621-00-22
+city_id: 1
+clips:
+- id: 9728
+  type: weblink
+  url: http://mosconcert.com
+  name: Официальный сайт
+  sort_order: 0

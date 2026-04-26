@@ -1,0 +1,36 @@
+id: 340
+token: blues-enclave
+name: Blues Enclave
+alive: true
+url: http://blues-enclave.ru/
+city_id: 1
+genre_id: 16
+secondary_genre_id: 1
+musicians:
+- name: Завен Айвазян
+  instruments: бас-гитара
+- name: Валерий Макдиев
+  instruments: ударные
+- name: Эдуард Савельев
+  instruments: клавишные
+- name: Тимур Кадыев
+  instruments: гитара
+- name: Тогрул Аллавердиев
+  instruments: вокал
+clips:
+- id: 1348
+  type: weblink
+  url: http://blues-enclave.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4386
+  type: weblink
+  url: http://www.facebook.com/blues.enclave
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 4387
+  type: youtube
+  url: http://www.youtube.com/?v=JA4rcstf_5Y
+  name: Blues Enclave - Soundcheck blues
+  comments: Hard Rock Cafe Moscow
+  sort_order: 99

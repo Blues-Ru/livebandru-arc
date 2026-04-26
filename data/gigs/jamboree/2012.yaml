@@ -1,0 +1,256 @@
+- id: 25575
+  date: '2012-03-02'
+  time: '21:00'
+  band_name: The Shakers Rockabilly Band
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 350-400 руб.
+- id: 25579
+  date: '2012-03-03'
+  time: '20:00'
+  band_name: Blackmailers
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  extra_bands:
+  - id: 40
+    name: Blackmailers Rekord Orkestr
+    token: blackmailers
+- id: 25580
+  date: '2012-03-04'
+  time: '20:00'
+  band_name: The Grass Pistols
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 25581
+  date: '2012-03-12'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 25582
+  date: '2012-03-05'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 25583
+  date: '2012-02-22'
+  time: '20:00'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 300-500 руб.
+- id: 25584
+  date: '2012-03-11'
+  time: '20:00'
+  band_name: Jose Louis Pardo (Аргентина)
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 300-500 руб.
+- id: 25585
+  date: '2012-02-23'
+  time: '18:00'
+  band_name: Анатолий Морозов & Jazz Quartet
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 25586
+  date: '2012-02-23'
+  time: '21:00'
+  band_name: Alex Band & Natali Ciao Tutti
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 250 руб.
+- id: 25587
+  date: '2012-03-07'
+  time: '21:00'
+  band_id: 34
+  band_name: J.A.M.
+  band_token: jam
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 25588
+  date: '2012-02-26'
+  time: '19:00'
+  band_name: Предпоследнее искушение
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 25568
+  date: '2012-03-09'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 25570
+  date: '2012-02-13'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: бесплатный
+- id: 25571
+  date: '2012-02-16'
+  time: '20:00'
+  band_name: Тихие блюзы
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 100 руб.
+- id: 25572
+  date: '2012-02-17'
+  time: '20:00'
+  band_name: Хроноп
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 300 руб.
+- id: 25573
+  date: '2012-02-20'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: бесплатный
+- id: 25574
+  date: '2012-02-27'
+  time: '20:00'
+  band_id: 446
+  band_name: Chicken Hope
+  band_token: chicken-hope
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: бесплатный
+- id: 26554
+  date: '2012-03-24'
+  time: '21:30'
+  band_name: Анатолий Морозов & Jazz Quartet
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 26555
+  date: '2012-03-30'
+  time: '21:30'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 300-400 руб.
+- id: 27232
+  date: '2012-04-30'
+  time: '20:00'
+  band_id: 575
+  band_name: Jack Daniel's Time
+  band_token: jack-daniel-s-time
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 26556
+  date: '2012-03-25'
+  time: '18:00'
+  band_name: ThunderBlues
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 27230
+  date: '2012-04-19'
+  time: '20:00'
+  band_name: Анатолий Морозов & Jazz Quartet
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 100 руб.
+- id: 27231
+  date: '2012-04-21'
+  time: '21:00'
+  band_name: The Shakers
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 400 руб.
+- id: 28116
+  date: '2012-07-06'
+  time: '21:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 700 руб.
+- id: 28117
+  date: '2012-06-23'
+  time: '20:00'
+  band_id: 575
+  band_name: Jack Daniel's Time
+  band_token: jack-daniel-s-time
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 28118
+  date: '2012-07-14'
+  time: '20:00'
+  band_id: 575
+  band_name: Jack Daniel's Time
+  band_token: jack-daniel-s-time
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+  price: 200 руб.
+- id: 29272
+  date: '2012-08-12'
+  time: '19:00'
+  band_id: 34
+  band_name: J.A.M.
+  band_token: jam
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 29273
+  date: '2012-08-19'
+  time: '20:00'
+  band_name: Grass Pistols
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree
+- id: 30037
+  date: '2012-10-09'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 447
+  club_name: Jamboree
+  club_token: jamboree

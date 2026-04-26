@@ -1,0 +1,39 @@
+- id: 58922
+  date: '2016-05-25'
+  band_name: Kenny Blues Boss Wayne (США) feat.Jose Luis Pardo (Аргентина)
+  club_id: 837
+  club_name: Machine Head
+  club_token: machine-head
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 57750
+  date: '2016-04-10'
+  time: '20:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_id: 837
+  club_name: Machine Head
+  club_token: machine-head
+- id: 58923
+  date: '2016-05-26'
+  band_name: Kenny Blues Boss Wayne (США) feat.Jose Luis Pardo (Аргентина)
+  club_id: 837
+  club_name: Machine Head
+  club_token: machine-head
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 60000
+  date: '2016-09-01'
+  time: '20:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 837
+  club_name: Machine Head
+  club_token: machine-head
+  price: 800 руб.

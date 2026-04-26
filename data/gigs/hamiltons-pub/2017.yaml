@@ -1,0 +1,12 @@
+- id: 68520
+  date: '2017-11-04'
+  time: '23:00'
+  band_name: Cross B Band&Denis Konstantinov
+  club_id: 390
+  club_name: Hamilton's Pub
+  club_token: hamiltons-pub
+  price: бесплатный
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band

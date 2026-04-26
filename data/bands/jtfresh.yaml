@@ -1,0 +1,54 @@
+id: 324
+token: jtfresh
+name: J.T.Fresh
+alive: true
+url: http://www.jtfresh.com.ua
+city_id: 16
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Катико Пурцеладзе
+  instruments: вокал
+- name: Сергей Стародубов
+  instruments: клавишные
+- name: Александр Новаков
+  instruments: бас
+- name: Назар Полывка
+  instruments: барабаны
+- name: Егор Бекаревич
+  instruments: саксафон
+clips:
+- id: 1221
+  type: weblink
+  url: http://vk.com/club2382894
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1222
+  type: youtube
+  url: http://www.youtube.com/?v=GZRxPFu4qog
+  name: JT FRESH
+  comments: группа JT FRESH(Киев)  в Днепропетровске!!!!! репортаж.
+  sort_order: 0
+reviews:
+- id: 60
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Квинтет из Киева, играющих настоящий main stream.
+  text: 'И, казалось бы, кто может делать это лучше американцев?.. Однако, есть такие
+    люди, и среди нас! Люди знающие как завладеть вниманием даже самых искушенных
+    слушателей. Их выступление - это всегда лучшие джазовые темы и оригинальные авторские
+    пьесы. Добавьте ко всему этому неожиданные музыкальные цитаты, остроумно вплетенные
+    то тут то там, и вот он - "J.T.Fresh"!
+
+
+    Каждый из них заслуживает отдельного разговора, но, как это и должно быть, ни
+    кто не расскажет о музыкантах больше, чем музыка, которую они играют. В их соло
+    нет случайных нот. Слушая" J.T.Fresh", в буквальном смысле окунаешься в красивые
+    мысли и позитивные эмоции.
+
+
+    P.S. "J.T.Fresh" – пейте охлажденным и не забудьте закусить!'
+  verified: true
+  created: '2010-11-04'
+  is_press_release: true

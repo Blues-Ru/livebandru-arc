@@ -1,0 +1,18 @@
+id: 197
+token: horonko
+name: Хоронько Оркестр
+aliases: Хоронько-оркестр
+alive: true
+url: http://www.horonko.ru
+city_id: 1
+genre_id: 2
+clips:
+- id: 453
+  type: weblink
+  url: http://www.horonko.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 454
+  type: rss
+  url: http://horonkoorchestr.livejournal.com/data/rss
+  sort_order: 99

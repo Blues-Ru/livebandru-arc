@@ -1,0 +1,215 @@
+- id: 45521
+  date: '2014-08-23'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 45559
+  date: '2014-08-02'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+- id: 44686
+  date: '2014-06-21'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 44690
+  date: '2014-06-20'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 44784
+  date: '2014-07-12'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 45300
+  date: '2014-07-19'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 45881
+  date: '2014-09-13'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 46552
+  date: '2014-10-03'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+- id: 47245
+  date: '2014-11-14'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 47557
+  date: '2014-11-28'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+- id: 47935
+  date: '2014-11-21'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 47936
+  date: '2014-11-22'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 47938
+  date: '2014-11-29'
+  time: '21:00'
+  band_name: Kikipickles
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 47886
+  date: '2014-11-15'
+  time: '21:00'
+  band_name: Josh Smith (US) and The Jumping Cats (Y)
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 48414
+  date: '2014-12-19'
+  time: '21:00'
+  band_name: Klyagin&Tereshina Band
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 48415
+  date: '2014-12-20'
+  time: '21:00'
+  band_name: The Betty Boop Lovers
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+  extra_bands:
+  - id: 276
+    name: Betty Boop Lovers
+    token: betty-boop-lovers
+- id: 48416
+  date: '2014-12-26'
+  time: '21:00'
+  band_name: The Gracious
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 48417
+  date: '2014-12-27'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 48410
+  date: '2014-12-05'
+  time: '21:00'
+  band_name: Dr.Agranovsky&The Black bread
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 48411
+  date: '2014-12-06'
+  time: '21:00'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+- id: 48412
+  date: '2014-12-13'
+  time: '21:00'
+  band_name: Dr. Endo
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 48413
+  date: '2014-12-14'
+  time: '21:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  price: бесплатный

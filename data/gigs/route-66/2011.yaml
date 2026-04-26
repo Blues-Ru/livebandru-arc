@@ -1,0 +1,25 @@
+- id: 20902
+  date: '2011-07-19'
+  time: '21:00'
+  band_name: акустический блюз джем:, Макс Таврический, Александр Кузнецов, Ivan Блюz,
+    Григорий Махно и многие другие
+  club_id: 480
+  club_name: Route 66
+  club_token: route-66
+  price: бесплатный
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+  - id: 291
+    name: Ivan Блюz
+    token: ivan-blyuz
+- id: 22602
+  date: '2011-11-19'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 480
+  club_name: Route 66
+  club_token: route-66

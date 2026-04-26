@@ -1,0 +1,39 @@
+id: 541
+token: priot
+name: Priot Ensemble
+aliases: Ансамбль Прет
+alive: true
+url: http://www.priot.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 6
+musicians:
+- name: Наталья Блинова
+  instruments: вокал, бэк-вокал, клавишные
+- name: Григорий Сандомирский
+  instruments: клавишные
+- name: Марк Гайдар
+  instruments: контрабас
+- name: Петр Талалай
+  instruments: ударные
+- name: Александр Михлин
+  instruments: звукорежиссура
+references:
+- id: 543
+  name: Трио Одиссея
+  token: odysseytrio
+- id: 546
+  name: Goat's Notes
+  token: goatsnotes
+clips:
+- id: 2667
+  type: photo
+  url: priot-ensemble.jpg
+  sort_order: 0
+  width: 600
+  height: 436
+- id: 2666
+  type: weblink
+  url: http://www.priot.ru/
+  name: Официальный сайт
+  sort_order: 0

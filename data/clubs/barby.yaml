@@ -1,0 +1,13 @@
+id: 289
+token: barby
+name: Barby
+alive: true
+address: Кибуц Галуйот 52
+phone: 03-5188123
+city_id: 21
+clips:
+- id: 865
+  type: weblink
+  url: http://www.barby.co.il/index.php
+  name: Официальный сайт
+  sort_order: 99

@@ -1,0 +1,13 @@
+id: 915
+token: park-nauki-i-iskusstva-sirius
+name: Парк науки и искусства "Сириус"
+alive: true
+address: Олимпийский проспект, 1
+phone: 8(800)200-71-17
+city_id: 35
+clips:
+- id: 9780
+  type: weblink
+  url: http://www.sochisirius.ru
+  name: Официальный сайт
+  sort_order: 0

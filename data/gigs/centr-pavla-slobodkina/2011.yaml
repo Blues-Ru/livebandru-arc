@@ -1,0 +1,16 @@
+- id: 24279
+  date: '2011-12-25'
+  time: '19:00'
+  band_name: Роман Мирошниченко (гитара), Даниил Крамер (фортепиано) и камерный оркестр
+    Центра Павла Слободкина
+  club_id: 549
+  club_name: Центр Павла Слободкина
+  club_token: centr-pavla-slobodkina
+  price: 450-1500 руб.
+  extra_bands:
+  - id: 366
+    name: Роман Мирошниченко
+    token: roman-miro
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer

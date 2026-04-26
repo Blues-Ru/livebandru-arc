@@ -1,0 +1,17 @@
+id: 517
+token: jazzelectro
+name: Jazzelectro
+aliases: Музыканты оркестра Левона Оганезова
+alive: true
+genre_id: 2
+musicians:
+- name: Aркадий Баклагин
+  instruments: ударные
+- name: Oлег Aгеев
+  instruments: саксофоны, флейта, бас-кларнет
+- name: Hадежда Рафаилиди
+  instruments: вокал
+- name: Сергей Сокулер
+  instruments: бас-гитара/контрабас
+- name: Aндрей Бубнов
+  instruments: фортепиано

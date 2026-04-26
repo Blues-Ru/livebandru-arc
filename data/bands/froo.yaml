@@ -1,0 +1,23 @@
+id: 238
+token: froo
+name: Наглый Фрукт
+alive: true
+url: http://froo.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 8
+musicians:
+- name: Сергей Чернов
+  instruments: вокал
+- name: Евгения Ермолаева
+  instruments: бас, вокал
+- name: Станислав Штыков
+  instruments: клавишные
+- name: Денис Хромов
+  instruments: ударные
+clips:
+- id: 735
+  type: weblink
+  url: http://vk.com/club8730955
+  name: Страница ВКонтакте
+  sort_order: 99

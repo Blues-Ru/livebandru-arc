@@ -1,0 +1,221 @@
+- id: 14661
+  date: '2011-01-08'
+  time: '20:00'
+  band_id: 363
+  band_name: Петр Мамонов
+  band_token: mamonov
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 15537
+  date: '2011-02-13'
+  time: '20:00'
+  band_name: Глеб Самойлов, The Matrix
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 15854
+  date: '2011-02-26'
+  time: '20:00'
+  band_name: Бригадный подряд
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 15796
+  date: '2011-02-23'
+  time: '20:00'
+  band_name: Tracktor Bowling (Москва)
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 15841
+  date: '2011-02-26'
+  time: '20:00'
+  band_name: The Dartz
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 16214
+  date: '2011-03-08'
+  time: '20:00'
+  band_name: Shantel & Bucovina Club Orkestar
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 16526
+  date: '2011-03-13'
+  time: '20:00'
+  band_name: Псой Короленко
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 16597
+  date: '2011-03-19'
+  time: '20:00'
+  band_name: Найк Борзов
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 16564
+  date: '2011-03-18'
+  time: '20:00'
+  band_name: Психея
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 16953
+  date: '2011-03-25'
+  time: '20:00'
+  band_name: Вадим Степанцов и Бахыт-компот
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  extra_bands:
+  - id: 106
+    name: Вадим Степанцов и Бахыт Компот
+    token: stepantsov
+- id: 17355
+  date: '2011-04-08'
+  time: '20:00'
+  band_name: Тайм-Аут
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 17314
+  date: '2011-04-04'
+  time: '20:00'
+  band_name: Питер's Guitar Fest
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 18045
+  date: '2011-04-23'
+  time: '20:00'
+  band_name: Мураками
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 18281
+  date: '2011-04-29'
+  time: '20:00'
+  band_name: Cradle Of Filth (UK)
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 18842
+  date: '2011-05-14'
+  time: '20:00'
+  band_name: Бригадный подряд
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 18773
+  date: '2011-05-06'
+  time: '20:00'
+  band_name: Вячеслав Бутусов и Ю-Питер
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 19271
+  date: '2011-05-22'
+  time: '20:00'
+  band_name: Эпидемия
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 19235
+  date: '2011-05-20'
+  time: '20:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 20212
+  date: '2011-06-09'
+  time: '20:00'
+  band_id: 359
+  band_name: Телевизор
+  band_token: televisor
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 22580
+  date: '2011-10-15'
+  time: '19:00'
+  band_name: Маврин
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  price: 600-900
+- id: 22581
+  date: '2011-10-27'
+  time: '20:00'
+  band_name: Вечер танго Астора Пьяццолы
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  price: 400-700
+- id: 22582
+  date: '2011-11-17'
+  time: '20:00'
+  band_name: Диксиленд Jazz Time Team
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  price: 400-700
+- id: 22583
+  date: '2011-11-24'
+  time: '20:00'
+  band_name: 'Калинов Мост. Четверть Века. 1986-2011. Специальные гости: Константин
+    Кинчев, Вячеслав Бутусов'
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  price: 700-1200
+  extra_bands:
+  - id: 241
+    name: Алиса
+    token: alisa
+  - id: 112
+    name: Калинов мост
+    token: kalinov-most
+- id: 22584
+  date: '2011-11-06'
+  time: '20:00'
+  band_name: Оргия праведников
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+  price: 400-600
+- id: 23933
+  date: '2011-12-03'
+  time: '20:00'
+  band_name: Oldschool
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 23947
+  date: '2011-12-04'
+  time: '20:00'
+  band_name: Константин Арбенин
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 23969
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Ad libitum
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora
+- id: 22885
+  date: '2011-11-03'
+  time: '20:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 340
+  club_name: ЦКЗ "Аврора"
+  club_token: ckz-avrora

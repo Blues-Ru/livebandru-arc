@@ -1,0 +1,19 @@
+id: 402
+token: akakao
+name: Акакао
+alive: true
+address: Наб. канала Грибоедова, 7
+subway: Невский Проспект
+phone: (812) 703-81-20
+city_id: 2
+clips:
+- id: 1791
+  type: weblink
+  url: http://vk.com/club10207611
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1792
+  type: weblink
+  url: http://akakao.ru/
+  name: Официальный сайт
+  sort_order: 0

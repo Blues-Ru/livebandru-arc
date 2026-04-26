@@ -1,0 +1,13 @@
+id: 800
+token: smolenskaya-oblastnaya-filarmoniya
+name: Смоленская областная филармония
+alive: true
+address: ул. Глинки, д. 3
+phone: +7(4812)38-29-84
+city_id: 31
+clips:
+- id: 6620
+  type: weblink
+  url: http://www.smolensk-filarmonia.ru
+  name: Официальный сайт
+  sort_order: 0

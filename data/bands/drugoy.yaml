@@ -1,0 +1,16 @@
+id: 732
+token: drugoy
+name: Dругой
+alive: true
+city_id: 2
+genre_id: 3
+clips:
+- id: 8595
+  type: weblink
+  url: https://vk.com/drugoyrock
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 8598
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

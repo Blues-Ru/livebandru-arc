@@ -1,0 +1,24 @@
+id: 844
+token: muzej-anny-akhmatovoj-v-fontannom-dome
+name: Музей Анны Ахматовой в Фонтанном Доме
+alive: true
+address: Литейный пр., 53
+subway: Маяковская
+phone: +7(812)380-8050
+city_id: 2
+clips:
+- id: 7758
+  type: weblink
+  url: http://www.akhmatova.spb.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 7760
+  type: weblink
+  url: https://vk.com/akhmatova.museum
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 7759
+  type: weblink
+  url: http://www.akhmatova.spb.ru
+  name: Официальный сайт
+  sort_order: 100

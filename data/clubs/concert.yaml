@@ -1,0 +1,14 @@
+id: 287
+token: concert
+name: Концерт
+alive: true
+address: Земляной Вал, 50
+subway: Курская, Чкаловская
+phone: 495) 917-88-41
+city_id: 1
+clips:
+- id: 840
+  type: weblink
+  url: http://www.koncert.su
+  name: Официальный сайт
+  sort_order: 99

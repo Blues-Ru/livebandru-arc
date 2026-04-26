@@ -1,0 +1,222 @@
+- id: 31641
+  date: '2012-11-16'
+  time: '21:00'
+  band_id: 316
+  band_name: Чиж & Co
+  band_token: chizh
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 3000 руб.
+- id: 31650
+  date: '2012-12-15'
+  time: '21:00'
+  band_name: Chkalov
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 31651
+  date: '2012-12-08'
+  time: '21:00'
+  band_name: Ксения Федулова Band и Трио Михаила Кистанова
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 31652
+  date: '2012-12-07'
+  time: '21:00'
+  band_id: 577
+  band_name: Best Blues Jam
+  band_token: best-blues-jam
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+- id: 31653
+  date: '2012-12-06'
+  time: '20:00'
+  band_name: Mockin band
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: бесплатный
+- id: 31642
+  date: '2012-11-17'
+  time: '21:00'
+  band_name: Корсар и Евгений Гурин
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 31643
+  date: '2012-11-18'
+  time: '19:00'
+  band_name: Хроноп и Вадим Демидов
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 31644
+  date: '2012-11-22'
+  time: '22:00'
+  band_name: Mockin band
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: бесплатный
+- id: 31645
+  date: '2012-11-23'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 700 руб.
+- id: 31646
+  date: '2012-11-24'
+  time: '21:00'
+  band_name: The Shakers
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 31647
+  date: '2012-11-25'
+  time: '19:00'
+  band_id: 575
+  band_name: Jack Daniel's Time
+  band_token: jack-daniel-s-time
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 200 руб.
+- id: 31648
+  date: '2012-11-29'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: бесплатный
+- id: 31649
+  date: '2012-12-13'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: бесплатный
+- id: 31654
+  date: '2012-12-02'
+  time: '19:00'
+  band_name: The Grass Pistols
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 200 руб.
+- id: 31655
+  date: '2012-12-01'
+  time: '21:00'
+  band_name: Д.Н.К
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 31656
+  date: '2012-12-16'
+  time: '18:00'
+  band_name: Неодрама
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 200 руб.
+- id: 31657
+  date: '2012-12-14'
+  time: '21:00'
+  band_name: Сергей Воронов & Crossroadz
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 1000-1500 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 31658
+  date: '2012-11-30'
+  time: '21:00'
+  band_name: Оркестр Blackmailers
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+  extra_bands:
+  - id: 40
+    name: Blackmailers Rekord Orkestr
+    token: blackmailers
+- id: 32452
+  date: '2012-12-30'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+- id: 32453
+  date: '2012-12-23'
+  time: '19:00'
+  band_name: Хроноп
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 32445
+  date: '2012-12-20'
+  time: '20:00'
+  band_name: Crooning Jazz Quintet п/у Анатолия Морозова
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 300 руб.
+- id: 32448
+  date: '2012-12-31'
+  time: '22:30'
+  band_name: Новогодняя ночь с Chkalov
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+- id: 32449
+  date: '2012-12-27'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+- id: 32450
+  date: '2012-12-28'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.
+- id: 32451
+  date: '2012-12-29'
+  time: '20:00'
+  band_name: Отражение
+  club_id: 631
+  club_name: Music Hall
+  club_token: music-hall
+  price: 500 руб.

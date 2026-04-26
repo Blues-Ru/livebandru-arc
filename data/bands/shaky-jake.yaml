@@ -1,0 +1,30 @@
+id: 573
+token: shaky-jake
+name: Shaky Jake
+alive: true
+url: http://vk.com/club22468515
+city_id: 1
+genre_id: 1
+secondary_genre_id: 10
+musicians:
+- name: Петр Кунарев
+  instruments: вокал
+- name: Егор Скороходов
+  instruments: гитара
+- name: Василий Рогожин
+  instruments: бас
+- name: Стас Соколов
+  instruments: харп
+- name: Павел Гладышев
+  instruments: барабаны
+clips:
+- id: 3279
+  type: youtube
+  url: http://youtu.be/Ge1_7YStaFo
+  name: Don't keep me wondering (Allman Brothers Band cover)
+  sort_order: 99
+- id: 3278
+  type: weblink
+  url: http://vk.com/club22468515
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,13 @@
+id: 156
+token: blues-line
+name: Blues Line
+alive: true
+url: http://www.bluesline.ru/
+city_id: 23
+genre_id: 1
+clips:
+- id: 214
+  type: weblink
+  url: http://www.bluesline.ru/
+  name: Официальный сайт
+  sort_order: 0

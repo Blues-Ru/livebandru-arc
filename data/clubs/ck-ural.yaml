@@ -1,0 +1,16 @@
+id: 511
+token: ck-ural
+name: Центр Культуры "Урал"
+aliases: 'ЦК "Урал"
+
+  ЦК Урал'
+alive: true
+address: Студенческая, 3
+phone: +7 (343) 360-2020
+city_id: 6
+clips:
+- id: 4203
+  type: weblink
+  url: http://www.ckural.ru/
+  name: Официальный сайт
+  sort_order: 0

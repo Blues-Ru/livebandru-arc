@@ -1,0 +1,45 @@
+id: 539
+token: lady-in-jazz
+name: Фестиваль "Lady in Jazz"
+aliases: Lady in Jazz
+alive: true
+url: http://birdart.ru
+city_id: 2
+genre_id: 2
+secondary_genre_id: 7
+clips:
+- id: 2585
+  type: youtube
+  url: http://www.youtube.com/?v=3vRuYr2Yz0k
+  name: FRUKTЫ
+  comments: Группа "FRUKTbl" - это прежде всего любовь к музыке, любовь к людям, любовь
+    к жизни.
+  sort_order: 100
+- id: 2583
+  type: weblink
+  url: http://birdart.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2582
+  type: weblink
+  url: http://jaggerclub.ru/event/lady_in_jazz/
+  sort_order: 99
+- id: 2584
+  type: youtube
+  url: http://www.youtube.com/?v=LvucEy0g384
+  name: OLESYA YALUNINA
+  comments: Олеся Ялунина и Jazzmeup - это компания сильнейших петербургских музыкантов
+    во главе с вокалисткой Олесей Ялуниной.
+  sort_order: 0
+- id: 2586
+  type: youtube
+  url: http://www.youtube.com/?v=E6EcJ0NFNPs
+  name: ELEFUNT'S GROOVE
+  comments: '"Наша музыка - это солнце далеких южных стран в звуке петербургской романтики"'
+  sort_order: 200
+- id: 2589
+  type: photo
+  url: lady-in-jazz-3.jpg
+  sort_order: 200
+  width: 600
+  height: 844

@@ -1,0 +1,14 @@
+id: 23
+token: forrest-gump
+name: Forrest Gump
+aliases: Forest Gump
+alive: true
+url: http://www.forrestgump.spb.ru
+city_id: 2
+genre_id: 1
+clips:
+- id: 1200
+  type: weblink
+  url: http://www.forrestgump.spb.ru
+  name: Официальный сайт
+  sort_order: 99

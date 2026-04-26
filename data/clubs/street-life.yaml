@@ -1,0 +1,14 @@
+id: 194
+token: street-life
+name: Street Life
+alive: true
+address: 2-я Красноармейская, 6
+subway: Технологический институт
+phone: (812) 575-05-45
+city_id: 2
+clips:
+- id: 207
+  type: weblink
+  url: http://www.street-life.spb.ru
+  name: Официальный сайт
+  sort_order: 0

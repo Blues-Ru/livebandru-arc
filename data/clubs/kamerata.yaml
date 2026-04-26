@@ -1,0 +1,19 @@
+id: 520
+token: kamerata
+name: Челябинский Камерный Театр
+aliases: Челябинский Государственный Драматический Камерный Театр
+alive: true
+address: Цвиллинга, 15
+phone: (351) 263-3035
+city_id: 38
+clips:
+- id: 2740
+  type: weblink
+  url: http://www.kamerata.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2741
+  type: weblink
+  url: http://vk.com/groups.php?act=s&gid=743159
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,29 @@
+id: 369
+token: alexey-ryabykhin
+name: Алексей Рябухин
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Алексей Рябухин
+  instruments: фортепиано
+clips:
+- id: 1490
+  type: photo
+  url: alexey-ryabykhin.jpg
+  sort_order: 0
+  width: 150
+  height: 150
+reviews:
+- id: 91
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Алексей Рябухин - молодой, перспективный джазовый пианист и композитор. Выпускник
+    МОКИ, в данный момент является студентом Академии Гнесиных. Алексей дипломант
+    джазовых фестивалей, а также лауреат конкурса "Рояль в Джазе." В числе наиболее
+    любимых исполнителей, влияющих на творчество входят - Thelonious Monk, Kenny Kirkland,
+    Wayne Shorter, Herbie Hancock, Branford Marsalis!
+  verified: true
+  created: '2011-01-06'
+  is_press_release: true

@@ -1,0 +1,26 @@
+id: 143
+token: butman-club-taganka
+name: Клуб Игоря Бутмана
+aliases: Клуб Игоря Бутмана на Таганке
+alive: true
+address: ул. Верхняя Радищевская, д. 21
+subway: Таганская, Марксистская
+phone: +7(495)792-21-09
+city_id: 1
+comments: В здании Театра на Таганке
+clips:
+- id: 71
+  type: weblink
+  url: http://www.le-club.ru
+  name: Старый сайт клуба
+  sort_order: 100
+- id: 1347
+  type: weblink
+  url: http://www.butmanclub.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2057
+  type: weblink
+  url: http://www.facebook.com/pages/%D0%9A%D0%BB%D1%83%D0%B1-%D0%98%D0%B3%D0%BE%D1%80%D1%8F-%D0%91%D1%83%D1%82%D0%BC%D0%B0%D0%BD%D0%B0Igor-Butman-Club/110931985638959
+  name: Страница на FaceBook
+  sort_order: 200

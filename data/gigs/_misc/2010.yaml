@@ -1,0 +1,854 @@
+- id: 12654
+  date: '2010-08-27'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_name: Йоркшир (Варшавское шоссе, 94)
+  city_id: 1
+  price: бесплатный
+- id: 12938
+  date: '2010-09-24'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Йоркшир (Варшавское шоссе, 94)
+  city_id: 1
+  price: бесплатный
+- id: 12989
+  date: '2010-09-30'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_name: Центр Делового Сотрудничества (ЦДС)
+  city_id: 38
+- id: 12990
+  date: '2010-10-02'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_name: ККТ Космос
+  city_id: 6
+- id: 12991
+  date: '2010-10-03'
+  time: '19:00'
+  band_id: 241
+  band_name: Алиса
+  band_token: alisa
+  club_name: ДК им. Солдатова
+  city_id: 33
+- id: 12997
+  date: '2010-10-01'
+  time: '19:00'
+  band_id: 244
+  band_name: Melvin Taylor Blues Band
+  band_token: melvin-taylor
+  club_name: Театр им. Чехова
+  city_id: 56
+- id: 12999
+  date: '2010-10-03'
+  time: '19:00'
+  band_id: 244
+  band_name: Melvin Taylor Blues Band
+  band_token: melvin-taylor
+  club_name: Крымский академический украинский музыкальный театр
+  city_id: 58
+- id: 12940
+  date: '2010-10-02'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_name: Churchill Pub (Харьков)
+  city_id: 15
+- id: 13000
+  date: '2010-10-05'
+  time: '19:00'
+  band_id: 244
+  band_name: Melvin Taylor Blues Band
+  band_token: melvin-taylor
+  club_name: Театр им. Заньковецкой
+  city_id: 59
+- id: 13036
+  date: '2010-09-30'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Гнесинский концертный зал, Поварская 38
+  city_id: 1
+- id: 12981
+  date: '2010-09-24'
+  time: '23:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_name: Punch&Judy
+  city_id: 1
+  price: бесплатный
+- id: 13104
+  date: '2010-10-30'
+  time: '20:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_name: Радио Сити
+  city_id: 1
+- id: 13167
+  date: '2010-10-19'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: Красноярский Музыкальный театр
+  city_id: 64
+- id: 13168
+  date: '2010-10-21'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: ТКЦ Братск-Арт
+  city_id: 65
+- id: 13197
+  date: '2010-10-07'
+  time: '19:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_name: Soprano Bar
+  city_id: 1
+  price: бесплатный
+- id: 13251
+  date: '2010-10-17'
+  band_id: 296
+  band_name: Gary Moore
+  band_token: gary-moore
+  club_name: ДС им. Ивана Ярыгина
+  city_id: 64
+- id: 13258
+  date: '2010-10-20'
+  time: '19:30'
+  band_id: 290
+  band_name: Андрей Козловский
+  band_token: andrey-kozlovsky
+  club_name: Шале
+  city_id: 1
+  price: 300 руб.
+- id: 13282
+  date: '2010-10-21'
+  time: '20:00'
+  band_name: Умка и "Броневик"
+  club_name: '"Орландина"'
+  city_id: 2
+  price: 300-450 рублей
+- id: 13175
+  date: '2010-11-19'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: Театр Музкомедии
+  city_id: 53
+- id: 13204
+  date: '2010-10-17'
+  time: '19:00'
+  band_name: Сергей Калугин (соло)
+  club_name: Арктика
+  city_id: 2
+- id: 13223
+  date: '2010-10-14'
+  time: '20:00'
+  band_id: 232
+  band_name: Петрович Бэнд
+  band_token: petrovich-band
+  club_name: Паб "Килт"
+  city_id: 52
+  price: бесплатный
+- id: 13346
+  date: '2010-10-29'
+  time: '21:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_name: клуб Культура г. Тверь
+  price: 300 руб.
+- id: 13173
+  date: '2010-11-13'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: КЗ Минск
+  city_id: 17
+- id: 13176
+  date: '2010-11-20'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: ЦКМ НАУ
+  city_id: 16
+- id: 13452
+  date: '2010-11-03'
+  time: '19:00'
+  band_name: Slade (Великобритания)
+  club_name: БКЗ "Октябрьский"
+  city_id: 2
+- id: 13459
+  date: '2010-11-05'
+  time: '20:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_name: Агарта
+  city_id: 19
+  price: 200 руб.
+- id: 13565
+  date: '2010-11-20'
+  time: '20:30'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_name: клуб-отель "Высокое"
+  city_id: 31
+- id: 13721
+  date: '2010-11-27'
+  time: '18:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_name: ГЦКЗ "Россия"
+  city_id: 1
+- id: 13724
+  date: '2010-11-27'
+  time: '19:00'
+  band_name: Ария
+  club_name: СК "Олимпийский"
+  city_id: 1
+- id: 13741
+  date: '2010-11-30'
+  time: '19:00'
+  band_name: Квартет Kaulakau (Испания), Interstellar Overdrive Trio (Франция), Ансамбль
+    Plaistow (Швейцария), Алена Блесина (Франция), Сэнэм Дийиджи (Турция)
+  club_name: Политехнический музей
+  city_id: 1
+- id: 13743
+  date: '2010-12-01'
+  time: '20:00'
+  band_name: Skid Row (США)
+  club_name: Pipl
+  city_id: 1
+- id: 13771
+  date: '2010-11-11'
+  time: '19:30'
+  band_name: Вячеслав Гайворонский (труба), Андрей Поповский (электрогитара), Маркус
+    Гудвин (ударные)
+  club_name: Книги и кофе
+  city_id: 2
+- id: 13793
+  date: '2010-11-14'
+  time: '19:00'
+  band_name: Каменное море
+  club_name: Особняк
+  city_id: 2
+- id: 13794
+  date: '2010-11-14'
+  time: '20:00'
+  band_name: Soul Mama
+  club_name: Kvartal
+  city_id: 2
+- id: 13796
+  date: '2010-11-14'
+  time: '20:00'
+  band_name: Леонид Федоров (Аукцыон) и Владимир Волков (Волковтрио)
+  club_name: The Place
+  city_id: 2
+  extra_bands:
+  - id: 152
+    name: Аукцыон
+    token: auktyon
+- id: 13764
+  date: '2010-11-11'
+  time: '20:00'
+  band_name: A-Ha (Норвегия)
+  club_name: Ледовый дворец
+  city_id: 2
+- id: 13785
+  date: '2010-11-13'
+  time: '19:00'
+  band_name: Manfred Mann's Earth Band (UK)
+  club_name: ДК им. Ленсовета
+  city_id: 2
+- id: 13807
+  date: '2010-11-17'
+  band_name: Юрий Шевчук и ДДТ
+  club_name: Большой зал филармонии им. Шостаковича
+  city_id: 2
+  extra_bands:
+  - id: 333
+    name: ДДТ
+    token: ddt
+- id: 13875
+  date: '2010-11-27'
+  time: '21:00'
+  band_id: 334
+  band_name: Павел Козлов & Alright Band
+  band_token: pavel-kozlov
+  club_name: Контрабас
+  city_id: 1
+  price: бесплатный
+- id: 13879
+  date: '2010-12-04'
+  time: '21:00'
+  band_id: 317
+  band_name: Капитан Дик
+  band_token: captain-dick
+  club_name: Дублин
+  city_id: 19
+  price: бесплатный
+- id: 13885
+  date: '2010-12-04'
+  time: '21:00'
+  band_id: 334
+  band_name: Павел Козлов & Alright Band
+  band_token: pavel-kozlov
+  club_name: Рябинка
+  city_id: 1
+  price: бесплатный
+- id: 13723
+  date: '2010-11-27'
+  time: '18:00'
+  band_name: Анатолий Кролл
+  club_name: Политехнический музей
+  city_id: 1
+- id: 13779
+  date: '2010-11-12'
+  time: '20:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_name: ДК им. Ленсовета
+  city_id: 2
+- id: 13773
+  date: '2010-11-12'
+  time: '20:00'
+  band_name: Сонце-Хмари
+  club_name: Kvartal
+  city_id: 2
+- id: 14127
+  date: '2010-12-18'
+  time: '20:00'
+  band_name: Константин Арбенин
+  club_name: Гарцующий Дредноут
+  city_id: 1
+- id: 14136
+  date: '2010-12-18'
+  time: '21:00'
+  band_name: Moremoney
+  club_name: China-Town-Cafe
+  city_id: 1
+- id: 14185
+  date: '2010-12-25'
+  time: '20:00'
+  band_name: Пилигрим
+  club_name: Pipl
+  city_id: 1
+- id: 14500
+  date: '2010-12-24'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '* Джазман'
+  city_id: 1
+  price: 300 руб.
+- id: 14117
+  date: '2010-12-17'
+  time: '19:00'
+  band_name: Animal ДжаZ
+  club_name: CDК МАИ
+  city_id: 1
+- id: 14172
+  date: '2010-12-23'
+  time: '19:00'
+  band_name: Drugly Cats
+  club_name: Plan B
+  city_id: 1
+- id: 14179
+  date: '2010-12-24'
+  time: '19:00'
+  band_name: Оркестр "Академик-бэнд" п/у А. Кролла
+  club_name: Концертный зал РАМ им. Гнесиных
+  city_id: 1
+- id: 14120
+  date: '2010-12-17'
+  time: '19:00'
+  band_name: Последние танки в Париже
+  club_name: Plan B
+  city_id: 1
+- id: 14180
+  date: '2010-12-24'
+  time: '21:00'
+  band_name: Вася Обломов
+  club_name: China-Town-Cafe
+  city_id: 1
+- id: 14324
+  date: '2010-12-17'
+  time: '20:00'
+  band_name: Зоопарк
+  club_name: Цыпа
+  city_id: 2
+- id: 14428
+  date: '2010-12-11'
+  time: '20:30'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_name: Высокое
+  city_id: 31
+- id: 14465
+  date: '2010-12-18'
+  time: '21:00'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_name: Высокое
+  city_id: 31
+- id: 14488
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+  price: бесплатный
+- id: 14338
+  date: '2010-12-18'
+  time: '16:00'
+  band_name: Джаз во дворце
+  club_name: Шереметевский дворец
+  city_id: 2
+- id: 14475
+  date: '2010-12-25'
+  time: '20:00'
+  band_id: 78
+  band_name: Mess o'blues
+  band_token: mess-o-blues
+  club_name: Do Lampochki
+  city_id: 3
+  price: 100 руб.
+- id: 14485
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+- id: 14486
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+- id: 14487
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+  price: 300 руб.
+- id: 14489
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+  price: бесплатный
+- id: 14490
+  date: '2010-12-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Лондон Гриль
+  city_id: 1
+  price: бесплатный
+- id: 14471
+  date: '2010-12-18'
+  time: '19:00'
+  band_name: О!Чилап, Пчела-Бэнд, Пит Аникин (питизмы), Оптимальный Вариант
+  club_name: Ультра
+  city_id: 1
+  price: 300 руб.
+  extra_bands:
+  - id: 339
+    name: Оптимальный Вариант
+    token: optimal-variant
+- id: 11421
+  date: '2010-01-13'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Концертный зал им. П. И. Чайковского
+- id: 11452
+  date: '2010-01-05'
+  time: '21:00'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_name: Б2 Второй Этаж
+  city_id: 1
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 11565
+  date: '2010-01-27'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Времена Года (Облака)
+  city_id: 1
+- id: 11683
+  date: '2010-02-12'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Дулин Хаус (Арбат, 20)
+  city_id: 1
+  price: 200 руб.
+- id: 11687
+  date: '2010-02-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Поляна (ул. Лесная, 43)
+  city_id: 1
+  price: 300 руб.
+- id: 11786
+  date: '2010-03-05'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Дулин Хаус (Арбат, 20)
+  city_id: 1
+  price: 200 руб.
+- id: 11801
+  date: '2010-03-08'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Hard Rock Cafe
+  city_id: 1
+- id: 11805
+  date: '2010-03-16'
+  time: '19:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Комсомольск на Амуре
+- id: 11806
+  date: '2010-03-18'
+  time: '19:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Хабаровск
+- id: 11933
+  date: '2010-04-03'
+  time: '23:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Punch & Judy (Пятницкая ул., 6/1)
+  city_id: 1
+  price: бесплатный
+- id: 11936
+  date: '2010-04-09'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Doolin House (Арбат, 20)
+  city_id: 1
+  price: 300 руб.
+- id: 12045
+  date: '2010-05-01'
+  time: '23:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Punch & Judy (Пятницкая ул., 6/1)
+  city_id: 1
+  price: бесплатный
+- id: 11979
+  date: '2010-04-23'
+  time: '19:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_name: Art Cafe 1881
+  price: бесплатный
+- id: 11967
+  date: '2010-04-09'
+  time: '22:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: FLOYD CAFE
+  city_id: 1
+- id: 12025
+  date: '2010-04-27'
+  band_id: 122
+  band_name: Алена Иванова и MC-Band
+  band_token: mc-band
+  club_name: Марсель
+  city_id: 1
+  price: 250 руб.
+- id: 12076
+  date: '2010-05-07'
+  time: '19:30'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_name: Art Cafe 1881
+  city_id: 1
+  price: бесплатный
+- id: 12179
+  date: '2010-06-12'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: г. Лесной
+- id: 12181
+  date: '2010-06-26'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: г. Тюмень
+- id: 12187
+  date: '2010-06-12'
+  time: '23:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_name: Фестиваль Пустые Холмы
+- id: 12270
+  date: '2010-07-02'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Калуга
+- id: 12321
+  date: '2010-07-05'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники, Международный фестиваль пива
+  city_id: 1
+- id: 12322
+  date: '2010-07-04'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники, Международный фестиваль пива
+  city_id: 1
+- id: 12323
+  date: '2010-07-06'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники, Международный фестиваль пива
+  city_id: 1
+- id: 12324
+  date: '2010-07-07'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники, Международный фестиваль пива
+- id: 12325
+  date: '2010-07-08'
+  time: '19:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники (фестиваль пива)
+  city_id: 1
+- id: 12326
+  date: '2010-07-09'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники (фестиваль пива)
+  city_id: 1
+- id: 12327
+  date: '2010-07-10'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники (фестиваль пива)
+  city_id: 1
+- id: 12328
+  date: '2010-07-11'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Лужники (фестиваль пива)
+  city_id: 1
+- id: 12406
+  date: '2010-07-10'
+  time: '17:00'
+  band_name: Jilius E. Green (Мемфис, США), Billy's Band (СПб), Mishouris Blues Band
+    (Москва), Suvorov Blues Band (СПб), Dynamic James (Москва), Jumping Cats (Москва),
+    Blues Clan (СПб), Jungle Jam (СПб), Marat Dakota Blues Band (СПб), Корни Травы
+    (Ярославль), Cross B Band (Минск), Average Blues Band (Кисловодск), Юрий Новгродский,
+    Contrast Blues Band (СПб)
+  club_name: Сад Дворца Юсуповых
+  city_id: 2
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 154
+    name: Billy's Band
+    token: billys-band
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 12797
+  date: '2010-09-16'
+  time: '20:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_name: Яблоневый Сад
+  city_id: 1
+- id: 12824
+  date: '2010-09-10'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Йоркшир на Варшавке
+  city_id: 1
+  price: бесплатный
+- id: 12908
+  date: '2010-10-16'
+  time: '21:00'
+  band_name: Neil Sedaka
+  club_name: Nokia Palace
+  city_id: 21
+  price: 360-1000 шекелей
+- id: 12873
+  date: '2010-09-12'
+  band_id: 203
+  band_name: Mama's Bad Boys
+  band_token: mamas-bad-boys
+  club_name: Летняя площадка на берегу Томи
+  city_id: 41
+- id: 13001
+  date: '2010-10-06'
+  time: '20:00'
+  band_id: 244
+  band_name: Melvin Taylor Blues Band
+  band_token: melvin-taylor
+  club_name: Культ.обр. центр "Мастер Класс"
+  city_id: 16
+- id: 12935
+  date: '2010-09-23'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Концертный зал "МИР"
+  city_id: 1
+- id: 13171
+  date: '2010-10-23'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: Сенатор
+  city_id: 67
+- id: 13172
+  date: '2010-10-25'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: Филармония
+  city_id: 68
+- id: 13174
+  date: '2010-11-14'
+  band_id: 277
+  band_name: Ночные Снайперы
+  band_token: night-snipers
+  club_name: Дом искусств
+  city_id: 69
+- id: 13188
+  date: '2010-10-21'
+  time: '21:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Тинькофф (СПб)
+  city_id: 2
+- id: 13199
+  date: '2010-10-22'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Остров
+  city_id: 2
+  price: 350/450
+- id: 13200
+  date: '2010-10-13'
+  band_id: 223
+  band_name: Saint Petes Blues
+  band_token: spb-blues
+  club_name: Сеновал
+  city_id: 2
+- id: 12998
+  date: '2010-10-02'
+  band_id: 244
+  band_name: Melvin Taylor Blues Band
+  band_token: melvin-taylor
+  club_name: The Sailors' Club
+  city_id: 57
+- id: 13564
+  date: '2010-11-06'
+  time: '20:30'
+  band_id: 201
+  band_name: DZh & Outback Blues Company
+  band_token: outback
+  club_name: Клуб-отель "Высокое"
+  city_id: 31
+- id: 13940
+  date: '2010-12-02'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Гамбри ул Б Грузинская 56
+  city_id: 1

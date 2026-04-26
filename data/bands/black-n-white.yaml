@@ -1,0 +1,40 @@
+id: 496
+token: black-n-white
+name: Black & White
+aliases: Black & White Blues Band
+alive: true
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Евгений Ламба
+  instruments: гитара, вокал
+- name: Максим Загоруй
+  instruments: бас, вокал
+- name: Александр Федоров
+  instruments: клавишные
+- name: Роман Широбоков
+  instruments: ударные
+- name: Ольга Пономарева
+  instruments: вокал, губная гармоника
+- name: Никита Зыков
+  instruments: гитара
+- name: Фуад Бабаев
+  instruments: бас, вокал
+- name: Константин Семынин
+  instruments: ударные
+references:
+- id: 497
+  name: Ольга Пономарева
+  token: olga-ponomareva
+clips:
+- id: 2297
+  type: weblink
+  url: http://vk.com/club1043046
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2299
+  type: weblink
+  url: http://vk.com/club10526613
+  name: Страница ВКонтакте
+  sort_order: 199

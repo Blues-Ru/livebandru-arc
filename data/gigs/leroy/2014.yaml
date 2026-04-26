@@ -1,0 +1,46 @@
+- id: 41402
+  date: '2014-02-08'
+  time: '21:00'
+  band_id: 644
+  band_name: Oliver Darling
+  band_token: oliver-darling
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 42387
+  date: '2014-03-21'
+  time: '20:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 46364
+  date: '2014-09-19'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 46346
+  date: '2014-10-17'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+- id: 47834
+  date: '2014-11-15'
+  band_name: Одинцово - Wolf Mail
+  club_id: 687
+  club_name: Leroy
+  club_token: leroy
+  extra_bands:
+  - id: 120
+    name: Wolf Mail
+    token: wolf-mail

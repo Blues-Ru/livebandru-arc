@@ -1,0 +1,157 @@
+- id: 25782
+  date: '2012-02-23'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  comments: 'В концерте прозвучит музыка знаменитых коллективов 30-х годов XX века:
+    Каунта Бэйси, Каса Лома, Боба Кросби, Джона Кирби, Банни Беригана и др.'
+- id: 27105
+  date: '2012-04-26'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  comments: 'Дню великой Победы Посвящается: "Серенада Солнечной Долины"'
+- id: 26382
+  date: '2012-03-22'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  comments: 'С программой: "Эра свинга. Часть II: От малого ансамбля до оркестра".
+    В концерте прозвучит музыка знаменитых коллективов 30-х годов XX века: Каунта
+    Бэйси, Каса Лома, Боба Кросби, Джона Кирби, Банни Беригана и др.'
+- id: 27777
+  date: '2012-05-24'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 28503
+  date: '2012-06-13'
+  time: '20:00'
+  band_name: Paulette McWilliams (США) и Stephan Universal Band
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 400-1100 руб.
+- id: 28598
+  date: '2012-06-28'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 30050
+  date: '2012-09-20'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: Музыка Диззи Гиллеспи
+- id: 30827
+  date: '2012-11-08'
+  time: '19:00'
+  band_name: Алексей Колосов (гитара) и "Аура"
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 30687
+  date: '2012-10-25'
+  time: '20:00'
+  band_name: Большой Джазовый Оркестр (БДО) п/у Петра Востокова и Дарья Антонова (вокал),
+    при уч. трио Андрея Зимовца (Санкт-Петербург)
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: Музыка Диззи Гиллеспи
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 31736
+  date: '2012-11-22'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа: "Музыка Коттон-Клаба", к 110-летию Джимми Лансфорда'
+- id: 31739
+  date: '2012-12-25'
+  time: '18:00'
+  band_name: Большой Джазовый Оркестр (БДО) п/у Петра Востокова и Дарья Антонова (вокал).
+    Благотворительный концерт
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа "Щелкунчик": музыка П.И. Чайковского, Д. Эллингтона, Б. Стрэйхорна'
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 31745
+  date: '2012-12-08'
+  time: '19:00'
+  band_name: 'XVIII фестиваль вокального джаза "Джазовые голоса": Зения Макферсон
+    (США) и трио Олега Бутмана, Полина Касьянова (Россия) и трио Djangoband, Наталья
+    Айвазян и трио Евгения Гречищева, Александра Авакиви с аккомпанементом н.а.РФ
+    Алексея Кузнецова'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 32706
+  date: '2012-12-25'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 350 руб.
+  comments: 'Программа "Щелкунчик": музыка П.И. Чайковского, Д. Эллингтона, Б. Стрэйхорна'
+- id: 32749
+  date: '2012-12-24'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 300 руб.

@@ -1,0 +1,21 @@
+id: 568
+token: gotinaza
+name: Gotinaza
+alive: true
+address: Мерзляковский переулок, д.2
+subway: Арбатская
+phone: +7(495)690-69-08
+city_id: 1
+comments: Въезд с Нового Арбата под арку
+clips:
+- id: 3215
+  type: weblink
+  url: http://gotinaza.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3216
+  type: photo
+  url: gotinaza.jpg
+  sort_order: 0
+  width: 465
+  height: 256

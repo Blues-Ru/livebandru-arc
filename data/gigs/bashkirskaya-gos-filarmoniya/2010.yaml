@@ -1,0 +1,32 @@
+- id: 13987
+  date: '2010-12-13'
+  band_name: 'The Beatles глазами блюза: Blues Cousins, Михаил "Петрович" Соколов,
+    Михаил Журавлев'
+  club_id: 252
+  club_name: Башкирская Гос. Филармония
+  club_token: bashkirskaya-gos-filarmoniya
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 12819
+  date: '2010-09-09'
+  time: '19:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 252
+  club_name: Башкирская Гос. Филармония
+  club_token: bashkirskaya-gos-filarmoniya
+- id: 12820
+  date: '2010-09-10'
+  time: '19:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 252
+  club_name: Башкирская Гос. Филармония
+  club_token: bashkirskaya-gos-filarmoniya

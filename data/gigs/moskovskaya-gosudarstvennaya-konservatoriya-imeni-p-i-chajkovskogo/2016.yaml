@@ -1,0 +1,13 @@
+- id: 55553
+  date: '2016-01-03'
+  time: '14:00'
+  band_name: 'Большой Джазовый Оркестр п/у Петра Востокова: сюита "Щелкунчик" (музыка
+    Эллингтона, Стрэйхорна, Чайковского)'
+  club_id: 628
+  club_name: Московская государственная консерватория имени П.И.Чайковского
+  club_token: moskovskaya-gosudarstvennaya-konservatoriya-imeni-p-i-chajkovskogo
+  price: 400 - 1500 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo

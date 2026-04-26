@@ -1,0 +1,301 @@
+- id: 16660
+  date: '2011-03-24'
+  time: '20:00'
+  band_id: 127
+  band_name: D'Black
+  band_token: d-black
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16662
+  date: '2011-04-16'
+  time: '21:00'
+  band_name: Слоны (С.-Пб.)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16663
+  date: '2011-04-02'
+  time: '21:00'
+  band_name: Dream West
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16664
+  date: '2011-03-26'
+  time: '21:00'
+  band_name: Spiritual Seasons
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16684
+  date: '2011-05-02'
+  time: '21:00'
+  band_name: ДарайДа (С.-Пб.)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16685
+  date: '2011-05-07'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16686
+  date: '2011-05-21'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16661
+  date: '2011-04-09'
+  time: '21:00'
+  band_name: Max Tavrichesky
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 16647
+  date: '2011-03-19'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16704
+  date: '2011-04-11'
+  time: '20:00'
+  band_name: Михаил Башаков (С.-Пб.)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16705
+  date: '2011-04-10'
+  time: '20:00'
+  band_name: Антитела (Киев)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16858
+  date: '2011-05-28'
+  time: '21:00'
+  band_name: Майла Бэнд (Воронеж)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 16859
+  date: '2011-05-14'
+  time: '21:00'
+  band_name: Махагон (Кишинев)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 17437
+  date: '2011-05-05'
+  time: '20:00'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 20011
+  date: '2011-06-11'
+  time: '21:00'
+  band_name: Max Tavrichesky
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 50 грн.
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 21770
+  date: '2011-09-24'
+  time: '21:00'
+  band_name: Dream West (Харьков)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+  comments: блюз, рок-н-ролл
+- id: 21772
+  date: '2011-09-25'
+  time: '20:00'
+  band_name: Бригадный подряд
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 21773
+  date: '2011-10-08'
+  time: '21:00'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 21774
+  date: '2011-10-15'
+  time: '21:00'
+  band_id: 106
+  band_name: Вадим Степанцов и Бахыт Компот
+  band_token: stepantsov
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 100 грн.
+  comments: (без Б-К), соло
+- id: 21775
+  date: '2011-10-22'
+  time: '21:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 21777
+  date: '2011-11-05'
+  time: '21:00'
+  band_name: Майла Бэнд (Воронеж)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 21779
+  date: '2011-11-19'
+  time: '21:00'
+  band_name: Пять пенсов (Белгород)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+  comments: ритм-н-блюз, рок-н-ролл
+- id: 21765
+  date: '2011-09-15'
+  time: '21:00'
+  band_name: Дмитрий Варшавский
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 150 грн.
+- id: 21768
+  date: '2011-09-18'
+  time: '20:00'
+  band_name: Олег Универсал
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+- id: 21769
+  date: '2011-09-21'
+  time: '20:00'
+  band_id: 354
+  band_name: Карл Хламкин и ОгнеОпаснОркестр
+  band_token: hlamkin
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 50 грн.
+- id: 21771
+  date: '2011-10-01'
+  time: '21:00'
+  band_name: Слоны (С.-Пб.)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 21776
+  date: '2011-10-29'
+  time: '21:00'
+  band_name: Spiritual Seasons
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+  comments: Irish & Celtic Dance before Halloween
+- id: 21778
+  date: '2011-11-12'
+  time: '21:00'
+  band_name: In Team (Киев)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 21766
+  date: '2011-09-16'
+  time: '23:00'
+  band_name: Дмитрий Варшавский
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 150 грн.
+- id: 21767
+  date: '2011-09-17'
+  time: '21:00'
+  band_name: Cuibul (Кишинев)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 22465
+  date: '2011-11-26'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 100 грн.
+- id: 22466
+  date: '2011-12-10'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 22468
+  date: '2011-12-03'
+  time: '21:00'
+  band_name: Motorikin Blues Band (Донецк)
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+  comments: блюз, рол-н-ролл
+- id: 22469
+  date: '2011-12-17'
+  time: '21:00'
+  band_id: 377
+  band_name: Deluxe Blues Band
+  band_token: deluxe-blues-band
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 70 грн.
+- id: 22657
+  date: '2011-11-24'
+  time: '20:00'
+  band_name: Олег Универсал, человек-оркестр
+  club_id: 417
+  club_name: Дикий Z (Одесса)
+  club_token: dikiy-z
+  price: 40 грн.

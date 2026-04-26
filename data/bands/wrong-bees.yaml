@@ -1,0 +1,126 @@
+id: 540
+token: wrong-bees
+name: Неправильные Пчелы
+aliases: Wrong Bees Jazz Band
+alive: true
+url: http://wrong-bees.ru/
+city_id: 1
+genre_id: 7
+secondary_genre_id: 37
+clips:
+- id: 2604
+  type: mp3
+  url: wrong-bees.mp3
+  name: Born To Play
+  sort_order: 99
+- id: 2617
+  type: mp3
+  url: wrong-bees-Say-Your-Name.mp3
+  name: Say Your Name
+  sort_order: 199
+- id: 2616
+  type: mp3
+  url: wrong-bees-Caravan-Live.mp3
+  name: Caravan (запись с концерта)
+  sort_order: 50
+- id: 2595
+  type: weblink
+  url: http://wrong-bees.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2596
+  type: weblink
+  url: http://vk.com/wrong_bees
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2597
+  type: weblink
+  url: http://www.myspace.com/wrongbees
+  name: Страница на MySpace
+  sort_order: 200
+- id: 3110
+  type: mp3
+  url: wrong-bees-2.mp3
+  name: Валенки
+  sort_order: 19
+- id: 3194
+  type: mp3
+  url: wrong-bees-4.mp3
+  name: Остров
+  sort_order: 38
+- id: 3111
+  type: mp3
+  url: wrong-bees-3.mp3
+  name: Диксиленд
+  sort_order: 25
+- id: 4867
+  type: mp3
+  url: wrong-bees-6.mp3
+  name: Temptation (Tom Waits's Cover, Live)
+  sort_order: 7
+- id: 4870
+  type: weblink
+  url: https://www.facebook.com/WrongBees
+  name: Страница на FaceBook
+  sort_order: 150
+- id: 4866
+  type: mp3
+  url: wrong-bees-5.mp3
+  name: I Idolize You (Live)
+  sort_order: 13
+- id: 4976
+  type: mp3
+  url: Sunny.mp3
+  name: Sunny (live)
+  sort_order: 0
+- id: 6819
+  type: youtube
+  url: http://www.youtube.com/?v=1HbztJRtWyc
+  name: Mercy
+  comments: '5.04.2015
+
+    Выступление на фестивале C-Jam Vesna
+
+    http://vk.com/wrong_bees'
+  sort_order: 99
+- id: 6820
+  type: youtube
+  url: http://www.youtube.com/?v=FTeq4LGYZos
+  name: Digging On James Brown
+  comments: 'Группа «Неправильные Пчёлы». Wrong-bees
+
+    Digging On James Bown
+
+    Концерт в ТК "Галерея".
+
+    Сайт группы: http://wrong-bees.ru
+
+    Теннисный клуб ТК "Галерея".  www.gltennis.ru
+
+    Съемка: Kelmengul и Мария Сурина. '
+  sort_order: 199
+- id: 6821
+  type: photo
+  url: wrong-bees.jpg
+  name: Неправильные Пчелы
+  sort_order: 0
+  width: 3508
+  height: 4961
+- id: 7480
+  type: youtube
+  url: https://www.youtube.com/watch?v=Ca9ex6lVWjU
+  name: Неправильные Пчелы - Концерт
+  sort_order: 0
+reviews:
+- id: 224
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Неправильные Пчелы - музыкальный коллектив, играющий танцевальный джаз. Ансамбль
+    обладает неповторимым звучанием, сочетающим в себе драйв и позитивное настроение
+    фанка и соула, мощную энергетику ритм-н-блюза, стильный лаунж и проникновенные
+    баллады. Сейчас группа представляет фанковую программу, в которой есть и авторская
+    музыка, и композиции икон этого стиля, и неожиданные прочтения мировых хитов.
+  verified: true
+  created: '2011-09-20'
+  is_press_release: true

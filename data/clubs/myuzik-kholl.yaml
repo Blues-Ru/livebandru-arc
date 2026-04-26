@@ -1,0 +1,14 @@
+id: 536
+token: myuzik-kholl
+name: Мюзик-Холл
+alive: true
+address: Александровский парк, д. 4
+subway: Горьковская
+phone: +7(812)232-9201
+city_id: 2
+clips:
+- id: 2875
+  type: weblink
+  url: http://www.musichallspb.ru
+  name: Официальный сайт
+  sort_order: 0

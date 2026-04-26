@@ -1,0 +1,15 @@
+id: 879
+token: white-night-music-joint
+name: White Night Music Joint
+aliases: Ресторан White Night
+alive: true
+address: набережная реки Фонтанки, 59
+subway: Спасская, Сенная площадь, Садовая, Звенигородская
+phone: +7(812)313-3111
+city_id: 2
+clips:
+- id: 8393
+  type: weblink
+  url: http://whitenight.spb.ru/
+  name: Официальный сайт
+  sort_order: 0

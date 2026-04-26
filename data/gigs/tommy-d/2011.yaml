@@ -1,0 +1,41 @@
+- id: 23298
+  date: '2011-12-22'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+- id: 23295
+  date: '2011-12-01'
+  time: '20:30'
+  band_name: A'cappella ExpreSSS
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+  extra_bands:
+  - id: 352
+    name: Акапелла Экспресс
+    token: acapella-express
+- id: 23296
+  date: '2011-12-10'
+  time: '20:30'
+  band_name: Джейми Дэвис (Jamie Davis, США)
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+- id: 23297
+  date: '2011-12-18'
+  time: '20:30'
+  band_name: Андрей Макаревич с программой "Джазовая Трансформация"
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d
+- id: 24016
+  date: '2011-12-24'
+  time: '20:30'
+  band_name: Александр Ф. Скляр
+  club_id: 535
+  club_name: Tommy D
+  club_token: tommy-d

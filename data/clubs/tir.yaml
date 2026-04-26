@@ -1,0 +1,23 @@
+id: 292
+token: tir
+name: Тир
+alive: true
+address: Свердлова, 52
+phone: (8112) 62-10-54
+city_id: 60
+clips:
+- id: 891
+  type: weblink
+  url: http://www.myspace.com/tirclub
+  name: Страница на MySpace
+  sort_order: 99
+- id: 892
+  type: weblink
+  url: http://www.tirclub.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 893
+  type: weblink
+  url: http://vk.com/tirclub
+  name: Страница ВКонтакте
+  sort_order: 299

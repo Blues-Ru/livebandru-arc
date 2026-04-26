@@ -1,0 +1,59 @@
+- id: 13640
+  date: '2010-11-13'
+  band_name: Betty Boop Lovers, The Types
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+  extra_bands:
+  - id: 276
+    name: Betty Boop Lovers
+    token: betty-boop-lovers
+- id: 13651
+  date: '2010-11-14'
+  band_name: Dans Ramblers, Blast
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+  extra_bands:
+  - id: 86
+    name: Dans Ramblers
+    token: dans-ramblers
+  - id: 104
+    name: Blast
+    token: blast
+- id: 14080
+  date: '2010-12-12'
+  band_name: Akvarel, Blast
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+  extra_bands:
+  - id: 104
+    name: Blast
+    token: blast
+- id: 14189
+  date: '2010-12-25'
+  band_name: Beat Devils, The Jet-Set Orchestra
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+- id: 14193
+  date: '2010-12-26'
+  band_name: The White Trainers Community, Blast
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+  extra_bands:
+  - id: 104
+    name: Blast
+    token: blast
+- id: 14146
+  date: '2010-12-19'
+  band_name: October Sun, Blast
+  club_id: 21
+  club_name: Кризис Жанра
+  club_token: krizis-zhanra
+  extra_bands:
+  - id: 104
+    name: Blast
+    token: blast

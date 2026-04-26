@@ -1,0 +1,46 @@
+- id: 47099
+  date: '2014-10-18'
+  time: '19:00'
+  band_name: 'Открытие проекта "Джаз в Доме Кино": Аркадий Шилклопер и его квартет,
+    Сергей Манукян Band, Биг-Бенд Георгия Гараняна, Маримба Плюс, Алексей Круглов
+    и Круглый Бенд, Александр Довгополый Project, Djangoband, Эдуард Аханов, Humanoid
+    Opera, Владимир Капырин и его трио, Сергей Поспелов и Music Factory, Ксения Коламбацкая,
+    Тим Хагба Band, Ольга Синяева Band'
+  club_id: 788
+  club_name: Джаз в Доме Кино
+  club_token: dzhaz-v-dome-kino
+  comments: Карен Шахназаров, Александр Панкратов-Черный
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 47104
+  date: '2014-12-20'
+  time: '19:00'
+  band_name: Сергей Манукян, Феликс Сабаль-Лекко (ударные, Франция), Нейл Гестнберг
+    (саксофон, Шотландия) и Андрей Бондарчук (гитара) с премьерой программы "Jazz
+    together"
+  club_id: 788
+  club_name: Джаз в Доме Кино
+  club_token: dzhaz-v-dome-kino
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 47105
+  date: '2014-11-22'
+  time: '19:00'
+  band_name: Джейми Дэвис (вокал) и биг-бэнд Гараняна
+  club_id: 788
+  club_name: Джаз в Доме Кино
+  club_token: dzhaz-v-dome-kino
+- id: 47106
+  date: '2014-11-21'
+  time: '19:00'
+  band_name: Mezzoforte
+  club_id: 788
+  club_name: Джаз в Доме Кино
+  club_token: dzhaz-v-dome-kino

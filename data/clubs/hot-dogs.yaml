@@ -1,0 +1,17 @@
+id: 501
+token: hot-dogs
+name: Hot Dog's
+aliases: 'Hot Dogs
+
+  Hot Dog''s Bar'
+alive: true
+address: Земляной вал, 26
+subway: Курская, Чкаловская
+phone: (495) 917-01-50
+city_id: 1
+clips:
+- id: 2618
+  type: weblink
+  url: http://www.hotdogsbar.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,15 @@
+id: 889
+token: kontora
+name: Kontora
+aliases: Kontora Grill Pub
+alive: true
+address: Варсонофьевский пер., 1
+subway: Кузнецкий мост, Лубянка
+phone: (499) 707-22-69
+city_id: 1
+clips:
+- id: 8840
+  type: weblink
+  url: http://kontora.club
+  name: Официальный сайт
+  sort_order: 0

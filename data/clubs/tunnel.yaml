@@ -1,0 +1,14 @@
+id: 426
+token: tunnel
+name: The Tunnel
+alive: true
+address: Лубянский пр-д, 7
+subway: Лубянка
+phone: (495) 545-43-99
+city_id: 1
+clips:
+- id: 2000
+  type: weblink
+  url: http://www.thetunnel.ru/
+  name: Официальный сайт
+  sort_order: 0

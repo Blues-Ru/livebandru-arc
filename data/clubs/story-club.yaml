@@ -1,0 +1,14 @@
+id: 434
+token: story-club
+name: Story Club
+alive: false
+address: Старая Басманная, 20
+subway: Бауманская
+phone: (499) 261-61-74
+city_id: 1
+clips:
+- id: 2023
+  type: weblink
+  url: http://www.story-club.ru
+  name: Официальный сайт
+  sort_order: 0

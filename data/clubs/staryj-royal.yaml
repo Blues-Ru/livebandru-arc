@@ -1,0 +1,20 @@
+id: 531
+token: staryj-royal
+name: Старый рояль
+alive: true
+address: пр. Ямашева, 37Б
+subway: Козья Слобода (стр.)
+phone: +7(843)523-7788
+city_id: 10
+clips:
+- id: 2822
+  type: weblink
+  url: http://www.starroyal.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2823
+  type: photo
+  url: staryj-royal.jpg
+  sort_order: 0
+  width: 400
+  height: 533

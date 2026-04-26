@@ -1,0 +1,17 @@
+id: 648
+token: nsk-planetary
+name: Новосибирский Планетарий
+alive: true
+address: Ключ-Камышенское плато, 1/1
+city_id: 19
+clips:
+- id: 3853
+  type: weblink
+  url: http://nebo-nsk.nios.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 3854
+  type: weblink
+  url: http://vk.com/nebonsk
+  name: Страница ВКонтакте
+  sort_order: 100

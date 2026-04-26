@@ -1,0 +1,24 @@
+id: 585
+token: hitrye-ludi
+name: Хитрые Люди
+alive: true
+address: 4-й Сыромятнический пер., 1, стр. 10
+subway: Курская, Чкаловская
+phone: (495) 971-9918
+city_id: 1
+comments: Винзавод
+clips:
+- id: 3322
+  type: weblink
+  url: http://www.facebook.com/hitrye
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 3323
+  type: weblink
+  url: http://vk.com/hitrye_lyudi
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 3324
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

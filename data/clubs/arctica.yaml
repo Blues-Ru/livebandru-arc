@@ -1,0 +1,19 @@
+id: 341
+token: arctica
+name: Арктика
+alive: false
+address: Беринга, 38
+subway: Приморская
+phone: (812) 337-32-77
+city_id: 2
+clips:
+- id: 1239
+  type: weblink
+  url: http://www.arcticaclub.spb.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 1240
+  type: weblink
+  url: http://vk.com/club293371
+  name: Страница ВКонтакте
+  sort_order: 199

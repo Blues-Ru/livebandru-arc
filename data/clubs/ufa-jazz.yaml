@@ -1,0 +1,25 @@
+id: 243
+token: ufa-jazz
+name: Уфимский джаз-клуб
+alive: true
+address: 50 лет СССР, 8
+phone: (347) 223-01-00
+city_id: 37
+clips:
+- id: 559
+  type: weblink
+  url: http://www.jazzclubufa.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 560
+  type: photo
+  url: ufa-jazz.jpg
+  name: Уфимский джаз-клуб
+  sort_order: 0
+  width: 600
+  height: 400
+- id: 1680
+  type: weblink
+  url: http://vk.com/club1176361
+  name: Страница ВКонтакте
+  sort_order: 100

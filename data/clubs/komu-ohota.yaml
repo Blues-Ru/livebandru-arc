@@ -1,0 +1,61 @@
+id: 369
+token: komu-ohota
+name: Кому Охота
+alive: true
+address: Б.Козихинский, 9/12
+subway: Тверская, Пушкинская
+phone: (495) 691-85-34
+city_id: 1
+comments: Вход со стороны Б.Козихинского переулка.
+clips:
+- id: 1660
+  type: photo
+  url: komu-ohota-4.jpg
+  name: Das ist band
+  sort_order: 399
+  width: 2048
+  height: 1536
+- id: 1403
+  type: weblink
+  url: http://www.komu-ohota.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1658
+  type: photo
+  url: komu-ohota-2.jpg
+  name: Алексей Аграновский
+  sort_order: 199
+  width: 3264
+  height: 2448
+- id: 1659
+  type: photo
+  url: komu-ohota-3.jpg
+  name: Cool&Jazzy
+  sort_order: 299
+  width: 3264
+  height: 2448
+- id: 1657
+  type: photo
+  url: komu-ohota.jpg
+  name: Алина Ростоцкая
+  comments: Концерт 28 января
+  sort_order: 99
+  width: 1300
+  height: 867
+reviews:
+- id: 105
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Ресторан-клуб Кому Охота
+  text: 'Ресторан-клуб "Кому Охота" находится в центре Москвы,недалеко от Патриарших
+    прудов. Уютный зал ресторана подходит как для частного банкета, так и для корпоративного
+    праздника. Vip-зал очень удобен и для деловой встречи и для небольшого банкета.
+    В ресторане имеется световое и звуковое оборудование для выступления музыкантов.
+    Любители спорта могут посмотреть прямые трансляции за кружкой домашнего пива.
+    Каждую пятницу и субботу проходят блюзовые и джазовые концерты, выступления музыкантов
+    различных направлений, кулинарные шоу. Адрес: г.Москва, Б.Козихинский пер.д.9\12
+    Часы работы: с 11.00 до 23.00 Телефон: +7 (495) 691-85-34'
+  verified: true
+  created: '2011-02-13'
+  is_press_release: true

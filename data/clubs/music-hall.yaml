@@ -1,0 +1,13 @@
+id: 631
+token: music-hall
+name: Music Hall
+alive: true
+address: ул. Белинского, 61
+phone: +7(831)217-16-70
+city_id: 25
+clips:
+- id: 3725
+  type: weblink
+  url: http://musichall-nn.ru/
+  name: Официальный сайт
+  sort_order: 0

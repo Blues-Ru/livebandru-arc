@@ -1,0 +1,181 @@
+- id: 33211
+  date: '2013-01-25'
+  time: '21:30'
+  band_name: Stone Shades
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33212
+  date: '2013-01-26'
+  time: '21:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33185
+  date: '2013-02-08'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33757
+  date: '2013-02-09'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33760
+  date: '2013-02-14'
+  time: '21:00'
+  band_name: Elena Sherry+Honky Tonk Trio
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+  extra_bands:
+  - id: 551
+    name: Елена Шерри
+    token: elena-sherry
+- id: 33761
+  date: '2013-02-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33762
+  date: '2013-02-16'
+  time: '21:00'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33763
+  date: '2013-02-22'
+  time: '21:00'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 33764
+  date: '2013-02-23'
+  time: '21:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34557
+  date: '2013-03-02'
+  time: '21:00'
+  band_name: Stone Shades
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34558
+  date: '2013-03-08'
+  time: '21:00'
+  band_name: 5 сторон
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34563
+  date: '2013-03-23'
+  time: '21:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34556
+  date: '2013-03-01'
+  time: '21:00'
+  band_name: Raw Cats'88
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34559
+  date: '2013-03-09'
+  time: '21:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 34560
+  date: '2013-03-15'
+  time: '21:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34561
+  date: '2013-03-16'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34562
+  date: '2013-03-22'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34564
+  date: '2013-03-29'
+  time: '21:00'
+  band_name: 100 процентов
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 34565
+  date: '2013-03-30'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 35257
+  date: '2013-04-05'
+  time: '21:00'
+  band_name: Плеер Бит
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub
+- id: 35258
+  date: '2013-04-06'
+  time: '21:00'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 587
+  club_name: Simple Pub
+  club_token: simple-pub

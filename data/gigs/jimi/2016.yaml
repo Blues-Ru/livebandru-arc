@@ -1,0 +1,35 @@
+- id: 57553
+  date: '2016-04-27'
+  time: '20:00'
+  band_name: Gwyn Ashton + Rollo Markee
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: 600-1500
+  extra_bands:
+  - id: 648
+    name: Rollo Markee
+    token: rollo-markee
+  - id: 669
+    name: Gwyn Ashton
+    token: gwyn-ashton
+- id: 60986
+  date: '2016-10-05'
+  time: '20:00'
+  band_id: 670
+  band_name: Will Wilde
+  band_token: will-wilde
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: 800-1000
+- id: 61515
+  date: '2016-11-03'
+  time: '23:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: 800-1000

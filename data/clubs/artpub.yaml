@@ -1,0 +1,26 @@
+id: 226
+token: artpub
+name: Арт П.А.Б
+aliases: 'НИИ Куда
+
+  Арт ПАБ'
+alive: true
+address: Терешковой, 12а
+phone: (913) 773 86 11
+city_id: 19
+clips:
+- id: 532
+  type: weblink
+  url: http://www.artpub.club
+  name: Официальный сайт
+  sort_order: 0
+- id: 536
+  type: weblink
+  url: https://vk.com/artpubnatereshkovoy
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 8282
+  type: weblink
+  url: https://www.facebook.com/groups/art.pab/
+  name: Страница на FaceBook
+  sort_order: 200

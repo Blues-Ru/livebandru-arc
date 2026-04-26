@@ -1,0 +1,23 @@
+id: 221
+token: kosmonavt
+name: Космонавт
+aliases: Киноконцертный зал "Космонавт"
+alive: true
+address: Бронницкая, 24
+subway: Технологический институт
+phone: (812) 922-1300
+city_id: 2
+clips:
+- id: 524
+  type: weblink
+  url: http://www.cosmonavt.su/
+  name: Официальный сайт
+  sort_order: 0
+- id: 526
+  type: rss
+  url: http://twitter.com/statuses/user_timeline/165557221.rss
+  sort_order: 199
+- id: 525
+  type: rss
+  url: http://kosmonavt-su.livejournal.com/data/rss
+  sort_order: 99

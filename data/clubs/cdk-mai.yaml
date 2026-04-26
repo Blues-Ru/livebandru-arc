@@ -1,0 +1,14 @@
+id: 490
+token: cdk-mai
+name: CDK МАИ
+alive: true
+address: ул. Дубосековская, д.4а/1, ДК МАИ
+subway: Войковская, Сокол
+phone: +7 (495) 223-3226 - билеты
+city_id: 1
+clips:
+- id: 2475
+  type: weblink
+  url: http://www.cdk.ru/
+  name: Официальный сайт
+  sort_order: 0

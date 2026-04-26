@@ -1,0 +1,13 @@
+id: 286
+token: planetango
+name: Planetango
+alive: true
+address: Хохловский пер., 7
+subway: Китай-город
+city_id: 1
+clips:
+- id: 830
+  type: weblink
+  url: http://www.planetango.ru
+  name: Официальный сайт
+  sort_order: 99

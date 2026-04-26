@@ -1,0 +1,15 @@
+id: 804
+token: dzhaz-klub-kino
+name: Джаз-клуб "Кино"
+alive: true
+address: Олимпийский проспект, 16
+subway: Проспект Мира
+phone: (495) 937-78-71, (495) 937-78-72, (495) 974-25-33
+city_id: 1
+comments: Цокольный этаж спорткомплекса "Олимпийский"
+clips:
+- id: 6672
+  type: weblink
+  url: http://www.kino-club.ru/
+  name: Официальный сайт
+  sort_order: 0

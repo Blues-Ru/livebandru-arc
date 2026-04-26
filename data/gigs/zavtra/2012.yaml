@@ -1,0 +1,32 @@
+- id: 24557
+  date: '2012-01-08'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 487
+  club_name: ZAVTRA
+  club_token: zavtra
+- id: 26336
+  date: '2012-03-03'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 487
+  club_name: ZAVTRA
+  club_token: zavtra
+  price: 300 руб.
+- id: 30432
+  date: '2012-10-05'
+  time: '21:00'
+  band_name: Большой Джазовый Оркестр (БДО) п/у Петра Востокова и Дарья Антонова (вокал),
+    при уч. трио Андрея Зимовца (Санкт-Петербург)
+  club_id: 487
+  club_name: ZAVTRA
+  club_token: zavtra
+  price: 350 руб.
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo

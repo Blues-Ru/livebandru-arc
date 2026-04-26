@@ -1,0 +1,15 @@
+id: 155
+token: jazzman
+name: Джазман
+aliases: Jazzman
+alive: true
+address: ул Миклухо-Маклая, 28Б
+subway: Беляево
+phone: +7(985) 9999-720
+city_id: 1
+clips:
+- id: 102
+  type: weblink
+  url: http://www.jazz-man.ru/
+  name: Официальный сайт
+  sort_order: 0

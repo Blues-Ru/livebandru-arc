@@ -1,0 +1,14 @@
+id: 763
+token: kinoteatr-avrora
+name: Кинотеатр "Аврора"
+alive: true
+address: Невский проспект, 60
+subway: Гостиный двор
+phone: +7(812)315-52-54
+city_id: 2
+clips:
+- id: 5485
+  type: weblink
+  url: http://www.avrora.spb.ru
+  name: Официальный сайт
+  sort_order: 0

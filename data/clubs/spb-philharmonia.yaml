@@ -1,0 +1,15 @@
+id: 364
+token: spb-philharmonia
+name: Санкт-Петербургская Акад. Филармония
+aliases: Филармония им. Д.Д.Шостаковича
+alive: true
+address: ул. Михайловская, 2
+subway: Невский Проспект
+phone: (812) 710-42-57
+city_id: 2
+clips:
+- id: 1370
+  type: weblink
+  url: http://www.philharmonia.spb.ru
+  name: Официальный сайт
+  sort_order: 0

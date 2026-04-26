@@ -1,0 +1,23 @@
+id: 283
+token: savoy
+name: Оркестр Савой
+alive: true
+city_id: 19
+genre_id: 3
+musicians:
+- name: Юрик (Юрий Лоскутов)
+  instruments: баян, вокал
+- name: Костя
+  instruments: гитара, бас-гитара, бэк-вокал
+- name: Димыч
+  instruments: бас-гитара, колбаса
+- name: Саня (Александр Волчков)
+  instruments: барабаны
+- name: Слава
+  instruments: перкуссия
+- name: Коля (Николай Иванов)
+  instruments: банджо, чаранго, гитара, бэк-вокал
+- name: Валера
+  instruments: тромбон
+- name: Антон Пунзырев
+  instruments: труба

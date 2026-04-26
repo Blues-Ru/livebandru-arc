@@ -1,0 +1,14 @@
+id: 630
+token: dom-kompozitorov-msk
+name: Московский Дом Композиторов
+alive: true
+address: Брюсов переулок, дом 8/10, стр. 2
+subway: Охотный ряд, Пушкинская, Чеховская
+phone: +7(495)629-13-65
+city_id: 1
+clips:
+- id: 3650
+  type: weblink
+  url: http://www.house-composers.ru
+  name: Официальный сайт
+  sort_order: 0

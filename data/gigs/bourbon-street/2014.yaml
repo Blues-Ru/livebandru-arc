@@ -1,0 +1,374 @@
+- id: 41354
+  date: '2014-01-17'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 41570
+  date: '2014-01-22'
+  time: '21:30'
+  band_name: Dr. Nick, винилка Black Sabbath
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41586
+  date: '2014-01-29'
+  time: '21:30'
+  band_name: Dr. Nick, винилка Rolling Stones
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41607
+  date: '2014-02-05'
+  time: '21:30'
+  band_name: Dr. Nick, винилка Traveling Wilburys
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41608
+  date: '2014-02-12'
+  time: '21:30'
+  band_name: Dr. Nick, винилка Tom Petty
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41609
+  date: '2014-02-19'
+  time: '21:30'
+  band_name: Dr. Nick, винилка Electric Light Orchestra
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41610
+  date: '2014-02-26'
+  time: '21:30'
+  band_name: Dr. Nick, винилка George Harrison
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 41592
+  date: '2014-02-07'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 42225
+  date: '2014-02-21'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 42834
+  date: '2014-03-19'
+  time: '21:00'
+  band_name: Dr. Nick, винилка Eric Clapton
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 42840
+  date: '2014-03-26'
+  time: '21:00'
+  band_name: Dr. Nick, винилка Aretha Franklin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 44083
+  date: '2014-05-16'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44087
+  date: '2014-05-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44092
+  date: '2014-05-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44190
+  date: '2014-06-04'
+  time: '21:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44202
+  date: '2014-06-11'
+  time: '21:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44203
+  date: '2014-06-18'
+  time: '21:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44204
+  date: '2014-06-25'
+  time: '21:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 44684
+  date: '2014-06-13'
+  time: '23:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 45269
+  date: '2014-08-09'
+  time: '23:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 46528
+  date: '2014-09-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46277
+  date: '2014-08-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46280
+  date: '2014-09-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46540
+  date: '2014-10-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46541
+  date: '2014-10-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46532
+  date: '2014-10-01'
+  time: '21:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46539
+  date: '2014-10-08'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 46542
+  date: '2014-10-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 47546
+  date: '2014-11-14'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 47551
+  date: '2014-11-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 47552
+  date: '2014-11-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 47554
+  date: '2014-11-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 47555
+  date: '2014-11-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 48142
+  date: '2014-12-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 48143
+  date: '2014-12-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 48144
+  date: '2014-12-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный

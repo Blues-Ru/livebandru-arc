@@ -1,0 +1,11 @@
+id: 314
+token: lds-sibir
+name: ЛДС Сибирь
+alive: true
+address: Б. Хмельницкого, 23
+city_id: 19
+clips:
+- id: 995
+  type: weblink
+  url: http://www.hcsibir.ru/arena.php
+  sort_order: 99

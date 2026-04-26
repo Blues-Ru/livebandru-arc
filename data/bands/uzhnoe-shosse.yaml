@@ -1,0 +1,13 @@
+id: 163
+token: uzhnoe-shosse
+name: Южное Шоссе
+alive: true
+url: http://www.shosse.ucoz.ru/
+city_id: 25
+genre_id: 3
+clips:
+- id: 301
+  type: weblink
+  url: http://www.shosse.ucoz.ru/
+  name: Официальный сайт
+  sort_order: 0

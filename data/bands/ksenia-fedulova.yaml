@@ -1,0 +1,64 @@
+id: 438
+token: ksenia-fedulova
+name: Ксения Федулова
+aliases: FeduLOVE Band
+alive: true
+url: http://www.fedulove.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 1
+musicians:
+- name: Ксения Федулова
+  instruments: гитара, вокал
+- name: Андрей Филиппов
+  instruments: барабаны
+- name: Павел Купчик
+  instruments: бас-гитара
+- name: Николай Григорьев
+  instruments: ритм-гитара
+references:
+- id: 164
+  name: Михаил Кистанов и Blues'n'Roads
+  token: blues-n-roads
+clips:
+- id: 2083
+  type: weblink
+  url: http://www.fedulove.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2086
+  type: youtube
+  url: http://www.youtube.com/?v=nlgRIRW4lkY
+  name: Sweet Home Chicago
+  sort_order: 199
+- id: 2085
+  type: youtube
+  url: http://www.youtube.com/?v=3U87amSmFlU
+  name: Let's twist again
+  comments: клуб LEE NEE BOO
+  sort_order: 99
+- id: 3113
+  type: photo
+  url: ksenia-fedulova-2.jpg
+  sort_order: 0
+  width: 604
+  height: 404
+- id: 3114
+  type: photo
+  url: ksenia-fedulova-4
+  sort_order: 50
+reviews:
+- id: 140
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Ксения Федулова - молодая, харизматичная певица и гитаристка, относительно
+    недавно появившаяся на блюзовых сценах Москвы. Не торопясь, но очень уверенно
+    она завоевывает сердца тех, кто неравнодушен к сильному вокалу и позитивной энергетике.
+    Плюс ко всему эта дама недурно играет на гитаре и спокойно себя чувствует на одной
+    сцене с корифеями Российской блюзовой сцены. Вообщем, всех любителей хорошего
+    блюза и рок-н-ролла милости просим на концерты. А тех, кто считает что блюз -
+    дело неженское, тем более ждем с нетерпением, дабы развеять устоявшееся мнение.
+  verified: true
+  created: '2011-05-01'
+  is_press_release: true

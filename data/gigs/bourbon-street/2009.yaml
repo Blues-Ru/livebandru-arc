@@ -1,0 +1,555 @@
+- id: 9808
+  date: '2009-01-06'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 9880
+  date: '2009-01-17'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10011
+  date: '2009-02-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 34
+    name: J.A.M.
+    token: jam
+- id: 10025
+  date: '2009-02-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 34
+    name: J.A.M.
+    token: jam
+- id: 10033
+  date: '2009-02-28'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10058
+  date: '2009-03-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10128
+  date: '2009-03-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10221
+  date: '2009-04-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10274
+  date: '2009-04-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10289
+  date: '2009-04-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10399
+  date: '2009-05-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10397
+  date: '2009-05-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10441
+  date: '2009-06-03'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 10443
+  date: '2009-06-17'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 10453
+  date: '2009-06-09'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10514
+  date: '2009-06-16'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10531
+  date: '2009-06-23'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 10543
+  date: '2009-06-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10585
+  date: '2009-07-02'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10586
+  date: '2009-07-07'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10587
+  date: '2009-07-08'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10588
+  date: '2009-07-09'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10589
+  date: '2009-07-14'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10590
+  date: '2009-07-15'
+  time: '21:00'
+  band_name: Юрий Каверкин и Дмитрий Честных
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10591
+  date: '2009-07-16'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10656
+  date: '2009-07-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10657
+  date: '2009-07-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10727
+  date: '2009-08-04'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10729
+  date: '2009-08-07'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10767
+  date: '2009-08-18'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10761
+  date: '2009-08-11'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10800
+  date: '2009-09-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10807
+  date: '2009-09-18'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 10813
+  date: '2009-09-08'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10882
+  date: '2009-09-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10926
+  date: '2009-09-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10958
+  date: '2009-09-26'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10959
+  date: '2009-09-29'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10964
+  date: '2009-10-03'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 10968
+  date: '2009-10-23'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 11112
+  date: '2009-10-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11115
+  date: '2009-10-29'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11154
+  date: '2009-11-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11159
+  date: '2009-11-05'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11160
+  date: '2009-11-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11161
+  date: '2009-11-11'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11162
+  date: '2009-11-12'
+  time: '22:00'
+  band_id: 35
+  band_name: Борис Булкин Бэнд
+  band_token: boris-bulkin
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11239
+  date: '2009-11-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11242
+  date: '2009-11-24'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11247
+  date: '2009-12-01'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11249
+  date: '2009-11-18'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 11309
+  date: '2009-12-08'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11312
+  date: '2009-12-12'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 11318
+  date: '2009-12-15'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11331
+  date: '2009-12-22'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 11334
+  date: '2009-12-16'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street

@@ -1,0 +1,29 @@
+id: 412
+token: pipl
+name: Pipl
+alive: true
+address: Дербеневская, 20
+subway: Павелецкая
+phone: (495) 518-7972
+city_id: 1
+comments: вход с Жукова пер.
+clips:
+- id: 1826
+  type: weblink
+  url: http://www.facebook.com/pages/PPL/137148126333792
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 1823
+  type: weblink
+  url: http://piplclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1824
+  type: weblink
+  url: http://vk.com/club18175370
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1825
+  type: rss
+  url: http://piplclub.livejournal.com/data/rss
+  sort_order: 99

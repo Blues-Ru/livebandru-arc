@@ -1,0 +1,33 @@
+id: 298
+token: earth-sign
+name: The Earth Sign
+alive: true
+url: http://www.myspace.com/theearthsign
+city_id: 15
+genre_id: 1
+musicians:
+- name: Карен Соурей
+  instruments: гитара, вокал
+- name: Маша Белашкова
+  instruments: бас-гитара, вокал, перкуссия
+- name: Дмитрий Качан
+  instruments: барабан, вокал
+clips:
+- id: 1043
+  type: weblink
+  url: http://www.myspace.com/theearthsign
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1045
+  type: photo
+  url: earth-sign-2.jpg
+  name: Jazzter
+  sort_order: 0
+  width: 600
+  height: 450
+- id: 1044
+  type: youtube
+  url: http://www.youtube.com/?v=NbNJ7ECMQzA
+  name: The EARTH SIGN у книгарні "Є" - 4
+  comments: Гурт The EARTH SIGN на концерті в харківській книгарні "Є"
+  sort_order: 99

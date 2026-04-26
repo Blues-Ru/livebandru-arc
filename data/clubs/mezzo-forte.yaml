@@ -1,0 +1,15 @@
+id: 79
+token: mezzo-forte
+name: Mezzo Forte
+alive: true
+address: ул. 1-ая Останкинская, 53
+subway: ВДНХ
+phone: 602-24-46
+city_id: 1
+comments: в помещении красного торгового центра
+clips:
+- id: 41
+  type: weblink
+  url: http://www.mezzoforte.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,25 @@
+id: 178
+token: fish-fabrique
+name: Fish Fabrique Nouvelle
+aliases: 'Fabrique Nouvelle
+
+  Fish Fabrique'
+alive: true
+address: Лиговский просп., 53
+subway: Площадь Восстания, Маяковская
+city_id: 2
+clips:
+- id: 186
+  type: weblink
+  url: http://www.fishfabrique.spb.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1216
+  type: rss
+  url: http://community.livejournal.com/fish_fabrique/data/rss
+  sort_order: 99
+- id: 1217
+  type: weblink
+  url: http://vk.com/club250531
+  name: Страница ВКонтакте
+  sort_order: 100

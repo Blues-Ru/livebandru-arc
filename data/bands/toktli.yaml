@@ -1,0 +1,28 @@
+id: 225
+token: toktli
+name: Трио Давида Токатли
+alive: true
+city_id: 20
+musicians:
+- name: Давид Токатли
+  instruments: гитара
+- name: Давид Михаэли
+  instruments: бас
+- name: Эйдан Пасков
+  instruments: барабаны
+clips:
+- id: 701
+  type: youtube
+  url: http://www.youtube.com/?v=CUYaTNfrdyo
+  name: toktli.wmv
+  sort_order: 99
+- id: 702
+  type: youtube
+  url: http://www.youtube.com/?v=g5dj7HXoNlg
+  name: toktli-gruv.wmv
+  sort_order: 199
+- id: 703
+  type: weblink
+  url: http://www.facebook.com/david.tokatli
+  name: Страница на FaceBook
+  sort_order: 99

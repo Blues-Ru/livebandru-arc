@@ -1,0 +1,14 @@
+id: 98
+token: tramplin
+name: Трамплин
+alive: true
+address: 3-я ул.Ямского поля, вл. 2, корп.12
+subway: Белорусская
+phone: 257-3984
+city_id: 1
+clips:
+- id: 130
+  type: weblink
+  url: http://www.tramplinclub.ru
+  name: Официальный сайт
+  sort_order: 0

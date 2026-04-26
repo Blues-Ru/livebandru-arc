@@ -1,0 +1,39 @@
+id: 632
+token: real-jam
+name: Real Jam
+aliases: Real Jam Jazz Band
+alive: true
+url: http://www.real-jam.com
+city_id: 1
+genre_id: 2
+musicians:
+- name: Татиана Фатеева
+  instruments: вокал
+- name: Татьяна Гайворнская
+  instruments: вокал
+- name: Анна Иванова
+  instruments: вокал
+- name: Евгений Камкин
+  instruments: ударные
+- name: Денис Шушков
+  instruments: контрабас
+- name: Вадим Харченко
+  instruments: гитара, банджо
+- name: Юрий Севастьянов
+  instruments: саксофон
+- name: Алексей Рябухин
+  instruments: фортепиано
+clips:
+- id: 4644
+  type: weblink
+  url: http://www.real-jam.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5940
+  type: youtube
+  url: http://www.youtube.com/?v=JWdrbjHJH44
+  name: REAL JAM
+  comments: REAL JAM is a unique jazz band from Moscow, Russia. The band consists
+    of three attractive female vocalists and seven talented male musicians inspired
+    by American music of the first part of the XX cent
+  sort_order: 99

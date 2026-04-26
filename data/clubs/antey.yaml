@@ -1,0 +1,14 @@
+id: 187
+token: antey
+name: Антей
+alive: true
+address: Красноармейская, 10
+phone: (343) 379-57-55
+city_id: 2
+comments: БЦ "Антей", 6 этаж
+clips:
+- id: 193
+  type: weblink
+  url: http://www.antey-e.ru/
+  name: Сайт бизнес-центра
+  sort_order: 0

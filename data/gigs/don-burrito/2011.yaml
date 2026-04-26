@@ -1,0 +1,18 @@
+- id: 20582
+  date: '2011-07-01'
+  time: '20:00'
+  band_name: Петр Газаров, Алина Ростоцкая, Максим Шибин, Игорь Иванушкин
+  club_id: 475
+  club_name: Дон Буррито
+  club_token: don-burrito
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 20581
+  date: '2011-06-29'
+  time: '20:00'
+  band_name: Петр Газаров, Владимир Нестеренко, Александр Зингер
+  club_id: 475
+  club_name: Дон Буррито
+  club_token: don-burrito

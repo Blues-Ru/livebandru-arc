@@ -1,0 +1,37 @@
+id: 505
+token: vietcafe-vietcafe-taganka
+name: VietCafe / VietCafe Таганка
+alive: true
+address: ул. Николоямская, д.26
+subway: Таганская
+phone: +7(495)649-4011
+city_id: 1
+clips:
+- id: 2631
+  type: weblink
+  url: http://vietcafe.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2632
+  type: photo
+  url: vietcafe-vietcafe-taganka.jpg
+  sort_order: 0
+  width: 990
+  height: 660
+reviews:
+- id: 232
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'VietCafe - единственная сеть ресторанов вьетнамской кухни, включающая 7 заведений
+    в Москве и 1 - в Рязани. В ресторанах сети часто проводятся концерты джазовых
+    исполнителей, которые все желающие могут посетить бесплатно.
+
+
+    VietCafe удается сочетать, казалось бы, несвязанные понятия: необычную экзотическую
+    кухню и приятную музыку, знакомую и близкую каждому гостю. Концерты в ресторанах
+    сети - это всегда увлекательное шоу в антураже непринужденного вечера за уютным
+    столиком.'
+  verified: true
+  created: '2011-09-30'
+  is_press_release: true

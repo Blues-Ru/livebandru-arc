@@ -1,0 +1,90 @@
+- id: 56821
+  date: '2016-02-19'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 800 руб.
+  comments: '"Crossroadz"- один из немногих отечественных бэндов, востребованных за
+    границей. "Русский блюз мирового уровня", "элита российского ритм-энд-блюза",
+    "харизма русского рок-н-ролла", "русские хендриксы с плантами" - все это пишут
+    про них, Сергея Воронова и Ко. Они объехали весь мир, от Китая до Америки, оставляя
+    за собой толпы влюбленных по уши пейзанок, пустые бутылки из-под водки и твердое
+    убеждение, что Россия - родина рок-н-ролла.'
+- id: 57554
+  date: '2016-04-28'
+  time: '20:00'
+  band_name: Gwyn Ashton + Rollo Markee
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 600-1500
+  extra_bands:
+  - id: 648
+    name: Rollo Markee
+    token: rollo-markee
+  - id: 669
+    name: Gwyn Ashton
+    token: gwyn-ashton
+- id: 57580
+  date: '2016-03-26'
+  time: '20:00'
+  band_name: Вадим Иващенко и The Boneshakers, Михаил Кистанов, Юрий Новгородский
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 500 руб.
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 58078
+  date: '2016-04-02'
+  time: '20:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 300 руб.
+- id: 59533
+  date: '2016-07-16'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: бесплатный
+  comments: гость - Овик Гулишьян
+- id: 59532
+  date: '2016-07-01'
+  time: '20:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 200 руб.
+- id: 60001
+  date: '2016-09-02'
+  time: '21:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 833
+  club_name: Сухой Закон
+  club_token: s-zakon
+  price: 800-1000

@@ -1,0 +1,78 @@
+- id: 38530
+  date: '2013-10-10'
+  time: '21:00'
+  band_name: Cross B Band, Long Way, Big Daddy Blues, Денис Балахнов
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way
+- id: 38531
+  date: '2013-10-17'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 39452
+  date: '2013-11-07'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 40005
+  date: '2013-11-21'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 40249
+  date: '2013-12-19'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 40441
+  date: '2013-12-12'
+  time: '21:00'
+  band_id: 647
+  band_name: Big Daddy Blues
+  band_token: big-daddy-blues
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 40440
+  date: '2013-12-05'
+  time: '21:00'
+  band_id: 646
+  band_name: Barrelhouse Stage Band
+  band_token: barrelhouse-stage-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+- id: 40845
+  date: '2013-12-26'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 730
+  club_name: Tarantino Bar
+  club_token: tarantino-bar
+  price: бесплатный

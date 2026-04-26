@@ -1,0 +1,14 @@
+id: 518
+token: galereya-belyaevo
+name: Галерея Беляево
+alive: true
+address: Профсоюзная, д. 100
+subway: Беляево
+phone: +7(495)335-8322, (499)793-4121
+city_id: 1
+clips:
+- id: 2726
+  type: weblink
+  url: http://www.gallery-belyaevo.ru/
+  name: Официальный сайт
+  sort_order: 0

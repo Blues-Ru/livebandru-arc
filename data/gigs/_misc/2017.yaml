@@ -1,0 +1,411 @@
+- id: 64661
+  date: '2017-04-16'
+  time: '18:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: ДК Алюминщик
+  city_id: 55
+- id: 64648
+  date: '2017-04-22'
+  time: '20:00'
+  band_id: 724
+  band_name: The Original Blues Brothers
+  band_token: original-blues-bros
+  club_name: Atmosphere Show Hall
+  city_id: 2
+  price: от 1500 рублей
+- id: 64667
+  date: '2017-04-26'
+  time: '20:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: LeninBarGrad
+  city_id: 25
+- id: 63202
+  date: '2017-02-06'
+  time: '16:00'
+  band_name: Трио Леонид Винцкевич - Стив Кершоу - Николай Винцкевич (Россия-Великобритания)
+  club_name: Музыкальный колледж им. Ростроповичей
+  city_id: 7
+- id: 63203
+  date: '2017-02-03'
+  time: '19:00'
+  band_name: Трио Леонид Винцкевич - Стив Кершоу - Николай Винцкевич (Россия-Великобритания)
+  club_name: Курская филармония
+  city_id: 54
+- id: 63204
+  date: '2017-02-04'
+  time: '19:00'
+  band_name: Трио Леонид Винцкевич - Стив Кершоу - Николай Винцкевич (Россия-Великобритания)
+  club_name: Студия авторской обуви Coddex Hand Made
+  city_id: 54
+- id: 63147
+  date: '2017-02-04'
+  band_name: Dr. Nick, винилка Doobie Brothers
+  club_name: shamrock Королев
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63154
+  date: '2017-02-18'
+  band_name: Dr. Nick, винилка Doors
+  club_name: Shamrock Королев
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63157
+  date: '2017-02-24'
+  band_name: Dr. Nick, винилка Black Sabbath
+  club_name: Shamrock Королев
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63094
+  date: '2017-01-26'
+  time: '19:30'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Золотой Дракон
+  city_id: 1
+  price: 400 руб.
+- id: 63205
+  date: '2017-02-07'
+  time: '19:00'
+  band_name: Трио Леонид Винцкевич - Стив Кершоу - Николай Винцкевич (Россия-Великобритания)
+  club_name: Концертный зал "Унион"
+  city_id: 8
+- id: 63207
+  date: '2017-02-10'
+  time: '19:00'
+  band_name: Трио Леонид Винцкевич - Стив Кершоу - Николай Винцкевич (Россия-Великобритания)
+  club_name: Дом Балтрушайтиса (культурный центр Литовской Республики)
+  city_id: 1
+- id: 63150
+  date: '2017-02-11'
+  band_name: Dr. Nick, винилка Rolling Stones
+  club_name: Shamrock Королев
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63597
+  date: '2017-02-22'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Connolly Station Irish Pub
+  city_id: 1
+  price: бесплатный
+- id: 63826
+  date: '2017-03-25'
+  time: '19:00'
+  band_name: 'Джаз-клуб "Эссе" представляет: Bratislava Hot Serenaders с программой
+    "Одинокая мелодия"'
+  club_name: Дом Кино (Москва)
+  city_id: 1
+- id: 64188
+  date: '2017-03-24'
+  time: '19:00'
+  band_name: Юрий Маркин. Благотворительный концерт
+  club_name: Концертный зал Треьяковской галереи
+  city_id: 1
+  comments: Все вырученные средства от продажи билетов пойдут на помощь подопечным
+    Детского хосписа "Дом с маяком"
+- id: 64344
+  date: '2017-04-14'
+  time: '20:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_name: Лимонад лофт-бар
+  city_id: 115
+  price: 600-1200
+- id: 64659
+  date: '2017-04-14'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: Казино Алтай Палас
+  city_id: 104
+- id: 64662
+  date: '2017-04-18'
+  time: '18:30'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: КЗ Сибирь
+  city_id: 40
+- id: 65253
+  date: '2017-05-19'
+  time: '19:00'
+  band_name: 'Квартет Ильи Филиппова (фортепиано): Павел Орлов (контрабас), Юрий Сабитов
+    (труба), Леонид Ольховский (барабаны)'
+  club_name: Муниципальный концертный зал органной и камерной музыки
+  city_id: 28
+- id: 65379
+  date: '2017-05-05'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Connolly station pub
+  city_id: 1
+  price: бесплатный
+- id: 65562
+  date: '2017-06-08'
+  time: '20:00'
+  band_id: 727
+  band_name: Reflections Duo
+  band_token: reflections-duo
+  club_name: Emporio Cafe
+  city_id: 1
+  comments: Финал Мультиформатного фестиваля "Emporio Music Fest"
+- id: 66057
+  date: '2017-06-10'
+  time: '22:30'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Connolly station pub
+  city_id: 1
+  price: бесплатный
+- id: 66283
+  date: '2017-07-06'
+  time: '19:00'
+  band_name: Михаил Жураков, Герман Жураков
+  club_name: Кинотеатр Рекорд
+  city_id: 25
+- id: 66286
+  date: '2017-07-01'
+  time: '20:00'
+  band_name: '"Нарисуй свой джаз": Mirror Reality'
+  club_name: Лига парк
+  city_id: 11
+- id: 66660
+  date: '2017-07-19'
+  time: '19:30'
+  band_name: 'Фестиваль "Джазовое лето в Коломенском" - 2017: Агафонников-бэнд Владимира
+    Агафонникова'
+  club_name: Шатер у дворца царя Алексея Михайловича
+  city_id: 1
+- id: 66661
+  date: '2017-07-26'
+  time: '19:30'
+  band_name: 'Фестиваль "Джазовое лето в Коломенском" - 2017: Dixie Purple Вадима
+    Зайдина'
+  club_name: Шатер у дворца царя Алексея Михайловича
+  city_id: 1
+- id: 66663
+  date: '2017-08-16'
+  time: '19:30'
+  band_name: 'Фестиваль "Джазовое лето в Коломенском" - 2017: Армине Саркисян и джазовое
+    трио Даниила Крамера'
+  club_name: Шатер у дворца царя Алексея Михайловича
+  city_id: 1
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 66594
+  date: '2017-07-20'
+  time: '21:00'
+  band_name: Dixie Providance Band
+  club_name: Музей Советских Игровых Автоматов
+  city_id: 1
+- id: 66662
+  date: '2017-08-09'
+  time: '19:30'
+  band_name: 'Фестиваль "Джазовое лето в Коломенском" - 2017: Оркестр "Столичный джаз"
+    п/у Федора Ляшкевича'
+  club_name: Шатер у дворца царя Алексея Михайловича
+  city_id: 1
+- id: 66832
+  date: '2017-08-05'
+  time: '20:00'
+  band_name: ZebraWood Blues Band, , СПб, пр. Народного Ополчения д.10 , (м. Ленинский
+    проспект)
+  club_name: Rock'N'Roll Racing Bar
+  city_id: 2
+  price: бесплатный
+  extra_bands:
+  - id: 730
+    name: ZebraWood Blues Band
+    token: zebrawood
+- id: 66912
+  date: '2017-08-25'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_name: Ботанический сад МГУ "Аптекарский Огород"
+  city_id: 1
+  comments: В рамках фестиваля "Город Джаз"
+- id: 66913
+  date: '2017-10-03'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_name: Гоголь-центр
+  city_id: 1
+  comments: В рамках фестиваля "Бит-Fest" программа "Он легенда" (к 100-летию Бадди
+    Рича)
+- id: 67395
+  date: '2017-10-25'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_name: RED
+  city_id: 1
+  price: от 700
+- id: 67773
+  date: '2017-09-10'
+  time: '13:00'
+  band_name: 'День города. Сцена "Садовое кольцо 425": Феликс Лахути & Universal Love;
+    Ансамбль Esh; Jazz''n''Time (Юрий Севастьянов - тенор-саксофон, Артем Третьяков
+    - фортепиано); Михаил Меркулов и трио Владимира Нестеренко; Real Jam (инструментальный
+    состав); Трио Романа Соколова; Малый состав Большого Джазового Оркестра п/у Петра
+    Востокова с программой "Mambo Party", при участии кубинских музыкантов'
+  club_name: Садовническая ул., 84 (у кафе "Мечта")
+  city_id: 1
+  comments: Ведущий - Кирилл Мошков
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 67772
+  date: '2017-09-20'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock club Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 67774
+  date: '2017-09-30'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Art Cafe113
+  city_id: 128
+  price: 250 руб.
+- id: 67931
+  date: '2017-10-12'
+  time: '20:00'
+  band_id: 733
+  band_name: Jazz Band Move
+  band_token: jazz-band-move
+  club_name: Shakti Terrace
+  city_id: 1
+  price: 800,1000
+- id: 68521
+  date: '2017-11-03'
+  time: '21:30'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Серебряная Fabrika Ленина 77Б
+  city_id: 54
+  price: бесплатный
+  comments: "CROSS B BAND (Texas Blues, Minsk Belarus) - группа из самого сердца Беларуси.\
+    \ Участники таких фестивалей как \"Рок КОЛА 2007\", \"Минск Блюз 2007\", \"VI,\
+    \ VIII, XIII Международный блюзовый фестиваль \"Дельта Невы\"\" в Санкт-Петербурге\
+    \ 2008, 2010, 2017 года, \"Vakaro bliuzas\" Литва 2017 год. Постоянно гастролирует\
+    \ как по Беларуси, так и за пределами.\r\nCROSS B BAND в 2017 году представила\
+    \ о авторский альбом \"I'm Gonna Leave This Town\"\r\nКонцерт группы - это музыкальное\
+    \ действо, участниками которого являются не только музыканты, а все вокруг. Музыканты\
+    \ знают, что такое блюз и как длинна дорога от Остина до Чикаго. \r\nУраган музыкально\
+    \ драйва, чувственности исполнения никого не оставят равнодушным."
+- id: 68602
+  date: '2017-10-27'
+  time: '19:00'
+  band_name: 'Blues & Bottle set: RJ Mischo (USA), Blues Doctors, Folkline, The Jumping
+    Cats'
+  club_name: Grand Урюк
+  city_id: 6
+  extra_bands:
+  - id: 734
+    name: RJ Mischo
+    token: rj-mischo
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+  - id: 580
+    name: Folkline
+    token: folkline
+- id: 69148
+  date: '2017-12-10'
+  time: '18:00'
+  band_name: '23-й международный фестиваль вокального джаза "Jazz Voices - 2017":
+    Ty Stephens (США) и трио Олега Бутмана; Александра Надеждина (Россия, Москва);
+    Andrew McFadden (США) в сопровождении оркестра "Столичный джаз" п/у Федора Ляшкевича'
+  club_name: ГДК
+  city_id: 72
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 69212
+  date: '2017-11-29'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 69787
+  date: '2017-12-17'
+  time: '18:00'
+  band_name: Bee Celtic, Вэлладей. "Хулиганские конкурсы и новогодние подарки"
+  club_name: Байконур
+  city_id: 2
+- id: 69765
+  date: '2017-12-09'
+  time: '21:00'
+  band_name: 'ZebraWood Blues Band, Адрес клуба: 4-ая Красноармейская, 12'
+  club_name: Husky Bar
+  city_id: 2
+  price: бесплатный
+  extra_bands:
+  - id: 730
+    name: ZebraWood Blues Band
+    token: zebrawood
+- id: 69806
+  date: '2017-12-13'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 69807
+  date: '2017-12-15'
+  time: '20:00'
+  band_name: '"Любовь и рок-н-ролл" (Ольга Коваленко и Анна Штейн - вокал, Геннадий
+    Выборов - гитара). Каверы'
+  club_name: Заводные яйца
+  city_id: 2
+  price: Шляпный сбор по желанию

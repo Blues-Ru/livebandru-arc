@@ -1,0 +1,1307 @@
+- id: 41117
+  date: '2014-02-23'
+  time: '20:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600/800
+- id: 41118
+  date: '2014-01-14'
+  time: '21:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 41158
+  date: '2014-01-05'
+  time: '20:00'
+  band_name: Олег Киреев квартет
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 41159
+  date: '2014-01-07'
+  time: '21:00'
+  band_name: Томас band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41161
+  date: '2014-01-09'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 41162
+  date: '2014-01-10'
+  time: '22:00'
+  band_name: Garage band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 41163
+  date: '2014-01-11'
+  time: '22:00'
+  band_name: Marshmallows
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41160
+  date: '2014-01-08'
+  time: '20:00'
+  band_name: Relax trio
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 41164
+  date: '2014-01-12'
+  time: '20:00'
+  band_name: Capital F
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 41165
+  date: '2014-01-16'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 41166
+  date: '2014-01-17'
+  time: '22:00'
+  band_name: The Beatles Party
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300-400 руб.
+- id: 41167
+  date: '2014-01-18'
+  time: '22:00'
+  band_name: Bukanero
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 41168
+  date: '2014-01-19'
+  time: '20:00'
+  band_name: Ксения Лебедева
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41169
+  date: '2014-01-24'
+  time: '22:00'
+  band_name: DJ JD
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 41170
+  date: '2014-01-25'
+  time: '23:00'
+  band_name: Жулики
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41171
+  date: '2014-01-26'
+  time: '20:00'
+  band_name: Suita de Ora
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 41172
+  date: '2014-01-28'
+  time: '20:00'
+  band_name: Ekam Sat
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41173
+  date: '2014-01-29'
+  time: '20:00'
+  band_name: Алевтина Полякова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 41174
+  date: '2014-01-30'
+  time: '20:00'
+  band_name: Leto
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 41175
+  date: '2014-01-31'
+  time: '20:00'
+  band_name: ГКЧП
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41176
+  date: '2014-01-06'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41177
+  date: '2014-01-13'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41178
+  date: '2014-01-20'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41179
+  date: '2014-01-27'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41180
+  date: '2014-02-03'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41399
+  date: '2014-02-02'
+  time: '20:00'
+  band_id: 661
+  band_name: Eddie Martin
+  band_token: eddie-martin
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600/750
+- id: 41403
+  date: '2014-02-09'
+  time: '20:00'
+  band_id: 644
+  band_name: Oliver Darling
+  band_token: oliver-darling
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600/800
+- id: 41424
+  date: '2014-01-23'
+  time: '21:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 600/800
+- id: 41924
+  date: '2014-02-10'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41925
+  date: '2014-02-17'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41926
+  date: '2014-02-24'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41927
+  date: '2014-03-03'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 41928
+  date: '2014-02-27'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 41929
+  date: '2014-02-19'
+  time: '20:00'
+  band_name: Mart-Music
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 41930
+  date: '2014-02-13'
+  time: '20:00'
+  band_name: Ольга Герчакова трио
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 41931
+  date: '2014-02-11'
+  time: '20:00'
+  band_name: Дуэт A Deux
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 41932
+  date: '2014-02-04'
+  time: '20:00'
+  band_name: Ре
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 42132
+  date: '2014-03-02'
+  time: '20:00'
+  band_id: 659
+  band_name: Dani Wilde
+  band_token: dani-wilde
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 42223
+  date: '2014-03-10'
+  time: '20:00'
+  band_id: 608
+  band_name: Big Joe Louis
+  band_token: big-joe-louis
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 42302
+  date: '2014-03-23'
+  time: '20:00'
+  band_id: 648
+  band_name: Rollo Markee
+  band_token: rollo-markee
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 42305
+  date: '2014-03-16'
+  time: '20:00'
+  band_id: 662
+  band_name: Emanuele "Manny" Fizzotti
+  band_token: manny-fizzotti
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 42309
+  date: '2014-03-30'
+  time: '20:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 42394
+  date: '2014-03-24'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 42395
+  date: '2014-03-31'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 42396
+  date: '2014-03-17'
+  time: '20:00'
+  band_name: 'Jam session: Александр Гуреев и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 42397
+  date: '2014-03-04'
+  time: '20:00'
+  band_name: Квартет Игната Кравцова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 42398
+  date: '2014-03-07'
+  time: '20:00'
+  band_name: Foxy Jazz + КВН Журфак
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 42399
+  date: '2014-03-08'
+  time: '22:00'
+  band_name: Mimoza Party c Jazz Dance Orchestra
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 42400
+  date: '2014-03-11'
+  time: '20:00'
+  band_name: Ре
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 42401
+  date: '2014-03-13'
+  time: '20:00'
+  band_name: Masta
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 42402
+  date: '2014-03-14'
+  time: '21:00'
+  band_name: Оркестр Ураганного Фанка "Поzитива"
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 42403
+  date: '2014-03-18'
+  time: '20:00'
+  band_name: Трио Максима Шибина
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 42404
+  date: '2014-03-29'
+  time: '21:00'
+  band_name: Marshmallows
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43158
+  date: '2014-04-02'
+  time: '20:00'
+  band_name: Just Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 43159
+  date: '2014-04-07'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 43160
+  date: '2014-04-14'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 43161
+  date: '2014-04-21'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 43162
+  date: '2014-04-28'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 43163
+  date: '2014-04-27'
+  time: '20:00'
+  band_id: 655
+  band_name: Marcus Bonfanti
+  band_token: marcus-bonfanti
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 43164
+  date: '2014-04-20'
+  time: '20:00'
+  band_name: Marсus Malone
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 800 руб.
+- id: 43165
+  date: '2014-04-15'
+  time: '20:00'
+  band_name: Ольга Герчакова трио
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 43166
+  date: '2014-04-16'
+  time: '20:00'
+  band_name: Анатолий Текучев (вибрафон)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43168
+  date: '2014-04-10'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43950
+  date: '2014-05-05'
+  time: '20:00'
+  band_name: 'Live Jazz jam Session: Александр Гуреев (саксофон) и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 43951
+  date: '2014-05-12'
+  time: '20:00'
+  band_name: 'Live Jazz jam Session: Александр Гуреев (саксофон) и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 43952
+  date: '2014-05-19'
+  time: '20:00'
+  band_name: 'Live Jazz jam Session: Александр Гуреев (саксофон) и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 43953
+  date: '2014-05-26'
+  time: '20:00'
+  band_name: 'Live Jazz jam Session: Александр Гуреев (саксофон) и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 43954
+  date: '2014-06-02'
+  time: '20:00'
+  band_name: 'Live Jazz jam Session: Александр Гуреев (саксофон) и друзья'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 43955
+  date: '2014-05-07'
+  time: '20:00'
+  band_name: М-Артель
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43956
+  date: '2014-05-13'
+  time: '20:00'
+  band_name: Skornyakov / Trekusov Quartet
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43957
+  date: '2014-05-21'
+  time: '20:00'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43958
+  date: '2014-05-22'
+  time: '20:00'
+  band_id: 502
+  band_name: Живые Люди
+  band_token: livepeople
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 43959
+  date: '2014-05-23'
+  time: '22:00'
+  band_name: Поzитива
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 400 руб.
+- id: 43960
+  date: '2014-05-28'
+  time: '20:00'
+  band_name: Трио Максима Шибина (гитара)
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 44077
+  date: '2014-06-04'
+  time: '20:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45599
+  date: '2014-08-03'
+  time: '20:00'
+  band_name: Feliss & Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45600
+  date: '2014-08-10'
+  time: '20:00'
+  band_name: No Name Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 45603
+  date: '2014-08-25'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45607
+  date: '2014-08-24'
+  time: '20:00'
+  band_name: Трио Максима Шибина
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45610
+  date: '2014-08-14'
+  time: '20:00'
+  band_name: Bad Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 45601
+  date: '2014-08-11'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45602
+  date: '2014-08-18'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45604
+  date: '2014-09-01'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45605
+  date: '2014-08-31'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 45606
+  date: '2014-08-28'
+  time: '20:00'
+  band_name: Bad Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 45608
+  date: '2014-08-20'
+  time: '20:00'
+  band_name: JazzUp Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 45609
+  date: '2014-08-14'
+  time: '20:00'
+  band_name: Bad Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 44419
+  date: '2014-06-09'
+  time: '20:00'
+  band_name: Live Jazz jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44420
+  date: '2014-06-16'
+  time: '20:00'
+  band_name: Live Jazz jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44421
+  date: '2014-06-23'
+  time: '20:00'
+  band_name: Live Jazz jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44422
+  date: '2014-06-30'
+  time: '20:00'
+  band_name: Live Jazz jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44423
+  date: '2014-07-07'
+  time: '20:00'
+  band_name: Live Jazz jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44424
+  date: '2014-06-22'
+  time: '20:00'
+  band_name: Алла Титиевская
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 44425
+  date: '2014-06-26'
+  time: '20:00'
+  band_name: Jazzmobile и Алина Ростоцкая
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 44426
+  date: '2014-06-25'
+  time: '20:00'
+  band_name: Jazzup Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 44427
+  date: '2014-06-17'
+  time: '20:00'
+  band_name: A Deux
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 44428
+  date: '2014-06-12'
+  time: '20:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 500 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 44901
+  date: '2014-07-21'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44902
+  date: '2014-07-28'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44903
+  date: '2014-08-04'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44904
+  date: '2014-07-30'
+  time: '20:00'
+  band_name: Трио Ольги Герчаковой JazzUp Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 44907
+  date: '2014-07-23'
+  time: '20:00'
+  band_name: Трио Игоря Яковенко
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 44908
+  date: '2014-07-16'
+  time: '20:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 44909
+  date: '2014-07-13'
+  time: '20:00'
+  band_name: No Name Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 44900
+  date: '2014-07-14'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 44905
+  date: '2014-07-31'
+  time: '20:00'
+  band_name: Night Sprite
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 44906
+  date: '2014-07-25'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 45363
+  date: '2014-09-05'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 45879
+  date: '2014-08-30'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+  comments: "Королевская порция харизматичного рок-н-ролла в качестве подготовки к\
+    \ новому учебному году от Fly Mexican Airlines® Самоиграющие инструменты в руках\
+    \ безумно позитивных людей. Только драйв и ничего лишнего\r\n\r\nСбор гостей в\
+    \ 21.00\r\nначало в 22.00\r\nвход 400 и 300 по флаеру , флаером будет считаться\
+    \ распечатанная в любом виде афиша."
+- id: 46213
+  date: '2014-09-02'
+  time: '20:00'
+  band_name: Power Train
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 46214
+  date: '2014-09-04'
+  time: '20:00'
+  band_name: Юлия Перминова Project
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 46215
+  date: '2014-09-08'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 46216
+  date: '2014-09-10'
+  time: '20:00'
+  band_name: Lisov Trio
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 46217
+  date: '2014-09-13'
+  time: '20:00'
+  band_name: 'День рождения FAQ-Cafe - 10 лет: Alina Os (соул, фанк), Jazz Dance Orchestra
+    (джаз, каверы)'
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 46218
+  date: '2014-09-15'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 46219
+  date: '2014-09-19'
+  time: '20:00'
+  band_name: Foxy Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 46220
+  date: '2014-09-22'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 46221
+  date: '2014-09-24'
+  time: '20:00'
+  band_name: JazzUp Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 46222
+  date: '2014-09-25'
+  time: '20:00'
+  band_name: Анатолий Текучев & Александр Муравьев
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 46223
+  date: '2014-09-29'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 46224
+  date: '2014-09-30'
+  time: '20:00'
+  band_name: Bukanero
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 47109
+  date: '2014-10-06'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47110
+  date: '2014-10-09'
+  time: '20:00'
+  band_name: Трио Михаила Кистанова
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 47111
+  date: '2014-10-13'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47112
+  date: '2014-10-14'
+  time: '20:00'
+  band_name: Xenique Electric Trio
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47113
+  date: '2014-10-20'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47114
+  date: '2014-10-22'
+  time: '20:00'
+  band_name: Astreet Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47115
+  date: '2014-10-23'
+  time: '20:00'
+  band_name: К. Кондрашов & Gnesin's Roofers
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47116
+  date: '2014-10-27'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47117
+  date: '2014-10-28'
+  time: '20:00'
+  band_name: Ольга Герчакова и JazzUp Band с программой "Джаз Хармс"
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 47118
+  date: '2014-10-29'
+  time: '20:00'
+  band_name: Carina La Dulce
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47476
+  date: '2014-11-05'
+  time: '20:00'
+  band_name: Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47477
+  date: '2014-11-10'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47478
+  date: '2014-11-17'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47479
+  date: '2014-11-24'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47480
+  date: '2014-11-29'
+  time: '20:00'
+  band_name: Foxy Jazz
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 350 руб.
+- id: 47481
+  date: '2014-11-26'
+  time: '21:00'
+  band_name: Paellera
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47482
+  date: '2014-11-23'
+  time: '21:00'
+  band_name: Sound Advice
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47483
+  date: '2014-11-19'
+  time: '20:00'
+  band_name: Григорий Сандомирский и Ансамбль средиземноморской деконструкции
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.
+- id: 47484
+  date: '2014-11-12'
+  time: '20:00'
+  band_name: Трио Макса Шибина
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 47975
+  date: '2014-11-22'
+  time: '19:00'
+  band_name: Механизм прост
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 1000 руб.
+- id: 48243
+  date: '2014-12-01'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 48245
+  date: '2014-12-15'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 48246
+  date: '2014-12-22'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 48247
+  date: '2014-12-29'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 48248
+  date: '2014-12-07'
+  time: '20:00'
+  band_name: Миша Пунга
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 48250
+  date: '2014-12-18'
+  time: '20:00'
+  band_name: The Same Rakes
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 250 руб.
+- id: 48185
+  date: '2014-12-20'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 48244
+  date: '2014-12-08'
+  time: '20:00'
+  band_name: Live Jazz Jam Session
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+- id: 48249
+  date: '2014-12-17'
+  time: '20:00'
+  band_id: 540
+  band_name: Неправильные Пчелы
+  band_token: wrong-bees
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: бесплатный
+- id: 48251
+  date: '2014-12-23'
+  time: '20:00'
+  band_name: Ольга Герчакова и JazzUp Band
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 200 руб.
+- id: 48252
+  date: '2014-12-24'
+  time: '20:00'
+  band_name: The Bad Luck Orchestra
+  club_id: 166
+  club_name: FAQ-Cafe
+  club_token: faq-cafe
+  price: 300 руб.

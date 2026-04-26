@@ -1,0 +1,13 @@
+id: 236
+token: podzemka
+name: Подземка
+alive: true
+address: Проспект Сельмаш, 3
+phone: 270-75-66
+city_id: 11
+clips:
+- id: 552
+  type: weblink
+  url: http://www.pod3emka.ru/
+  name: Официальный сайт
+  sort_order: 0

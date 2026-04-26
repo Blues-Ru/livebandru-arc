@@ -1,0 +1,6524 @@
+- id: 75185
+  date: '2019-01-10'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 75813
+  date: '2019-02-09'
+  time: '20:00'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76440
+  date: '2019-01-02'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76441
+  date: '2019-01-02'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76444
+  date: '2019-01-03'
+  time: '20:00'
+  band_name: Михаил Меркулов и Ирина Родилес
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 76445
+  date: '2019-01-04'
+  time: '14:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76446
+  date: '2019-01-04'
+  time: '14:00'
+  band_name: Похмельный Блюз с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76447
+  date: '2019-01-04'
+  time: '20:00'
+  band_name: Надя Алексеева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76454
+  date: '2019-01-06'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76455
+  date: '2019-01-06'
+  time: '20:00'
+  band_name: Beat bombers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76467
+  date: '2019-01-13'
+  time: '20:00'
+  band_name: Квартет Павла Скорнякова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76472
+  date: '2019-01-15'
+  time: '20:00'
+  band_name: Трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 76473
+  date: '2019-01-16'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 76474
+  date: '2019-01-16'
+  time: '20:00'
+  band_name: NBRS - New Blues Rhythm Section
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 76475
+  date: '2019-01-17'
+  time: '20:00'
+  band_name: Трио Андрея Марухина
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76478
+  date: '2019-01-18'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76479
+  date: '2019-01-19'
+  time: '14:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76481
+  date: '2019-01-19'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76483
+  date: '2019-01-20'
+  time: '20:00'
+  band_name: Elisha Blue. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 768
+    name: Elisha Blue
+    token: elisha-blue
+- id: 76484
+  date: '2019-01-20'
+  time: '20:00'
+  band_name: Арфа&Джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76485
+  date: '2019-01-21'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76486
+  date: '2019-01-22'
+  time: '20:00'
+  band_name: Kвартет Олега Бутмана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76487
+  date: '2019-01-23'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76488
+  date: '2019-01-26'
+  time: '20:00'
+  band_name: 'Ирина Родилес и Трио Евгения Борца: Tribute to Joni Mitchel'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 76489
+  date: '2019-01-24'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76490
+  date: '2019-01-24'
+  time: '20:00'
+  band_name: Трио Геннадия Филина
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76491
+  date: '2019-01-25'
+  time: '20:00'
+  band_name: Swing Opera. Chiara Osella & Accordi Disaccordi (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76495
+  date: '2019-01-27'
+  time: '20:00'
+  band_name: Masala Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76498
+  date: '2019-01-30'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Ирина Родилес, Тимур Некрасов, Сергей
+    Хутас, Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 76499
+  date: '2019-01-31'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76501
+  date: '2019-02-02'
+  time: '20:00'
+  band_name: Swing Modern Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76448
+  date: '2019-01-04'
+  time: '20:00'
+  band_name: Dario Napoli (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76449
+  date: '2019-01-05'
+  time: '14:00'
+  band_name: Похмельный Блюз с Гией Дзагнидзе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 76451
+  date: '2019-01-05'
+  time: '20:00'
+  band_name: Ильдар Казаханов (Санкт-Петербург), Алексей Кузнецов (Москва) и друзья
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 76452
+  date: '2019-01-06'
+  time: '14:00'
+  band_name: Похмельный Блюз с Вадимом Иващенко
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76456
+  date: '2019-01-07'
+  time: '14:00'
+  band_name: Похмельный Блюз с Михаилом Кистановым
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76457
+  date: '2019-01-07'
+  time: '20:00'
+  band_name: JAM Birthday
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76458
+  date: '2019-01-07'
+  time: '20:00'
+  band_name: 'JAM Birthday: Ирина Родилес, Диана Поленова, Полина Касьянова и трио
+    Евгения Борца'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 76459
+  date: '2019-01-08'
+  time: '14:00'
+  band_name: Похмельный Блюз с Андреем Сорокиным
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76460
+  date: '2019-01-08'
+  time: '20:00'
+  band_name: JAM Birthday
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76461
+  date: '2019-01-08'
+  time: '20:00'
+  band_name: JAM Birthday
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76462
+  date: '2019-01-09'
+  time: '20:00'
+  band_name: Юрий Каверкин и Николай Добкин
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 76463
+  date: '2019-01-11'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 76464
+  date: '2019-01-11'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 76476
+  date: '2019-01-17'
+  time: '20:00'
+  band_name: 'Дмитрий Носков и Круглый Бенд: Я буду петь тебе, как Фрэнк'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 76477
+  date: '2019-01-18'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76480
+  date: '2019-01-19'
+  time: '14:00'
+  band_name: Saturday British Blues brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76482
+  date: '2019-01-19'
+  time: '20:00'
+  band_name: Оркестр "Столичный Джаз"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76504
+  date: '2019-02-24'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "Красота блюза в его гармонии, в его оттяжном свинговом ритме голоса и\
+    \ фортепиано, в пружинящем басу, часто берущем на себя роль основного инструмента,\
+    \ в пульсирующем ритме ударных, заставляющем то сдержанно постукивать ногой в\
+    \ такт, то всем существом отдаваться танцу.\r\n.\r\nМы в \"Magnet Vox\" собираем\
+    \ яркий, необычный блюз, бережно аранжируем его и играем на концертах. Наша задача\
+    \ - показать эту музыку во всей ее красоте, познакомиться с ней самим и познакомить\
+    \ вас, наши дорогие слушатели. J.B.Lenoir, Joe Bonamassa, Nina Simone, Skip James,\
+    \ Leroy Carr, Blind Lemon Jefferson - вот лишь немногие из тех, кого мы представляем\
+    \ вам на наших выступлениях.\r\n.\r\nНаш коллектив смотрит на музыку как на нечто,\
+    \ постоянно движущееся, меняющееся. Импровизация не может быть сыграна дважды\
+    \ совершенно одинаково - она как сама жизнь, в ее волнительных неожиданностях\
+    \ и цветных поворотах. Партия каждого инструмента в \"Magnet Vox\" - тому подтверждение.\r\
+    \n.\r\nНа наших концертах вы услышите удивительные мелодии одного из самых старых\
+    \ стилей современной музыки, окунетесь в сильные переживания, прочувствуете вместе\
+    \ с нами всю палитру музыкальных красок, которые таит в себе этот загадочный,\
+    \ такой простой и все же такой сложный, блюз.\r\n.\r\n\"Magnet Vox\" существует\
+    \ с 2018 года, и уже успел зарекомендовать себя на московской музыкальной сцене,\
+    \ выступая в популярных клубах столицы. Коллектив принимал участие в международном\
+    \ фестивале вокального джаза Jazz Voices 2018 (Москва) и Большом блюзовом концерте\
+    \ от фестиваля \"Мосты\" (Санкт-Петербург).\r\n.\r\nСостав трио:\r\n.\r\nТамара\
+    \ Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара, вокал\r\nСергей Чекмаренко\
+    \ - ударные"
+- id: 76442
+  date: '2019-01-03'
+  time: '14:00'
+  band_name: Похмельный Блюз с Юрием Каверкиным
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76443
+  date: '2019-01-03'
+  time: '20:00'
+  band_name: Квартет Andrea Beccaro & Натальи Скворцовой (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76450
+  date: '2019-01-05'
+  time: '20:00'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76453
+  date: '2019-01-06'
+  time: '14:00'
+  band_name: Christmas Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76465
+  date: '2019-01-12'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76466
+  date: '2019-01-13'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76468
+  date: '2019-01-13'
+  time: '20:00'
+  band_name: Jazz Reflection
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76469
+  date: '2019-01-14'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76470
+  date: '2019-01-14'
+  time: '20:00'
+  band_name: Ясмани & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76471
+  date: '2019-01-15'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76492
+  date: '2019-01-25'
+  time: '20:00'
+  band_name: Татьяна Ларина. Специальный гость Владимир Пресняков старший
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76493
+  date: '2019-01-26'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76494
+  date: '2019-01-27'
+  time: '20:00'
+  band_name: Anatoly Osipov Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76496
+  date: '2019-01-28'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76497
+  date: '2019-01-29'
+  time: '20:00'
+  band_name: Трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 76500
+  date: '2019-01-31'
+  time: '20:00'
+  band_name: JJ Thames (США)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76505
+  date: '2019-03-28'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "Красота блюза в его гармонии, в его оттяжном свинговом ритме голоса и\
+    \ фортепиано, в пружинящем басу, часто берущем на себя роль основного инструмента,\
+    \ в пульсирующем ритме ударных, заставляющем то сдержанно постукивать ногой в\
+    \ такт, то всем существом отдаваться танцу.\r\n.\r\nМы в \"Magnet Vox\" собираем\
+    \ яркий, необычный блюз, бережно аранжируем его и играем на концертах. Наша задача\
+    \ - показать эту музыку во всей ее красоте, познакомиться с ней самим и познакомить\
+    \ вас, наши дорогие слушатели. J.B.Lenoir, Joe Bonamassa, Nina Simone, Skip James,\
+    \ Leroy Carr, Blind Lemon Jefferson - вот лишь немногие из тех, кого мы представляем\
+    \ вам на наших выступлениях.\r\n.\r\nНаш коллектив смотрит на музыку как на нечто,\
+    \ постоянно движущееся, меняющееся. Импровизация не может быть сыграна дважды\
+    \ совершенно одинаково - она как сама жизнь, в ее волнительных неожиданностях\
+    \ и цветных поворотах. Партия каждого инструмента в \"Magnet Vox\" - тому подтверждение.\r\
+    \n.\r\nНа наших концертах вы услышите удивительные мелодии одного из самых старых\
+    \ стилей современной музыки, окунетесь в сильные переживания, прочувствуете вместе\
+    \ с нами всю палитру музыкальных красок, которые таит в себе этот загадочный,\
+    \ такой простой и все же такой сложный, блюз.\r\n.\r\n\"Magnet Vox\" существует\
+    \ с 2018 года, и уже успел зарекомендовать себя на московской музыкальной сцене,\
+    \ выступая в популярных клубах столицы. Коллектив принимал участие в международном\
+    \ фестивале вокального джаза Jazz Voices 2018 (Москва) и Большом блюзовом концерте\
+    \ от фестиваля \"Мосты\" (Санкт-Петербург).\r\n.\r\nСостав трио:\r\n.\r\nТамара\
+    \ Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара, вокал\r\nМихаил Данилов\
+    \ - ударные"
+- id: 76627
+  date: '2019-02-25'
+  time: '20:00'
+  band_name: Sandor's Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76628
+  date: '2019-02-25'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76629
+  date: '2019-02-26'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76631
+  date: '2019-02-27'
+  time: '20:00'
+  band_name: Ансамбль Мелафефоним и Виктория Гиссен
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76632
+  date: '2019-02-28'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 76633
+  date: '2019-03-04'
+  time: '20:00'
+  band_name: Bumbata Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76593
+  date: '2019-02-03'
+  time: '20:00'
+  band_name: Трио “SSR” – Svarovskaya, Shibin, Rodovskiy
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76594
+  date: '2019-02-03'
+  time: '20:00'
+  band_id: 761
+  band_name: William James Mead
+  band_token: william-james-mead
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76595
+  date: '2019-02-04'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76672
+  date: '2019-01-29'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76584
+  date: '2019-02-01'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76585
+  date: '2019-02-12'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76586
+  date: '2019-02-15'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76587
+  date: '2019-02-15'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76588
+  date: '2019-02-20'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76589
+  date: '2019-02-28'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76590
+  date: '2019-03-21'
+  time: '20:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 76591
+  date: '2019-02-01'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76592
+  date: '2019-02-03'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76596
+  date: '2019-02-04'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76597
+  date: '2019-02-05'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76598
+  date: '2019-02-06'
+  time: '20:00'
+  band_name: Андрей Макаревич и Ильдар Казаханов с программой "Андрей и Ильдар в Машине"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+- id: 76599
+  date: '2019-02-06'
+  time: '20:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76600
+  date: '2019-02-08'
+  time: '20:00'
+  band_name: Московский квинтет саксофонов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76601
+  date: '2019-02-08'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова (Acoustic Blues)'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 76602
+  date: '2019-02-10'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76603
+  date: '2019-02-10'
+  time: '20:00'
+  band_name: Диана Поленова и трио Евгения Борца при участии Александра Бакхауса (аккордеон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 76604
+  date: '2019-02-10'
+  time: '20:00'
+  band_name: '"Трагедия маленькой девочки" - спектакль-мюзикл'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76605
+  date: '2019-02-11'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76606
+  date: '2019-02-11'
+  time: '20:00'
+  band_name: Sol K’rib
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76607
+  date: '2019-02-12'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76608
+  date: '2019-02-13'
+  time: '20:00'
+  band_name: Макс Ротшильд и группа Full House
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76609
+  date: '2019-02-13'
+  time: '20:00'
+  band_name: Jazz-fusion-трио Flow Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76610
+  date: '2019-02-14'
+  time: '20:00'
+  band_name: 'Lady & Jamtlemen: Полина Касьянова, Андрей Макаревич, Евгений Борец,
+    Константин Гевондян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 76611
+  date: '2019-02-14'
+  time: '20:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76612
+  date: '2019-02-17'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76613
+  date: '2019-02-17'
+  time: '20:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76614
+  date: '2019-02-17'
+  time: '20:00'
+  band_name: Swing Opera. Chiara Osella & Accordi Disaccordi (Italy)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 76615
+  date: '2019-02-18'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76616
+  date: '2019-02-18'
+  time: '20:00'
+  band_name: Fidel Alejandro Veitia
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76617
+  date: '2019-02-19'
+  time: '20:00'
+  band_name: Виктор Виталий
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76618
+  date: '2019-02-19'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76619
+  date: '2019-02-20'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76620
+  date: '2019-02-21'
+  time: '20:00'
+  band_name: Олег Киреев (саксофон, джаз)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 76621
+  date: '2019-02-22'
+  time: '20:00'
+  band_name: Иван Падуарт и Патрик Дельтенре (Бельгия) с программой «Hand in hand»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 76622
+  date: '2019-02-23'
+  time: '20:00'
+  band_name: Иван Падуарт и Патрик Дельтенре (Бельгия) с программой «Hand in hand»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 76623
+  date: '2019-02-23'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76624
+  date: '2019-02-24'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76823
+  date: '2019-02-16'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76816
+  date: '2019-03-02'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76818
+  date: '2019-03-08'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76820
+  date: '2019-02-02'
+  time: '14:00'
+  band_id: 761
+  band_name: William James Mead
+  band_token: william-james-mead
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76834
+  date: '2019-03-07'
+  time: '20:00'
+  band_name: Леди в джазе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 76841
+  date: '2019-03-12'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76844
+  date: '2019-03-14'
+  time: '20:00'
+  band_name: Аннэя Пашинская (арфа/вокал) и Наталья Смирнова-Бутман (рояль/вокал)
+    с программой «Джазовые Фантазии»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 76845
+  date: '2019-03-17'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76852
+  date: '2019-01-31'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 76847
+  date: '2019-03-19'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76848
+  date: '2019-03-24'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76850
+  date: '2019-03-26'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76851
+  date: '2019-03-31'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76815
+  date: '2019-02-16'
+  time: '20:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76817
+  date: '2019-03-06'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76819
+  date: '2019-03-09'
+  time: '20:00'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76821
+  date: '2019-02-09'
+  time: '14:00'
+  band_name: Британский блюз. Трибьют The Rolling Stones.
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76822
+  date: '2019-02-16'
+  time: '14:00'
+  band_name: Британский блюз. Giles Robson (London, UK).
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 643
+    name: Giles Robson
+    token: giles-robson
+- id: 76825
+  date: '2019-03-01'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76827
+  date: '2019-03-02'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76830
+  date: '2019-03-03'
+  time: '20:00'
+  band_name: '"Дурные Наклонности". Моноспектакль Ксении Стриж.'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76832
+  date: '2019-03-05'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76833
+  date: '2019-03-06'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 76835
+  date: '2019-03-08'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76837
+  date: '2019-03-10'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76838
+  date: '2019-03-11'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76840
+  date: '2019-03-12'
+  time: '20:00'
+  band_name: Alex Sipiagin/Michele Calgaro quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76842
+  date: '2019-03-13'
+  time: '20:00'
+  band_name: Алексей White Белов, группа "Удачное приобретение" и Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 76824
+  date: '2019-02-21'
+  time: '20:00'
+  band_name: Леди в джазе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 76826
+  date: '2019-03-01'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76828
+  date: '2019-03-03'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76829
+  date: '2019-03-03'
+  time: '20:00'
+  band_name: Krissy Matthews. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 667
+    name: Krissy Matthews
+    token: krissy-matthews
+- id: 76831
+  date: '2019-03-04'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76836
+  date: '2019-03-09'
+  time: '20:00'
+  band_name: '61 Highway: Доктор Аграновский, Вадим Иващенко и Юрий Каверкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 76839
+  date: '2019-03-11'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76843
+  date: '2019-03-14'
+  time: '20:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76846
+  date: '2019-03-18'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 76849
+  date: '2019-03-25'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77243
+  date: '2019-02-09'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77245
+  date: '2019-02-24'
+  time: '20:00'
+  band_name: The BigBuddy Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77246
+  date: '2019-02-24'
+  time: '20:00'
+  band_name: The BigBuddy Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77339
+  date: '2019-03-10'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77340
+  date: '2019-03-16'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77341
+  date: '2019-03-23'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77342
+  date: '2019-03-26'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77343
+  date: '2019-03-29'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77344
+  date: '2019-03-29'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77345
+  date: '2019-03-30'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77346
+  date: '2019-04-19'
+  time: '20:00'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 77347
+  date: '2019-02-22'
+  time: '20:00'
+  band_name: Django XXI
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77348
+  date: '2019-03-05'
+  time: '20:00'
+  band_name: 'Дмитрий Купцов и Прохор Бурлак с программой: Django и Beche'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77349
+  date: '2019-03-07'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77350
+  date: '2019-03-08'
+  time: '14:00'
+  band_name: Mishouris Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77409
+  date: '2019-03-19'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77410
+  date: '2019-02-26'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 77411
+  date: '2019-03-03'
+  time: '20:00'
+  band_name: Brent Hutchinson. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 77412
+  date: '2019-03-13'
+  time: '20:00'
+  band_name: Groovitation Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77413
+  date: '2019-03-15'
+  time: '20:00'
+  band_name: Women's Band ШИК
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77415
+  date: '2019-03-16'
+  time: '20:00'
+  band_name: Milena Barrett (Австралия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 77416
+  date: '2019-03-17'
+  time: '20:00'
+  band_name: Big Boy Bloater. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 769
+    name: Big Boy Bloater
+    token: big-boy-bloater
+- id: 77417
+  date: '2019-03-17'
+  time: '20:00'
+  band_name: Anatoly Osipov Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77418
+  date: '2019-03-21'
+  time: '20:00'
+  band_name: Екатерина Черноусова и трио Игоря Молчанова с программой "Элла Фицджеральд
+    и не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77419
+  date: '2019-03-22'
+  time: '20:00'
+  band_name: '"A New Generation" с трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 77420
+  date: '2019-03-23'
+  time: '14:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 77422
+  date: '2019-03-24'
+  time: '20:00'
+  band_name: Sergey Golovnya - "Jazz in Heaven"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77424
+  date: '2019-03-27'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 77425
+  date: '2019-03-27'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Ирина Родилес, Тимур Некрасов, Сергей
+    Хутас, Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 77426
+  date: '2019-03-28'
+  time: '21:00'
+  band_name: Александр Довгополый Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77429
+  date: '2019-03-31'
+  time: '20:00'
+  band_name: Квартет Дмитрия Мосьпана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 77483
+  date: '2019-04-02'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77485
+  date: '2019-04-06'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77482
+  date: '2019-03-03'
+  time: '14:00'
+  band_name: Британский блюзовый бранч. Brent Hutchinson (UK).
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77484
+  date: '2019-04-03'
+  time: '20:00'
+  band_name: NBRS - New Blues Rhythm Section
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 77414
+  date: '2019-03-15'
+  time: '20:00'
+  band_name: Francesca Tandoi & Emanuele Cisi (Италия) - презентация альбома Sometimes
+    We're Happy
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77421
+  date: '2019-03-23'
+  time: '20:00'
+  band_name: V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77423
+  date: '2019-03-24'
+  time: '20:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77427
+  date: '2019-03-30'
+  time: '20:00'
+  band_name: Saxophone Party
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 77428
+  date: '2019-03-31'
+  time: '20:00'
+  band_name: Mike Ross. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 741
+    name: Mike Ross
+    token: mike-ross
+- id: 77486
+  date: '2019-04-02'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77612
+  date: '2019-03-08'
+  time: '14:00'
+  band_name: Swing Modern Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77613
+  date: '2019-03-10'
+  time: '20:00'
+  band_name: Квартет Юлии Поповой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77614
+  date: '2019-03-18'
+  time: '20:00'
+  band_name: Carlos Enrique Veitia Hechavarria
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 600 руб.
+- id: 77615
+  date: '2019-03-20'
+  time: '20:00'
+  band_name: DM Quintet - квинтет Максима Дурова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77616
+  date: '2019-03-20'
+  time: '20:00'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77617
+  date: '2019-03-25'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77618
+  date: '2019-03-26'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой «Песни старого Парижа»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77619
+  date: '2019-04-01'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77620
+  date: '2019-04-03'
+  time: '20:00'
+  band_name: Квартет Олега Бутмана с программой "Джазовые портреты Стиви Уандера"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 77621
+  date: '2019-04-04'
+  time: '20:00'
+  band_name: Московский квинтет саксофонов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77622
+  date: '2019-04-04'
+  time: '20:00'
+  band_name: Lotta Soul
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77623
+  date: '2019-04-05'
+  time: '20:00'
+  band_name: Petrovich-Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 77624
+  date: '2019-04-06'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77625
+  date: '2019-04-07'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77626
+  date: '2019-04-07'
+  time: '20:00'
+  band_name: Nick Sheffer Quintet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77627
+  date: '2019-04-07'
+  time: '20:00'
+  band_name: Jazz Guitar Evolution
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77628
+  date: '2019-04-08'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77629
+  date: '2019-04-09'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77630
+  date: '2019-04-10'
+  time: '20:00'
+  band_name: 'Дмитрий Носков: Я буду петь тебе, как Фрэнк'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77631
+  date: '2019-04-10'
+  time: '20:00'
+  band_name: 'Ирина Родилес и Трио Евгения Борца: Tribute to Joni Mitchel'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 77632
+  date: '2019-04-11'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77633
+  date: '2019-04-11'
+  time: '20:00'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77634
+  date: '2019-04-12'
+  time: '20:00'
+  band_name: Dariya & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77635
+  date: '2019-04-12'
+  time: '20:00'
+  band_name: Classy Jazz Олега Матвеева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 77636
+  date: '2019-04-13'
+  time: '20:00'
+  band_name: The Gracious
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77637
+  date: '2019-04-13'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 77638
+  date: '2019-04-14'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77639
+  date: '2019-04-14'
+  time: '20:00'
+  band_name: Квартет Павла Скорнякова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 77640
+  date: '2019-04-15'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78022
+  date: '2019-04-19'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78023
+  date: '2019-04-20'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78024
+  date: '2019-04-20'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78025
+  date: '2019-04-25'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78026
+  date: '2019-03-23'
+  time: '14:00'
+  band_name: Британский блюзовый Бранч. Трибьют The Rolling Stones
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78027
+  date: '2019-03-30'
+  time: '14:00'
+  band_name: Британский блюзовый бранч.  Mike Ross (Великобритания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 741
+    name: Mike Ross
+    token: mike-ross
+- id: 78028
+  date: '2019-03-30'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78029
+  date: '2019-04-01'
+  time: '20:00'
+  band_name: Ясмани & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 78030
+  date: '2019-04-08'
+  time: '20:00'
+  band_name: Fidel Alejandro Veitia
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 78031
+  date: '2019-04-09'
+  time: '20:00'
+  band_name: Тим Стаббз Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78032
+  date: '2019-04-15'
+  time: '20:00'
+  band_name: Sol K’rib
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 78033
+  date: '2019-04-16'
+  time: '20:00'
+  band_name: М. Меркулов, А. Беккер & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78034
+  date: '2019-04-16'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78035
+  date: '2019-04-17'
+  time: '20:00'
+  band_name: Jazz from Ladies
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78036
+  date: '2019-04-17'
+  time: '20:00'
+  band_name: 'Антон Румянцев: "Магия Nirvana, Искусство Beatles, Волшебство Queen"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 78037
+  date: '2019-04-18'
+  time: '20:00'
+  band_name: Алексей Попов (Санкт-Петербург) и трио Сергея Васильева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78038
+  date: '2019-04-18'
+  time: '20:00'
+  band_name: Олег Киреев (саксофон, джаз)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 78039
+  date: '2019-04-21'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78040
+  date: '2019-04-21'
+  time: '20:00'
+  band_name: Mara Kaye (Нью-Йорк)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 78041
+  date: '2019-04-21'
+  time: '20:30'
+  band_name: Анастасия Лютова и Лютый Бэнд
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78042
+  date: '2019-04-22'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78043
+  date: '2019-04-22'
+  time: '20:00'
+  band_name: Carlos Enrique Veitia Hechavarria
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78044
+  date: '2019-04-23'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78045
+  date: '2019-04-23'
+  time: '20:00'
+  band_name: Сергей Манукян и Евгений Борец с программой "Телефонная книга"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 78046
+  date: '2019-04-24'
+  time: '20:00'
+  band_name: Black Braces Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78047
+  date: '2019-04-24'
+  time: '20:00'
+  band_name: Лаванда Джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78048
+  date: '2019-04-25'
+  time: '20:00'
+  band_name: Елена Кись & Good Sound Men
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78049
+  date: '2019-04-26'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 78050
+  date: '2019-04-26'
+  time: '20:00'
+  band_name: Екатерина Черноусова и трио Игоря Молчанова с программой "Элла Фицджеральд
+    и не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78051
+  date: '2019-04-27'
+  time: '20:00'
+  band_name: 'Квинтет Олега Бутмана с новой программой:  "Джазовые портреты Майкла
+    Джэксона"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 78052
+  date: '2019-04-27'
+  time: '20:00'
+  band_name: Оркестр "Столичный Джаз"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78053
+  date: '2019-04-28'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78054
+  date: '2019-04-28'
+  time: '20:00'
+  band_name: Феликс Лахути - UniversaLove
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 78055
+  date: '2019-04-29'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78056
+  date: '2019-04-29'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78057
+  date: '2019-04-30'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78058
+  date: '2019-04-30'
+  time: '20:00'
+  band_name: Антон Котиков & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78059
+  date: '2019-05-01'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Диана Поленова, Сергей Хутас, Давид
+    Ткебучава и Тимур Некрасов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 4000 руб.
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 78060
+  date: '2019-05-02'
+  time: '20:00'
+  band_name: Raiz Latina
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78061
+  date: '2019-05-03'
+  time: '20:00'
+  band_name: Сергей Пахомов & Blues band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78062
+  date: '2019-05-06'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78063
+  date: '2019-05-07'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78064
+  date: '2019-05-09'
+  time: '20:00'
+  band_name: Секстет Виктории Кауновой и Ильи Морозова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78065
+  date: '2019-05-10'
+  time: '20:00'
+  band_name: Карина Кожевникова и трио Льва Кушнира
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78066
+  date: '2019-05-11'
+  time: '20:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78067
+  date: '2019-05-13'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78200
+  date: '2019-05-18'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78202
+  date: '2019-05-21'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78216
+  date: '2019-04-28'
+  time: '20:00'
+  band_name: Jon Amor. British Blues Invasion.
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 78218
+  date: '2019-05-14'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78206
+  date: '2019-04-06'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78208
+  date: '2019-04-13'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78210
+  date: '2019-04-14'
+  time: '20:00'
+  band_name: Ben Poole. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 664
+    name: Ben Poole
+    token: ben-poole
+- id: 78212
+  date: '2019-04-20'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78214
+  date: '2019-04-27'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78204
+  date: '2019-04-05'
+  time: '20:00'
+  band_name: 'Jazz Friends A''Cappella Band: spring mood a''cappella'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78562
+  date: '2019-05-23'
+  time: '20:00'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78564
+  date: '2019-05-24'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78566
+  date: '2019-05-25'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78568
+  date: '2019-05-15'
+  time: '20:00'
+  band_name: Вадим Азарх (Лондон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78570
+  date: '2019-05-15'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78571
+  date: '2019-05-16'
+  time: '20:00'
+  band_name: Стас Майнугин "Полёты во сне и наяву"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78575
+  date: '2019-05-19'
+  time: '20:00'
+  band_name: Snake Steak
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78576
+  date: '2019-05-20'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78583
+  date: '2019-05-27'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78584
+  date: '2019-05-28'
+  time: '20:00'
+  band_name: Kвартет Олега Бутмана с программой "Хиты Джаза"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 78585
+  date: '2019-05-28'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78589
+  date: '2019-05-29'
+  time: '20:00'
+  band_name: Макс Ротшильд и Full House
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78572
+  date: '2019-05-17'
+  time: '20:00'
+  band_name: Aleksey Fetisov Rock'n'Roll Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78573
+  date: '2019-05-17'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78574
+  date: '2019-05-18'
+  time: '20:00'
+  band_name: 'Ирина Родилес и трио Евгения Борца: Tribute to Joni Mitchel'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 78577
+  date: '2019-05-21'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78578
+  date: '2019-05-22'
+  time: '20:00'
+  band_name: Kali Trio (Швейцария)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78579
+  date: '2019-05-23'
+  time: '20:00'
+  band_name: 'Дмитрий Носков: Я буду петь тебе, как Фрэнк'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78580
+  date: '2019-05-24'
+  time: '20:00'
+  band_name: '"A New Generation" с трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 78581
+  date: '2019-05-25'
+  time: '20:00'
+  band_name: Алексей Попов (Санкт-Петербург) и трио Сергея Васильева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78582
+  date: '2019-05-26'
+  time: '20:00'
+  band_name: Dani Yard Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78671
+  date: '2019-07-19'
+  time: '20:00'
+  band_name: Busquitos (Нидерланды)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 78619
+  date: '2019-06-09'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "Тамара Оген & Magnet Vox\r\n\r\nТамара Оген & Magnet Vox - коллектив,\
+    \ исполняющий музыку на стыке блюза и джаза. Этот синтез родился в процессе выступлений\
+    \ и работы над песнями. Минимализм инструментального состава трио - фортепиано,\
+    \ бас-гитара, ударные и два вокала - насыщается импровизационностью каждой партии.\
+    \ В репертуаре Magnet Vox есть как жемчужины стилей блюз и джаз, так и яркие композиции\
+    \ собственного сочинения.\r\n.\r\nТамара Оген создает карту песни с помощью многоуровневых\
+    \ партий фортепиано, вбирая в себя разные регистры, ритмы и фактуры исполнения.\
+    \ Золотой ниткой в эту схему вплетается голос, дополняя звучание песен. В основе\
+    \ музыкального мышления лежат модуляции - путешествия по близким и далеким тональностям,\
+    \ дающие причудливые узоры гармонии.\r\n.\r\nВасилий Мотылец строит многогранные\
+    \ басовые партии, которые зачастую становятся ведущими в песне. Его политональное\
+    \ мышление позволяет создавать яркие, каждый раз новые, мелодические рисунки баса\
+    \ - все зависит от полета фантазии, от настроения музыканта. А в самые важные\
+    \ моменты он вступает в песню еще и собственным голосом, насыщая партию основного\
+    \ вокала дополнительными гармониями.\r\n.\r\nМихаил Данилов раскрывает новые возможности\
+    \ ударных инструментов. Добавляя самые разные звуки - браслеты с бубенцами, игра\
+    \ тамбурином по малому барабану, - он соединяет воедино разные ритмы и стили.\
+    \ Это позволяет коллективу делать самые неожиданные аранжировки известных стандартов,\
+    \ а также создавать новое, интересное звучание своих собственных песен.\r\n.\r\
+    \nСостав трио:\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара,\
+    \ вокал\r\nМихаил Данилов - ударные, перкуссия"
+- id: 78651
+  date: '2019-05-08'
+  time: '20:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78652
+  date: '2019-05-31'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78653
+  date: '2019-05-31'
+  time: '20:00'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78654
+  date: '2019-04-20'
+  time: '14:00'
+  band_name: Британский блюзовый бранч. Трибьют Дэвиду Гилмору
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78655
+  date: '2019-05-04'
+  time: '14:00'
+  band_name: Cool Jazz Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78656
+  date: '2019-05-04'
+  time: '20:00'
+  band_name: Фестиваль Алины Ростоцкой  «Молодая поросль»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78657
+  date: '2019-05-05'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78658
+  date: '2019-05-05'
+  time: '20:00'
+  band_name: Light Messengers Jazz Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78659
+  date: '2019-05-06'
+  time: '20:00'
+  band_name: Ясмани & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78660
+  date: '2019-05-11'
+  time: '14:00'
+  band_name: Cool Jazz Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78661
+  date: '2019-05-12'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78662
+  date: '2019-05-13'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78663
+  date: '2019-05-18'
+  time: '14:00'
+  band_name: Cool Jazz Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78664
+  date: '2019-05-19'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78665
+  date: '2019-05-22'
+  time: '20:00'
+  band_name: Django Friends и Анастасия Балахнина
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78666
+  date: '2019-05-25'
+  time: '14:00'
+  band_name: Cool Jazz Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78667
+  date: '2019-05-26'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 78668
+  date: '2019-05-29'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 78669
+  date: '2019-05-30'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Хосе Морян, Тимур Некрасов, Сергей Хутас,
+    Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 4000 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 78670
+  date: '2019-05-30'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78712
+  date: '2019-06-07'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78713
+  date: '2019-06-12'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78714
+  date: '2019-06-20'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 78715
+  date: '2019-06-22'
+  time: '20:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79346
+  date: '2019-06-29'
+  time: '20:00'
+  band_name: Алексей Попов (Санкт-Петербург) и трио Сергея Васильева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79347
+  date: '2019-06-29'
+  time: '20:00'
+  band_name: Swing modern project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79348
+  date: '2019-06-30'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79349
+  date: '2019-07-01'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79350
+  date: '2019-07-02'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79351
+  date: '2019-07-04'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Татьяна Ларина. Специальный гость Владимир Пресняков
+    старший'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79352
+  date: '2019-07-04'
+  time: '20:00'
+  band_name: 'Дмитрий Носков: Я буду петь тебе, как Фрэнк'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79353
+  date: '2019-07-05'
+  time: '20:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79354
+  date: '2019-07-06'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79355
+  date: '2019-07-06'
+  time: '20:00'
+  band_name: V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79356
+  date: '2019-07-06'
+  time: '20:00'
+  band_name: Чечётка-джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79357
+  date: '2019-07-07'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79358
+  date: '2019-07-08'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79359
+  date: '2019-07-09'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79360
+  date: '2019-07-11'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Тимофей Хазанов и Blacksaxband'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79361
+  date: '2019-07-13'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80361
+  date: '2019-08-04'
+  time: '20:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 79272
+  date: '2019-07-28'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "Элегантное московское трио Тамара Оген & Magnet Vox исполняет музыку\
+    \ на стыке блюза и джаза. Внешне минималистичный состав раз за разом удивляет\
+    \ слушателей: фортепиано и вокал причудливо переплетаются с многогранными басовыми\
+    \ и ударными партиями. Соединение стилей, разные настроения и полет фантазии -\
+    \ у них есть все то, за что мы любим джаз и блюз! А классическое музыкальное образование\
+    \ Тамары придает всей музыкальной картине точность и изящность.\r\n\r\nСостав\
+    \ трио:\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара, вокал\r\
+    \nМихаил Данилов - ударные, перкуссия"
+- id: 79273
+  date: '2019-08-25'
+  time: '20:00'
+  band_id: 763
+  band_name: Тамара Оген & Magnet Vox
+  band_token: tamara-ogen
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "Элегантное московское трио Тамара Оген & Magnet Vox исполняет музыку\
+    \ на стыке блюза и джаза. Внешне минималистичный состав раз за разом удивляет\
+    \ слушателей: фортепиано и вокал причудливо переплетаются с многогранными басовыми\
+    \ и ударными партиями. Соединение стилей, разные настроения и полет фантазии -\
+    \ у них есть все то, за что мы любим джаз и блюз! А классическое музыкальное образование\
+    \ Тамары придает всей музыкальной картине точность и изящность.\r\n\r\nСостав\
+    \ трио:\r\nТамара Оген - вокал, фортепиано\r\nВасилий Мотылец - бас-гитара, вокал\r\
+    \nМихаил Данилов - ударные, перкуссия"
+- id: 79310
+  date: '2019-06-08'
+  time: '20:00'
+  band_name: Nash Albert Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79344
+  date: '2019-06-28'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79345
+  date: '2019-06-29'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79276
+  date: '2019-06-19'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79277
+  date: '2019-06-27'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79278
+  date: '2019-06-28'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79279
+  date: '2019-06-30'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79280
+  date: '2019-07-05'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79281
+  date: '2019-07-10'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79282
+  date: '2019-07-12'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79283
+  date: '2019-07-12'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79284
+  date: '2019-07-13'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79285
+  date: '2019-07-19'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79286
+  date: '2019-06-01'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79287
+  date: '2019-06-01'
+  time: '14:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 79288
+  date: '2019-06-01'
+  time: '20:00'
+  band_name: Съедобный джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79289
+  date: '2019-06-01'
+  time: '20:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79290
+  date: '2019-06-02'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79291
+  date: '2019-06-02'
+  time: '20:00'
+  band_name: Live People Ensemble
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 79292
+  date: '2019-06-03'
+  time: '20:00'
+  band_name: Sandor's Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79293
+  date: '2019-06-03'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79294
+  date: '2019-06-04'
+  time: '20:00'
+  band_name: Татьяна Колосова и оркестр "Бельвиль" с программой «Песни старого Парижа»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79295
+  date: '2019-06-04'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79304
+  date: '2019-06-05'
+  time: '20:00'
+  band_name: Музыкальная гостиная Маши Кац
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79305
+  date: '2019-06-05'
+  time: '20:00'
+  band_name: 'Михаил Меркулов: "In Blues we trust"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79306
+  date: '2019-06-06'
+  time: '20:00'
+  band_name: Happy Jazz Birthday, Anna!
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79307
+  date: '2019-06-06'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Дмитрия Мосьпана'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 79308
+  date: '2019-06-07'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79309
+  date: '2019-06-08'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79311
+  date: '2019-06-08'
+  time: '20:00'
+  band_id: 350
+  band_name: Эдельвейс
+  band_token: edelveys
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79312
+  date: '2019-06-09'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79313
+  date: '2019-06-09'
+  time: '20:00'
+  band_name: Rosco Levee. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 690
+    name: Rosco Levee
+    token: rosco-levee
+- id: 79314
+  date: '2019-06-10'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79315
+  date: '2019-06-10'
+  time: '20:00'
+  band_name: Carlos Enrique Veitia Hechavarria
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79316
+  date: '2019-06-11'
+  time: '20:00'
+  band_name: Джаз-дуэт "Нормально, Григорий! Отлично, Константин!"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79317
+  date: '2019-06-11'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79318
+  date: '2019-06-13'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79319
+  date: '2019-06-13'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Павла Скорнякова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79320
+  date: '2019-06-14'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 79321
+  date: '2019-06-14'
+  time: '20:00'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 79322
+  date: '2019-06-15'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79323
+  date: '2019-06-15'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79324
+  date: '2019-06-15'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79325
+  date: '2019-06-16'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79326
+  date: '2019-06-16'
+  time: '20:00'
+  band_name: Трио Григория Сандомирского
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79327
+  date: '2019-06-17'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79328
+  date: '2019-06-17'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79329
+  date: '2019-06-18'
+  time: '20:00'
+  band_name: Смирный и друзья
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79330
+  date: '2019-06-18'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79331
+  date: '2019-06-19'
+  time: '20:00'
+  band_id: 181
+  band_name: Маша Кац
+  band_token: masha-kaz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79332
+  date: '2019-06-20'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Антон Боев & ATAVA Band'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79333
+  date: '2019-06-21'
+  time: '20:00'
+  band_name: Francesca Tandoi (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79334
+  date: '2019-06-21'
+  time: '20:00'
+  band_name: 'Ирина Родилес: Tribute to Joni Mitchel'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 79335
+  date: '2019-06-22'
+  time: '14:00'
+  band_name: Cool jazz jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79336
+  date: '2019-06-22'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 79337
+  date: '2019-06-23'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79338
+  date: '2019-06-23'
+  time: '20:00'
+  band_name: Ron Sayer. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 79339
+  date: '2019-06-24'
+  time: '20:00'
+  band_name: Ясмани & Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79340
+  date: '2019-06-24'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79341
+  date: '2019-06-25'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79342
+  date: '2019-06-26'
+  time: '20:00'
+  band_name: NBRS - New Blues Rhythm Section
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 79343
+  date: '2019-06-27'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Анатолия Осипова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79908
+  date: '2019-07-10'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79909
+  date: '2019-07-27'
+  time: '20:00'
+  band_name: The BigBuddy Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79910
+  date: '2019-07-01'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79911
+  date: '2019-07-03'
+  time: '20:00'
+  band_name: VR's Birthday JAM Party
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 79912
+  date: '2019-07-03'
+  time: '20:00'
+  band_name: Таль Бабицкий (Израиль)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79913
+  date: '2019-07-07'
+  time: '20:00'
+  band_name: Дарья Захарова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79914
+  date: '2019-07-08'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 79915
+  date: '2019-07-09'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 79916
+  date: '2019-07-11'
+  time: '20:00'
+  band_name: Baskerville’s Cat (Jazz Sextet)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80365
+  date: '2019-08-18'
+  time: '20:00'
+  band_id: 673
+  band_name: Innes Sibun
+  band_token: innes-sibun
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 80462
+  date: '2019-08-02'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80463
+  date: '2019-08-16'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80464
+  date: '2019-08-17'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80465
+  date: '2019-08-20'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80466
+  date: '2019-08-23'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80467
+  date: '2019-08-30'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80468
+  date: '2019-08-30'
+  time: '20:00'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80469
+  date: '2019-07-31'
+  time: '20:00'
+  band_name: Алексей Соколов (аккордеон) с программой "? Paris!.."
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80470
+  date: '2019-07-31'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов:  Михаил Кистанов & Layna Shery'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 80471
+  date: '2019-08-01'
+  time: '20:00'
+  band_name: The Jivesouls
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80472
+  date: '2019-08-01'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Ольга Лисикова и Андрей Бессонов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80473
+  date: '2019-08-02'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Михаил Мишурис и Андрей Бессонов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80474
+  date: '2019-08-03'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80475
+  date: '2019-08-03'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Юрий Каверкин и Слава Виноградов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 80476
+  date: '2019-08-03'
+  time: '20:00'
+  band_name: Лиза Павлюкова и V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80477
+  date: '2019-08-04'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80478
+  date: '2019-08-04'
+  time: '20:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 80479
+  date: '2019-08-04'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Надя Алексеева и Саден Ферганий'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80480
+  date: '2019-08-05'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80481
+  date: '2019-08-05'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80502
+  date: '2019-08-16'
+  time: '20:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80503
+  date: '2019-08-17'
+  time: '20:00'
+  band_name: Saxophone Party
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 80504
+  date: '2019-08-18'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80505
+  date: '2019-08-18'
+  time: '20:00'
+  band_id: 673
+  band_name: Innes Sibun
+  band_token: innes-sibun
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 80506
+  date: '2019-08-19'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80507
+  date: '2019-08-19'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80508
+  date: '2019-08-20'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80509
+  date: '2019-08-21'
+  time: '20:00'
+  band_name: 'Антон Румянцев: Магия Nirvana, Искусство Beatles, Волшебство Queen'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 80510
+  date: '2019-08-22'
+  time: '20:00'
+  band_name: Оркестр "Столичный Джаз"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80511
+  date: '2019-08-22'
+  time: '20:00'
+  band_name: 'Lady & Jamtlemen: Полина Касьянова, Андрей Макаревич, Евгений Борец,
+    Константин Гевондян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 3000 руб.
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 80512
+  date: '2019-08-23'
+  time: '20:00'
+  band_name: '61 Highway: Доктор Аграновский, Вадим Иващенко и Юрий Каверкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 80513
+  date: '2019-08-24'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80514
+  date: '2019-08-24'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 80515
+  date: '2019-08-25'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80516
+  date: '2019-08-26'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80517
+  date: '2019-08-27'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80518
+  date: '2019-08-28'
+  time: '20:00'
+  band_name: Sakhra Lounge
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80519
+  date: '2019-08-28'
+  time: '20:00'
+  band_name: 'Дмитрий Носков: Я буду петь тебе, как Фрэнк'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80520
+  date: '2019-08-29'
+  time: '20:00'
+  band_name: Антон Котиков
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80521
+  date: '2019-08-29'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 80522
+  date: '2019-08-31'
+  time: '20:00'
+  band_name: 'Ирина Родилес: Jazz songs of All Time'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 80523
+  date: '2019-08-31'
+  time: '20:00'
+  band_name: Mishouris Blues Band XXL
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 80482
+  date: '2019-08-06'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов:  Анастасия Лютова и Алексей Подымкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80483
+  date: '2019-08-06'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80484
+  date: '2019-08-07'
+  time: '20:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80485
+  date: '2019-08-07'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов. Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 80486
+  date: '2019-08-08'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Ирина Родилес и Олег Стариков'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 80487
+  date: '2019-08-08'
+  time: '20:00'
+  band_name: Квартет Азата Баязитова (саксофон) и Анастасия Проклова (вокал). Специальный
+    гость Борис Козлов (контрабас)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80488
+  date: '2019-08-09'
+  time: '20:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80489
+  date: '2019-08-10'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80490
+  date: '2019-08-10'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: Людмила Сваровская и Дмитрий Яковлев'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 80491
+  date: '2019-08-11'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80492
+  date: '2019-08-11'
+  time: '20:00'
+  band_name: 'Фестиваль дуэтов: The JAMtlemen - Евгений Борец и Константин Гевондян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 80493
+  date: '2019-08-11'
+  time: '20:00'
+  band_name: Snake Steak
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80494
+  date: '2019-08-12'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80495
+  date: '2019-08-12'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80496
+  date: '2019-08-13'
+  time: '20:00'
+  band_name: 'Квинтет Олега Бутмана с новой программой: "Джазовые портреты Майкла
+    Джэксона"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 80497
+  date: '2019-08-13'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80498
+  date: '2019-08-14'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой «Песни старого Парижа»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80499
+  date: '2019-08-14'
+  time: '20:00'
+  band_name: Чечётка-джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 80500
+  date: '2019-08-15'
+  time: '20:00'
+  band_name: Ibsen band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 80501
+  date: '2019-08-15'
+  time: '20:00'
+  band_name: NBRS - New Blues Rhythm Section
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 81115
+  date: '2019-09-01'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81116
+  date: '2019-09-08'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81117
+  date: '2019-09-15'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81130
+  date: '2019-09-17'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81147
+  date: '2019-09-05'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81148
+  date: '2019-09-05'
+  time: '20:00'
+  band_name: Elena et les garcons
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81149
+  date: '2019-09-04'
+  time: '20:00'
+  band_name: Евгений Борец представляет новую программу "Борец". Принимает участие
+    Леван Ломидзе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 81150
+  date: '2019-09-18'
+  time: '20:00'
+  band_name: Евгений Борец представляет новую программу "Борец". Принимает участие
+    Ирина Родилес
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 81151
+  date: '2019-09-06'
+  time: '20:00'
+  band_name: Сергей Пахомов & Blues band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81152
+  date: '2019-09-07'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81155
+  date: '2019-09-08'
+  time: '20:00'
+  band_name: Tweed Retreat
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81156
+  date: '2019-09-08'
+  time: '20:00'
+  band_name: Carlos & Jazz Park
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81157
+  date: '2019-09-10'
+  time: '20:00'
+  band_name: 'Квартет Олега Бутмана: "Джазовые портреты Стиви Уандера"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81158
+  date: '2019-09-11'
+  time: '20:00'
+  band_name: Стихийный джаз. Екатерина Гришаева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81159
+  date: '2019-09-12'
+  time: '20:00'
+  band_name: Наталья Скворцова. Концерт в День Рождения
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81160
+  date: '2019-09-12'
+  time: '20:00'
+  band_name: Matt Long (Великобритания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81161
+  date: '2019-09-13'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81162
+  date: '2019-09-13'
+  time: '20:00'
+  band_name: V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81163
+  date: '2019-09-14'
+  time: '20:00'
+  band_name: Sharon Clark (США)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81170
+  date: '2019-09-19'
+  time: '20:00'
+  band_name: Макс Ротшильд, Сергей Баранов и Full House
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81171
+  date: '2019-09-20'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81172
+  date: '2019-09-20'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81173
+  date: '2019-09-21'
+  time: '20:00'
+  band_name: Saxophone Party
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81174
+  date: '2019-09-22'
+  time: '20:00'
+  band_name: Anatoly Osipov Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81176
+  date: '2019-09-23'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81180
+  date: '2019-09-26'
+  time: '20:00'
+  band_name: Феликс Лахути - UniversaLove
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 81118
+  date: '2019-09-22'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81119
+  date: '2019-09-29'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81120
+  date: '2019-09-29'
+  time: '20:00'
+  band_name: Борис Мальковский (баян, Израиль), Евгений Гречищев (фортепиано), Сергей
+    Хутас (контрабас), Игорь Игнатов (барабаны)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 81121
+  date: '2019-09-29'
+  time: '20:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81122
+  date: '2019-09-30'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81123
+  date: '2019-09-30'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81124
+  date: '2019-09-23'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81125
+  date: '2019-09-16'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81126
+  date: '2019-09-09'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81127
+  date: '2019-09-02'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81128
+  date: '2019-09-03'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81129
+  date: '2019-09-10'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81131
+  date: '2019-09-24'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81132
+  date: '2019-10-01'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81133
+  date: '2019-10-01'
+  time: '20:00'
+  band_name: Francesca Tandoi (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81134
+  date: '2019-09-28'
+  time: '20:00'
+  band_name: Alexey Popov Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81135
+  date: '2019-09-28'
+  time: '20:00'
+  band_name: Mishouris Blues Band XXL
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 81136
+  date: '2019-09-28'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81137
+  date: '2019-09-21'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81138
+  date: '2019-09-14'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81139
+  date: '2019-09-07'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81140
+  date: '2019-09-29'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81141
+  date: '2019-09-22'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81142
+  date: '2019-09-04'
+  time: '20:00'
+  band_name: Дмитрий Купцов и Dario Napoli (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81143
+  date: '2019-09-03'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 81144
+  date: '2019-09-01'
+  time: '20:00'
+  band_name: Katerina & Gary Brown (США)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81145
+  date: '2019-09-01'
+  time: '20:00'
+  band_id: 650
+  band_name: Danny Giles
+  band_token: danny-giles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81146
+  date: '2019-09-02'
+  time: '20:00'
+  band_name: Sandor Torres (Куба)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81153
+  date: '2019-09-07'
+  time: '20:00'
+  band_name: Съедобный джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81154
+  date: '2019-09-08'
+  time: '20:00'
+  band_name: Дмитрий Илугдин и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 81164
+  date: '2019-09-14'
+  time: '20:00'
+  band_name: Темур Квителашвили (гитара, вокал / Грузия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81165
+  date: '2019-09-15'
+  time: '20:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81166
+  date: '2019-09-16'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81167
+  date: '2019-09-17'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81168
+  date: '2019-09-18'
+  time: '20:00'
+  band_name: Стихийный джаз. Максим Маминов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81169
+  date: '2019-09-19'
+  time: '20:00'
+  band_name: 'Lady & Jamtlemen: Полина Касьянова, Андрей Макаревич, Евгений Борец,
+    Константин Гевондян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 81175
+  date: '2019-09-22'
+  time: '20:00'
+  band_name: Алексей Фетисов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81177
+  date: '2019-09-24'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81178
+  date: '2019-09-25'
+  time: '20:00'
+  band_name: Стихийный джаз. Дарья Ретинская
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81179
+  date: '2019-09-25'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81181
+  date: '2019-09-26'
+  time: '20:00'
+  band_id: 766
+  band_name: Chris Cain
+  band_token: chris-cain
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81182
+  date: '2019-09-27'
+  time: '20:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81183
+  date: '2019-09-27'
+  time: '20:00'
+  band_name: '61 Highway: Доктор Аграновский, Вадим Иващенко и Юрий Каверкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 81564
+  date: '2019-10-06'
+  time: '14:00'
+  band_name: Французский бранч. Татьяна Колосова и Les Freres Frederick
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81566
+  date: '2019-10-06'
+  time: '20:00'
+  band_name: Piano jazz. Евгения Петерс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81568
+  date: '2019-10-07'
+  time: '20:00'
+  band_name: Sandor Torres
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81570
+  date: '2019-10-07'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81572
+  date: '2019-10-08'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81574
+  date: '2019-10-08'
+  time: '20:00'
+  band_name: Квинтет Олега Бутмана с программой "Джазовые портреты Майкла Джэксона"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 81576
+  date: '2019-10-09'
+  time: '20:00'
+  band_name: Стихийный джаз. Михаил Уманец
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81578
+  date: '2019-10-09'
+  time: '20:00'
+  band_name: Sakhra lounge
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81580
+  date: '2019-10-10'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Павла Скорнякова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 81582
+  date: '2019-10-10'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 81584
+  date: '2019-10-11'
+  time: '20:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81586
+  date: '2019-10-11'
+  time: '20:00'
+  band_name: Флорин Никулеску (Франция)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 81589
+  date: '2019-10-12'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81590
+  date: '2019-10-12'
+  time: '20:00'
+  band_name: The Gracious
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81591
+  date: '2019-10-12'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81592
+  date: '2019-10-13'
+  time: '14:00'
+  band_name: Французский бранч. Iskra band и Дарья Ретинская
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81593
+  date: '2019-10-13'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81594
+  date: '2019-10-13'
+  time: '20:00'
+  band_name: Jimmy C. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 81595
+  date: '2019-10-14'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81596
+  date: '2019-10-14'
+  time: '20:00'
+  band_name: Sol K’rib
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81601
+  date: '2019-10-15'
+  time: '20:00'
+  band_name: Фриц Ландесберген (Нидерланды)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 81603
+  date: '2019-10-15'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81605
+  date: '2019-10-16'
+  time: '20:00'
+  band_name: Стихийный джаз. Максим Мальцев
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81607
+  date: '2019-10-17'
+  time: '20:00'
+  band_id: 181
+  band_name: Маша Кац
+  band_token: masha-kaz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81608
+  date: '2019-10-17'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Олега Киреева'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 81609
+  date: '2019-10-18'
+  time: '20:00'
+  band_name: Aaron LeRoy Myers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81610
+  date: '2019-10-19'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81611
+  date: '2019-10-19'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 81612
+  date: '2019-10-20'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81613
+  date: '2019-10-20'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81614
+  date: '2019-10-20'
+  time: '20:00'
+  band_name: Piano jazz. Михаил Огнянер
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81615
+  date: '2019-10-21'
+  time: '20:00'
+  band_name: Carlos & Jazz Park
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81529
+  date: '2019-10-04'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 81530
+  date: '2019-10-04'
+  time: '20:00'
+  band_id: 709
+  band_name: Алексей Давлетшин
+  band_token: aleksej-davletshin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81531
+  date: '2019-10-06'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81532
+  date: '2019-10-16'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81533
+  date: '2019-10-18'
+  time: '20:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81534
+  date: '2019-10-19'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81535
+  date: '2019-10-24'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 81536
+  date: '2019-11-02'
+  time: '20:00'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 2000 руб.
+- id: 81537
+  date: '2019-11-08'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1200 руб.
+- id: 81538
+  date: '2019-09-28'
+  time: '14:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 81539
+  date: '2019-09-29'
+  time: '14:00'
+  band_name: Французский бранч. Сергей Сидоров
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81540
+  date: '2019-09-29'
+  time: '20:00'
+  band_name: Julian Burdock. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+  extra_bands:
+  - id: 653
+    name: Julian Burdock
+    token: julian-burdock
+- id: 81541
+  date: '2019-10-02'
+  time: '20:00'
+  band_name: 'Борец: Евгений Борец и Сергей Манукян.'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 81542
+  date: '2019-10-02'
+  time: '20:00'
+  band_name: Стихийный джаз. Денис Кузнецов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81543
+  date: '2019-10-03'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Nick Sheffer Quintet'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81544
+  date: '2019-10-03'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81545
+  date: '2019-10-05'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81546
+  date: '2019-10-05'
+  time: '20:00'
+  band_name: Леди в джазе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 81547
+  date: '2019-10-05'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81548
+  date: '2019-10-06'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81616
+  date: '2019-10-21'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81617
+  date: '2019-10-22'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 81618
+  date: '2019-10-22'
+  time: '20:00'
+  band_name: Михаил Меркулов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81619
+  date: '2019-10-22'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81620
+  date: '2019-10-23'
+  time: '20:00'
+  band_name: 'Борец: Евгений Борец, Сергей Хутас, Хосе Морян, Алина Владимирова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 81621
+  date: '2019-10-23'
+  time: '20:00'
+  band_name: Стихийный джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81622
+  date: '2019-10-24'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Дмитрия Мосьпана'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 800 руб.
+- id: 81623
+  date: '2019-10-25'
+  time: '20:00'
+  band_name: '61 Highway: Доктор Аграновский, Вадим Иващенко и Юрий Каверкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 81624
+  date: '2019-10-25'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81625
+  date: '2019-10-26'
+  time: '14:00'
+  band_name: Пиано Сакс
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81626
+  date: '2019-10-26'
+  time: '20:00'
+  band_name: Mishouris Blues Chicago
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 81627
+  date: '2019-10-26'
+  time: '20:00'
+  band_name: Saxophone Party. Ольга Захарова. Свяослав Текучёв. Тимофей Хазанов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 81628
+  date: '2019-10-27'
+  time: '14:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81629
+  date: '2019-10-27'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81630
+  date: '2019-10-27'
+  time: '20:00'
+  band_name: Piano jazz. Трио Григория Сандомирского
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81631
+  date: '2019-10-28'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81632
+  date: '2019-10-28'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81633
+  date: '2019-10-29'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81634
+  date: '2019-10-29'
+  time: '20:00'
+  band_name: S.M.S. Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81635
+  date: '2019-10-30'
+  time: '20:00'
+  band_name: Стихийный джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81636
+  date: '2019-10-31'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Марии Арт'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81637
+  date: '2019-10-31'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Диана Поленова, Ирина Родилес, Сергей
+    Хутас, Давид Ткебучава и Тимур Некрасов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 4000 руб.
+  extra_bands:
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 81638
+  date: '2019-11-01'
+  time: '20:00'
+  band_name: Алексей Фетисов. Блюз. Рок-н-ролл.
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81639
+  date: '2019-11-01'
+  time: '20:00'
+  band_name: Алёна Поль & ASK Trio в концертной программе «Seasons»
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81640
+  date: '2019-11-02'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81641
+  date: '2019-11-02'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81642
+  date: '2019-11-03'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81643
+  date: '2019-11-03'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81653
+  date: '2019-11-05'
+  time: '20:00'
+  band_name: Музыкальная гостиная Маши Кац
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81655
+  date: '2019-11-05'
+  time: '20:00'
+  band_name: Great Blues Jam с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 81657
+  date: '2019-11-07'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Александр Довгополый Project'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 700 руб.
+- id: 81659
+  date: '2019-11-07'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81661
+  date: '2019-11-08'
+  time: '20:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 81649
+  date: '2019-11-03'
+  time: '20:00'
+  band_name: Трио Асии Шакировой и Надежда Кузнецова (вокал)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1500 руб.
+- id: 81651
+  date: '2019-11-04'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+- id: 82509
+  date: '2019-11-03'
+  time: '20:00'
+  band_id: 741
+  band_name: Mike Ross
+  band_token: mike-ross
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82510
+  date: '2019-11-04'
+  time: '14:00'
+  band_name: 'Концерт в обед: Swing Modern Project'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82511
+  date: '2019-11-04'
+  time: '20:00'
+  band_name: BananasJazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82512
+  date: '2019-11-06'
+  time: '20:00'
+  band_name: Marina Volkova Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82514
+  date: '2019-11-09'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82515
+  date: '2019-11-16'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82516
+  date: '2019-11-23'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82517
+  date: '2019-11-30'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82519
+  date: '2019-12-01'
+  time: '20:00'
+  band_name: Трио Натальи Скворцовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82520
+  date: '2019-12-02'
+  time: '20:00'
+  band_name: Carlos & Jazz Park
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82521
+  date: '2019-12-03'
+  time: '20:00'
+  band_name: 'Квартет Олега Бутмана: "Джазовые портреты Стиви Уандера"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82524
+  date: '2019-12-08'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82525
+  date: '2019-11-09'
+  time: '20:00'
+  band_id: 473
+  band_name: Антон Баронин и Orchestra 2.0
+  band_token: orchestra2.0
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82533
+  date: '2019-11-18'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82534
+  date: '2019-11-25'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82539
+  date: '2019-11-14'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Тимофей Хазанов и Blacksaxband'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82540
+  date: '2019-11-14'
+  time: '20:00'
+  band_name: Екатерина Черноусова и Трио Игоря Молчанова с программой "Элла Фицджеральд
+    и не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82541
+  date: '2019-11-15'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82542
+  date: '2019-11-15'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 82543
+  date: '2019-11-16'
+  time: '14:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82544
+  date: '2019-11-16'
+  time: '20:00'
+  band_name: Petrovich-Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82545
+  date: '2019-11-16'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82551
+  date: '2019-11-20'
+  time: '20:00'
+  band_name: Денис Мажуков
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 82552
+  date: '2019-11-21'
+  time: '20:00'
+  band_id: 328
+  band_name: Алекс Ростоцкий
+  band_token: alex-rostotsky
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82513
+  date: '2019-11-06'
+  time: '20:00'
+  band_name: Стихийный джаз. Анна Марлиони
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82518
+  date: '2019-11-30'
+  time: '20:00'
+  band_name: Mishouris Blues Band XXL
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+- id: 82555
+  date: '2019-11-22'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 82556
+  date: '2019-11-23'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82559
+  date: '2019-11-24'
+  time: '20:00'
+  band_name: Николай Арутюнов & Funky Soul
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82560
+  date: '2019-11-25'
+  time: '20:00'
+  band_name: Sol K'rib (Куба)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82561
+  date: '2019-11-27'
+  time: '20:00'
+  band_name: 'Антон Румянцев: "Магия Nirvana, Искусство Beatles, Волшебство Queen"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82563
+  date: '2019-11-27'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82706
+  date: '2019-12-04'
+  time: '13:00'
+  band_name: Ольга Захарова (саксофон) и Владислав Дубровин (фортепиано)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82522
+  date: '2019-12-05'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Московский квинтет саксофонов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82523
+  date: '2019-12-06'
+  time: '20:00'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82526
+  date: '2019-11-09'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82527
+  date: '2019-11-10'
+  time: '14:00'
+  band_name: Французский бранч. Iskra band и Дарья Ретинская
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82528
+  date: '2019-11-17'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82529
+  date: '2019-11-24'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82530
+  date: '2019-11-17'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82531
+  date: '2019-11-24'
+  time: '14:00'
+  band_name: Французский бранч
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82532
+  date: '2019-11-11'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82535
+  date: '2019-11-11'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82536
+  date: '2019-11-12'
+  time: '20:00'
+  band_name: Алексей White Белов, Удачное приобретение и Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 82537
+  date: '2019-11-13'
+  time: '20:00'
+  band_name: NBRS - New Blues Rhythm Section
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 36
+    name: Blues Rhythm Section
+    token: blues-rhythm-section
+- id: 82538
+  date: '2019-11-13'
+  time: '20:00'
+  band_name: БОРЕЦ. Евгений Борец и Леван Ломидзе
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 82546
+  date: '2019-11-17'
+  time: '20:00'
+  band_name: Piano jazz. Иван Фармаковский
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 82547
+  date: '2019-11-17'
+  time: '20:00'
+  band_id: 765
+  band_name: Matt Pearce
+  band_token: matt-pearce
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82548
+  date: '2019-11-18'
+  time: '20:00'
+  band_name: Sandor Torres
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82549
+  date: '2019-11-19'
+  time: '20:00'
+  band_name: 'Квинтет Олега Бутмана с программой: "Джазовые портреты Майкла Джэксона"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82550
+  date: '2019-11-20'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 82553
+  date: '2019-11-21'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Nick Sheffer Quintet'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82554
+  date: '2019-11-22'
+  time: '20:00'
+  band_name: Чечетка-Джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82557
+  date: '2019-11-23'
+  time: '20:00'
+  band_name: Alexey Popov Quartet (Санкт-Петербург)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82558
+  date: '2019-11-24'
+  time: '20:00'
+  band_name: Piano jazz. Трио Геннадия Филина
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82562
+  date: '2019-11-26'
+  time: '20:00'
+  band_name: Дмитрий Купцов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82564
+  date: '2019-11-28'
+  time: '20:00'
+  band_name: 'Саксофон по четвергам: Квартет Анатолия Осипова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82565
+  date: '2019-11-28'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82566
+  date: '2019-11-29'
+  time: '20:00'
+  band_name: James Williams (труба, вокал/США), Yaacov Mayman (саксофон/США), Alexandra
+    Mogilevich (ударные/США), Вадим Майнугин (фортепиано), Владимир Переверзев (бас)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82567
+  date: '2019-11-29'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82568
+  date: '2019-11-30'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82707
+  date: '2019-12-29'
+  time: '20:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82708
+  date: '2019-12-29'
+  time: '20:00'
+  band_name: Михаил Меркулов и Ирина Родилес
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 82709
+  date: '2019-12-28'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82710
+  date: '2019-12-14'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82711
+  date: '2019-12-21'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82712
+  date: '2019-12-23'
+  time: '20:00'
+  band_name: Hot Havana Orchestra
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82713
+  date: '2019-12-22'
+  time: '20:00'
+  band_name: Мила Сваровская и квартет Дмитрия Яковлева в праздничной программе "Рождественские
+    Истории"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82714
+  date: '2019-12-22'
+  time: '20:00'
+  band_name: Джаз-трио Игоря Молчанова и Юрия Рябова с программой "Фрэнк Синатра и
+    не только"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82715
+  date: '2019-12-21'
+  time: '20:00'
+  band_name: Джаз-квинтет "Эдельвейс"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 350
+    name: Эдельвейс
+    token: edelveys
+- id: 82716
+  date: '2019-12-21'
+  time: '14:00'
+  band_name: Новогодний концерт для всей семьи с Анной Бутурлиной
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82717
+  date: '2019-12-14'
+  time: '14:00'
+  band_name: Новогодний концерт для всей семьи с Анной Бутурлиной
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82718
+  date: '2019-12-17'
+  time: '20:00'
+  band_name: Тим Стаббз Трио (США)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82719
+  date: '2019-12-16'
+  time: '20:00'
+  band_name: Sandor Torres (Куба)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82720
+  date: '2019-12-15'
+  time: '20:00'
+  band_name: 'Lady & Jamtlemen: Полина Касьянова, Андрей Макаревич, Евгений Борец,
+    Константин Гевондян'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 82721
+  date: '2019-12-15'
+  time: '20:00'
+  band_name: Dave Ellis (Великобритания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82722
+  date: '2019-12-14'
+  time: '20:00'
+  band_name: Saxophone Party. Ольга Захарова. Свяослав Текучев. Тимофей Хазанов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82723
+  date: '2019-12-14'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82724
+  date: '2019-12-13'
+  time: '20:00'
+  band_name: '61 Highway: Доктор Аграновский, Вадим Иващенко и Юрий Каверкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 82725
+  date: '2019-12-13'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82726
+  date: '2019-12-12'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 82727
+  date: '2019-12-12'
+  time: '20:00'
+  band_name: Квартет Антона Котикова (саксофон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82728
+  date: '2019-12-11'
+  time: '20:00'
+  band_name: Tweed Retreat
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82729
+  date: '2019-12-11'
+  time: '20:00'
+  band_id: 147
+  band_name: Евгений Борец
+  band_token: evgeny-borets
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82730
+  date: '2019-12-10'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82731
+  date: '2019-12-09'
+  time: '20:00'
+  band_name: Eduardo Breff & su Son del Son
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82735
+  date: '2019-12-07'
+  time: '14:00'
+  band_name: Sax Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82733
+  date: '2019-12-07'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82736
+  date: '2019-12-06'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82737
+  date: '2019-12-04'
+  time: '20:00'
+  band_name: Трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 82739
+  date: '2019-12-05'
+  time: '20:00'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82691
+  date: '2019-12-01'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82692
+  date: '2019-12-08'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82693
+  date: '2019-12-15'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82694
+  date: '2019-12-22'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82695
+  date: '2019-12-29'
+  time: '14:00'
+  band_name: Hot Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82696
+  date: '2019-12-01'
+  time: '20:00'
+  band_id: 674
+  band_name: Tony Remy
+  band_token: tony-remy
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82698
+  date: '2019-12-02'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82699
+  date: '2019-12-09'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82700
+  date: '2019-12-16'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82701
+  date: '2019-12-23'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82702
+  date: '2019-12-03'
+  time: '20:00'
+  band_name: Great Blues Jam с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82703
+  date: '2019-12-10'
+  time: '20:00'
+  band_name: Great Blues Jam с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82704
+  date: '2019-12-17'
+  time: '20:00'
+  band_name: Great Blues Jam с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82705
+  date: '2019-12-24'
+  time: '20:00'
+  band_name: Great Blues Jam с Михаилом Мишурисом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82734
+  date: '2019-12-07'
+  time: '20:00'
+  band_name: The Gracious
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82690
+  date: '2019-12-01'
+  time: '14:00'
+  band_name: Французский бранч. Трио "Французский бульвар"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 82738
+  date: '2019-12-04'
+  time: '20:00'
+  band_name: Надя Алексеева. Nova Bossa Nova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam

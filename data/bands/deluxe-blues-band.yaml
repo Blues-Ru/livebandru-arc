@@ -1,0 +1,21 @@
+id: 377
+token: deluxe-blues-band
+name: Deluxe Blues Band
+alive: true
+url: http://deluxebluesband.com/
+city_id: 70
+genre_id: 1
+clips:
+- id: 1553
+  type: weblink
+  url: http://deluxebluesband.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1554
+  type: rss
+  url: http://twitter.com/statuses/user_timeline/239465109.rss
+  sort_order: 99
+- id: 2097
+  type: rss
+  url: http://dartpaul.livejournal.com/data/rss
+  sort_order: 199

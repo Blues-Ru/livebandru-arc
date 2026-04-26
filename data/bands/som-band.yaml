@@ -1,0 +1,28 @@
+id: 638
+token: som-band
+name: Som Band
+alive: true
+url: http://vk.com/som_band
+city_id: 7
+genre_id: 1
+clips:
+- id: 5001
+  type: photo
+  url: som-band.jpg
+  sort_order: 0
+  width: 402
+  height: 604
+- id: 5002
+  type: weblink
+  url: http://vk.com/som_band
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 403
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Som Band - воронежская группа, играющая блюз, следуя традициям жанра.
+  verified: true
+  created: '2014-03-27'
+  is_press_release: true

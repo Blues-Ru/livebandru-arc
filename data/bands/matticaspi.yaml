@@ -1,0 +1,35 @@
+id: 219
+token: matticaspi
+name: Мати Каспи
+alive: true
+url: http://www.matticaspi.co.il/home/index_eng.shtml
+city_id: 47
+genre_id: 3
+secondary_genre_id: 13
+clips:
+- id: 648
+  type: weblink
+  url: http://www.matticaspi.co.il/home/index_eng.shtml
+  name: Официальный сайт
+  sort_order: 0
+- id: 647
+  type: weblink
+  url: http://n.wikipedia.org/wiki/Matti_Caspi
+  name: Wikipedia
+  sort_order: 99
+- id: 649
+  type: weblink
+  url: http://www.last.fm/music/Matti+Caspi
+  name: last.fm
+  sort_order: 299
+- id: 650
+  type: weblink
+  url: http://www.imdb.com/name/nm0143874/
+  name: IMDb
+  sort_order: 399
+- id: 651
+  type: youtube
+  url: http://www.youtube.com/?v=dSm6wZpqMlc
+  name: Matti Caspi
+  comments: 'Matti Caspi: "Suzy Dulcinea"+interview'
+  sort_order: 99

@@ -1,0 +1,46 @@
+- id: 26389
+  date: '2012-03-23'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  comments: 'С программой: "Эра свинга. Часть II: От малого ансамбля до оркестра".
+    В концерте прозвучит музыка знаменитых коллективов 30-х годов XX века: Каунта
+    Бэйси, Каса Лома, Боба Кросби, Джона Кирби, Банни Беригана и др.'
+- id: 26964
+  date: '2012-05-10'
+  time: '21:00'
+  band_name: Osipov Band (Анатолий Осипов - тенор-саксофон, Алексей Рябухин - клавишные,
+    Михаил Павельев - гитара, Алексей Заволокин - бас-гитара, Петр Ившин - барабаны)
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  price: бесплатный
+  extra_bands:
+  - id: 369
+    name: Алексей Рябухин
+    token: alexey-ryabykhin
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 27008
+  date: '2012-04-12'
+  time: '21:00'
+  band_id: 502
+  band_name: Живые Люди
+  band_token: livepeople
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 27106
+  date: '2012-04-27'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart

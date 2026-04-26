@@ -1,0 +1,23 @@
+id: 410
+token: street-blues
+name: Street Blues Band
+alive: true
+city_id: 8
+genre_id: 1
+clips:
+- id: 1929
+  type: photo
+  url: street-blues.jpg
+  sort_order: 0
+  width: 604
+  height: 473
+- id: 1862
+  type: weblink
+  url: http://www.realmusic.ru/streetbluesband/
+  name: Страница на RealMusic
+  sort_order: 99
+- id: 1864
+  type: weblink
+  url: http://vk.com/club13646297
+  name: Страница ВКонтакте
+  sort_order: 199

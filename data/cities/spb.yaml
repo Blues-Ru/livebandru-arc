@@ -1,0 +1,15 @@
+id: 2
+token: spb
+name: Санкт-Петербург
+aliases: 'Saint-Petersburg
+
+  Sankt-Peterburg
+
+  Saint Petersburg'
+show_gigs: true
+clips:
+- id: 211
+  type: weblink
+  url: http://www.rock-n-roll.ru/clubs.php
+  name: Питерская живая музыка на Rock-n-Roll.Ru
+  sort_order: 99

@@ -1,0 +1,111 @@
+id: 612
+token: splav
+name: Splav Band'a
+alive: true
+url: http://vk.com/splavband
+city_id: 101
+genre_id: 32
+secondary_genre_id: 1
+musicians:
+- name: Павел Кулекин
+  instruments: гитара
+- name: Антон Гелета
+  instruments: вокал, гитара, губная гармошка
+- name: Ольга Власова
+  instruments: вокал
+- name: Александр Минин
+  instruments: клавишные
+- name: Николай Минин
+  instruments: бас
+- name: Антон Плечкин
+  instruments: ударные
+- name: Александр Торшин
+  instruments: саксофон (сессионный)
+clips:
+- id: 3764
+  type: weblink
+  url: http://vk.com/splavband
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 3765
+  type: weblink
+  url: http://www.youtube.com/SplavBand
+  name: канал на youtube
+  sort_order: 200
+- id: 3766
+  type: youtube
+  url: http://www.youtube.com/?v=eFYKg-9uvuw
+  name: SPLAV BAND'A - Вопрос Блюз
+  comments: Запись с концерта в первом Пабе 13.09.2012 (г.Кострома)
+  sort_order: 99
+- id: 3767
+  type: mp3
+  url: splav.mp3
+  name: Новогодняя (cover ACDC)
+  sort_order: 99
+- id: 3771
+  type: mp3
+  url: splav-2.mp3
+  name: не ты первый
+  sort_order: 75
+- id: 3772
+  type: youtube
+  url: http://youtu.be/UCODNSK_cak
+  name: Самодельный клип-шутка Сталкер
+  sort_order: 199
+- id: 3762
+  type: weblink
+  url: http://vk.com/splavband
+  name: Официальный сайт
+  sort_order: 0
+- id: 3763
+  type: photo
+  url: splav.jpg
+  sort_order: 0
+  width: 5184
+  height: 3456
+- id: 3773
+  type: mp3
+  url: splav-5.mp3
+  name: Монблан (запись с концерта)
+  sort_order: 149
+- id: 3777
+  type: photo
+  url: splav-5.jpg
+  sort_order: 400
+  width: 1772
+  height: 1603
+- id: 3778
+  type: photo
+  url: splav-6.jpg
+  sort_order: 500
+  width: 4000
+  height: 3000
+- id: 3769
+  type: mp3
+  url: splav-3.mp3
+  name: Вопрос-блюз
+  sort_order: 50
+- id: 3774
+  type: photo
+  url: splav-2.jpg
+  sort_order: 100
+  width: 1280
+  height: 854
+- id: 3775
+  type: photo
+  url: splav-3.jpg
+  sort_order: 200
+  width: 683
+  height: 1024
+- id: 3776
+  type: photo
+  url: splav-4.jpg
+  sort_order: 300
+  width: 683
+  height: 1024
+- id: 3770
+  type: mp3
+  url: splav-4.mp3
+  name: Дым (демка)
+  sort_order: 199

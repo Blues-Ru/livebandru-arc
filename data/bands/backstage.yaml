@@ -1,0 +1,97 @@
+id: 109
+token: backstage
+name: The Backstage
+aliases: 'Backstage
+
+  Юрий Новгородский'
+alive: true
+url: http://backstage.net.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Юрий Новгородский
+  instruments: гитара, вокал
+- name: Евгений Глухов
+  instruments: бас, вокал
+- name: Дмитрий Фролов
+  instruments: ударные, перкуссия
+- name: Николай Добкин
+  instruments: орган, вокал
+clips:
+- id: 57
+  type: weblink
+  url: http://backstage.net.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 321
+  type: youtube
+  url: http://www.youtube.com/?v=9oExrdK9c6M
+  name: I'd Rather Have You (Yuri Novgorodsky)
+  comments: Music Town club, Moscow, RU May 19, 2009
+  sort_order: 99
+- id: 322
+  type: youtube
+  url: http://www.youtube.com/?v=xgOOHYdFzpo
+  name: Cinnamon girl
+  comments: Neil Young cover на репетиции
+  sort_order: 199
+- id: 323
+  type: youtube
+  url: http://www.youtube.com/?v=nEcyywkFU-w
+  name: Backstage - Use Me
+  comments: Концерт группы Backstage в клубе Швайн 18.12.2007
+  sort_order: 149
+- id: 327
+  type: weblink
+  url: http://vk.com/club473718
+  comments: Страница ВКонтакте
+  sort_order: 200
+- id: 328
+  type: youtube
+  url: http://www.youtube.com/?v=5WTG6O4XYeg
+  name: Mississippi Queen
+  comments: Backstage
+  sort_order: 50
+- id: 324
+  type: photo
+  url: backstage.jpg
+  name: Юрий Новгородский
+  sort_order: 0
+  width: 400
+  height: 600
+- id: 325
+  type: rss
+  url: http://community.livejournal.com/backstage_band/data/rss
+  sort_order: 99
+- id: 326
+  type: weblink
+  url: http://www.myspace.com/backstagejamband
+  name: Страница на MySpace
+  sort_order: 100
+reviews:
+- id: 15
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Группа Backstage - это одна из первых российских групп, ориентирующихся на
+    формат джем-бэнда - то есть на синтез блюза, фанка, соула, рока и т.п. с ярко
+    выраженным импровизационным началом. Участники группы - опытные музыканты, зарекомендовавшие
+    себя в известных российских коллективах.
+
+
+    В 2007 году в составе группы Николая Арутюнова музыканты Backstage аккомпанировали
+    легенде британского рока Питу Брауну в ходе его московских гастролей. (Браун -
+    соавтор таких хитов Cream, как White Room, Politician и Sunshine Of Your Love,
+    а также бессменный соратник Джека Брюса, продюсер и музыкант).
+
+
+    В 2008 году Backstage записали альбом Take Cover, где хорошенько "оторвались"
+    на любимых каверах))).
+
+
+    Недавно группа к великой всеобщей радости добавила в состав клавишника и в настоящее
+    время работает над оригинальным материалом для второй пластинки.'
+  verified: true
+  created: '2010-08-06'
+  is_press_release: true

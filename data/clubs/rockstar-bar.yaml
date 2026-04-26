@@ -1,0 +1,14 @@
+id: 873
+token: rockstar-bar
+name: Rockstar Bar
+alive: true
+address: Пушкина, 29а, ТЦ Coliseum
+subway: Площадь Габдуллы Тукая
+phone: +7 (843) 260 99 66
+city_id: 10
+clips:
+- id: 8335
+  type: weblink
+  url: http://www.facebook.com/rockstarbar.kazan
+  name: Официальный сайт
+  sort_order: 0

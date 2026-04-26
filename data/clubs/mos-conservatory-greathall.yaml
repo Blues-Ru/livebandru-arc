@@ -1,0 +1,16 @@
+id: 577
+token: mos-conservatory-greathall
+name: Большой зал Московской государственной консерватории
+aliases: 'БЗК
+
+  Большой зал Консерватории'
+alive: true
+address: ул. Большая Никитская, д. 13/6
+subway: Библиотека им. Ленина, Охотный Ряд
+city_id: 1
+clips:
+- id: 3257
+  type: weblink
+  url: http://www.mosconsv.ru/ru/venue.aspx?id=1710
+  name: Официальный сайт
+  sort_order: 0

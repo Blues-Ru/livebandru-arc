@@ -1,0 +1,13 @@
+id: 207
+token: barhat
+name: Бархат
+alive: true
+address: Проспект Строителей, 20
+phone: (4922) 34-07-61
+city_id: 3
+clips:
+- id: 344
+  type: weblink
+  url: http://www.barhatclub.ru/
+  name: Официальный сайт
+  sort_order: 0

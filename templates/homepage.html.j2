@@ -1,0 +1,38 @@
+{% extends "base.html.j2" %}
+{% block title %}LiveBand.Ru — Архив живой музыки{% endblock %}
+{% block content %}
+<div class="lrBlocks">
+  <div class="lBlock main" id="cityGigStats">
+    <h3 class="und">Группы по городам</h3>
+    {% for city in cities_with_bands %}
+    {% if not loop.first %}, {% endif %}
+    <a href="/city/{{ city.token }}/">{{ city.name }}{% if city.band_count > 1 %} ({{ city.band_count }}){% endif %}</a>
+    {% endfor %}
+  </div>
+  <div class="rBlock main" id="genreGigStats">
+    <h3 class="und">По жанрам</h3>
+    {% for genre in genres_with_bands %}
+    {% if not loop.first %}, {% endif %}
+    <a href="/genre/{{ genre.token }}/">{{ genre.name }}{% if genre.band_count > 1 %} ({{ genre.band_count }}){% endif %}</a>
+    {% endfor %}
+  </div>
+  <div class="clear"></div>
+
+  <div class="wBlock">
+    <h3 class="und">Архив LiveBand.Ru</h3>
+    <p class="main">
+      В базе данных: <a href="/all/bands">{{ band_count }} групп</a>,
+      <a href="/all/clubs">{{ club_count }} клубов</a>,
+      {{ gig_count }} концертов за 2001–2024 годы.
+    </p>
+    <p class="main">
+      LiveBand.Ru — архив живой клубной музыки всех жанров.
+      Проект работал с 2001 по 2024 год и хранит историю концертов,
+      биографии групп и описания клубов.
+    </p>
+    <p class="main">
+      Связанный проект: <a href="http://www.blues.ru">Blues.Ru</a> — архив блюзовой музыки.
+    </p>
+  </div>
+</div>
+{% endblock %}

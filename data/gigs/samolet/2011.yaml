@@ -1,0 +1,61 @@
+- id: 15612
+  date: '2011-03-18'
+  time: '20:00'
+  band_name: Павел Козлов и Alright Band, Алексей Кузнецов
+  club_id: 401
+  club_name: Самолет
+  club_token: samolet
+  price: 300 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 16002
+  date: '2011-03-05'
+  time: '20:00'
+  band_name: Richie's Blues Band, Heartbeat
+  club_id: 401
+  club_name: Самолет
+  club_token: samolet
+  price: 200 руб.
+  extra_bands:
+  - id: 285
+    name: Richie's Blues Band
+    token: richies-blues-band
+- id: 21830
+  date: '2011-10-07'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 401
+  club_name: Самолет
+  club_token: samolet
+  price: бесплатный
+- id: 23226
+  date: '2011-11-11'
+  time: '21:00'
+  band_name: Richie's Blues Band и Dans Ramblers
+  club_id: 401
+  club_name: Самолет
+  club_token: samolet
+  price: 300 руб.
+  extra_bands:
+  - id: 285
+    name: Richie's Blues Band
+    token: richies-blues-band
+  - id: 86
+    name: Dans Ramblers
+    token: dans-ramblers
+- id: 22871
+  date: '2011-11-05'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 401
+  club_name: Самолет
+  club_token: samolet

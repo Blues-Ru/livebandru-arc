@@ -1,0 +1,15 @@
+id: 1
+token: forte
+name: Forte
+aliases: Форте
+alive: true
+address: Ул. Б.Бронная, 18
+subway: Пушкинская
+phone: (495) 694 08 81
+city_id: 1
+clips:
+- id: 50
+  type: weblink
+  url: http://www.forteclub.com
+  name: Официальный сайт
+  sort_order: 0

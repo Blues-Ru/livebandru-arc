@@ -1,0 +1,79 @@
+- id: 53829
+  date: '2015-10-07'
+  time: '21:00'
+  band_name: Modern Blues Band и Гия Дзагнидзе
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 53830
+  date: '2015-10-14'
+  time: '21:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+- id: 53831
+  date: '2015-10-21'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+- id: 53832
+  date: '2015-10-28'
+  time: '21:00'
+  band_name: The Jumping Cats и Владимир Русинов
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 54993
+  date: '2015-11-04'
+  time: '21:00'
+  band_name: Boris Bazurov [experience]
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+  comments: "https://youtu.be/pkOvoJF7AEo\r\nhttps://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D1%83%D1%80%D0%BE%D0%B2,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87\r\
+    \nhttp://www.last.fm/ru/music/%D0%91%D0%BE%D1%80%D0%B8%D1%81+%D0%91%D0%B0%D0%B7%D1%83%D1%80%D0%BE%D0%B2\r\
+    \nhttps://www.facebook.com/boris.bazurov"
+- id: 54994
+  date: '2015-11-11'
+  time: '21:00'
+  band_name: Moonshine
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+- id: 54995
+  date: '2015-11-18'
+  time: '21:00'
+  band_name: BMW - Бэнд Михаила Владимирова
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный
+- id: 55040
+  date: '2015-11-25'
+  time: '21:00'
+  band_name: Dizzy Riders, http://vk.com/dizzyriders
+  club_id: 157
+  club_name: Jimi
+  club_token: jimi
+  price: бесплатный

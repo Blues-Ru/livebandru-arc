@@ -1,0 +1,57 @@
+id: 451
+token: kadans-lukiyanov
+name: Ансамбль "Каданс" Германа Лукьянова
+aliases: Каданс
+alive: true
+url: http://www.jazz.ru/pages/lukianov/
+city_id: 1
+genre_id: 2
+musicians:
+- name: Герман Лукьянов
+  instruments: альтгорн, тенор-горн, цуг-флейта
+- name: Алексей Круглов
+  instruments: альт-саксофон, бассетгорн
+- name: Антон Залетаев
+  instruments: тенор-саксофон, флейта
+- name: Макар Новиков
+  instruments: контрабас
+- name: Алексей Беккер
+  instruments: фортепиано
+- name: Александр Зингер
+  instruments: ударные, перкуссия
+- name: Олег Грымов
+  instruments: альт- и тенор-саксофоны
+references:
+- id: 282
+  name: Квартет Андрея Блинчевского
+  token: andrey-blinchevsky
+clips:
+- id: 2144
+  type: weblink
+  url: http://www.jazz.ru/pages/lukianov/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2145
+  type: photo
+  url: kadans-lukiyanov.jpg
+  sort_order: 0
+  width: 150
+  height: 150
+reviews:
+- id: 145
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Программа клуба Jazz Art Club.
+
+
+    25.05.2011
+
+
+    Презентация нового альбома "Stable Quantity": Герман Лукьянов -- альтгорн, тенор-горн,
+    цуг-флейта; Алексей Круглов -- альт-саксофон, бассетгорн; Антон Залетаев -- тенор-саксофон,
+    флейта; *Алексей Беккер - ф-но; Макар Новиков - контрабас; Александр Зингер --
+    ударные, перкуссия. Приглашенный гость - Олег Грымов - альт- и тенор-саксофоны.'
+  verified: true
+  created: '2011-05-20'
+  is_press_release: true

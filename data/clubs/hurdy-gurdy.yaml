@@ -1,0 +1,18 @@
+id: 405
+token: hurdy-gurdy
+name: Харди-Гарди
+alive: true
+address: Ветошкина, 19
+phone: (8172) 75-27-57
+city_id: 52
+clips:
+- id: 1808
+  type: weblink
+  url: http://hurdy-gurdyclub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1809
+  type: weblink
+  url: http://vk.com/club13056865
+  name: Страница ВКонтакте
+  sort_order: 100

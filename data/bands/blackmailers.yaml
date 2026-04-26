@@ -1,0 +1,133 @@
+id: 40
+token: blackmailers
+name: Blackmailers Rekord Orkestr
+aliases: 'Blackmailers
+
+  Blackmailers Blues Band'
+alive: true
+url: http://blackmailers.ru
+city_id: 3
+genre_id: 11
+secondary_genre_id: 1
+musicians:
+- name: Тимофей Копылов
+  instruments: вокал
+- name: Алексей Барышев
+  instruments: гитара
+- name: Сергей Швагирев
+  instruments: бас
+- name: Константин Ахтунг
+  instruments: ударные
+- name: Павел Патругин
+  instruments: саксофон
+- name: Владимир Елистратов
+  instruments: труба
+clips:
+- id: 133
+  type: rss
+  url: http://community.livejournal.com/blackmailers/data/rss
+  sort_order: 99
+- id: 215
+  type: mp3
+  url: 3.mp3
+  name: Babadai
+  sort_order: 75
+- id: 224
+  type: weblink
+  url: http://vk.com/club8544800
+  name: группа вконтакте
+  sort_order: 99
+- id: 313
+  type: youtube
+  url: http://www.youtube.com/?v=MIkC6wwuXQo
+  name: The Blackmailers Blues Band - Work Song
+  comments: Moscow Roadhouse blues club, 06-06-2008
+  sort_order: 199
+- id: 314
+  type: youtube
+  url: http://www.youtube.com/?v=54dUFH3LLDA
+  name: Blackmailers Rekord Orkestr - Баба дай
+  sort_order: 299
+- id: 315
+  type: youtube
+  url: http://www.youtube.com/?v=GPtsGPIdugk
+  name: Blackmailers Rekord Orkestr - Мозамбик
+  sort_order: 399
+- id: 197
+  type: mp3
+  url: 1.mp3
+  name: Cuntry Boner
+  sort_order: 99
+- id: 223
+  type: mp3
+  url: 10.mp3
+  name: Who Was It Everybody?
+  sort_order: 699
+- id: 216
+  type: mp3
+  url: 2.mp3
+  name: Sweet Home Chicagoj
+  sort_order: 50
+- id: 217
+  type: mp3
+  url: 4.mp3
+  name: Zing Zing
+  sort_order: 0
+- id: 218
+  type: mp3
+  url: 5.mp3
+  name: Diamond Rain
+  sort_order: 199
+- id: 219
+  type: mp3
+  url: 6.mp3
+  name: Kibori
+  sort_order: 299
+- id: 220
+  type: mp3
+  url: 7.mp3
+  name: Tainted Love
+  sort_order: 399
+- id: 221
+  type: mp3
+  url: 8.mp3
+  name: Gloomy Sunday
+  sort_order: 499
+- id: 222
+  type: mp3
+  url: 9.mp3
+  name: Lume Lume
+  sort_order: 599
+- id: 308
+  type: weblink
+  url: http://blackmailers.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 309
+  type: photo
+  url: blackmailers.jpg
+  name: Blackmailers
+  comments: Б1 Максимум
+  sort_order: 99
+  width: 400
+  height: 266
+- id: 310
+  type: photo
+  url: blackmailers-2.jpg
+  name: Blackmailers Blues Band
+  sort_order: 0
+  width: 800
+  height: 600
+- id: 311
+  type: photo
+  url: blackmailers-3.jpg
+  name: Zlatno Zrno Blues
+  sort_order: 199
+  width: 1280
+  height: 1024
+- id: 312
+  type: youtube
+  url: http://www.youtube.com/?v=VYuAOrORuZ0
+  name: BLACKMAILERS  "Don't Let Go"
+  comments: videoclip based on photos & video
+  sort_order: 99

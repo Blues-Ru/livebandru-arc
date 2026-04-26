@@ -1,0 +1,130 @@
+id: 686
+token: tanel-padar
+name: Tanel Padar Blues Band
+aliases: 'Tanel Padar
+
+  Танель Падар
+
+  Танель Падар Блюз Бенд'
+alive: true
+url: http://cbagentuur.ee/tpbb/
+city_id: 125
+genre_id: 1
+musicians:
+- name: Tanel Padar
+  instruments: vocals
+- name: Raul Ukareda
+  instruments: guitar
+- name: Ulo Krigul
+  instruments: keyboards
+- name: Argo Toomel
+  instruments: bass
+- name: Peep Kallas
+  instruments: drums
+clips:
+- id: 5664
+  type: photo
+  url: tanel-padar-3.jpg
+  sort_order: 200
+  width: 960
+  height: 494
+- id: 5665
+  type: photo
+  url: tanel-padar-4.jpg
+  sort_order: 300
+  width: 960
+  height: 639
+- id: 5673
+  type: youtube
+  url: http://www.youtube.com/?v=zYOoPtQLPXk
+  name: Tanel Padar Blues Band -- I Wanna What You Got
+  comments: '@ Von Krahl'
+  sort_order: 599
+- id: 5672
+  type: youtube
+  url: http://www.youtube.com/?v=iMViP7WCUGM
+  name: Tanel Padar and B. Band (2 songs)
+  comments: 20.07.13 Saue Harku Kantri Festival
+  sort_order: 499
+- id: 5658
+  type: weblink
+  url: http://cbagentuur.ee/tpbb/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5662
+  type: photo
+  url: tanel-padar.jpg
+  sort_order: 0
+  width: 800
+  height: 571
+- id: 5657
+  type: weblink
+  url: https://www.facebook.com/tanelpadarbluesband
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 5663
+  type: photo
+  url: tanel-padar-2.jpg
+  sort_order: 100
+  width: 5184
+  height: 3456
+- id: 5676
+  type: mp3
+  url: tanel-padar.mp3
+  name: Tanel Padar Blues Band
+  sort_order: 99
+- id: 5666
+  type: photo
+  url: tanel-padar-5.jpg
+  sort_order: 400
+  width: 960
+  height: 494
+- id: 5674
+  type: youtube
+  url: http://www.youtube.com/?v=7sxkxBoLKDk
+  name: Tanel Padar Blues Band - Baby What You Want Me To Do
+  comments: '@ Von Krahl'
+  sort_order: 699
+- id: 5675
+  type: youtube
+  url: http://www.youtube.com/?v=xEwhpsGzC6Y
+  name: Tanel Padar Blues Band -- Playing With My Friends
+  sort_order: 799
+reviews:
+- id: 411
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Танель Падар Блюз Бенд
+  text: 'Можно сказать, что Танель Падар является самой заметной фигурой на эстонской
+    музыкальной сцене. Он известен не только как чрезвычайно многогранный певец и
+    гитарист, но и как постоянный герой дамских таблоидов, бунтарь и заводила вечеринок.
+    Танель - обладатель всевозможных музыкальных наград. Он принимал участие почти
+    во всех значимых музыкальных мероприятиях Эстонии в течение последнего десятилетия.
+    Музыкант также известен и как ведущий популярных телевизионных шоу, снимается
+    в кино и телесериалах.
+
+
+    В 2001 Танель Падар выиграл Евровидение в дуэте с Дэйвом Бентоном. Хотя его больше
+    знают как рок-музыканта, отношения Танеля с блюзом уходят корнями в раннюю юность.
+    Его публичная карьера началась в 1999 году в блюзовой группе под названием Speed
+    Free, затем в течение четырех лет он играл в самой известной блюзовой банде страны
+    Compromise Blue.
+
+
+    В 2004 Танель организовал свою рок-группу The Sun , которая очень быстро стала
+    самой популярной группой в Эстонии и ее успех до сих пор неоспорим. Несмотря на
+    постоянную занятость, он неизменно участвует в различных блюзовых проектах, зачастую
+    выступая хедлайнером крупнейших блюз- и джаз-фестивалей. Его Blues Band появился
+    как временный проекта в 2012 году, но из-за прекрасного исполнения группа завоевала
+    теплый отклик у публики, поэтому было принято решение продолжать в виде постоянной
+    группы.
+
+
+    Участники „бэнда" - лучшие блюзмэны Эстонии - всемирно известный композитор Юло
+    Кригуль играет на клавишных, популярнейший гитарист Рауль Укареда, один из лучших
+    блюзовых басистов страны Арго Тоомель и на барабанах - Кристьян Каллас. Иногда
+    его заменяет Майкл Милей из группы Rival Sons.'
+  verified: true
+  created: '2014-04-29'
+  is_press_release: true

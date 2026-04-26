@@ -1,0 +1,14 @@
+id: 820
+token: magazin-dom-kultury
+name: Магазин "Дом Культуры"
+alive: true
+address: Кутузовский проезд, дом 4
+subway: Кутузовская, Парк Победы, Фили
+phone: +7(499)148-13-03
+city_id: 1
+clips:
+- id: 7185
+  type: weblink
+  url: http://www.domkultury.su/
+  name: Официальный сайт
+  sort_order: 0

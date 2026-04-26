@@ -1,0 +1,15 @@
+id: 127
+token: double-bourbon-street
+name: Double Bourbon Street
+alive: true
+address: Земляной Вал, 75
+subway: Таганская, Марксистская
+phone: +7(903)565-28-96
+city_id: 1
+clips:
+- id: 30
+  type: weblink
+  url: http://www.barbourbon.ru
+  name: Официальный сайт
+  comments: Полная Афиша концертов и информация о всех новостях и акциях клуба.
+  sort_order: 0

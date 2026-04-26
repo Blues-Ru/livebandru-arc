@@ -1,0 +1,33 @@
+id: 359
+token: televisor
+name: Телевизор
+alive: true
+url: http://www.televizor.spb.ru
+city_id: 2
+genre_id: 3
+clips:
+- id: 1446
+  type: weblink
+  url: http://televizor.narod.ru/
+  name: Неофициальный сайт
+  sort_order: 200
+- id: 1447
+  type: rss
+  url: http://community.livejournal.com/ru_borzykin/data/rss
+  sort_order: 99
+- id: 1448
+  type: photo
+  url: televisor.jpg
+  sort_order: 0
+  width: 3504
+  height: 2336
+- id: 1444
+  type: weblink
+  url: http://www.televizor.spb.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1445
+  type: weblink
+  url: http://www.myspace.com/televizormusic
+  name: Страница на MySpace
+  sort_order: 100

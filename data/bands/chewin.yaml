@@ -1,0 +1,23 @@
+id: 592
+token: chewin
+name: Чемякин & Винтер
+alive: true
+url: http://vk.com/chewin
+city_id: 6
+genre_id: 1
+musicians:
+- name: Евгений Чемякин
+  instruments: гитара, вокал
+- name: Дмитрий Винтер
+  instruments: гитара, вокал
+clips:
+- id: 3473
+  type: weblink
+  url: http://vk.com/chewin
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 3642
+  type: weblink
+  url: http://vk.com/chewin
+  name: Официальный сайт
+  sort_order: 0

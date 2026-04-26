@@ -1,0 +1,14 @@
+id: 658
+token: knizhnyj-klub-petrovskij
+name: Книжный клуб "Петровский"
+alive: true
+address: ул. 20-летия ВЛКСМ, 54а
+phone: +7(473)233-19-28
+city_id: 7
+comments: ТЦ "Петровский пассаж"
+clips:
+- id: 4026
+  type: weblink
+  url: http://www.knigi-club.ru/
+  name: Официальный сайт
+  sort_order: 0

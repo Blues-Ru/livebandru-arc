@@ -1,0 +1,205 @@
+- id: 14551
+  date: '2011-01-05'
+  time: '20:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 14558
+  date: '2011-01-06'
+  time: '20:00'
+  band_name: 7Б
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 14764
+  date: '2011-01-15'
+  time: '20:00'
+  band_name: Голос Омерики
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 15033
+  date: '2011-01-29'
+  time: '20:00'
+  band_name: Монгол Шуудан, Бахыт-компот
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+  extra_bands:
+  - id: 358
+    name: Монгол Шуудан
+    token: mongol-shuudan
+- id: 17549
+  date: '2011-04-14'
+  time: '19:00'
+  band_name: Memories, Lego, Yago-e-Aboo
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 17566
+  date: '2011-04-15'
+  time: '21:00'
+  band_id: 239
+  band_name: Захар Май
+  band_token: zahar-may
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 17590
+  date: '2011-04-16'
+  time: '20:00'
+  band_name: Старый приятель
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 17626
+  date: '2011-04-17'
+  time: '20:00'
+  band_name: Кирилл Комаров
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18702
+  date: '2011-05-12'
+  time: '20:00'
+  band_name: Умка и броневик
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18727
+  date: '2011-05-14'
+  time: '20:00'
+  band_name: Сергей Галанин, Захар Май, Голос Омерики, Монгол Шуудан, Znaki, 7Б
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+  extra_bands:
+  - id: 358
+    name: Монгол Шуудан
+    token: mongol-shuudan
+  - id: 239
+    name: Захар Май
+    token: zahar-may
+- id: 18749
+  date: '2011-05-15'
+  time: '19:00'
+  band_name: Мантра
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18622
+  date: '2011-05-09'
+  time: '20:00'
+  band_id: 358
+  band_name: Монгол Шуудан
+  band_token: mongol-shuudan
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18871
+  date: '2011-05-10'
+  time: '20:00'
+  band_name: Wanted Alive
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18641
+  date: '2011-05-05'
+  time: '20:00'
+  band_name: Две Луны
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 18654
+  date: '2011-05-07'
+  time: '20:00'
+  band_name: Znaki
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19149
+  date: '2011-05-21'
+  time: '20:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19182
+  date: '2011-05-22'
+  time: '20:00'
+  band_name: Joy Hits Only
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19506
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Полюса
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19785
+  date: '2011-05-27'
+  time: '21:00'
+  band_id: 149
+  band_name: Ольга Арефьева и "Ковчег"
+  band_token: ark
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19869
+  date: '2011-06-04'
+  time: '21:00'
+  band_name: Коралловые рифы
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 19873
+  date: '2011-06-05'
+  time: '20:00'
+  band_name: Кирилл Комаров
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 20178
+  date: '2011-06-10'
+  time: '20:00'
+  band_name: 7Б
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 23858
+  date: '2011-12-04'
+  time: '19:00'
+  band_name: Городская культура
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 23900
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Маклауд People
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 23795
+  date: '2011-12-03'
+  time: '20:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+- id: 23814
+  date: '2011-12-02'
+  time: '21:00'
+  band_name: 7Б
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte

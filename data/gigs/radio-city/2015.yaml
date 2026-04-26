@@ -1,0 +1,519 @@
+- id: 48638
+  date: '2015-01-03'
+  time: '20:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1000 / 1200 / 1500 рублей
+- id: 48641
+  date: '2015-01-17'
+  time: '20:00'
+  band_name: Джаз-бэнд Кати Мардоян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 48639
+  date: '2015-01-07'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 700 рублей
+- id: 48640
+  date: '2015-01-15'
+  time: '20:00'
+  band_name: Ксении Рубан
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 48642
+  date: '2015-01-22'
+  time: '20:00'
+  band_name: MixturaJazz
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 48643
+  date: '2015-01-24'
+  time: '20:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 1200 / 1500 рублей.
+- id: 49495
+  date: '2015-02-06'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+- id: 49337
+  date: '2015-02-07'
+  time: '20:00'
+  band_name: Надежда Рафаилиди и джаз-квартет Олега Агеева с программой "Джаз-фьюжн"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49338
+  date: '2015-02-12'
+  time: '20:30'
+  band_name: Юлия Алимова и коллектива "Jazz Forever Band"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49339
+  date: '2015-02-14'
+  time: '20:00'
+  band_name: Олег Бутман и Майа Асусэна
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 1200 / 1500 рублей.
+- id: 49340
+  date: '2015-02-19'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49341
+  date: '2015-01-21'
+  time: '20:00'
+  band_name: Алла Рид и джаз-бэнд с программой "Подарок для мужчин..."
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49342
+  date: '2015-01-21'
+  time: '20:00'
+  band_name: Алла Рид и джаз-бэнд с программой "Подарок для мужчин..."
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49343
+  date: '2015-02-21'
+  time: '20:00'
+  band_name: Алла Рид и джаз-бэнд с программой "Подарок для мужчин..."
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 49344
+  date: '2015-02-28'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: Вход 700 / 1000 / 1200 рублей
+- id: 49872
+  date: '2015-03-07'
+  time: '20:00'
+  band_name: Олег Бутман и Шарон Кларк
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 1200 / 1500 рублей.
+- id: 49873
+  date: '2015-03-14'
+  time: '20:00'
+  band_name: Big City Jazz Show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 49874
+  date: '2015-03-21'
+  time: '21:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 50455
+  date: '2015-04-04'
+  time: '20:00'
+  band_name: Олег Бутман и Maya Azucena
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 1200 / 1500 рублей.
+- id: 50456
+  date: '2015-04-11'
+  time: '20:00'
+  band_name: Ксения Рубан и джаз-бэнд
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 50457
+  date: '2015-04-18'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700 / 1000 / 1200 рублей
+- id: 50458
+  date: '2015-04-25'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 51175
+  date: '2015-05-02'
+  time: '20:00'
+  band_name: Cаша Фрид Jazz Funk concert
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 51176
+  date: '2015-05-08'
+  time: '20:00'
+  band_name: Ксения Рубан и джаз-бэнд
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 51177
+  date: '2015-05-14'
+  time: '20:00'
+  band_name: JazzForever Band и Юлия Алимова
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 51178
+  date: '2015-05-16'
+  time: '20:00'
+  band_name: 'Виктория Пьер-Мари представляет: "Шоу мировых хитов"'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900 / 1300 / 1800 рублей
+- id: 51179
+  date: '2015-05-21'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 51180
+  date: '2015-05-21'
+  time: '20:30'
+  band_name: Alla Reed. Презентация новой программы "Queen in love"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 51181
+  date: '2015-05-22'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 51182
+  date: '2015-05-30'
+  time: '20:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 900, 1200, 1500 рублей
+- id: 53791
+  date: '2015-10-03'
+  time: '20:00'
+  band_name: The Soulongers
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 53792
+  date: '2015-10-10'
+  time: '20:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1200 / 1600 / 1800 рублей
+- id: 51700
+  date: '2015-06-13'
+  time: '20:00'
+  band_name: Надежда Рафаилиди и джаз-квартет Юрия Маркина
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 51701
+  date: '2015-06-03'
+  time: '20:00'
+  band_name: Открытый блюзовый джем с группой Dynamic James,Thomas Stwalley (USA),
+    Настей Вандой
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51703
+  date: '2015-06-14'
+  time: '20:00'
+  band_name: Воскресный блюз с dynamic james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51705
+  date: '2015-06-21'
+  time: '20:00'
+  band_name: Воскресный блюз с группой dynamic james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51706
+  date: '2015-06-24'
+  time: '20:00'
+  band_name: Открытый блюзовый джем с группой Dynamic James,Thomas Stwalley (USA),
+    Настей Вандой
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51702
+  date: '2015-06-07'
+  time: '20:00'
+  band_name: Воскресный блюз с dynamic james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51704
+  date: '2015-06-17'
+  time: '20:00'
+  band_name: Открытый блюзовый джем с группойDynamic James,Thomas Stwalley (USA),
+    Настей Вандой
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 51707
+  date: '2015-06-28'
+  time: '20:00'
+  band_name: Воскресный блюз с группой dynamic james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 52371
+  date: '2015-07-04'
+  time: '20:00'
+  band_name: Ксения Рубан и Ruban's band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 52372
+  date: '2015-07-11'
+  time: '20:00'
+  band_name: Jazz band Move
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 руб.
+- id: 52373
+  date: '2015-07-18'
+  time: '20:00'
+  band_name: Анжелика Фролова & The Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 52374
+  date: '2015-07-25'
+  time: '20:00'
+  band_name: Джаз-бэнд Екатерины Мардоян
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 52375
+  date: '2015-07-31'
+  time: '20:00'
+  band_name: Алла Рид & the band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 53316
+  date: '2015-09-26'
+  time: '21:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1200, 1600,1800 рублей
+- id: 53314
+  date: '2015-09-05'
+  time: '20:00'
+  band_name: Даяна Брют & Live band с программой "Jazz & Funky Time"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 53315
+  date: '2015-09-12'
+  time: '20:00'
+  band_name: Джазовые стандарты
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600, 900 рублей
+- id: 53386
+  date: '2015-09-20'
+  time: '20:30'
+  band_name: Звезды Джаза поют в память о Фрэнке Синатре
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500,800,1200 рублей
+- id: 53793
+  date: '2015-10-29'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 54499
+  date: '2015-11-14'
+  time: '20:00'
+  band_name: Big City Jazz Show
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700/900/1000 рублей
+- id: 54500
+  date: '2015-11-19'
+  time: '20:00'
+  band_name: Jazz Forever Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 54501
+  date: '2015-11-21'
+  time: '20:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 / 700 рублей
+- id: 54502
+  date: '2015-11-26'
+  time: '20:00'
+  band_name: Accordi Disaccordi
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500/800/1200 рублей
+- id: 54503
+  date: '2015-11-28'
+  time: '20:00'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 600 рублей
+- id: 54442
+  date: '2015-11-07'
+  time: '20:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1200, 1600,1800 рублей
+- id: 54443
+  date: '2015-11-13'
+  time: '20:00'
+  band_name: Валерий Сюткин и Light Jazz.
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 2000, 2500, 3500, 5000 рублей

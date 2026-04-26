@@ -1,0 +1,14 @@
+id: 627
+token: theater-sda
+name: Театр "Школа драматического искусства"
+alive: true
+address: Сретенка, 19
+subway: Сухаревская
+phone: +7(495)632-9344
+city_id: 1
+clips:
+- id: 3614
+  type: weblink
+  url: http://sdart.ru/concerts
+  name: Официальный сайт
+  sort_order: 0

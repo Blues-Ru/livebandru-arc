@@ -1,0 +1,14 @@
+id: 684
+token: yaroslavskij-khudozhestvennyj-muzej
+name: Ярославский художественный музей
+aliases: Губернаторский сад
+alive: true
+address: Волжская набережная, 23
+phone: +7(4852)727-838
+city_id: 18
+clips:
+- id: 4300
+  type: weblink
+  url: http://artmuseum.yar.ru
+  name: Официальный сайт
+  sort_order: 0

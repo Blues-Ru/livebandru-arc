@@ -1,0 +1,14 @@
+id: 176
+token: elektroniki
+name: Приключения электроников
+alive: true
+url: http://www.elektroniki.ru/
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 404
+  type: weblink
+  url: http://www.elektroniki.ru/
+  name: Официальный сайт
+  sort_order: 0

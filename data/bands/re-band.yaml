@@ -1,0 +1,25 @@
+id: 275
+token: re-band
+name: Группа Ре
+alive: true
+city_id: 1
+genre_id: 13
+musicians:
+- name: Артем Рябов
+  instruments: бас
+- name: Кирилл Паренчук
+  instruments: кахон, саксофон
+- name: Антон Силкин
+  instruments: аккордеон
+- name: Роман Евдокунин
+  instruments: гитара
+clips:
+- id: 902
+  type: youtube
+  url: http://www.youtube.com/?v=hmmuNGwUp70
+  sort_order: 99
+- id: 903
+  type: youtube
+  url: http://www.youtube.com/?v=M0CHeUTwhn4
+  name: Тепло и солнечно
+  sort_order: 199

@@ -1,0 +1,421 @@
+- id: 15611
+  date: '2011-03-19'
+  time: '21:00'
+  band_name: Павел Козлов и Alright Band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 18546
+  date: '2011-05-05'
+  time: '21:00'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 18332
+  date: '2011-05-01'
+  time: '21:00'
+  band_id: 405
+  band_name: White Hound Blues Band
+  band_token: whbb
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 19014
+  date: '2011-06-02'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 19284
+  date: '2011-05-18'
+  time: '20:00'
+  band_name: Зеленый вечер
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19286
+  date: '2011-05-19'
+  time: '20:00'
+  band_name: Александр Короткевич
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19289
+  date: '2011-05-26'
+  time: '20:00'
+  band_name: Александр Короткевич
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19806
+  date: '2011-05-26'
+  time: '21:00'
+  band_name: The Types
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19817
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Час пик
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19777
+  date: '2011-06-01'
+  time: '20:00'
+  band_name: Зеленый вечер
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19759
+  date: '2011-05-25'
+  time: '20:00'
+  band_name: Зеленый вечер
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 19831
+  date: '2011-05-28'
+  time: '21:00'
+  band_name: Chiliбомберс
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 20298
+  date: '2011-06-09'
+  time: '20:00'
+  band_name: Александр Короткевич
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 21351
+  date: '2011-09-24'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 21497
+  date: '2011-09-13'
+  time: '20:00'
+  band_name: Horizon Duet, спец. гости - Алина Ростоцкая и Jazzmobile
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 20619
+  date: '2011-07-09'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 21673
+  date: '2011-09-10'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 22037
+  date: '2011-10-06'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 23345
+  date: '2011-11-27'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 23047
+  date: '2011-11-10'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+- id: 23318
+  date: '2011-12-11'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23342
+  date: '2011-12-10'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23489
+  date: '2011-12-02'
+  time: '22:00'
+  band_name: Space Cats
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23490
+  date: '2011-12-03'
+  time: '22:00'
+  band_name: Радио 03
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23492
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: All my secrets
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23493
+  date: '2011-12-08'
+  time: '20:00'
+  band_name: Mosst
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23494
+  date: '2011-12-09'
+  time: '22:00'
+  band_name: Торонто
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23495
+  date: '2011-12-14'
+  time: '20:00'
+  band_name: Ольга Герчакова
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23496
+  date: '2011-12-15'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23497
+  date: '2011-12-16'
+  time: '22:00'
+  band_name: Matadors
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23498
+  date: '2011-12-17'
+  time: '22:00'
+  band_name: Раз2ение
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: 300 руб.
+- id: 23499
+  date: '2011-12-18'
+  time: '20:00'
+  band_name: Ill!noiz band
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: 200 руб.
+- id: 23500
+  date: '2011-12-21'
+  time: '20:00'
+  band_name: TeleScopes
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23501
+  date: '2011-12-22'
+  time: '20:00'
+  band_id: 366
+  band_name: Роман Мирошниченко
+  band_token: roman-miro
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23502
+  date: '2011-12-23'
+  time: '22:00'
+  band_id: 339
+  band_name: Оптимальный Вариант
+  band_token: optimal-variant
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23503
+  date: '2011-12-24'
+  time: '22:00'
+  band_name: МузГруппаЛиц
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23504
+  date: '2011-12-25'
+  time: '20:00'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23505
+  date: '2011-12-28'
+  time: '20:00'
+  band_name: Electric Avenue
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23488
+  date: '2011-12-01'
+  time: '21:00'
+  band_name: Прайм Тайм
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23506
+  date: '2011-12-29'
+  time: '20:00'
+  band_name: Victor Vhernov blues ban
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23507
+  date: '2011-12-31'
+  time: '22:00'
+  band_name: Новый Год. Hula Hoop тема - Алиса в стране чудес
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: 1000 руб.
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 23508
+  date: '2011-12-05'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23509
+  date: '2011-12-12'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23510
+  date: '2011-12-19'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23511
+  date: '2011-12-26'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23491
+  date: '2011-12-04'
+  time: '20:00'
+  band_name: SAX-Quintet
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 23571
+  date: '2011-12-06'
+  time: '21:00'
+  band_name: Квартет Максима Пиганова (джаз, свинг). Премьера новой программы
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный
+- id: 24291
+  date: '2011-12-29'
+  time: '20:00'
+  band_id: 426
+  band_name: Victor Chernov Blues Band
+  band_token: chernov-blues
+  club_id: 409
+  club_name: DeFAQto
+  club_token: defaqto
+  price: бесплатный

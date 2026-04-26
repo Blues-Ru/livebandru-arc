@@ -1,0 +1,14 @@
+id: 676
+token: bar-mendeleev
+name: Менделеев
+alive: true
+address: ул. Петровка, 20/1
+subway: Кузнецкий Мост, Чеховская, Трубная
+phone: +7(495)625-33-85
+city_id: 1
+clips:
+- id: 4173
+  type: weblink
+  url: http://www.mendeleevbar.ru
+  name: Официальный сайт
+  sort_order: 0

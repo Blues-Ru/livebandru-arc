@@ -1,0 +1,14 @@
+id: 123
+token: cotton-club
+name: Cotton Club
+alive: false
+address: Большая Ордынка, 40, стр. 1
+subway: Полянка, Третьяковская
+phone: 8-495-933-4985
+city_id: 1
+clips:
+- id: 29
+  type: weblink
+  url: http://www.cottonclub.cc
+  name: Официальный сайт
+  sort_order: 99

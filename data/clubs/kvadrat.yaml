@@ -1,0 +1,16 @@
+id: 43
+token: kvadrat
+name: Квадрат
+aliases: 'Творческий центр "АртМуза"
+
+  Артмуза'
+alive: true
+address: В.О., 13-я Линия, дом 70
+subway: Василеостровская
+city_id: 2
+clips:
+- id: 8978
+  type: weblink
+  url: http://www.jckvadrat.ru/afisha.html
+  name: Официальный сайт
+  sort_order: 0

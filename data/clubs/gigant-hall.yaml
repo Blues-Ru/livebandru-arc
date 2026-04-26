@@ -1,0 +1,14 @@
+id: 395
+token: gigant-hall
+name: Гигант-холл
+aliases: Элитный концертный зал "Гигант-холл"
+alive: true
+address: Кондратьевский просп., 44
+phone: (812) 321-65-65
+city_id: 2
+clips:
+- id: 1727
+  type: weblink
+  url: http://www.gigant-hall.ru
+  name: Официальный сайт
+  sort_order: 0

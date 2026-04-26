@@ -1,0 +1,15 @@
+id: 905
+token: moscow-republic
+name: Moscow Republic
+alive: true
+address: ул. Тверская 9А, стр. 6
+subway: Тверская, Пушкинская, Чеховская, Охотный ряд
+phone: +7(985)3167577
+city_id: 1
+comments: вход с Брюсова переулка
+clips:
+- id: 9233
+  type: weblink
+  url: http://frepublic.ru/
+  name: Официальный сайт
+  sort_order: 0

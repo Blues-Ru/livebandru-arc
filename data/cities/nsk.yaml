@@ -1,0 +1,21 @@
+id: 19
+token: nsk
+name: Новосибирск
+aliases: Novosibirsk
+show_gigs: false
+clips:
+- id: 912
+  type: weblink
+  url: http://music.vovasa.ru/
+  name: Группы Новосибирска
+  sort_order: 99
+- id: 916
+  type: rss
+  url: http://rocknrolldoctor.livejournal.com/data/rss
+  name: Блюзовые концерты в Новосибирске
+  sort_order: 99
+- id: 1519
+  type: weblink
+  url: http://vk.com/club12505862
+  name: Блюз Форум Новосибирск
+  sort_order: 199

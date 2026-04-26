@@ -1,0 +1,61 @@
+id: 344
+token: s-o-k
+name: С.О.К.
+aliases: 'СОК
+
+  Съешь Оба Куска'
+alive: true
+url: http://www.sokmusic.ru
+city_id: 2
+genre_id: 5
+clips:
+- id: 1374
+  type: weblink
+  url: http://www.sokmusic.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1376
+  type: weblink
+  url: http://vk.com/club9462
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1377
+  type: weblink
+  url: http://www.myspace.com/cokmusic
+  name: Страница на MySpace
+  sort_order: 200
+- id: 1378
+  type: weblink
+  url: http://www.youtube.com/profile?user=makcok#g/u
+  name: Канал на YouTube
+  sort_order: 300
+- id: 1379
+  type: youtube
+  url: http://www.youtube.com/?v=Je-qEqJ-9-Q
+  name: С.О.К. на канале СТС
+  sort_order: 99
+- id: 1380
+  type: photo
+  url: s-o-k.jpg
+  sort_order: 0
+  width: 595
+  height: 420
+reviews:
+- id: 78
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Группа С.О.К.- звезда современного Rock & Reggae. Отец-основатель МакСОК
+    прославился на всю Россию своими хитами: "Маршрутка", "Девочка" , "Love", "Одиночество"
+    ... Официальной датой рождения "Съешь Оба Куска" принято считать 6 февраля 2000
+    года, когда группа дала свой первый большой концерт в городе Санкт-Петербурге
+    на фестивале "Петроградский рок", победителем которого стала и получила приз и
+    грамоту победителя. Тематическая глобальность у группы присутствовала с самого
+    первого альбома. "Мы поем не о ганджа, мы поем о любви!" - торжественно заявил
+    МакСОК на одном из первых альбомов, хотя, и о том, и о главном немало сказано
+    в песнях группы С.О.К. В целом, концерты группы можно охарактеризовать как праздники
+    солнца, любви и коллективного сознания, а так же хоровое пение зала и скопление
+    позитивного народа. Иначе говоря, все гениальное - просто.'
+  verified: true
+  created: '2010-12-31'
+  is_press_release: true

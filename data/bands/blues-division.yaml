@@ -1,0 +1,23 @@
+id: 384
+token: blues-division
+name: Blues Division Band
+alive: true
+city_id: 82
+genre_id: 1
+clips:
+- id: 1668
+  type: photo
+  url: blues-division.jpg
+  sort_order: 0
+  width: 604
+  height: 403
+- id: 1669
+  type: weblink
+  url: http://vk.com/club9128608
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1670
+  type: weblink
+  url: http://www.realmusic.ru/bluesdivision/
+  name: Страница на RealMusic
+  sort_order: 199

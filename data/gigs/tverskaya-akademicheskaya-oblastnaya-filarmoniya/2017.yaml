@@ -1,0 +1,42 @@
+- id: 65147
+  date: '2017-06-02'
+  time: '18:30'
+  band_name: 'Летний джазовый фестиваль: Daddy McSwing & Vegas Project (США)'
+  club_id: 872
+  club_name: Тверская Академическая Областная Филармония
+  club_token: tverskaya-akademicheskaya-oblastnaya-filarmoniya
+- id: 65148
+  date: '2017-06-15'
+  time: '18:30'
+  band_name: 'Летний джазовый фестиваль: Alexander Dovgopoly Project с программой
+    "Битломания"'
+  club_id: 872
+  club_name: Тверская Академическая Областная Филармония
+  club_token: tverskaya-akademicheskaya-oblastnaya-filarmoniya
+- id: 65149
+  date: '2017-06-20'
+  time: '18:30'
+  band_name: 'Летний джазовый фестиваль: Квартет Александра Красоткина (саксофон);
+    Инструментальный ансамбль джаз-бэнд "Солнечная сторона" п/р Александра Белянкина
+    (г. Бежецк); Джазовое трио Алексея Бабенкова; Тверской муниципальный эстрадно-джазовый
+    оркестр п/у Павла Смирнова, вокал - Ани Саркисян'
+  club_id: 872
+  club_name: Тверская Академическая Областная Филармония
+  club_token: tverskaya-akademicheskaya-oblastnaya-filarmoniya
+- id: 65150
+  date: '2017-06-24'
+  time: '18:30'
+  band_name: 'Летний джазовый фестиваль, программа "В джазе только девушки": Армине
+    Саркисян (вокал), Алина Ростоцкая (вокал), Марина Дубина (саксофон), Дарья Шорр
+    (контрабас), Надежда Ильясова (ударные), Юлия Перминова (фортепиано). Специальный
+    гость - Валерий Гроховский (фортепиано)'
+  club_id: 872
+  club_name: Тверская Академическая Областная Филармония
+  club_token: tverskaya-akademicheskaya-oblastnaya-filarmoniya
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya

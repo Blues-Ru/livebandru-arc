@@ -1,0 +1,648 @@
+- id: 83367
+  date: '2020-01-11'
+  time: '19:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83368
+  date: '2020-01-12'
+  time: '15:30'
+  band_name: Юбилейный концерт NewAgeGeneration
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83369
+  date: '2020-01-12'
+  time: '19:30'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83370
+  date: '2020-01-13'
+  time: '19:30'
+  band_name: Kuzmin Jazz Quartet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83371
+  date: '2020-01-14'
+  time: '19:30'
+  band_name: Дуэт "Три мнения". Джаз с востока на запад
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83372
+  date: '2020-01-15'
+  time: '19:30'
+  band_name: Трио "Добрый вечер" и Георгий Нефедов
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83373
+  date: '2020-01-16'
+  time: '19:30'
+  band_name: Armenian Swifts
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83374
+  date: '2020-01-17'
+  time: '19:30'
+  band_name: Катя Килижекова & бэнд
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83375
+  date: '2020-01-18'
+  time: '19:30'
+  band_name: Tresmuchachos & Co
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83376
+  date: '2020-01-19'
+  time: '15:30'
+  band_name: Юбилейный концерт NewAgeGeneration
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83377
+  date: '2020-01-19'
+  time: '19:30'
+  band_name: Квартет "СВ+" (Вологда) с программой "Новые сказки"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83378
+  date: '2020-01-20'
+  time: '19:30'
+  band_name: Intuitive Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83379
+  date: '2020-01-21'
+  time: '19:30'
+  band_name: Ансамбль "Джаз - каприс"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83380
+  date: '2020-01-22'
+  time: '19:30'
+  band_name: Ансамбль Дмитрия Семенова feat. Stereolyuba
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83381
+  date: '2020-01-23'
+  time: '19:30'
+  band_name: Наталья Родина & ShoobeDoobe Jazz
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83382
+  date: '2020-01-24'
+  time: '19:30'
+  band_name: The Todd Herbert Quartet (тенор-саксофон, США)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83383
+  date: '2020-01-25'
+  time: '19:30'
+  band_name: Квартет Андрея Кондакова при уч. Александра Боженко (барабаны)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83384
+  date: '2020-01-26'
+  time: '15:30'
+  band_name: Magic Sound Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83385
+  date: '2020-01-27'
+  time: '19:30'
+  band_name: Big Blues Revival. "Danger Men Playing Party"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 83386
+  date: '2020-01-28'
+  time: '19:30'
+  band_id: 399
+  band_name: Suvorov Blues Band
+  band_token: suvorov-blues
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83389
+  date: '2020-01-31'
+  time: '19:30'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83511
+  date: '2020-02-05'
+  time: '19:30'
+  band_name: Suvorov's Blues Band & Don Hikaram
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 399
+    name: Suvorov Blues Band
+    token: suvorov-blues
+- id: 83512
+  date: '2020-02-07'
+  time: '19:30'
+  band_name: Квартет Ильи Корчагина. Space Challenger
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83516
+  date: '2020-02-13'
+  time: '19:30'
+  band_name: Ансамбль Дмитрия Семенова & Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83518
+  date: '2020-02-14'
+  time: '19:30'
+  band_name: Квартет Дмитрия Семенищева с программой "Songs & Stories"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83524
+  date: '2020-02-18'
+  time: '19:30'
+  band_name: Cool Train Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83526
+  date: '2020-02-19'
+  time: '19:30'
+  band_name: Elizabeth Allai & The Southern Comfort
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83534
+  date: '2020-02-23'
+  time: '19:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83387
+  date: '2020-01-29'
+  time: '19:30'
+  band_name: Квартет Ильи Корчагина. Space Challenger. feat. Arina Fail & IB Machine
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83388
+  date: '2020-01-30'
+  time: '19:30'
+  band_name: Cool Train Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83513
+  date: '2020-02-08'
+  time: '19:30'
+  band_name: Андрей Кондаков и Андрей Рябов
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83514
+  date: '2020-02-11'
+  time: '19:30'
+  band_name: Tresmuchachos & Co
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83520
+  date: '2020-02-16'
+  time: '19:30'
+  band_name: Tanina L'Odore & Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83522
+  date: '2020-02-17'
+  time: '19:30'
+  band_name: Трио "Добрый вечер" и Георгий Нефедов
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83528
+  date: '2020-02-20'
+  time: '19:30'
+  band_name: Ritmo Caliente
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83529
+  date: '2020-02-21'
+  time: '19:30'
+  band_name: Андрей Кондаков Electric Project
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83532
+  date: '2020-02-22'
+  time: '19:30'
+  band_name: Кондаков - Волков - Багдасарьян
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83536
+  date: '2020-02-24'
+  time: '19:30'
+  band_name: Big Blues Revival. "Danger Men Playing Party"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 22
+    name: Big Blues Revival
+    token: big-blues-revival
+- id: 83537
+  date: '2020-02-27'
+  time: '19:30'
+  band_name: CQ PLAM band (Куба, Гавана). Совместный проект с Данилом Прокопьвым
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83538
+  date: '2020-02-28'
+  time: '19:30'
+  band_name: Андрей Носков. Театр в стиле джаз с ансамблем "Джаз-каприс"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83712
+  date: '2020-02-01'
+  time: '19:30'
+  band_name: Волковтрио & Святослав Курашов (гитара)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83718
+  date: '2020-02-10'
+  time: '19:30'
+  band_name: Ансамбль Джерри Кима
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83719
+  date: '2020-02-15'
+  time: '19:30'
+  band_name: Трио Жени Стригалева
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83720
+  date: '2020-02-25'
+  time: '19:30'
+  band_name: Ансамбль Тома Ван Дер Заала и Флориана Вэмпе (Нидерланды)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83721
+  date: '2020-02-26'
+  time: '19:30'
+  band_name: Юрий Каверкин
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 83713
+  date: '2020-02-02'
+  time: '19:30'
+  band_name: Stankov Jazz Band, Артем Крикунов & Saint P Bop Artel
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83714
+  date: '2020-02-03'
+  time: '19:30'
+  band_name: Ivan Solomonoff (Аргентина)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83715
+  date: '2020-02-04'
+  time: '19:30'
+  band_name: Gehner & Kings. Эксклюзивный концерт, А.Дегусаров - И.Казаханов - П.Илюшин
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83716
+  date: '2020-02-06'
+  time: '19:30'
+  band_name: Ильдар Казаханов и Гасан Багиров с программой "Guitar Monsters"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83717
+  date: '2020-02-09'
+  time: '19:30'
+  band_name: RE:Quintet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83722
+  date: '2020-02-29'
+  time: '19:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83923
+  date: '2020-03-02'
+  time: '19:30'
+  band_name: Трио "Добрый вечер"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83924
+  date: '2020-03-03'
+  time: '19:30'
+  band_name: Lera Gehner Queentet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83925
+  date: '2020-03-04'
+  time: '19:30'
+  band_name: Семен Куницын & Lifetimes
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83926
+  date: '2020-03-05'
+  time: '19:30'
+  band_name: Intuitive Project & Yoel Gonzalez
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83927
+  date: '2020-03-06'
+  time: '19:30'
+  band_name: Chizhik-jazz-quartet при уч. Олега Белова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83928
+  date: '2020-03-07'
+  time: '19:30'
+  band_name: The John Marshall Quartet (США-Россия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83929
+  date: '2020-03-08'
+  time: '19:30'
+  band_name: 'Cool Train Project: Чижик - Волков - Багдасарьян при уч. Олега Белова'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83930
+  date: '2020-03-08'
+  time: '15:30'
+  band_name: M.S.B. (Magic Sound Band)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83931
+  date: '2020-03-09'
+  time: '19:30'
+  band_name: Квартет Аллы Туровской (вокал) с программой "The Beatles in jazz"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  comments: Алла Туровская - вокал, Дмитрий Семенищев - контрабас, Станислав Чигадаев
+    - фортепиано, Гарий Багдасарьян - ударные
+- id: 83932
+  date: '2020-03-10'
+  time: '19:30'
+  band_name: Программа "Джаз с востока на запад". Дуэт "Три мнения"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83935
+  date: '2020-03-13'
+  time: '19:30'
+  band_name: '1-е отделение: Эрик Лейтхойзер (вокал, электроника - Германия); 2-е
+    отделение: Acoustic Pink trio Ильдара Казаханова'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83936
+  date: '2020-03-14'
+  time: '19:30'
+  band_name: Квартет Андрея Кондакова при уч. Александра Боженко (барабаны)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83938
+  date: '2020-03-15'
+  time: '19:30'
+  band_name: Don Hikaram & Atomic Jam Band
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83944
+  date: '2020-03-21'
+  time: '19:30'
+  band_name: Квартет Дмитрия Семенищева с программой "Songs & Stories"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83945
+  date: '2020-03-21'
+  time: '19:30'
+  band_name: Квартет Дмитрия Семенищева с программой "Songs & Stories"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83946
+  date: '2020-03-22'
+  time: '15:30'
+  band_name: SPb Ramblers
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83947
+  date: '2020-03-22'
+  time: '19:30'
+  band_name: Алексей Станков. День рождения
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83948
+  date: '2020-03-23'
+  time: '19:30'
+  band_name: Ансамбль Джерри Кима
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83949
+  date: '2020-03-24'
+  time: '19:30'
+  band_name: RC Origins (Ritmo Caliente Origins) с программой "Before the Dawn"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83921
+  date: '2020-03-01'
+  time: '15:30'
+  band_name: Соул-бэнд NAOO
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83922
+  date: '2020-03-01'
+  time: '19:30'
+  band_name: Ансамбль Тома Ван Дер Заала и Флориана Вэмпе (Нидерланды-Россия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83950
+  date: '2020-03-25'
+  time: '19:30'
+  band_name: NewAgeGeneration
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83951
+  date: '2020-03-26'
+  time: '19:30'
+  band_name: Ольга Абдуллина
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83952
+  date: '2020-03-27'
+  time: '20:00'
+  band_name: 'XI Международный фестиваль "Тесные контакты" (Close Encounters): Helsinki
+    Bubblin (Финляндия), The Setlers (Россия)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83953
+  date: '2020-03-28'
+  time: '20:00'
+  band_name: 'XI Международный фестиваль "Тесные контакты" (Close Encounters): Аркадий
+    Шилклопер (валторна) представляет KKS Big Band (Ганновер, Германия) с программой
+    "Диалоги с оркестром"; Egor Tokarev & All Colors of Jazz (Россия)'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83954
+  date: '2020-03-28'
+  time: '15:30'
+  band_name: 'XI Международный фестиваль "Тесные контакты" (Close Encounters): Jazz
+    kids studio п/р К.М. Синеглазовой; Ансамбль "Лицеист" п/у Евгения Бурулева; Студенты
+    Музыкального колледжа им. М.П. Мусоргского'
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83955
+  date: '2020-03-29'
+  time: '19:30'
+  band_name: Francesca Tandoi Trio (Италия)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83956
+  date: '2020-03-30'
+  time: '19:30'
+  band_name: I Love Stan Getz (Посвящение Стену Гетцу)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+  comments: Андрей Половко - тенор-саксофон и флейта, Евгений Пономарев - рояль, Гарий
+    Багдасарьян - барабаны, Григорий Воскобойник - контрабас
+- id: 83957
+  date: '2020-03-31'
+  time: '19:30'
+  band_name: Chance-On Manouche
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83933
+  date: '2020-03-11'
+  time: '19:30'
+  band_name: Трио "Добрый вечер" и Георгий Нефедов (балалайка)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83934
+  date: '2020-03-12'
+  time: '19:30'
+  band_name: DostoevskY (DY)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83937
+  date: '2020-03-15'
+  time: '15:30'
+  band_name: Андрей Рябов и Андрей Кондаков
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83939
+  date: '2020-03-16'
+  time: '19:30'
+  band_name: Кристина Ковалева и Виктор Савич. "Концерт для голоса и баса"
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83940
+  date: '2020-03-17'
+  time: '19:30'
+  band_name: Lera Gehner Queentet
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83941
+  date: '2020-03-18'
+  time: '19:30'
+  band_name: Simon Wyrsch Queentet (кларнет, Швейцария) при уч. Андрея Кондакова (фортепиано)
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83942
+  date: '2020-03-19'
+  time: '19:30'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc
+- id: 83943
+  date: '2020-03-20'
+  time: '19:30'
+  band_name: Ансамбль Дмитрия Семенова и Николая Сизова
+  club_id: 35
+  club_name: JFC Jazz Club
+  club_token: jfc

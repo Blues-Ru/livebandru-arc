@@ -1,0 +1,58 @@
+- id: 24412
+  date: '2012-02-07'
+  time: '20:00'
+  band_id: 454
+  band_name: Osipov Friends
+  band_token: osipov-friends
+  club_id: 554
+  club_name: Grand Bourbon Street
+  club_token: grand-bourbon-street
+  price: бесплатный
+- id: 27607
+  date: '2012-05-02'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 554
+  club_name: Grand Bourbon Street
+  club_token: grand-bourbon-street
+- id: 27616
+  date: '2012-05-03'
+  time: '20:00'
+  band_name: Dodger's Band & Валерий Сеткин( RawCats'88 )
+  club_id: 554
+  club_name: Grand Bourbon Street
+  club_token: grand-bourbon-street
+  price: бесплатный
+  comments: "Рок н ролл мертв? Не проблема! 3 мая Валерий СЕТКИН и Dodger's Band(а\
+    \ так же многие другие) превратят бар Grand Bourbon Street в настоящую машину\
+    \ времени исполяя для Вас лучшее из рок н ролла!\r\nА чтобы Вам было еще веселее-\
+    \ запомните простую формулу- шон Jim Beam + ЛИТР пива = 100 рублей.\r\nBy Михаил\
+    \ Бударов & Moscow Interacts.\r\nhttp://vk.com/event37966050\r\nhttp://www.facebook.com/events/380025942041754/"
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 27617
+  date: '2012-05-02'
+  time: '20:00'
+  band_name: Вадим Иващенко и The Boneshakers, (by Dodger's Band)
+  club_id: 554
+  club_name: Grand Bourbon Street
+  club_token: grand-bourbon-street
+  price: бесплатный
+  comments: "Виртуоз гитары Вадим ИВАЩЕНКО & Boneshakers на ПЕРВОЙ официальной вечеринке\
+    \ от Moscow Interacts! \r\nВ этот день Вас ждут:\r\n-СВОБОДНЫЙ вход\r\n-Лучшая\
+    \ живая музыка от Вадима Иващенко и Boneshakers\r\n-Уникальные акции в баре!\r\
+    \n-Большое англоговорящее сообщество"
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band

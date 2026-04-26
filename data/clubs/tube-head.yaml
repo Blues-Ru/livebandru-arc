@@ -1,0 +1,18 @@
+id: 870
+token: tube-head
+name: Арт-клуб Ламповая Голова
+aliases: Ламповая Голова
+alive: true
+address: Гладкова, 8
+phone: (8412) 25-35-14
+city_id: 116
+clips:
+- id: 8283
+  type: weblink
+  url: https://vk.com/lampovayart_golova
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 8284
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

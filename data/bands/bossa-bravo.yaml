@@ -1,0 +1,23 @@
+id: 98
+token: bossa-bravo
+name: Bossa Bravo Club
+aliases: 'Bossa Brava Юрия Иванова
+
+  Bossa Bravo Юрия Иванова
+
+  Bossa Brava Club'
+alive: true
+city_id: 1
+genre_id: 2
+secondary_genre_id: 1
+clips:
+- id: 1405
+  type: photo
+  url: bossa-bravo.jpg
+  sort_order: 0
+  width: 500
+  height: 333
+- id: 2895
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

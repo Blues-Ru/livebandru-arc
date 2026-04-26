@@ -1,0 +1,233 @@
+- id: 46555
+  date: '2014-10-04'
+  time: '20:30'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46472
+  date: '2014-09-19'
+  time: '20:00'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46526
+  date: '2014-09-24'
+  time: '20:00'
+  band_id: 577
+  band_name: Best Blues Jam
+  band_token: best-blues-jam
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46644
+  date: '2014-10-17'
+  time: '20:30'
+  band_name: Dizzy Riders
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46639
+  date: '2014-10-01'
+  time: '20:00'
+  band_id: 577
+  band_name: Best Blues Jam
+  band_token: best-blues-jam
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46640
+  date: '2014-10-05'
+  time: '20:00'
+  band_name: Mishouris Blues Band + Юрий Каверкин
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 46643
+  date: '2014-10-15'
+  time: '20:00'
+  band_id: 577
+  band_name: Best Blues Jam
+  band_token: best-blues-jam
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46641
+  date: '2014-10-08'
+  time: '20:00'
+  band_id: 577
+  band_name: Best Blues Jam
+  band_token: best-blues-jam
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46645
+  date: '2014-10-18'
+  time: '20:30'
+  band_name: Клягин-Терешина Бэнд
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 46646
+  date: '2014-10-24'
+  time: '20:30'
+  band_id: 629
+  band_name: Guy Davis
+  band_token: guy-davis
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 700 руб.
+- id: 47158
+  date: '2014-10-12'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+- id: 47164
+  date: '2014-10-31'
+  time: '20:30'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 700 руб.
+- id: 47165
+  date: '2014-11-08'
+  time: '20:30'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 700 руб.
+- id: 47243
+  date: '2014-10-19'
+  time: '20:00'
+  band_name: Mishouris Blues Band , Юрий Каверкин и Артак Нерсисян
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 47334
+  date: '2014-11-07'
+  time: '20:30'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+- id: 47927
+  date: '2014-11-20'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 500 рублей
+  comments: "Дорогие друзья! В четверг 20 ноября в 20.30 в Хот Хаус клубе состоится\
+    \ выступление Rhythm & Blues Independent. Ритм 'н' блюзовый коллектив ориентирован\
+    \ на \"черный\" саунд Америки 60-70 годов. В репертуар группы помимо своих композиций\
+    \ входят кавер-версии на музыку таких исполнителей как T-Bone Walker, Johnny\"\
+    Guitar\"Watson, MOTOWN, а так же на материал легендарного Мемфисского лейбла STAX.\r\
+    \nRhythm & Blues Independent намеренно старается обойти клише заштампованного\
+    \ электроблюза и блюз рока, представив слушателям уникальный материал фанка, блюза\
+    \ и соул музыки."
+- id: 48087
+  date: '2014-11-22'
+  time: '19:30'
+  band_name: Crossroadz и Сергей Воронов
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 1000 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 48088
+  date: '2014-11-26'
+  time: '19:30'
+  band_name: 'Блюзовые вечеринки с Петровичем: Михаил Петрович Соколов и Hot Rod Band'
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: бесплатный
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 48086
+  date: '2014-11-22'
+  time: '22:30'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 300 руб.
+- id: 48089
+  date: '2014-11-28'
+  time: '19:00'
+  band_name: Heartbeat
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 400 руб.
+- id: 48090
+  date: '2014-11-29'
+  time: '21:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 700 руб.
+- id: 48091
+  date: '2014-11-30'
+  time: '19:30'
+  band_name: Маша Буханец (вокал) с программой "La Femme Enfant"
+  club_id: 780
+  club_name: Hot House Club
+  club_token: hot-house-club
+  price: 400 руб.

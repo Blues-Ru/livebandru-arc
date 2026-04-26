@@ -1,0 +1,14 @@
+id: 349
+token: stirka
+name: Стирка
+alive: true
+address: Казанская, 26
+subway: Сенная Площадь
+phone: (812) 314-53-71
+city_id: 2
+clips:
+- id: 1317
+  type: weblink
+  url: http://www.40gradusov.ru
+  name: Официальный сайт
+  sort_order: 99

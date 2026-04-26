@@ -1,0 +1,18 @@
+- id: 29604
+  date: '2012-10-07'
+  time: '19:00'
+  band_name: Raphael Wressnig & Alex Schultz Organ Combo (AUS, US), Вадим Иващенко
+    и The Boneshakers, Mess o'blues w/ special guest Алексей Барышев, Bum Shakers
+  club_id: 612
+  club_name: Карта-Шоу
+  club_token: karta-show
+  extra_bands:
+  - id: 596
+    name: Raphael Wressnig & The Soul Gift Band
+    token: wressnig-schultz
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 78
+    name: Mess o'blues
+    token: mess-o-blues

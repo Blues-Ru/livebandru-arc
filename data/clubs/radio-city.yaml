@@ -1,0 +1,25 @@
+id: 145
+token: radio-city
+name: Радио Сити
+aliases: 'Радио-сити Бар
+
+  Radio City
+
+  РАDИО СИТИ'
+alive: true
+address: Б. Садовая, 5
+subway: Маяковская
+city_id: 1
+comments: гостиница Пекин
+clips:
+- id: 2316
+  type: photo
+  url: radio-city.jpg
+  sort_order: 0
+  width: 180
+  height: 122
+- id: 2235
+  type: weblink
+  url: http://www.radiocitybar.ru
+  name: Официальный сайт
+  sort_order: 0

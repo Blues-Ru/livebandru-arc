@@ -1,0 +1,32 @@
+id: 615
+token: alizbar
+name: Alizbar
+aliases: Элизбар
+alive: false
+url: http://alizbar-harp.com
+city_id: 1
+genre_id: 11
+secondary_genre_id: 36
+musicians:
+- name: Элизбар (Alizbar)
+  instruments: кельтская арфа, флейты, варганы, гитара, мандолина
+- name: Анна Батурова
+  instruments: аррай-мбира, металлофон
+clips:
+- id: 3862
+  type: youtube
+  url: http://www.youtube.com/?v=aMxEHbUPLO8
+  name: Alizbar  Out of time fairy- tale Сказка вне времени
+  comments: without Advertising
+  sort_order: 99
+- id: 3861
+  type: weblink
+  url: http://alizbar-harp.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 3863
+  type: photo
+  url: alizbar.jpg
+  sort_order: 0
+  width: 415
+  height: 604

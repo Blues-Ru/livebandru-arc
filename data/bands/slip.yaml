@@ -1,0 +1,13 @@
+id: 130
+token: slip
+name: СЛиП
+alive: true
+url: http://www.shashki.net/slip/
+city_id: 1
+genre_id: 2
+clips:
+- id: 113
+  type: weblink
+  url: http://www.shashki.net/slip/
+  name: Страница о группе
+  sort_order: 0

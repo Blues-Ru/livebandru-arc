@@ -1,0 +1,51 @@
+id: 668
+token: markus-koehorst
+name: Markus Koehorst
+alive: true
+url: http://www.markus-k.com/
+city_id: 77
+genre_id: 32
+secondary_genre_id: 36
+musicians:
+- name: Markus Koehorst
+  instruments: guitar/dobro/vocals/loops
+clips:
+- id: 5659
+  type: youtube
+  name: Markus K - You Set My Spirit Free (on top of Spanish mountain)
+  sort_order: 125
+- id: 5392
+  type: youtube
+  url: https://www.youtube.com/watch?v=5y_SlBiPsAA
+  name: Stop Breaking Down - by Markus Koehorst
+  sort_order: 100
+- id: 5388
+  type: youtube
+  url: https://www.youtube.com/watch?v=YlB3OvEOVQU
+  name: Markus Koehorst - 'In This Cold World'
+  sort_order: 0
+- id: 5391
+  type: weblink
+  url: http://www.markus-k.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5394
+  type: youtube
+  url: https://www.youtube.com/watch?v=AkZSxec4gxo
+  name: Chicory - by Markus GILES Koehorst
+  sort_order: 300
+- id: 5393
+  type: youtube
+  url: https://www.youtube.com/watch?v=EazvmtaMGUc
+  name: Song For Maharishi - by Markus GILES Koehorst
+  sort_order: 200
+- id: 5395
+  type: youtube
+  url: https://www.youtube.com/watch?v=Ud891t_qpPk
+  name: Markus Koehorst - 'Just A Shell' at Ruby Rocks in Javea
+  sort_order: 150
+- id: 5396
+  type: youtube
+  url: https://www.youtube.com/watch?v=0S4jgwR9JPs
+  name: GILES power trio - at Engine Rooms with Seb on guest vocal
+  sort_order: 400

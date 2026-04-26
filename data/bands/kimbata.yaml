@@ -1,0 +1,23 @@
+id: 111
+token: kimbata
+name: Кимбата
+aliases: Kimbata
+alive: true
+city_id: 1
+genre_id: 11
+clips:
+- id: 62
+  type: weblink
+  url: http://kimbata.narod.ru/
+  name: Страница группы
+  sort_order: 0
+- id: 63
+  type: weblink
+  url: http://kimbata.livejournal.com
+  name: ЖЖ группы
+  sort_order: 100
+- id: 64
+  type: rss
+  url: http://kimbata.livejournal.com/data/rss
+  name: ЖЖ афрогруппы "Кимбата"
+  sort_order: 99

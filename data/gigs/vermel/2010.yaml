@@ -1,0 +1,185 @@
+- id: 12948
+  date: '2010-10-17'
+  time: '20:00'
+  band_id: 238
+  band_name: Наглый Фрукт
+  band_token: froo
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+  price: 300 руб.
+- id: 13376
+  date: '2010-11-03'
+  time: '20:00'
+  band_id: 271
+  band_name: Art Ceilidh
+  band_token: art-ceilidh
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 13401
+  date: '2010-11-04'
+  time: '20:00'
+  band_name: Арс-Пегас, Сотоварищи, НонАдаптантЫ
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 13594
+  date: '2010-11-09'
+  time: '20:00'
+  band_name: Tin Thistle
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 13635
+  date: '2010-11-13'
+  time: '22:00'
+  band_id: 172
+  band_name: Пижоны
+  band_token: pijony
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 13667
+  date: '2010-11-17'
+  time: '20:00'
+  band_name: Ключ
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 13674
+  date: '2010-11-18'
+  time: '20:00'
+  band_name: Остров Крым, Наглый фрукт
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+  extra_bands:
+  - id: 238
+    name: Наглый Фрукт
+    token: froo
+- id: 13810
+  date: '2010-11-16'
+  time: '20:00'
+  band_name: Фолк сейшн
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+  price: бесплатный
+- id: 13606
+  date: '2010-11-10'
+  time: '20:00'
+  band_name: Avis Dei
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14024
+  date: '2010-12-07'
+  time: '20:00'
+  band_name: Фолк сейшн
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14078
+  date: '2010-12-11'
+  time: '21:00'
+  band_name: C.L.O.N.E
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14094
+  date: '2010-12-14'
+  time: '20:00'
+  band_name: Los Gaiteros de Moscu
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14097
+  date: '2010-12-15'
+  time: '20:00'
+  band_name: Sativa Lobster
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14115
+  date: '2010-12-16'
+  time: '20:00'
+  band_name: НеМы, Монада
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14186
+  date: '2010-12-25'
+  time: '21:00'
+  band_name: Medium Wave
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14201
+  date: '2010-12-28'
+  time: '19:00'
+  band_name: White Heather, Sandy's Band
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14142
+  date: '2010-12-19'
+  time: '20:00'
+  band_name: Puppet Lane, The Quinsy, Вудуъ
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14157
+  date: '2010-12-21'
+  time: '20:00'
+  band_name: Фолк сейшн
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14176
+  date: '2010-12-24'
+  time: '20:00'
+  band_id: 271
+  band_name: Art Ceilidh
+  band_token: art-ceilidh
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14124
+  date: '2010-12-17'
+  time: '20:00'
+  band_name: Red Guns
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14166
+  date: '2010-12-22'
+  time: '20:00'
+  band_name: Горсть ягод
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14171
+  date: '2010-12-23'
+  time: '20:00'
+  band_name: Foxy Jazz
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 14212
+  date: '2010-12-30'
+  time: '19:00'
+  band_name: Pursh
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+- id: 12317
+  date: '2010-07-11'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 4
+  club_name: Вермель
+  club_token: vermel
+  price: 300 руб.

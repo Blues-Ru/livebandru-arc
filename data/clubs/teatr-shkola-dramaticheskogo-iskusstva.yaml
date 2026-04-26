@@ -1,0 +1,14 @@
+id: 517
+token: teatr-shkola-dramaticheskogo-iskusstva
+name: Театр "Школа драматического искусства"
+alive: true
+address: Сретенка, 19/27
+subway: Сухаревская
+phone: +7(495)632-9344
+city_id: 1
+clips:
+- id: 2690
+  type: weblink
+  url: http://sdart.ru/
+  name: Официальный сайт
+  sort_order: 0

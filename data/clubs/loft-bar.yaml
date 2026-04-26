@@ -1,0 +1,19 @@
+id: 527
+token: loft-bar
+name: Loft Bar
+aliases: Loftbar
+alive: true
+address: Урицкого, 94
+phone: 28-28-778
+city_id: 64
+clips:
+- id: 2815
+  type: weblink
+  url: http://www.barloft.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2816
+  type: weblink
+  url: http://vk.com/club21160749
+  name: Страница ВКонтакте
+  sort_order: 100

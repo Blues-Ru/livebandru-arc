@@ -1,0 +1,19 @@
+id: 368
+token: korol-plush
+name: Король Плющ
+alive: true
+address: просп. Энгельса, 111, корп.1
+subway: Озерки
+phone: (812) 513-62-80
+city_id: 2
+clips:
+- id: 1373
+  type: weblink
+  url: http://vk.com/club169676
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1372
+  type: weblink
+  url: http://www.kp-club.ru
+  name: Официальный сайт
+  sort_order: 0

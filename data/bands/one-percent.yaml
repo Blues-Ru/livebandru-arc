@@ -1,0 +1,38 @@
+id: 293
+token: one-percent
+name: Один Процент
+alive: true
+city_id: 49
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Владислав Мосиенко
+  instruments: гитара
+- name: Вадим Абрамчук
+  instruments: бас
+- name: Сергей Кобзарь
+  instruments: ударные
+- name: Влад Алябышев
+  instruments: вокал
+clips:
+- id: 982
+  type: youtube
+  url: http://www.youtube.com/?v=wN6a6rBkyiM
+  name: Андеграунд
+  sort_order: 99
+- id: 983
+  type: weblink
+  url: http://vk.com/club6533310
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 984
+  type: youtube
+  url: http://www.youtube.com/?v=4t1U0Bq6B_0
+  name: Заграница
+  sort_order: 199
+- id: 985
+  type: youtube
+  url: http://www.youtube.com/?v=mDtJgUXLyyA
+  name: Тише
+  comments: Автор клипа - Silver
+  sort_order: 299

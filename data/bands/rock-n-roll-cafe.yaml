@@ -1,0 +1,46 @@
+id: 603
+token: rock-n-roll-cafe
+name: Праздник рок-н-ролла в Кафе Блюз
+alive: true
+url: http://vk.com/prazdnik_rnr
+city_id: 1
+genre_id: 8
+musicians:
+- name: Алексей Фетисов
+  instruments: -вокал, бас
+- name: Александр Тимофеев
+  instruments: -ударные
+- name: Евгений Кудряшов
+  instruments: -вокал, гитара
+- name: Дмитрий Смагин
+  instruments: -вокал, гитара
+- name: Андрей Луговой
+  instruments: -вокал , гитара
+- name: Михаил "Грем" Богданов
+  instruments: контрабас
+- name: Евгени Немов
+  instruments: вокал, гитара
+clips:
+- id: 3594
+  type: weblink
+  url: http://vk.com/prazdnik_rnr
+  name: Официальный сайт
+  sort_order: 0
+- id: 3595
+  type: photo
+  url: rock-n-roll-cafe.jpg
+  sort_order: 0
+  width: 384
+  height: 384
+reviews:
+- id: 322
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Праздник Рок-Н-Ролла в Кафе Блюз
+  text: Приглашаем вас на Праздник Рок-н-ролла - первый в Москве исключительно рок-н-ролльный
+    джем. Вас ждет стильный хоум бенд имени Чака Берри под руковдством Алексея Фетисова
+    и гости - лучшие рок-н-ролльные исполнители города. Начало в 21-00. Вход бесплатный.
+  verified: true
+  created: '2012-10-01'
+  is_press_release: true

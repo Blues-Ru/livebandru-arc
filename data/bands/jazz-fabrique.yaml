@@ -1,0 +1,22 @@
+id: 100
+token: jazz-fabrique
+name: Jazz Fabrique
+alive: true
+url: http://jazz.house.ru
+city_id: 1
+genre_id: 2
+clips:
+- id: 16
+  type: weblink
+  url: http://jazz.house.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 17
+  type: rss
+  url: http://community.livejournal.com/jazz_fabrique/data/rss
+  sort_order: 99
+- id: 59
+  type: weblink
+  url: http://www.myspace.com/jfabrique
+  name: Jazz Fabrique на MySpace
+  sort_order: 100

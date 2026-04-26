@@ -1,0 +1,25 @@
+id: 724
+token: 48-chairs-na-varshavskoj
+name: 48 Chairs на Большой Конюшенной
+alive: true
+address: Большая Конюшенная, 2
+subway: Невский проспект, Адмиралтейская
+city_id: 2
+clips:
+- id: 4741
+  type: weblink
+  url: http://www.48chairs.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5453
+  type: photo
+  url: 48-chairs-na-varshavskoj.jpg
+  sort_order: 0
+  width: 1280
+  height: 860
+- id: 5454
+  type: photo
+  url: 48-chairs-na-varshavskoj-2.jpg
+  sort_order: 100
+  width: 1280
+  height: 860

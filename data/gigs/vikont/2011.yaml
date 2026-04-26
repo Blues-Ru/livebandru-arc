@@ -1,0 +1,22 @@
+- id: 20101
+  date: '2011-06-10'
+  time: '20:00'
+  band_name: The Blues Nephews, New Day Blues Band, Ап-Единение
+  club_id: 470
+  club_name: Виконт
+  club_token: vikont
+  price: 25 грн.
+  comments: "Вечер хорошего блюза в Запорожье!\r\n\r\nВстречаем отличную группу и\
+    \ коллег из Харькова - The Blues Nephews.\r\n\r\nТак же для вас будут играть два\
+    \ замечательных бэнда Запорожья: Ап-Единение и New Day Blues Band. Приходите!!!\
+    \ Будет весело!"
+  extra_bands:
+  - id: 297
+    name: New Day Blues Band
+    token: new-day-blues-band
+  - id: 303
+    name: The Blues Nephews
+    token: blues-nephews
+  - id: 304
+    name: Ап-Единение
+    token: ap-edinenie

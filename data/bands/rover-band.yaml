@@ -1,0 +1,24 @@
+id: 279
+token: rover-band
+name: Rover Band
+alive: true
+city_id: 19
+genre_id: 4
+secondary_genre_id: 3
+musicians:
+- name: Антон Благов
+  instruments: аккордеон
+- name: Андрей Лавринович
+  instruments: бас-гитара
+- name: Станислав Колченко
+  instruments: ударные
+- name: Юрий Никишин
+  instruments: гитара
+- name: Андрея Ярошенко
+  instruments: вокал, гитара
+clips:
+- id: 924
+  type: weblink
+  url: http://www.realmusic.ru/roverband/
+  name: Страница на RealMusic
+  sort_order: 99

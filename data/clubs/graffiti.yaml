@@ -1,0 +1,37 @@
+id: 170
+token: graffiti
+name: Граффити
+alive: true
+address: пер. Калинина, 16
+subway: Парк Челюскинцев
+phone: +375 (29) 17-999-18
+city_id: 17
+clips:
+- id: 761
+  type: weblink
+  url: http://www.graffiti.by/
+  name: Официальный сайт
+  sort_order: 99
+- id: 762
+  type: rss
+  url: http://www.graffiti.by/feed/
+  sort_order: 99
+- id: 763
+  type: weblink
+  url: http://twitter.com/graffiti_by
+  name: Твиттер
+  sort_order: 199
+- id: 764
+  type: weblink
+  url: http://www.facebook.com/pages/Minsk-Belarus/Pub-club-Graffiti/43871211029
+  name: Страница на FaceBook
+  sort_order: 299
+- id: 765
+  type: rss
+  url: http://community.livejournal.com/graffiti_by/data/rss
+  sort_order: 199
+- id: 766
+  type: weblink
+  url: http://vk.com/club1253228
+  name: Страница ВКонтакте
+  sort_order: 399

@@ -1,0 +1,384 @@
+- id: 9841
+  date: '2009-01-15'
+  time: '21:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: The TUNNEL (Лубянский пр-д, 7; тел. 937 41 01)
+  price: бесплатный
+- id: 9885
+  date: '2009-02-13'
+  time: '23:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Главкурорт
+  city_id: 1
+  price: бесплатный
+- id: 9887
+  date: '2009-02-15'
+  time: '19:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Московский Международный Дом Музыки
+  city_id: 1
+- id: 9918
+  date: '2009-02-05'
+  time: '21:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: The TUNNEL (Лубянский прoeзд 7)
+  price: бесплатный
+- id: 9921
+  date: '2009-01-25'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Rock'n'Roll Pub (ул. Мельникова, 7)
+  city_id: 1
+  price: бесплатный
+- id: 9926
+  date: '2009-02-07'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_name: '"Олимпиада 80" (СК "Олимпийский", п.1)'
+  city_id: 1
+- id: 9964
+  date: '2009-01-31'
+  time: '19:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Магазин "Муздеталь", Пестовский пер, 12.
+  city_id: 1
+  price: бесплатный
+- id: 9989
+  date: '2009-02-14'
+  time: '20:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_name: BLUR кафе
+  city_id: 1
+  price: бесплатный
+- id: 9990
+  date: '2009-02-27'
+  time: '20:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_name: Центр МоСТ
+  price: 150 руб.
+- id: 9991
+  date: '2009-03-06'
+  time: '21:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_name: Улица ОГИ
+  city_id: 1
+  price: бесплатный
+- id: 10023
+  date: '2009-02-27'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Кафе "Рей"(http://www.caferay.ru/)
+  city_id: 1
+  price: 300 руб.
+- id: 10059
+  date: '2009-03-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_name: ЧелюскинЪ
+  city_id: 1
+- id: 10116
+  date: '2009-03-12'
+  time: '21:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: The Tunnel
+  price: бесплатный
+- id: 10117
+  date: '2009-03-06'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: '"Дождь-Мажор", Измаловский Вал, 2.'
+  city_id: 1
+  price: 150 руб.
+- id: 10118
+  date: '2009-03-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Билингва
+  city_id: 1
+  price: бесплатный
+- id: 10124
+  date: '2009-03-14'
+  time: '21:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_name: BLUR-кафе
+  city_id: 1
+  price: бесплатный
+- id: 10139
+  date: '2009-03-19'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Rock'n'Roll Pub (Мельникова, 7)
+  city_id: 1
+  price: бесплатный
+- id: 10148
+  date: '2009-04-14'
+  time: '18:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Уфимская Государственная Филармония
+- id: 10151
+  date: '2009-03-26'
+  time: '21:00'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: JAGGER
+  city_id: 2
+  price: for free
+- id: 10153
+  date: '2009-04-11'
+  time: '20:30'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: Red Fox
+  city_id: 2
+- id: 10162
+  date: '2009-04-02'
+  time: '21:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: The TUNNEL (Лубянский проезд 7)
+  price: бесплатный
+- id: 10197
+  date: '2009-03-27'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Арт-Кафе "Дождь-Мажор", Измайловский вал, 2
+  city_id: 1
+  price: 150 руб.
+- id: 10198
+  date: '2009-04-04'
+  time: '22:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_name: The Other Side (www.theotherside.ru)
+  price: бесплатный
+- id: 10222
+  date: '2009-04-19'
+  time: '18:00'
+  band_id: 70
+  band_name: Rockin' Dad
+  band_token: rockindad
+  club_name: ДШИ им. М.И.Глинки (г.Троицк)
+  price: 100 руб.
+- id: 10268
+  date: '2009-04-16'
+  time: '21:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Рок-н-ролл Паб (ул.Мельникова, 7)
+  city_id: 1
+  price: бесплатный
+- id: 10393
+  date: '2009-05-23'
+  time: '20:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Биофак МГУ на Воробьевых горах, open air - День Биолога
+- id: 10394
+  date: '2009-05-14'
+  time: '20:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: '"Линии и формы", ул. м. Почтовая 2/2'
+  city_id: 1
+  price: 200 руб.
+- id: 10451
+  date: '2009-06-06'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Б. Никитская, 19)
+  city_id: 1
+  price: бесплатный
+- id: 10452
+  date: '2009-06-07'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Б. Никитская, 19)
+  city_id: 1
+  price: бесплатный
+- id: 10510
+  date: '2009-06-11'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Большая Никитская, 19/13)
+  city_id: 1
+  price: бесплатный
+- id: 10511
+  date: '2009-06-13'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Большая Никитская, 19/13)
+  city_id: 1
+  price: бесплатный
+- id: 10512
+  date: '2009-06-14'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Большая Никитская, 19/13)
+  city_id: 1
+  price: бесплатный
+- id: 10513
+  date: '2009-06-12'
+  time: '20:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Дождь-Мажор (Измайловский вал, 2)
+  city_id: 1
+  price: 150 руб.
+- id: 10652
+  date: '2009-07-18'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Хроникабар
+  city_id: 1
+- id: 10722
+  date: '2009-07-31'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_name: '"Только Хорошие ИЗВЕСТИЯ"'
+  city_id: 1
+  price: 300 руб.
+- id: 10731
+  date: '2009-08-08'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Постоянное место жительства
+  city_id: 1
+- id: 10768
+  date: '2009-08-30'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_name: FAQ-Cafe
+  city_id: 1
+  price: 300 руб.
+- id: 10795
+  date: '2009-09-03'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Паб Doolin "House" (www.doolin-house.ru)
+  city_id: 1
+- id: 10796
+  date: '2009-09-04'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_name: Фестиваль "МАМАКАБО"
+  city_id: 1
+- id: 10809
+  date: '2009-09-04'
+  time: '20:30'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_name: Фестиваль Мамакабо
+  price: 300 руб.
+- id: 10812
+  date: '2009-09-05'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Лабарданс (Б. Никитская, 19)
+  city_id: 1
+  price: бесплатный
+- id: 10962
+  date: '2009-10-04'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_name: FM Club
+  city_id: 1
+  price: 300 руб.
+- id: 11152
+  date: '2009-10-29'
+  time: '20:00'
+  band_id: 90
+  band_name: The Aftermath
+  band_token: aftermath
+  club_name: Радио-Сити
+  city_id: 1
+  price: 300 руб.
+- id: 11173
+  date: '2009-11-04'
+  time: '20:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Doolin House (Арбат, 20)
+  city_id: 1
+  price: 200 руб.
+- id: 11335
+  date: '2009-12-18'
+  time: '20:00'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_name: Doolin House (Арбат, 20)
+  city_id: 1
+  price: 200 руб.

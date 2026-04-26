@@ -1,0 +1,70 @@
+- id: 58538
+  date: '2016-05-08'
+  band_name: 'Beatles party: Arh.Blues Band (Архангельск), Лайф (Северодвинск), BE
+    Happy! (Архангельск-Северодвинск)'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 58540
+  date: '2016-05-19'
+  band_name: Arh.Blues Band (Архангельск
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 58541
+  date: '2016-05-21'
+  band_name: Прекрасный Город (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 58543
+  date: '2016-05-31'
+  band_name: 'Концерт участников международного фестиваля "Архангельск-блюз": Wolf
+    Mail (Канада) при уч.: Николай Клишин (бас), Алексей Барандов (барабаны)'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  extra_bands:
+  - id: 120
+    name: Wolf Mail
+    token: wolf-mail
+- id: 58545
+  date: '2016-06-02'
+  band_name: 'Концерт участников международного фестиваля "Архангельск-блюз": Freeky
+    Cleen (Украина-Россия)'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  extra_bands:
+  - id: 516
+    name: Freeky Cleen
+    token: freeky-cleen
+- id: 58546
+  date: '2016-06-10'
+  band_name: Frozen Crows (Швейцария)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 58542
+  date: '2016-05-30'
+  band_name: Концерт участников международного фестиваля "Архангельск-блюз"
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 58544
+  date: '2016-06-01'
+  band_name: 'Концерт участников международного фестиваля "Архангельск-блюз": Average
+    Blues Band (Сакнт-Петербург)'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  extra_bands:
+  - id: 229
+    name: Average Blues Band
+    token: average-bb
+- id: 58539
+  date: '2016-05-15'
+  band_name: The Band Called Oh (Норвегия), Yesterday Now (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso

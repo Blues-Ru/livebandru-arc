@@ -1,0 +1,720 @@
+- id: 42097
+  date: '2014-03-28'
+  time: '21:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42098
+  date: '2014-02-12'
+  time: '20:00'
+  band_name: Открытый Блюзовый Джем с группой Dynamic James
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 42099
+  date: '2014-02-13'
+  time: '21:00'
+  band_name: Блюз-вечеринка с Петровичем
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42100
+  date: '2014-02-14'
+  time: '21:00'
+  band_name: Саша Алмазова и NON Cadenza
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42101
+  date: '2014-02-14'
+  time: '21:00'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42102
+  date: '2014-02-15'
+  time: '21:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42103
+  date: '2014-02-16'
+  time: '21:00'
+  band_name: Таис Урумидис
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42104
+  date: '2014-02-19'
+  time: '20:00'
+  band_name: Открытый Блюзовый Джем с группой Dynamic James
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 42105
+  date: '2014-02-20'
+  time: '21:00'
+  band_name: Блюз-вечеринка с Петровичем
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42106
+  date: '2014-02-21'
+  time: '21:00'
+  band_name: Папоротник
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 260
+    name: Оркестр "Папоротник"
+    token: paporotnik
+- id: 42107
+  date: '2014-02-23'
+  time: '21:00'
+  band_name: Борис Гребенщиков и Аквариум
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42108
+  date: '2014-02-23'
+  time: '21:00'
+  band_name: Lex и Команда
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 42109
+  date: '2014-02-26'
+  time: '20:00'
+  band_name: Открытый Блюзовый Джем с группой Dynamic James
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 42110
+  date: '2014-02-27'
+  time: '21:00'
+  band_name: Блюз-вечеринка с Петровичем
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42111
+  date: '2014-02-28'
+  time: '21:00'
+  band_name: Несчастный случай
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42112
+  date: '2014-02-28'
+  time: '21:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42113
+  date: '2014-03-01'
+  time: '20:00'
+  band_name: Творческий вечер Лу
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42114
+  date: '2014-03-01'
+  time: '21:00'
+  band_name: Shemякиna Band
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 105
+    name: Шемякина Band
+    token: shemyakina-band
+- id: 42115
+  date: '2014-03-02'
+  time: '21:00'
+  band_name: Полина Касьянова и Djangoband
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 42116
+  date: '2014-03-05'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42117
+  date: '2014-03-06'
+  time: '21:00'
+  band_name: Блюз-вечеринка с Петровичем
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42118
+  date: '2014-03-07'
+  time: '21:00'
+  band_id: 332
+  band_name: Вячеслав Горский
+  band_token: gorsky
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 42119
+  date: '2014-03-08'
+  time: '21:00'
+  band_name: Смысловые Галлюцинации
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 44098
+  date: '2014-05-16'
+  time: '22:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45520
+  date: '2014-08-22'
+  time: '21:30'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 44780
+  date: '2014-07-04'
+  time: '22:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45351
+  date: '2014-08-01'
+  time: '22:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45730
+  date: '2014-08-21'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45731
+  date: '2014-08-23'
+  time: '21:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45732
+  date: '2014-08-29'
+  time: '21:00'
+  band_id: 152
+  band_name: Аукцыон
+  band_token: auktyon
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45733
+  date: '2014-09-12'
+  time: '21:00'
+  band_id: 320
+  band_name: Ногу свело!
+  band_token: nogu-svelo
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45734
+  date: '2014-09-19'
+  time: '23:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45735
+  date: '2014-08-02'
+  time: '21:00'
+  band_name: Чичерина
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45736
+  date: '2014-08-06'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45737
+  date: '2014-08-08'
+  time: '21:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45738
+  date: '2014-08-10'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45739
+  date: '2014-08-13'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45740
+  date: '2014-08-16'
+  time: '21:00'
+  band_name: Наргиз (USA)
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45741
+  date: '2014-08-16'
+  time: '21:30'
+  band_name: Полина Касьянова и Djangoband
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 45742
+  date: '2014-08-17'
+  time: '20:00'
+  band_name: Таис Урумидис
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45743
+  date: '2014-08-19'
+  time: '21:00'
+  band_name: Джазовое трио Ananswer
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45744
+  date: '2014-08-20'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45745
+  date: '2014-08-21'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45746
+  date: '2014-08-23'
+  time: '21:30'
+  band_name: Папоротник
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 260
+    name: Оркестр "Папоротник"
+    token: paporotnik
+- id: 45747
+  date: '2014-08-26'
+  time: '21:00'
+  band_name: Belleville
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45748
+  date: '2014-08-27'
+  time: '19:00'
+  band_name: Scary Tale
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45749
+  date: '2014-08-27'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45750
+  date: '2014-08-28'
+  time: '21:00'
+  band_name: Александр Пушной и Джанкой Бразерс
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45751
+  date: '2014-08-29'
+  time: '21:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45752
+  date: '2014-08-30'
+  time: '21:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45753
+  date: '2014-08-30'
+  time: '21:30'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45754
+  date: '2014-09-01'
+  time: '21:30'
+  band_name: Шоу "Гитарные дуэли"
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45755
+  date: '2014-09-02'
+  time: '21:30'
+  band_id: 269
+  band_name: Рада и Терновник
+  band_token: rada-i-ternovnik
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45756
+  date: '2014-09-03'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45758
+  date: '2014-09-05'
+  time: '22:00'
+  band_name: Леонид Агутин
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45759
+  date: '2014-09-05'
+  time: 00:15
+  band_name: Саша Санта
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45760
+  date: '2014-09-06'
+  time: '21:00'
+  band_id: 345
+  band_name: Дидюля
+  band_token: didula
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45761
+  date: '2014-09-06'
+  time: '21:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45763
+  date: '2014-09-11'
+  time: '21:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45764
+  date: '2014-09-12'
+  time: '21:30'
+  band_name: Classy Jazz
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45765
+  date: '2014-09-13'
+  time: '21:00'
+  band_name: Вячеслав Бутусов и Ю-питер
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45757
+  date: '2014-09-05'
+  time: '21:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45762
+  date: '2014-09-10'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45766
+  date: '2014-08-01'
+  time: '21:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45767
+  date: '2014-08-02'
+  time: '21:30'
+  band_id: 350
+  band_name: Эдельвейс
+  band_token: edelveys
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45768
+  date: '2014-08-05'
+  time: '21:00'
+  band_name: Relax Trio
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45769
+  date: '2014-08-12'
+  time: '21:00'
+  band_name: Prostoband (совместный проект от групп "7Б" и Znaki)
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45770
+  date: '2014-08-14'
+  time: '21:00'
+  band_name: Квартал
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45771
+  date: '2014-08-31'
+  time: '20:00'
+  band_name: Дуэт "От А до Я"
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45772
+  date: '2014-09-04'
+  time: '21:00'
+  band_id: 350
+  band_name: Эдельвейс
+  band_token: edelveys
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45773
+  date: '2014-09-13'
+  time: '21:30'
+  band_name: Папоротник
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  extra_bands:
+  - id: 260
+    name: Оркестр "Папоротник"
+    token: paporotnik
+- id: 45774
+  date: '2014-09-14'
+  time: '20:00'
+  band_name: Leyla Kafarzade (LK)
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45775
+  date: '2014-09-14'
+  time: '20:00'
+  band_name: Алла Рид и ее трио
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45776
+  date: '2014-09-17'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45777
+  date: '2014-09-18'
+  time: '21:00'
+  band_name: TWO Siberians | Белый Острог
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45778
+  date: '2014-09-20'
+  time: '21:30'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45779
+  date: '2014-09-24'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45780
+  date: '2014-09-25'
+  time: '21:00'
+  band_name: Саша Алмазова и NON Cadenza
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45781
+  date: '2014-09-25'
+  time: '21:00'
+  band_name: Aset
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45782
+  date: '2014-09-26'
+  time: '21:00'
+  band_name: Guru Groove Foundation
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45783
+  date: '2014-09-26'
+  time: '21:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45784
+  date: '2014-09-27'
+  time: '21:00'
+  band_name: Владимир Кузьмин
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45785
+  date: '2014-09-27'
+  time: '22:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+- id: 45786
+  date: '2014-09-30'
+  time: '21:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 40
+  club_name: Б2
+  club_token: b2
+  price: бесплатный
+- id: 46513
+  date: '2014-10-03'
+  time: '22:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 40
+  club_name: Б2
+  club_token: b2

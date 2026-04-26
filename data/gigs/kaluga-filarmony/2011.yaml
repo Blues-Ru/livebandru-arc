@@ -1,0 +1,20 @@
+- id: 16631
+  date: '2011-03-31'
+  band_id: 406
+  band_name: Howard Levy
+  band_token: howard-levy
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+- id: 23194
+  date: '2011-11-17'
+  time: '19:00'
+  band_name: I remember Joe Zawinul (Джаз Бас Театр Алекса Ростоцкого)
+  club_id: 413
+  club_name: Калужская областная филармония
+  club_token: kaluga-filarmony
+  price: 400 руб.
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky

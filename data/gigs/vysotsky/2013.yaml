@@ -1,0 +1,136 @@
+- id: 33088
+  date: '2013-01-11'
+  time: '21:00'
+  band_name: Джаз-квартет "Папа Дикси"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33089
+  date: '2013-01-12'
+  time: '20:00'
+  band_name: Джаз-квартет "Папа Дикси"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33090
+  date: '2013-01-18'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33500
+  date: '2013-02-01'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33501
+  date: '2013-02-15'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33502
+  date: '2013-02-16'
+  time: '21:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33503
+  date: '2013-02-22'
+  time: '21:00'
+  band_name: Джаз-квартет "Папа Дикси"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 33499
+  date: '2013-01-25'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 34433
+  date: '2013-03-01'
+  time: '21:00'
+  band_name: Джаз-квартет "Папа Дикси"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 34434
+  date: '2013-03-08'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 34962
+  date: '2013-03-29'
+  time: '21:00'
+  band_name: Феликс Лахути и "Fankyland"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 35193
+  date: '2013-04-12'
+  time: '21:00'
+  band_name: Феликс Лахути и "Fankyland"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 35194
+  date: '2013-04-19'
+  time: '21:00'
+  band_name: Джаз-квартет "Jara"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 35195
+  date: '2013-04-05'
+  time: '21:00'
+  band_name: Blues Party
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 35196
+  date: '2013-04-26'
+  time: '21:00'
+  band_name: Full moon jazz band
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 37723
+  date: '2013-08-09'
+  time: '21:00'
+  band_name: Трио Jara
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 37724
+  date: '2013-08-16'
+  time: '21:00'
+  band_name: Квартет "Папа-Дикси"
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky
+- id: 37725
+  date: '2013-08-30'
+  time: '21:00'
+  band_name: Трио Jara
+  club_id: 452
+  club_name: Высоцкий
+  club_token: vysotsky

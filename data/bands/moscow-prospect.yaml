@@ -1,0 +1,15 @@
+id: 408
+token: moscow-prospect
+name: Московский проспект
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Бронеслав Кристаль
+  instruments: ударные
+- name: Артем Рябов
+  instruments: бас
+- name: Егор Потеряев
+  instruments: гитара
+- name: Галина Муховикова
+  instruments: вокал

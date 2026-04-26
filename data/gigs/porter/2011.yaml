@@ -1,0 +1,52 @@
+- id: 19416
+  date: '2011-05-22'
+  time: '19:00'
+  band_name: 'Блюз джем: Гастарбайтер Блюз, Руки ''В Брюки, Bloom Band, Landcruisers,
+    The Full Throttle Band'
+  club_id: 458
+  club_name: Портер
+  club_token: porter
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+- id: 20351
+  date: '2011-06-19'
+  time: '19:00'
+  band_name: 'Большой Блюз Джем: Ivan Blues, Max Vatutin Trio, Deluxe Blues Band (Запорожье),
+    JT Fresh, Slow Roll, Max Tavrichesky'
+  club_id: 458
+  club_name: Портер
+  club_token: porter
+  price: 20 грн.
+  extra_bands:
+  - id: 377
+    name: Deluxe Blues Band
+    token: deluxe-blues-band
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+  - id: 291
+    name: Ivan Блюz
+    token: ivan-blyuz
+  - id: 422
+    name: Slow Roll
+    token: slow-roll
+- id: 23341
+  date: '2011-11-27'
+  time: '19:00'
+  band_name: Mishouris Blues Band, Derrick Big Walker & The Blues Nephews, Checkpoint
+  club_id: 458
+  club_name: Портер
+  club_token: porter
+  price: 70 грн
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 303
+    name: The Blues Nephews
+    token: blues-nephews

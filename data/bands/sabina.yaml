@@ -1,0 +1,54 @@
+id: 134
+token: sabina
+name: Сабина Вартанова
+alive: true
+url: http://www.sabinavartanova.ru/
+city_id: 1
+genre_id: 2
+clips:
+- id: 125
+  type: weblink
+  url: http://www.sabinavartanova.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1908
+  type: photo
+  url: sabina.jpg
+  sort_order: 0
+  width: 1360
+  height: 2048
+- id: 1910
+  type: youtube
+  url: http://www.youtube.com/?v=gBtVrN4UoIg
+  name: CАБИНА ВАРТАНОВА  YOUR STAR
+  sort_order: 199
+- id: 1911
+  type: youtube
+  url: http://www.youtube.com/?v=ScFS54EnUBo
+  name: CАБИНА ВАРТАНОВА YOU AND I
+  comments: "Сабина Вартанова, клип в клубе Дискавери.\r\nSabina Vartanova. Live music.\
+    \ Jazz. Moscow."
+  sort_order: 299
+- id: 1909
+  type: youtube
+  url: http://www.youtube.com/?v=ScFS54EnUBo
+  name: SABINA VARTANOVA  YOU AND I
+  comments: "Сабина Вартанова, клип в клубе Дискавери.\r\nSabina Vartanova. Live music.\
+    \ Jazz. Moscow."
+  sort_order: 99
+reviews:
+- id: 125
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Cабина Вартанова
+  text: Красивая, стильная , искренняя певица, композитор, Сабина Вартанова. Выступает
+    со своим музыкальным коллективом. Сабина Вартанова - это талант,естественность,
+    чувство стиля, целеустремленность. Музыка Сабины, впитавшая в себя творчество
+    Стиви Уандера, Аструд Жилберто, Майкла Фрэнкса, Джорджа Бенсона, Эл Джеро - это
+    сочетание таких направлений, как lounge, jazz, soul, r&b, funk и pop создает богатую
+    основу для авторской музыки певицы. Ее музыка и проникновенная манера исполнения
+    восхищает самых искушенных слушателей! Песни ее звучат на РАДИО ДЖАЗ.
+  verified: true
+  created: '2011-03-25'
+  is_press_release: true

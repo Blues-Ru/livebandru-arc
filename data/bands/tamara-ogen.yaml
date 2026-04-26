@@ -1,0 +1,218 @@
+id: 763
+token: tamara-ogen
+name: Тамара Оген & Magnet Vox
+aliases: Magnet Vox
+alive: true
+url: http://magnetvox.com
+city_id: 1
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Тамара Оген
+  instruments: вокал, фортепиано
+- name: Василий Мотылец
+  instruments: бас-гитара, вокал
+- name: Михаил Данилов
+  instruments: ударные, перкуссия
+references:
+- id: 763
+  name: Тамара Оген & Magnet Vox
+  token: tamara-ogen
+clips:
+- id: 9370
+  type: photo
+  url: tamara-ogen-9.jpg
+  name: Большой Блюзовый концерт от фестиваля Мосты, Санкт-Петербург'18
+  sort_order: 0
+  width: 960
+  height: 616
+- id: 10209
+  type: youtube
+  url: https://www.youtube.com/watch?v=9bGDz3Sojdg
+  name: Watch Over Me | Tamara Ogen & Magnet Vox
+  comments: 'Live Saint-Petersburg, November''18
+
+
+    Song by Guy Davis'
+  sort_order: 150
+- id: 9124
+  type: weblink
+  url: http://magnetvox.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 9131
+  type: weblink
+  url: http://www.facebook.com/magnetvoxband
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 9132
+  type: weblink
+  url: https://vk.com/magnetvoxband
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 9133
+  type: weblink
+  url: http://instagram.com/magnetvoxband
+  name: Instagram
+  sort_order: 300
+- id: 9134
+  type: weblink
+  url: https://www.youtube.com/channel/UCK-l7DjiYICMRZXTLzLc9gw
+  name: YouTube
+  sort_order: 400
+- id: 9142
+  type: mp3
+  url: tamara-ogen.mp3
+  name: 61 Highway [ Skip James | Guy Davis ]
+  sort_order: 99
+- id: 9143
+  type: mp3
+  url: tamara-ogen-2.mp3
+  name: Do Friends Fall In Love? [ Vilray ]
+  sort_order: 199
+- id: 9144
+  type: mp3
+  url: tamara-ogen-3.mp3
+  name: Down In Mississippi [ J.B.Lenoir ]
+  sort_order: 299
+- id: 9145
+  type: mp3
+  url: tamara-ogen-4.mp3
+  name: Alabama [ J.B.Lenoir ]
+  sort_order: 399
+- id: 9146
+  type: mp3
+  url: tamara-ogen-5.mp3
+  name: Mountain Time [ Joe Bonamassa ]
+  sort_order: 499
+- id: 9147
+  type: mp3
+  url: tamara-ogen-6.mp3
+  name: Country Road [ John Denver ]
+  sort_order: 599
+- id: 9148
+  type: mp3
+  url: tamara-ogen-7.mp3
+  name: Police Dog [ Blind Blake ]
+  sort_order: 699
+- id: 9238
+  type: photo
+  url: tamara-ogen-7.jpg
+  name: acting
+  sort_order: 50
+  width: 3968
+  height: 2976
+- id: 9237
+  type: photo
+  url: tamara-ogen-6.jpg
+  name: at JamClub, September'18
+  sort_order: 500
+  width: 960
+  height: 737
+- id: 9149
+  type: mp3
+  url: tamara-ogen-8.mp3
+  name: Statesboro Blues [ Blind Willie McTell ]
+  sort_order: 799
+- id: 9150
+  type: mp3
+  url: tamara-ogen-9.mp3
+  name: See That My Grave Is Kept Clean [ Blind Lemon Jefferson | Guy Davis ]
+  sort_order: 899
+- id: 9236
+  type: photo
+  url: tamara-ogen-5.jpg
+  name: at Unlock cafe, August'18
+  sort_order: 400
+  width: 5184
+  height: 3456
+- id: 9239
+  type: photo
+  url: tamara-ogen-8.jpg
+  name: at B.B.King, August'18
+  sort_order: 75
+  width: 1024
+  height: 768
+- id: 9323
+  type: youtube
+  url: https://www.youtube.com/watch?v=4wuMzDGwZPI
+  name: Ain't Got No (I Got Life) Nina Simone's
+  comments: Promo-MoviePretty song from "Hair" musical, best known as Nina Simone's
+    performanceВ монтаже использованы видео, снятые на концертах Тамары Оген & Magnet
+    Vox Сергеем Пахомовым, Максимом Илюхиным, И
+  sort_order: 350
+- id: 9374
+  type: photo
+  url: tamara-ogen-12.jpg
+  name: Тамара оген & Magnet Vox at Jazz Voices Fest by Pavel Korbut
+  sort_order: 38
+  width: 1000
+  height: 665
+- id: 9151
+  type: mp3
+  url: tamara-ogen-10.mp3
+  name: Riviera Paradise [ Stevie Ray Vaughan ]
+  sort_order: 999
+- id: 9152
+  type: youtube
+  url: https://www.youtube.com/watch?v=QMxlIWQO2MM
+  name: Alabama [ J.B.Lenoir ]
+  comments: Live at JamClub, Moscow
+  sort_order: 50
+- id: 10210
+  type: youtube
+  url: https://www.youtube.com/watch?v=4NkEmLqhWZQ
+  name: Police Dog Blues | Tamara Ogen & Magnet Vox
+  comments: Improvisation blues at JamClub Moscow, February'19Join us at:https://www.instagram.com/magnetvoxbandhttps://www.facebook.com/magnetvoxbandhttps://vk.com/magnetvoxband
+  sort_order: 0
+- id: 10211
+  type: youtube
+  url: https://www.youtube.com/watch?v=UxOUd6E86To
+  name: The One Of The Mankind | Тамара Оген & Magnet Vox
+  comments: 'Join us at:
+
+    https://www.instagram.com/magnetvoxband
+
+    https://www.facebook.com/magnetvoxband
+
+    https://vk.com/magnetvoxband'
+  sort_order: 450
+reviews:
+- id: 492
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: О нас
+  text: 'Тамара Оген & Magnet Vox - коллектив, исполняющий музыку на стыке блюза и
+    джаза. Этот синтез родился в процессе выступлений и работы над песнями. Минимализм
+    инструментального состава трио - фортепиано, бас-гитара, ударные и два вокала
+    - насыщается импровизационностью каждой партии. В репертуаре Magnet Vox есть как
+    жемчужины стилей блюз и джаз, так и яркие композиции собственного сочинения.
+
+
+    Тамара Оген создает карту песни с помощью многоуровневых партий фортепиано, вбирая
+    в себя разные регистры, ритмы и фактуры исполнения. Золотой ниткой в эту схему
+    вплетается голос, дополняя звучание песен. В основе музыкального мышления лежат
+    модуляции - путешествия по близким и далеким тональностям, дающие причудливые
+    узоры гармонии.
+
+
+    Василий Мотылец строит многогранные басовые партии, которые зачастую становятся
+    ведущими в песне. Его политональное мышление позволяет создавать яркие, каждый
+    раз новые, мелодические рисунки баса - все зависит от полета фантазии, от настроения
+    музыканта. А в самые важные моменты он вступает в песню еще и собственным голосом,
+    насыщая партию основного вокала дополнительными гармониями.
+
+
+    Михаил Данилов раскрывает новые возможности ударных инструментов. Добавляя самые
+    разные звуки - браслеты с бубенцами, игра тамбурином по малому барабану, - он
+    соединяет воедино разные ритмы и стили. Это позволяет коллективу делать самые
+    неожиданные аранжировки известных стандартов, а также создавать новое, интересное
+    звучание своих собственных песен.
+
+
+    Состав трио: Тамара Оген - вокал, фортепиано Василий Мотылец - бас-гитара, вокал
+    Михаил Данилов - ударные, перкуссия'
+  verified: true
+  created: '2018-07-17'
+  is_press_release: true

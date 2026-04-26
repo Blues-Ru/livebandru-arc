@@ -1,0 +1,18 @@
+id: 262
+token: clone
+name: C.L.O.N.E.
+aliases: Collective Love Of North East
+alive: true
+city_id: 1
+genre_id: 7
+secondary_genre_id: 2
+clips:
+- id: 872
+  type: weblink
+  url: http://www.myspace.com/thecleantone
+  name: Страница на MySpace
+  sort_order: 99
+- id: 7274
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

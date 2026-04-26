@@ -1,0 +1,35 @@
+id: 760
+token: fabulous-human-being
+name: Fabulous Human Being
+alive: true
+url: https://www.facebook.com/groups/fabuloushumanbeing
+city_id: 1
+genre_id: 3
+musicians:
+- name: Михаил Кистанов
+  instruments: гитара, вокал
+- name: Алекс Милованов
+  instruments: бас
+- name: Илья Липатов
+  instruments: барабаны
+clips:
+- id: 8910
+  type: weblink
+  url: https://www.facebook.com/groups/fabuloushumanbeing
+  name: Официальный сайт
+  sort_order: 0
+- id: 8912
+  type: weblink
+  url: https://vk.com/fabulous_human_being
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 8913
+  type: weblink
+  url: https://www.facebook.com/groups/fabuloushumanbeing/
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 8914
+  type: weblink
+  url: https://www.instagram.com/fabulous_human_being/
+  name: Instagram
+  sort_order: 300

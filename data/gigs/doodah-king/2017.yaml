@@ -1,0 +1,60 @@
+- id: 67726
+  date: '2017-09-07'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: бесплатный
+  comments: "Новый проект Blues Time with CROSS B BAND. \r\nСпециальный гость: Denis\
+    \ Balahonov (Big Daddy Blues)-это исполнитель блюза, создающий настоящую и глубокую\
+    \ атмосферу из красок окружающего мира. Он знает, что такое блюз, он знает, как\
+    \ шумит Миссисипи, он знает каково ходить, по лезвию ножа и как длинна дорога\
+    \ от Нового Орлеана до Чикаго."
+- id: 68519
+  date: '2017-10-19'
+  time: '22:00'
+  band_name: Cross B Band&Mr. Fryd (tenor-sax)
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: бесплатный
+  comments: "Blues Time with CROSS B BAND - это настоящее музыкальное действо, душевная\
+    \ атмосфера, танцы, много чувственной и драйвовой музыки. \r\nСпециальный гость:\
+    \ Mr. Fryd (tenor-sax) \r\nMr. Fryd (tenor-sax) - это удивительный саксофонист,\
+    \ чувствующий музыку и создающий атмосферу полеты в музыкальном мире. Очень разноплановый\
+    \ музыкант, участник проектов Kusudama (RIP) Dead Frank (Spb), ArriereGuarden\
+    \ (Spb), Masque Noir, Afrococoa, Milky Icicle, High Talk, The Bangalors."
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 69154
+  date: '2017-11-16'
+  time: '22:00'
+  band_name: Cross B Band&Juras Uskov
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: бесплатный
+  comments: "Blues Time with CROSS B BAND - это настоящее музыкальное действо, душевная\
+    \ атмосфера, танцы, много чувственной и драйвовой музыки. \r\nСпециальный гость:\
+    \ Juras Uskov \r\nJuras Uskov - вокалист и харпер минской группы Bowling Jack,\
+    \ исполняющей блюз, фанк и буги. Каждое появление на сцене этого музыканта, сопровождается\
+    \ мощной энергетикой и неповторимой харизмой."
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 69752
+  date: '2017-12-07'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: бесплатный

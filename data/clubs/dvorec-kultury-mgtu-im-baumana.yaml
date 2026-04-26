@@ -1,0 +1,14 @@
+id: 740
+token: dvorec-kultury-mgtu-im-baumana
+name: Дворец культуры МГТУ им. Баумана
+alive: true
+address: Рубцовская наб., 2/18
+subway: Бауманская
+phone: +7(499)263-62-61
+city_id: 1
+clips:
+- id: 4994
+  type: weblink
+  url: http://culture.bmstu.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,46 @@
+- id: 19489
+  date: '2011-05-26'
+  time: '20:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_id: 463
+  club_name: Наутилус
+  club_token: nautilus
+- id: 21757
+  date: '2011-09-18'
+  time: '17:00'
+  band_id: 383
+  band_name: Искатели
+  band_token: iskateli
+  club_id: 463
+  club_name: Наутилус
+  club_token: nautilus
+  price: 250 руб.
+- id: 21982
+  date: '2011-10-01'
+  time: '13:00'
+  band_name: Искатели, DMS, ТОТАЛ
+  club_id: 463
+  club_name: Наутилус
+  club_token: nautilus
+  price: 300 руб.
+  comments: "1 октября в клубе Наутилус. Специально приглашенные Искатели и DMS вместе\
+    \ с известной группой Т.О.Т.А.Л. выступают на первом отборочном туре рок-фестиваля\
+    \ Час Пик!\r\nМесто: Москва, ст.метро Белорусская, 1-я улица Ямского Поля, д.\
+    \ 17.\r\nНачало светопреставления в 13:00 и до упора (упор примерно в 23:00)!\
+    \ Пока ноги будут держать... Искатели играют вечером, где-то в 17:00."
+  extra_bands:
+  - id: 383
+    name: Искатели
+    token: iskateli
+- id: 24169
+  date: '2011-12-24'
+  time: '20:00'
+  band_id: 383
+  band_name: Искатели
+  band_token: iskateli
+  club_id: 463
+  club_name: Наутилус
+  club_token: nautilus
+  price: 300 руб.

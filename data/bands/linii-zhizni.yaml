@@ -1,0 +1,71 @@
+id: 554
+token: linii-zhizni
+name: Линии Жизни
+alive: true
+url: http://liniizhizni.ru/
+city_id: 101
+genre_id: 3
+secondary_genre_id: 8
+musicians:
+- name: Михаил Лукманов
+  instruments: вокал
+- name: Александр Михальчук
+  instruments: гитара
+- name: Илья Чистяков
+  instruments: клавиши, виолончель
+- name: Александр Денисов
+  instruments: бас
+- name: Максим Марченко
+  instruments: ударные
+- name: Константин Голдынский
+  instruments: рулевой
+clips:
+- id: 2813
+  type: weblink
+  url: http://liniizhizni.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2814
+  type: weblink
+  url: http://vk.com/club7140933
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2833
+  type: youtube
+  url: http://www.youtube.com/?v=k2F5P0aEdRs
+  name: ЛИНИИ ЖИЗНИ_У реки.mov
+  comments: "\"ЛИНИИ ЖИЗНИ\" в Плёсе 2 сентября 2011 г.\r\n\"The Lines of The Life\"\
+    , Pljos, 02.09.2011"
+  sort_order: 99
+- id: 2834
+  type: youtube
+  url: http://www.youtube.com/?v=A6xDooX-QCE
+  name: ЛИНИИ ЖИЗНИ - Хватит спать.mov
+  comments: "\"ЛИНИИ ЖИЗНИ\" в Плёсе 2 сентября 2011 г.\r\n\"The Lines of The Life\"\
+    , Pljos, 02.09.2011"
+  sort_order: 199
+- id: 2835
+  type: youtube
+  url: http://www.youtube.com/?v=ZSQobiVq7qs
+  name: ЛИНИИ ЖИЗНИ - над вершинами городов.mov
+  comments: '"ЛИНИИ ЖИЗНИ" в Плесе 2 сентября 2011 г."The Lines of The Life", Pljos,
+    02.09.2011'
+  sort_order: 299
+- id: 2836
+  type: mp3
+  url: linii-zhizni-2.mp3
+  name: Отражение
+  comments: CD ЛИНИЯ№1
+  sort_order: 199
+- id: 2837
+  type: photo
+  url: linii-zhizni.jpg
+  sort_order: 0
+  width: 645
+  height: 590
+- id: 2832
+  type: mp3
+  url: linii-zhizni.mp3
+  name: Ласковый блюз
+  comments: CD ЛИНИЯ№1
+  sort_order: 99

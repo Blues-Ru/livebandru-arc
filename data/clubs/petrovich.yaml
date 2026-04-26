@@ -1,0 +1,14 @@
+id: 429
+token: petrovich
+name: Петрович
+alive: true
+address: Мясницкая, 24, стр. 3
+subway: Тургеневская, Чистые Пруды
+phone: (495) 623-0082
+city_id: 1
+clips:
+- id: 2006
+  type: weblink
+  url: http://www.club-petrovich.ru/
+  name: Официальный сайт
+  sort_order: 0

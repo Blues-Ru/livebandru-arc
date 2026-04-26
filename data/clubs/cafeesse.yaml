@@ -1,0 +1,106 @@
+id: 547
+token: cafeesse
+name: Эссе Джаз-кафе
+aliases: 'Джаз-кафе Эссе
+
+  Джаз клуб Эссе
+
+  Джаз кофейня Эссе
+
+  клуб Эссе'
+alive: true
+address: Москва, ул. Пятницкая, 27, стр. 3 а
+subway: Новокузнецкая, Третьяковская
+phone: +7 (495) 951-64-04
+city_id: 1
+clips:
+- id: 2944
+  type: weblink
+  url: http://jazzesse.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 6323
+  type: weblink
+  url: https://www.facebook.com/cafeesse
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 6916
+  type: youtube
+  url: http://www.youtube.com/?v=buzMUKc8mOk
+  name: Three Fal in Esse Jazz Club - Live Translation
+  sort_order: 0
+- id: 6917
+  type: youtube
+  url: http://www.youtube.com/?v=JHAvpyANVR0
+  name: Асет Самраилова & KOSMAXBAND в клубе "ЭССЕ"
+  sort_order: 100
+- id: 6918
+  type: youtube
+  url: http://www.youtube.com/?v=3LTN7r4RWMs
+  name: Владимир Иванов и группа "Ornithology" в клубе "ЭССЕ"
+  sort_order: 200
+- id: 6919
+  type: youtube
+  url: http://www.youtube.com/?v=LF618AEaYNY
+  name: 7/8 Band в клубе "ЭССЕ"
+  sort_order: 300
+- id: 6920
+  type: youtube
+  url: http://www.youtube.com/?v=S43qL-FF2xg
+  name: Yakov Okun International Jazz Trio and Deborah Brown в клубе "ЭССЕ"
+  sort_order: 400
+- id: 6908
+  type: photo
+  url: cafeesse1.jpg
+  name: Основной зал джаз клуба "ЭССЕ"
+  sort_order: 0
+  width: 4752
+  height: 3168
+- id: 6909
+  type: photo
+  url: cafeesse.jpg
+  name: Основной зал джаз клуба "ЭССЕ" (2)
+  sort_order: 100
+  width: 3508
+  height: 2500
+- id: 6910
+  type: photo
+  url: cafeesse-2.jpg
+  name: Основной зал джаз клуба "ЭССЕ" (3)
+  sort_order: 200
+  width: 4752
+  height: 3168
+- id: 6911
+  type: photo
+  url: cafeesse-3.jpg
+  name: Малый зал джаз клуба "ЭССЕ"
+  sort_order: 300
+  width: 4752
+  height: 3168
+- id: 6912
+  type: photo
+  url: cafeesse-4.jpg
+  name: Барная стойка в джаз клубе "ЭССЕ"
+  sort_order: 400
+  width: 1600
+  height: 977
+- id: 6913
+  type: photo
+  url: cafeesse-5.jpg
+  name: Барная стойка в джаз клубе "ЭССЕ" (2)
+  sort_order: 500
+  width: 1465
+  height: 1200
+- id: 6914
+  type: photo
+  url: cafeesse-6.jpg
+  name: Барная стойка в джаз клубе "ЭССЕ" (3)
+  sort_order: 600
+  width: 787
+  height: 1200
+- id: 6915
+  type: weblink
+  url: https://vk.com/cafe_esse
+  name: Страница ВКонтакте
+  comments: Официальная страница Вконтакте
+  sort_order: 200

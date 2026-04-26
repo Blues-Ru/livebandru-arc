@@ -1,0 +1,24 @@
+id: 96
+token: chetvergov
+name: Дмитрий Четвергов
+aliases: 'Четвертый Четверг Четвергова
+
+  Четвергов
+
+  Дмитрия Четвергова'
+alive: true
+url: http://www.chetvergov.ru
+city_id: 1
+genre_id: 3
+clips:
+- id: 2101
+  type: photo
+  url: chetvergov.jpg
+  sort_order: 0
+  width: 133
+  height: 193
+- id: 2957
+  type: weblink
+  url: http://www.chetvergov.ru
+  name: Официальный сайт
+  sort_order: 0

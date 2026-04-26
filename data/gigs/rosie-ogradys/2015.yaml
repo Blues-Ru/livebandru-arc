@@ -1,0 +1,309 @@
+- id: 48900
+  date: '2015-01-23'
+  time: '21:00'
+  band_name: Honky Tonk Trio
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 48901
+  date: '2015-01-24'
+  time: '20:00'
+  band_name: Kaiman
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 48902
+  date: '2015-01-30'
+  time: '21:00'
+  band_name: CrossRoadZ
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 800 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 48903
+  date: '2015-01-31'
+  time: '20:00'
+  band_name: Шизгара
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 48898
+  date: '2015-01-16'
+  time: '20:00'
+  band_name: WaterBreak
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 48899
+  date: '2015-01-15'
+  time: '20:00'
+  band_name: Леван Ломидзе, Николай Арутюнов, Blues Cousins
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 700 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 49079
+  date: '2015-01-22'
+  time: '21:00'
+  band_name: Dr. Nick, Pink Floyd Tribute
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 49868
+  date: '2015-03-08'
+  time: '21:00'
+  band_name: Black Rocks
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49846
+  date: '2015-02-20'
+  time: '21:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49847
+  date: '2015-02-22'
+  time: '21:00'
+  band_name: Blues Cousins, Дмитрий Четвергов, Юрий Каверкин
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 800 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 49848
+  date: '2015-02-26'
+  time: '21:00'
+  band_name: Open G Jam Band, Сергей Воронов
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 49734
+  date: '2015-03-01'
+  time: '21:00'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+- id: 49825
+  date: '2015-02-19'
+  time: '21:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49878
+  date: '2015-03-06'
+  time: '20:00'
+  band_name: Kaiman
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49879
+  date: '2015-03-04'
+  time: '20:30'
+  band_name: Белый Орел
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 1000 руб.
+- id: 49881
+  date: '2015-03-13'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49849
+  date: '2015-02-27'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49869
+  date: '2015-03-07'
+  time: '21:00'
+  band_name: Шизгара (Олег Чубыкин, Юрий Цалер (ех-Мумий Тролль)
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 49870
+  date: '2015-03-12'
+  time: '21:00'
+  band_name: Мономах
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 50202
+  date: '2015-03-14'
+  time: '20:30'
+  band_name: Dr. Nick, Дмитрий Новокольский
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+  comments: Единственный совместный концерт
+  extra_bands:
+  - id: 537
+    name: Дмитрий Новокольский
+    token: dmitry-novokolsky
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 50201
+  date: '2015-03-14'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 50299
+  date: '2015-03-22'
+  time: '20:00'
+  band_name: Георгий Юфа и Rofano
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 1000 руб.
+- id: 50297
+  date: '2015-03-19'
+  time: '20:30'
+  band_id: 636
+  band_name: Juliana Strangelove
+  band_token: juliana-strangelove
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 300 руб.
+- id: 50385
+  date: '2015-03-20'
+  time: '20:00'
+  band_name: WaterBreak
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 50386
+  date: '2015-03-26'
+  time: '20:00'
+  band_id: 557
+  band_name: Good Company
+  band_token: good-company
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 50387
+  date: '2015-03-27'
+  time: '20:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+- id: 50388
+  date: '2015-04-02'
+  time: '20:00'
+  band_name: Green Town
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: 500 руб.
+- id: 50389
+  date: '2015-04-03'
+  time: '20:00'
+  band_name: Blues Cousins, Дмитрий Малолетов, Дмитрий Четвергов
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 50390
+  date: '2015-04-04'
+  time: '20:00'
+  band_name: Tabasco Band
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+- id: 50391
+  date: '2015-04-09'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+- id: 53400
+  date: '2015-09-03'
+  time: '20:30'
+  band_id: 711
+  band_name: No More Blues
+  band_token: no-more-blues
+  club_id: 541
+  club_name: Rosie O'Grady's
+  club_token: rosie-ogradys
+  price: бесплатный

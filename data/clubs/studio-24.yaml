@@ -1,0 +1,15 @@
+id: 381
+token: studio-24
+name: Studio 24
+aliases: Studio 24 Fashion Cafe
+alive: true
+address: Малая Дмитровка, 20
+subway: Маяковская
+phone: (495) 982-55-22
+city_id: 1
+clips:
+- id: 1603
+  type: weblink
+  url: http://www.studio24.su
+  name: Официальный сайт
+  sort_order: 0

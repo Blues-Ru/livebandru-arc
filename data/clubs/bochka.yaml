@@ -1,0 +1,18 @@
+id: 418
+token: bochka
+name: Бочка
+alive: true
+address: Московский пр-т, 17/1
+subway: Петровка
+phone: :+38 (044) 461-87-88
+city_id: 16
+clips:
+- id: 1870
+  type: weblink
+  url: http://www.bochka.com.ua
+  name: Официальный сайт
+  sort_order: 0
+- id: 1871
+  type: rss
+  url: http://community.livejournal.com/club_bochka/data/rss
+  sort_order: 99

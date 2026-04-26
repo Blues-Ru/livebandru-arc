@@ -1,0 +1,470 @@
+- id: 24024
+  date: '2012-01-04'
+  time: '19:30'
+  band_name: Антон Залетаев (тенор-саксофон), Максим Баранов (ф-но), Иван Рахманов
+    (гитара), Сергей Васильев (контрабас), Павел Тимофеев (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 24025
+  date: '2012-01-11'
+  time: '19:30'
+  band_name: The Moscow Jazz Passengers. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 24026
+  date: '2012-01-18'
+  time: '19:30'
+  band_name: Юлиана Рогачева и трио Алексея Чернакова (Алексей Чернаков - ф-но, Дарья
+    Соколова - контрабас, Артем Юрлов - ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 24027
+  date: '2012-01-25'
+  time: '19:30'
+  band_name: Квартет Петра Востокова с программой "Посвящение Джерри Малигану" (1-е
+    отделение). Большой Джазовый Оркестр (2-е отделение). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 24028
+  date: '2012-02-01'
+  time: '19:30'
+  band_name: Павел Чекмаковский (гитара), Родион Гоборов (ф-но, орган), Петр Ившин
+    (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 24029
+  date: '2012-02-08'
+  time: '19:30'
+  band_name: Осипов Band. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 24030
+  date: '2012-02-15'
+  time: '19:30'
+  band_name: Ансамбль классического джаза Валерия Киселева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Программа "Blues from New Orleans". Новые прочтения мелодий джаза 20-х
+    - 30-х годов.
+- id: 24031
+  date: '2012-02-22'
+  time: '19:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 24032
+  date: '2012-02-29'
+  time: '19:30'
+  band_name: Вечер памяти фотожурналиста Феликса Соловьева. Bril Brothers Group. Jam
+    Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 25820
+  date: '2012-03-07'
+  time: '19:30'
+  band_name: 'Эра Канн и Crazy Band: Михаил Бручеев (труба), Матвей Григорьев (фортепиано),
+    Филипп Чекалин (бас-гитара), Дмитрий Сапожников (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 25821
+  date: '2012-03-14'
+  time: '19:30'
+  band_name: '"Точка сборки": Михаил Леванов (саксофоны), Егор Дергачев (клавишные),
+    Павел Мартыненко (гитара), Алексей Рыславский (бас), Виктор Коньков (ударные),
+    Наташа Леванова (вокал). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 25822
+  date: '2012-03-21'
+  time: '19:30'
+  band_name: 'Ануш Мальян и трио Алексея Наджарова (фортепиано): Алексей Рыславский
+    (контрабас), Давид Ткебучава (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 25823
+  date: '2012-03-28'
+  time: '19:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 26428
+  date: '2012-04-04'
+  time: '19:30'
+  band_name: 'Квинтет Азата Баязитова (саксофон): Александр Папий (гитара), Николай
+    Сидоренко (фортепиано), Сергей Корчагин (контрабас), Александр Кульков (ударные).
+    Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 26429
+  date: '2012-04-11'
+  time: '19:30'
+  band_name: Трио Константина Горбатенко (фортепиано), Сергей Васильев (контрабас),
+    Павел Тимофеев (ударные) и Виталий Головнев (труба). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 26430
+  date: '2012-04-18'
+  time: '19:30'
+  band_name: Вечер памяти Анатолия Соболева. Виталий Головнев (труба), Виктор Подкорытов
+    (тенор-саксофон), Виталий Соломонов (контрабас), Марина Ив (фортепиано), Евгений
+    Дальский (ударные), Виталий Соломонов (контрабас). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 26431
+  date: '2012-04-25'
+  time: '19:30'
+  band_name: 'День совершеннолетия Клуба - ровно 18 лет. Вокальный ансамбль PEE -
+    KA - BOO п/у Владимира Сидорковича: Марина Виноградова, Алиса Лубенская, Алена
+    Парфенова, Юлий Муравьев, Артем Чулков, Кирилл Милорадовский. Big Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27159
+  date: '2012-05-02'
+  time: '19:30'
+  band_name: Евгения Глейберман - Sentimental mood. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27160
+  date: '2012-05-09'
+  time: '19:30'
+  band_name: 'Ivanov Band: Иннокентий Иванов (виброфон), Сергей Рощупкин (гитара),
+    Вячеслав Ахметзянов (контрабас), Алексей Денисов (ударные), Антон Залетаев (тенор-саксофон)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Праздничная программа "Джаз тоже добывал победу". Jam Session
+- id: 27161
+  date: '2012-05-16'
+  time: '19:30'
+  band_name: Трио Владимир Нестеренко. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27162
+  date: '2012-05-23'
+  time: '19:30'
+  band_name: Наталья Скворцова (фортепиано), Павел Протасов (контрабас), Станислав
+    Галицкий (гитара), Иван Баринов (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27163
+  date: '2012-05-30'
+  time: '19:30'
+  band_name: Юрий Маркин (фортепиано), Алексей Круглов (альт-саксофон), Денис Шушков
+    (контрабас), Владимир Борисов (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Юбилейный концерт маэстро Юрия Маркина
+- id: 27619
+  date: '2012-06-06'
+  time: '19:30'
+  band_name: Osipov Band. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 27620
+  date: '2012-06-10'
+  time: '12:30'
+  band_name: '"Джаз на Москва-реке" - 14-й Джазовый пароход'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Лучшие свинговые оркестры Москвы
+- id: 27621
+  date: '2012-06-13'
+  time: '19:30'
+  band_name: Джаз-квартет Олега Агеева. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27622
+  date: '2012-06-20'
+  time: '19:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 27623
+  date: '2012-06-27'
+  time: '19:30'
+  band_name: Квартет Александра Мартиросова. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Александр Мартиросов (аккордеон), Владимир Фролов (гитара), Игорь Кондур
+    (контрабас), Андрей Никонов (ударные)
+- id: 28434
+  date: '2012-07-04'
+  time: '19:30'
+  band_name: Квартет Александра Соколова - Одиссея Богусевича. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Программа, посвященная Wes Montgomery.
+- id: 28435
+  date: '2012-07-11'
+  time: '19:30'
+  band_name: Нью-Йорк - Москва. Макс Баранов (фортепиано), Иван Рахманов (гитара),
+    Павел Тимофеев (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 28436
+  date: '2012-07-18'
+  time: '19:30'
+  band_name: Полина Касьянова и Django Band. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 28437
+  date: '2012-07-25'
+  time: '19:30'
+  band_name: Нью Йорк - Москва. Яков Мейман (тенор-саксофон), Евгений Гречищев (фортепиано),
+    Сергей Хутас (контрабас), Александра Могилевич (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 29530
+  date: '2012-10-03'
+  time: '19:30'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29531
+  date: '2012-10-10'
+  time: '19:30'
+  band_name: Вечер, посвященный 50-летию Первого Московского Джазового Фестиваля.
+    Большой Jam Session.
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29532
+  date: '2012-10-17'
+  time: '19:30'
+  band_id: 451
+  band_name: Ансамбль "Каданс" Германа Лукьянова
+  band_token: kadans-lukiyanov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29533
+  date: '2012-10-24'
+  time: '19:30'
+  band_name: Квартет Анны Королевой. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Анна Королева (саксофон), Дмитрий Илугдин (ф-но), Игорь Иванушкин (контрабас),
+    Вардан Бабаян (ударные, перкуссия).
+- id: 29528
+  date: '2012-09-19'
+  time: '19:30'
+  band_name: Открытие 19-го концертного сезона. Ансамбль Bril Brothers. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 29529
+  date: '2012-09-26'
+  time: '19:30'
+  band_name: Квинтет Азата Баязитова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Азат Баязитов (саксофон), Алексей Подымкин (рояль), Никита Мальцев (гитара),
+    Владимир Кольцов-Крутов (контрабас), Александр Кульков (барабаны), Никита Мальцев
+    (гитара)
+- id: 29182
+  date: '2012-08-01'
+  time: '19:30'
+  band_name: Данияр Бекмурзаев (тенор-саксофон), Владимир Нестеренко (орган), Александр
+    Зингер (ударные). Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29184
+  date: '2012-08-15'
+  time: '19:30'
+  band_name: Osipov Band. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+- id: 29185
+  date: '2012-08-22'
+  time: '19:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29186
+  date: '2012-08-29'
+  time: '19:30'
+  band_name: Трио Евгения Гречищева. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 29183
+  date: '2012-08-08'
+  time: '19:30'
+  band_name: Квартет Петра Востокова. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 29534
+  date: '2012-10-31'
+  time: '19:30'
+  band_name: Ансамбль "Зеленая волна" Александра Осейчука
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 31245
+  date: '2012-11-07'
+  time: '19:30'
+  band_name: 'Квартет Антона Котикова (саксофон): Олег Стариков (фортепиано), Сергей
+    Васильев (контрабас), Павел Тимофеев (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 31247
+  date: '2012-11-21'
+  time: '19:30'
+  band_name: 'Квартет "Живые люди": Юрий Севостьянов (тенор-саксофон), Наталья Скворцова
+    (фортепиано), Павел Протасов (контрабас), Петр Талалай (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 31246
+  date: '2012-11-14'
+  time: '19:30'
+  band_name: 'Ансамбль "Седой джаз": Алексей Кузнецов (гитара), Владимир Данилин (аккордеон),
+    Виктор Подкорытов (тенор-саксофон), Игорь Кантюков (контрабас), Александр Гареткин
+    (ударные). Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 31248
+  date: '2012-11-28'
+  time: '19:30'
+  band_name: 'Наташа Акатиева в сопрождении квартета Александра Шевцова (гитара):
+    Артем Третьяков (фортепиано), Дмитрий Толочков (контрабас), Павел Тимофеев (ударные).
+    Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 31819
+  date: '2012-12-05'
+  time: '19:30'
+  band_name: Трио Алексея Давлетшина. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Алексей Давлетшин - гитара, Олег Соколов - контрабас, Федор Андреев -
+    ударные
+- id: 31820
+  date: '2012-12-12'
+  time: '19:30'
+  band_name: Трио Вагифа Садыхова. Jam Session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 31821
+  date: '2012-12-19'
+  time: '19:30'
+  band_name: Moscow ViolinJazz. Jam session
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Денис Шульгин - скрипка, Алексей Наджаров - фортепиано, Павел Прокимов
+    - контрабас, Петр Талалай - ударные
+  extra_bands:
+  - id: 545
+    name: Московский ViolinJazz Квартет
+    token: violinjazz
+- id: 31822
+  date: '2012-12-26'
+  time: '19:30'
+  band_name: 'До свиданья 2012: провожаем уходящий год вместе с трио Всеволода Данилочкина.
+    Jam Session'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Всеволод Данилочкин - синтезатор, Евгений Баранов - труба, вокал, Лев
+    Лебедев - кларнет, саксофон

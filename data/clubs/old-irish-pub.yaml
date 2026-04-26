@@ -1,0 +1,14 @@
+id: 308
+token: old-irish-pub
+name: Old Irish Pub
+alive: true
+address: Красный пр. 37
+subway: пл.Ленина
+phone: 22-62-06
+city_id: 19
+clips:
+- id: 923
+  type: weblink
+  url: http://www.oldirish.ru
+  name: Официальный сайт
+  sort_order: 99

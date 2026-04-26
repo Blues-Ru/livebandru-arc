@@ -1,0 +1,89 @@
+id: 675
+token: jed-thomas
+name: Jed Thomas
+aliases: Jed Thomas Blues band
+alive: true
+url: http://www.jedthomas.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Jed Thomas
+  instruments: guitar/dobro/harp/vocals
+clips:
+- id: 5310
+  type: youtube
+  url: http://www.youtube.com/?v=V3hOI8Z7D-k
+  name: Jed Thomas - Feel So Good
+  comments: Jed Thomas -  Feel So Good Live at The Meeting Place 1999
+  sort_order: 99
+- id: 5311
+  type: youtube
+  url: http://www.youtube.com/?v=n4e7uxslKgc
+  name: Jed Thomas - Red Top - 04, Rory
+  comments: "Brought to you by RoryWeb http://www.rory-gallagher.co.uk\r\n\r\nTribute\
+    \ to Rory Gallagher, Written & Recorded by Jed Thomas\r\nTrack 4 from Jed's Album\
+    \ 'Red Top'"
+  sort_order: 199
+- id: 5312
+  type: youtube
+  url: http://www.youtube.com/?v=ARuw5Qf2dC0
+  name: Jed Thomas - Red Top - 06, Killing Fields
+  comments: 'Brought to you by Roryweb http://www.rory-gallagher.co.uk
+
+
+    Jed Thomas - Track 06 - Killing Fields from the album ''Red Top'''
+  sort_order: 0
+- id: 5648
+  type: youtube
+  url: http://www.youtube.com/?v=TYoqe0VrMcM
+  name: Jed Thomas Band
+  comments: Jed Thomas Band from Leeds (UK) playing live at cafe Max in Stavoren (Holland)
+  sort_order: 299
+- id: 6038
+  type: weblink
+  url: http://www.jedthomas.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 6039
+  type: photo
+  url: jed-thomas.jpg
+  sort_order: 0
+  width: 680
+  height: 721
+reviews:
+- id: 416
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Вот уже три десятилетия виртуоз Джед Томас играет эклектичный вариант блюз-рока,
+    густо замешивая британский ритм-блюз конца 60-х с чикаго-стайлом, вест-коаст-свингом,
+    дельта-стайл-фингерпикингом и слайдом. Все эти три десятилетия он гастролирует
+    по Британии, континентальной Европе и Штатам, деля сцену с такими "грандами" как
+    Бадди Гай, Рори Галлахер Бэнд, Nine Below Zero, Джо Бонамасса, etc.
+
+
+    В 2013-м году, после почти 15-летнего перерыва в студийной pаботе и выхода альбома
+    "RED TOP", с у него вышел долгожданный релиз, восторженно принятый критиками и
+    активно ротировавшийся на блюз-радиостанциях по обе стороны Атлантики - альбом
+    "It''s About Bloody Time", принесший ему две номинации на British Blues Awards
+    2014.
+
+
+    В начале 2015 вышел новый релиз "Emerald Blue", альбом, под завязку наполненный
+    блюз-роком, свингом и кантри-блюзом. В 2016-17 гг Джед преподавал, концертировал
+    и работал над новым материалом, и зимой-весной 2018 года вышло сразу еще два альбома
+    "As The Crow Flies" и "Magic Carpet". С этим материалом Джед Томас много гастролировал
+    по Британии и Континентальной Европе.
+
+
+    В планах у Джеда после окончания гастрольного сезона - перевести дух и снова засесть
+    в студии, чтобы завершить запись продолжения, как бы "второго тома" альбома 2013
+    года, поскольку материала опять накопилось предостаточно, и похоже, он будет называться
+    "It''s About Bloody Time Too!"
+
+
+    В Декабре 2019 года Джед Томас приедет в Россию впервые. Не пропустите!'
+  verified: true
+  created: '2014-08-26'
+  is_press_release: true

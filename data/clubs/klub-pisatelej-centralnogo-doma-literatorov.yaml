@@ -1,0 +1,15 @@
+id: 503
+token: klub-pisatelej-centralnogo-doma-literatorov
+name: Клуб писателей Центрального Дома Литераторов
+aliases: Клуб писателей ЦДЛ
+alive: true
+address: Б.Никитская, д. 53
+subway: Баррикадная
+phone: +7(495)691-6600
+city_id: 1
+clips:
+- id: 2623
+  type: weblink
+  url: http://cdlart.ru/
+  name: Официальный сайт
+  sort_order: 0

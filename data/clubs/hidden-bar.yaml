@@ -1,0 +1,14 @@
+id: 748
+token: hidden-bar
+name: Hidden Bar
+alive: true
+address: Большая Дмитровка, д. 5/6, стр 3
+subway: Театральная, Охотный Ряд, Тверская
+phone: +7(495)692-50-15
+city_id: 1
+clips:
+- id: 5100
+  type: weblink
+  url: http://www.hiddenbar.ru
+  name: Официальный сайт
+  sort_order: 0

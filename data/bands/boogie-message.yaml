@@ -1,0 +1,45 @@
+id: 635
+token: boogie-message
+name: The Boogie Message
+alive: true
+url: http://boogie-message.ru/
+city_id: 1
+genre_id: 1
+musicians:
+- name: Сергей Бабаев
+  instruments: гитара, вокал
+- name: Владимир Никулин
+  instruments: бас, вокал
+- name: Дмитрий Волков
+  instruments: клавишные
+- name: Павел Головенков
+  instruments: барабаны
+clips:
+- id: 4926
+  type: photo
+  url: boogie-message.jpg
+  sort_order: 0
+  width: 600
+  height: 715
+- id: 4924
+  type: weblink
+  url: http://boogie-message.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5237
+  type: photo
+  url: boogie-message-2.jpg
+  sort_order: 100
+  width: 393
+  height: 581
+- id: 6344
+  type: youtube
+  url: http://www.youtube.com/?v=3sZQgOmXGtE
+  name: The Boogie Message
+  sort_order: 0
+- id: 6345
+  type: youtube
+  url: http://www.youtube.com/?v=Onvs0Ak6Xwo
+  name: The Boogie Message 2
+  comments: Boogie-Message.avi
+  sort_order: 100

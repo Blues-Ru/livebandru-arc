@@ -1,0 +1,191 @@
+- id: 26373
+  date: '2012-03-08'
+  time: '19:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+- id: 26375
+  date: '2012-03-15'
+  time: '20:00'
+  band_name: Блюзовый джем с Dynamic James
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 26513
+  date: '2012-04-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+- id: 26514
+  date: '2012-04-21'
+  time: '20:00'
+  band_name: Поzитива
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+- id: 26379
+  date: '2012-03-29'
+  time: '20:00'
+  band_id: 126
+  band_name: Gagarin Brothers
+  band_token: gagarin-brothers
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+- id: 26380
+  date: '2012-03-30'
+  time: '20:00'
+  band_name: Countryside Blues Band
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: 250 руб.
+- id: 27207
+  date: '2012-04-18'
+  time: '20:00'
+  band_name: Земляничная поляна
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+- id: 27208
+  date: '2012-04-19'
+  time: '21:00'
+  band_name: Блюзовый джем - Dynamic James & гости
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 27209
+  date: '2012-04-25'
+  time: '20:00'
+  band_name: Rhythm'n'Blues Independent
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: 250 руб.
+- id: 27210
+  date: '2012-04-26'
+  time: '21:00'
+  band_name: Блюзовый джем - Dynamic James & гости
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 27211
+  date: '2012-04-27'
+  time: '22:00'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: 500 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 27212
+  date: '2012-04-28'
+  time: '22:00'
+  band_name: Salt Peanutz
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 26374
+  date: '2012-03-09'
+  time: '20:00'
+  band_name: Праздничная вечеринка Rockabilly Girl c Hi-Tones и Blackberry Combo
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: 250 руб.
+- id: 26391
+  date: '2012-03-25'
+  time: '20:00'
+  band_name: 'Квартет Catherine''s project п/у Екатерины Фоминой (джазовая флейта):
+    Родион Гоборов (клавишные), Иван Катков (контрабас), Евгений Рябой (барабаны).
+    С программой "Flute juice", джазовые стандарты на флейте'
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: 300 руб.
+  extra_bands:
+  - id: 571
+    name: Catherine's project
+    token: catherines-project
+- id: 28076
+  date: '2012-06-15'
+  time: '20:00'
+  band_name: Мистер-Твистер
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+- id: 29417
+  date: '2012-09-01'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+  price: бесплатный
+  comments: Стосковавшись по старому доброму рок-н-роллу, подустав от засилия электронщины,
+    поиска новых звуков и способов их извлечения, несколько абсолютно неадекватных,
+    в творческом плане, людей, решили вернуться к истокам живых перегруженных мелодий.
+    Так появилась, возможно, самая раздолбайская, но от этого лишь выигрывающая, олдскульная,
+    и от этого еще более приятная, обаятельная и зажигательная  the band'а - Fly Mexican
+    Airlines. Ничего сверхъестественного вы не услышите - никаких глобальных выпендрежей,
+    нереальной техники или подачи - кучка раздолбаев, играющих самый чтонинаестьтотсамый
+    старый добрый олдскульный рок-н-ролл! Добротная порция лажи, но ... ОЧЕНЬ душевно
+    - это и есть FMA!
+- id: 29302
+  date: '2012-08-02'
+  time: '20:00'
+  band_name: Вероника Пономарева
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+- id: 29303
+  date: '2012-08-03'
+  time: '20:00'
+  band_name: The Telescopes
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon
+- id: 29304
+  date: '2012-08-01'
+  time: '20:00'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 576
+  club_name: Double Bourbon
+  club_token: double-bourbon

@@ -1,0 +1,22 @@
+- id: 37743
+  date: '2013-08-02'
+  band_name: 'IV международный фестиваль "Акваджаз. Sochi Jazz Festival": Delfeayo
+    Marsalis Quintet (США), трио Даниила Крамера и Роберт Анчиполовский (Израиль)'
+  club_id: 713
+  club_name: Зимний Театр
+  club_token: zimnij-teatr
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 37744
+  date: '2013-08-04'
+  band_name: 'IV международный фестиваль "Акваджаз. Sochi Jazz Festival": вокальный
+    ансамбль Take 6 (США), Zenia McPherson (вокал, США) и трио Олега Бутмана'
+  club_id: 713
+  club_name: Зимний Театр
+  club_token: zimnij-teatr
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio

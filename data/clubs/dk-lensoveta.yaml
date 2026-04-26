@@ -1,0 +1,14 @@
+id: 356
+token: dk-lensoveta
+name: ДК им. Ленсовета
+alive: true
+address: Каменноостровский просп., 42
+subway: Петроградская
+phone: (812) 346-30-68
+city_id: 2
+clips:
+- id: 1331
+  type: weblink
+  url: http://www.lensoveta.ru/
+  name: Официальный сайт
+  sort_order: 99

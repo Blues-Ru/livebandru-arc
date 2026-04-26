@@ -1,0 +1,32 @@
+id: 695
+token: ionovband
+name: Ионов Band
+alive: true
+url: http://vk.com/ionovband
+city_id: 1
+genre_id: 16
+secondary_genre_id: 8
+musicians:
+- name: Константин Ионов
+  instruments: вокал, баян
+- name: Андрей Беляев
+  instruments: гитара
+- name: Андрей Блящев
+  instruments: бас-гитара
+- name: Андрей Дмитренко
+  instruments: барабаны
+- name: Артем Лебедев
+  instruments: балалайка
+- name: Иван Тахома
+  instruments: стиральная доска
+clips:
+- id: 6087
+  type: weblink
+  url: https://www.facebook.com/groups/ionovband
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 6088
+  type: weblink
+  url: http://vk.com/ionovband
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,15 @@
+id: 660
+token: horomina
+name: ТКЗ Дворца царя Алексея Михайловича "Театральная хоромина"
+aliases: МГОМЗ "Коломенское"
+alive: true
+address: проспект Андропова, д.39
+subway: Каширская, Коломенская
+phone: +7(495)232-6190
+city_id: 1
+clips:
+- id: 4029
+  type: weblink
+  url: http://mgomz.ru
+  name: Официальный сайт
+  sort_order: 0

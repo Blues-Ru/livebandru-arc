@@ -1,0 +1,15 @@
+id: 23
+token: jao-da
+name: Китайский летчик Джао Да
+alive: true
+address: Лубянский пр-д, 25/12, стр.1
+subway: Китай-город
+phone: 924-5611
+city_id: 1
+comments: 50 метров от метро
+clips:
+- id: 182
+  type: weblink
+  url: http://www.jao-da.ru/
+  name: Официальный сайт
+  sort_order: 0

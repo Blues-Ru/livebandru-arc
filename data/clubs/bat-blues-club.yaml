@@ -1,0 +1,20 @@
+id: 310
+token: bat-blues-club
+name: Bat Blues Club
+alive: true
+address: Выборг, Николаева, 3
+phone: (81378) 34537
+city_id: 2
+comments: ресторан гостиницы "Летучая мышь"
+clips:
+- id: 938
+  type: weblink
+  url: http://www.batbluesclub.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 939
+  type: photo
+  url: bat-blues-club.png
+  sort_order: 0
+  width: 309
+  height: 172

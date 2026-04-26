@@ -1,0 +1,91 @@
+id: 382
+token: wild-traffic
+name: Wild Traffic
+alive: true
+url: http://www.wildtraffic.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Садыков Александр
+  instruments: Гитары, вокал
+- name: Иконников Сергей
+  instruments: Бас-гитара
+- name: Гиверц Илья
+  instruments: Губная гармоника, бэк-вокал
+- name: Натаров Игорь
+  instruments: Барабаны
+- name: Liza Li
+  instruments: Вокал, бэк-вокал
+clips:
+- id: 1623
+  type: youtube
+  url: http://www.youtube.com/?v=qfOfhnwUoe4
+  name: Wild Traffic - Old Love
+  comments: Wild Traffic - Old Love, 2009. Acoustic.
+  sort_order: 199
+- id: 1624
+  type: youtube
+  url: http://www.youtube.com/?v=MXvMXnmzcNk
+  name: Wild Traffic - Hound Dog
+  comments: Wild Traffic - Hound Dog, 2009
+  sort_order: 299
+- id: 1620
+  type: weblink
+  url: http://www.wildtraffic.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1625
+  type: youtube
+  url: http://www.youtube.com/?v=KVY5MyGdi50
+  name: Wild Traffic - All along the watchtower
+  comments: Wild Traffic - All along the watchtower. Acoustic GIG in Saransk
+  sort_order: 399
+- id: 1626
+  type: youtube
+  url: http://www.youtube.com/?v=9rQ4AC6gdMM
+  name: Wild Traffic & Boris Bulkin - Thrill is gone
+  comments: Совместное выступление группы Wild Traffic и Бориса Булкина
+  sort_order: 499
+- id: 1621
+  type: photo
+  url: wild-traffic.jpg
+  sort_order: 0
+  width: 1024
+  height: 682
+- id: 1622
+  type: youtube
+  url: http://www.youtube.com/?v=yZZKBIr13X8
+  name: Wild Traffic & Boris Bulkin - Second Nature
+  comments: Совместное выступление  группы Wild Traffic и Бориса Булкина
+  sort_order: 99
+- id: 1627
+  type: youtube
+  url: http://www.youtube.com/?v=WlJuq8dNlPQ
+  name: Wild Traffic - Key to the Highway
+  comments: Wild Traffic - Key to the Highway, 2009. Acoustic.
+  sort_order: 599
+- id: 1769
+  type: photo
+  url: wild-traffic-2.jpg
+  sort_order: 100
+  width: 1024
+  height: 682
+- id: 1770
+  type: photo
+  url: wild-traffic-3.jpg
+  sort_order: 200
+  width: 1024
+  height: 682
+- id: 1899
+  type: youtube
+  url: http://www.youtube.com/?v=SOSTRDIKQ1g
+  name: Wild Traffic - Little wing
+  comments: Live in "Solo" studio's gigDecember 2011
+  sort_order: 349
+- id: 1898
+  type: youtube
+  url: http://www.youtube.com/?v=iNMNmtx4aJ4
+  name: Wild Traffic - Crossroads
+  comments: Live in "Solo" studio's gigDecember 2011
+  sort_order: 249

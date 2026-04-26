@@ -1,0 +1,14 @@
+id: 158
+token: punch-n-judy
+name: Punch & Judy Pub
+alive: true
+address: Пятницкая, 6
+subway: Новокузнецкая
+phone: +7-495-953-3992
+city_id: 1
+clips:
+- id: 118
+  type: weblink
+  url: http://www.pjpub.ru/
+  name: Официальный сайт
+  sort_order: 0

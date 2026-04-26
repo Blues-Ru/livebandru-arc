@@ -1,0 +1,19 @@
+id: 519
+token: graf-che
+name: Граф Чернышев
+alive: true
+address: Старая Басманная, 20/13
+subway: Курская, Бауманская
+phone: (499) 261-61-74
+city_id: 1
+clips:
+- id: 2735
+  type: weblink
+  url: http://www.graf-che.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2736
+  type: weblink
+  url: http://vk.com/club30725640
+  name: Страница ВКонтакте
+  sort_order: 100

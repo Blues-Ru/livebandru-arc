@@ -1,0 +1,20 @@
+id: 474
+token: life-pub
+name: Life Pub
+alive: true
+address: ул.Фридриха Энгельса, 20
+subway: Бауманская
+phone: 8(499)390-96-98, 8(495)961-49-40
+city_id: 1
+clips:
+- id: 2314
+  type: weblink
+  url: http://www.lifepub.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2315
+  type: photo
+  url: life-pub.jpg
+  sort_order: 0
+  width: 611
+  height: 406

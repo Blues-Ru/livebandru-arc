@@ -1,0 +1,17 @@
+id: 312
+token: uds-molot
+name: УДС Молот
+alive: true
+address: Лебедева, 13
+city_id: 33
+clips:
+- id: 992
+  type: weblink
+  url: http://udsmolot.narod.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 993
+  type: weblink
+  url: http://ru.wikipedia.org/wiki/%D0%A3%D0%94%D0%A1_%D0%9C%D0%BE%D0%BB%D0%BE%D1%82
+  name: Страница на Википедии
+  sort_order: 199

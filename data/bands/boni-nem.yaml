@@ -1,0 +1,28 @@
+id: 174
+token: boni-nem
+name: Бони Нем
+alive: true
+url: http://www.nem.ru
+city_id: 1
+genre_id: 3
+musicians:
+- name: Кирилл Немоляев
+  instruments: вокал
+- name: Александр Гудвин
+  instruments: гитара, вокал
+- name: Анатолий Натаровский
+  instruments: ударные
+- name: Николай Голубев
+  instruments: гитара
+- name: Аркадий Лебедев
+  instruments: бас-гитара
+- name: Татьяна Яценко
+  instruments: вокал
+- name: Ольга Дзусова
+  instruments: вокал
+clips:
+- id: 386
+  type: weblink
+  url: http://www.nem.ru
+  name: Официальный сайт
+  sort_order: 0

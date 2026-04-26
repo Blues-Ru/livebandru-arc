@@ -1,0 +1,19 @@
+id: 719
+token: big-city-jazz-show
+name: Big City Jazz Show
+alive: true
+url: http://bigjazz.ru
+city_id: 1
+genre_id: 2
+clips:
+- id: 7890
+  type: weblink
+  url: http://bigjazz.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 7843
+  type: photo
+  url: big-city-jazz-show.jpg
+  sort_order: 99
+  width: 604
+  height: 403

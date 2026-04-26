@@ -1,0 +1,17 @@
+id: 516
+token: coyote
+name: Coyote Bar
+aliases: 'Бар Coyote
+
+  Бар Койот'
+alive: true
+address: Просп. Независимости, 117а
+subway: Московская, Восток
+phone: +375 (29) 190-66-66
+city_id: 17
+clips:
+- id: 2688
+  type: weblink
+  url: http://www.coyote.by/
+  name: Официальный сайт
+  sort_order: 0

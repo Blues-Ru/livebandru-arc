@@ -1,0 +1,29 @@
+id: 424
+token: athas
+name: Ахэс
+aliases: Athas
+alive: true
+url: http://athas.nnov.ru/
+city_id: 25
+genre_id: 4
+secondary_genre_id: 11
+musicians:
+- name: Надежда Рыбакова
+  instruments: леверсная арфа, духовые, дарбука, вокал
+- name: Мария Монакова
+  instruments: аккордеон, бойран, вокал
+- name: Наталья Спирина
+  instruments: скрипка
+- name: Михаил Калашников
+  instruments: гитара DADGAD
+clips:
+- id: 2003
+  type: weblink
+  url: http://vk.com/club4010619
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2002
+  type: weblink
+  url: http://athas.nnov.ru/
+  name: Официальный сайт
+  sort_order: 0

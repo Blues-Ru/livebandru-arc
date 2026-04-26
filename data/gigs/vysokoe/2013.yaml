@@ -1,0 +1,32 @@
+- id: 35402
+  date: '2013-04-20'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 35632
+  date: '2013-05-04'
+  time: '21:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+- id: 35578
+  date: '2013-05-18'
+  time: '21:00'
+  band_name: Cross B Band, Outback Blues Company
+  club_id: 362
+  club_name: Высокое
+  club_token: vysokoe
+  extra_bands:
+  - id: 201
+    name: DZh & Outback Blues Company
+    token: outback
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band

@@ -1,0 +1,1921 @@
+- id: 32782
+  date: '2013-01-03'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock Club революционная 9
+  city_id: 17
+- id: 33217
+  date: '2013-01-23'
+  time: '19:00'
+  band_id: 605
+  band_name: Swing Couture
+  band_token: swing-couture
+  club_name: Елагиноостровский дворец
+  city_id: 2
+  price: 100-400 руб.
+  comments: "Концерты по Дворцам! \r\nНачинаем с Елагиноостровского..."
+- id: 32938
+  date: '2013-01-04'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: tnt rock club
+  city_id: 17
+- id: 32940
+  date: '2013-01-26'
+  time: '19:00'
+  band_name: Ivanov Vibe Band, Иннокентий Иванов - вибрафон, Антон Залетаев - саксофон,
+    Сергей Рощупкин - гитара, Вячеслав Ахметзянов - контрабас, Ростисоав Шараевские
+    - ударные
+  club_name: Мансарда Чайковского, Кудринская пл., 46/54, м. Баррикадная.
+  city_id: 1
+  price: 600 руб.
+  comments: '"Вечер нескучной музыки" в мансарде Ильича с джазовым ансамблем "Ivanov
+    Vibe Band". Этот квинтет - один из немногих существующих в мировом джазовом пространстве
+    коллективов с солирующим вибрафоном. Вас ждет Великолепный джазовый вечер, на
+    котором прозвучат как известные стандарты, так и авторские композиции, написанные
+    в духе мелодичного фьюжна, современного джазового мейнстрима, этно-джаза, латин-джаза.'
+  extra_bands:
+  - id: 528
+    name: Ivanov Vibe Band
+    token: ivanov-vibe-band
+- id: 33138
+  date: '2013-01-13'
+  time: '20:00'
+  band_name: Джазовая Вечеринка. Bang Band (джаз, кантри, блюз)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 32937
+  date: '2013-01-20'
+  time: '19:00'
+  band_name: Big Bob Korablin & Boogie Child rhythm section
+  club_name: jivoe.tv
+  city_id: 1
+  price: бесплатно
+  comments: "Big Bob Korablin известный московский блюзмен. Записал несколько альбомов\
+    \ с Alex Bratetsky : Elephant Blues, Long Distance Call,Without A Band. Блюзовый\
+    \ сборник \"Здравствуй, блюз!\" и мн.др. Выступал на фестивалях и концертах по\
+    \ России и СНГ.( \"Дельта Невы\" и т.д.)\r\nBoogie Child :Владислав Баракин (барабаны),\
+    \ и Максим Чижиков (бас-гитара,вокал) начали играть вместе в 1993 году, за этот\
+    \ период каждый успел поработать на сцене и записать (сессионно) много разной\
+    \ музыки в различных коллективах: (гр.Lazy Оксаны Кочубей, гр. Бабушкины Сказки,\
+    \ гр.Denver Band(вокал Валерий Анохин), коллектив Валентина Тевянского и мн.др.\
+    \ Boogie Child регулярно выступают с клубными концертами в Росcии и СНГ.\r\nсайты\
+    \ :  \r\nhttp://www.jivoe.tv/node/414\r\nhttp://www.boogie-child.com/\r\nhttp://vk.com/club27819363\r\
+    \nhttp://www.realmusic.ru/korablin/\r\nhttp://www.sanchillo.com/bratetsky_music.html"
+  extra_bands:
+  - id: 461
+    name: Boogie Child
+    token: boogie-child
+- id: 33124
+  date: '2013-02-01'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_name: J.Gilroy pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 33126
+  date: '2013-01-25'
+  time: '21:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Budweiser
+  city_id: 1
+  comments: Acoustic guitar (fingerstyle)
+- id: 33132
+  date: '2013-01-16'
+  time: '19:00'
+  band_name: Григорий Данской и Ксения Полтева
+  club_name: 'Адрес: Наб. реки Фонтанки, д. 130, "Театр Дождей" (ст. м. Технологический
+    институт)'
+  city_id: 2
+  price: 400 рублей
+  comments: 'Телефон для справок: 8-921-55-44-345 (Дмитрий) www.rains.spb.ru'
+- id: 33135
+  date: '2013-01-19'
+  time: '19:00'
+  band_name: Настя Макарова и Дмитрий Михайлин
+  club_name: Студия Rec Time
+  city_id: 2
+  price: 300 рублей
+  comments: Сбор зрителей с 18:30. (Английский пр., д. 38) +7-901-3009276
+- id: 33178
+  date: '2013-02-02'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 33162
+  date: '2013-02-08'
+  time: '20:00'
+  band_id: 591
+  band_name: Chiefs Band
+  band_token: chiefs-band
+  club_name: клуб "Форте"
+  city_id: 1
+- id: 33163
+  date: '2013-01-20'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock Club Революционная, 9
+  city_id: 17
+- id: 33180
+  date: '2013-01-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Honky tonk roadhouse  Угрешский 1-й проезд д 8
+  city_id: 1
+- id: 33203
+  date: '2013-01-18'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 33204
+  date: '2013-01-19'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 33205
+  date: '2013-01-25'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 33232
+  date: '2013-03-09'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Chuck Norris BAR ул.Гулливер, Бульвар Юности 5б
+  city_id: 86
+- id: 32794
+  date: '2013-01-03'
+  time: '20:00'
+  band_id: 410
+  band_name: Street Blues Band
+  band_token: street-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 33141
+  date: '2013-01-17'
+  time: '19:00'
+  band_name: Вечеринка менестрелей
+  club_name: Восточная Африка
+  city_id: 2
+  price: Шляпный сбор
+- id: 33142
+  date: '2013-01-18'
+  time: '19:00'
+  band_name: Алексей Золотарев
+  club_name: Восточная Африка
+  city_id: 2
+  price: 350 рублей
+- id: 33143
+  date: '2013-01-19'
+  time: '19:00'
+  band_name: Ульяна Ангелевская (Духовный стих, гусли)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33145
+  date: '2013-01-20'
+  time: '20:00'
+  band_name: Джазовая Вечеринка
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33146
+  date: '2013-01-23'
+  time: '19:30'
+  band_name: AB-music - туба
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33149
+  date: '2013-01-26'
+  time: '19:00'
+  band_name: Отава Е
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 33181
+  date: '2013-01-25'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: "The Mansion    \tM. Тульская, Варшавское шоссе, д. 9, стр. 1Б - \"Даниловская\
+    \ мануфактура\""
+  city_id: 1
+- id: 33188
+  date: '2013-02-12'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Honky tonk roadhouse Угрешский 1-й проезд д 8
+  city_id: 1
+- id: 33150
+  date: '2013-01-27'
+  time: '19:00'
+  band_name: Ad Libitum (фолк-барокко), начало в 19.00, вход 200р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33214
+  date: '2013-02-02'
+  time: '22:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Panamericano
+  city_id: 38
+  price: бесплатный
+- id: 33215
+  date: '2013-02-09'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 33216
+  date: '2013-02-16'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: King's Cross
+  city_id: 38
+  price: бесплатный
+- id: 33526
+  date: '2013-02-08'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 33241
+  date: '2013-02-02'
+  time: '18:30'
+  band_name: Алексе Круглов и группа Игоря Володина
+  club_name: Библиотека ОИЯИ
+  city_id: 115
+- id: 33326
+  date: '2013-01-31'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D
+  city_id: 38
+  price: бесплатный
+- id: 33712
+  date: '2013-02-14'
+  time: '20:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: '"Изумруд" развлекательный центр, Ул. Раахе, 4'
+  city_id: 87
+  price: 500 руб.
+- id: 33713
+  date: '2013-02-15'
+  time: '19:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: Общественно-культурный центр, ул. Чкалова, д. 89
+  city_id: 114
+  price: 400 руб.
+- id: 33714
+  date: '2013-02-18'
+  time: '20:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: '"Первый паб" ул. Советская, 22'
+  city_id: 101
+  price: 300 руб.
+- id: 33715
+  date: '2013-02-19'
+  time: '19:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: Ивановская Областная филармония
+  city_id: 78
+- id: 33738
+  date: '2013-02-24'
+  time: '19:00'
+  band_name: Тикки Шельен. Песни, начало в 19.00, вход 200р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33744
+  date: '2013-02-17'
+  time: '20:00'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: Клуб "Миловка"
+  city_id: 118
+- id: 33750
+  date: '2013-02-07'
+  time: '20:00'
+  band_id: 410
+  band_name: Street Blues Band
+  band_token: street-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+  price: 150 руб.
+- id: 33751
+  date: '2013-02-15'
+  time: '22:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Panamericano
+  city_id: 38
+  price: бесплатный
+- id: 33716
+  date: '2013-02-01'
+  time: '19:30'
+  band_name: Килиманджаро (акустика)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 250 рублей
+- id: 33717
+  date: '2013-02-02'
+  time: '19:00'
+  band_name: Кто Главный Главный (рок, акустика)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33718
+  date: '2013-02-03'
+  time: '20:00'
+  band_name: Джазовая Вечеринка. Majazz
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 33721
+  date: '2013-02-07'
+  time: '19:30'
+  band_name: Студия Persona Viva. Вечер народных танцев под живую музыку
+  club_name: Восточная Африка
+  city_id: 2
+  price: 250 рублей
+- id: 33722
+  date: '2013-02-08'
+  time: '19:30'
+  band_name: Татьяна Зорина (песни)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33724
+  date: '2013-02-10'
+  time: '19:00'
+  band_name: Владимир Дяденистов (творческий вечер, песни)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 350 рублей
+- id: 33727
+  date: '2013-02-14'
+  time: '19:30'
+  band_name: Силя и Выход Лайт
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33728
+  date: '2013-02-15'
+  time: '19:30'
+  band_name: Вереск. Остролист
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33729
+  date: '2013-02-16'
+  time: '19:30'
+  band_id: 342
+  band_name: Ася Сергеева
+  band_token: asya-sergeeva
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33730
+  date: '2013-02-17'
+  time: '19:30'
+  band_name: Samba de Maria, джаз, босса-нова
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 33732
+  date: '2013-02-19'
+  time: '20:00'
+  band_name: От&До прог-рок, акустика, Начало в 20.00, вход 150р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 33735
+  date: '2013-02-22'
+  time: '20:00'
+  band_name: Spieleband
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 33736
+  date: '2013-02-23'
+  time: '19:00'
+  band_name: Тикки Шельен. Перелетный Кабак
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33740
+  date: '2013-02-28'
+  time: '20:00'
+  band_name: Григорий Полухтенко, песни
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 33743
+  date: '2013-02-16'
+  time: '19:30'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_name: Дворец Культуры
+  city_id: 117
+  price: 200 руб.
+- id: 33823
+  date: '2013-03-02'
+  time: '22:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Чили-бар
+  city_id: 36
+  price: 300 руб.
+- id: 33825
+  date: '2013-02-06'
+  time: '20:00'
+  band_name: Анна Копейкина
+  club_name: Арт-Кросс
+  city_id: 2
+  price: бесплатно
+- id: 33827
+  date: '2013-02-08'
+  time: '19:00'
+  band_name: Детско-юношеский центр авторской песни Светланы и Владимира Цывкиных
+    "Журавлиная родина" (г.Сергиев Посад)
+  club_name: Молодежный театр на Фонтанке
+  city_id: 2
+- id: 33831
+  date: '2013-02-22'
+  time: '19:30'
+  band_name: Константин Арбенин & "Сердолик". Unplugged
+  club_name: Театр Дождей
+  city_id: 2
+  price: 400 рублей
+- id: 33835
+  date: '2013-02-14'
+  time: '20:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D.
+  city_id: 38
+  price: бесплатный
+- id: 33775
+  date: '2013-03-15'
+  time: '22:00'
+  band_name: Эд Губайдуллин и Edison band"
+  club_name: J.Gilroy's pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 33895
+  date: '2013-03-03'
+  time: '18:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: МегаЧел гала-концерт фестиваля "Весенний бит"
+  city_id: 38
+  price: 500 руб.
+- id: 33903
+  date: '2013-02-14'
+  time: '22:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Харли бар
+  city_id: 1
+- id: 34166
+  date: '2013-03-23'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 34147
+  date: '2013-03-08'
+  time: '20:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D.
+  city_id: 38
+  price: бесплатный
+- id: 34148
+  date: '2013-03-15'
+  time: '20:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D.
+  city_id: 38
+  price: бесплатный
+- id: 34149
+  date: '2013-03-08'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 34151
+  date: '2013-03-22'
+  time: '20:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D.
+  city_id: 38
+  price: бесплатный
+- id: 34152
+  date: '2013-03-16'
+  time: '22:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Panamericano
+  city_id: 38
+  price: бесплатный
+- id: 34192
+  date: '2013-03-23'
+  time: '22:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Panamericano
+  city_id: 38
+  price: бесплатный
+- id: 34167
+  date: '2013-03-09'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: J.Gilroy's Pub
+  city_id: 1
+  price: бесплатно
+  comments: "ул. Братиславская дом 6\r\nВход свободный"
+- id: 34169
+  date: '2013-04-06'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: J.Gilroy's pub
+  city_id: 1
+  price: бесплатно
+  comments: "ул. Братиславская дом 6\r\nВход свободный"
+- id: 34187
+  date: '2013-02-24'
+  time: '17:00'
+  band_name: Просмотр и обсуждение фильма "Искупление"
+  club_name: Духовно-просветительский центр "Ковчег"
+  city_id: 2
+- id: 34190
+  date: '2013-03-01'
+  time: '19:00'
+  band_name: Весеннее Соборище от Анастасии Мурзич. Большой весенний фестиваль. Акустика
+  club_name: КДЦ "Красногвардейский" (малый зал театра "Буфф")
+  city_id: 2
+  price: бесплатно
+- id: 34502
+  date: '2013-03-29'
+  time: '20:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: R.E.D.
+  city_id: 38
+  price: бесплатный
+- id: 34503
+  date: '2013-03-30'
+  time: '22:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Panamericano
+  city_id: 38
+  price: бесплатный
+- id: 34616
+  date: '2013-03-12'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Honky Tonk Road House
+  city_id: 1
+- id: 34612
+  date: '2013-03-01'
+  time: '21:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Биф, Королева 10
+  city_id: 38
+  price: бесплатный
+- id: 34741
+  date: '2013-03-08'
+  time: '19:00'
+  band_name: Восточной Африке. ул.Печатника Григорьева, д.13, ст.метро Лиговский пр-т.),
+    Анастасия Кузнецова и Макс Жерновой (песни)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 34742
+  date: '2013-03-09'
+  time: '19:00'
+  band_name: Халдейка (г.Киев, песни) + Менестрели
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 34743
+  date: '2013-03-10'
+  time: '19:00'
+  band_name: Фолк-вечеринка (ДР Елизаветы Ланчиной)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 34746
+  date: '2013-03-17'
+  time: '19:00'
+  band_name: Д в квадрате (поэтический вечер)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 34748
+  date: '2013-03-21'
+  time: '19:30'
+  band_name: Робинзон и Банда (регги)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 34749
+  date: '2013-03-22'
+  time: '19:30'
+  band_name: Архипелаг (поп-фолк)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 34751
+  date: '2013-03-26'
+  time: '19:30'
+  band_name: Поэтический вечер
+  club_name: Восточная Африка
+  city_id: 2
+  price: 100 рублей
+- id: 34753
+  date: '2013-03-29'
+  time: '18:00'
+  band_name: Persona viva (фолк, танцы)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 250 рублей
+- id: 34754
+  date: '2013-03-30'
+  time: '20:00'
+  band_name: Даша Емельяненко
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 34759
+  date: '2013-04-04'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Паб Бостон
+  city_id: 1
+- id: 34762
+  date: '2013-03-15'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Leroy (Одинцово)
+  city_id: 1
+- id: 34757
+  date: '2013-03-23'
+  band_name: Ralph Bowen (саксофон, США) и трио Ивана Фармаковского
+  club_name: Концертный зал Кубанского казачьего хора
+  city_id: 28
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 34922
+  date: '2013-03-24'
+  band_name: Mara and the Inner Strageness (Норвегия)
+  club_name: Терраса
+  city_id: 51
+- id: 34923
+  date: '2013-03-22'
+  time: '21:00'
+  band_name: Asketics (Петрозаводск)
+  club_name: ЦУМ - Джем кафе
+  city_id: 119
+- id: 35001
+  date: '2013-04-17'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock club Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 35007
+  date: '2013-03-30'
+  time: '22:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Харли бар
+  city_id: 1
+- id: 34921
+  date: '2013-03-23'
+  time: '17:00'
+  band_name: Владимир Тарасов (Литва), Mara and the Inner Strageness (Норвегия), Asketics
+    (Петрозаводск), Tribute Band (Норвегия-Россия), Виктор Колесов (Вологда), Сергей
+    Кузнецов (Ярославль), Вика Андреева (Череповец), Анжелика Маркова (Москва), Ансамбль
+    Игоря Горькового (Архангельск)
+  club_name: Дом Молодежи
+  city_id: 51
+  price: 500 руб.
+  comments: Jam session в 22:00
+- id: 34920
+  date: '2013-03-22'
+  time: '20:00'
+  band_name: Tribute Band (Россия-Норвегия)
+  club_name: Гостиный Двор
+  city_id: 51
+- id: 35004
+  date: '2013-04-13'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Паб Гилрейси
+  city_id: 1
+- id: 35350
+  date: '2013-04-03'
+  time: '20:00'
+  band_name: '"Дурацкий День": Clown Ballet от театра "Polichinelle" (Франция), Максим
+    Жерновой, Эдуард Погодин (песни)Начало в 20.00, вход 300р'
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 35351
+  date: '2013-04-04'
+  time: '19:00'
+  band_name: 'Фестиваль в пользу С-З Бельтайна: Драконь, Кузя, Аргемония, Чужие сны'
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 35352
+  date: '2013-04-05'
+  time: '19:30'
+  band_name: Ad Libitum, Argemonia
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35353
+  date: '2013-04-07'
+  time: '19:00'
+  band_name: Aterparty Альфа Кэбра. Презентация альбома "Охота на Мечту"
+  club_name: Восточная Африка
+  city_id: 2
+  price: В шляпу
+- id: 35357
+  date: '2013-04-11'
+  time: '20:00'
+  band_name: ЛооК (акустический рок)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 35359
+  date: '2013-04-13'
+  time: '19:00'
+  band_name: Мартиэль. Презентация альбомов
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35373
+  date: '2013-05-04'
+  time: '19:30'
+  band_name: Лунный Пес, Параллели Метели
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35358
+  date: '2013-04-12'
+  time: '19:30'
+  band_name: Кэтти Тренд (Птица Си), Татьяна Ковальчук (Бергтора), Альф Кэбр, Макс
+    Жерновой (Вереск). Вечер фестиваля "Волынщик", Начало в 19.30, вход 200р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35362
+  date: '2013-04-17'
+  time: '19:30'
+  band_name: МаркФест (День Рождения Марка Бомштейна)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35363
+  date: '2013-04-18'
+  time: '19:30'
+  band_name: Птицекот. Тости Тота
+  club_name: Восточная Африка
+  city_id: 2
+  price: 150 рублей
+- id: 35365
+  date: '2013-04-19'
+  time: '20:00'
+  band_name: Anticvar (акустический рок)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35290
+  date: '2013-04-16'
+  time: '21:00'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_name: клуб Live
+  city_id: 1
+  price: бесплатный
+  comments: Дорогие Друзья! Спешим сообщить вам, о том, что 16 апреля, в клубе "Live"
+    состоится вечер американского ритм-н-блюза и фанка. Импровизация, грув и отличное
+    настроение гарантировано!
+- id: 35367
+  date: '2013-04-25'
+  time: '20:00'
+  band_name: Ключ и Владимир Голованов (акустический рок)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35368
+  date: '2013-04-26'
+  time: '19:30'
+  band_name: Остролист, Вереск , Начало в 19.30, вход 200р
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35369
+  date: '2013-04-27'
+  time: '19:00'
+  band_name: Кто главный
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35371
+  date: '2013-04-28'
+  time: '19:00'
+  band_name: Инна Боднарь и Зеленые рукава
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35372
+  date: '2013-04-30'
+  time: '19:30'
+  band_name: Ad Libitum, Беляков (вечер готического рока)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35406
+  date: '2013-04-27'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_name: J.Gilroy's pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 35374
+  date: '2013-05-05'
+  time: '19:30'
+  band_name: Силя и Выход-лайт
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 35678
+  date: '2013-05-17'
+  time: '19:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Молодежный театр эстрады  Московская 18а
+  city_id: 17
+- id: 35681
+  date: '2013-05-17'
+  time: '22:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Las Vega
+  city_id: 38
+  price: бесплатный
+- id: 35682
+  date: '2013-05-24'
+  time: '22:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Las Vega
+  city_id: 38
+  price: бесплатный
+- id: 35694
+  date: '2013-05-01'
+  time: '21:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Неизвестный Петровский
+  city_id: 14
+  price: 80 грн.
+  comments: г. Днепропетровск, арт-кафе "Неизвестный Петровский" (наб. Ленина, 15а)
+- id: 35459
+  date: '2013-04-20'
+  time: '20:00'
+  band_name: Павел Козлов & Alright Band, ВИА Лейся песня, Сергей Васильев (ех-Земляне),
+    Александр Левшин и др.
+  club_name: Гусятникоff
+  city_id: 1
+  price: 1000 руб.
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 35462
+  date: '2013-04-27'
+  time: '20:00'
+  band_id: 334
+  band_name: Павел Козлов & Alright Band
+  band_token: pavel-kozlov
+  club_name: Опять 25
+  city_id: 1
+  price: бесплатный
+- id: 35575
+  date: '2013-04-27'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 35634
+  date: '2013-04-23'
+  time: '21:00'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_name: клуб Live Леонтьевский переулок, д.7, стр.1
+  city_id: 1
+  price: бесплатный
+  comments: Дорогие Друзья! Спешим сообщить вам, о том, что 23 апреля (во вторник),
+    в клубе "Live" состоится вечер американского ритм-н-блюза и фанка. Импровизация,
+    грув и отличное настроение гарантировано!
+- id: 35457
+  date: '2013-04-11'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Алиби    м.Тургеневская, Чистые пруды.  Ащеулов переулок, дом 9.
+  city_id: 1
+- id: 35458
+  date: '2013-04-19'
+  time: '20:00'
+  band_id: 334
+  band_name: Павел Козлов & Alright Band
+  band_token: pavel-kozlov
+  club_name: кафе "Совок"
+  city_id: 1
+  price: бесплатный
+  comments: '"Любимые песни советского периода + хиты дискотек 80х-90х!"'
+- id: 38062
+  date: '2013-09-20'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Friends Club  пл. Конституции, 11/13
+  city_id: 15
+- id: 36053
+  date: '2013-05-24'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock Club, Революционная, 9
+  city_id: 17
+- id: 36071
+  date: '2013-05-17'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Секстон       Москва, ул. Нижние Мневники, 110
+  city_id: 1
+- id: 36108
+  date: '2013-05-31'
+  time: '22:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Las Vega
+  city_id: 38
+  price: бесплатный
+- id: 36123
+  date: '2013-05-14'
+  time: '20:00'
+  band_id: 223
+  band_name: Saint Petes Blues
+  band_token: spb-blues
+  club_name: Клуб-ресторан "Грибоедова, 36"
+  city_id: 2
+  price: бесплатно
+- id: 36124
+  date: '2013-05-16'
+  time: '20:00'
+  band_name: Тheatre "Polichinelle". Новая программа Clown Ballet
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 36125
+  date: '2013-05-17'
+  time: '19:00'
+  band_name: 'Тамбурин: Новая программа, старые песни.'
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 36127
+  date: '2013-05-19'
+  time: '19:00'
+  band_name: Нильс Бор (арт-рок, Сахалин)
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 36073
+  date: '2013-05-18'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '"John Gilroy''s" м. Братиславская, Братиславская ул. 6'
+  city_id: 1
+- id: 36054
+  date: '2013-04-30'
+  time: '20:00'
+  band_name: Ансамбль Ольги Пономаревой
+  club_name: J. Walker
+  city_id: 2
+  price: ноль денег
+- id: 36066
+  date: '2013-05-14'
+  time: '21:00'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_name: клуб "Live", Леонтьевский переулок, д.7, стр.1
+  city_id: 1
+  price: бесплатный
+  comments: Вечер американского ритм-н-блюза и фанка. Импровизация, грув и отличное
+    настроение гарантировано!
+- id: 36070
+  date: '2013-05-16'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Харли      Ленинский пр-т, 93Г.
+  city_id: 1
+- id: 36058
+  date: '2013-04-30'
+  time: '20:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 36202
+  date: '2013-05-17'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 36237
+  date: '2013-06-12'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock Club, Революционная, 9
+  city_id: 17
+- id: 36238
+  date: '2013-06-06'
+  time: '19:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Джаз-club Дворца Республики, Октябрьская пл,1
+  city_id: 17
+- id: 36234
+  date: '2013-06-08'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_name: J.Gilroy's pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 36764
+  date: '2013-06-07'
+  time: '19:00'
+  band_name: Александр Дольский
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 36489
+  date: '2013-06-14'
+  time: '22:30'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_name: Las Vega
+  city_id: 38
+  price: бесплатный
+- id: 36490
+  date: '2013-06-15'
+  band_name: Фестиваль "Петроджаз"
+  club_name: Петропавловская крепость
+  city_id: 2
+- id: 36491
+  date: '2013-06-16'
+  band_name: Фестиваль "Петроджаз"
+  club_name: Петропавловская крепость
+  city_id: 2
+- id: 36770
+  date: '2013-06-05'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Паб  Бостон   Москва, улица Сергия Радонежского, дом 29-31
+  city_id: 1
+- id: 36780
+  date: '2013-06-15'
+  time: '22:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Харли бар
+  city_id: 1
+- id: 36769
+  date: '2013-06-25'
+  time: '19:00'
+  band_name: 'Закрытие сезона: Елена Камбурова'
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 36774
+  date: '2013-06-15'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '"John Gilroy''s" м. Братиславская, Братиславская ул. 6'
+  city_id: 1
+- id: 36818
+  date: '2013-07-12'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_name: ресторан "На Сретенке"
+  city_id: 1
+  price: бесплатный
+- id: 36778
+  date: '2013-06-28'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: '"Харли" м. Проспект Вернадского, Ленинский пр-т, д. 93г'
+  city_id: 1
+- id: 36861
+  date: '2013-07-06'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: J.Gilroy's Pub
+  city_id: 1
+  price: бесплатно
+  comments: Братиславская улица дом 6
+- id: 37233
+  date: '2013-07-05'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_name: ресторан "Нулевой причал"
+  city_id: 1
+- id: 37275
+  date: '2013-07-12'
+  time: '22:00'
+  band_name: Эд Губайдуллин и "Edison band"
+  club_name: J.Gilroy pub
+  city_id: 1
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 37360
+  date: '2013-07-09'
+  time: '19:00'
+  band_name: Концерт гусельной музыки. Оля Глазова и "Славянский кич". Гусли - Макс
+    Анухин (Hvarna). Баян - Саня Ежов ("Ля минор")
+  club_name: Восточная Африка
+  city_id: 2
+  price: 200 рублей
+- id: 37361
+  date: '2013-07-19'
+  time: '19:30'
+  band_name: Михаил Башаков
+  club_name: Восточная Африка
+  city_id: 2
+  price: 300 рублей
+- id: 37392
+  date: '2013-07-28'
+  time: '21:00'
+  band_name: Полина Зизак & Simply Band, Гаяна Захарова, Анастасия Чеважевская
+  club_name: Облака
+  city_id: 1
+  extra_bands:
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+  - id: 142
+    name: Simply Band
+    token: simply-band
+- id: 37480
+  date: '2013-08-09'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 37527
+  date: '2013-08-08'
+  time: '19:00'
+  band_id: 630
+  band_name: Jambo Jazz Quintet
+  band_token: jambo-jazz-quintet
+  club_name: Свободное Арт-Пространство "Циферблат"
+  city_id: 16
+  price: бесплатный
+- id: 37820
+  date: '2013-08-22'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Olivia Pizza         г Егорьевск  Ул. Советская, 157, 3-ий этаж
+  city_id: 1
+- id: 37758
+  date: '2013-08-03'
+  time: '21:00'
+  band_id: 630
+  band_name: Jambo Jazz Quintet
+  band_token: jambo-jazz-quintet
+  club_name: Smart cafe Bibliotech
+  city_id: 16
+  price: +10 UAH
+- id: 38021
+  date: '2013-08-17'
+  time: '18:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Хонки Тонк     1-й Угрешский пр-д д. 7.
+  city_id: 1
+- id: 38051
+  date: '2013-08-22'
+  time: '21:00'
+  band_name: невероятные The Road Dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 38063
+  date: '2013-09-22'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Chuck Norris Bar   Гулливер, Бульвар Юности 5б
+  city_id: 86
+- id: 37918
+  date: '2013-08-15'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: ресторан Strazek
+  city_id: 1
+  price: бесплатный
+  comments: Вечерний концерт в новом чешском пивном ресторане Strazek (м. Автозаводская,
+    ул. Мастеркова, 8)
+- id: 37919
+  date: '2013-08-16'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: ресторан Strazek
+  city_id: 1
+  price: бесплатный
+  comments: Вечерний концерт в новом чешском пивном ресторане Strazek (м. Автозаводская,
+    ул. Мастеркова, 8)
+- id: 38022
+  date: '2013-09-11'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: уточняется
+  city_id: 10
+- id: 38027
+  date: '2013-09-17'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: Гринго
+  city_id: 40
+- id: 38029
+  date: '2013-09-19'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: Онегин
+  city_id: 41
+- id: 38030
+  date: '2013-09-20'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: Однажды в Америке
+  city_id: 19
+- id: 38054
+  date: '2013-09-15'
+  time: '14:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_name: Nu Jazz Stage
+  city_id: 121
+- id: 38066
+  date: '2013-08-22'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Ресторан Стражек
+  city_id: 1
+  price: бесплатный
+  comments: Вечерний блюз от Мишуриса в новом чешском ресторане-пивоварне Strazek
+    (м.Автозаводская, ул. Мастеркова 8)
+- id: 38032
+  date: '2013-09-22'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: Джаз Мастерская
+  city_id: 51
+- id: 38033
+  date: '2013-09-23'
+  band_id: 599
+  band_name: Blues Company
+  band_token: blues-company
+  club_name: Route-66
+  city_id: 51
+- id: 38069
+  date: '2013-08-25'
+  time: '20:00'
+  band_id: 630
+  band_name: Jambo Jazz Quintet
+  band_token: jambo-jazz-quintet
+  club_name: Бархат,ул. Верхний Вал 30А
+  city_id: 16
+  price: 20 руб.
+- id: 38245
+  date: '2013-09-18'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club Революционная, 9
+  city_id: 17
+- id: 38297
+  date: '2013-09-01'
+  time: '17:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_name: парк Сокольники
+  city_id: 1
+  price: бесплатный
+- id: 38298
+  date: '2013-09-07'
+  time: '18:40'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_name: Фестиваль Городских Романтиков  - ЗелАО
+  city_id: 1
+  price: бесплатный
+- id: 38299
+  date: '2013-09-08'
+  time: '18:00'
+  band_id: 569
+  band_name: Avocado Band
+  band_token: avocado
+  club_name: Фестиваль Городских Романтиков ВАО
+  city_id: 1
+  price: бесплатный
+- id: 39154
+  date: '2013-10-19'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_name: Бар на Сретенке
+  city_id: 1
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 38329
+  date: '2013-09-19'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 38319
+  date: '2013-09-05'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Big Buffalo
+  city_id: 1
+  price: бесплатный
+- id: 38326
+  date: '2013-09-12'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Big Buffalo
+  city_id: 1
+  price: бесплатный
+- id: 38327
+  date: '2013-09-19'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Big Buffalo
+  city_id: 1
+  price: бесплатный
+- id: 38328
+  date: '2013-09-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Big Buffalo
+  city_id: 1
+  price: бесплатный
+- id: 38354
+  date: '2013-09-07'
+  time: '21:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: мотолаборатория 13 Lab
+  city_id: 1
+- id: 38655
+  date: '2013-09-22'
+  time: '13:30'
+  band_name: Открытие сезона 2013-2014. Екатерина Матвеева (женская духовная песня),
+    Вячеслав Ковалев, Минус Трели, Елена Гагарина, Ася Сергеева (арфа) и другие, в
+    том числе дети прихожан
+  club_name: Духовный центр "Ковчег"
+  city_id: 2
+  extra_bands:
+  - id: 342
+    name: Ася Сергеева
+    token: asya-sergeeva
+- id: 38657
+  date: '2013-09-27'
+  time: '19:00'
+  band_name: Театр "24 струны"
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 38674
+  date: '2013-10-23'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock Club/Революционная, 9
+  city_id: 17
+  price: бесплатный
+- id: 38559
+  date: '2013-09-18'
+  time: '20:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Доктор Скотч
+  city_id: 1
+- id: 38583
+  date: '2013-10-10'
+  band_name: Jimmy Burns (USA) (feat. Jose Luis Pardo & Omar Itcovici)
+  club_name: Мезами
+  city_id: 55
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+  - id: 628
+    name: Jimmy Burns
+    token: jimmy-burns
+- id: 38574
+  date: '2013-09-14'
+  time: '18:00'
+  band_name: Dr. Nick, винилка Queen
+  club_name: Publicus Pub
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 39026
+  date: '2013-10-11'
+  time: '20:30'
+  band_name: Квартет Straymonk (Швейцария) с программой музыки Чарли Мингуса
+  club_name: Библиотека ОИЯИ
+  city_id: 115
+- id: 39153
+  date: '2013-10-18'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_name: Lady Jane
+  city_id: 1
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 39032
+  date: '2013-10-07'
+  band_name: '|sbdQtc| (Швейцария - США)'
+  club_name: Rocksbury
+  city_id: 86
+- id: 39033
+  date: '2013-10-10'
+  time: '19:00'
+  band_name: '|sbdQtc| (Швейцария - США)'
+  club_name: Клуб "Соборная площадь"
+  city_id: 3
+- id: 39034
+  date: '2013-10-12'
+  time: '19:00'
+  band_name: '|sbdQtc| (Швейцария - США)'
+  club_name: Библиотека ОИЯИ
+  city_id: 115
+- id: 39132
+  date: '2013-10-10'
+  time: '20:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: арт кафе Буфет
+  city_id: 8
+  price: 250 руб.
+- id: 39127
+  date: '2013-10-12'
+  time: '22:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_name: бар мажор
+  city_id: 88
+- id: 39210
+  date: '2013-10-26'
+  time: '20:00'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_name: Бар на Сретенке
+  city_id: 1
+  price: 300 руб.
+  comments: Rhythm & Blues Independent  выступят  в "Баре на Сретенке". В программе
+    вечера американский ритм-н-блюз 60-х и 70-х, джаз, соул и фанк.
+- id: 39417
+  date: '2013-10-24'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: The Standard
+  city_id: 1
+  price: бесплатный
+- id: 39421
+  date: '2013-10-31'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: The Standard
+  city_id: 1
+  price: бесплатный
+- id: 39424
+  date: '2013-11-07'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: The Standard
+  city_id: 1
+  price: бесплатный
+- id: 39428
+  date: '2013-11-21'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: The Standard
+  city_id: 1
+  price: бесплатный
+- id: 39430
+  date: '2013-11-28'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: The Standard
+  city_id: 1
+  price: бесплатный
+- id: 39453
+  date: '2013-11-13'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock club
+  city_id: 17
+- id: 39261
+  date: '2013-11-08'
+  time: '19:00'
+  band_name: Маргарита Позоян и Jazz Parking Band, Артем Качарян
+  club_name: Центральный концертный зал Кубанского казачьего хора
+  city_id: 28
+- id: 39976
+  date: '2013-11-09'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Кактус Джек'с
+  city_id: 1
+  price: бесплатный
+- id: 39972
+  date: '2013-11-29'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Амиго Мигель
+  city_id: 1
+- id: 39988
+  date: '2013-11-16'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Windsor Pub
+  city_id: 1
+  price: 300 руб.
+- id: 40251
+  date: '2013-11-29'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Кактус Джек'с
+  city_id: 1
+  price: бесплатный
+- id: 40007
+  date: '2013-11-23'
+  time: '18:00'
+  band_id: 638
+  band_name: Som Band
+  band_token: som-band
+  club_name: Творческая мастерская "Колесо"
+  city_id: 7
+  comments: "В программе этого вечера - музыкальное путешествие от зарождения блюза\
+    \ на плантациях до его видоизменении в больших городах.\r\nМузыкальный экскурс\
+    \ будет поддержан историями и рассказами."
+- id: 40053
+  date: '2013-12-08'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Prime Grill
+  city_id: 1
+  comments: Шмитовский проезд, 23/4, Москва
+- id: 40193
+  date: '2013-11-24'
+  time: '20:00'
+  band_id: 636
+  band_name: Juliana Strangelove
+  band_token: juliana-strangelove
+  club_name: Театръ
+  city_id: 1
+  price: 500 руб.
+- id: 40207
+  date: '2013-12-08'
+  time: '19:00'
+  band_name: Мама Чолли, Майла Бэнд, , Som Band, Wintertime Blues Band
+  club_name: арт-бар "Наша среда обитания"
+  city_id: 7
+  price: 150 руб.
+  comments: "http://vk.com/8decjohn\r\n\r\nВторой концерт в серии \"Блюзовые выходные\"\
+    \ посвящается празднованию 80-ти(!!!) летия классика британского блюза - John\
+    \ Mayall и состоится 8 декабря\r\n\r\nВ программе вечера - исполнение творческого\
+    \ наследия Джона."
+  extra_bands:
+  - id: 638
+    name: Som Band
+    token: som-band
+- id: 40205
+  date: '2013-12-13'
+  time: '23:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Белый Медведъ
+  city_id: 1
+- id: 40188
+  date: '2013-11-23'
+  time: '23:00'
+  band_id: 49
+  band_name: Chill Out
+  band_token: chill-out
+  club_name: Casa Latina
+  city_id: 2
+  price: 400 руб.
+  comments: "\"Разве можно играть не блюз? Парни из петербургской группы The Chill\
+    \ Out уже больше 10 лет отвечают на этот вопрос песнями великих мастеров: от Джона\
+    \ Ли Хукера до Чака Берри. Концертные площадки, на которых ребятам посчастливилось\
+    \ выступать, так же разнообразны, как и репертуар группы. Под их блюз танцевали\
+    \ школьницы на стадионах и заключенные в тюрьме строгого режима. Не смотря на\
+    \ то, что участники бэнда абсолютно белые, афроамериканская музыкальная культура\
+    \ все глубже укореняется в их сердцах с каждым зажигательным ритмом, который они\
+    \ воспроизводят на сцене. Выход на публику всегда сопровождается диким эмоциональным\
+    \ взрывом лидера группы. Это всегда стопроцентная отдача. Как бы не казалось парадоксально,\
+    \ но именно перед обезличенной толпой получается не просто раскрыть свою душу,\
+    \ а вывернуть себя на изнанку.\r\n\r\nЯрослав Писарев - Ударные\r\nДаниил Жешков\
+    \ - Гитара, вокал\r\nКирилл Поляков - Бас\r\nАлексей Шашакин - Клавиши\r\nВеб-сайт:jeshkov.ru\r\
+    \nhttp://vk.com/club245185\""
+- id: 40248
+  date: '2013-12-18'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT Rock bar
+  city_id: 17
+- id: 40561
+  date: '2013-12-20'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Кактус Джек'с
+  city_id: 1
+- id: 40564
+  date: '2013-12-20'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_name: О'Хара (Воронеж)
+  city_id: 7
+  price: 250 руб.
+- id: 40565
+  date: '2013-12-21'
+  time: '21:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_name: Hamilton's Irish pub
+  city_id: 86
+  price: бесплатный
+- id: 40775
+  date: '2013-12-22'
+  time: '19:00'
+  band_name: Тамара Зарицкая и Сот
+  club_name: Арт-бар Наша Среда Обитания
+  city_id: 7
+  price: 150 руб.
+  comments: "http://vk.com/event62755152\r\n\r\nДорогие друзья! На четвертом и заключительном\
+    \ концерте в серии \"Блюзовые Выходные\"\r\nдля вас будут играть\r\nТамара Зарицкая\
+    \ и Сот - (PsycheDELTA Blues Band. Москва).\r\nhttp://vk.com/psychedelta\r\n\r\
+    \nПрозвучат произведения раннего женского блюза, госпелы, спиричуэлы, а так же\
+    \ классические блюзы Чикаго и Дельты, которые еще не испытали на себе влияние\
+    \ рок-музыки и в которых еще присутствует архаичная шаманская ритмика. Эта музыка\
+    \ также имеет свой особый лад, не мажорный и не минорный, поэтому мелодии народных\
+    \ песен, которые использует \"PsycheDELTA\", могут передавать удивительный сплав\
+    \ эмоций: радости, боли, гнева, иронии, надежды на лучшее - не оставляющий слушателя\
+    \ равнодушным. Тамара Зарицкая выбирает песни иногда за интересное музыкальное\
+    \ решение, нестандартную, по-фолковому \"кривую\" мелодию или гармонию, но чаще\
+    \ за текст: истории, рассказанные в них, кажутся ей очень похожими на ее собственную\
+    \ жизнь.\r\n\r\nКонцерт пройдет при поддержке воронежских музыкантов - Анна Тихонова(пианино),\
+    \ Сом(гитара)."
+- id: 40778
+  date: '2013-12-27'
+  time: '21:30'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Белый Медведъ
+  city_id: 1
+  comments: Москва, Проспект Мира 116а метро Алексеевская

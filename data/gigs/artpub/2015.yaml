@@ -1,0 +1,322 @@
+- id: 49468
+  date: '2015-02-01'
+  time: '21:00'
+  band_name: Grinevich Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 200 руб.
+- id: 49467
+  date: '2015-02-07'
+  time: '18:30'
+  band_name: Bob Stroger (США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  price: 1000 руб.
+- id: 49565
+  date: '2015-02-12'
+  time: '21:00'
+  band_name: Hard-Jazz Project
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49566
+  date: '2015-02-18'
+  time: '21:00'
+  band_name: Андрей Турыгин (саксофон) и Алексей Пыстин (фортепиано)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49568
+  date: '2015-02-23'
+  time: '20:00'
+  band_name: Творческий вечер Вадима Денисова "5:0"
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49563
+  date: '2015-02-05'
+  time: '21:00'
+  band_name: Квартет Владислава Шилина
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49564
+  date: '2015-02-08'
+  time: '21:00'
+  band_name: Time Killers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49567
+  date: '2015-02-19'
+  time: '21:00'
+  band_name: Jazz Tales
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49569
+  date: '2015-02-26'
+  time: '21:00'
+  band_name: Duletov Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49570
+  date: '2015-02-28'
+  time: '18:30'
+  band_id: 561
+  band_name: Jose Luis Pardo
+  band_token: jose-luis-pardo
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49984
+  date: '2015-03-01'
+  time: '21:00'
+  band_name: Grinevich Band
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49985
+  date: '2015-03-05'
+  time: '21:00'
+  band_name: Евгений Суворов (барабаны), Елена Талалайченко (фортепиано), Рашид Гаджиев
+    (бас, вокал), Алена Черных (саксофон)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49986
+  date: '2015-03-13'
+  time: '18:30'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 49987
+  date: '2015-03-17'
+  time: '21:00'
+  band_name: Street Fiddlers
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 50433
+  date: '2015-04-04'
+  time: '18:30'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 50792
+  date: '2015-04-01'
+  time: '21:00'
+  band_name: Андрей Турыгин (саксофон) и Алексей Пыстин (фортепиано)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 50793
+  date: '2015-04-02'
+  time: '21:00'
+  band_name: Проект "Наш Бразил"
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 53923
+  date: '2015-10-24'
+  time: '20:30'
+  band_name: Kenny Blues Boss Wayne Russian Tour 2015 (feat. Jose Luis Pardo)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo
+- id: 54108
+  date: '2015-10-03'
+  time: '20:30'
+  band_name: Владимир Межберг и Олеся Павлова
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54109
+  date: '2015-10-04'
+  time: '20:30'
+  band_name: Дуэт "Cheek to Cheek" - Алина Константинова (вокал) и Андрей Константинов
+    (саксофон)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54110
+  date: '2015-10-08'
+  time: '20:30'
+  band_name: Джем-сейшн с квартетом Владимира Тимофеева
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54111
+  date: '2015-10-09'
+  time: '20:30'
+  band_name: Ракеты
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54106
+  date: '2015-10-01'
+  time: '20:30'
+  band_name: Джем-сейшн с квартетом Владислава Шилина
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54107
+  date: '2015-10-02'
+  time: '20:30'
+  band_name: Ансамбль VIP-Time
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54112
+  date: '2015-10-11'
+  time: '20:30'
+  band_name: Light Jazz Music
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 51428
+  date: '2015-05-03'
+  time: '21:00'
+  band_name: Вокальный ансамбль "Эксклюзив"
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 51429
+  date: '2015-05-16'
+  time: '18:30'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 52246
+  date: '2015-06-12'
+  time: '21:00'
+  band_name: Андрей Турыгин (саксофон) и Алексей Пыстин (фортепиано)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 53641
+  date: '2015-09-03'
+  time: '21:00'
+  band_name: Андрей Турыгин и Алексей Пыстин
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 53642
+  date: '2015-09-20'
+  time: '21:00'
+  band_name: Richard Jackson (вокал, США)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54809
+  date: '2015-11-01'
+  time: '20:30'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54810
+  date: '2015-11-04'
+  time: '20:30'
+  band_name: Екатерина Сазыкина (вокал) и Ростислав Ковалев (саксофон)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54811
+  date: '2015-11-05'
+  time: '20:30'
+  band_name: Jam session с квартетом Владислава Шилина
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54812
+  date: '2015-11-06'
+  time: '20:30'
+  band_name: 'Ансамбль VIP-Time: Наталья Соболева (вокал), Андрей Турыгин (саксофон),
+    Олег Петриков (бас), Евгений Серебренников (фортепиано)'
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54813
+  date: '2015-11-07'
+  time: '20:30'
+  band_name: Владимир Межберг (фортепиано) и Олеся Павлова (вокал)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 54814
+  date: '2015-11-15'
+  time: '20:30'
+  band_name: Eve Cornelius (вокал, США) и Сергей Васильев (контрабас, Москва)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55330
+  date: '2015-12-09'
+  time: '20:30'
+  band_name: Collini Blues Balls
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55331
+  date: '2015-12-10'
+  time: '20:30'
+  band_name: Джем-сейшн с квартетом Евгения Голованова
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55326
+  date: '2015-12-03'
+  time: '20:30'
+  band_id: 629
+  band_name: Guy Davis
+  band_token: guy-davis
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55327
+  date: '2015-12-04'
+  time: '20:30'
+  band_id: 629
+  band_name: Guy Davis
+  band_token: guy-davis
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55328
+  date: '2015-12-05'
+  time: '21:30'
+  band_name: Екатерина Сазыкина (вокал) и Ростислав Ковалев (саксофон)
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55329
+  date: '2015-12-06'
+  time: '20:30'
+  band_name: Alex Green
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub
+- id: 55332
+  date: '2015-12-11'
+  time: '20:30'
+  band_name: Ансамбль Vip-Time
+  club_id: 226
+  club_name: Арт П.А.Б
+  club_token: artpub

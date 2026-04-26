@@ -1,0 +1,16 @@
+id: 489
+token: anna-levshina
+name: Квартет Анны Левшиной
+aliases: Анна Левшина
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Анна Левшина
+  instruments: вокал
+- name: Евгений Гречищев
+  instruments: фортепиано
+- name: Макар Новиков
+  instruments: бас
+- name: Александр Зингер
+  instruments: ударные

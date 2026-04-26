@@ -1,0 +1,503 @@
+- id: 55338
+  date: '2016-01-07'
+  time: '20:00'
+  band_name: Рождество вместе с Jazz Dance Orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 567
+    name: Jazz Dance Orchestra
+    token: jazz-dance-orchestra
+- id: 55339
+  date: '2016-01-21'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56627
+  date: '2016-02-04'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56628
+  date: '2016-02-06'
+  time: '19:00'
+  band_name: DARIYA (вокал, Россия)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56629
+  date: '2016-02-11'
+  time: '20:00'
+  band_name: Zenia McPherson (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 56630
+  date: '2016-02-18'
+  time: '20:00'
+  band_name: Антон Румянцев (саксофон) и его квартет с программой "Nirvana, Beatles,
+    Queen в джазе"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56631
+  date: '2016-02-23'
+  time: '19:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56632
+  date: '2016-02-25'
+  time: '20:00'
+  band_name: Ty Stephens (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 56633
+  date: '2016-03-03'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56634
+  date: '2016-04-28'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56635
+  date: '2016-04-07'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 56636
+  date: '2016-03-24'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57261
+  date: '2016-03-17'
+  time: '20:00'
+  band_name: '"Unforgettable Nat King Cole" - cпециальная программа к дню Рождения
+    Сергея Манукяна'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57262
+  date: '2016-03-16'
+  time: '20:00'
+  band_name: Сабина Вартанова (вокал) и Валерий Гроховский (фортепиано) - презентация
+    альбома "Music & Love"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: Тимур Некрасов - саксофон, Алексей Каляпичев - клавишные, Владимир Чернышков
+    - гитара, Дмитрий Белоусов - бас, Павел Кован - ударные
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 134
+    name: Сабина Вартанова
+    token: sabina
+- id: 57263
+  date: '2016-03-15'
+  time: '20:00'
+  band_name: Eve Cornelius (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57264
+  date: '2016-03-09'
+  time: '20:00'
+  band_name: Эми Аллен (вокал, США-Франция) и трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 57265
+  date: '2016-03-04'
+  time: '20:00'
+  band_name: Международный День Рождения Таис Урумидис
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  comments: Мариам Мерабова, Армен Мерабов, Aset, Екатерина Балыкбаева, Андреас Джонс,
+    Алина Филиппова,  Андрей Солод, Ивайло Филиппов, Милета Агнаева, Виктория Кузьмина
+    (Sugar Mamas)
+- id: 57266
+  date: '2016-03-31'
+  time: '20:00'
+  band_name: The Kikipickles с программой "Весеннее обострение"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57267
+  date: '2016-03-29'
+  time: '20:00'
+  band_name: Даниил Крамер (фортепиано) и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 57268
+  date: '2016-05-19'
+  time: '20:00'
+  band_name: Шэнел Джонс (вокал, США), Виталий Головнев (труба, США), Алексей Подымкин
+    (рояль), Владимир Кольцов-Крутов (контрабас), Александр Зингер (барабаны)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57269
+  date: '2016-05-25'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57982
+  date: '2016-05-26'
+  time: '20:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 57984
+  date: '2016-04-21'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 57983
+  date: '2016-05-05'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 58287
+  date: '2016-04-22'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59131
+  date: '2016-06-02'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59132
+  date: '2016-06-09'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59134
+  date: '2016-06-23'
+  time: '20:00'
+  band_name: 'День рождения проекта Jazz In Motion: Aset (вокал), Андрей Солод (вокал),
+    Серей Манукян (вокал, клавиши), Таис Урумидис (вокал), Тимур Ведерников (гитара),
+    Алла Рид (вокал), Милета Агнаева (вокал), Александр Гуреев (саксофон), Макс Тимошин
+    (саксофон), и другие...'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 59133
+  date: '2016-06-16'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59135
+  date: '2016-06-30'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 59136
+  date: '2016-07-28'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59799
+  date: '2016-07-09'
+  time: '19:00'
+  band_name: Lee Mays (вокал) и Fulton Turnage (саксофон)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59802
+  date: '2016-07-14'
+  time: '20:00'
+  band_name: Антон Румянцев (саксофон) и его квартет с программой "Queen в джазе"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59803
+  date: '2016-07-21'
+  time: '20:00'
+  band_name: Юбилей Сергея Чипенко - 55 лет. From Los Angeles with love
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59800
+  date: '2016-07-11'
+  time: '20:00'
+  band_name: Bank Robin (Италия)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 59801
+  date: '2016-07-13'
+  time: '20:00'
+  band_name: Бенарес Экспресс
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60600
+  date: '2016-09-15'
+  time: '20:00'
+  band_name: Антон Румянцев (саксофон) и его квартет с программой "The Beatles в джазе"
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60602
+  date: '2016-09-21'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60603
+  date: '2016-09-22'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60604
+  date: '2016-09-28'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60605
+  date: '2016-10-06'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60606
+  date: '2016-10-08'
+  time: '19:00'
+  band_name: Шэнел Джонс (вокал, США)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60607
+  date: '2016-10-20'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60608
+  date: '2016-10-25'
+  time: '20:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 60609
+  date: '2016-11-03'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60598
+  date: '2016-09-08'
+  time: '20:00'
+  band_name: Таис Урумидис
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 60599
+  date: '2016-09-13'
+  time: '20:00'
+  band_name: 'Tribute to "The Blues Brothers": Гия Дзагнидзе (вокал, гитара); Александр
+    Гуреев (саксофон) и Биг-бэнд Московского Государственного института культуры'
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 60601
+  date: '2016-09-17'
+  time: '19:00'
+  band_name: Даниил Крамер и его трио
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 61492
+  date: '2016-11-07'
+  time: '20:00'
+  band_name: Old Fashioned Trio (Екатеринбург) и Бернард Швентер (банджо, вокал, Швейцария)
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 74
+    name: Old Fashion Blues Project
+    token: old-fashion
+- id: 61781
+  date: '2016-12-24'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 61783
+  date: '2016-11-17'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 61784
+  date: '2016-11-10'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+- id: 61782
+  date: '2016-11-23'
+  time: '20:00'
+  band_name: Maya Azucena (вокал, США) и Трио Олега Бутмана
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 61785
+  date: '2016-11-09'
+  time: '20:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 137
+  club_name: Арт-кафе ДуровЪ
+  club_token: durov

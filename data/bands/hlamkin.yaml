@@ -1,0 +1,32 @@
+id: 354
+token: hlamkin
+name: Карл Хламкин и ОгнеОпаснОркестр
+aliases: 'Карл Хламкин
+
+  ОгнеОпаснОркестр
+
+  ОгнеОпасноОркестр
+
+  Карл Хламкин и ОгнеОпасноОркестр'
+alive: true
+url: http://www.hlamkin.com
+city_id: 1
+genre_id: 12
+clips:
+- id: 1421
+  type: photo
+  url: hlamkin.jpg
+  sort_order: 0
+  width: 600
+  height: 302
+- id: 1420
+  type: weblink
+  url: http://www.hlamkin.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1423
+  type: photo
+  url: hlamkin-2.jpg
+  sort_order: 100
+  width: 621
+  height: 800

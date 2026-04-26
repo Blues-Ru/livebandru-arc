@@ -1,0 +1,19 @@
+id: 519
+token: moscow-jazz-messengers
+name: Московские Посланцы Джаза
+alive: true
+city_id: 1
+genre_id: 2
+reviews:
+- id: 177
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Об оркерстре
+  text: Оркестр "Московские Посланцы Джаза" - классический джазовый биг бэнд, состоящий
+    из 19 человек. В составе оркестра лучшие музыканты России, участники известных
+    джазовых и эстрадных коллективов, лауреаты всероссийских и международных конкурсов
+    и фестивалей.
+  verified: true
+  created: '2011-08-07'
+  is_press_release: true

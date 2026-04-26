@@ -1,0 +1,24 @@
+- id: 65841
+  date: '2018-02-15'
+  time: '19:00'
+  band_name: Олег Киреев (саксофон) и Ансамбль камерного джаза Олега Киреева с программой
+    "Гиганты джаза"
+  club_id: 786
+  club_name: Камерный зал Филармонии
+  club_token: kamernyj-zal-filarmonii
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 65842
+  date: '2018-04-12'
+  time: '19:00'
+  band_name: Олег Киреев (саксофон) и Ансамбль камерного джаза Олега Киреева с программой
+    "Мастера джазового фортепиано"
+  club_id: 786
+  club_name: Камерный зал Филармонии
+  club_token: kamernyj-zal-filarmonii
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev

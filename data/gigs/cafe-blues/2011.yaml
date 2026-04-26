@@ -1,0 +1,459 @@
+- id: 14875
+  date: '2011-01-21'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: '200'
+- id: 14888
+  date: '2011-01-15'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 15260
+  date: '2011-02-18'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 15625
+  date: '2011-04-09'
+  time: '22:00'
+  band_name: Джазовый блюз Алексея Кузнецова, Павел Козлов
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 16218
+  date: '2011-03-04'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 17087
+  date: '2011-03-26'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: '200'
+- id: 18669
+  date: '2011-05-14'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 18885
+  date: '2011-05-13'
+  time: '22:00'
+  band_name: Blues Party Band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 18899
+  date: '2011-05-20'
+  time: '22:00'
+  band_name: Петрович и Hot Rod Band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 18900
+  date: '2011-05-21'
+  time: '22:00'
+  band_name: Salt Peanutz
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  extra_bands:
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+- id: 18901
+  date: '2011-05-27'
+  time: '22:00'
+  band_name: Back to the Future
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 18902
+  date: '2011-05-28'
+  time: '22:00'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 18859
+  date: '2011-05-06'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 19911
+  date: '2011-06-17'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 20627
+  date: '2011-07-01'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 20894
+  date: '2011-07-15'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 20921
+  date: '2011-08-12'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 21750
+  date: '2011-09-23'
+  time: '22:00'
+  band_name: Дмитрий Новокольский с "Apple Jack"
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+  extra_bands:
+  - id: 537
+    name: Дмитрий Новокольский
+    token: dmitry-novokolsky
+  - id: 102
+    name: Apple Jack
+    token: apple-jack
+- id: 23058
+  date: '2011-11-03'
+  time: '22:00'
+  band_name: Шоу-Дуэт "Кадры"
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23059
+  date: '2011-11-04'
+  time: '22:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23060
+  date: '2011-11-11'
+  time: '22:00'
+  band_id: 102
+  band_name: Apple Jack
+  band_token: apple-jack
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23061
+  date: '2011-11-12'
+  time: '22:00'
+  band_id: 93
+  band_name: Blues Party Orchestra
+  band_token: blues-party
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23062
+  date: '2011-11-18'
+  time: '22:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23063
+  date: '2011-11-19'
+  time: '22:00'
+  band_id: 405
+  band_name: White Hound Blues Band
+  band_token: whbb
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23064
+  date: '2011-11-25'
+  time: '22:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23065
+  date: '2011-11-26'
+  time: '22:00'
+  band_name: Back To The Future
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 23066
+  date: '2011-11-13'
+  time: '20:30'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 23067
+  date: '2011-11-20'
+  time: '20:30'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 23068
+  date: '2011-11-27'
+  time: '20:30'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 21979
+  date: '2011-10-01'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22042
+  date: '2011-10-21'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 22438
+  date: '2011-10-07'
+  time: '22:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22440
+  date: '2011-10-14'
+  time: '22:00'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22441
+  date: '2011-10-15'
+  time: '22:00'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22443
+  date: '2011-10-28'
+  time: '22:00'
+  band_name: Limmo
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22460
+  date: '2011-10-16'
+  time: '20:00'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 22461
+  date: '2011-10-23'
+  time: '20:00'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 22462
+  date: '2011-10-30'
+  time: '22:00'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 22463
+  date: '2011-11-06'
+  time: '20:00'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 22442
+  date: '2011-10-22'
+  time: '22:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 22585
+  date: '2011-11-05'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 22439
+  date: '2011-10-08'
+  time: '22:00'
+  band_name: Виниловый Паровоз
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 24059
+  date: '2011-12-16'
+  time: '22:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 24060
+  date: '2011-12-21'
+  time: '20:00'
+  band_name: Открытый блюзовый джем
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+  comments: Михаил Кистанов, Евгений Кудряшов, Влад Бабанов, Софи Челидзе, Виталий
+    Татаринов, Ксения Федулова, Дима Мирный, Анна Парагис, Кирилл Степурко, Сергей
+    Спицын...
+- id: 24061
+  date: '2011-12-23'
+  time: '22:00'
+  band_name: Limmo
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 24062
+  date: '2011-12-24'
+  time: '22:00'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 24058
+  date: '2011-12-14'
+  time: '20:00'
+  band_name: Открытый блюзовый джем
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+  comments: Михаил Кистанов, Евгений Кудряшов, Влад Бабанов, Софи Челидзе, Виталий
+    Татаринов, Ксения Федулова, Дима Мирный, Анна Парагис, Кирилл Степурко, Сергей
+    Спицын...

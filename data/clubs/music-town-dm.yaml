@@ -1,0 +1,14 @@
+id: 102
+token: music-town-dm
+name: Music Town (Дмитровка)
+alive: false
+address: ул. Б.Дмитровка, 11
+subway: Пушкинская, Охотный ряд
+phone: 937-5419
+city_id: 1
+clips:
+- id: 34
+  type: weblink
+  url: http://www.musictownclub.ru
+  name: Официальный сайт
+  sort_order: 0

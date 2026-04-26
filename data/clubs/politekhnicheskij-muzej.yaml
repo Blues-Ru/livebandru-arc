@@ -1,0 +1,17 @@
+id: 526
+token: politekhnicheskij-muzej
+name: Политехнический музей
+aliases: 'Политех
+
+  Подъезд №9'
+alive: true
+address: пл. Новая, 3/4
+subway: Китай-Город, Лубянка
+phone: +7(495)623-6916, 623-6916
+city_id: 1
+clips:
+- id: 2794
+  type: weblink
+  url: http://www.polymus.ru/
+  name: Официальный сайт
+  sort_order: 0

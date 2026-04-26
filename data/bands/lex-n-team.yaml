@@ -1,0 +1,22 @@
+id: 80
+token: lex-n-team
+name: Lex & Team
+aliases: 'Алексей Блохин
+
+  Lex и команда'
+alive: true
+url: http://www.lexmusic.su/
+city_id: 1
+genre_id: 8
+clips:
+- id: 1890
+  type: weblink
+  url: http://www.lexmusic.su/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2021
+  type: photo
+  url: lex-n-team.jpg
+  sort_order: 0
+  width: 150
+  height: 150

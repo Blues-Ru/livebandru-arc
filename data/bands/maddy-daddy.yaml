@@ -1,0 +1,45 @@
+id: 393
+token: maddy-daddy
+name: Maddy Daddy Band
+alive: true
+city_id: 17
+genre_id: 1
+musicians:
+- name: Ксения Кручек
+  instruments: аккордеон, вокал
+- name: Федор Немцев
+  instruments: бас
+- name: Николай Пахомчик
+  instruments: ударные
+- name: Денис Балахонов
+  instruments: гитара, вокал, слайд-гитара, губная гармоника, казу, вошборд
+clips:
+- id: 1780
+  type: weblink
+  url: http://vk.com/club15431848
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1832
+  type: photo
+  url: maddy-daddy.jpg
+  sort_order: 0
+  width: 299
+  height: 450
+- id: 1859
+  type: photo
+  url: maddy-daddy-3.jpg
+  sort_order: 200
+  width: 675
+  height: 448
+- id: 1831
+  type: youtube
+  url: http://www.youtube.com/?v=GKlhpRVZxuE
+  name: My Girl Josephine
+  comments: Выступление 16 января 2011 года в кафе "Добрые мысли"
+  sort_order: 99
+- id: 1833
+  type: photo
+  url: maddy-daddy-2.jpg
+  sort_order: 100
+  width: 299
+  height: 450

@@ -1,0 +1,14 @@
+- id: 40187
+  date: '2013-11-30'
+  time: '21:00'
+  band_name: Joakim Tinderholt & The Jumping Cats
+  club_id: 733
+  club_name: Jack Rose Music & Cocktails Bar
+  club_token: jack-rose
+  extra_bands:
+  - id: 501
+    name: Joakim Tinderholt
+    token: joakim-tinderholt
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats

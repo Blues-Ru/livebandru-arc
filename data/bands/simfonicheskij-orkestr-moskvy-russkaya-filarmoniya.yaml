@@ -1,0 +1,27 @@
+id: 759
+token: simfonicheskij-orkestr-moskvy-russkaya-filarmoniya
+name: Симфонический оркестр Москвы "Русская филармония"
+alive: true
+url: http://www.orchestra.ru
+city_id: 1
+clips:
+- id: 8915
+  type: weblink
+  url: https://www.facebook.com/RussianPhilharmonic/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 8916
+  type: weblink
+  url: https://vk.com/russianphilharmonic
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 8917
+  type: weblink
+  url: https://www.instagram.com/russianphilharmonic
+  name: Instagram
+  sort_order: 300
+- id: 8909
+  type: weblink
+  url: http://www.orchestra.ru
+  name: Официальный сайт
+  sort_order: 0

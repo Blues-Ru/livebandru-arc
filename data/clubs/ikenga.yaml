@@ -1,0 +1,17 @@
+id: 144
+token: ikenga
+name: Икенга
+alive: true
+address: ул. Паустовского, 8
+subway: Ясенево
+city_id: 1
+clips:
+- id: 75
+  type: weblink
+  url: http://www.ikenga-club.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 77
+  type: rss
+  url: http://ikenga-blues.livejournal.com/data/rss
+  sort_order: 99

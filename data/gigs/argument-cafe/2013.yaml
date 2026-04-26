@@ -1,0 +1,26 @@
+- id: 33745
+  date: '2013-02-28'
+  time: '19:30'
+  band_name: 'Дуэтный концерт: Анастасия Глазкова (вокал) и Владимир Нестеренко (фортепиано)'
+  club_id: 665
+  club_name: Аргумент Кафе
+  club_token: argument-cafe
+  extra_bands:
+  - id: 76
+    name: Анастасия Глазкова
+    token: nastya-glazkova
+- id: 34118
+  date: '2013-02-21'
+  band_name: '"Джаз и не только..." Екатерина Черноусова'
+  club_id: 665
+  club_name: Аргумент Кафе
+  club_token: argument-cafe
+- id: 35453
+  date: '2013-04-25'
+  time: '19:30'
+  band_name: '"Фантазии в стиле джаз": Екатерина Черноусова (вокал, фортепьяно), Ростислав
+    Кошкин (гитара), Владимир Абышев (фортепьяно, вокал)'
+  club_id: 665
+  club_name: Аргумент Кафе
+  club_token: argument-cafe
+  price: 1000 руб.

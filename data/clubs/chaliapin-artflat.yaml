@@ -1,0 +1,14 @@
+id: 795
+token: chaliapin-artflat
+name: Chaliapin ArtFlat
+aliases: Дом-музей Ф.И. Шаляпина в Санкт-Петербурге
+alive: true
+address: Графтио ул. 2-б
+subway: Петроградская
+city_id: 2
+clips:
+- id: 6556
+  type: weblink
+  url: https://vk.com/shaliapinflat
+  name: Официальный сайт
+  sort_order: 0

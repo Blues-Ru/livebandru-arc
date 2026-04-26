@@ -1,0 +1,24 @@
+id: 441
+token: bederman
+name: Оркестр Интуитивной Музыки
+alive: true
+url: http://www.bederman.ru/
+city_id: 1
+genre_id: 11
+clips:
+- id: 2107
+  type: weblink
+  url: http://www.bederman.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2110
+  type: photo
+  url: bederman.jpg
+  sort_order: 0
+  width: 596
+  height: 319
+- id: 2108
+  type: weblink
+  url: http://vk.com/club4840468
+  name: Страница ВКонтакте
+  sort_order: 100

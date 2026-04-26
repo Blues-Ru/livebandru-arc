@@ -1,0 +1,15 @@
+- id: 17494
+  date: '2011-04-28'
+  time: '19:00'
+  band_name: Ахэс, Blind Harper (Москва)
+  club_id: 428
+  club_name: Дружище Мюллер
+  club_token: muller
+  price: 400 руб.
+  extra_bands:
+  - id: 424
+    name: Ахэс
+    token: athas
+  - id: 425
+    name: Blind Harper
+    token: blind-harper

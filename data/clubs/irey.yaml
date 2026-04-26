@@ -1,0 +1,13 @@
+id: 858
+token: irey
+name: Ирей
+alive: true
+address: ул. Ленина, 25
+phone: '+79787525437'
+city_id: 58
+clips:
+- id: 8048
+  type: weblink
+  url: http://rest-irey.ru/kontakty/
+  name: Официальный сайт
+  sort_order: 0

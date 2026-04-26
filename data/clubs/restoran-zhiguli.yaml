@@ -1,0 +1,13 @@
+id: 608
+token: restoran-zhiguli
+name: ресторан "Жигули"
+alive: true
+address: ул.Береговая, 35
+phone: 8(863)200-11-44
+city_id: 11
+clips:
+- id: 3438
+  type: weblink
+  url: http://zhiguli-rostov.ru/
+  name: Официальный сайт
+  sort_order: 0

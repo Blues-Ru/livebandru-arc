@@ -1,0 +1,733 @@
+- id: 15360
+  date: '2011-02-09'
+  time: '22:00'
+  band_name: Пинг-Понг
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15427
+  date: '2011-02-12'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15441
+  date: '2011-02-13'
+  time: '22:00'
+  band_name: The Reggaenauts
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15389
+  date: '2011-02-10'
+  time: '22:00'
+  band_name: СиЛя и "Выход"
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15397
+  date: '2011-02-11'
+  time: '22:00'
+  band_name: Botanic Project
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15704
+  date: '2011-02-25'
+  time: '22:00'
+  band_id: 205
+  band_name: Каберне Денев
+  band_token: cabernet-deneuve
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15719
+  date: '2011-02-26'
+  time: '22:00'
+  band_name: Klezmic Zircus (Бельгия)
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15636
+  date: '2011-02-20'
+  time: '22:00'
+  band_name: Унесенные ветки
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 15736
+  date: '2011-02-27'
+  time: '22:00'
+  band_name: ComPatriotes
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16012
+  date: '2011-03-16'
+  time: '22:00'
+  band_name: JW-Jones и The Jumping Cats
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  price: 400 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 392
+    name: JW-Jones
+    token: jw-jones
+- id: 16293
+  date: '2011-03-11'
+  time: '22:00'
+  band_id: 344
+  band_name: С.О.К.
+  band_token: s-o-k
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16334
+  date: '2011-03-12'
+  time: '22:00'
+  band_name: Аркадий Северный, Псой Короленко, Гарик Осипов, Кабаре Безумного Пьеро,
+    Klezmasters
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16266
+  date: '2011-03-09'
+  time: '22:00'
+  band_name: Дмитрий Дуче Бациев
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16282
+  date: '2011-03-10'
+  time: '22:00'
+  band_name: Йоп-Шоу
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16366
+  date: '2011-03-15'
+  time: '22:00'
+  band_name: Sun (Германия), Die Hard
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16393
+  date: '2011-03-17'
+  time: '22:00'
+  band_name: Pushkin
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16420
+  date: '2011-03-18'
+  time: '22:00'
+  band_name: Dubstepler
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16359
+  date: '2011-03-13'
+  time: '22:00'
+  band_name: Rapapam&Dubchikidub
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16363
+  date: '2011-03-14'
+  time: '22:00'
+  band_name: Братья По Разуму, Пора Кончать
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16461
+  date: '2011-03-20'
+  time: '22:00'
+  band_name: The Paisley, Merci
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16628
+  date: '2011-04-06'
+  time: '22:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16756
+  date: '2011-03-24'
+  time: '22:00'
+  band_name: Подвижники
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16709
+  date: '2011-03-21'
+  time: '22:00'
+  band_name: Inducers (Великобритания/Канада)
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16804
+  date: '2011-03-26'
+  time: '15:00'
+  band_name: Bye-Bye Hero
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16831
+  date: '2011-03-28'
+  time: '22:00'
+  band_name: Green Ice Cream, Оберманекн
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16716
+  date: '2011-03-22'
+  time: '22:00'
+  band_name: Kishkin' Zhar, Стереозавр
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16728
+  date: '2011-03-23'
+  time: '22:00'
+  band_name: Дети курят
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16842
+  date: '2011-03-29'
+  time: '22:00'
+  band_name: Вера Сажина
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16779
+  date: '2011-03-25'
+  time: '22:00'
+  band_name: Конвисер & Мптри
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16792
+  date: '2011-03-26'
+  time: '22:00'
+  band_name: Sex Type Thing, BrandBand, Evil Cosmonaut
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16827
+  date: '2011-03-27'
+  time: '22:00'
+  band_name: Поиск сети
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 16865
+  date: '2011-03-31'
+  time: '22:00'
+  band_name: Адо
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17307
+  date: '2011-04-10'
+  time: '22:00'
+  band_name: Эллис Бэнд
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17266
+  date: '2011-04-08'
+  time: '22:00'
+  band_name: The Mutants (Финляндия), The Vivisectors
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17282
+  date: '2011-04-09'
+  time: '22:00'
+  band_id: 205
+  band_name: Каберне Денев
+  band_token: cabernet-deneuve
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17187
+  date: '2011-04-04'
+  time: '22:00'
+  band_name: Пограничное состояние
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17197
+  date: '2011-04-05'
+  time: '22:00'
+  band_name: Usssy
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17513
+  date: '2011-04-12'
+  time: '22:00'
+  band_name: C.L.O.N.E., Marc Munoz
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  extra_bands:
+  - id: 262
+    name: C.L.O.N.E.
+    token: clone
+- id: 17539
+  date: '2011-04-14'
+  time: '22:00'
+  band_name: Вася Ложкин рокындролль бенд
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17552
+  date: '2011-04-15'
+  time: '22:00'
+  band_name: Blackmailers
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  extra_bands:
+  - id: 40
+    name: Blackmailers Rekord Orkestr
+    token: blackmailers
+- id: 17609
+  date: '2011-04-16'
+  time: '22:00'
+  band_name: The Stone Shades
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17620
+  date: '2011-04-17'
+  time: '22:00'
+  band_name: Sound of Ground
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17870
+  date: '2011-04-19'
+  time: '22:00'
+  band_name: Induсers (UK, Canada)
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17857
+  date: '2011-04-18'
+  time: '22:00'
+  band_name: Бром, Рудольф
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17918
+  date: '2011-04-20'
+  time: '22:00'
+  band_name: Слеза комсомолки
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17960
+  date: '2011-04-22'
+  time: '22:00'
+  band_name: Йоп-Шоу
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17937
+  date: '2011-04-21'
+  time: '22:00'
+  band_name: Чё-Морале
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 17989
+  date: '2011-04-23'
+  time: '22:00'
+  band_name: МультFильмы
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18143
+  date: '2011-04-25'
+  time: '22:00'
+  band_name: Владимир Рацкевич, Mushroom Killers
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18162
+  date: '2011-04-27'
+  time: '22:00'
+  band_name: Братья по разуму
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18182
+  date: '2011-04-28'
+  time: '22:00'
+  band_name: Черный Лукич
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18206
+  date: '2011-04-29'
+  time: '22:00'
+  band_name: Керамика
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18537
+  date: '2011-04-26'
+  time: '22:00'
+  band_name: Стереозавр, 4Пыль
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18628
+  date: '2011-05-01'
+  time: '22:00'
+  band_id: 111
+  band_name: Кимбата
+  band_token: kimbata
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18716
+  date: '2011-05-13'
+  time: '22:00'
+  band_name: Botanic Project (BY), Bravos Pepinos, Вкусный
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18748
+  date: '2011-05-15'
+  time: '22:00'
+  band_name: The Reggaenauts
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18861
+  date: '2011-05-06'
+  time: '22:00'
+  band_name: Klezmasters
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18867
+  date: '2011-05-08'
+  time: '22:00'
+  band_name: Герберт Моралес
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18875
+  date: '2011-05-10'
+  time: '22:00'
+  band_name: Right Habit, Скобки Пуассона
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18877
+  date: '2011-05-11'
+  time: '22:00'
+  band_name: Goat's Notes
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18586
+  date: '2011-05-04'
+  time: '22:00'
+  band_name: Dяst
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18604
+  date: '2011-05-07'
+  time: '22:00'
+  band_id: 344
+  band_name: С.О.К.
+  band_token: s-o-k
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18967
+  date: '2011-05-12'
+  time: '22:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 18973
+  date: '2011-05-17'
+  time: '22:00'
+  band_name: Вера Сажина, Сергей Летов, Святослав Пономарев
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19130
+  date: '2011-05-18'
+  time: '22:00'
+  band_name: Ермен Анти
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19147
+  date: '2011-05-20'
+  time: '22:00'
+  band_id: 354
+  band_name: Карл Хламкин и ОгнеОпаснОркестр
+  band_token: hlamkin
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19167
+  date: '2011-05-21'
+  time: '20:00'
+  band_name: Фестиваль Funky Victory
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19292
+  date: '2011-05-14'
+  time: '22:00'
+  band_name: Soul Message
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19298
+  date: '2011-05-16'
+  time: '22:00'
+  band_name: The Dead Entertainer, Die Hard, Idiorhythmik
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19188
+  date: '2011-05-22'
+  time: '22:00'
+  band_name: Антон Вербицкий
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19559
+  date: '2011-05-30'
+  time: '22:00'
+  band_name: Мазур и Куприянчик, Специалисты
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19578
+  date: '2011-06-03'
+  time: '22:00'
+  band_id: 183
+  band_name: Залив Кита
+  band_token: zaliv-kita
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19567
+  date: '2011-05-31'
+  time: '22:00'
+  band_name: Дикие лесные гитары
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19576
+  date: '2011-06-01'
+  time: '22:00'
+  band_name: Teenage Mixtape
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19787
+  date: '2011-05-24'
+  time: '22:00'
+  band_name: Театр яда
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19518
+  date: '2011-05-26'
+  time: '22:00'
+  band_name: Vivisectors, Freddie & The Drillers, Bamboo Boogie Boots
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19530
+  date: '2011-05-27'
+  time: '22:00'
+  band_name: Василий Шумов и группа Центр
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19543
+  date: '2011-05-28'
+  time: '22:00'
+  band_name: Растение мудрости
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19554
+  date: '2011-05-29'
+  time: '22:00'
+  band_name: Птичкин Лес
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19614
+  date: '2011-06-04'
+  time: '22:00'
+  band_name: Lazarou (UK, IR, AUS)
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 19620
+  date: '2011-06-05'
+  time: '22:00'
+  band_name: Azat Sound System
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 20150
+  date: '2011-06-08'
+  time: '22:00'
+  band_name: Земляничная поляна
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 20183
+  date: '2011-06-10'
+  time: '21:00'
+  band_name: Stone Shades
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 20210
+  date: '2011-06-13'
+  time: '22:00'
+  band_name: Кооператив Ништяк
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 20898
+  date: '2011-07-31'
+  time: '20:00'
+  band_name: Max Tavrichesky
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  price: 200 руб.
+  comments: "акустический блюз, буги, рок-н-ролл\r\nmaxtavrichesky.livejournal.com\r\
+    \nvkontakte.ru/club12641623"
+  extra_bands:
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+- id: 23044
+  date: '2011-11-30'
+  time: '22:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  price: 250 руб.
+  comments: 'Участников "PsycheDelta Blues Band " собрала вместе любовь к дельта-блюзу
+    и выросшему из него чикагскому блюзу пятидесятых - музыке, обладающей собственной
+    неповторимой притягательностью, которую современный блюз, находящийся под сильным
+    влиянием рока, практически утратил. В чем же здесь секрет? Похоже, музыкантам
+    "Психодельты" удалось найти ответ: все дело в движении, которым полны традиционные
+    блюзовые ритмы: шаффл, буги, диддли-бо, румба-блюз. Сыгранная правильно и с душой,
+    эта музыка становится по-настоящему живой: она как будто дышит и вибрирует, раскачивается
+    на месте или чуть-чуть ускоряется, вовлекая музыкантов и слушателей в единый энергетический
+    поток. Эта вибрация - идеальное средство для передачи энергии и чувства со сцены
+    в зал и обратно; сами же музыканты говорят просто: "качает" или "не качает", и
+    все понятно без лишних слов. Но не менее важны песни, которые "Психодельта" исполняет:
+    чудесные народные, отобранные многими поколениями блюзменов, или же авторские
+    вещи, тоже давно вошедшие в традицию. Лаконичные блюзовые тексты оказываются на
+    удивление многоплановыми: большая их часть, как полагается, повествует о любовных
+    страданиях, причем эмоции варьируются от тихой грусти до яростного выяснения отношений,
+    но есть в них и радость, и ирония, и надежда на лучшее, и всегда -  чувство собственного
+    достоинства. "Блюз может дойти до грани истерики, но, в отличие от рока, никогда
+    ее не переходит, - говорит певица и идеолог группы Тамара Зарицкая. - Вообще все
+    эти песни на самом деле про меня. Это истории из нашей жизни или слова, которые
+    я бы хотела кому-то сказать, но по разным причинам не могу. Здорово, что есть
+    куда все это излить, такой драйв получается! А иногда так тянет повыть, как Хаулин
+    Вулф - где еще такое возможно?". Еще одна важнейшая составляющая этой музыки -
+    импровизация. Все музыканты группы немного импровизируют по ходу исполнения: расходятся,
+    обыгрывая разные ритмические рисунки, сходятся вместе на риффах или отвечают друг
+    другу, но настоящая возможность проявить себя - это, конечно, инструментальные
+    соло. В отличие от большинства блюзовых групп,  "Психодельта" опирается не на
+    гитару, а на духовую секцию: губную гармонику и саксофон. Каждый инструменталист
+    не только добавляет в общий звук свой характер и индивидуальную манеру, но и "раскрашивает"
+    его в соответствии со своими музыкальными предпочтениями: в саксофонных соло  Андрея
+    Калинина заметно влияние джаза и фанка,  акустическая гитара Эстеля ближе к этнике,
+    ну а харпер Сот - обладатель чистейшей фолк-блюзовой манеры.  Все вместе, поддержанные
+    мощной и аутентичной ритм-секцией, они рассказывают свои музыкальные истории каждый
+    раз по-разному, но всегда с ощущением живого драйва и неподдельного блюза.'
+- id: 23851
+  date: '2011-12-03'
+  time: '22:00'
+  band_name: Ива Нова
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23875
+  date: '2011-12-04'
+  time: '22:00'
+  band_name: Хельга Патаки
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23882
+  date: '2011-12-05'
+  time: '22:00'
+  band_name: Рубиновый вторник, Недостает
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23896
+  date: '2011-12-06'
+  time: '22:00'
+  band_name: Asian Women on the Telephone, Die Hard
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23914
+  date: '2011-12-07'
+  time: '22:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23818
+  date: '2011-12-02'
+  time: '22:00'
+  band_name: Баба
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+- id: 23825
+  date: '2011-12-03'
+  time: '18:00'
+  band_name: Ян Качер (Чехия)
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi

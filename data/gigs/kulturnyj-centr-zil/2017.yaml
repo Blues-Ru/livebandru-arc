@@ -1,0 +1,19 @@
+- id: 64186
+  date: '2017-03-18'
+  time: '12:00'
+  band_name: BabyConcert - концерт саксофонного квартета Sax Masters Quartet
+  club_id: 867
+  club_name: Культурный центр "ЗИЛ"
+  club_token: kulturnyj-centr-zil
+- id: 64187
+  date: '2017-04-14'
+  time: '19:00'
+  band_name: 'Концерт к 100-летию Эллы Фитцджеральд: Fantine (вокал, США), Игорь Бутман
+    (саксофон), Московский джазовый оркестр'
+  club_id: 867
+  club_name: Культурный центр "ЗИЛ"
+  club_token: kulturnyj-centr-zil
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman

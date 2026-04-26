@@ -1,0 +1,14 @@
+id: 900
+token: kulturnyj-centr-stimul
+name: Культурный центр "Стимул"
+alive: true
+address: Сибирский проезд, д. 2, стр. 5
+subway: Пролетарская
+phone: +7(495)670-63-20
+city_id: 1
+clips:
+- id: 9070
+  type: weblink
+  url: http://www.dkstimul.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,14 @@
+- id: 12571
+  date: '2010-09-11'
+  time: '19:00'
+  band_name: Blackmailers Rekord Orkestr и Markscheider Kunst
+  club_id: 207
+  club_name: Бархат
+  club_token: barhat
+  extra_bands:
+  - id: 40
+    name: Blackmailers Rekord Orkestr
+    token: blackmailers
+  - id: 166
+    name: Markscheider Kunst
+    token: mkunst

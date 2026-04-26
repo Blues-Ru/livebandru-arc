@@ -1,0 +1,337 @@
+- id: 13367
+  date: '2010-11-01'
+  time: '20:30'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13370
+  date: '2010-11-02'
+  time: '20:30'
+  band_name: Квартет Николая Левиновского
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13375
+  date: '2010-11-03'
+  time: '20:30'
+  band_name: Анатолий Текучев (вибрафон) и квартет
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13402
+  date: '2010-11-04'
+  time: '20:30'
+  band_name: Антон Горбунов, "День творчества", Моше Янковский (перкуссия, Израиль),
+    Джейк Писак (гитара, Израиль)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13445
+  date: '2010-11-08'
+  time: '20:30'
+  band_name: Биг-бенд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 13612
+  date: '2010-11-11'
+  time: '20:30'
+  band_name: Laya Bam Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13663
+  date: '2010-11-17'
+  time: '20:30'
+  band_name: Трио Игоря Райхельсона, Квинтет Вадима Эйленкрига
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13669
+  date: '2010-11-18'
+  time: '20:30'
+  band_name: Игорь Бутман, Ансамбль "Эрмитаж"
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 13676
+  date: '2010-11-19'
+  time: '20:30'
+  band_name: Трио Антона Баронина, Джаз-бас-театр Алекса Ростоцкого
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 13683
+  date: '2010-11-20'
+  time: '20:30'
+  band_name: Трио Валерия Гроховского, Виталий Соломонов (контрабас) и струнный квартет
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13698
+  date: '2010-11-22'
+  time: '20:30'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 13709
+  date: '2010-11-25'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13714
+  date: '2010-11-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13726
+  date: '2010-11-27'
+  time: '20:30'
+  band_name: Трио Олега Бутмана, Наталья Смирнова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13731
+  date: '2010-11-28'
+  time: '20:30'
+  band_name: Frank Lacy (вокал, тромбон, США), Трио Владимира Нестеренко
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13736
+  date: '2010-11-29'
+  time: '20:30'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 13740
+  date: '2010-11-30'
+  time: '20:30'
+  band_name: Иннокентий Иванов (вибрафон)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13423
+  date: '2010-11-06'
+  time: '20:30'
+  band_name: Тай Стефенс (вокал, США), Jazz Passion
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13410
+  date: '2010-11-05'
+  time: '20:30'
+  band_name: Marimba Plus
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13634
+  date: '2010-11-13'
+  time: '20:30'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13608
+  date: '2010-11-10'
+  time: '20:30'
+  band_name: Jazz Dance Orchestra
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13622
+  date: '2010-11-12'
+  time: '20:30'
+  band_name: Kimberly Davis (вокал), Jazz Passion
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13659
+  date: '2010-11-16'
+  time: '20:30'
+  band_name: Оксана Михайловская (вокал), Яков Окунь (рояль)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13701
+  date: '2010-11-23'
+  time: '20:30'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13703
+  date: '2010-11-24'
+  time: '20:30'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14022
+  date: '2010-12-07'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14044
+  date: '2010-12-09'
+  time: '20:30'
+  band_name: Иван Фармаковский, Дмитрий Мосьпан
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 14070
+  date: '2010-12-11'
+  time: '20:30'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14086
+  date: '2010-12-12'
+  time: '20:30'
+  band_name: Наталья Дмитришина (вокал)
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 13995
+  date: '2010-12-03'
+  time: '20:30'
+  band_name: Вадим Эйленкриг и квинтет
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14187
+  date: '2010-12-25'
+  time: '20:30'
+  band_name: Jazz Passion
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14152
+  date: '2010-12-20'
+  time: '20:30'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 14052
+  date: '2010-12-10'
+  time: '20:30'
+  band_name: Cinema Jazz Awards
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14459
+  date: '2010-12-15'
+  time: '20:30'
+  band_name: Квартет Никиты Кана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14460
+  date: '2010-12-13'
+  time: '20:30'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 14461
+  date: '2010-12-22'
+  time: '20:30'
+  band_name: Orchestra 2.0
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14462
+  date: '2010-12-26'
+  time: '20:30'
+  band_name: Алексей Николаев (саксофон), Иван Фармаковский (рояль), Old Friends Band
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 14430
+  date: '2010-12-10'
+  time: '20:00'
+  band_name: Биг-бэнд Игоря Бутмана
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 14429
+  date: '2010-12-23'
+  time: '20:00'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka
+- id: 14431
+  date: '2010-12-27'
+  time: '20:00'
+  band_name: Квартет Алексея Кузнецова
+  club_id: 143
+  club_name: Клуб Игоря Бутмана
+  club_token: butman-club-taganka

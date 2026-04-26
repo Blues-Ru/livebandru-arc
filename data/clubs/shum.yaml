@@ -1,0 +1,20 @@
+id: 333
+token: shum
+name: Шум
+aliases: Клуб Шум
+alive: true
+address: 5-я Советская ул., д.45
+subway: Площадь Восстания
+phone: (812)946-89-69
+city_id: 2
+clips:
+- id: 1318
+  type: weblink
+  url: http://www.pamelaclub.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 1319
+  type: weblink
+  url: http://vk.com/club13211410
+  name: Страница ВКонтакте
+  sort_order: 199

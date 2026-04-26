@@ -1,0 +1,28 @@
+id: 274
+token: d11
+name: D11 Blues Band
+alive: true
+url: http://d11.lv/
+city_id: 61
+genre_id: 1
+clips:
+- id: 896
+  type: weblink
+  url: http://d11.lv/
+  name: Официальный сайт
+  sort_order: 99
+- id: 897
+  type: youtube
+  url: http://www.youtube.com/?v=LOtSDJIP8RQ
+  name: D11 BLUES BAND @ Sigulda Blues Festival 2010
+  sort_order: 99
+- id: 898
+  type: weblink
+  url: http://www.myspace.com/d11bluesband
+  name: Страница на MySpace
+  sort_order: 199
+- id: 1520
+  type: weblink
+  url: http://twitter.com/d11bluesband
+  name: Твиттер @d11bluesband
+  sort_order: 299

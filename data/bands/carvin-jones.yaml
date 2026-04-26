@@ -1,0 +1,55 @@
+id: 740
+token: carvin-jones
+name: Carvin Jones
+aliases: Carvin Jones Band
+alive: true
+city_id: 13
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Carvin Jones
+  instruments: guitar, vocal
+clips:
+- id: 8847
+  type: photo
+  url: carvin-jones.png
+  name: Carvin Jones
+  sort_order: 0
+  width: 1440
+  height: 1531
+- id: 8830
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 488
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец Техаса, выросший в Фениксе, Аризона, европейский житель, гитарист-виртуоз,
+    шоумен и певец CARVIN JONES впитал госпел, соул и блюз, что называется, с молоком
+    матери. Еще подростком он выбрал для себя единственно возможную карьеру - неутомимого
+    гастролера-блюзмена. В бесконечных турах по Техасу и Аризоне, позднее по всем
+    Штатам и в Европе, Карвин отточил мастерство гитариста и обратил не себя внимание
+    не только критиков и публики, но старших коллег по цеху, заслужив восторженные
+    отзывы Эрика Клэптона, Алберта Коллинза, Бадди Майлза. В январе 2001 года журнал
+    Guitarist опубликовал Top 50 greatest Blues Guitarist who Ever Walked the Earth
+    и включил в этот престижный список Карвина Джонса и сопроводил высказываниями
+    о нем великих блюзменов. "Carvin Jones is a young cat out of Phoenix who I think
+    is the next up-and-coming blues player" - Eric Clapton "Carvin Jones is one of
+    the brightest young stars on the blues scene today" - Albert Collins "The New
+    King of Strings is Carvin Jones" - Buddy Miles
+
+
+    Карвин Джонс выступает и записывается в формате блюз-пауэр-трио и регулярно выпускает
+    альбомы первосортного качества. Треки с альбомов I''m What You Need и The Carvinator
+    много ротировались на американских и европейских радиостанциях. А концертный DVD
+    Carvin Jones Band - Proximamente - Live in Spain, записанный испанской телекомпанией,
+    стал международным бестселлером. Последний блюз-роковый альбом "What a Good Day!"
+    вышел в январе 2018 года и быстро набирает популярность.
+
+
+    Карвин "Carvinator" Джонс приезжает в Россию впервые! Не пропустите!'
+  verified: true
+  created: '2018-01-23'
+  is_press_release: true

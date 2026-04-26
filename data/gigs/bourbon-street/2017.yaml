@@ -1,0 +1,58 @@
+- id: 63146
+  date: '2017-02-01'
+  time: '20:30'
+  band_name: Dr. Nick, винилка Leonard Cohen
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63152
+  date: '2017-02-15'
+  time: '20:30'
+  band_name: Dr. Nick, винилка Ac/Dc
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63158
+  date: '2017-02-25'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+- id: 63156
+  date: '2017-02-22'
+  time: '20:30'
+  band_name: Dr. Nick, винилка David Geffen
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 63149
+  date: '2017-02-08'
+  time: '20:30'
+  band_name: Dr. Nick, винилка Pink Floyd 77-79
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick

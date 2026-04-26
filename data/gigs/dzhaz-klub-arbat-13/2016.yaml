@@ -1,0 +1,199 @@
+- id: 58826
+  date: '2016-05-18'
+  time: '19:00'
+  band_id: 642
+  band_name: Татьяна Михина
+  band_token: tatyana-mikhina
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58827
+  date: '2016-05-20'
+  time: '19:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 1000 руб.
+- id: 58828
+  date: '2016-05-21'
+  time: '19:00'
+  band_name: Ангелина Сергеева
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 500
+- id: 58829
+  date: '2016-05-22'
+  time: '19:00'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58830
+  date: '2016-05-24'
+  time: '19:00'
+  band_name: Ансамбль Юность
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 700 руб.
+- id: 58831
+  date: '2016-05-25'
+  time: '19:00'
+  band_name: Максим Пиганов
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58833
+  date: '2016-05-28'
+  time: '20:00'
+  band_name: Арина Риц
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 800
+- id: 58834
+  date: '2016-05-29'
+  time: '19:00'
+  band_name: Марк Юсим
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58838
+  date: '2016-06-29'
+  time: '19:00'
+  band_name: Elena et les garcons
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 700 руб.
+- id: 58839
+  date: '2016-07-01'
+  time: '19:00'
+  band_name: Laya Bam Band, Майя Месхадзе
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 600
+  extra_bands:
+  - id: 474
+    name: Laya Bam Band
+    token: laya-bam-band
+- id: 58840
+  date: '2016-07-15'
+  time: '19:00'
+  band_name: Наталья Сидорцова
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 1000 руб.
+- id: 58820
+  date: '2016-06-01'
+  time: '19:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 1000 руб.
+  comments: Билеты на сайте www.jazzuniverse.ru
+- id: 58832
+  date: '2016-05-31'
+  time: '19:00'
+  band_name: Никита Кана
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58835
+  date: '2016-06-24'
+  time: '19:00'
+  band_name: Левон Оганезов и Алла Лазаревич
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 1500
+- id: 58836
+  date: '2016-06-12'
+  time: '19:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 700 руб.
+- id: 58837
+  date: '2016-06-28'
+  time: '19:00'
+  band_name: Jazz Forever Band
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 500
+- id: 58821
+  date: '2016-06-04'
+  time: '19:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 1000 руб.
+- id: 58822
+  date: '2016-05-11'
+  time: '19:00'
+  band_id: 256
+  band_name: Laber Band
+  band_token: laber-band
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 58823
+  date: '2016-05-12'
+  time: '19:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 1000 руб.
+- id: 58824
+  date: '2016-05-17'
+  time: '19:00'
+  band_name: Fancy Jazzers
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: от 300
+- id: 58825
+  date: '2016-05-18'
+  time: '19:00'
+  band_id: 642
+  band_name: Татьяна Михина
+  band_token: tatyana-mikhina
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 500 руб.
+- id: 59401
+  date: '2016-06-11'
+  time: '19:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 839
+  club_name: Джаз Клуб "Арбат 13"
+  club_token: dzhaz-klub-arbat-13
+  price: 700 руб.

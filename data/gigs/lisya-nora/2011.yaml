@@ -1,0 +1,22 @@
+- id: 20160
+  date: '2011-06-21'
+  time: '19:30'
+  band_id: 393
+  band_name: Maddy Daddy Band
+  band_token: maddy-daddy
+  club_id: 171
+  club_name: Лисья нора
+  club_token: lisya-nora
+  price: 40 тыс.
+- id: 22387
+  date: '2011-10-05'
+  time: '19:00'
+  band_name: The Road Dogs. Концерт памяти легенды белорусского блюза - Евгения Коновалова
+  club_id: 171
+  club_name: Лисья нора
+  club_token: lisya-nora
+  price: 50 000
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs

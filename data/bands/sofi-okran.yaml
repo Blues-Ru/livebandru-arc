@@ -1,0 +1,52 @@
+id: 327
+token: sofi-okran
+name: Софи Окран
+aliases: Sofi Okran
+alive: true
+url: http://sofiokran.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 7
+clips:
+- id: 1226
+  type: rss
+  url: http://www.livejournal.com/users/sofi_okran/data/rss
+  sort_order: 99
+- id: 1228
+  type: weblink
+  url: http://myspace.com/sofiokran
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1227
+  type: photo
+  url: sofi-okran.jpg
+  sort_order: 0
+  width: 133
+  height: 240
+- id: 1229
+  type: weblink
+  url: http://sofiokran.ru/
+  name: Официальный сайт
+  sort_order: 199
+- id: 1230
+  type: weblink
+  url: http://vk.com/club12895122
+  name: Страница ВКонтакте
+  sort_order: 299
+- id: 1231
+  type: weblink
+  url: http://www.facebook.com/pages/Klub-poklonnikov-tvorcestva-Sofi-Okran/167885430977
+  name: Страница на FaceBook
+  sort_order: 399
+- id: 1232
+  type: youtube
+  url: http://www.youtube.com/?v=h-KCfA55aow
+  name: Sofi Okran - Софи Окран - I Got You Man
+  comments: Выступление в клубе "Рэй" в феврале 2010 года
+  sort_order: 99
+- id: 1233
+  type: youtube
+  url: http://www.youtube.com/?v=uyc11DT1-is
+  name: Sofi Okran - Софи Окран - I Don't Need No Doctor
+  comments: Выступление в клубе "Рэй" в феврале 2010 года
+  sort_order: 50

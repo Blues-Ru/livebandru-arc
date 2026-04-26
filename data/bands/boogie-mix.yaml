@@ -1,0 +1,106 @@
+id: 385
+token: boogie-mix
+name: Александр Паклин & Boogie Mix
+alive: true
+url: http://www.liveband.ru/band/boogie-mix/
+city_id: 38
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Юрий Уральский
+  instruments: ударные
+- name: Александр Паклин
+  instruments: вокал, харп
+- name: Алексей Тимонин
+  instruments: гитара
+- name: Раф Зульфигаров
+  instruments: бас, бэк-вокал
+- name: Игорь Борискин
+  instruments: ударные
+clips:
+- id: 4018
+  type: weblink
+  url: http://www.liveband.ru/band/boogie-mix/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1675
+  type: youtube
+  url: http://www.youtube.com/?v=wZst6iwI330
+  name: Hey Justine
+  comments: Alex Paclin, 2011
+  sort_order: 99
+- id: 1672
+  type: weblink
+  url: http://vk.com/club17045449
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2282
+  type: youtube
+  url: http://www.youtube.com/?v=OdgvE4CM-Wk
+  name: Help Me
+  comments: Playing at "Mad Dog" live music club. Chelyabinsk, Russia 04/14/2011
+  sort_order: 50
+- id: 2355
+  type: youtube
+  url: http://www.youtube.com/?v=l1eLV_ZJEck
+  name: Пустые Холмы 2011 - Александр Паклин & Boogie Mix
+  comments: Фрагменты выступления Челябинского блюз-бэнда "Александр Паклин & Boogie
+    Mix" на международном фестивале свободного творчества "Пустые Холмы 2011" 11.06.2011
+  sort_order: 25
+- id: 2278
+  type: youtube
+  url: http://www.youtube.com/?v=DmLZXxfAngQ
+  name: Blues With A Feeling - Alex Paclin and the Perry Family Band
+  comments: "Alex Paclin and the Perry Family Band at Hill Country Harmonica II\r\n\
+    USA, North Mississippi\r\nFoxfire ranch, Sunday 5/22/2011"
+  sort_order: 199
+- id: 2479
+  type: youtube
+  url: http://www.youtube.com/?v=y3QF-1AF66g
+  name: Soul Flight
+  comments: "This is my cover on a song called \"Soul Flight\". Played on Seydel 1847\
+    \ circular tuning.\r\nIf you like it, please donate some money here, so my trip\
+    \ to United States in august would be a little easier f"
+  sort_order: 149
+- id: 2480
+  type: youtube
+  url: http://www.youtube.com/?v=i0Psybytt4g
+  name: Another Man Done Gone
+  comments: Alex Paclin & Boogie Mix, Harp Party, Jazz-club EverJazz, Yekaterinburg,
+    Russia, 08/19/2011
+  sort_order: 38
+- id: 2481
+  type: youtube
+  url: http://www.youtube.com/?v=WrsPYbj2fow
+  name: Miss Boogie
+  comments: Alex Paclin & Boogie Mix, Harp Party, Jazz-club EverJazz, Yekaterinburg,
+    Russia, 08/19/2011
+  sort_order: 44
+- id: 4025
+  type: photo
+  url: boogie-mix.jpg
+  sort_order: 0
+  width: 720
+  height: 565
+reviews:
+- id: 217
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Если коротко и без пафоса - мы просто играем блюз для людей с хорошим вкусом
+    и ироничным отношением к себе... и как истинные блюзмены, делаем это с удовольствием.
+    А если длинно и с пафосом, то... "Уникальность коллектива - в его лидере. Александр
+    Паклин, гармошечник, юный блюзовый гений - в свой 21 год зарекомендовал себя как
+    музыкант мирового уровня. Летом 2010 года Александра приглашал выступить на одной
+    сцене Bob Margolin http://www.bobmargolin.com (лидер-гитарист легендарного Muddy
+    Waters). А в мае 2011 года, Adam Gussow http://www.modernbluesharmonica.com приглашал
+    его на фестиваль Hill Country Harmonica в Mississippi, USA http://www.hillcountryharmonica.com.
+    Также, с апреля 2010 года, согласно статистике производителя губных гармоник Seydel
+    1847, Александр входит в число лучших губногармонистов мира и является эндорсером
+    этой компании. Подробная информация: http://www.seydel1847.de/epages/Seydel1847.sf/de_DE/?ObjectPath=/Shops/Seydel/Categories/Artists/Alle_Kuenstler/Alexander_Paclin1
+    В июне 2011 года группа успешно выступила на Международном фестивале свободного
+    творчества "Пустые Холмы" под Калугой (русский Вудсток) и Московском блюзовом
+    клубе "Дом у Дороги".'
+  verified: true
+  created: '2011-09-15'
+  is_press_release: true

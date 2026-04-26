@@ -1,0 +1,24 @@
+id: 777
+token: carlos-johnson
+name: Carlos Johnson
+alive: true
+city_id: 13
+genre_id: 1
+clips:
+- id: 10880
+  type: photo
+  url: carlos-johnson.jpg
+  sort_order: 0
+  width: 1600
+  height: 1200
+- id: 10881
+  type: youtube
+  url: https://www.youtube.com/watch?v=rvx5B7N0jTk
+  name: Carlos Johnson - The Healer
+  comments: Chicago Blues A Living History
+  sort_order: 0
+- id: 10882
+  type: weblink
+  url: https://en.wikipedia.org/wiki/Carlos_Johnson_(blues_musician)
+  name: Wikipedia
+  sort_order: 99

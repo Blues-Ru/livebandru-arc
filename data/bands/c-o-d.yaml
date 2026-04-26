@@ -1,0 +1,62 @@
+id: 299
+token: c-o-d
+name: City Of Dawn
+alive: true
+url: http://codband.at.ua/
+city_id: 14
+genre_id: 3
+musicians:
+- name: Алиса Подгайная
+  instruments: вокал
+- name: Виталий Дригола
+  instruments: гитара
+- name: Марк Дригола
+  instruments: бас-гитара
+- name: Виктория Дригола
+  instruments: клавишные
+- name: Александр Дригола
+  instruments: ударные
+clips:
+- id: 1049
+  type: mp3
+  url: http://files.realmusic.ru/download/429708/city_of_dawn_-_demony_roka.mp3
+  name: Демоны Рока
+  sort_order: 99
+- id: 1050
+  type: mp3
+  url: http://ps.org.ua/assets/artist/c/cod_city_of_dawn/staya.mp3
+  name: Стая
+  sort_order: 199
+- id: 1051
+  type: weblink
+  url: http://ps.org.ua/artist/cod_city_of_dawn/info
+  name: http://ps.org.ua/
+  sort_order: 99
+- id: 1052
+  type: youtube
+  url: http://www.youtube.com/?v=Mtd_SYhhREs
+  name: НА НЕБО
+  sort_order: 99
+- id: 1053
+  type: youtube
+  url: http://www.youtube.com/?v=bDUu-OLLOeQ
+  name: THE SONG OF THE BLACK SWAN
+  sort_order: 199
+- id: 1054
+  type: youtube
+  url: http://www.youtube.com/?v=MNmhWoldn9U
+  name: DAD FOR TWO
+  comments: ''
+  sort_order: 299
+- id: 1059
+  type: weblink
+  url: http://www.muz-prosvet.com/vb/archive/index.php/t-4438.html
+  name: страница в МУЗПРОСВЕТ
+  sort_order: 199
+- id: 1058
+  type: photo
+  url: c-o-d.jpg
+  name: 24 Апр, 2009
+  sort_order: 0
+  width: 604
+  height: 453

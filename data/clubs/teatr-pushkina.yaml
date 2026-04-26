@@ -1,0 +1,13 @@
+id: 801
+token: teatr-pushkina
+name: Театр Пушкина
+alive: true
+address: ул. Пушкина, д.13
+phone: +7(8112)72-80-22
+city_id: 60
+clips:
+- id: 6621
+  type: weblink
+  url: http://drampush.ru/
+  name: Официальный сайт
+  sort_order: 0

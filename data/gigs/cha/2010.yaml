@@ -1,0 +1,46 @@
+- id: 13231
+  date: '2010-10-15'
+  time: '19:00'
+  band_name: Лариса Григорьева и группа Apple Jack, Кукуруза, Country Saloon (Нижний
+    Новгород), Веселый дилижанс (Обнинск), Ирина Сурина, Зеленая лиса, Red Brick Project,
+    Booze Men
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  extra_bands:
+  - id: 102
+    name: Apple Jack
+    token: apple-jack
+  - id: 89
+    name: Кукуруза
+    token: kukuruza
+  - id: 287
+    name: Country Saloon
+    token: countrysaloon
+  - id: 289
+    name: Бэнджамин
+    token: band-jamin
+  - id: 255
+    name: Ирина Сурина
+    token: irina-surina
+  - id: 129
+    name: Зеленая Лиса
+    token: green-fox
+- id: 13435
+  date: '2010-11-07'
+  time: '19:00'
+  band_name: Квартет Ивана Смирнова
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  extra_bands:
+  - id: 321
+    name: Иван Смирнов
+    token: ivan-smirnov
+- id: 14131
+  date: '2010-12-18'
+  time: '19:00'
+  band_name: Рада Рай
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha

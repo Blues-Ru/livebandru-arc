@@ -1,0 +1,32 @@
+- id: 13323
+  date: '2010-10-23'
+  time: '17:00'
+  band_id: 297
+  band_name: New Day Blues Band
+  band_token: new-day-blues-band
+  club_id: 309
+  club_name: ДК ЗАлК
+  club_token: dk-zalk
+  price: $5
+  extra_bands:
+  - id: 304
+    name: Ап-Единение
+    token: ap-edinenie
+  - id: 303
+    name: The Blues Nephews
+    token: blues-nephews
+  - id: 301
+    name: AKA Blues Band
+    token: aka-blues-band
+  - id: 298
+    name: The Earth Sign
+    token: earth-sign
+  - id: 139
+    name: Bullet Blues Band
+    token: bullet-blues-band
+  - id: 167
+    name: Макс Таврический
+    token: max-tavrichesky
+  - id: 305
+    name: Grunsky Band
+    token: grunsky-band

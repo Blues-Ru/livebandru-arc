@@ -1,0 +1,15 @@
+id: 922
+token: kazanskij-kreml
+name: Казанский кремль
+aliases: Пушечный Двор
+alive: true
+address: территория Кремль, 14
+subway: Кремлевская
+phone: +7(843)567-81-61, 567-81-60
+city_id: 10
+clips:
+- id: 10604
+  type: weblink
+  url: http://kazan-kremlin.ru
+  name: Официальный сайт
+  sort_order: 0

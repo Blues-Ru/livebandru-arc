@@ -1,0 +1,16 @@
+id: 167
+token: koffein
+name: Кофеин
+aliases: 'Кофеин на Арбате
+
+  Кофеин на Арбате (музыкальный)'
+alive: true
+address: Арбат, 19
+subway: Арбатская
+city_id: 1
+clips:
+- id: 148
+  type: weblink
+  url: http://www.koffein.ru/
+  name: Официальный сайт
+  sort_order: 0

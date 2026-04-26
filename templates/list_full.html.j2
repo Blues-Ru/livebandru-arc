@@ -1,0 +1,51 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ page_title }} — LiveBand.Ru{% endblock %}
+{% block content %}
+
+{% if alpha_ru or alpha_latin %}
+<div id="alfaBit" class="nopr">
+  {% if alpha_ru %}
+  <table><tbody><tr>
+    {% for letter in alpha_ru %}
+    <td><a href="#{{ letter.enc }}">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+  {% if alpha_latin %}
+  <table><tbody><tr>
+    {% for letter in alpha_latin %}
+    <td><a href="#{{ letter.enc }}">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if items %}
+{% set ns = namespace(prev_letter='') %}
+<table class="packless">
+  <tbody>
+    {% for item in items %}
+    {% if item.letter_enc != ns.prev_letter %}
+    {% set ns.prev_letter = item.letter_enc %}
+    <tr><td colspan="2"><a name="{{ item.letter_enc }}"></a></td></tr>
+    {% endif %}
+    <tr>
+      <td>
+        <p class="main"><a href="{{ item.url }}/">{{ item.title }}</a></p>
+      </td>
+      <td class="w66">
+        {% for cat in item.categories %}
+        <a href="{{ cat.url }}/">{{ cat.title }}</a>&#160;
+        {% endfor %}
+        {% if item.description %}&#160; {{ item.description }}{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p id="noData">Список пуст.</p>
+{% endif %}
+
+{% endblock %}

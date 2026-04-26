@@ -1,0 +1,54 @@
+- id: 13754
+  date: '2010-11-07'
+  time: '20:00'
+  band_name: Абордаж, Черный ангел
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+- id: 13799
+  date: '2010-11-14'
+  time: '16:00'
+  band_name: Бони Нем, Абордаж, Nonsons, Silvercast, Династия, Fangorn, Outcome, Mary
+    Jane
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+  extra_bands:
+  - id: 174
+    name: Бони Нем
+    token: boni-nem
+- id: 13774
+  date: '2010-11-12'
+  time: '18:30'
+  band_name: Невидь
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+- id: 14380
+  date: '2010-12-24'
+  time: '19:00'
+  band_name: Tracktor Bowling (Москва)
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+- id: 14395
+  date: '2010-12-26'
+  time: '16:00'
+  band_name: Anime Party
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+- id: 14424
+  date: '2010-12-30'
+  time: '16:00'
+  band_name: Gothic Ёlka
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica
+- id: 14418
+  date: '2010-12-29'
+  time: '16:00'
+  band_name: Folk Ёlka
+  club_id: 341
+  club_name: Арктика
+  club_token: arctica

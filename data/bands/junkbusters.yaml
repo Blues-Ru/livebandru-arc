@@ -1,0 +1,12 @@
+id: 726
+token: junkbusters
+name: The Junkbusters
+alive: true
+city_id: 1
+genre_id: 1
+clips:
+- id: 8360
+  type: weblink
+  url: https://www.facebook.com/junkbustersband/
+  name: Страница на FaceBook
+  sort_order: 99

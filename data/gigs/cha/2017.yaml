@@ -1,0 +1,200 @@
+- id: 62683
+  date: '2017-02-17'
+  time: '20:00'
+  band_name: Анна Бутурлина. "Джаз в двух действиях"
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 63590
+  date: '2017-02-28'
+  time: '19:30'
+  band_id: 672
+  band_name: Matt Taylor
+  band_token: matt-taylor
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 63592
+  date: '2017-03-24'
+  time: '19:30'
+  band_id: 664
+  band_name: Ben Poole
+  band_token: ben-poole
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 64143
+  date: '2017-03-16'
+  time: '19:30'
+  band_id: 687
+  band_name: Todd Sharpville
+  band_token: todd-sharpville
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 64343
+  date: '2017-04-13'
+  time: '19:30'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 64729
+  date: '2017-05-31'
+  time: '19:30'
+  band_id: 656
+  band_name: Tom Attah
+  band_token: tom-attah
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 65208
+  date: '2017-06-01'
+  time: '20:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+- id: 65209
+  date: '2017-06-28'
+  time: '19:30'
+  band_name: Сергей Жилин и Фонограф-джаз-трио с программой "Чайковский injazz"
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+- id: 65415
+  date: '2017-05-12'
+  time: '20:00'
+  band_name: Dam'nco
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1500-3000
+  comments: "From Paris With Love\r\nТак называется самая популярная композиция поп-фьюжн\
+    \ группы Dam'nco из Франции, которая 12 мая даст единственный концерт в Москве\
+    \ в Центральном Доме Художника на Крымском Валу.\r\nDam'nco - популярнейший коллектив\
+    \ Франции, \"новое лицо французского джаза\", как они сами себя представляют.\
+    \ В их музыке есть все, чем богата сегодняшняя Франция, страна смешения многих\
+    \ культур. Dam'nco это чистый эксперимент, поиск иного в музыке.\r\nПредставит\
+    \ Dam'nco московской публике один из лучших барабанщиков мира, основатель и лидер\
+    \ этого проекта - Дэмиен Шмитт, выступавший в составах знаменитых Yannick Noah,\
+    \ Hadrien Feraud, Alain Caron и великого Jean-Luc Ponty.\r\nДэмиен Шмитт хорошо\
+    \ известен российской публике как участник российско-французского проекта Impact\
+    \ Fuze с Федором Досумовым и Антоном Давидянцем.\r\nВ составе Dam'nco собраны\
+    \ лучшие музыканты Франции - Yann Negritt (гитара), Nicholas Vella (клавишные)\
+    \ и Michael Lecoq (клавишные).\r\nВыйдет на сцену в составе Dam'nco и выдающийся\
+    \ российский музыкант Антон Давидянц, топовый мировой бас-гитарист, промоутер\
+    \ российского тура Dam'nco. Антон Давидянц - музыкант, сотрудничающий с российскими\
+    \ и мировыми звездами: Игорем Бутманом, Мариам Мерабовой, Gregory Porter, Virgil\
+    \ Donati, Gergo Borlai и многими другими. Из года в год Антон Давидянц знакомит\
+    \ российскую публику с самыми значимыми явлениями мировой музыки, организовывая\
+    \ туры великих музыкантов, выходя с ними на сцену и проводя аншлаговые мастер-классы\
+    \ во многих городах России.\r\nПропустить концерт Dam'nco - нельзя категорически!\
+    \ Вас ждет одно из ярчайших музыкальных событий года!"
+- id: 66798
+  date: '2017-08-17'
+  time: '19:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  comments: Кoнцерт по заявкам
+- id: 67293
+  date: '2017-08-29'
+  time: '19:30'
+  band_id: 687
+  band_name: Todd Sharpville
+  band_token: todd-sharpville
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 67294
+  date: '2017-09-06'
+  time: '19:30'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+- id: 68358
+  date: '2017-10-04'
+  time: '19:30'
+  band_id: 690
+  band_name: Rosco Levee
+  band_token: rosco-levee
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 68568
+  date: '2017-10-25'
+  time: '19:30'
+  band_id: 607
+  band_name: Franck Ash
+  band_token: franck-ash
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 68571
+  date: '2017-11-01'
+  time: '19:30'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 69203
+  date: '2017-11-28'
+  time: '19:30'
+  band_id: 667
+  band_name: Krissy Matthews
+  band_token: krissy-matthews
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 69152
+  date: '2017-11-15'
+  time: '19:30'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+- id: 69768
+  date: '2017-12-12'
+  time: '19:00'
+  band_name: Giles Robson & Folkline
+  club_id: 73
+  club_name: ЦДХ
+  club_token: cha
+  price: 1000-1500
+  extra_bands:
+  - id: 643
+    name: Giles Robson
+    token: giles-robson
+  - id: 580
+    name: Folkline
+    token: folkline

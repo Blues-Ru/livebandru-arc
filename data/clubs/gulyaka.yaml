@@ -1,0 +1,14 @@
+id: 298
+token: gulyaka
+name: Гуляка
+alive: true
+address: Петрозаводская, 11, корп. 1
+subway: Речной вокзал
+phone: (495) 451-2227
+city_id: 1
+clips:
+- id: 901
+  type: weblink
+  url: http://www.goodtimer.ru
+  name: Официальный сайт
+  sort_order: 99

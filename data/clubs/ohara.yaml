@@ -1,0 +1,17 @@
+id: 553
+token: ohara
+name: О'Хара
+aliases: 'Ирландский Паб О''Хара
+
+  O''Hara'
+alive: true
+address: Фридриха Энгельса, 20
+subway: Бауманская
+phone: (495) 748-07-31
+city_id: 1
+clips:
+- id: 3001
+  type: weblink
+  url: http://oharapub.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,2410 @@
+- id: 48013
+  date: '2015-01-06'
+  time: '21:00'
+  band_name: Леван Ломидзе, Дмитрий Четвергов и Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 48009
+  date: '2015-01-01'
+  time: '21:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48010
+  date: '2015-01-02'
+  time: '21:00'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48011
+  date: '2015-01-03'
+  time: '21:00'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48012
+  date: '2015-01-04'
+  time: '21:00'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48014
+  date: '2015-01-07'
+  time: '21:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48015
+  date: '2015-01-08'
+  time: '21:00'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48016
+  date: '2015-01-10'
+  time: '21:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48017
+  date: '2015-01-11'
+  time: '21:00'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48018
+  date: '2015-01-13'
+  time: '21:00'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48019
+  date: '2015-01-15'
+  time: '21:00'
+  band_name: Полина Касьянова и DjangoBand
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 48020
+  date: '2015-01-16'
+  time: '21:00'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Дианы Поленовой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 48021
+  date: '2015-01-17'
+  time: '21:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48022
+  date: '2015-01-18'
+  time: '21:00'
+  band_name: 2Dreams
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48023
+  date: '2015-01-22'
+  time: '21:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48024
+  date: '2015-01-23'
+  time: '21:00'
+  band_name: Мариам и Мирайф
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 48026
+  date: '2015-01-09'
+  time: '21:00'
+  band_name: ретро-джаз проект Real Jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48027
+  date: '2015-01-27'
+  time: '21:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48028
+  date: '2015-01-29'
+  time: '17:00'
+  band_name: 'Джазовая Лаборатория: Юлия Булавко и Группа Bulava'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48029
+  date: '2015-01-29'
+  time: '21:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 48030
+  date: '2015-01-30'
+  time: '21:00'
+  band_name: The Beatles – глазами звезд московского блюза. Проект Левана Ломидзе
+    и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 48031
+  date: '2015-01-31'
+  time: '21:00'
+  band_name: Кармэн Мокси (Karmen Moxie)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49252
+  date: '2015-01-24'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49253
+  date: '2015-01-25'
+  time: '20:30'
+  band_name: Стратосфера
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49254
+  date: '2015-01-28'
+  time: '20:30'
+  band_name: Анна Королёва с новой программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49255
+  date: '2015-02-01'
+  time: '20:30'
+  band_name: Георгий Юфа и Rofano (Голос 3)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49256
+  date: '2015-02-03'
+  time: '20:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49257
+  date: '2015-02-04'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49258
+  date: '2015-02-05'
+  time: '20:30'
+  band_name: Игорь Верник
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49259
+  date: '2015-02-06'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49260
+  date: '2015-02-07'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49261
+  date: '2015-02-08'
+  time: '20:30'
+  band_name: Полина Касьянова и DjangoBand
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 49262
+  date: '2015-02-10'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49263
+  date: '2015-02-11'
+  time: '20:30'
+  band_name: 2Dreams
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49264
+  date: '2015-02-12'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49265
+  date: '2015-02-13'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Полины Касьяновой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 49266
+  date: '2015-02-14'
+  time: '20:30'
+  band_name: Мариам и Мирайф
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 49267
+  date: '2015-02-15'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49268
+  date: '2015-02-17'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49269
+  date: '2015-02-18'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49270
+  date: '2015-02-19'
+  time: '20:30'
+  band_name: ЮТА
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49271
+  date: '2015-02-20'
+  time: '20:30'
+  band_name: Левон Оганезов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49272
+  date: '2015-02-21'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49273
+  date: '2015-02-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49274
+  date: '2015-02-24'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49275
+  date: '2015-02-25'
+  time: '20:30'
+  band_name: Анна Королёва с новой программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49276
+  date: '2015-02-26'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49277
+  date: '2015-02-27'
+  time: '20:30'
+  band_name: The Beatles – глазами звезд московского блюза. Проект Левана Ломидзе
+    и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 49278
+  date: '2015-02-28'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49279
+  date: '2015-03-01'
+  time: '20:30'
+  band_name: Нани Ева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49280
+  date: '2015-03-03'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49281
+  date: '2015-03-04'
+  time: '20:30'
+  band_name: Марк Бади
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49282
+  date: '2015-03-05'
+  time: '20:30'
+  band_name: Юрий Медяник & Emotion-orchestra с программой "Очарование Италии"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49283
+  date: '2015-03-06'
+  time: '20:30'
+  band_name: Квартал
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49284
+  date: '2015-03-07'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49285
+  date: '2015-03-08'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49286
+  date: '2015-03-10'
+  time: '20:30'
+  band_name: Kseniya’s Project
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49287
+  date: '2015-03-13'
+  time: '20:30'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49288
+  date: '2015-03-14'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Ирины Родилес
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 49289
+  date: '2015-03-15'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49290
+  date: '2015-03-17'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49291
+  date: '2015-03-19'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49292
+  date: '2015-03-20'
+  time: '20:30'
+  band_name: The Beatles – глазами звезд московского блюза. Проект Левана Ломидзе
+    и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 49293
+  date: '2015-03-22'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49294
+  date: '2015-03-24'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49295
+  date: '2015-03-25'
+  time: '20:30'
+  band_name: Анна Королёва с новой программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49296
+  date: '2015-03-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49297
+  date: '2015-03-29'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49298
+  date: '2015-03-31'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49576
+  date: '2015-03-18'
+  time: '20:30'
+  band_name: Роман Сологуб
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49577
+  date: '2015-03-21'
+  time: '20:30'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49575
+  date: '2015-03-12'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49578
+  date: '2015-03-27'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49579
+  date: '2015-03-28'
+  time: '20:30'
+  band_name: Карина Ла Дульсе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49952
+  date: '2015-04-01'
+  time: '20:30'
+  band_name: '"Арутюнов & Quorum"'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49953
+  date: '2015-04-02'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49954
+  date: '2015-04-03'
+  time: '20:30'
+  band_name: Георгий Юфа и Rofano
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49955
+  date: '2015-04-04'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49956
+  date: '2015-04-05'
+  time: '20:30'
+  band_name: Стратосфера
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49957
+  date: '2015-04-07'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49958
+  date: '2015-04-08'
+  time: '20:30'
+  band_name: Алла Рид
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49959
+  date: '2015-04-09'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49960
+  date: '2015-04-10'
+  time: '20:30'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49961
+  date: '2015-04-11'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49962
+  date: '2015-04-12'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49963
+  date: '2015-04-14'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49964
+  date: '2015-04-15'
+  time: '20:30'
+  band_name: Ваниша Гульд (Vanisha Gould) и Квартет Алексея Подымкина
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49965
+  date: '2015-04-16'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49966
+  date: '2015-04-17'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Полины Касьяновой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 49967
+  date: '2015-04-18'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49968
+  date: '2015-04-19'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49969
+  date: '2015-04-22'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49970
+  date: '2015-04-23'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49971
+  date: '2015-04-24'
+  time: '20:30'
+  band_name: The Beatles — глазами звезд московского блюза. Проект Левана Ломидзе
+    и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 49972
+  date: '2015-04-25'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49973
+  date: '2015-04-26'
+  time: '20:30'
+  band_name: Kseniya’s Project
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49974
+  date: '2015-04-28'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49975
+  date: '2015-04-29'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 49976
+  date: '2015-04-30'
+  time: '20:30'
+  band_name: 7/8 BAND
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50617
+  date: '2015-05-01'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50620
+  date: '2015-05-05'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50621
+  date: '2015-05-07'
+  time: '20:30'
+  band_id: 332
+  band_name: Вячеслав Горский
+  band_token: gorsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50622
+  date: '2015-05-08'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 50623
+  date: '2015-05-09'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50624
+  date: '2015-05-10'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50625
+  date: '2015-05-12'
+  time: '20:30'
+  band_name: The Kikipickles
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50626
+  date: '2015-05-13'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50627
+  date: '2015-05-14'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50628
+  date: '2015-05-15'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Полины Касьяновой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 50629
+  date: '2015-05-16'
+  time: '20:30'
+  band_name: Алена Тойминцева ("Голос 2")
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50630
+  date: '2015-05-19'
+  time: '20:30'
+  band_name: Nataly Kozlova Funk Corporation
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50631
+  date: '2015-05-20'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50632
+  date: '2015-05-21'
+  time: '20:30'
+  band_name: Визбор V.S. Хутас
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50633
+  date: '2015-05-22'
+  time: '20:30'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50634
+  date: '2015-05-23'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50635
+  date: '2015-05-24'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50636
+  date: '2015-05-26'
+  time: '20:30'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50637
+  date: '2015-05-27'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50638
+  date: '2015-05-28'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50639
+  date: '2015-05-29'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50640
+  date: '2015-05-30'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50641
+  date: '2015-05-31'
+  time: '20:30'
+  band_name: Полина Касьянова и Djangoband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 50618
+  date: '2015-05-02'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 50619
+  date: '2015-05-03'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51767
+  date: '2015-06-02'
+  time: '20:30'
+  band_name: Антон Горбунов и его трио
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51768
+  date: '2015-06-04'
+  time: '20:30'
+  band_name: 'Антон Румянцев: "Beatles в джазе"'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51769
+  date: '2015-06-05'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51770
+  date: '2015-06-09'
+  time: '20:30'
+  band_name: Александр Шевцов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51771
+  date: '2015-06-10'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51772
+  date: '2015-06-11'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51774
+  date: '2015-06-13'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51775
+  date: '2015-06-14'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51776
+  date: '2015-06-16'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51777
+  date: '2015-06-17'
+  time: '20:30'
+  band_name: Вейланд Родд
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51778
+  date: '2015-06-18'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51779
+  date: '2015-06-19'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 51780
+  date: '2015-06-20'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51781
+  date: '2015-06-21'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51782
+  date: '2015-06-24'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51783
+  date: '2015-06-25'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51784
+  date: '2015-06-26'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 51785
+  date: '2015-06-27'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз". Нани Ева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51786
+  date: '2015-06-28'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51787
+  date: '2015-06-30'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51788
+  date: '2015-07-02'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51789
+  date: '2015-07-03'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51790
+  date: '2015-07-04'
+  time: '20:30'
+  band_name: Георгий Юфа и Rofano ("Голос 3")
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51791
+  date: '2015-07-05'
+  time: '20:30'
+  band_name: Jazz Forever band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51792
+  date: '2015-07-07'
+  time: '20:30'
+  band_name: Marina Volkova Jazz Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51793
+  date: '2015-07-08'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51794
+  date: '2015-07-09'
+  time: '20:30'
+  band_name: Chino Swigslide (Испания) и Djangoband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51795
+  date: '2015-07-10'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 51796
+  date: '2015-07-11'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51797
+  date: '2015-07-12'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51798
+  date: '2015-07-14'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51799
+  date: '2015-07-15'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51800
+  date: '2015-07-16'
+  time: '20:30'
+  band_name: The Kikipickles
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51801
+  date: '2015-07-17'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Дианы Поленовой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 51802
+  date: '2015-07-18'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51803
+  date: '2015-07-19'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51804
+  date: '2015-07-21'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51806
+  date: '2015-07-22'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51807
+  date: '2015-07-23'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51808
+  date: '2015-07-24'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51809
+  date: '2015-07-25'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51810
+  date: '2015-07-26'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51811
+  date: '2015-07-28'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51812
+  date: '2015-07-29'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51813
+  date: '2015-07-30'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51814
+  date: '2015-07-31'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    группы блюз
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51815
+  date: '2015-08-21'
+  time: '20:30'
+  band_name: Пётр Мамонов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 51773
+  date: '2015-06-12'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52754
+  date: '2015-09-17'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52901
+  date: '2015-08-29'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52902
+  date: '2015-08-30'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52904
+  date: '2015-09-01'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52907
+  date: '2015-09-04'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52910
+  date: '2015-09-06'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52881
+  date: '2015-08-01'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52882
+  date: '2015-08-04'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52883
+  date: '2015-08-05'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52884
+  date: '2015-08-06'
+  time: '20:30'
+  band_name: Алла Рид
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52885
+  date: '2015-08-07'
+  time: '20:00'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52886
+  date: '2015-08-09'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52887
+  date: '2015-08-12'
+  time: '20:30'
+  band_name: 'Звездный вечер радио "Джаз": Cigar Hall'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 128
+    name: Cigar Hall
+    token: cigar-hall
+- id: 52888
+  date: '2015-08-13'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52889
+  date: '2015-08-14'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Этери Бериашвили
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+- id: 52890
+  date: '2015-08-15'
+  time: '20:30'
+  band_name: Алена Тойминцева ("Голос 2")
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52891
+  date: '2015-08-16'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52892
+  date: '2015-08-18'
+  time: '20:30'
+  band_name: Павел Чекмаковский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52893
+  date: '2015-08-19'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52894
+  date: '2015-08-20'
+  time: '20:30'
+  band_name: Seven/Eight Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52895
+  date: '2015-08-22'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52896
+  date: '2015-08-23'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52897
+  date: '2015-08-25'
+  time: '20:30'
+  band_name: Евдокия Лерер
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52898
+  date: '2015-08-26'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52899
+  date: '2015-08-27'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52900
+  date: '2015-08-28'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 52905
+  date: '2015-09-02'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52908
+  date: '2015-09-05'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Дианы Поленовой
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 52915
+  date: '2015-09-12'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52917
+  date: '2015-09-13'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52918
+  date: '2015-09-16'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52919
+  date: '2015-09-18'
+  time: '20:30'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52920
+  date: '2015-09-19'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52921
+  date: '2015-09-22'
+  time: '20:30'
+  band_name: Дарья Эйбушитц
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52922
+  date: '2015-09-23'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52923
+  date: '2015-09-24'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52925
+  date: '2015-09-25'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 52927
+  date: '2015-09-26'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52928
+  date: '2015-09-27'
+  time: '20:30'
+  band_name: The Kikipickles
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52929
+  date: '2015-09-29'
+  time: '20:30'
+  band_name: Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52930
+  date: '2015-09-30'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52911
+  date: '2015-09-08'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52912
+  date: '2015-09-09'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52913
+  date: '2015-09-10'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 52914
+  date: '2015-09-11'
+  time: '20:30'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53505
+  date: '2015-09-20'
+  time: '20:30'
+  band_name: Jazz Forever band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53506
+  date: '2015-10-01'
+  time: '20:30'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53507
+  date: '2015-10-02'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53508
+  date: '2015-10-03'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича и трио Евгения
+    Борца
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 53509
+  date: '2015-10-04'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53510
+  date: '2015-10-06'
+  time: '20:30'
+  band_name: Nataly Kozlova Funk Corporation
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53511
+  date: '2015-10-07'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53512
+  date: '2015-10-08'
+  time: '20:30'
+  band_id: 512
+  band_name: Marimba Plus
+  band_token: marimba-plus
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53513
+  date: '2015-10-09'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 53515
+  date: '2015-10-11'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53516
+  date: '2015-10-13'
+  time: '20:30'
+  band_name: Classy Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53517
+  date: '2015-10-14'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53518
+  date: '2015-10-15'
+  time: '20:30'
+  band_name: Seven/Eight Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53519
+  date: '2015-10-16'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53520
+  date: '2015-10-17'
+  time: '20:30'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53521
+  date: '2015-10-18'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53522
+  date: '2015-10-20'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53524
+  date: '2015-10-22'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53525
+  date: '2015-10-23'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53526
+  date: '2015-10-24'
+  time: '20:30'
+  band_name: Левон Оганезов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53527
+  date: '2015-10-25'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53528
+  date: '2015-10-28'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53529
+  date: '2015-10-29'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53530
+  date: '2015-10-30'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 53531
+  date: '2015-10-31'
+  time: '20:30'
+  band_name: Квартал
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53514
+  date: '2015-10-10'
+  time: '20:30'
+  band_name: Пётр Мамонов и "Совершенно новые Звуки Му"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 53523
+  date: '2015-10-21'
+  time: '20:30'
+  band_name: Звездный вечер радио "Джаз"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54738
+  date: '2015-12-26'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54739
+  date: '2015-12-27'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54740
+  date: '2015-12-29'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54741
+  date: '2015-12-30'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54699
+  date: '2015-11-03'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54700
+  date: '2015-11-04'
+  time: '20:30'
+  band_name: Тимофей Хазанов и Black Sax Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54701
+  date: '2015-11-05'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 54702
+  date: '2015-11-06'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54703
+  date: '2015-11-08'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54704
+  date: '2015-11-10'
+  time: '20:30'
+  band_name: Accordi Disaccordi
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54705
+  date: '2015-11-11'
+  time: '20:30'
+  band_name: Анна Королёва с программой "Song for Sax"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54706
+  date: '2015-11-12'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54707
+  date: '2015-11-13'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 54708
+  date: '2015-11-14'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54709
+  date: '2015-11-15'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54710
+  date: '2015-11-17'
+  time: '20:30'
+  band_name: Арутюнов & Quorum
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54711
+  date: '2015-11-18'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54712
+  date: '2015-11-19'
+  time: '20:30'
+  band_name: Мирна Клейтон (Myrna Clayton)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54713
+  date: '2015-11-20'
+  time: '20:30'
+  band_name: Варвара Визбор
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54714
+  date: '2015-11-21'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54715
+  date: '2015-11-22'
+  time: '20:30'
+  band_name: The Kikipickles
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54716
+  date: '2015-11-24'
+  time: '20:30'
+  band_name: Elena Et Les Garcons ("Элена и ребята")
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54717
+  date: '2015-11-25'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54718
+  date: '2015-11-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54719
+  date: '2015-11-27'
+  time: '20:30'
+  band_name: Алена Тойминцева ("Голос 2")
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54720
+  date: '2015-11-28'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54721
+  date: '2015-11-29'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54722
+  date: '2015-12-01'
+  time: '20:30'
+  band_name: Дмитрий Галихин и группа Олега Матвеева "Classy Jazz"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54723
+  date: '2015-12-02'
+  time: '20:30'
+  band_name: Бенарес экспресс
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54724
+  date: '2015-12-03'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54725
+  date: '2015-12-04'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 54726
+  date: '2015-12-05'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54727
+  date: '2015-12-06'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54728
+  date: '2015-12-09'
+  time: '20:30'
+  band_name: Che Guevara Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54729
+  date: '2015-12-10'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54730
+  date: '2015-12-12'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54731
+  date: '2015-12-13'
+  time: '20:30'
+  band_name: Вейланд Родд (Wayland Rodd)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54732
+  date: '2015-12-18'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54733
+  date: '2015-12-19'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54734
+  date: '2015-12-20'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54735
+  date: '2015-12-22'
+  time: '20:30'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54736
+  date: '2015-12-23'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 54737
+  date: '2015-12-25'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins

@@ -1,0 +1,14 @@
+id: 439
+token: cover-time
+name: Cover Time
+alive: true
+url: http://www.covertime.ru
+city_id: 1
+genre_id: 6
+secondary_genre_id: 3
+clips:
+- id: 2087
+  type: weblink
+  url: http://www.covertime.ru
+  name: Официальный сайт
+  sort_order: 0

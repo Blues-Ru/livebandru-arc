@@ -1,0 +1,105 @@
+id: 77
+token: salt-peanutz
+name: Алехин & Salt Peanutz
+aliases: 'Salt Peanutz
+
+  Илья Алехин
+
+  Илюха Алехин
+
+  Соленые Орехи
+
+  Соленые Орешки
+
+  m''Poongi'
+alive: true
+url: http://saltpeanutz.com/
+city_id: 1
+genre_id: 7
+secondary_genre_id: 2
+musicians:
+- name: Илюха [m'Poongi] Алехин
+  instruments: саксофон, вокал
+clips:
+- id: 106
+  type: weblink
+  url: http://saltpeanutz.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 282
+  type: youtube
+  url: http://www.youtube.com/?v=SmjgP03AyBE
+  name: Salt Peanutz - Intro
+  comments: Live Dance Music Fest, Moscow
+  sort_order: 99
+- id: 283
+  type: youtube
+  url: http://www.youtube.com/?v=94LuSB6fOK0
+  name: Salt Peanutz play  "Salt Peanuts" by DIZZY
+  comments: Live at Mystery Blues Fest in Moscow 31.10.2009
+  sort_order: 199
+- id: 284
+  type: mp3
+  url: salt-peanutz.mp3
+  name: Ain't No Sunshine
+  sort_order: 99
+- id: 285
+  type: mp3
+  url: salt-peanutz-2.mp3
+  name: My Baby Loves U
+  sort_order: 199
+- id: 287
+  type: weblink
+  url: http://myspace.com/saltpeanutz
+  name: Salt Peanutz на MySpace
+  sort_order: 100
+- id: 286
+  type: photo
+  url: salt-peanutz-2.jpg
+  name: Илья Алехин
+  sort_order: 0
+  width: 900
+  height: 1200
+- id: 288
+  type: rss
+  url: http://alyokhin.livejournal.com/data/rss
+  sort_order: 99
+- id: 365
+  type: mp3
+  url: salt-peanutz-3.mp3
+  name: Intro
+  sort_order: 0
+- id: 367
+  type: mp3
+  url: salt-peanutz-5.mp3
+  name: Pump It Up
+  sort_order: 399
+- id: 366
+  type: mp3
+  url: salt-peanutz-4.mp3
+  name: Get On The Boat
+  sort_order: 299
+reviews:
+- id: 13
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Название "Salt Peanutz" (Соленые Орешки) взято из бессмертного джазового
+    стандарта, Великого трубача и композитора 20-го века, основателя стиля "bebop"
+    Dizzy Gillespie (John Birks Gillespie). Много лет назад родилась идея создания
+    группы со смешным названием "Salt Peanutz", играющей "разные" музыки. Наконец-то
+    это случилось!… Началось все летом 2006 года. В проекте приняли участие: бас-гитарист
+    Леонид Веденеев, барабанщик Павел Жданов и гитарист Евгений Немов, смененный позже
+    Константином Затолочным. Тогда программа почти целиком состояла из инструменталов,
+    но весной 2007-го к проекту присоединились музыканты из "Alis Band" – Андрей и
+    Ольга Лис, а так же очень талантливый клавишник Бобсон, который уехал, не дождавшись
+    нашего первого концерта, а жаль… С тех пор началась "совсем другая песня"… В "Salt
+    Peanutz" играют прекрасные музыканты с тонким чувством стиля, мы нашли свое лицо
+    и звучание, в этом легко убедиться, посетив наш концерт. В настоящее время предлагаем
+    вашему вниманию проект "SALT PEANUTZ" -In Da Funk-, реальный Фанк с настоящим
+    современным Нью-Йоркским грувом, с элементами Джаза, Ритм-н-Блюза и World Music.
+    Репертуар постепенно обновляется и пополняется собственными композициями, так
+    что, до встреч на наших концертах! Искренне ваш Илюха [m''Poongi] Алехин.'
+  verified: true
+  created: '2010-08-05'
+  is_press_release: true

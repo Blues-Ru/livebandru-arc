@@ -1,0 +1,140 @@
+- id: 14484
+  date: '2011-01-01'
+  time: '20:00'
+  band_id: 313
+  band_name: The Helsinki Cowboys
+  band_token: the-helsinki-cowboys
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: бесплатный
+- id: 14903
+  date: '2011-01-27'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 300 руб.
+- id: 15949
+  date: '2011-02-25'
+  time: '20:30'
+  band_id: 69
+  band_name: Drunken Sailors Band
+  band_token: drunken-sailors-band
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 200 руб.
+- id: 16000
+  date: '2011-03-22'
+  time: '20:00'
+  band_id: 313
+  band_name: The Helsinki Cowboys
+  band_token: the-helsinki-cowboys
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+- id: 16870
+  date: '2011-03-31'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+- id: 17104
+  date: '2011-04-02'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 300 руб.
+- id: 17395
+  date: '2011-04-17'
+  time: '20:00'
+  band_id: 313
+  band_name: The Helsinki Cowboys
+  band_token: the-helsinki-cowboys
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 200 руб.
+- id: 18334
+  date: '2011-05-14'
+  time: '20:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+- id: 18919
+  date: '2011-05-20'
+  time: '20:00'
+  band_id: 405
+  band_name: White Hound Blues Band
+  band_token: whbb
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 200 руб.
+- id: 19362
+  date: '2011-05-22'
+  time: '20:00'
+  band_id: 313
+  band_name: The Helsinki Cowboys
+  band_token: the-helsinki-cowboys
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 200 руб.
+- id: 20158
+  date: '2011-06-25'
+  time: '20:30'
+  band_name: Richie's Blues Band, Санчилло / Братецкий. Секретная Лаборатория
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 350 руб.
+  extra_bands:
+  - id: 420
+    name: Санчилло / Братецкий. Секретная Лаборатория
+    token: secret-lab
+  - id: 285
+    name: Richie's Blues Band
+    token: richies-blues-band
+- id: 21454
+  date: '2011-10-07'
+  time: '20:00'
+  band_id: 420
+  band_name: Санчилло / Братецкий. Секретная Лаборатория
+  band_token: secret-lab
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+- id: 20467
+  date: '2011-06-24'
+  time: '20:00'
+  band_id: 405
+  band_name: White Hound Blues Band
+  band_token: whbb
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house
+  price: 200 руб.
+- id: 22803
+  date: '2011-11-06'
+  time: '19:30'
+  band_id: 552
+  band_name: Колдстрим
+  band_token: coldstrim
+  club_id: 204
+  club_name: Doolin House
+  club_token: doolin-house

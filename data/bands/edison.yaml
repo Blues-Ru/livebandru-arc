@@ -1,0 +1,142 @@
+id: 68
+token: edison
+name: Эд Губайдуллин
+aliases: Edison Band
+alive: true
+url: http://mall-er.tv/edmusic/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 10
+musicians:
+- name: Эд Губайдуллин
+  instruments: гитара, вокал
+references:
+- id: 68
+  name: Эд Губайдуллин
+  token: edison
+clips:
+- id: 316
+  type: weblink
+  url: http://mall-er.tv/edmusic/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5455
+  type: weblink
+  url: http://mall-er.tv/edison-band/
+  name: Эд Губайдуллин и "Edison band"
+  comments: Старый,добрый РОК...
+  sort_order: 400
+- id: 3183
+  type: photo
+  url: edison-3.jpg
+  name: Эд Губайдуллин
+  comments: /
+  sort_order: 299
+  width: 3000
+  height: 2400
+- id: 3397
+  type: weblink
+  url: http://vk.com/eddy1960
+  name: Страница ВКонтакте
+  comments: .
+  sort_order: 100
+- id: 3398
+  type: weblink
+  url: https://www.facebook.com/#!/eduard.gubajdullin
+  name: Страница на FaceBook
+  comments: /
+  sort_order: 200
+- id: 3399
+  type: weblink
+  url: http://www.myspace.com/531526989
+  name: Страница на MySpace
+  comments: /
+  sort_order: 300
+- id: 3400
+  type: youtube
+  url: http://www.youtube.com/?v=nSm1YqyRCNw
+  name: радио "Голос России"
+  comments: .
+  sort_order: 1199
+- id: 3402
+  type: youtube
+  url: http://www.youtube.com/?v=Y3ZHbdKYNMw
+  name: B.B. KING  CLUB
+  comments: Fingerpicking
+  sort_order: 1399
+- id: 3406
+  type: photo
+  url: edison.jpg
+  name: Эд Губайдуллин
+  sort_order: 399
+  width: 400
+  height: 500
+- id: 4304
+  type: youtube
+  url: http://mall-er.tv/edison-band/
+  name: Эд Губайдуллин и "Edison band"
+  comments: '...'
+  sort_order: 1499
+- id: 4305
+  type: youtube
+  url: http://www.youtube.com/?v=oqOoeesWYgc
+  name: Acoustic rock
+  comments: ///
+  sort_order: 1599
+- id: 4306
+  type: youtube
+  url: http://www.youtube.com/?v=GRiJxqDMCFE
+  name: Эд Губайдуллин (Fingerstyle)
+  comments: ///
+  sort_order: 1699
+- id: 4307
+  type: youtube
+  url: http://www.youtube.com/?v=LLEwsk3ns7M
+  name: Windy and warm
+  comments: '...'
+  sort_order: 1799
+- id: 4308
+  type: youtube
+  url: http://www.youtube.com/?v=bIqDLUm-zgc
+  name: hey hey babe hey
+  comments: '...'
+  sort_order: 1899
+- id: 4695
+  type: rss
+  url: http://mall-er.tv/edmusic/
+  name: Гитарная музыка (фингерстайл)
+  sort_order: 99
+- id: 4742
+  type: youtube
+  name: Fingerstyle  guitar
+  comments: гитарная музыка
+  sort_order: 1999
+- id: 4743
+  type: photo
+  url: edison-2.jpg
+  sort_order: 499
+  width: 807
+  height: 646
+- id: 5456
+  type: photo
+  url: edison-4.jpg
+  sort_order: 599
+  width: 1152
+  height: 1728
+reviews:
+- id: 293
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Эд Губайдуллин. Гитарист, композитор, аранжировщик. Лидер группы "Edison
+    band" Исполнитель блюзов, песен в стиле кантри, блюграсс, хард-рок.
+  text: 'Эд Губайдуллин. Гитарист, композитор, аранжировщик. Лидер группы "Edison
+    band" Исполнитель блюзов, песен в стиле кантри, блюграсс, хард-рок.Edison band
+    Мощная гитара и истинно мужской вокал.Классика жанра: Dire Straits.Eric Clapton.Chris
+    Rea.Joe Cocker.Elvis Presly.Louis Armstrong.J J Cale.B B King.Deep Purple.ZZ Top,Pink
+    Floyd и др. FINGERPICKING... Самый популярный во всем мире стиль игры на гитаре
+    (основатели стиля легендарные гитаристы такие как: Чет Эткиинс, Джери Рид, Мэрил
+    Трэвис, Том Брэш, Томми Эмануель и др.'
+  verified: true
+  created: '2012-05-25'
+  is_press_release: true

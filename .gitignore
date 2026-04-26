@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Build output (lives outside this repo)
+liveband-site/
+liveband-site-*/
+
+# macOS
+.DS_Store

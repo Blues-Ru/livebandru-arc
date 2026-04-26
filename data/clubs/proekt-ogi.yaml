@@ -1,0 +1,21 @@
+id: 59
+token: proekt-ogi
+name: Проект О.Г.И.
+aliases: 'Проект ОГИ
+
+  ОГИ'
+alive: false
+address: Потаповский пер., 8/12, стр. 2
+subway: Чистые пруды, Тургеневская, Сретенский бульвар, Китай-город
+phone: 927-5678
+city_id: 1
+clips:
+- id: 452
+  type: rss
+  url: http://proekt-ogi.livejournal.com/data/rss
+  sort_order: 99
+- id: 451
+  type: weblink
+  url: http://www.proektogi.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,20 @@
+id: 561
+token: koncertnyj-zal-ram-im-gnesinykh
+name: Концертный зал РАМ им. Гнесиных
+alive: true
+address: Малый Ржевский пер., д. 1
+subway: Арбатская, Баррикадная
+phone: +7(495) 690-24-22, 690-67-37, 691-03-54, 232-53-53
+city_id: 1
+clips:
+- id: 3119
+  type: weblink
+  url: http://www.gnesinhall.ru/afisha
+  name: Официальный сайт
+  sort_order: 0
+- id: 3120
+  type: photo
+  url: koncertnyj-zal-ram-im-gnesinykh.jpg
+  sort_order: 0
+  width: 333
+  height: 250

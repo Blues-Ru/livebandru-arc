@@ -1,0 +1,56 @@
+id: 7
+token: crossroadz
+name: Crossroadz
+aliases: 'Воронов
+
+  Кроссроадз
+
+  Сергей Воронов'
+alive: true
+url: http://www.thecrossroadz.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Сергей Воронов
+  instruments: вокал, гитара
+- name: Михаил Савкин
+  instruments: гитара
+- name: Андрей Бутузов
+  instruments: бас
+- name: Александр Торопкин
+  instruments: ударные
+clips:
+- id: 336
+  type: weblink
+  url: http://www.myspace.com/voroncrossroadz
+  name: Страница на MySpace
+  sort_order: 100
+- id: 334
+  type: photo
+  url: crossroadz.jpg
+  name: Crossroadz в Cotton Club
+  sort_order: 0
+  width: 700
+  height: 466
+- id: 335
+  type: youtube
+  url: http://www.youtube.com/?v=zOdWqYh5TmA
+  name: Diamond Rain
+  comments: Crossroadz and Sergey Voronov
+  sort_order: 99
+- id: 337
+  type: weblink
+  url: http://vk.com/club14471164
+  name: Страница ВКонтакте
+  sort_order: 200
+- id: 338
+  type: weblink
+  url: http://www.facebook.com/pages/Sergei-Voronov-and-The-Crossroadz/281595611233
+  name: Страница на Facebook
+  sort_order: 300
+- id: 333
+  type: weblink
+  url: http://www.thecrossroadz.ru/
+  name: Официальный сайт
+  sort_order: 0

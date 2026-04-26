@@ -1,0 +1,741 @@
+- id: 2980
+  date: '2004-01-25'
+  band_name: Gary Primich Band
+  club_name: Владимир, Z-Club
+  city_id: 1
+- id: 2983
+  date: '2004-01-09'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Art Garbage
+  city_id: 1
+- id: 2992
+  date: '2004-01-09'
+  band_id: 42
+  band_name: Петрович & The Bluesmakers
+  band_token: bluesmakers
+  club_name: Солярис
+  city_id: 1
+- id: 2995
+  date: '2004-01-09'
+  band_id: 54
+  band_name: Blues Hammer Band
+  band_token: blues-hammer-band
+  club_name: Dr.Blues(Лужнецкая наб. 8)т.201-17-68
+  city_id: 1
+- id: 3049
+  date: '2004-01-30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_name: Синяя Птица
+  city_id: 1
+- id: 3050
+  date: '2004-01-30'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_name: Петрович
+  city_id: 1
+- id: 3063
+  date: '2004-01-30'
+  band_id: 54
+  band_name: Blues Hammer Band
+  band_token: blues-hammer-band
+  club_name: Петрович
+  city_id: 1
+- id: 3074
+  date: '2004-02-13'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Discovery (Новокузнецкая ул. 24)
+  city_id: 1
+- id: 3094
+  date: '2004-02-11'
+  band_name: Иван Жук (вокал, гитара), Владимир Кожекин (губная гармоника), Михаил
+    Смирнов (аккордеон, клавишные, перкуссия), Александр Любарский (контрабас)
+  club_name: Апшу (Климентовский пер., 10, стр. 1)
+  city_id: 1
+- id: 3115
+  date: '2004-02-17'
+  band_name: Гелюта-Братецкий
+  club_name: Золотой джокер
+  city_id: 1
+- id: 3116
+  date: '2004-02-10'
+  band_id: 51
+  band_name: Владимир Кораблин & Александр Братецкий
+  band_token: vladimir-korablin-aleksandr-bratetskij
+  club_name: Кобра
+  city_id: 1
+- id: 3117
+  date: '2004-02-24'
+  band_id: 51
+  band_name: Владимир Кораблин & Александр Братецкий
+  band_token: vladimir-korablin-aleksandr-bratetskij
+  club_name: Кобра
+  city_id: 1
+- id: 3118
+  date: '2004-02-06'
+  band_id: 51
+  band_name: Владимир Кораблин & Александр Братецкий
+  band_token: vladimir-korablin-aleksandr-bratetskij
+  club_name: Бар на Малой Грузинской
+  city_id: 1
+- id: 3119
+  date: '2004-02-13'
+  band_id: 51
+  band_name: Владимир Кораблин & Александр Братецкий
+  band_token: vladimir-korablin-aleksandr-bratetskij
+  club_name: клуб А.Калачева
+  city_id: 1
+- id: 3120
+  date: '2004-02-05'
+  band_id: 42
+  band_name: Петрович & The Bluesmakers
+  band_token: bluesmakers
+  club_name: 'Арт-клуб Диана '
+  city_id: 1
+- id: 3121
+  date: '2004-02-12'
+  band_id: 42
+  band_name: Петрович & The Bluesmakers
+  band_token: bluesmakers
+  club_name: 'Арт-клуб Диана '
+  city_id: 1
+- id: 3122
+  date: '2004-02-14'
+  band_id: 48
+  band_name: Wrong Way Band
+  band_token: wrong-way-band
+  club_name: Московский зоопарк
+  city_id: 1
+  price: 100 руб.
+- id: 3127
+  date: '2004-02-05'
+  band_id: 50
+  band_name: USB
+  band_token: usb
+  club_name: Паровоз
+  city_id: 1
+- id: 3128
+  date: '2004-02-12'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Паровоз
+  city_id: 1
+- id: 3129
+  date: '2004-02-19'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_name: Паровоз
+  city_id: 1
+- id: 3130
+  date: '2004-02-26'
+  band_name: Blues Hummer Band Николая Садикова.
+  club_name: Паровоз
+  city_id: 1
+- id: 3139
+  date: '2004-02-13'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Петрович
+  city_id: 1
+- id: 3144
+  date: '2004-02-12'
+  band_id: 38
+  band_name: Серебряный Рубль
+  band_token: serebryanyj-rubl
+  club_name: Клуб на Брестской
+  city_id: 1
+- id: 3145
+  date: '2004-02-19'
+  band_name: Eirik Bergene Band (Норвегия)
+  club_name: Владимир, Z-Club
+  city_id: 1
+- id: 3166
+  date: '2004-02-28'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3183
+  date: '2004-02-27'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Клуб А. Калачева
+  city_id: 1
+- id: 3195
+  date: '2004-03-12'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: гриль-хаус, боулинг "Космик" (246 12 72)
+  city_id: 1
+  price: бесплатный
+- id: 3207
+  date: '2004-04-03'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3240
+  date: '2004-03-13'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: '"& Club" - в боулинге "Апельсин"'
+  city_id: 1
+- id: 3245
+  date: '2004-03-19'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Петрович
+  city_id: 1
+- id: 3246
+  date: '2004-03-26'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Заправочный
+  city_id: 1
+- id: 3256
+  date: '2004-03-19'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: на Брестской
+  city_id: 1
+- id: 3258
+  date: '2004-04-03'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Sexton
+  city_id: 1
+- id: 3260
+  date: '2004-03-26'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Маяк
+  city_id: 1
+- id: 3285
+  date: '2004-03-25'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Империал (м.Динамо, Ленинградский просп. 37)
+  city_id: 1
+- id: 3289
+  date: '2004-04-08'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: Империал (Ленинградский просп. 37)
+  city_id: 1
+- id: 3296
+  date: '2004-04-02'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Маяк
+  city_id: 1
+- id: 3301
+  date: '2004-04-10'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: '"Мир приключений" (Старый Арбат 20)'
+  city_id: 1
+- id: 3332
+  date: '2004-04-16'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Discovery
+  city_id: 1
+- id: 3350
+  date: '2004-04-22'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: ИМПЕРИАЛ
+  city_id: 1
+- id: 3390
+  date: '2004-04-29'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: '"Империал" (Ленинградский пр. 37) '
+  city_id: 1
+  price: бесплатный
+- id: 3404
+  date: '2004-04-30'
+  band_id: 48
+  band_name: Wrong Way Band
+  band_token: wrong-way-band
+  club_name: Московский Зоопарк
+  city_id: 1
+- id: 3409
+  date: '2004-05-07'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Заправочный
+  city_id: 1
+- id: 3410
+  date: '2004-05-21'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Заправочный
+  city_id: 1
+- id: 3412
+  date: '2004-05-22'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3417
+  date: '2004-05-18'
+  band_name: B.B.King
+  club_name: Государственный Кремлевский Дворец
+  city_id: 1
+- id: 3420
+  date: '2004-06-04'
+  band_name: Kid Andersen
+  club_name: Нижний Новгород, акад. театр драмы им.Горького
+  city_id: 1
+- id: 3421
+  date: '2004-06-05'
+  band_name: Kid Andersen
+  club_name: Ярославль, Партизан
+  city_id: 1
+- id: 3422
+  date: '2004-06-06'
+  band_name: Kid Andersen
+  club_name: Владимир, Z-Club
+  city_id: 1
+- id: 3438
+  date: '2004-05-14'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_name: Mezzo Forte
+  city_id: 1
+- id: 3440
+  date: '2004-05-15'
+  band_name: Chris Farlowe, Miller Anderson и Н.Арутюнов & Funk-You
+  club_name: Апельсин
+  city_id: 1
+- id: 3443
+  date: '2004-06-04'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Театр Поиск Предмета
+  city_id: 1
+- id: 3462
+  date: '2004-06-04'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Пумба
+  city_id: 1
+- id: 3463
+  date: '2004-05-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Молодая Гвардия
+  city_id: 1
+- id: 3523
+  date: '2004-06-12'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Диана
+  city_id: 1
+  price: 150 руб.
+- id: 3533
+  date: '2004-06-17'
+  band_name: Второе дыхание
+  club_name: Мир Приключений (Старый Арбат, 20)
+  city_id: 1
+- id: 3535
+  date: '2004-06-18'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Маяк
+  city_id: 1
+- id: 3536
+  date: '2004-06-19'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3550
+  date: '2004-06-27'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Диана
+  city_id: 1
+  price: 150 руб.
+- id: 3551
+  date: '2004-07-09'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Пумба
+  city_id: 1
+- id: 3556
+  date: '2004-07-03'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Кафе "Блюз" (Пролетарский пр-т, д.20, стр.1)
+  city_id: 1
+- id: 3558
+  date: '2004-07-16'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3561
+  date: '2004-07-29'
+  band_id: 38
+  band_name: Серебряный Рубль
+  band_token: serebryanyj-rubl
+  club_name: Кафе-Клуб "на Брестской"
+  city_id: 1
+- id: 3579
+  date: '2004-07-22'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Мир приключений на Старом Арбате, д. 20
+  city_id: 1
+- id: 3580
+  date: '2004-07-23'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: ' клуб "Релакс" : выступление в рамках фестиваля'
+  city_id: 1
+- id: 3581
+  date: '2004-07-30'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Заправочный в здании Смоленского Пассажа
+  city_id: 1
+- id: 3595
+  date: '2004-08-06'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Секстон
+  city_id: 1
+- id: 3596
+  date: '2004-07-24'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Пумба
+  city_id: 1
+- id: 3599
+  date: '2004-07-17'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: кафе Блюз (Пролетарский проспект, 20, стр.1)
+  city_id: 1
+- id: 3632
+  date: '2004-08-01'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Мир Приключений (Арбат, 20)
+  city_id: 1
+  price: 250 р
+- id: 3643
+  date: '2004-08-13'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Блюз (Пролетарский пр-т, 20)
+  city_id: 1
+  price: 150 руб.
+- id: 3644
+  date: '2004-08-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3694
+  date: '2004-09-09'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Синяя птица
+  city_id: 1
+- id: 3695
+  date: '2004-09-11'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Синяя птица
+  city_id: 1
+- id: 3696
+  date: '2004-09-12'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Z-Club (г. Владимир)
+  city_id: 1
+- id: 3699
+  date: '2004-09-30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: ПирОГИ (ул. Никольская, 19)
+  city_id: 1
+  price: бесплатный
+- id: 3704
+  date: '2004-09-18'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_name: Red Fox
+  city_id: 2
+- id: 3716
+  date: '2004-09-11'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Братья Блюз
+  city_id: 1
+- id: 3721
+  date: '2004-09-25'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+- id: 3732
+  date: '2004-09-24'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: Клуб на Брестской
+  city_id: 1
+- id: 3733
+  date: '2004-10-02'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: кафе Блюз (Пролетарский пр-т, 20)
+  city_id: 1
+- id: 3743
+  date: '2004-10-01'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: The Blues Brothers
+  city_id: 1
+  price: 200 руб.
+- id: 3744
+  date: '2004-10-07'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: '"Мир приключений"'
+  city_id: 1
+  price: 150 руб.
+- id: 3757
+  date: '2004-10-28'
+  band_name: 'Efes Pilsener / International Blues Festival: Mighty Sam McClain, Little
+    Charlie & The Nightcats, Fruteland Jackson'
+  club_name: Лужники, УСЗ "Дружба"
+  city_id: 1
+- id: 3758
+  date: '2004-10-29'
+  band_name: 'Efes Pilsener / International Blues Festival: Mighty Sam McClain, Little
+    Charlie & The Nightcats, Fruteland Jackson'
+  club_name: Лужники, УСЗ "Дружба"
+  city_id: 1
+- id: 3759
+  date: '2004-10-30'
+  band_name: 'Efes Pilsener / International Blues Festival: Mighty Sam McClain, Little
+    Charlie & The Nightcats, Fruteland Jackson'
+  club_name: Лужники, УСЗ "Дружба"
+  city_id: 1
+- id: 3761
+  date: '2004-11-20'
+  band_name: Mitch Kashmar (США) и Blues Harp Melt Down (Норвегия)
+  club_name: Нижний Новгород
+  city_id: 1
+- id: 3762
+  date: '2004-11-21'
+  band_name: Mitch Kashmar (США) и Blues Harp Melt Down (Норвегия)
+  club_name: Владимир, Z-Club
+  city_id: 1
+- id: 3832
+  date: '2004-10-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Заправочный (Смоленская пл., 3)
+  city_id: 1
+  price: бесплатный
+- id: 3862
+  date: '2004-10-22'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Red Bar / Красный бар
+  city_id: 1
+- id: 3863
+  date: '2004-10-28'
+  band_id: 55
+  band_name: Life-n-Joy Оксаны Кочубей
+  band_token: life-n-joy-oksany-kochubej
+  club_name: Ноги
+  city_id: 1
+- id: 3868
+  date: '2004-10-31'
+  band_name: 'blues.ru minifest: Mishouris & His Orchestra, Louisiana Jumpin'' Cats,
+    Арсен Шомахов, Серебряный Рубль, Blackmailers Blues Band'
+  club_name: Клуб на Брестской
+  city_id: 1
+  price: бесплатный
+- id: 3870
+  date: '2004-11-12'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_name: Центральный Дом Журналиста
+  city_id: 1
+- id: 3878
+  date: '2004-10-22'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Люмос (Новоясеневский пр-т 8)
+  city_id: 1
+- id: 3889
+  date: '2004-10-23'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Клуб "Элвис" (ул. Маяковского, 52/13, м.Чернышевская)
+  city_id: 2
+  price: '40'
+- id: 3928
+  date: '2004-11-27'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+  price: бесплатный
+- id: 3934
+  date: '2004-11-06'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Стоун
+  city_id: 1
+- id: 3973
+  date: '2004-12-03'
+  band_name: Rocknet! (Estonia)
+  club_name: Rosie O'Grady's
+  city_id: 1
+  price: бесплатный
+- id: 3999
+  date: '2004-12-10'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_name: Red Bar
+  city_id: 1
+- id: 4027
+  date: '2004-12-03'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Discovery
+  city_id: 1
+- id: 4029
+  date: '2004-12-11'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Fender Party  в Горбушке
+  city_id: 1
+- id: 4033
+  date: '2004-12-11'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_name: ДК Горбунова
+  city_id: 1
+- id: 4035
+  date: '2004-12-04'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_name: Элвис (ул. Ленсовета, 36, м. Московская)
+  city_id: 2
+- id: 4066
+  date: '2004-12-19'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Владимир, Zet Club
+  city_id: 1
+- id: 4067
+  date: '2004-12-23'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_name: '"Premium" - Славянский б-р 9'
+  city_id: 1
+- id: 4068
+  date: '2004-12-12'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_name: Пумба
+  city_id: 1
+  price: бесплатный
+- id: 4094
+  date: '2004-12-25'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Премиум
+  city_id: 1
+- id: 4103
+  date: '2004-12-24'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_name: RJ Club
+  city_id: 1

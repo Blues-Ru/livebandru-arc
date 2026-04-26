@@ -1,0 +1,32 @@
+id: 725
+token: roadhouse
+name: Дом у Дороги
+aliases: 'Roadhouse
+
+  Roadhouse Club
+
+  Roadhouse Blues Club
+
+  ДуД'
+alive: false
+address: Садовая-Спасская, 20с1
+subway: Красные Ворота
+phone: (495) 608-27-30
+city_id: 1
+comments: совместно с рестораном OFFER
+clips:
+- id: 4744
+  type: weblink
+  url: http://blueshouse.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 4745
+  type: weblink
+  url: https://www.facebook.com/RoadhouseMoscow
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 5137
+  type: weblink
+  url: http://twitter.com/roadhouseclub
+  name: Твиттер @roadhouseclub
+  sort_order: 200

@@ -1,0 +1,21 @@
+id: 475
+token: don-burrito
+name: Дон Буррито
+alive: true
+address: Комсомольский проспект, д. 28
+subway: Фрунзенская
+phone: +7(985)222-23-32
+city_id: 1
+comments: Здание Московского Дворца Молодежи (МДМ)
+clips:
+- id: 2327
+  type: weblink
+  url: http://donburrito.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2328
+  type: photo
+  url: don-burrito.jpg
+  sort_order: 0
+  width: 807
+  height: 538

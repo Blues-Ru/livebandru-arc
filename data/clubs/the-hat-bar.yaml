@@ -1,0 +1,21 @@
+id: 852
+token: the-hat-bar
+name: The Hat Bar
+aliases: 'Шляпа
+
+  The Hat'
+alive: true
+address: ул. Белинского, 9
+subway: Гостиный двор, Чернышевская, Маяковская
+city_id: 2
+clips:
+- id: 7970
+  type: weblink
+  url: http://hatgroup.ru/live/
+  name: Официальный сайт
+  sort_order: 0
+- id: 9685
+  type: weblink
+  url: https://vk.com/thehatbar
+  name: Страница ВКонтакте
+  sort_order: 100

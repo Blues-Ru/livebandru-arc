@@ -1,0 +1,17 @@
+id: 751
+token: a2-spb
+name: А2 (СПб)
+aliases: 'А2 (СПб), Мир
+
+  А2 (СПб), Спутник'
+alive: true
+address: Проспект Медиков, 3
+subway: Петроградская
+phone: +7 (812) 309-9922
+city_id: 2
+clips:
+- id: 5197
+  type: weblink
+  url: http://a2.fm/
+  name: Официальный сайт
+  sort_order: 0

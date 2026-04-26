@@ -1,0 +1,15 @@
+id: 615
+token: muzey-prishvina
+name: Музей-усадьба М.М.Пришвина
+alive: true
+address: Москвоская область, д. Дунино
+phone: +7(495)992-66-43
+city_id: 111
+comments: м. Молодежная, 1-й вагон из центра, маршрутка №121 до конечной "Лесные дали",
+  далее 20 минут пешком до деревни Дунино
+clips:
+- id: 3536
+  type: weblink
+  url: http://www.prishvin.ru
+  name: Официальный сайт
+  sort_order: 0

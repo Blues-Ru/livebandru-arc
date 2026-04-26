@@ -1,0 +1,12 @@
+id: 437
+token: roccobar
+name: RoccoBar
+alive: true
+address: Ленина, 85а
+phone: 33-55-88
+city_id: 41
+clips:
+- id: 2044
+  type: rss
+  url: http://roccobartomsk.blogspot.com/feeds/posts/default
+  sort_order: 99

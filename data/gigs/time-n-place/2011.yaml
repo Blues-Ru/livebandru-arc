@@ -1,0 +1,509 @@
+- id: 21566
+  date: '2011-09-03'
+  time: '20:30'
+  band_name: Ансамбль "Crossing Rhythms" Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Авторский джаз.
+- id: 21567
+  date: '2011-09-06'
+  time: '20:30'
+  band_name: Джем-сейшн с Александром Гуреевым
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+- id: 21568
+  date: '2011-09-07'
+  time: '19:30'
+  band_name: Дуэт Роман Нетесов - Роман Дмитриев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: "Роман Нетесов (тенор-саксофон), Роман Дмитриев (рояль).\r\nДжазовые стандарты."
+- id: 21569
+  date: '2011-09-08'
+  time: '20:30'
+  band_name: Трио Алексея Иванникова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, авторская музыка.
+- id: 21570
+  date: '2011-09-10'
+  time: '20:30'
+  band_name: Ансамбль "Crossing Rhythms" Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, хард-боп.
+- id: 21571
+  date: '2011-09-12'
+  time: '20:30'
+  band_name: Большой Джазовый Оркестр (БДО) Петра Востокова и Дарья Антонова (вокал)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Свинг, классический джаз.
+- id: 21572
+  date: '2011-09-13'
+  time: '20:30'
+  band_name: Джем-сейшн с Александром Гуреевым
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+- id: 21573
+  date: '2011-09-14'
+  time: '20:30'
+  band_name: Роман Дмитриев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Роман Дмитриев - рояль. Джазовые стандарты.
+- id: 21574
+  date: '2011-09-15'
+  time: '20:30'
+  band_name: Квартет Романа Нетесова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+- id: 21575
+  date: '2011-09-17'
+  time: '20:30'
+  band_name: Алевтина Полякова (тромбон) и трио Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, хард-боп.
+- id: 21576
+  date: '2011-09-19'
+  time: '20:30'
+  band_name: Большой Джазовый Оркестр (БДО) Петра Востокова и Дарья Антонова (вокал)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Свинг, классический джаз.
+- id: 21577
+  date: '2011-09-20'
+  time: '20:30'
+  band_name: Джем-сейшн с Александром Гуреевым
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовые стандарты.
+- id: 21578
+  date: '2011-09-21'
+  time: '20:30'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Кул-джаз.
+- id: 21579
+  date: '2011-09-22'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовый мэйнстрим.
+- id: 21580
+  date: '2011-09-24'
+  time: '20:30'
+  band_name: Петр Востоков (труба) и трио Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Музыка Диззи Гиллеспи.
+- id: 21581
+  date: '2011-09-27'
+  time: '20:30'
+  band_name: Джем-сейшн & Александр Гуреев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Современный джаз.
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 21582
+  date: '2011-09-28'
+  time: '20:30'
+  band_id: 481
+  band_name: Александр Гуреев
+  band_token: a-gureev
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Би-боп.
+- id: 21583
+  date: '2011-09-29'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Бразильский джаз.
+- id: 21762
+  date: '2011-09-16'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 23043
+  date: '2011-12-01'
+  time: '21:00'
+  band_id: 502
+  band_name: Живые Люди
+  band_token: livepeople
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22090
+  date: '2011-10-17'
+  time: '20:30'
+  band_name: Оркестр " Консорт " п/у Юрия Чугунова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22000
+  date: '2011-10-01'
+  time: '20:30'
+  band_name: Квартет Григория Зайцева
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Современный авторский джаз.
+- id: 22001
+  date: '2011-10-03'
+  time: '20:30'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Свинг, классический джаз.
+- id: 22002
+  date: '2011-10-04'
+  time: '20:30'
+  band_name: Джем-сейшн & Александр Гуреев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 22003
+  date: '2011-10-05'
+  time: '19:30'
+  band_name: Дуэт Роман Нетесов (тенор-саксофон) - Роман Дмитриев (рояль)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовые стандарты.
+- id: 22004
+  date: '2011-10-06'
+  time: '20:30'
+  band_name: Трио Евгения Гречищева
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, авторская музыка.
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22005
+  date: '2011-10-08'
+  time: '20:30'
+  band_name: Антон Румянцев(саксофон) и трио Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, хард - боп.
+- id: 22006
+  date: '2011-10-11'
+  time: '20:30'
+  band_name: Джем-сейшн & Александр Гуреев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 22007
+  date: '2011-10-12'
+  time: '20:30'
+  band_name: Роман Дмитриев (рояль)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовые стандарты.
+- id: 22008
+  date: '2011-10-13'
+  time: '20:30'
+  band_name: Квартет Романа Нетесова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+- id: 22010
+  date: '2011-10-18'
+  time: '20:30'
+  band_name: Джем-сейшн & Александр Гуреев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовые стандарты.
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 22011
+  date: '2011-10-19'
+  time: '20:30'
+  band_name: Александр Шевцов (гитара) - Игорь Кондур (контрабас)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Кул-джаз.
+- id: 22012
+  date: '2011-10-20'
+  time: '20:30'
+  band_name: Солисты оркестра Игоря Бутмана - Дмитрий Мосьпан, Александр Беренсон
+    и ансамбль "Impulse Band"
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Современный джаз.
+- id: 22009
+  date: '2011-10-15'
+  time: '20:30'
+  band_name: All Inclusive Project (Алексей Попов (саксофон), Лера Гехнер (вокал)
+    и трио Алексея Подымкина)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Презентация нового CD Алесея Попова "ALL INCLUSIVE". Авторская музыка,
+    фанк.
+- id: 22013
+  date: '2011-10-22'
+  time: '20:30'
+  band_name: Ансамбль "Crossing Rhythms" Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Авторский джаз, хард-боп.
+- id: 22014
+  date: '2011-10-24'
+  time: '20:30'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Свинг, классический джаз.
+- id: 22015
+  date: '2011-10-25'
+  time: '20:30'
+  band_name: Джем-сейшн & Александр Гуреев
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джаз, мэйнстрим.
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+- id: 22016
+  date: '2011-10-26'
+  time: '20:30'
+  band_name: Антон Баронин (рояль) - Игорь Кондур (контрабас)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Джазовые стандарты.
+- id: 22017
+  date: '2011-10-27'
+  time: '20:30'
+  band_name: Квартет Марии Арт
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Современный авторский джаз.
+- id: 22018
+  date: '2011-10-29'
+  time: '20:30'
+  band_name: Олег Грымов (саксофон) и трио Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  comments: Хард - боп.
+- id: 22934
+  date: '2011-11-01'
+  time: '20:30'
+  band_name: Живой джазовый джем с Андреем Синенко
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22935
+  date: '2011-11-02'
+  time: '20:30'
+  band_name: Джазовый Оркестр "Консорт" п/у Юрия Чугунова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22936
+  date: '2011-11-03'
+  time: '20:30'
+  band_name: Квартет Андрея Красильникова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22937
+  date: '2011-11-05'
+  time: '20:30'
+  band_name: Ансамбль "Crossing Rhythms" Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22938
+  date: '2011-11-08'
+  time: '20:30'
+  band_name: Живой джазовый джем с Андреем Синенко
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22939
+  date: '2011-11-09'
+  time: '20:30'
+  band_name: Рон Уилкинс (тромбон, вокал, США) и трио Валерия Гроховского (США - Россия)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22940
+  date: '2011-11-10'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22941
+  date: '2011-11-12'
+  time: '19:30'
+  band_name: Юлиана Рогачева (вокал) и трио Алексея Чернакова
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22942
+  date: '2011-11-15'
+  time: '20:30'
+  band_name: Живой джазовый джем с Андреем Синенко
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22943
+  date: '2011-11-16'
+  time: '20:30'
+  band_name: Дуэт Андрей Синенко (альт-саксофон) и Алексей Беккер (рояль)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22944
+  date: '2011-11-17'
+  time: '20:30'
+  band_id: 150
+  band_name: Трио Ивана Фармаковского
+  band_token: farmakovsky
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22945
+  date: '2011-11-18'
+  time: '20:30'
+  band_name: Сэнди Паттон (вокал, США) и трио Евгения Рябого
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22946
+  date: '2011-11-19'
+  time: '19:30'
+  band_name: Трио Евгения Гречищева (рояль) - Владимира Голоухова (вибрафон)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22947
+  date: '2011-11-19'
+  time: '21:00'
+  band_name: Сэнди Паттон (вокал, США) и трио Евгения Рябого
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22948
+  date: '2011-11-22'
+  time: '20:30'
+  band_name: Живой джазовый джем с Андреем Синенко
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22949
+  date: '2011-11-23'
+  time: '20:30'
+  band_name: Трио Ильи Зырянова (гитара)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22950
+  date: '2011-11-24'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22951
+  date: '2011-11-26'
+  time: '20:30'
+  band_name: Андрей Синенко (альт-саксофон) и трио Алексея Подымкина
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22952
+  date: '2011-11-29'
+  time: '20:30'
+  band_name: Живой джазовый джем с Андреем Синенко
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place
+- id: 22953
+  date: '2011-11-30'
+  time: '20:30'
+  band_name: Трио Ольги Глебец (вокал, рояль)
+  club_id: 489
+  club_name: Time'n Place
+  club_token: time-n-place

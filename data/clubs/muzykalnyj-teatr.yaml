@@ -1,0 +1,13 @@
+id: 698
+token: muzykalnyj-teatr
+name: Музыкальный Театр
+alive: true
+address: ул. Красная, д. 44
+phone: +7(861)262-49-66
+city_id: 28
+clips:
+- id: 4448
+  type: weblink
+  url: http://www.to-premiera.com/collectiv/music/about/
+  name: Официальный сайт
+  sort_order: 0

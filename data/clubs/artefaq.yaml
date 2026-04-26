@@ -1,0 +1,15 @@
+id: 132
+token: artefaq
+name: ArteFAQ
+aliases: Артефак
+alive: true
+address: Б.Дмитровка, 32, стр. 1
+subway: Тверская, Пушкинская, Чеховская
+phone: (495) 650 39 71
+city_id: 1
+clips:
+- id: 39
+  type: weblink
+  url: http://www.artefaq.ru/
+  name: Официальный сайт
+  sort_order: 0

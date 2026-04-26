@@ -1,0 +1,15 @@
+id: 280
+token: epi-center
+name: ГитарЭпиЦентр
+alive: true
+address: Саянская, 11/1
+subway: Новогиреево
+phone: (495) 741-27-41
+city_id: 1
+comments: Магазин "Музторг-дисконт"
+clips:
+- id: 779
+  type: weblink
+  url: http://www.muztorg.ru/shops/discount/
+  name: Страница на сайте Музторга
+  sort_order: 99

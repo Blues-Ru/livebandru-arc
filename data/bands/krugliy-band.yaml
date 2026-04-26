@@ -1,0 +1,13 @@
+id: 513
+token: krugliy-band
+name: Круглый Бенд
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Алексей Круглов
+  instruments: саксофоны
+- name: Денис Силенко
+  instruments: контрабас
+- name: Петр Афанасьев
+  instruments: ударные

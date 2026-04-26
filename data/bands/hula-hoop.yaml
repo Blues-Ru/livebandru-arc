@@ -1,0 +1,40 @@
+id: 158
+token: hula-hoop
+name: HulaHoop
+aliases: Hula Hoop
+alive: true
+url: http://www.hulahoop.ru/
+city_id: 1
+genre_id: 8
+secondary_genre_id: 14
+musicians:
+- name: Михаил Маршак
+  instruments: гитара, вокал
+- name: Олег Радушнов
+  instruments: бас, бэк
+- name: Павел Капитонов
+  instruments: барабаны
+clips:
+- id: 227
+  type: weblink
+  url: http://www.hulahoop.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 705
+  type: youtube
+  url: http://www.youtube.com/?v=qqw3AUu12HM
+  name: Crash
+  comments: HulaHoop празднуют день рождения группы (как водится, с бабами и выпивкой)))
+  sort_order: 99
+- id: 706
+  type: youtube
+  url: http://www.youtube.com/?v=iDKJ569h2fw
+  name: Love Whip
+  comments: Выступление в клубе "Олимпиада80", спец гость - Виктор Лисицын (Harp)
+  sort_order: 199
+- id: 707
+  type: youtube
+  url: http://www.youtube.com/?v=e7UFwhyMDag
+  name: Folsom Prison Blues
+  comments: Олимпиада80 HulaHoop + виктор Лисицын
+  sort_order: 299

@@ -1,0 +1,14 @@
+id: 7
+token: crazy-milk
+name: Crazy Milk
+alive: true
+address: ул. Б.Полянка, 54
+subway: Полянка
+phone: 230-7333
+city_id: 1
+clips:
+- id: 4934
+  type: weblink
+  url: http://www.crazymilk.ru/
+  name: Официальный сайт
+  sort_order: 0

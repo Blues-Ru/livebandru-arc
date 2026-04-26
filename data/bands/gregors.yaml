@@ -1,0 +1,30 @@
+id: 731
+token: gregors
+name: Gregor's Band
+alive: true
+url: http://gb-music.ru/
+city_id: 90
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Александр Дмитриевых
+  instruments: гитара, вокал
+- name: Александр Шубников
+  instruments: бас
+- name: Александра Гагаринова
+  instruments: перкуссия
+- name: Дмитрий Троицкий
+  instruments: барабаны
+- name: Анатолий Мартыненко
+  instruments: харп
+clips:
+- id: 8570
+  type: weblink
+  url: http://gb-music.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 8571
+  type: weblink
+  url: https://vk.com/gregorsband
+  name: Страница ВКонтакте
+  sort_order: 100

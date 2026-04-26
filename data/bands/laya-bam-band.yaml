@@ -1,0 +1,59 @@
+id: 474
+token: laya-bam-band
+name: Laya Bam Band
+alive: true
+url: http://www.layabamband.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 7
+musicians:
+- name: Arishata
+  instruments: вокал
+- name: Артем Айвазян
+  instruments: труба
+- name: Илья Симаков
+  instruments: тенор-саксофон
+- name: Даниил Федоров
+  instruments: альт-саксофон
+- name: Алексей Крючков
+  instruments: гитара
+- name: Павел Егоров
+  instruments: клавишные
+- name: Владимир Топорин
+  instruments: бас
+- name: Павел Джемов
+  instruments: ударные
+clips:
+- id: 2201
+  type: photo
+  url: laya-bam-band.png
+  sort_order: 0
+  width: 400
+  height: 266
+- id: 2202
+  type: youtube
+  url: http://www.youtube.com/?v=dUCVmyZn-Wc
+  name: Laya Bam Band - Московский Международный Дом Музыки
+  comments: http://www.layabamband.com/
+  sort_order: 99
+- id: 2203
+  type: weblink
+  url: http://www.layabamband.ru
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 158
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Артем Айвазян, Arishata и Laya Bam Band - одна из известных российских групп,
+    работающих в стиле modern jazz, которые появились на российской джазовой сцене
+    за последнее время. Laya Bam Band - настоящие экспериментаторы от джаза: группа
+    трубача Артема Айвазяна активно использует электронику и прибегает к самым неожиданным
+    творческим решениям. Музыканты славятся умением органично сращивать фанк, диско,
+    рок и современную электронную музыку, а обладательница чувственного и подвижного
+    голоса Arishata - способностью завести зал с пол-оборота и повелевать публикой
+    до последней минуты концерта.'
+  verified: true
+  created: '2011-05-27'
+  is_press_release: true

@@ -1,0 +1,22 @@
+id: 467
+token: alinarostotskaya
+name: Алина Ростоцкая
+alive: true
+url: http://www.alinarostotskaya.com
+city_id: 1
+genre_id: 2
+musicians:
+- name: Алина Ростоцкая
+  instruments: вокал
+clips:
+- id: 2187
+  type: photo
+  url: alinarostotskaya.jpg
+  sort_order: 0
+  width: 2592
+  height: 3888
+- id: 2188
+  type: weblink
+  url: http://www.alinarostotskaya.com
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,99 @@
+id: 698
+token: lazer-lloyd
+name: Lazer Lloyd
+alive: true
+url: http://www.lazerlloyd.com/
+city_id: 47
+genre_id: 1
+secondary_genre_id: 3
+clips:
+- id: 6216
+  type: photo
+  url: lazer-lloyd.jpg
+  sort_order: 0
+  width: 319
+  height: 480
+- id: 6244
+  type: photo
+  url: lazer-lloyd-2.jpg
+  sort_order: 100
+  width: 979
+  height: 1306
+- id: 6245
+  type: photo
+  url: lazer-lloyd-3.jpg
+  sort_order: 200
+  width: 960
+  height: 720
+- id: 6246
+  type: photo
+  url: lazer-lloyd-4.jpg
+  sort_order: 300
+  width: 539
+  height: 330
+- id: 6247
+  type: photo
+  url: lazer-lloyd-5.jpg
+  sort_order: 400
+  width: 3264
+  height: 2448
+- id: 6248
+  type: photo
+  url: lazer-lloyd-6.jpg
+  sort_order: 500
+  width: 612
+  height: 612
+- id: 6249
+  type: photo
+  url: lazer-lloyd-7.jpg
+  sort_order: 600
+  width: 685
+  height: 473
+- id: 6250
+  type: photo
+  url: lazer-lloyd-8.jpg
+  sort_order: 700
+  width: 500
+  height: 715
+- id: 6251
+  type: photo
+  url: lazer-lloyd-9.jpg
+  sort_order: 50
+  width: 2362
+  height: 1528
+- id: 6252
+  type: mp3
+  url: lazer-lloyd-2.mp3
+  sort_order: 100
+- id: 6215
+  type: youtube
+  url: http://www.youtube.com/?v=mm2H5sOXZZs
+  name: Презентация
+  comments: Meet Israel's King of Blues Rock, Lazer LloydMore from Lazer:http://lazerlloyd.comTo
+    book Lazer please contact -Yocheved Seidmanyocheved3@gmail.com773-597-7690 (cell)607-330-2749
+    (Vonage)
+  sort_order: 99
+- id: 6242
+  type: mp3
+  url: lazer-lloyd.mp3
+  sort_order: 0
+- id: 6214
+  type: weblink
+  url: http://www.lazerlloyd.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 6243
+  type: youtube
+  url: http://www.youtube.com/?v=vPfx8ewy4ec
+  name: В Россию с Любовью
+  comments: Презентация компании "PRIME EVENTS", новой программы великого блюз-рок
+    гитариста, певца и композитора Лэйзера Ллойда.
+  sort_order: 199
+- id: 6253
+  type: mp3
+  url: lazer-lloyd-3.mp3
+  sort_order: 200
+- id: 6254
+  type: mp3
+  url: lazer-lloyd-4.mp3
+  sort_order: 300

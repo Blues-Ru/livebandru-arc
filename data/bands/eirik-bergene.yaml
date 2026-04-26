@@ -1,0 +1,27 @@
+id: 103
+token: eirik-bergene
+name: Eirik Bergene
+aliases: Эйрик Бергене
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Эйрик Бергене
+  instruments: губная гармоника, вокал, бас
+clips:
+- id: 24
+  type: weblink
+  url: http://www.myspace.com/eirikbergene
+  name: Eirik Bergene на MySpace
+  sort_order: 0
+- id: 25
+  type: weblink
+  url: http://www.blues.ru/bluesmen/Eirik_Bergene/
+  name: Eirik Bergene Band на blues.ru
+  sort_order: 100
+- id: 26
+  type: photo
+  url: eirik-bergene.jpg
+  sort_order: 0
+  width: 170
+  height: 227

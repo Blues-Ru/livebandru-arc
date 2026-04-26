@@ -1,0 +1,80 @@
+id: 610
+token: pelengus
+name: PelengUs
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 24
+clips:
+- id: 3755
+  type: weblink
+  url: http://www.facebook.com/groups/272234742898170/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 4142
+  type: youtube
+  url: http://www.youtube.com/?v=RqJeAIz53N8
+  name: Группа "PelengUs" - Can't hold out
+  comments: Так начинается каждый вечер, когда мы играем для вас!
+  sort_order: 0
+- id: 3756
+  type: youtube
+  url: http://www.youtube.com/?v=SIrSX-UJM7Q
+  name: Группа "PelengUs" - Lonley crowd
+  comments: 'Этой композицией мы обычно открываем второе отделение: медленный инструментальный
+    блюз...'
+  sort_order: 99
+- id: 4140
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 5202
+  type: photo
+  url: pelengus.jpg
+  sort_order: 0
+  width: 2048
+  height: 835
+- id: 5198
+  type: youtube
+  url: http://www.youtube.com/?v=yK5XKcr61jc
+  name: Группа "PelengUs" - Unchain my heart
+  sort_order: 50
+- id: 5199
+  type: youtube
+  url: http://www.youtube.com/?v=cG_Ful65lkQ
+  name: Группа "PelengUs" -  Black magic woman
+  comments: ''
+  sort_order: 399
+- id: 5200
+  type: youtube
+  url: http://www.youtube.com/?v=0GhX84eJaCc
+  name: Группа "PelengUs" - You can leave your hat on
+  comments: ''
+  sort_order: 25
+- id: 5201
+  type: youtube
+  url: http://www.youtube.com/?v=1SNR2xzHGTk
+  name: Группа "PelengUs" - Колыбельная
+  comments: ''
+  sort_order: 75
+reviews:
+- id: 340
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Есть разная музыка: веселая, грустная, громкая, тихая, классическая, современная,
+    музыка для детей и даже, говорят, для растений... А есть - просто хорошая музыка.
+    Музыка и песни, которые хочется слушать, вне зависимости от их жанровой принадлежности.
+    Которые на своем простом языке рассказывают о том, что мир - прекрасен, что есть
+    места, куда стремится сердце, что существуют простые ценности и радости. Под эту
+    музыку можно танцевать, ей можно подпевать, можно заглянуть в себя и задуматься
+    над тем, что созвучно услышанному, а можно просто слушать ее в кругу друзей или
+    просто хороших людей, отбивая такт и загадочно улыбаться, будто знаешь все наперед.
+    Мы приглашаем вас на вечера такой музыки: блюза, фанка, регги, джаза, рок-н-ролла...
+    Все легко, непринужденно, весело и очень по-доброму!
+
+
+    Приходите сами, приводите друзей, будем рады вас видеть!'
+  verified: true
+  created: '2012-11-22'
+  is_press_release: true

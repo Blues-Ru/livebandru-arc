@@ -1,0 +1,13 @@
+id: 206
+token: global-warming
+name: Глобальное Потепление
+alive: true
+url: http://www.globalnoe.com
+city_id: 30
+genre_id: 5
+clips:
+- id: 572
+  type: weblink
+  url: http://www.globalnoe.com
+  name: Официальный сайт
+  sort_order: 0

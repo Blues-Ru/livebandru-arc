@@ -1,0 +1,129 @@
+- id: 11238
+  date: '2009-11-14'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11240
+  date: '2009-11-18'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+- id: 11244
+  date: '2009-11-25'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+- id: 11246
+  date: '2009-12-02'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+  extra_bands:
+  - id: 19
+    name: Dr. Nick
+    token: dr-nick
+- id: 11301
+  date: '2009-12-05'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: свободный
+- id: 11319
+  date: '2009-12-16'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+- id: 11401
+  date: '2009-12-20'
+  time: '20:30'
+  band_name: Fusion Port
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 250 руб.
+- id: 11402
+  date: '2009-12-22'
+  time: '20:30'
+  band_name: Юрий Каверкин и ...
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 11426
+  date: '2009-12-30'
+  time: '20:30'
+  band_id: 113
+  band_name: Mellow Yellow
+  band_token: mellow-yellow
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: бесплатный
+- id: 11425
+  date: '2009-12-26'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+- id: 11428
+  date: '2009-12-28'
+  time: '20:00'
+  band_name: Новый Год с Вофкой Кожекиным!
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 11404
+  date: '2009-12-25'
+  time: '20:30'
+  band_name: Вечер с Алексеем Козловым
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 400 руб.
+- id: 11405
+  date: '2009-12-27'
+  time: '20:00'
+  band_name: Вячеслав Горский и Игорь Горский в программе "Шкатулка сюрпризов"
+  club_id: 141
+  club_name: Blues Time
+  club_token: blues-time
+  price: 300 руб.

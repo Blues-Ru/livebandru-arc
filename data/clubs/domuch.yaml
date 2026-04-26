@@ -1,0 +1,14 @@
+id: 464
+token: domuch
+name: Дом Ученых
+alive: true
+address: ул. Пречистенка, д. 16
+subway: Кропоткинская
+phone: +7(495)637-45-55
+city_id: 1
+clips:
+- id: 2213
+  type: weblink
+  url: http://www.cdu-art.ru
+  name: Официальный сайт
+  sort_order: 0

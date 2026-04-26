@@ -1,0 +1,64 @@
+id: 723
+token: kumar-burgin
+name: Aki Kumar & Rockin' Johnny Burgin
+aliases: 'Aki Kumar
+
+  Johnny Burgin
+
+  Aki Kumar и Rockin'' Johnny Burgin
+
+  Aki Kumar & Johnny Burgin
+
+  Aki Kumar и Johnny Burgin'
+alive: true
+city_id: 13
+genre_id: 1
+clips:
+- id: 8280
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 8281
+  type: photo
+  url: kumar-burgin.jpg
+  name: Aki Kumar
+  sort_order: 0
+  width: 533
+  height: 800
+- id: 8279
+  type: youtube
+  url: https://www.youtube.com/watch?v=qMMbW__K6uI
+  name: Rockin' Johnny Burgin & Aki Kumar - Standin' Around Cryin' (video Jyrki Kallio)
+  comments: Rockin' Johnny Burgin guitar, Aki Kumar harmonica and vocals, Jaska Prepula
+    bass and Mikko Peltola drums at Down Home Kivi, Tampere, Finland 17.3.2016. Song
+    by Muddy Waters.
+  sort_order: 99
+reviews:
+- id: 476
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Впервые в Россию приезжает поразительный музыкальный союз, объединяющий в
+    себе двух ярчайших представителей блюза Чикаго и блюза западного побережья Соединенных
+    Штатов. Гитарист и вокалист, ветеран Чикагского блюза - Джонни Бергин за свою
+    карьеру успел сыграть и записаться с многими классиками жанра из города ветров.
+    Его последний, шестой альбом "Greetings from Greaseland", записанный в Калифорнии,
+    раскрыл его как поразительного фронтмена и был высоко оценен критиками.
+
+
+    Аки Кумар - восходящая звезда блюзовой гармоники и прекрасный вокалист, крайне
+    уважаемый музыкант и ведущий практически всех блюзовых джемов в регионе Сан-Франциско.
+    На счету Аки отличные записи и участие во множестве крупных блюзовых фестивалей
+    в США. А его последняя, крайне удивительная запись "Aki Goes to Bollywood" сделала
+    его знаменитым.
+
+
+    Вместе, Джонни и Аки - мощнейшее блюзовое сотрудничество, комбинирующее самые
+    восхитительные элементы блюза Чикаго и блюза Западного Побережья. Их сотрудничество
+    уже принесло свои плоды в виде множества успешных турне в США и Европе. А теперь
+    они приедут в Россию при помощи группы The Jumping Cats, которые не перестают
+    находить и привозить в Россию интересных артистов из самого сердца международного
+    блюзового сообщества.'
+  verified: true
+  created: '2017-04-10'
+  is_press_release: true

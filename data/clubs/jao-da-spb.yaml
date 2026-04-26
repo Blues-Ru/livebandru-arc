@@ -1,0 +1,20 @@
+id: 177
+token: jao-da-spb
+name: Китайский летчик Джао Да (СПб)
+aliases: Китайский летчик Джао Да (Санкт-Петербург)
+alive: false
+address: Пестеля, 7
+subway: Чернышевская, Гостинный Двор
+phone: (812) 273-74-87
+city_id: 2
+clips:
+- id: 183
+  type: weblink
+  url: http://www.jao-da.ru/
+  name: сайт московского клуба
+  sort_order: 0
+- id: 1979
+  type: weblink
+  url: http://www.jao-da.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,23 @@
+id: 153
+token: cafe-ray
+name: Cafe Ray
+aliases: 'Кафе Рэй
+
+  Кафе "Рэй"
+
+  Рэй
+
+  Рей
+
+  Кафе "Рей"'
+alive: true
+address: Новослободская, 46
+subway: Менделеевская, Новослободская
+phone: +7 (499) 972-45-77
+city_id: 1
+clips:
+- id: 99
+  type: weblink
+  url: http://www.caferay.ru
+  name: Официальный сайт
+  sort_order: 0

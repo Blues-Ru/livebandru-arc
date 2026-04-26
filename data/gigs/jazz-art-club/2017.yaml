@@ -1,0 +1,498 @@
+- id: 62492
+  date: '2017-01-11'
+  time: '19:30'
+  band_id: 465
+  band_name: Квартет Владимира Нестеренко
+  band_token: kvartet-nesterenko
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 62493
+  date: '2017-01-18'
+  time: '19:30'
+  band_name: Волшебный полет
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Светлана Панова - вокал, Иван Рахманов - гитара, Максим Баранов - клавиши,
+    Евгений Степанов - бас, Иван Авалиани - барабаны
+- id: 62494
+  date: '2017-01-25'
+  time: '19:30'
+  band_name: Премьера программы "Ушедшие сны". Музыка Виктора Аграновича
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Ник Шеффер - тенор-саксофон, Роман Иванов - труба, Виктор Агранович -
+    фортепиано, Олег Добронравов - контрабас, Игорь Игнатов - ударные
+- id: 62645
+  date: '2017-02-08'
+  time: '19:30'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Иннокентий Иванов - вибрафон; Антон Залетаев - саксофоны, флейты; Алексей
+    Рябухин - клавишные; Александр Горох - гитара; Вячеслав Ахметзянов - контрабас;
+    Алексей Денисов - ударные
+- id: 62644
+  date: '2017-02-01'
+  time: '19:30'
+  band_name: Квинтет Алексея Терентьева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Алексей Терентьев - тенор-саксофон, Владимир Нестеренко - ф-но, орган,
+    Николай Куликов - гитара, Григорий Зайцев - контрабас, Алексей Беккер - ударные
+- id: 62646
+  date: '2017-02-15'
+  time: '19:30'
+  band_name: Валерий Киселев и Ансамбль классического джаза. Программа, посвященная
+    Нат Кинг Колу
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 62647
+  date: '2017-02-22'
+  time: '19:30'
+  band_name: Bril Brothers. Концерт - посвящение фотожурналисту Феликсу Соловьеву
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 63601
+  date: '2017-03-08'
+  time: '19:30'
+  band_name: Юрий Рябов и друзья в праздничном концерте "Фрэнк Синатра и не только..."
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 63603
+  date: '2017-03-22'
+  time: '19:30'
+  band_name: Владимир Сидоркович (вокал) и трио Игоря Смирнова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 63600
+  date: '2017-03-01'
+  time: '19:30'
+  band_name: 'Юбилейный концерт Юрия Маркина. На сцене квартет в составе: Олег Агеев
+    (тенор-саксофон), Юрий Маркин (фортепиано), Владимир Мосунов (контрабас), Аркадий
+    Баклагин (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 63602
+  date: '2017-03-15'
+  time: '19:30'
+  band_name: 'Квартет Асии Шакировой: Роман Соколов (тенор-саксофон), Асия Шакирова
+    (фортепиано), Виталий Соломонов (контрабас), Андрей Панкратов (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 63604
+  date: '2017-03-29'
+  time: '19:30'
+  band_name: Валерий Киселев и ансамбль классического джаза. Программа "In the rhythms
+    of samba and bossanova"
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 64268
+  date: '2017-04-05'
+  time: '19:30'
+  band_name: Трио Евгения Гречищева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 64269
+  date: '2017-04-12'
+  time: '19:30'
+  band_name: Трио Владимира Нестеренко
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 64270
+  date: '2017-04-19'
+  time: '19:30'
+  band_id: 451
+  band_name: Ансамбль "Каданс" Германа Лукьянова
+  band_token: kadans-lukiyanov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 64271
+  date: '2017-04-26'
+  time: '19:30'
+  band_name: День Рождения "Джаз Арт Клуба". Нам 23. На сцене ансамбли класса профессора
+    А.В.Осейчука, РАМ им. Гнесиных
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 64834
+  date: '2017-05-03'
+  time: '19:30'
+  band_name: Квартет Алексея Рябухина и Анастасия Лютова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Алексей Рябухин (фортепиано), Александр Горох (гитара), Сергей Хутас (контрабас),
+    Дмитрий Власенко (ударные), Анастасия Лютова (вокал)
+- id: 64836
+  date: '2017-05-17'
+  time: '19:30'
+  band_id: 82
+  band_name: Алексей Кузнецов
+  band_token: alexey-kuznetsov
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: В концерте принимают участие Максим Шибин (гитара), Игорь Иванушкин (контрабас),
+    Вартан Бабаян (ударные)
+- id: 64838
+  date: '2017-05-31'
+  time: '19:30'
+  band_name: Квартет Максима Баранова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Антон Залетаев (саксофон, флейта), Максим Баранов (фортепиано), Иван Рахманов
+    (гитара), Аркадий Баклагин (ударные)
+- id: 64835
+  date: '2017-05-10'
+  time: '19:30'
+  band_name: Ансамбль Capella Dixi. Большой концерт по случаю юбилея основателя и
+    руководителя ансамбля Льва Лебедева (кларнет)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Леонид Лебедев (кларнет), специальные гости - Евгений Баранов (труба),
+    Борис Рукенглуз (тромбон), Виктор Фридман (фортепиано) и другие
+- id: 64837
+  date: '2017-05-24'
+  time: '19:30'
+  band_name: Игорь Бриль и его ученики
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 65475
+  date: '2017-07-05'
+  time: '19:30'
+  band_name: Виктория Чековая и квартет Виктора Фридмана
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 65476
+  date: '2017-07-09'
+  time: '12:30'
+  band_name: XIX фестиваль "Джаз на Москва-реке"
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 65478
+  date: '2017-07-19'
+  time: '19:30'
+  band_name: 'Москва - Нью Йорк. Встреча на сцене: Трио Льва Кушнира (Москва), Сергей
+    Гурбелошвили (Нью Йорк)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 65479
+  date: '2017-07-26'
+  time: '19:30'
+  band_name: Дария Эйбушитц и друзья
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Дария Эйбушитц (скрипка), Дмитрий Яковлев (фортепиано), Григорий Мальян
+    (контрабас), Федор Андреев (ударные)
+- id: 65471
+  date: '2017-06-07'
+  time: '19:30'
+  band_name: Квартет Николая Куликова. Специальный гость - Сергей Головня
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Николай Куликов (гитара), Владимир Нестеренко (Hammond organ), Алексей
+    Беккер (ударные), Рей Фромета (перкуссия). Специальный гость - Сергей Головня
+  extra_bands:
+  - id: 550
+    name: Квартет Николая Куликова
+    token: kvartet-nikolaya-kulikova
+- id: 65472
+  date: '2017-06-14'
+  time: '19:30'
+  band_name: Darya Zakharova & Jazz Friends
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Дария Захарова (вокал), Наталья Скворцова (фортепиано), Владимир Кольцов-Крутов
+    (контрабас), Алексей Беккер (ударные)
+- id: 65473
+  date: '2017-06-28'
+  time: '19:30'
+  band_name: Big Band C-Jam Club Jazz Orchestra п/у Георгия Горбова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 448
+    name: C-Jam Club Jazz Orchestra
+    token: cjc-jazz-orchestra
+- id: 65477
+  date: '2017-07-12'
+  time: '19:30'
+  band_name: Квартет Романа Секачева
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 65474
+  date: '2017-06-21'
+  time: '19:30'
+  band_name: Александр Соколов и его квартет представляют гитарный акустический проект
+    и программу, посвященную Чарли Паркеру
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Антон Котиков (саксофон), Александр Соколов (гитара), Одиссей Богусевич
+    (фортепиано), Дмитрий Таранов (контрабас)
+- id: 66792
+  date: '2017-08-09'
+  time: '19:30'
+  band_name: Квинтет Анастасии Лютовой
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 66791
+  date: '2017-08-02'
+  time: '19:30'
+  band_name: Николай Мирошник (аккордеон), Артем Беляев (саксофон), Григорий Мальян
+    (контрабас), Загид Алыков (ударные)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 66793
+  date: '2017-08-16'
+  time: '19:30'
+  band_name: Ксения Селезнева (вокал) и трио Андрея Мартыненко представляют проект
+    "KS Jazz"
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: 'В составе трио: Андрей Мартыненко (фортепиано), Дмитрий Денисов (контрабас),
+    Владимир Борисов (ударные)'
+- id: 66794
+  date: '2017-08-23'
+  time: '19:30'
+  band_name: 'Москва - Нью Йорк. Встреча на сцене: Владимир Нестеренко (фортепиано,
+    орган - Москва); Виталий Головнев (труба, Нью-Йорк)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 66795
+  date: '2017-08-30'
+  time: '19:30'
+  band_name: 'Трио Михаила Шостака (аккордеон): посвящения великим аккордеонистам
+    Ришару Гальяно, Астору Пьяцоле'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67230
+  date: '2017-09-27'
+  time: '19:30'
+  band_name: Юбилейный концерт в честь легендарного тромбониста Бориса Рукенглуза.
+    На сцене Old Tigers dixie-band с участием юбиляра и Ирины Салмовой
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67228
+  date: '2017-09-13'
+  time: '19:30'
+  band_name: Биг-бэнд "Столичный джаз" п/у Федора Ляшкевича. Солисты Александра Надеждина
+    и Эндрю Мак Фаден
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Открытие 24 концертного сезона
+- id: 67229
+  date: '2017-09-20'
+  time: '19:30'
+  band_name: 'Музыкальный проект "Джазовый перекресток": Дария Эйбушитц (скрипка),
+    Дмитрий Яковлев (фортепиано), Григорий Мальян (контрабас), Федор Андреев (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67793
+  date: '2017-10-25'
+  time: '19:30'
+  band_name: 'Арфа и Джаз: Антон Котиков (саксофон, битбокс, Флейта, Губная гармоника,
+    дудук), Мария Кулакова (арфа), Игорь Иванушкин (контрабас), Петр Талалай (ударные),
+    специальный гость - Виталий Боев (хангдрам, перкуссия)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67914
+  date: '2017-11-01'
+  time: '19:30'
+  band_name: Валерий Киселев и Ансамбль классического джаза
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67790
+  date: '2017-10-04'
+  time: '19:30'
+  band_name: 'Программа "Россия - Куба. Встреча на сцене": Дмитрий Поминов - аккордеон,
+    Борис Анисимов - флейта, Алексей Рябухин - фортепиано, Абелардо Альфонсо Лопес
+    - контрабас, Михаил Кричевский - ударные'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 369
+    name: Алексей Рябухин
+    token: alexey-ryabykhin
+- id: 67791
+  date: '2017-10-11'
+  time: '19:30'
+  band_name: 'Презентация альбома "Kiss & Fly" Алексея Давлетшина в день его рождения:
+    Алексей Давлетшин - акустическая гитара, Асия Шакирова - клавишные, Паата Чакаберия
+    - бас, Андрей Панкратов - барабаны, Артур Газаров - перкуссия'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 67792
+  date: '2017-10-18'
+  time: '19:30'
+  band_name: Smith Effect Jazz Quartet - Алексей Кузнецов (гитара), Борис Кузнецов
+    (труба), Александр Соколов (гитара), Владимир Мосунов (контрабас)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+- id: 67928
+  date: '2017-11-15'
+  time: '19:30'
+  band_name: 'Романтические настроения в джазе: Трио Евгения Гречищева'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 67929
+  date: '2017-11-22'
+  time: '19:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67930
+  date: '2017-11-29'
+  time: '19:30'
+  band_name: C Jam Club Jazz Orchestra п/у Георгия Горбова
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 67927
+  date: '2017-11-08'
+  time: '19:30'
+  band_name: Анатолий Текучев (виброфон), Евгений Гречищев (рояль), Станислав Медведев
+    (контрабас), Игорь Ямпольский (барабаны)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  comments: Музыкальное приношение знаменитым виброфонистам
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 69144
+  date: '2017-12-06'
+  time: '19:30'
+  band_name: Валерий Киселев и ансамбль классического джаза
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 69146
+  date: '2017-12-08'
+  time: '19:30'
+  band_name: '23-й международный фестиваль вокального джаза "Jazz Voices - 2017":
+    Ty Stephens (США) и трио Олега Бутмана, Backstage Girlsband (Россия, Москва)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 69151
+  date: '2017-12-27'
+  time: '19:30'
+  band_name: 'Большой праздничный концерт: Джазовые проводы Старого Года; Джазовая
+    встреча Нового Года'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 69145
+  date: '2017-12-07'
+  time: '19:30'
+  band_name: 23-й международный фестиваль вокального джаза "Jazz Voices - 2017". Открытие.
+    Евдокия Лерер и трио Игоря Яковенко (Россия, Москва), Вадим Цымбал и его трио
+    (Россия, Москва)
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 69147
+  date: '2017-12-09'
+  time: '19:30'
+  band_name: '23-й международный фестиваль вокального джаза "Jazz Voices - 2017":
+    Ксения Селезнева и трио Андрея Мартыненко (Россия, Ярославль); Ирина Остин и Ostinjazzband
+    (Россия, Уфа); Real Jam Jazz Band (Россия, Москва)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 69149
+  date: '2017-12-13'
+  time: '19:30'
+  band_name: 'Ансамбль Асии Шакировой: Роман Соколов (саксофон, флейта), Асия Шакирова
+    (фортепиано), Виталий Соломонов (контрабас), Андрей Панкратов (ударные), Павел
+    Елисеев (вокал)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club
+- id: 69150
+  date: '2017-12-20'
+  time: '19:30'
+  band_name: 'Проект Дмитрия Яковлева "In Time": Олег Грымов (саксофон), Петр Востоков
+    (труба), Дмитрий Яковлев (фортепиано), Владимир Кольцов-Крутов (контрабас), Вартан
+    Бабаян (ударные)'
+  club_id: 506
+  club_name: Джаз Арт Клуб
+  club_token: jazz-art-club

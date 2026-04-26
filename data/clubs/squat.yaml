@@ -1,0 +1,25 @@
+id: 319
+token: squat
+name: Squat Cafe
+aliases: Сквот
+alive: true
+address: Рождественка, 12/1
+subway: Кузнецкий мост, Трубная
+phone: (495) 625-69-90
+city_id: 1
+clips:
+- id: 1009
+  type: weblink
+  url: http://www.squatcafe.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 1011
+  type: rss
+  url: http://twitter.com/statuses/user_timeline/67707317.rss
+  name: '@squatcafe на Твиттера'
+  sort_order: 99
+- id: 1010
+  type: weblink
+  url: http://www.facebook.com/squatcafe
+  name: Страница на FaceBook
+  sort_order: 199

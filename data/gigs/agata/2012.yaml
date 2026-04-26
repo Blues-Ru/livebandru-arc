@@ -1,0 +1,45 @@
+- id: 24824
+  date: '2012-03-16'
+  time: '19:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 391
+  club_name: Агата
+  club_token: agata
+  price: 50-60грн.
+- id: 25393
+  date: '2012-03-09'
+  time: '20:00'
+  band_name: Cross B Band, The Blues Nephews, Flux
+  club_id: 391
+  club_name: Агата
+  club_token: agata
+  comments: "В этот день, 9 марта, в гостеприимном помещении самого известного арт-кафе\
+    \ города, для харьковчан и гостей города будет звучать настоящий блюз.\r\nДля\
+    \ вас будут играть коллективы, уже зарекомендовавшие себя как на Родине, так и\
+    \ в зарубежных гастролях - минский Cross B. Band (Texas blues) и харьковский The\
+    \ Blues Nephews (Chicago blues), а также молодой, но очень перспективный харьковский\
+    \ коллектив FLUX.\r\nВы услышите новые версии известных блюзовых композиций выдающихся\
+    \ мастеров блюза, а также собственные авторские композиции."
+  extra_bands:
+  - id: 303
+    name: The Blues Nephews
+    token: blues-nephews
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 30784
+  date: '2012-11-08'
+  time: '20:00'
+  band_name: Cross B Band, The Blues Nephews
+  club_id: 391
+  club_name: Агата
+  club_token: agata
+  extra_bands:
+  - id: 303
+    name: The Blues Nephews
+    token: blues-nephews
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band

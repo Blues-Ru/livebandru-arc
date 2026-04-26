@@ -1,0 +1,32 @@
+- id: 71069
+  date: '2018-03-03'
+  time: '23:00'
+  band_name: Kubikmaggi (Санкт-Петербург) при уч. Александра Тимофеева (саксофон)
+    и группы "Сольвычегодск" представляет альбом "Things"
+  club_id: 18
+  club_name: Шестнадцать тонн
+  club_token: 16tons
+  price: 700/900р., 500 - предпродажа
+  comments: 'Kubikmaggi: Ксения Федорова (вокал, рояль), Макс Руденко (бас-гитара,
+    мелодика, семплер), Илья Варфоломеев (барабаны, перкуссия), Иван Рипс (звукорежиссер)'
+- id: 73654
+  date: '2018-07-24'
+  time: '20:00'
+  band_name: Moscow Beatballs + Red Elvises (USA)
+  club_id: 18
+  club_name: Шестнадцать тонн
+  club_token: 16tons
+  extra_bands:
+  - id: 744
+    name: Moscow Beatballs
+    token: moscow-beatballs
+  - id: 136
+    name: Red Elvises
+    token: red-elvises
+- id: 74239
+  date: '2018-09-13'
+  time: '20:00'
+  band_name: Jimi Tenor Band
+  club_id: 18
+  club_name: Шестнадцать тонн
+  club_token: 16tons

@@ -1,0 +1,61 @@
+- id: 53810
+  date: '2015-09-30'
+  time: '20:00'
+  band_name: 'Большой Джазовый Оркестр п/у Петра Востокова: вечные мелодии ушедшей
+    эры джаза'
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 53193
+  date: '2015-08-05'
+  time: '20:15'
+  band_name: 'Проект "В небе над Москвой" - программа "Джаз на крыше": Джаз-бэнд Марины
+    Волковой с программой "My Favourite Singers"'
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  price: 300 руб.
+- id: 53194
+  date: '2015-08-12'
+  time: '20:00'
+  band_name: Петр Востоков и все звезды Большого Джазового Оркестра (БДО)
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  price: 300 руб.
+  comments: Петр Востоков (труба), Сергей Баулин (тенор-саксофон), Алексей Иванников
+    (фортепиано), Андрей Агафонов (гитара), Роман Салмасов (контрабас), Павел Тимофеев
+    (барабаны)
+  extra_bands:
+  - id: 450
+    name: Большой Джазовый Оркестр п/у Петра Востокова
+    token: bdo
+- id: 53278
+  date: '2015-08-19'
+  time: '20:00'
+  band_name: Квартет "Ираклий Джаз" с программой сентиментального джаза
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+  price: 300 руб.
+- id: 54249
+  date: '2015-10-14'
+  time: '20:00'
+  band_name: '4th Leo Records Festival in Russia: проект Анастасии Маслобоевой: Анхель
+    Онталва (Испания), Анастасия Маслобоева, Ираклий Санадирадзе, Ренат Гатаулин,
+    Денис Шушков. Специальный гость проекта: Алена Агеева - пластический танец'
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica
+- id: 54649
+  date: '2015-11-11'
+  time: '20:00'
+  band_name: 'LiveStreet: Павел Жижикин (гитара), Александр Прописнов (гитара), Борис
+    Иванов (бас), Илья Кукушкин (ударные), Марат Галеев (кларнет), (тенор-саксофон)'
+  club_id: 813
+  club_name: Выставочный центр "Рабочий и колхозница"
+  club_token: vystavochnyj-centr-rabochij-i-kolkhoznica

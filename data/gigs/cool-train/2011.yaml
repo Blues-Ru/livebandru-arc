@@ -1,0 +1,55 @@
+- id: 15613
+  date: '2011-03-05'
+  time: '21:00'
+  band_name: Алексей Кузнецов, Павел Козлов
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: 300 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 15622
+  date: '2011-03-16'
+  time: '21:00'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: бесплатный
+- id: 15621
+  date: '2011-03-30'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: бесплатный
+- id: 21686
+  date: '2011-10-07'
+  time: '23:00'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: 400-600 р.
+- id: 23338
+  date: '2011-12-03'
+  time: '23:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: 400 руб.

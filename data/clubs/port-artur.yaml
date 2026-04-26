@@ -1,0 +1,45 @@
+id: 775
+token: port-artur
+name: Портъ Артуръ
+aliases: Порт Артур
+alive: true
+address: ул. Звенигородская, 12
+subway: Звенигородская, Пушкинская
+phone: +7(812) 953-32-50
+city_id: 2
+clips:
+- id: 8076
+  type: photo
+  url: port-artur-3.jpg
+  sort_order: 300
+  width: 1050
+  height: 700
+- id: 5825
+  type: weblink
+  url: http://www.portartur-spb.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5826
+  type: youtube
+  url: http://www.youtube.com/?v=jb6gTtuAvdQ
+  name: Ресторан-бар-клуб "ПортЪ АртурЪ"
+  comments: Всегда приятная атмосфера, живая музыка, интересные люди!
+  sort_order: 99
+- id: 8073
+  type: photo
+  url: port-artur-2.png
+  sort_order: 0
+  width: 800
+  height: 735
+- id: 8077
+  type: photo
+  url: port-artur-4.jpg
+  sort_order: 400
+  width: 1050
+  height: 700
+- id: 8078
+  type: photo
+  url: port-artur-6.jpg
+  sort_order: 500
+  width: 1050
+  height: 700

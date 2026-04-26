@@ -1,0 +1,1209 @@
+- id: 25031
+  date: '2012-02-01'
+  time: '20:30'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25032
+  date: '2012-02-13'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25033
+  date: '2012-02-20'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25034
+  date: '2012-03-05'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25035
+  date: '2012-02-02'
+  time: '20:30'
+  band_name: Вечеринка с радио Maximum! Maximum Life
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 25036
+  date: '2012-02-03'
+  time: '20:30'
+  band_name: rock'n'girls
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25037
+  date: '2012-02-06'
+  time: '20:30'
+  band_name: AKИ Мама, COK, Reggestan
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  comments: День рождения Bob Marley
+- id: 25038
+  date: '2012-02-07'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25039
+  date: '2012-02-08'
+  time: '20:00'
+  band_name: Dipped IN Purple (Москва)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  extra_bands:
+  - id: 397
+    name: Dipped in Purple
+    token: dipped-in-purple
+- id: 25040
+  date: '2012-02-10'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25041
+  date: '2012-02-17'
+  time: '20:30'
+  band_name: Topgun
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25042
+  date: '2012-02-21'
+  time: '20:30'
+  band_name: jagger rock band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25043
+  date: '2012-02-23'
+  time: '20:30'
+  band_name: Army DAY с Rock'n Girls и Дискотекой Maximum Life
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 25044
+  date: '2012-02-24'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25045
+  date: '2012-02-27'
+  time: '20:30'
+  band_name: art for sale
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25046
+  date: '2012-03-23'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25047
+  date: '2012-02-29'
+  time: '20:30'
+  band_name: Максим Леонидов
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25745
+  date: '2012-02-22'
+  time: '20:30'
+  band_name: Topgun
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25746
+  date: '2012-02-28'
+  time: '20:30'
+  band_name: Sweet Little 60x
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25747
+  date: '2012-03-06'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25749
+  date: '2012-03-09'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25750
+  date: '2012-03-14'
+  time: '20:30'
+  band_name: Saint Petersburg Pink Floyd Show
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25751
+  date: '2012-03-16'
+  time: '20:30'
+  band_name: rock'n'girls
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25752
+  date: '2012-03-21'
+  time: '20:30'
+  band_name: Depeche Mode party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 25753
+  date: '2012-03-26'
+  time: '20:30'
+  band_name: Tutti Frutti Show
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25754
+  date: '2012-03-27'
+  time: '20:30'
+  band_name: The Travellers
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25755
+  date: '2012-03-28'
+  time: '20:30'
+  band_name: 'Blues Fest: Phill Cleanhead, Jumping Cats (Москва)'
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 25757
+  date: '2012-03-30'
+  time: '20:30'
+  band_name: rock'n'girls
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25758
+  date: '2012-04-10'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 25759
+  date: '2012-04-11'
+  time: '20:30'
+  band_name: Несчастный Случай
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 25760
+  date: '2012-04-18'
+  time: '20:30'
+  band_name: Чистяков Бэнд
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 26748
+  date: '2012-04-16'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26749
+  date: '2012-04-17'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26750
+  date: '2012-04-30'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26751
+  date: '2012-05-21'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26752
+  date: '2012-03-29'
+  time: '20:30'
+  band_name: Boogie-woogie и Lamba blues project
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26753
+  date: '2012-04-02'
+  time: '20:30'
+  band_name: Belinov Blues band & King B
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  extra_bands:
+  - id: 24
+    name: Belinov Blues Band
+    token: belinov-blues-band
+- id: 26754
+  date: '2012-04-03'
+  time: '20:30'
+  band_name: Дмитрий Юрич - презентация альбома
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26755
+  date: '2012-04-05'
+  time: '20:30'
+  band_name: Трибьют группы "Кино"
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26756
+  date: '2012-04-06'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26757
+  date: '2012-04-09'
+  time: '20:30'
+  band_name: Jagger Rock Band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26758
+  date: '2012-04-12'
+  time: '20:30'
+  band_name: Вечеринка maximum live! Easy Dizzy (Tribute to AC/DC)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+  extra_bands:
+  - id: 254
+    name: Easy Dizzy
+    token: easy-dizzy
+- id: 26759
+  date: '2012-04-13'
+  time: '20:30'
+  band_name: Filmografia
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26760
+  date: '2012-04-20'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26761
+  date: '2012-04-24'
+  time: '20:30'
+  band_name: Joe Lynn Turner (ex-Deep Purple, Rainbow)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26762
+  date: '2012-04-25'
+  time: '20:30'
+  band_name: Ken Hensley (Uuriah Heep)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 1000 руб.
+- id: 26763
+  date: '2012-04-27'
+  time: '20:30'
+  band_name: Монолиза
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26764
+  date: '2012-05-02'
+  time: '20:30'
+  band_name: Фестиваль Rock'n Girls
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26765
+  date: '2012-05-11'
+  time: '20:30'
+  band_name: Mr.FIX
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26766
+  date: '2012-05-14'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26767
+  date: '2012-05-15'
+  time: '20:30'
+  band_name: Ольга Пономарева и Black & White
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  extra_bands:
+  - id: 496
+    name: Black & White
+    token: black-n-white
+  - id: 497
+    name: Ольга Пономарева
+    token: olga-ponomareva
+- id: 26768
+  date: '2012-05-18'
+  time: '20:30'
+  band_name: Real JAM (Москва)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26769
+  date: '2012-05-25'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 26770
+  date: '2012-05-29'
+  time: '20:30'
+  band_name: Back Space
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27408
+  date: '2012-06-12'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27409
+  date: '2012-06-01'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27410
+  date: '2012-06-04'
+  time: '20:30'
+  band_name: Sweet Little 60x
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27411
+  date: '2012-06-15'
+  time: '20:30'
+  band_name: Capuchino
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27446
+  date: '2012-05-09'
+  time: '20:30'
+  band_name: Depeche Mode Party David Gahan Birthday
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 27395
+  date: '2012-05-28'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27396
+  date: '2012-05-31'
+  time: '20:30'
+  band_id: 151
+  band_name: Zdob Si Zdub
+  band_token: zdob-si-zdub
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27397
+  date: '2012-04-26'
+  time: '20:30'
+  band_name: Женя Любич
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27398
+  date: '2012-05-01'
+  time: '20:30'
+  band_name: Фестиваль Rock'n Girls
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27399
+  date: '2012-05-03'
+  time: '20:30'
+  band_name: That Zeppelin
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  comments: tribute to Led Zeppelin
+- id: 27400
+  date: '2012-05-04'
+  time: '20:30'
+  band_name: Outhead
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  comments: трибьют Motorhead
+- id: 27401
+  date: '2012-05-07'
+  time: '20:30'
+  band_name: Tutti Frutti Show
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27402
+  date: '2012-05-08'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27403
+  date: '2012-05-10'
+  time: '20:30'
+  band_name: Hotel Ritz
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27405
+  date: '2012-05-17'
+  time: '20:30'
+  band_name: Ozzy Fest!
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  comments: Tribute to Black Sabbath & Led Zeppelin
+- id: 27406
+  date: '2012-05-22'
+  time: '20:30'
+  band_id: 22
+  band_name: Big Blues Revival
+  band_token: big-blues-revival
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27407
+  date: '2012-05-24'
+  time: '20:30'
+  band_name: San Remo Show
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27404
+  date: '2012-05-16'
+  time: '20:30'
+  band_name: Ob-la-di
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  comments: Tribute to The Beatles
+- id: 27993
+  date: '2012-07-03'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27994
+  date: '2012-05-30'
+  time: '20:30'
+  band_name: Penki (Tribute to Deep Purple)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27995
+  date: '2012-06-05'
+  time: '20:30'
+  band_name: Мифы
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27996
+  date: '2012-06-06'
+  time: '20:30'
+  band_name: Максим Леонидов
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 27999
+  date: '2012-06-11'
+  time: '20:30'
+  band_name: Filmografia
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28000
+  date: '2012-06-13'
+  time: '20:30'
+  band_name: Смысловые галлюцинации
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 600 руб.
+- id: 28001
+  date: '2012-06-14'
+  time: '20:30'
+  band_name: Tribute to Muse с Радио Maximum
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28002
+  date: '2012-06-18'
+  time: '20:30'
+  band_name: HOT Blues Party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28003
+  date: '2012-06-19'
+  time: '20:30'
+  band_name: Blues Angels
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28004
+  date: '2012-06-20'
+  time: '20:30'
+  band_name: Paul Mccartney Birthday
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28005
+  date: '2012-06-21'
+  time: '20:30'
+  band_name: Цветы
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 600 руб.
+- id: 28006
+  date: '2012-06-22'
+  time: '20:30'
+  band_name: Girls in rock
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28007
+  date: '2012-06-25'
+  time: '20:30'
+  band_name: Van Graffity
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28008
+  date: '2012-06-26'
+  time: '20:30'
+  band_name: Nura & Jentelmens
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28009
+  date: '2012-06-27'
+  time: '20:30'
+  band_name: Старый приятель
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28010
+  date: '2012-06-29'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28011
+  date: '2012-07-02'
+  time: '20:30'
+  band_name: Jagger rock band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28012
+  date: '2012-07-06'
+  time: '20:30'
+  band_name: Filmografia
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28013
+  date: '2012-07-09'
+  time: '20:30'
+  band_name: Sunlives
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28015
+  date: '2012-07-11'
+  time: '20:30'
+  band_name: Воскресение
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28016
+  date: '2012-07-12'
+  time: '20:30'
+  band_name: Saint Petersburg Depeche Mode Tribute
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 28017
+  date: '2012-07-16'
+  time: '20:30'
+  band_name: Nura & Jentelmens
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28018
+  date: '2012-07-24'
+  time: '20:30'
+  band_name: Мартиния
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28019
+  date: '2012-07-30'
+  time: '20:30'
+  band_id: 495
+  band_name: Jungle Jam
+  band_token: jungle-jam
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 27997
+  date: '2012-06-07'
+  time: '20:30'
+  band_name: Red Hot Chili Peppers tribute Группа Гкчп (МСК)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 27998
+  date: '2012-06-08'
+  time: '20:30'
+  band_name: Hotel Ritz
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28014
+  date: '2012-07-10'
+  time: '20:30'
+  band_name: Sweet Little 60x
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28020
+  date: '2012-07-31'
+  time: '20:30'
+  band_name: Jagger rock band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28481
+  date: '2012-06-28'
+  time: '20:30'
+  band_name: Секрет
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 600 руб.
+- id: 28736
+  date: '2012-07-04'
+  time: '20:30'
+  band_id: 345
+  band_name: Дидюля
+  band_token: didula
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 900 руб.
+- id: 28737
+  date: '2012-08-14'
+  time: '20:30'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28738
+  date: '2012-08-20'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28739
+  date: '2012-07-13'
+  time: '20:30'
+  band_name: Girls in rock
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28740
+  date: '2012-07-17'
+  time: '20:30'
+  band_name: Hot Blues Party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28741
+  date: '2012-07-18'
+  time: '20:30'
+  band_name: Smoke on the water Party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28742
+  date: '2012-07-19'
+  time: '20:30'
+  band_name: Женя Любич
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28743
+  date: '2012-07-20'
+  time: '20:30'
+  band_name: Капучино
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28744
+  date: '2012-07-23'
+  time: '20:30'
+  band_name: The Krekers
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28745
+  date: '2012-07-27'
+  time: '20:30'
+  band_name: Girls in rock
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28746
+  date: '2012-08-01'
+  time: '20:30'
+  band_name: Joe Lynn Turner (ex-deep Purple, Rainbow)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 800 руб.
+- id: 28747
+  date: '2012-08-03'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28748
+  date: '2012-08-06'
+  time: '20:30'
+  band_name: Ольга Пономарёва и Black & White
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+  extra_bands:
+  - id: 496
+    name: Black & White
+    token: black-n-white
+- id: 28749
+  date: '2012-08-07'
+  time: '20:30'
+  band_name: Hot Blues Party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28750
+  date: '2012-08-08'
+  time: '20:30'
+  band_name: Martin Alvarado и вечер аргентинского танго
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28751
+  date: '2012-08-10'
+  time: '20:30'
+  band_name: Girls in rock
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28752
+  date: '2012-08-13'
+  time: '20:30'
+  band_name: Капучино
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 28753
+  date: '2012-08-17'
+  time: '20:30'
+  band_name: Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28754
+  date: '2012-08-24'
+  time: '20:30'
+  band_name: O'bladi Tribute to The Beatles
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 28755
+  date: '2012-08-31'
+  time: '20:30'
+  band_name: Капучино
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31078
+  date: '2012-11-12'
+  time: '20:30'
+  band_id: 494
+  band_name: Valband
+  band_token: valband
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31079
+  date: '2012-11-01'
+  time: '20:30'
+  band_name: День рождения Энтони Кидиса с группой ГКЧП
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31080
+  date: '2012-11-02'
+  time: '20:30'
+  band_name: Halloween after party и Rock Cabaret
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31081
+  date: '2012-11-05'
+  time: '20:30'
+  band_name: Bony Ж
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31082
+  date: '2012-11-06'
+  time: '20:30'
+  band_name: Bad Name
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31083
+  date: '2012-11-07'
+  time: '20:30'
+  band_name: Revolution Party с Hop Stop Band
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31084
+  date: '2012-11-08'
+  time: '20:30'
+  band_name: Виктор + ЦОЙ
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31085
+  date: '2012-11-09'
+  time: '20:30'
+  band_name: Назад в будущее
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 200 до 500 руб.
+- id: 31086
+  date: '2012-11-13'
+  time: '20:30'
+  band_name: Flaming blues
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31087
+  date: '2012-11-14'
+  time: '20:30'
+  band_name: Secret Service
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 1000 руб.
+- id: 31088
+  date: '2012-11-15'
+  time: '20:30'
+  band_name: Женя Любич
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31089
+  date: '2012-11-16'
+  time: '20:30'
+  band_name: Bad Name
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31090
+  date: '2012-11-19'
+  time: '20:30'
+  band_name: O'bladi Tribute to The Beatles
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31091
+  date: '2012-11-21'
+  time: '20:30'
+  band_name: Старый приятель
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31092
+  date: '2012-11-22'
+  time: '20:30'
+  band_name: Smoke On The Water Party
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31093
+  date: '2012-11-23'
+  time: '20:30'
+  band_name: Girls in rock
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31094
+  date: '2012-11-26'
+  time: '20:30'
+  band_name: Назад в будущее
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31095
+  date: '2012-11-27'
+  time: '20:30'
+  band_name: Hendrix Birthday
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31096
+  date: '2012-11-28'
+  time: '20:30'
+  band_name: Сергей Галанин и Серьга
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 1000 руб.
+- id: 31097
+  date: '2012-11-29'
+  time: '20:30'
+  band_name: The Bohemians
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31098
+  date: '2012-11-30'
+  time: '20:30'
+  band_name: Mr.FIX
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31099
+  date: '2012-12-03'
+  time: '20:30'
+  band_name: Bad Name
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: бесплатный
+- id: 31100
+  date: '2012-12-05'
+  time: '20:30'
+  band_name: Княzz
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 800 руб.
+- id: 31101
+  date: '2012-12-06'
+  time: '20:30'
+  band_name: Slash Illusion - Tribute to Slash (Italy)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31102
+  date: '2012-12-07'
+  time: '20:30'
+  band_name: O'bladi Tribute to The Beatles
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+- id: 31103
+  date: '2012-12-12'
+  time: '20:30'
+  band_name: Воскресенье
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 1000 руб.
+- id: 31104
+  date: '2012-12-13'
+  time: '20:30'
+  band_name: Bon Jovi Tribute Band (Italy)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 300 руб.
+- id: 31105
+  date: '2012-12-17'
+  time: '20:30'
+  band_name: Jagger Birthday с Tribute Bon Jovi (Italy)
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger
+  price: 800 руб.
+- id: 31106
+  date: '2012-12-31'
+  time: '22:00'
+  band_name: За новым Годом Назад в будущее
+  club_id: 150
+  club_name: Jagger Club
+  club_token: jagger

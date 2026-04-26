@@ -1,0 +1,20 @@
+id: 504
+token: gosudarstvennyj-kremlevskij-dvorec
+name: Государственный Кремлевский Дворец
+alive: true
+address: Кремль
+subway: Библиотека им. Ленина
+phone: +7(495)620-7831, 917-2336
+city_id: 1
+clips:
+- id: 2629
+  type: weblink
+  url: http://www.gkd-kremlin.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2628
+  type: photo
+  url: gosudarstvennyj-kremlevskij-dvorec.gif
+  sort_order: 0
+  width: 1
+  height: 1

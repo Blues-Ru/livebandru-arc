@@ -1,0 +1,21 @@
+id: 584
+token: golden-lion
+name: The Golden Lion
+aliases: Золотой Лев
+alive: true
+address: Столярный, 18/69
+subway: Сенная площадь, Садовая
+phone: +7(812)3131977
+city_id: 2
+clips:
+- id: 3328
+  type: photo
+  url: golden-lion.jpg
+  sort_order: 0
+  width: 3879
+  height: 4493
+- id: 3321
+  type: weblink
+  url: http://www.gl-project.ru
+  name: Официальный сайт
+  sort_order: 0

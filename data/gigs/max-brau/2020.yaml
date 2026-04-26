@@ -1,0 +1,15 @@
+- id: 82617
+  date: '2020-01-30'
+  time: '19:00'
+  band_name: 'Winter Music Fest: Igor Prado & Raphael Wressnig (Бразилия / Австрия),
+    Markscheider Kunst, Рекорд Оркестр'
+  club_id: 939
+  club_name: Max Brau
+  club_token: max-brau
+  extra_bands:
+  - id: 710
+    name: Igor Prado & Raphael Wressnig
+    token: prado-wressnig
+  - id: 166
+    name: Markscheider Kunst
+    token: mkunst

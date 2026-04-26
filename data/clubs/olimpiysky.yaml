@@ -1,0 +1,16 @@
+id: 299
+token: olimpiysky
+name: Олимпийский
+aliases: СК "Олимпийский"
+alive: true
+address: Олимпийский просп., 16
+subway: Проспект Мира, Достоевская
+phone: (495) 688-53-22
+city_id: 1
+clips:
+- id: 908
+  type: photo
+  url: olimpiysky.jpg
+  sort_order: 0
+  width: 800
+  height: 600

@@ -1,0 +1,62 @@
+- id: 77061
+  date: '2019-02-02'
+  time: '18:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 77062
+  date: '2019-02-09'
+  time: '18:00'
+  band_name: Джем-сейшн архангельских музыкантов
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 77063
+  date: '2019-02-16'
+  time: '18:00'
+  band_name: Блюз трио и Константин Седовин
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 77064
+  date: '2019-02-23'
+  time: '18:00'
+  band_name: So Rockin' Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 79075
+  date: '2019-05-05'
+  time: '18:00'
+  band_name: Jam session
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 79076
+  date: '2019-05-26'
+  time: '18:00'
+  band_name: Арт-ансмабль, спец. гость - Виктор Хабаров (саксофон)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Закрытие сезона
+  extra_bands:
+  - id: 775
+    name: Арт-ансмабль
+    token: art-ansamble
+- id: 79077
+  date: '2019-05-12'
+  time: '18:00'
+  band_name: So Rockin' Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 81525
+  date: '2019-10-12'
+  band_id: 766
+  band_name: Chris Cain
+  band_token: chris-cain
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29

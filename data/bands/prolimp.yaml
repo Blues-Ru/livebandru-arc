@@ -1,0 +1,13 @@
+id: 194
+token: prolimp
+name: Проект Олимпийский
+alive: true
+url: http://www.prolimp.ru/
+city_id: 2
+genre_id: 3
+clips:
+- id: 441
+  type: weblink
+  url: http://www.prolimp.ru/
+  name: Официальный сайт
+  sort_order: 0

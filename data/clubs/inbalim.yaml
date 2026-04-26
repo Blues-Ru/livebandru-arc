@@ -1,0 +1,33 @@
+id: 281
+token: inbalim
+name: Инбалим
+alive: true
+address: Мицпе Дани (Mitzpeh Danny) Иудейская пустыня
+subway: http://www.mapquest.com/maps?address=next+to+Maaleh+Michmash&city=Judean+Desert&country=US
+phone: Tehilla 050-7451432
+city_id: 47
+comments: Возле Маале Михмаш (Maaleh Michmash) Alon Road (10 минут от выъезда из Иерусалима
+  через Пизагат Зеев)
+clips:
+- id: 784
+  type: weblink
+  url: http://www.binyamin.org.il/?pg=&categoryid=643&articleid=1622&searchparam=%D7%A7%D7%9C%D7%98
+  name: www.binyamin.org.il
+  sort_order: 99
+- id: 785
+  type: weblink
+  url: http://shopil.co.il/node/28031
+  name: Официальный сайт
+  sort_order: 199
+- id: 786
+  type: photo
+  url: inbalim.jpg
+  sort_order: 0
+  width: 320
+  height: 240
+- id: 787
+  type: photo
+  url: inbalim-2.jpg
+  sort_order: 100
+  width: 500
+  height: 306

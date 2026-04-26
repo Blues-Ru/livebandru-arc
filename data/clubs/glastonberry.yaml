@@ -1,0 +1,25 @@
+id: 449
+token: glastonberry
+name: Glastonberry Pub
+aliases: 'Glastonberry
+
+  Гластонберри
+
+  Гластонберри Паб'
+alive: true
+address: 1-я Дубровская улица, 13А
+subway: Дубровка, Пролетарская
+phone: (495) 971-99-34
+city_id: 1
+clips:
+- id: 2120
+  type: weblink
+  url: http://www.glastonberrypub.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2149
+  type: photo
+  url: glastonberry.jpg
+  sort_order: 0
+  width: 1024
+  height: 682

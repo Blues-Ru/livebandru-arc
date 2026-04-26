@@ -1,0 +1,139 @@
+- id: 11321
+  date: '2010-01-08'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11419
+  date: '2010-01-08'
+  time: '23:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11516
+  date: '2010-01-28'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11561
+  date: '2010-01-16'
+  time: '21:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+  price: 500 руб.
+- id: 11562
+  date: '2010-02-02'
+  time: '20:30'
+  band_id: 108
+  band_name: Денис Мажуков и Алексей Блохин - "Два Рояля"
+  band_token: mazhukov-blokhin
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11566
+  date: '2010-02-09'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11567
+  date: '2010-01-15'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11678
+  date: '2010-02-19'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+  price: 500 руб.
+- id: 11779
+  date: '2010-02-26'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11804
+  date: '2010-03-11'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11843
+  date: '2010-03-26'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11917
+  date: '2010-04-02'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 11938
+  date: '2010-04-30'
+  time: '21:00'
+  band_name: 'Действо Дяди Джо: Гия Дзагнидзе, Павел Семилетков, Наталья Липницкая
+    и Modern Blues Band'
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 12023
+  date: '2010-04-22'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town
+- id: 12024
+  date: '2010-04-29'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 95
+  club_name: Jazz Town
+  club_token: jazz-town

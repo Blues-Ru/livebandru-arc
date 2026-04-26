@@ -1,0 +1,18 @@
+id: 550
+token: conor-mc-nessa
+name: Конор Мак Несса
+alive: true
+address: Нахимовский просп., 67
+subway: Профсоюзная
+city_id: 1
+clips:
+- id: 2986
+  type: weblink
+  url: http://vk.com/conor_pub
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2987
+  type: weblink
+  url: http://www.conor-pub.ru
+  name: Официальный сайт
+  sort_order: 0

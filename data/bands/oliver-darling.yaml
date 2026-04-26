@@ -1,0 +1,81 @@
+id: 644
+token: oliver-darling
+name: Oliver Darling
+aliases: Oliver Darling & the Dirty Robbers
+alive: true
+url: http://www.oliverdarling.com/
+city_id: 77
+genre_id: 18
+secondary_genre_id: 8
+musicians:
+- name: Oliver Darling
+  instruments: guitar/vocals
+- name: Алексей Сечкин
+  instruments: клавишные
+- name: Виктор Шестак
+  instruments: бас-гитара/контрабас
+- name: Сергей Чекмаренко
+  instruments: ударные
+clips:
+- id: 5122
+  type: photo
+  url: oliver-darling.jpg
+  sort_order: 0
+  width: 245
+  height: 420
+- id: 5041
+  type: weblink
+  url: http://www.oliverdarling.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5095
+  type: youtube
+  url: http://www.youtube.com/?v=fR8IZgP-UBI
+  name: Oliver Darling "Blues and Boogie Medlies" at the Trent Navigation
+  comments: Oliver playing Peter Green and Bill Broonzy numbers
+  sort_order: 50
+- id: 5092
+  type: youtube
+  url: http://www.youtube.com/?v=j5NRrncKKSc
+  name: Oli Darling & THE DIRTY ROBBERS Live at Darlington R&B club
+  comments: some live footage of THE DIRTY ROBBERS, a marvellously filthy garage band
+    in the early Chicago R&B tradition.  Taking in the sights, sounds, smells and
+    swagger of Freddie King, The Sonics, Johnny 'Gui
+  sort_order: 99
+- id: 5094
+  type: youtube
+  url: http://www.youtube.com/?v=bwVvZjg2T8M
+  name: Oliver Darling - Crawdad Song
+  comments: Oliver Darling sings Crawdad Song, a Big Bill Broonzy cover. Recorded
+    live at Round Midnight, Islington on 16.10.11 by Will Francis.
+  sort_order: 0
+- id: 5093
+  type: youtube
+  url: http://www.youtube.com/?v=-foaZ1ld29U
+  name: Oliver Darling & the Dirty Robbers - live with 'Twist & Shout' at Annabel's
+    club, Plymouth
+  comments: The Dirty Robbers live with 'Twist & Shout' at Annabel's club, Plymouth
+  sort_order: 199
+reviews:
+- id: 383
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Уроженец Лондона ОЛИВЕР ДАРЛИНГ - молодой, подающий большие надежды певец,
+    гитарист, сонграйтер, лидер блюз-роковой команды The Dirty Robbers - уверенно
+    себя чувствует в сплаве стилей от корневого акустического блюза с одной стороны,
+    рокабилли и свинга с другой, и добротного блюз-рока с долей "южной" перчинки с
+    третьей.
+
+
+    Постоянно сотрудничает еще с двумя "побочными" проектами, выступает с акустической
+    программой, записывается как сессионный музыкант и преподает гитарное мастерство!
+
+
+    Как он все успевает при его плотном гастрольном графике - непонятно, но зато совершенно
+    понятно, что концерт Оливера Дарлинга не стоит пропускать не только любителям
+    и знатокам блюза, но и тем, кто очарован музыкой 50-60-х и эстетикой нашумевшего
+    фильма "Стиляги".'
+  verified: true
+  created: '2013-12-20'
+  is_press_release: true

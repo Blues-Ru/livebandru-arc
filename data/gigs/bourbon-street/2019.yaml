@@ -1,0 +1,69 @@
+- id: 77096
+  date: '2019-02-01'
+  time: '23:30'
+  band_name: Дмитрий Рессер
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77097
+  date: '2019-02-02'
+  time: '23:30'
+  band_name: Boogie Woogie Boom
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77098
+  date: '2019-02-08'
+  time: '23:30'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77102
+  date: '2019-02-23'
+  time: '23:30'
+  band_name: The Beat Bombers
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77099
+  date: '2019-02-09'
+  time: '23:30'
+  band_name: The Alligators
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  extra_bands:
+  - id: 227
+    name: Alligators
+    token: alligators
+- id: 77100
+  date: '2019-02-16'
+  time: '23:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77101
+  date: '2019-02-22'
+  time: '23:30'
+  band_id: 190
+  band_name: Azagra Blues Band
+  band_token: azagra-blues
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+- id: 77964
+  date: '2019-03-23'
+  time: '23:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 112
+  club_name: Bourbon Street
+  club_token: bourbon-street
+  price: бесплатный

@@ -1,0 +1,25 @@
+id: 462
+token: geology-museum
+name: Джаз в музее
+aliases: 'TurМалин
+
+  Государственный геологический музей им.Вернадского
+
+  Геологический музей'
+alive: true
+address: Моховая,д.11,стр 11
+subway: Охотный ряд, Александровский сад
+phone: +7(495)629-76-82
+city_id: 1
+clips:
+- id: 2171
+  type: weblink
+  url: http://www.sgm-hall.ru/afisha.html
+  name: Официальный сайт
+  sort_order: 0
+- id: 2172
+  type: photo
+  url: geology-museum.jpg
+  sort_order: 0
+  width: 400
+  height: 303

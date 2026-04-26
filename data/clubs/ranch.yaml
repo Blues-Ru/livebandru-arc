@@ -1,0 +1,13 @@
+id: 125
+token: ranch
+name: Ранчо
+alive: true
+address: ул. Гоголя, 36
+phone: (343) 342-02-70
+city_id: 6
+clips:
+- id: 15
+  type: weblink
+  url: http://www.theranch.ru/
+  name: Официальный сайт
+  sort_order: 0

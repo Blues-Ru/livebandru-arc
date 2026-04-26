@@ -1,0 +1,27 @@
+id: 734
+token: rj-mischo
+name: RJ Mischo
+alive: true
+url: http://rjblues.com/
+city_id: 13
+genre_id: 1
+clips:
+- id: 8670
+  type: youtube
+  url: https://www.youtube.com/watch?v=qGXW6B_b9BY
+  name: RJ Mischo at the Blues City Deli - Must Have Been The Devil
+  comments: The Blues City Deli Thursday Night House Party featured Minnesota Harmonica
+    Great RJ Mischo backed with Rich McDonough on guitar, Derek Bonn on drums and
+    Sir Preston Hubbard on Bass. October 17, 2013.
+  sort_order: 0
+- id: 8667
+  type: weblink
+  url: http://rjblues.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 8669
+  type: photo
+  url: rj-mischo.jpg
+  sort_order: 0
+  width: 3000
+  height: 1910

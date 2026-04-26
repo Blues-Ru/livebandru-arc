@@ -1,0 +1,81 @@
+id: 490
+token: petrushevskaya
+name: Кабаре Людмилы Петрушевской
+alive: true
+url: http://www.facebook.com/group.php?gid=125098217521085
+city_id: 1
+genre_id: 8
+secondary_genre_id: 2
+musicians:
+- name: Людмила Петрушевсская
+  instruments: вокал
+- name: Михаил Зюлин
+  instruments: бас-гитара
+- name: Сергей Павлюченков
+  instruments: гитара, банджо
+- name: Александр Гладышев
+  instruments: фортепьяно
+- name: Дмитрий Серебряник
+  instruments: ударные
+clips:
+- id: 2260
+  type: photo
+  url: petrushevskaya.jpg
+  sort_order: 0
+  width: 1000
+  height: 665
+- id: 2245
+  type: weblink
+  url: http://vk.com/club2034186
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2246
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=125098217521085
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 2248
+  type: youtube
+  url: http://www.youtube.com/?v=q61-z_jTHW0
+  name: '"Ночной таксист"'
+  comments: Л. Петрушевская, Презентация альбома в клубе "16 тонн"
+  sort_order: 99
+- id: 2249
+  type: youtube
+  url: http://www.youtube.com/?v=8W6bJpV3DA0
+  name: '"Мурка"'
+  comments: 'Золотая Горгулья 2010: Людмила Петрушевская. Live. October, 30, 2010.
+    Клуб 16 Тонн (16 Tons Club), Moscow. http://16tons.ru/ http://www.myspace.com/16TonsClub
+    http://www.lastfm.ru/venue/8782693/ http:'
+  sort_order: 199
+- id: 2250
+  type: youtube
+  url: http://www.youtube.com/?v=AkihuWLPJdM
+  name: '"Разноцветные кибитки"'
+  comments: Liudmila Petroushevskaya / Людмила Петрушевская
+  sort_order: 299
+- id: 2251
+  type: youtube
+  url: http://www.youtube.com/?v=dNrtxzWXGqQ
+  name: '"Ва-банк"'
+  comments: Выступление Людмилы Петрушевской. ОООЧень долго искал в сети этот шедевр,
+    но только вчера нашел. Лично мне очень нравится ее жанр и особенно эта песня!
+    Всем смотреть!
+  sort_order: 399
+- id: 2252
+  type: youtube
+  url: http://www.youtube.com/?v=tM6ozEiE6Ks
+  name: '"Стиляга Боб"'
+  comments: Л. Петрушевская поет "Стиляга Боб"
+  sort_order: 0
+- id: 2253
+  type: youtube
+  url: http://www.youtube.com/?v=dm2s325_t8M
+  name: '"Старушка неспеша"'
+  comments: Людмила Петрушевская поет в клубе "Мастерская"
+  sort_order: 499
+- id: 2680
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=125098217521085
+  name: Официальный сайт
+  sort_order: 0

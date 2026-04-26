@@ -1,0 +1,47 @@
+- id: 30051
+  date: '2012-09-12'
+  time: '20:00'
+  band_name: 'Открытие джазовых вечеров: Mane (вокал), Сергей Манукян (вокал)'
+  club_id: 616
+  club_name: Rock House
+  club_token: rock-house
+  price: 300 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 30488
+  date: '2012-10-04'
+  time: '20:00'
+  band_id: 332
+  band_name: Вячеслав Горский
+  band_token: gorsky
+  club_id: 616
+  club_name: Rock House
+  club_token: rock-house
+- id: 30489
+  date: '2012-10-11'
+  time: '20:00'
+  band_name: Антон Горбунов (бас-гитара), Антон Залетаев (саксофон), Владимир Голоухов
+    (вибрафон), Петр Ившин (ударные), Вартан Бабаян (перкуссия)
+  club_id: 616
+  club_name: Rock House
+  club_token: rock-house
+- id: 30490
+  date: '2012-10-17'
+  time: '20:00'
+  band_name: Mane (вокал) и гости
+  club_id: 616
+  club_name: Rock House
+  club_token: rock-house
+  price: 300 руб.
+- id: 30491
+  date: '2012-10-01'
+  time: '18:00'
+  band_id: 228
+  band_name: LoftyBand
+  band_token: loftyband
+  club_id: 616
+  club_name: Rock House
+  club_token: rock-house
+  price: 300 руб.

@@ -1,0 +1,25 @@
+- id: 80743
+  date: '2019-08-04'
+  time: '13:00'
+  band_name: 'Второй блюзовый фестиваль "Мосты" (The Bridges): Rick Estrin & The Nightcats
+    (США); John Nemeth & The Blue Dreamers (США); Aki Kumar (США); Daniel Eriksen
+    (Норвегия); Emilia Sisco & Helge Tallqvist Band (Финляндия); Blues Doctors (Россия);
+    Southern Comfort (Россия); Тамара Оген & Magnet Vox (Россия); "Джем Друзей" под
+    руководством Юрия Новгородского (Россия)'
+  club_id: 903
+  club_name: Порт Севкабель
+  club_token: port-sevkabel
+  comments: Ведущий - Кирилл Мошков
+  extra_bands:
+  - id: 763
+    name: Тамара Оген & Magnet Vox
+    token: tamara-ogen
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+  - id: 624
+    name: John Nemeth
+    token: john-nemeth
+  - id: 723
+    name: Aki Kumar & Rockin' Johnny Burgin
+    token: kumar-burgin

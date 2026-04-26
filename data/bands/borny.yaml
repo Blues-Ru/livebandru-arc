@@ -1,0 +1,140 @@
+id: 245
+token: borny
+name: Borny & His Band
+aliases: 'Borny
+
+  Борни'
+alive: true
+city_id: 62
+genre_id: 1
+musicians:
+- name: Bjorn "Borny" Erlend Walberg
+  instruments: гитара, вокал
+- name: Eivind Walberg
+  instruments: гитара
+- name: Eirik Bergene
+  instruments: бас
+- name: Ярослав Писарев
+  instruments: ударные
+references:
+- id: 103
+  name: Eirik Bergene
+  token: eirik-bergene
+clips:
+- id: 775
+  type: youtube
+  url: http://www.youtube.com/?v=0jKdPGMVfUE
+  name: Borny's Northern Lights - Certainly All
+  sort_order: 99
+- id: 776
+  type: youtube
+  url: http://www.youtube.com/?v=3BImflxl7N8
+  name: Borny Jamming With Tommy Katona Jr.
+  comments: This is a little Albert King jam I did with Tommy Katona jr. and his band
+    in Dallas, TX. First time I tried a flying-V live, it was alot of fun!
+  sort_order: 199
+- id: 777
+  type: youtube
+  url: http://www.youtube.com/?v=8so5hakjDi0
+  name: Borny's Northern Lights - Black Cat Bone
+  sort_order: 299
+- id: 869
+  type: photo
+  url: borny.jpg
+  sort_order: 150
+  width: 450
+  height: 289
+- id: 920
+  type: photo
+  url: borny-5.jpg
+  sort_order: 400
+  width: 3072
+  height: 2048
+- id: 918
+  type: photo
+  url: borny-3.jpg
+  sort_order: 200
+  width: 2381
+  height: 1361
+- id: 919
+  type: photo
+  url: borny-4.jpg
+  sort_order: 300
+  width: 2381
+  height: 1588
+- id: 917
+  type: photo
+  url: borny-2.jpg
+  sort_order: 0
+  width: 2616
+  height: 1914
+reviews:
+- id: 47
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Бьерн Эрленд Валберг (22), более известный по сценическому псевдониму Borny,
+    по словам многих является одним из изысканнейших молодых блюзовых гитаристов Норвегии.
+    За очень короткое время он стал известен среди любителей блюза по всему миру,
+    включая также и маститых музыкантов, таких, как Ронни Эрл, Джимми Вон и других.
+
+
+    Эйвинд Валберг (18) - двоюродный брат Borny, вместе они играют уже много лет.
+    Несмотря на свой юный возраст, его уже признали таланливым уникальным гитаристом,
+    обладающим изумительным чутьем блюзового жанра. Молодые музыканты сыграли вместе
+    уже много концертов в Норвегии, в частности, на больших блюзовых фестивалях, таких,
+    как Bragd&#248;ya Blues Festival, и на крупнейшем в Европе - Notodden Blues Festival.
+
+
+    В Нотоддене на фестивале 2008-го года братья-гитаристы принимали участие в концертах
+    Объединенного Блюзового Кубка со своей группой Borny''s Northern Lights. Несмотря
+    на то, что они не выиграли в этом конкурсе, но все же получили престижную награду
+    "Самые талантливые гитаристы" из рук легендарного норвежского блюзового гитариста-виртуоза
+    Кида Андерсена.
+
+
+    В российском концертном турне к братьям-гитаристам присоединятся два высокоталантливых
+    и опытных музыканта: Эйрик Бергене, который широко известен по всей Норвегии и
+    за рубежом как исполнитель на губной гармонике. Но на этот раз он будет частью
+    ритм-секции группы, играя на бас-гитаре. Второй участник – Ярослав Писарев – один
+    из лучших блюзовых барабанщиков России, многие годы активно выступающий с The
+    Chill Out Blues Band и дуэтом PMS. Он добавит группе жару специально для этого
+    проекта.
+
+
+    Bjorn Erlend Walberg (22), better known by his artistic name Borny, is by many
+    considered to be one of Norway''s finest guitar players within the genre blues.
+    In a very limited time, he has gained recognition from many music lovers worldwide
+    and also a long line of fine musicians, such as Ronnie Earl, Jimmie Vaughan and
+    others.
+
+
+    Eivind Walberg (18) is the cousin of Borny and they have played together for many
+    years. Despite his young age he has already proven to be unique talent on the
+    blues guitar, showing a remarkable understanding for the genre. The young guitar
+    players have already played a handful of concerts in Norway, including big blues
+    festivals such as Bragdoya Blues Festival and Notodden Blues Festival.
+
+
+    During Notodden Blues Festival in 2008 the two guitar players attended The Union
+    Blues Cup with their own band Borny''s Northern Lights. Although they didn''t
+    win the actual competition, they did share the prestigious award "Most talented
+    guitar player", awarded to them by legendary Norwegian blues guitar ace Kid Anderson.
+
+
+    On this tour the young guitar players will be accompanied by two highly skilled
+    and experienced musicians: Eirik Bergene is widely known across Norway and many
+    other countries for his remarkable skills on the harmonica. On this tour, however,
+    he will be a part of the band''s rhythm section playing the bass. Yaroslav Pisarev
+    is one of Russia''s finest blues drummers and has been playing actively with The
+    Chill Out Blues Band and PMS duo for years. He will be adding his hot groove to
+    the band exclusively for this project.
+
+
+    A variety of videos can be found here:
+
+
+    http://www.youtube.com/user/Bornysblues'
+  verified: true
+  created: '2010-10-05'
+  is_press_release: true

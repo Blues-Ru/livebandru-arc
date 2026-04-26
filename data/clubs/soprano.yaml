@@ -1,0 +1,15 @@
+id: 326
+token: soprano
+name: Сопрано
+aliases: Soprano
+alive: true
+address: Никольская, 4/5
+subway: Площадь Революции, Охотный Ряд
+phone: (495) 698-29-46
+city_id: 1
+clips:
+- id: 1158
+  type: weblink
+  url: http://www.soprano-cafe.ru/
+  name: Официальный сайт
+  sort_order: 99

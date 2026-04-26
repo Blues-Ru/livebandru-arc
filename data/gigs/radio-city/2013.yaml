@@ -1,0 +1,577 @@
+- id: 33900
+  date: '2013-02-16'
+  time: '21:00'
+  band_name: Дуэт Pro & Contra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 33901
+  date: '2013-02-21'
+  time: '21:00'
+  band_id: 579
+  band_name: Masha Kutskova
+  band_token: masha-kutskova
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 33902
+  date: '2013-02-23'
+  time: '20:00'
+  band_name: Джаз-оркестр "Орфей" и Анна Бутурлина (вокал)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+  extra_bands:
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 34180
+  date: '2013-02-28'
+  time: '20:30'
+  band_name: Юлия Алимова и Jazz Forever Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 34181
+  date: '2013-03-01'
+  time: '21:00'
+  band_name: Дует Cappucino
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 34182
+  date: '2013-03-08'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700 руб.
+- id: 34183
+  date: '2013-03-09'
+  time: '21:00'
+  band_id: 623
+  band_name: Bubamara Brass Band
+  band_token: bubamara-brass-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+- id: 34184
+  date: '2013-03-16'
+  time: '20:00'
+  band_name: Катя Волкова (вокал), Евгений Степанов (бас-гитара), Сергей Коньков (гитара),
+    Алиса Мандрик (клавиши), Денис Маранин (барабаны)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+- id: 34185
+  date: '2013-03-07'
+  time: '21:00'
+  band_name: Виктор Добронравов (вокал), Михаил Шкловский (бас-гитара), Дмитрий Волков
+    (кахон, перкуссия), Михаил Спасибо (рояль), Павел Сураев-Королев (гитара)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 34446
+  date: '2013-02-28'
+  time: '20:30'
+  band_name: Юлия Алимова и Jazz Forever Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: Вход свободный
+- id: 34447
+  date: '2013-03-07'
+  time: '23:30'
+  band_name: Depeche Mode Party
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400 руб.
+- id: 34681
+  date: '2013-03-15'
+  time: '21:00'
+  band_name: 'Проект Левана Ломидзе и Blues Cousins: The Beatles - глазами звезд московского
+    блюза'
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 34682
+  date: '2013-03-22'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб., 350 руб. по флаерам
+- id: 34683
+  date: '2013-03-23'
+  time: '21:00'
+  band_name: Группа Валерия Каримова
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+  extra_bands:
+  - id: 364
+    name: Валерий Каримов
+    token: valery-karimov
+- id: 34990
+  date: '2013-03-28'
+  time: '21:00'
+  band_name: Анатолий Зеленков и Detolle
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 34991
+  date: '2013-03-30'
+  time: '21:00'
+  band_name: Sambateria
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 300 руб.
+- id: 34992
+  date: '2013-04-05'
+  time: '21:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 35435
+  date: '2013-04-18'
+  time: '21:00'
+  band_name: Fortuna Brass Band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 35436
+  date: '2013-04-25'
+  time: '21:00'
+  band_id: 528
+  band_name: Ivanov Vibe Band
+  band_token: ivanov-vibe-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 36051
+  date: '2013-05-18'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-700 руб.
+- id: 38057
+  date: '2013-10-05'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 38718
+  date: '2013-10-12'
+  time: '20:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+- id: 39268
+  date: '2013-10-19'
+  time: '20:00'
+  band_id: 146
+  band_name: Bril Brothers
+  band_token: bril
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-700 руб.
+- id: 39269
+  date: '2013-10-20'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39270
+  date: '2013-10-25'
+  time: '21:00'
+  band_name: Леван Ломидзе и Константин Никольский
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700-1500 руб.
+  extra_bands:
+  - id: 118
+    name: Константин Никольский
+    token: nikolsky
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 39271
+  date: '2013-10-26'
+  time: '20:00'
+  band_id: 567
+  band_name: Jazz Dance Orchestra
+  band_token: jazz-dance-orchestra
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-700 руб.
+- id: 39272
+  date: '2013-10-27'
+  time: '20:00'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39273
+  date: '2013-10-31'
+  time: '20:00'
+  band_name: Music For The People
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39857
+  date: '2013-11-01'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 400-500 руб.
+- id: 39860
+  date: '2013-11-08'
+  time: '21:00'
+  band_name: Воскресение
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 1500-3000 руб.
+- id: 39861
+  date: '2013-11-09'
+  time: '20:00'
+  band_name: Bella Luna и Люси Знаменски
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39862
+  date: '2013-11-10'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 39863
+  date: '2013-11-15'
+  time: '21:00'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 700-1500 руб.
+- id: 39864
+  date: '2013-11-16'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-1000 руб.
+- id: 39865
+  date: '2013-11-17'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 39866
+  date: '2013-11-23'
+  time: '20:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500-1000 руб.
+- id: 39867
+  date: '2013-11-24'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 39868
+  date: '2013-11-30'
+  time: '20:00'
+  band_name: Коралловые Рифы
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39869
+  date: '2013-11-29'
+  time: '20:00'
+  band_name: CubaнаТы
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: 500 руб.
+- id: 39870
+  date: '2013-11-28'
+  time: '20:00'
+  band_name: Валерия Ахатова и Forward Motion
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39858
+  date: '2013-11-02'
+  time: '20:00'
+  band_name: Alla Reed and the band
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 39859
+  date: '2013-11-03'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 40539
+  date: '2013-12-11'
+  time: '20:00'
+  band_name: Moscow Newzz и Владимир Нелюбин "От Блюза до Рока"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: "Кавер-версии зарубежных хитов прошлых лет в неожиданных аранжировках\
+    \ с уникальным гитарным соло!\r\nВ программе только хиты: от Carlos Santana и\
+    \ Gary Moore до Deep Purple и AC/DC\r\nВ репертуаре кавер- программы - многобразие\
+    \ джаза, блюза и его поджанров: ритм-н-блюза, свинга, латино с фанком до рок-н-ролла!\r\
+    \n10 лет на сцене - это опыт, профессионализм, мастерство!\r\n\"Владимир Нелюбин\
+    \ & Moscow Newzz\" - это эксклюзивный коллектив, не имеющий аналогов. Мощный драйв\
+    \ и виртуозные гитарные соло фронтмена, поддержанные командой профессиональных\
+    \ музыкантов создают эффектное зрелище, которое никого не оставляет равнодушным.\
+    \ Репертуар коллектива состоит из сильнейших хитов поп- и рок-музыки, а также\
+    \ авторских произведений\r\nПроект \"Владимир Нелюбин & Moscow Newzz\" возник\
+    \ в 2003 году как итог пятилетней работы высококлассного российского гитариста\
+    \ в европейских коллективах. В составе группы 14 человек! За плечами сотни концертов\
+    \ и выступлений, десятки городов России, ближнего и дальнего зарубежья. И только\
+    \ спустя 10 лет группа начинает выступать в клубах ... Роскошь живого концерта\
+    \ с мощной энергетикой и оригинальной программой наконец стала доступной для многих."
+- id: 40540
+  date: '2013-12-30'
+  time: '20:00'
+  band_name: Дуэт "StyleMix"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 40523
+  date: '2013-12-07'
+  time: '20:00'
+  band_id: 453
+  band_name: Jazzеlectro и Надежда Рафаилиди
+  band_token: jazzelectro-i-nadezhda-rafailidi
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  comments: "В программе представлены популярные джазовые композиции в инструментальном\
+    \ и вокальном исполнении в стилях - мейнстрим, фьюжн, калипсо, а так же авторские\
+    \ пьесы. Современное звучание, рожденное традициями классического джаза, глубина\
+    \ восприятия музыки, профессионализм и интуиция придают творчеству коллектива\
+    \ неповторимый почерк.\r\nСостав:\r\nОЛЕГ АГЕЕВ (тенор-саксофон, сопрано-саксофон,\
+    \ бас-кларнет, флейта)\r\nНАДЕЖДА РАФАИЛИДИ (вокал)\r\nАЛЕКСЕЙ КАЛЯПИЧЕВ (клавишные\
+    \ инструменты)\r\nСЕРГЕЙ СОКУЛЕР (бас-гитара, контрабас)\r\nАРКАДИЙ БАКЛАГИН (ударные\
+    \ инструменты)\r\n\r\nСолист оркестра Левона Оганезова Олег Агеев - руководитель\
+    \ коллектива, аранжировщик. Работал в оркестре под управлением Олега Лундстрема,\
+    \ в Московском квинтете саксофонистов Владимира Зарембы, группе \"XL\" Вадима\
+    \ Эйленкрига и других коллективах, проявляя себя как мулитиинструменталист, играющий\
+    \ на саксофонах, флейте, бас-кларнете, исполняющий и эстраду, и джаз.\r\nНадежда\
+    \ Рафаилиди - бессменная солистка джаз-группы, лауреат международного джазового\
+    \ фестиваля, все годы сотрудничества является украшением коллектива, тонко чувствует\
+    \  джазовую палитру, исполняет и традиционный джаз, и музыку в стиле босанова,\
+    \ и эстрадную музыку. Современная джазовая певица, профессионально владеющая красивым\
+    \ голосом, придает неповторимый шарм каждому концертному выступлению. Работала\
+    \ с ведущими джазовыми музыкантами России, в творческом сотрудничестве  с Левоном\
+    \ Оганезовым, Анатолием Силиным, Фондом \"Таланты мира\" под руководством Давида\
+    \ Гвинианидзе, выступает на крупнейших российских и международных турнирах по\
+    \ спортивным танцам с вокальной программой.\r\nСердце ансамбля - солист оркестра\
+    \ Левона Оганезова, участник проекта \"Жизнь прекрасна\" Аркадий Баклагин. Его\
+    \ игра на ударных инструментах, его ритмы украшали ансамбли - \"Арсенал\" Алексея\
+    \ Козлова и \"Эстамп\".\r\nСергей Сокулер - бас-гитарист, композитор, аранжировщик.\
+    \ Работал с популярным эстрадным артистом Ираклием, работает с вокалистками: Намгар,\
+    \ Софи Окран, Людмилой Соколовой и другими.\r\nАлексей Каляпичев - пианист, композитор,\
+    \ аранжировщик. Работал с композитором Алексеем Рыбниковым, с ведущими артистами\
+    \ и музыкантами: Николаем Арутюновым, Ираклием, Аленой Свиридовой, Натальей Власовой,\
+    \ Дмитрием Четверговым, Алексеем Беловым, и другими. Работал в группе \"Мечтать!\"\
+    .\r\nПриглашаем вас на выступления джаз-квартета Олега Агеева!"
+- id: 40524
+  date: '2013-12-08'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 40525
+  date: '2013-12-15'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 40541
+  date: '2013-12-25'
+  time: '20:00'
+  band_name: Дуэт "StyleMix"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 40527
+  date: '2013-12-29'
+  time: '20:00'
+  band_name: Blues Old School с Dynamic James
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+  extra_bands:
+  - id: 91
+    name: Dynamic James
+    token: dynamic-james
+- id: 40543
+  date: '2013-12-16'
+  time: '20:00'
+  band_name: Дуэт "StyleMix"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 40544
+  date: '2013-12-13'
+  time: '20:00'
+  band_name: Дуэт "StyleMix"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 41038
+  date: '2013-12-28'
+  time: '20:00'
+  band_name: Дуэт "Январь"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 41039
+  date: '2013-12-31'
+  time: '22:00'
+  band_name: Новогодняя Ночь - Kevin McCoy (ex-Bad Boys Blue)
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: от 6,000рублей
+  comments: "Ресторан РАDИО СИТИ приготовил исключительный сюрприз, для своих любимых\
+    \ гостей!\r\n31 декабря, в Новогоднюю ночь, к нам примчится Дед Мороз, в лице\
+    \ легендарного вокалиста Kevin McCoy (ex-Bad Boys Blue)!!!!\r\n\r\nРАDИО СИТИ\
+    \ будет залит лучами зеркальных шаров, залы будут украшены потрясающими горящими\
+    \ огнями, неповторимыми новогодними украшениями и бесподобными хитами диско\r\n\
+    вокалиста Kevin McCoy (ex-Bad Boys Blue)!!\r\n\r\nНаш шеф повар - Олег Пичугин,\
+    \ подготовил Новогоднее меню, от которого Вы будете в восторге!!!\r\n\r\nВ течение\
+    \ всей новогодней Ночи Вас ждут зажигательные конкурсы от ведущего, поздравления\
+    \ Деда Мороза и Снегурочки!!!\r\n\r\nМы с нетерпением ждем этой потрясающей Новогодней\
+    \ ночи! Это будет незабываемо!"
+- id: 41035
+  date: '2013-12-30'
+  time: '20:00'
+  band_name: Штирлиц бЭнд
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный
+- id: 41037
+  date: '2013-12-27'
+  time: '20:00'
+  band_name: Дуэт "StyleMix"
+  club_id: 145
+  club_name: Радио Сити
+  club_token: radio-city
+  price: бесплатный

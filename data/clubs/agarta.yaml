@@ -1,0 +1,25 @@
+id: 361
+token: agarta
+name: Агарта
+aliases: Agarta
+alive: true
+address: просп. Карла Маркса, 53а
+subway: Студенческая
+phone: (383) 325-14-65
+city_id: 19
+clips:
+- id: 1360
+  type: weblink
+  url: http://www.agharta.ru
+  name: Сайт магазина Агарта
+  sort_order: 99
+- id: 1361
+  type: weblink
+  url: http://vk.com/club6150862
+  name: Страница ВКонтакте
+  sort_order: 199
+- id: 3004
+  type: weblink
+  url: http://vk.com/club6150862
+  name: Официальный сайт
+  sort_order: 0

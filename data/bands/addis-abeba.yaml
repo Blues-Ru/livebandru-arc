@@ -1,0 +1,13 @@
+id: 207
+token: addis-abeba
+name: Аддис Абеба
+alive: true
+url: http://addis-abeba.ad.by/
+city_id: 17
+genre_id: 5
+clips:
+- id: 573
+  type: weblink
+  url: http://addis-abeba.ad.by/
+  name: Официальный сайт
+  sort_order: 0

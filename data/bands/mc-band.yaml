@@ -1,0 +1,28 @@
+id: 122
+token: mc-band
+name: Алена Иванова и MC-Band
+aliases: 'MC Band
+
+  MC-Band
+
+  Алена Иванова'
+alive: true
+url: http://mc-band.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Алена Иванова
+  instruments: солистка
+- name: Константин Кокорин
+  instruments: соло-гитара
+- name: Григорий
+  instruments: бас-гитара
+- name: Юрий
+  instruments: ударник
+clips:
+- id: 97
+  type: weblink
+  url: http://www.mc-band.ru
+  name: Официальный сайт
+  sort_order: 0

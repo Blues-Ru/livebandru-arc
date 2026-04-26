@@ -1,0 +1,13 @@
+id: 159
+token: music-terrace
+name: Музыкальная Терраса
+alive: true
+address: Космодамианская наб., 52, стр. 8
+phone: +7-495-730-1553
+city_id: 1
+clips:
+- id: 119
+  type: weblink
+  url: http://www.musicterrace.ru/
+  name: Официальный сайт
+  sort_order: 0

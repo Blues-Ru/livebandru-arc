@@ -1,0 +1,512 @@
+- id: 24391
+  date: '2012-01-20'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24392
+  date: '2012-01-21'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24393
+  date: '2012-02-03'
+  time: '22:00'
+  band_id: 152
+  band_name: Аукцыон
+  band_token: auktyon
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: AC/DC-party
+- id: 24394
+  date: '2012-01-02'
+  time: '20:00'
+  band_name: БоБры
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24395
+  date: '2012-01-03'
+  time: '20:00'
+  band_name: Hula Hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 24396
+  date: '2012-01-05'
+  time: '20:00'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24397
+  date: '2012-01-13'
+  time: '22:00'
+  band_name: Бахыт Компот
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 106
+    name: Вадим Степанцов и Бахыт Компот
+    token: stepantsov
+- id: 24398
+  date: '2012-01-19'
+  time: '21:00'
+  band_name: Владимир Кузьмин и Динамик
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24399
+  date: '2012-01-20'
+  band_name: Beverly Hills
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24400
+  date: '2012-01-21'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24401
+  date: '2012-01-26'
+  time: '21:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24402
+  date: '2012-01-27'
+  time: '22:00'
+  band_name: Парк Горького, музыканты группы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24403
+  date: '2012-01-27'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24404
+  date: '2012-01-28'
+  time: '22:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24405
+  date: '2012-01-28'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24406
+  date: '2012-02-18'
+  time: '22:00'
+  band_name: Александр Ф. Скляр
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24921
+  date: '2012-01-24'
+  time: '21:00'
+  band_name: 'Юбилей "Stainless Blues Band": Борис Булкин и сотоварищи, гости'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 24922
+  date: '2012-01-27'
+  time: '21:00'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24923
+  date: '2012-01-28'
+  time: '21:00'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24924
+  date: '2012-01-31'
+  time: '21:00'
+  band_name: Grand Jam!
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24925
+  date: '2012-02-02'
+  time: '21:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24926
+  date: '2012-02-09'
+  time: '21:00'
+  band_name: Четвергов-Party, при уч. Константина Никольского
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 24927
+  date: '2012-02-15'
+  time: '21:00'
+  band_name: Black Sabbath Party с "Sabbath Inside"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 133
+    name: Sabbath Inside
+    token: sabbath-inside
+- id: 24928
+  date: '2012-02-23'
+  time: '21:00'
+  band_name: Алексей "Уайт" Белов и "Удачное приобретение" при уч. Андрея Макаревича
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 24899
+  date: '2012-01-30'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 24918
+  date: '2012-01-25'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24919
+  date: '2012-02-16'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24920
+  date: '2012-02-24'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25761
+  date: '2012-03-03'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25762
+  date: '2012-03-09'
+  time: '22:00'
+  band_id: 320
+  band_name: Ногу свело!
+  band_token: nogu-svelo
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25763
+  date: '2012-03-23'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25764
+  date: '2012-02-21'
+  time: '21:00'
+  band_name: Open-G Jam с Сергеем Вороновым, Дмитрием "Ветераном" Честных и Юрием
+    Новгородским при уч. Dariya (вокал).
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25765
+  date: '2012-02-22'
+  time: '18:00'
+  band_name: Фестиваль "Зимнее Вторжение"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25766
+  date: '2012-02-24'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25767
+  date: '2012-02-26'
+  time: '21:00'
+  band_name: Tribute to Pink Floyd с группой Pulse
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25768
+  date: '2012-02-29'
+  time: '21:00'
+  band_name: Deep Purple Party c группой Dipped in Purple
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 397
+    name: Dipped in Purple
+    token: dipped-in-purple
+- id: 25769
+  date: '2012-03-01'
+  time: '21:00'
+  band_name: =БоБРы=
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25770
+  date: '2012-03-02'
+  time: '22:00'
+  band_name: Джазовые Трансформации при уч. Андрея Макаревича, трио Евгения Борца,
+    Этери Бериашвили и Brill Brothers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+- id: 25771
+  date: '2012-03-04'
+  time: '21:00'
+  band_name: Фестиваль RockPlatforma
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25772
+  date: '2012-03-07'
+  time: '22:00'
+  band_name: Бахыт Компот
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 106
+    name: Вадим Степанцов и Бахыт Компот
+    token: stepantsov
+- id: 25773
+  date: '2012-03-08'
+  time: '22:00'
+  band_name: Real JAM
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25774
+  date: '2012-03-13'
+  time: '21:00'
+  band_name: Grand Jam
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25775
+  date: '2012-03-14'
+  time: '21:00'
+  band_name: Владимир Аветисян и D’Black – трибьют Эрика Клэптона
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25776
+  date: '2012-03-15'
+  time: '21:00'
+  band_name: Bro Sound
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25777
+  date: '2012-03-17'
+  time: '16:00'
+  band_name: 'Фестиваль MusOcean*fest: Революция'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25778
+  date: '2012-03-18'
+  time: '16:00'
+  band_name: 'Фестиваль MusOcean*fest: Революция'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25779
+  date: '2012-03-21'
+  time: '21:00'
+  band_name: Led Zeppelin party c Plumbum Dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 212
+    name: Plumbum Dreams
+    token: plumbum-dreams
+- id: 25780
+  date: '2012-03-22'
+  time: '20:00'
+  band_name: Ангел НеБес
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 25781
+  date: '2012-03-24'
+  time: '22:00'
+  band_name: Катя Гордон и Blondrock - презентация диска
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31491
+  date: '2012-11-20'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 31799
+  date: '2012-11-24'
+  time: '22:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31800
+  date: '2012-12-01'
+  time: '22:00'
+  band_id: 106
+  band_name: Вадим Степанцов и Бахыт Компот
+  band_token: stepantsov
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31801
+  date: '2012-12-06'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31803
+  date: '2012-11-22'
+  time: '21:00'
+  band_name: Матильда Паб
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31804
+  date: '2012-11-23'
+  time: '22:00'
+  band_id: 182
+  band_name: Balls of Fire
+  band_token: balls-of-fire
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: 6-летие клуба
+- id: 31805
+  date: '2012-11-23'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31806
+  date: '2012-11-28'
+  time: '21:00'
+  band_name: P.U.L.S.E.
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: трибьют группы Pink Floyd
+- id: 31807
+  date: '2012-11-29'
+  time: '21:00'
+  band_name: SadMe
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: презентация нового диска
+- id: 31808
+  date: '2012-12-05'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: день рождения Оззи Озборна
+- id: 31809
+  date: '2012-12-07'
+  time: '22:00'
+  band_name: Omar Torrez & Blacktone Kings
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 31810
+  date: '2012-12-09'
+  time: '18:00'
+  band_name: Фестиваль "Живые"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town

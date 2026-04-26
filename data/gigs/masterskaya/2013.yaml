@@ -1,0 +1,122 @@
+- id: 33206
+  date: '2013-01-19'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 33202
+  date: '2013-01-20'
+  time: '21:00'
+  band_id: 546
+  band_name: Goat's Notes
+  band_token: goatsnotes
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 300 руб.
+  comments: Не пропустите! В это воскресенье в Мастерской - отвязные импровизаторы
+    GoaT's NoteS - с великолепными гостями - Владимиром Черницыным (контрабас), Юрием
+    Севастьяновым (саксофон) и Кириллом Паренчуком (тоже саксофон, но поменьше и попрямее)
+- id: 34621
+  date: '2013-03-07'
+  time: '23:00'
+  band_name: 26 Herz, праздничная вечеринка в честь дня рождения "Мастерской".
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 500 руб.
+  extra_bands:
+  - id: 61
+    name: 26 Герц
+    token: 26herz
+- id: 37366
+  date: '2013-07-18'
+  time: '21:30'
+  band_name: Александр Соловьев
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: бесплатный
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 37367
+  date: '2013-07-20'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 37733
+  date: '2013-08-01'
+  time: '21:00'
+  band_name: Lampa Ladino
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 37734
+  date: '2013-08-02'
+  time: '22:00'
+  band_name: Ska Jazz Review
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 37735
+  date: '2013-08-09'
+  time: '21:00'
+  band_name: 'Leo Records Festival in Russia: Russian Free Folk Quartet (Алексей Круглов,
+    Тим Дорофеев, Евгений и Анастасия Маслобоевы), "Ансамбль Московских Композиторов"
+    Андрея Соловьева, Goat''s Notes, джем'
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 38538
+  date: '2013-09-14'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 38477
+  date: '2013-09-12'
+  time: '23:00'
+  band_name: Jazz Ar Farlig (Швеция)
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 38478
+  date: '2013-09-19'
+  time: '21:00'
+  band_name: Exit project
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+  price: 400 руб.
+- id: 39025
+  date: '2013-10-10'
+  time: '21:00'
+  band_name: Квартет Straymonk (Швейцария) с программой музыки Чарли Мингуса
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya
+- id: 40943
+  date: '2013-12-28'
+  time: '21:00'
+  band_name: Вежливый Отказ
+  club_id: 174
+  club_name: Мастерская
+  club_token: masterskaya

@@ -1,0 +1,29 @@
+id: 888
+token: repin-bar
+name: Репин Бар
+alive: true
+address: Большая Пушкарская, 50
+subway: Петроградская
+phone: 917-72-97
+city_id: 2
+comments: вход с улицы Бармалеева
+clips:
+- id: 8662
+  type: weblink
+  url: https://vk.com/repinbar
+  name: Официальный сайт
+  sort_order: 0
+- id: 8672
+  type: photo
+  url: repin-bar.jpg
+  sort_order: 0
+  width: 1200
+  height: 801
+- id: 8664
+  type: youtube
+  url: https://www.youtube.com/watch?v=4CrEBjj0L8A
+  name: Евгений Ламба Бенд и Алекс Соловьев - "Ya Ya" (Lee Dorsey)
+  comments: Джаз-клуб КВАДРАТ представляет:BluesTime#025 13/VIII-2014Евгений Ламба
+    Бенд Евгений Ламба - гитара, вокал  Кирилл Поляков - бас-гитара     Ярослав Писарев
+    - барабаны     featuring  Алекс Солов
+  sort_order: 99

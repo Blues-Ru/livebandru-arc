@@ -1,0 +1,68 @@
+id: 684
+token: kamchatka
+name: Kamchatka
+alive: true
+url: http://kamchatka.se/
+city_id: 44
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Thomas "Juneor" Andersson
+  instruments: гитара
+- name: Tobias Strandvik
+  instruments: барабаны
+- name: Per Wiberg
+  instruments: бас
+clips:
+- id: 5529
+  type: photo
+  url: kamchatka.jpg
+  sort_order: 0
+  width: 3800
+  height: 2414
+- id: 5530
+  type: youtube
+  url: http://www.youtube.com/?v=yJq560RL8Z4
+  name: Kamchatka - No (live)
+  comments: Kamchatka Rock Band Live at Sociten, Varberg, Sweden
+  sort_order: 99
+- id: 5531
+  type: youtube
+  url: http://www.youtube.com/?v=tcDbGCv59bs
+  name: Kmchatka - Seed (live)
+  comments: Kamchatka Rock Band Live at Sociten , Varberg, Sweden
+  sort_order: 0
+- id: 5528
+  type: weblink
+  url: http://kamchatka.se/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5532
+  type: youtube
+  url: http://www.youtube.com/?v=qE3Ns22S4xc
+  name: Kamchatka - Confessions (live)
+  sort_order: 199
+- id: 5533
+  type: mp3
+  url: kamchatka.mp3
+  name: Kamchatka - Terminus
+  sort_order: 99
+- id: 5534
+  type: mp3
+  url: kamchatka-2.mp3
+  name: Kamchatka - Sorg
+  sort_order: 199
+reviews:
+- id: 401
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Kamchatka
+  text: Шведское пауэр-трио KAMCHATKA на сегодняшний день является одной из самых
+    интересных современных блюз-роковых команд старой школы. Музыка группы представляет
+    собой сплав сочного психоделического тяжелого блюза времен Хендрикса и Cream со
+    стоунер-роком от Kyuss и прогрессивом от King Crimson, записанный под впечатлением
+    от суровой северной природы.
+  verified: true
+  created: '2014-03-20'
+  is_press_release: true

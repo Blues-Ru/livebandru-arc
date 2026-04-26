@@ -1,0 +1,17 @@
+id: 421
+token: mets
+name: METS
+alive: true
+url: http://www.metsworlds.com
+city_id: 1
+genre_id: 7
+clips:
+- id: 1949
+  type: weblink
+  url: http://www.metsworlds.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 1950
+  type: rss
+  url: http://metsworlds.livejournal.com/data/rss
+  sort_order: 99

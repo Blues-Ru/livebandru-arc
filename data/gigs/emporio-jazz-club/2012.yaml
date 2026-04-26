@@ -1,0 +1,238 @@
+- id: 25205
+  date: '2012-02-01'
+  time: '21:00'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 25206
+  date: '2012-02-08'
+  time: '21:00'
+  band_name: AngeliQuie and The Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 25207
+  date: '2012-02-15'
+  time: '21:00'
+  band_name: '"Ирина, Алина, Полина": Ирина Родилес, Алина Ростоцкая, Полина Зизак
+    и трио Якова Окуня'
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak
+- id: 25208
+  date: '2012-02-22'
+  time: '21:00'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 25209
+  date: '2012-02-29'
+  time: '21:00'
+  band_name: Therr Maitz (акустика), Антон Беляев
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 27844
+  date: '2012-05-16'
+  time: '21:00'
+  band_name: Алексей Батыченко & Jazz Parking Band - "Miles Davis Tribute"
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 27845
+  date: '2012-05-23'
+  time: '21:00'
+  band_name: Ольга Синяева & A.M.J.Q.
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 27846
+  date: '2012-05-30'
+  time: '21:00'
+  band_name: Мариам и Армен Мерабовы & Jazz Parking Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28404
+  date: '2012-06-06'
+  time: '21:00'
+  band_name: Владимир Мусаелян & Live Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28406
+  date: '2012-06-13'
+  time: '21:00'
+  band_name: Эдгар Акопян & Ethno Jazz
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28408
+  date: '2012-06-20'
+  time: '21:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28409
+  date: '2012-06-27'
+  time: '21:00'
+  band_name: AngeliQuie and The Band & Анжелика Фролова (вокал)
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28927
+  date: '2012-07-04'
+  time: '21:00'
+  band_name: Андрей Солод & Solod Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28928
+  date: '2012-07-11'
+  time: '21:00'
+  band_name: Олег Бутман & Наталья Смирнова
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 28929
+  date: '2012-07-18'
+  time: '21:00'
+  band_name: Таис Урумидис & Men's
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 28930
+  date: '2012-07-25'
+  time: '21:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 30122
+  date: '2012-10-10'
+  time: '21:00'
+  band_name: Трио Владимира Капырина
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30118
+  date: '2012-09-19'
+  time: '21:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30119
+  date: '2012-09-26'
+  time: '21:00'
+  band_name: Андрей Солод & Solod Band
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30120
+  date: '2012-09-27'
+  time: '21:00'
+  band_name: Zenia McPherson (США) & трио Олега Бутмана
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 30121
+  date: '2012-10-03'
+  time: '21:00'
+  band_name: Beriashvili-Losev Group
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30124
+  date: '2012-09-24'
+  time: '21:00'
+  band_name: Gayana
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30125
+  date: '2012-10-31'
+  time: '21:00'
+  band_name: Таис Урумидис
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 30123
+  date: '2012-10-17'
+  time: '21:00'
+  band_name: Ms.Sounday
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  price: бесплатный
+- id: 31209
+  date: '2012-11-14'
+  time: '21:00'
+  band_name: Владимир Мусаелян & Live Band & Jazz Parking Jam
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 31210
+  date: '2012-11-22'
+  time: '21:00'
+  band_name: Клаудиа Элиаза (вокал, США), Чарльз Тернер (вокал, США), Майкл О'Брайен
+    (контрабас, США), Алексей Черемизов (рояль, Россия), Егор Крюковских (ударные,
+    Россия) & Jazz Parking Jam
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+- id: 31211
+  date: '2012-11-28'
+  time: '21:00'
+  band_name: Марк Юсим, Алексей Козлов
+  club_id: 510
+  club_name: Emporio Jazz Club
+  club_token: emporio-jazz-club
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov

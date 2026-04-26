@@ -1,0 +1,159 @@
+- id: 62551
+  date: '2017-01-01'
+  time: '20:00'
+  band_name: Юрий Каверкин и Александр Новоселов
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 62553
+  date: '2017-01-03'
+  time: '20:00'
+  band_name: Дариа Ловать
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62554
+  date: '2017-01-04'
+  time: '20:00'
+  band_name: Lena Foreverjoy
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62555
+  date: '2017-01-05'
+  time: '20:00'
+  band_name: Кинач и Ветеран
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62552
+  date: '2017-01-02'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62556
+  date: '2017-01-06'
+  time: '20:00'
+  band_name: Вадим Иващенко Ольга Лисикова
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 62557
+  date: '2017-01-07'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62978
+  date: '2017-01-13'
+  time: '20:00'
+  band_name: Михаил Кистанов, LeNa Shery и ЮрИваныч
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 63005
+  date: '2017-01-19'
+  time: '20:00'
+  band_name: Александр Жадов El Sur
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 63006
+  date: '2017-01-20'
+  time: '20:00'
+  band_name: Acoustic Soul
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 63008
+  date: '2017-01-26'
+  time: '20:00'
+  band_id: 578
+  band_name: Colonel Colt Fan Club
+  band_token: colonel-colt-fan-club
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 62976
+  date: '2017-01-11'
+  time: '20:00'
+  band_name: Иван Жук и Юрий Новгородский
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 243
+    name: Наеховичи
+    token: nayekhovichi
+- id: 62977
+  date: '2017-01-12'
+  time: '20:00'
+  band_name: Владимир Кожекин и Гурген Джангирян
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 63004
+  date: '2017-01-18'
+  time: '20:00'
+  band_name: Сергей Пахомов
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 63007
+  date: '2017-01-25'
+  time: '20:00'
+  band_name: Cross-Eyed Cats
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь
+- id: 63009
+  date: '2017-01-27'
+  time: '20:00'
+  band_id: 199
+  band_name: PsycheDelta Blues Band
+  band_token: psychedelta
+  club_id: 853
+  club_name: Offer
+  club_token: offer
+  price: плати за концерт, сколько можешь

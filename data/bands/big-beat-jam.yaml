@@ -1,0 +1,30 @@
+id: 435
+token: big-beat-jam
+name: Big Beat Jam
+aliases: Big Beat Jam-Session
+alive: true
+url: http://www.olimpiada80.ru/
+city_id: 1
+genre_id: 2
+clips:
+- id: 2056
+  type: weblink
+  url: http://www.olimpiada80.ru/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 138
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Воскресный Big Beat Jam в клубе Олимпиада-80
+  text: 'Участники Big Beat Jam – это лучшие силы современного российского джаза.
+    Молодые и уже успевшие прославиться, они не зазнались и приходят к нам по воскресеньям.
+    Просто поиграть, устроить продолжительный импровиз, оторваться с друзьями в кругу
+    друзей. Это и есть Big Beat Jam! Предлагаем вам присоединиться к нашей компании:
+    Гульнара Аскарова, Юрий Топчий, Николай Моисеенко, Алексей Кравцов, Борис Ионов,
+    Алексей Наджаров, Сергей Гейер, Марк Юсим, Борис Голик и многие-многие другие.
+    Вход свободный.'
+  verified: true
+  created: '2011-04-23'
+  is_press_release: true

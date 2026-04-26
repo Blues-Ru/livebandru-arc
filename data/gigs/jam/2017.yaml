@@ -1,0 +1,4099 @@
+- id: 63142
+  date: '2017-02-03'
+  time: '20:30'
+  band_id: 720
+  band_name: Mr. KingBee
+  band_token: mr-kingbee
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 500 руб.
+  comments: "\"Mr. KingBee\" - это:\r\n\r\n- старый добрый блюз с новым звучанием\r\
+    \n- музыка, которая однажды сломала расовые предрассудки\r\n- душераздирающий\
+    \ плач губной гармоники и чувственный вокал\r\n- рев струн и пронзающие насквозь\
+    \ гитарные соло\r\n- жгучая смесь мощного грува барабанно-басовой секции\r\n\r\
+    \nБлагодаря этому мы способны выступать в разных концертных условиях:\r\n\r\n\
+    Большие сцены на многотысячных фестивалях, где ноги перестанут вас слушаться под\
+    \ Мадди Уотерса; маленькие заведения и анти-кафе, где нужно играть так тихо, что\
+    \ сам Сонни Бой Вильямсон II захочет прийти и сказать: - \"One more time\" (с)."
+- id: 64171
+  date: '2017-03-17'
+  time: '21:00'
+  band_id: 687
+  band_name: Todd Sharpville
+  band_token: todd-sharpville
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 64141
+  date: '2017-03-16'
+  time: '21:00'
+  band_name: Nathan James (USA) and The Jumping Cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 721
+    name: Nathan James
+    token: nathan-james
+- id: 64345
+  date: '2017-04-16'
+  time: '20:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 64653
+  date: '2017-04-13'
+  time: '21:00'
+  band_name: Aki Kumar & Rockin' Johnny Burgin (USA) & The Jumping Cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+  extra_bands:
+  - id: 723
+    name: Aki Kumar & Rockin' Johnny Burgin
+    token: kumar-burgin
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 65268
+  date: '2017-05-10'
+  time: '20:30'
+  band_name: Андрей Макаревич, Диана Поленова, Тимур Некрасов и трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+- id: 65269
+  date: '2017-05-11'
+  time: '20:30'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 65274
+  date: '2017-05-13'
+  time: '20:30'
+  band_id: 365
+  band_name: Ирина Родилес
+  band_token: irina-rodiles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65275
+  date: '2017-05-13'
+  time: '21:00'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65254
+  date: '2017-05-02'
+  time: '20:30'
+  band_name: 'Юрий Каверкин и Александр Новоселов: "Дуэт на троих"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 65255
+  date: '2017-05-03'
+  time: '20:30'
+  band_name: Sax vs Piano
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65257
+  date: '2017-05-04'
+  time: '21:00'
+  band_name: Alex Davletshin Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 65258
+  date: '2017-05-05'
+  time: '21:00'
+  band_name: Aleksey Fetisov Rock'n'Roll Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65259
+  date: '2017-05-05'
+  time: '20:30'
+  band_name: LRK Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65260
+  date: '2017-05-06'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65261
+  date: '2017-05-06'
+  time: '20:30'
+  band_name: The Jazz Prisoners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65262
+  date: '2017-05-07'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65264
+  date: '2017-05-08'
+  time: '20:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65265
+  date: '2017-05-08'
+  time: '20:00'
+  band_name: Salsa JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65267
+  date: '2017-05-09'
+  time: '20:00'
+  band_name: Секстет Виктории Кауновой и Ильи Морозова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65270
+  date: '2017-05-11'
+  time: '21:00'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65271
+  date: '2017-05-12'
+  time: '20:30'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65272
+  date: '2017-05-12'
+  time: '21:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65273
+  date: '2017-05-13'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65276
+  date: '2017-05-14'
+  time: '20:00'
+  band_name: Marrakesh Blues Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 706
+    name: Марракеш блюз бэнд
+    token: marrakesh
+- id: 65277
+  date: '2017-05-14'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65283
+  date: '2017-05-17'
+  time: '21:00'
+  band_name: Андрей Макаревич и Ильдар Казаханов с новой программой "Андрей и Ильдар
+    в Машине"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65284
+  date: '2017-05-18'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65285
+  date: '2017-05-18'
+  time: '21:00'
+  band_name: Квинтет Николая Куликова. Специальный гость Михаил Меркулов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65288
+  date: '2017-05-20'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65291
+  date: '2017-05-21'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65292
+  date: '2017-05-28'
+  time: '15:00'
+  band_name: Sunday Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65295
+  date: '2017-05-22'
+  time: '20:00'
+  band_name: Salsa JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65297
+  date: '2017-05-23'
+  time: '21:00'
+  band_name: Kвартет Олега Бутмана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65279
+  date: '2017-05-15'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65282
+  date: '2017-05-17'
+  time: '20:30'
+  band_name: Omar Itcovici & The All Star Argentina-Russia Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65286
+  date: '2017-05-19'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65287
+  date: '2017-05-19'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 65289
+  date: '2017-05-20'
+  time: '20:30'
+  band_name: '"A New Generetion" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 65290
+  date: '2017-05-20'
+  time: '21:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65293
+  date: '2017-05-21'
+  time: '20:00'
+  band_name: Алексей Попов и трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 65294
+  date: '2017-05-21'
+  time: '20:00'
+  band_name: Константин Гевондян & Полина Касьянова с программой "Ties & Heels"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 65296
+  date: '2017-05-22'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65298
+  date: '2017-05-24'
+  time: '20:30'
+  band_name: 'Антон Румянцев: "Jazz Standards"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65299
+  date: '2017-05-25'
+  time: '20:30'
+  band_name: ХоронькОкунь
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65300
+  date: '2017-05-25'
+  time: '21:00'
+  band_name: Полина Касьянова и Трио Дмитрия Купцова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 65301
+  date: '2017-05-26'
+  time: '20:30'
+  band_name: Bjorn Vidar Solli Quartet (Норвегия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65302
+  date: '2017-05-26'
+  time: '21:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65303
+  date: '2017-05-27'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65304
+  date: '2017-05-27'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65305
+  date: '2017-05-27'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65307
+  date: '2017-05-28'
+  time: '20:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65308
+  date: '2017-05-29'
+  time: '20:00'
+  band_name: Salsa JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65311
+  date: '2017-05-31'
+  time: '20:30'
+  band_name: 'Flamencura: Татьяна Шишкова (вокал), Алексей Стародубцев (рояль, гитара),
+    Максим Сомов (контрабас), Сергей Коняев (перкуссия)'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65314
+  date: '2017-06-29'
+  time: '21:00'
+  band_name: Трио Кlе2Gо
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65256
+  date: '2017-05-04'
+  time: '20:30'
+  band_name: 'Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+- id: 65263
+  date: '2017-05-07'
+  time: '20:00'
+  band_id: 571
+  band_name: Catherine's project
+  band_token: catherines-project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65266
+  date: '2017-05-09'
+  time: '18:30'
+  band_name: Концерт для рояля и актера "Диалоги". Даниил Спиваковский, Евгений Борец
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 65278
+  date: '2017-05-14'
+  time: '20:00'
+  band_name: Layna Shery
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65280
+  date: '2017-05-15'
+  time: '20:00'
+  band_name: Salsa JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65281
+  date: '2017-05-16'
+  time: '20:30'
+  band_name: 'Алик Сикорский и Михаил Меркулов: "Let the good times roll"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65306
+  date: '2017-05-28'
+  time: '20:00'
+  band_name: Пара туфель. Джаз. Чечетка. Kirsanov & Jazz sisters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 125
+    name: Jazz Sisters
+    token: jazz-sisters
+- id: 65309
+  date: '2017-05-29'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65310
+  date: '2017-05-30'
+  time: '20:30'
+  band_name: Jasper Lee
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65312
+  date: '2017-05-31'
+  time: '21:00'
+  band_name: Daddy McSwing & Vegas Project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65313
+  date: '2017-06-17'
+  time: '20:30'
+  band_name: Паперный ТАМ
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65430
+  date: '2017-06-04'
+  time: '21:00'
+  band_id: 725
+  band_name: Jack J Hutchinson
+  band_token: jack-j-hutchinson
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000 руб.
+- id: 65862
+  date: '2017-06-23'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65863
+  date: '2017-06-03'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65866
+  date: '2017-06-11'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65867
+  date: '2017-06-18'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65871
+  date: '2017-06-12'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65872
+  date: '2017-06-19'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65873
+  date: '2017-06-26'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65877
+  date: '2017-06-20'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65878
+  date: '2017-06-27'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65879
+  date: '2017-06-07'
+  time: '20:30'
+  band_name: Jordan's Drive (Дания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65880
+  date: '2017-06-07'
+  time: '20:30'
+  band_name: Танго с джазовым акцентом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65881
+  date: '2017-06-08'
+  time: '20:30'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 65882
+  date: '2017-06-08'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 65883
+  date: '2017-06-09'
+  time: '20:30'
+  band_name: Секстет Виктории Кауновой и Ильи Морозова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65884
+  date: '2017-06-09'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65854
+  date: '2017-06-01'
+  time: '20:30'
+  band_name: LRK Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65855
+  date: '2017-06-01'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65885
+  date: '2017-06-10'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65886
+  date: '2017-06-10'
+  time: '20:30'
+  band_name: Трио Алекса Ростоцкого
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 65887
+  date: '2017-06-11'
+  time: '20:00'
+  band_name: Django Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65888
+  date: '2017-06-11'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65889
+  date: '2017-06-12'
+  time: '15:00'
+  band_name: Гитарный бранч с Алексеем Давлетшиным
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65890
+  date: '2017-06-13'
+  time: '20:30'
+  band_name: Лиза Павлюкова & V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65891
+  date: '2017-06-14'
+  time: '20:30'
+  band_name: Антон Румянцев с программой "Nirvana в джазе"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65892
+  date: '2017-06-15'
+  time: '20:30'
+  band_name: Amber Sept
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65893
+  date: '2017-06-16'
+  time: '20:30'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65894
+  date: '2017-06-15'
+  time: '21:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65895
+  date: '2017-06-16'
+  time: '21:00'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65896
+  date: '2017-06-18'
+  time: '20:00'
+  band_name: Николай Добкин, Вадим Иващенко и Антон Дашкин
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 65897
+  date: '2017-06-18'
+  time: '20:00'
+  band_name: Даниил Крамер & Bril brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 146
+    name: Bril Brothers
+    token: bril
+- id: 65898
+  date: '2017-06-20'
+  time: '20:30'
+  band_name: Квартет Дарьи Захаровой и Натальи Скворцовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65899
+  date: '2017-06-21'
+  time: '20:30'
+  band_name: Андрей Макаревич, Полина Касьянова, Тимур Некрасов и Borets Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 65900
+  date: '2017-06-21'
+  time: '21:00'
+  band_name: Джаз-квинтет "Эдельвейс"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 350
+    name: Эдельвейс
+    token: edelveys
+- id: 65901
+  date: '2017-06-22'
+  time: '20:30'
+  band_name: Classy Jazz Олега Матвеева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65902
+  date: '2017-06-22'
+  time: '21:00'
+  band_name: Полина Касьянова и Трио Дмитрия Купцова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 65903
+  date: '2017-06-23'
+  time: '20:30'
+  band_name: De Blues Spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65904
+  date: '2017-06-23'
+  time: '21:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 65905
+  date: '2017-06-24'
+  time: '20:30'
+  band_name: '"A New Generetion" с Трио Михаила Кистанова (Acoustic Blues)'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 65906
+  date: '2017-06-24'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65907
+  date: '2017-06-25'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65908
+  date: '2017-06-25'
+  time: '20:00'
+  band_name: Квинтет Анастасии Лютовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65909
+  date: '2017-06-28'
+  time: '20:30'
+  band_name: V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65856
+  date: '2017-06-02'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65857
+  date: '2017-06-02'
+  time: '21:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65858
+  date: '2017-06-03'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65859
+  date: '2017-06-10'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65860
+  date: '2017-06-30'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65861
+  date: '2017-06-17'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65864
+  date: '2017-06-03'
+  time: '21:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65865
+  date: '2017-06-04'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65868
+  date: '2017-06-25'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65869
+  date: '2017-06-04'
+  time: '20:00'
+  band_name: Natalia Skvortsova Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65870
+  date: '2017-06-05'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65874
+  date: '2017-06-06'
+  time: '20:30'
+  band_name: Константин Гевондян & Полина Касьянова с программой Ties & Heels
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 65875
+  date: '2017-06-06'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65876
+  date: '2017-06-13'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65913
+  date: '2017-06-30'
+  time: '21:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65914
+  date: '2017-07-01'
+  time: '21:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 65910
+  date: '2017-06-28'
+  time: '21:00'
+  band_name: Алексей White Белов, Удачное приобретение и Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 65911
+  date: '2017-06-29'
+  time: '20:30'
+  band_name: Настя Волокитина (Германия) и квартет Ивана Фармаковского
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 65912
+  date: '2017-06-30'
+  time: '20:30'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66386
+  date: '2017-07-01'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66387
+  date: '2017-07-01'
+  time: '20:30'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66388
+  date: '2017-07-02'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66389
+  date: '2017-07-02'
+  time: '20:00'
+  band_id: 571
+  band_name: Catherine's project
+  band_token: catherines-project
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66390
+  date: '2017-07-02'
+  time: '20:00'
+  band_name: Алекс Соловьев & Iron Curtain
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66391
+  date: '2017-07-03'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66392
+  date: '2017-07-10'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66393
+  date: '2017-07-17'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66394
+  date: '2017-07-24'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66395
+  date: '2017-07-31'
+  time: '20:30'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66396
+  date: '2017-07-31'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66397
+  date: '2017-07-24'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66398
+  date: '2017-07-17'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66399
+  date: '2017-07-10'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66400
+  date: '2017-07-02'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66401
+  date: '2017-07-04'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66402
+  date: '2017-07-11'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66403
+  date: '2017-07-18'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66404
+  date: '2017-07-25'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66405
+  date: '2017-08-01'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66406
+  date: '2017-07-04'
+  time: '20:30'
+  band_name: '"Частный случай" Алексея Кортнева и Сергея Чекрыжова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66407
+  date: '2017-07-05'
+  time: '20:30'
+  band_name: Анна Март
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66408
+  date: '2017-07-05'
+  time: '20:30'
+  band_name: 'Квартет Олега Бутмана: "Джазовые портреты Стиви Вандера"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66409
+  date: '2017-07-06'
+  time: '20:30'
+  band_name: Malashkova & Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66410
+  date: '2017-07-06'
+  time: '20:30'
+  band_name: Олег Киреев (саксофон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 66411
+  date: '2017-07-07'
+  time: '20:30'
+  band_name: 'B&B International Project: Hiske Oosterwijk (вокал, Нидерланды), Макар
+    Новиков (контрабас) и Дарья Чернакова (контрабас), Саша Машин (ударные) и Алексей
+    Иванников (рояль)'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66412
+  date: '2017-07-07'
+  time: '20:30'
+  band_name: Jasper Lee
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66414
+  date: '2017-07-15'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66416
+  date: '2017-07-29'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66417
+  date: '2017-07-30'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66420
+  date: '2017-07-23'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66421
+  date: '2017-07-08'
+  time: '20:30'
+  band_name: The Jamtlemen Константина Гевондяна (труба, вокал) и Евгения Борца (рояль)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 66422
+  date: '2017-07-08'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66423
+  date: '2017-07-09'
+  time: '20:00'
+  band_name: Полина Орбах
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66428
+  date: '2017-07-14'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66429
+  date: '2017-07-15'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66430
+  date: '2017-07-15'
+  time: '20:30'
+  band_name: The Trombone Show
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66431
+  date: '2017-07-16'
+  time: '20:00'
+  band_name: Антон Баронин - Orchestra 2.0
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66434
+  date: '2017-07-21'
+  time: '20:30'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 66435
+  date: '2017-07-21'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66436
+  date: '2017-07-22'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66437
+  date: '2017-07-23'
+  time: '20:00'
+  band_name: Layna Shery
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66438
+  date: '2017-07-27'
+  time: '20:30'
+  band_name: Квинтет Леонида Нестерова (рояль, Кипр)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66439
+  date: '2017-07-28'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66443
+  date: '2017-07-30'
+  time: '20:30'
+  band_name: Live People Ensemble
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 66413
+  date: '2017-07-08'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66415
+  date: '2017-07-22'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66418
+  date: '2017-07-09'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66419
+  date: '2017-07-16'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66424
+  date: '2017-07-12'
+  time: '20:30'
+  band_name: Андрей Макаревич, Евгений Борец, Ирина Родилес, Тимур Некрасов, Сергей
+    Хутас, Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 66425
+  date: '2017-07-13'
+  time: '20:30'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66426
+  date: '2017-07-13'
+  time: '20:30'
+  band_name: Алена Кошкина & Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66427
+  date: '2017-07-14'
+  time: '20:30'
+  band_name: The Tightrope
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 402
+    name: Tightrope
+    token: tightrope
+- id: 66432
+  date: '2017-07-19'
+  time: '20:30'
+  band_name: Татьяна Ларина и Екатерина Балыкбаева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66433
+  date: '2017-07-20'
+  time: '20:30'
+  band_name: 'Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 66440
+  date: '2017-07-28'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 66441
+  date: '2017-07-29'
+  time: '20:30'
+  band_name: Southern Comfort
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66442
+  date: '2017-07-29'
+  time: '20:30'
+  band_name: LRK Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66444
+  date: '2017-08-04'
+  time: '20:30'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66445
+  date: '2017-08-25'
+  time: '20:30'
+  band_name: Квартет Rosario Giuliani (саксофон, Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 66446
+  date: '2017-09-28'
+  time: '20:30'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 67042
+  date: '2017-08-02'
+  time: '20:30'
+  band_name: Квинтет Анастасии Лютовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67043
+  date: '2017-08-03'
+  time: '20:30'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67044
+  date: '2017-08-04'
+  time: '20:30'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67045
+  date: '2017-08-05'
+  time: '20:30'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67046
+  date: '2017-08-05'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67047
+  date: '2017-08-12'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67048
+  date: '2017-08-26'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67049
+  date: '2017-08-19'
+  time: '15:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67050
+  date: '2017-08-06'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67051
+  date: '2017-08-13'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67052
+  date: '2017-08-27'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67053
+  date: '2017-08-20'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67054
+  date: '2017-08-06'
+  time: '20:00'
+  band_name: SV Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67095
+  date: '2017-08-27'
+  time: '20:00'
+  band_id: 580
+  band_name: Folkline
+  band_token: folkline
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67096
+  date: '2017-08-27'
+  time: '20:00'
+  band_name: Антон Баронин Orchestra 2.0
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67100
+  date: '2017-08-31'
+  time: '20:30'
+  band_name: Секстет Виктории Кауновой и Ильи Морозова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67110
+  date: '2017-09-08'
+  time: '20:30'
+  band_name: Органное трио Иващенко/Добкин/Дашкин
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67115
+  date: '2017-09-14'
+  time: '20:30'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67117
+  date: '2017-09-15'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67118
+  date: '2017-09-16'
+  time: '20:30'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67120
+  date: '2017-09-20'
+  time: '20:30'
+  band_name: Андрей Макаревич, Диана Поленова, Тимур Некрасов и трио Евгения Борца
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+- id: 67121
+  date: '2017-09-21'
+  time: '20:30'
+  band_name: ХоронькОкунь
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67124
+  date: '2017-09-23'
+  time: '20:30'
+  band_name: Трио Алекса Ростоцкого
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 67128
+  date: '2017-11-05'
+  time: '20:00'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67129
+  date: '2017-11-19'
+  time: '20:00'
+  band_name: Jimmy C. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67130
+  date: '2017-12-03'
+  time: '20:00'
+  band_name: Krissy Matthews. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 667
+    name: Krissy Matthews
+    token: krissy-matthews
+- id: 67131
+  date: '2017-12-17'
+  time: '20:00'
+  band_name: Giles Robson. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 643
+    name: Giles Robson
+    token: giles-robson
+- id: 67057
+  date: '2017-08-14'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67058
+  date: '2017-08-21'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67059
+  date: '2017-08-28'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67060
+  date: '2017-08-07'
+  time: '20:30'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67061
+  date: '2017-08-28'
+  time: '20:30'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67062
+  date: '2017-08-21'
+  time: '20:30'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67063
+  date: '2017-08-14'
+  time: '20:30'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67064
+  date: '2017-08-08'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67066
+  date: '2017-08-22'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67067
+  date: '2017-08-29'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67068
+  date: '2017-08-09'
+  time: '20:30'
+  band_name: VivaAcoustica
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67071
+  date: '2017-08-11'
+  time: '20:30'
+  band_name: Квартет Ивана Фармаковского
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 67074
+  date: '2017-08-12'
+  time: '20:30'
+  band_name: 'The Jamtlemen: JAM в День'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67075
+  date: '2017-08-13'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67076
+  date: '2017-08-13'
+  time: '20:00'
+  band_name: 'Юрий Каверкин и Александр Новоселов: "Дуэт на троих"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 67086
+  date: '2017-08-20'
+  time: '20:00'
+  band_name: 'Квартет Олега Бутмана: "Джазовые портреты Стиви Уандера"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67087
+  date: '2017-08-22'
+  time: '20:30'
+  band_name: Martin Zenker (Германия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67097
+  date: '2017-08-30'
+  time: '20:30'
+  band_name: Todd Sharpville. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 687
+    name: Todd Sharpville
+    token: todd-sharpville
+- id: 67098
+  date: '2017-08-30'
+  time: '20:30'
+  band_name: Classy Jazz Олега Матвеева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67099
+  date: '2017-08-31'
+  time: '20:30'
+  band_name: 'Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 67101
+  date: '2017-09-01'
+  time: '20:30'
+  band_name: Константин Гевондян & Полина Касьянова с программой "Ties & Heels"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 67102
+  date: '2017-09-01'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67104
+  date: '2017-09-02'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67065
+  date: '2017-08-15'
+  time: '20:30'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67069
+  date: '2017-08-10'
+  time: '20:30'
+  band_name: Алекс Соловьев & Iron Curtain
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67070
+  date: '2017-08-10'
+  time: '20:30'
+  band_id: 550
+  band_name: Квартет Николая Куликова
+  band_token: kvartet-nikolaya-kulikova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67072
+  date: '2017-08-11'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 67073
+  date: '2017-08-12'
+  time: '20:30'
+  band_name: Django Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67077
+  date: '2017-08-16'
+  time: '20:30'
+  band_name: Квинтет Виталия Головнева и Дэвида Гибсона (Нью-Йорк)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67078
+  date: '2017-08-16'
+  time: '20:30'
+  band_name: Алексей White Белов и Удачное приобретение, Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 67079
+  date: '2017-08-17'
+  time: '20:30'
+  band_name: Трио Юрия Голубева (Великобритания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67088
+  date: '2017-08-23'
+  time: '20:30'
+  band_name: Этика Джаза с Виктором Радзиевским
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67089
+  date: '2017-08-24'
+  time: '20:30'
+  band_name: Антон Румянцев с программой "Queen в Джазе"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67090
+  date: '2017-08-24'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67091
+  date: '2017-08-25'
+  time: '20:30'
+  band_name: '"A New Generetion" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 67092
+  date: '2017-08-25'
+  time: '20:30'
+  band_name: Квартет Rosario Giuliani (саксофон, Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67093
+  date: '2017-08-26'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67094
+  date: '2017-08-26'
+  time: '21:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67103
+  date: '2017-09-02'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67105
+  date: '2017-09-03'
+  time: '20:00'
+  band_name: Odei Al-Magut Project (Нидерланды)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67106
+  date: '2017-09-06'
+  time: '20:30'
+  band_name: Connection Азата Баязитова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67107
+  date: '2017-09-06'
+  time: '20:30'
+  band_name: Этика Джаза с Виктором Радзиевским
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67108
+  date: '2017-09-07'
+  time: '20:30'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67109
+  date: '2017-09-07'
+  time: '20:30'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67111
+  date: '2017-09-09'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67112
+  date: '2017-09-09'
+  time: '20:30'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67113
+  date: '2017-09-10'
+  time: '20:30'
+  band_name: Julian Burdock. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 653
+    name: Julian Burdock
+    token: julian-burdock
+- id: 67114
+  date: '2017-09-13'
+  time: '20:30'
+  band_name: Андрей Макаревич и Ильдар Казаханов с программой "Андрей и Ильдар в Машине"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67116
+  date: '2017-09-15'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67119
+  date: '2017-09-17'
+  time: '20:00'
+  band_name: The Jazz Prisoners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67122
+  date: '2017-09-22'
+  time: '20:30'
+  band_name: Will Johns. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 657
+    name: Will Johns
+    token: will-johns
+- id: 67123
+  date: '2017-09-22'
+  time: '20:30'
+  band_name: Надя Алексеева - Brazilian Jazz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67125
+  date: '2017-09-23'
+  time: '20:30'
+  band_name: Темур Квителашвили
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67126
+  date: '2017-10-08'
+  time: '20:00'
+  band_name: Rosco Levee. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 690
+    name: Rosco Levee
+    token: rosco-levee
+- id: 67127
+  date: '2017-10-29'
+  time: '20:00'
+  band_name: Franck Ash. British Blues Invasion
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 607
+    name: Franck Ash
+    token: franck-ash
+- id: 67055
+  date: '2017-08-05'
+  time: '20:30'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67056
+  date: '2017-08-07'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67080
+  date: '2017-08-17'
+  time: '20:30'
+  band_name: Группа "Федулова"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67081
+  date: '2017-08-18'
+  time: '20:30'
+  band_name: V.S. Хутас
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67082
+  date: '2017-08-18'
+  time: '20:30'
+  band_name: Aleksey Fetisov Rock'n'Roll Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67083
+  date: '2017-08-19'
+  time: '20:30'
+  band_name: Петрович и Hot Rod Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 67084
+  date: '2017-08-19'
+  time: '20:30'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67085
+  date: '2017-08-20'
+  time: '20:00'
+  band_name: Анна Март
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 67893
+  date: '2017-11-25'
+  time: '20:00'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68044
+  date: '2017-10-01'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68045
+  date: '2017-10-08'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68046
+  date: '2017-10-29'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68047
+  date: '2017-10-22'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68048
+  date: '2017-10-15'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68049
+  date: '2017-10-01'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68050
+  date: '2017-10-08'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68059
+  date: '2017-10-30'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68060
+  date: '2017-10-23'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68051
+  date: '2017-10-29'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68052
+  date: '2017-10-22'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68053
+  date: '2017-10-15'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68054
+  date: '2017-10-02'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68055
+  date: '2017-10-09'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68056
+  date: '2017-10-30'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68057
+  date: '2017-10-23'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68058
+  date: '2017-10-16'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68061
+  date: '2017-10-16'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68073
+  date: '2017-10-04'
+  time: '20:00'
+  band_name: Этика Джаза с Виктором Радзиевским и Ириной Родилес
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68078
+  date: '2017-10-06'
+  time: '23:30'
+  band_name: 'JAM Club Night: Mishouris Trio'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68079
+  date: '2017-10-07'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68080
+  date: '2017-10-14'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68086
+  date: '2017-10-14'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68087
+  date: '2017-10-07'
+  time: '20:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68088
+  date: '2017-10-07'
+  time: '20:00'
+  band_name: Джаз-квинтет "Эдельвейс"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 350
+    name: Эдельвейс
+    token: edelveys
+- id: 68089
+  date: '2017-10-08'
+  time: '20:00'
+  band_name: Layna Shery
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68103
+  date: '2017-10-18'
+  time: '20:00'
+  band_name: Этика Джаза с Виктором Радзиевским
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68118
+  date: '2017-10-27'
+  time: '20:00'
+  band_name: Квартет Роберта Анчиполовского (Израиль-Россия-США) с программой "Tribute
+    to Phil Woods"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68128
+  date: '2017-11-07'
+  time: '20:00'
+  band_name: Анна Левшина & Jazz Heads
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 489
+    name: Квартет Анны Левшиной
+    token: anna-levshina
+- id: 68129
+  date: '2017-11-08'
+  time: '20:00'
+  band_name: Feelin's и Boris Savoldelli (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68132
+  date: '2017-11-10'
+  time: '20:00'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68062
+  date: '2017-10-09'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68063
+  date: '2017-10-02'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68064
+  date: '2017-10-01'
+  time: '20:00'
+  band_name: Dmitry Mospan Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68065
+  date: '2017-10-01'
+  time: '20:00'
+  band_name: Арутюнов & Quorum
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68066
+  date: '2017-10-03'
+  time: '20:00'
+  band_name: 'Михаил Меркулов и квартет Владимира Нестеренко: "You make me feel so
+    young"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 465
+    name: Квартет Владимира Нестеренко
+    token: kvartet-nesterenko
+- id: 68067
+  date: '2017-10-03'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68068
+  date: '2017-10-10'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68069
+  date: '2017-10-31'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68070
+  date: '2017-10-24'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68071
+  date: '2017-10-17'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68072
+  date: '2017-10-04'
+  time: '20:00'
+  band_name: Квартет Ильдара Казаханова - Алексея Кузнецова (Санкт-Петербург - Москва)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68074
+  date: '2017-10-05'
+  time: '20:00'
+  band_name: Антон Баронин - Orchestra 2.0
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68075
+  date: '2017-10-05'
+  time: '20:00'
+  band_name: Алекс Соловьев & Iron Curtain
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68076
+  date: '2017-10-06'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68077
+  date: '2017-10-06'
+  time: '20:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68081
+  date: '2017-10-21'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68082
+  date: '2017-10-28'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68083
+  date: '2017-10-28'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68084
+  date: '2017-10-07'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68085
+  date: '2017-10-21'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68094
+  date: '2017-10-12'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68100
+  date: '2017-10-15'
+  time: '20:00'
+  band_name: 'Юрий Каверкин и Александр Новоселов: "Дуэт на троих"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 68101
+  date: '2017-10-15'
+  time: '20:00'
+  band_name: Квинтет Анастасии Лютовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68102
+  date: '2017-10-17'
+  time: '20:00'
+  band_name: Санчилло/Братецкий. Секретная лаборатория с программой "Акустика"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 420
+    name: Санчилло / Братецкий. Секретная Лаборатория
+    token: secret-lab
+- id: 68105
+  date: '2017-10-19'
+  time: '20:00'
+  band_name: Дмитрий Илугдин Трио
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68108
+  date: '2017-10-20'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68115
+  date: '2017-10-26'
+  time: '20:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68090
+  date: '2017-10-10'
+  time: '20:00'
+  band_name: 'Lazarev Project: Nick Lazarev (бас-гитара, США), Олег Бутман (барабаны),
+    Евгений Побожий (гитара), Наталья Смирнова-Бутман (вокал, рояль, клавишы)'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 68091
+  date: '2017-10-11'
+  time: '20:00'
+  band_name: Сергей Манукян и Евгений Борец с программой "Телефонная книга"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 68092
+  date: '2017-10-11'
+  time: '20:00'
+  band_name: Dixie Providance Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68093
+  date: '2017-10-12'
+  time: '20:00'
+  band_name: Татьяна Ларина и Владимир Агафонников в совместной авторской программе
+    "Грани"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68095
+  date: '2017-10-13'
+  time: '20:00'
+  band_name: LRK Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68096
+  date: '2017-10-13'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68097
+  date: '2017-10-13'
+  time: '23:30'
+  band_name: 'JAM Club Night: Ольга Лисикова и Андрей Бессонов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68098
+  date: '2017-10-14'
+  time: '20:00'
+  band_name: Олег Киреев
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 68099
+  date: '2017-10-14'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68104
+  date: '2017-10-18'
+  time: '20:00'
+  band_name: '"Connection" Азата Баязитова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68106
+  date: '2017-10-19'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68107
+  date: '2017-10-20'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 68109
+  date: '2017-10-20'
+  time: '23:30'
+  band_name: 'JAM Club Night: Alax Davletshin. Презентация альбома "Kiss and fly"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68110
+  date: '2017-10-21'
+  time: '20:00'
+  band_name: '"Пара туфель. Джаз. Чечетка": Kirsanov & Jazz sisters'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 125
+    name: Jazz Sisters
+    token: jazz-sisters
+- id: 68111
+  date: '2017-10-21'
+  time: '20:00'
+  band_name: Luigi Blasioli Trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68112
+  date: '2017-10-22'
+  time: '20:00'
+  band_name: Elliott Munnerlyn & Трио Олега Бутмана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 68113
+  date: '2017-10-22'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68114
+  date: '2017-10-25'
+  time: '20:00'
+  band_name: Анна Март
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68116
+  date: '2017-10-26'
+  time: '20:00'
+  band_name: Квартет Аделины Моисеевой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68117
+  date: '2017-10-27'
+  time: '20:00'
+  band_name: The Tightrope
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 402
+    name: Tightrope
+    token: tightrope
+- id: 68119
+  date: '2017-10-27'
+  time: '23:30'
+  band_name: 'JAMClub Night: Aleksey Fetisov'' Rock-n-Roll Trio'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68120
+  date: '2017-10-28'
+  time: '20:00'
+  band_name: 'Ян Максин: Бах, Блюз, Босса...'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68121
+  date: '2017-10-29'
+  time: '20:00'
+  band_name: Anatoly Osipov Quartet
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68122
+  date: '2017-11-01'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Ирина Родилес, Тимур Некрасов, Сергей
+    Хутас, Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 68123
+  date: '2017-11-03'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68124
+  date: '2017-11-03'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68125
+  date: '2017-11-04'
+  time: '20:00'
+  band_name: Джаз Бас Театр Алекса Ростоцкого
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+- id: 68126
+  date: '2017-11-06'
+  time: '15:00'
+  band_name: Accordi Disaccordi (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68127
+  date: '2017-11-05'
+  time: '20:00'
+  band_name: Accordi Disaccordi (Италия)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68130
+  date: '2017-11-09'
+  time: '20:00'
+  band_name: 'Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 68131
+  date: '2017-11-09'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68934
+  date: '2017-11-01'
+  time: '20:00'
+  band_name: Алла Рид в программе "от Джаза до Рока". Специальный гость Петр Елфимов
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68935
+  date: '2017-11-02'
+  time: '20:00'
+  band_name: Kiko Berenguer
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68936
+  date: '2017-11-03'
+  time: '23:30'
+  band_name: 'JamClub Night: Иващенко/Добкин/Дашкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68937
+  date: '2017-11-10'
+  time: '23:30'
+  band_name: 'JamClub Night: Надя Алексеева'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68938
+  date: '2017-11-17'
+  time: '23:30'
+  band_name: 'JamClub Night: Rock''n''Lora'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68939
+  date: '2017-11-24'
+  time: '23:30'
+  band_name: 'JamClub Night: Mishouris Trio'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68940
+  date: '2017-12-01'
+  time: '20:00'
+  band_name: Andrea Manzoni & Andrea Beccaro Duo
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68941
+  date: '2017-11-30'
+  time: '20:00'
+  band_name: Ансамбль Средиземноморской Деконструкции и Алина Ростоцкая
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 68942
+  date: '2017-11-30'
+  time: '20:00'
+  band_name: XXX JAM в JAM Club, Folkline, , Юрий Каверкин и Nothing Personal
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: бесплатный
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 580
+    name: Folkline
+    token: folkline
+- id: 68943
+  date: '2017-11-29'
+  time: '20:00'
+  band_name: Django Friends (Москва) & Chino Swingslide (Испания)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68944
+  date: '2017-11-29'
+  time: '20:00'
+  band_name: Kвартет Олега Бутмана
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68945
+  date: '2017-11-28'
+  time: '20:00'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68946
+  date: '2017-11-28'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68947
+  date: '2017-11-21'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68962
+  date: '2017-11-26'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68967
+  date: '2017-11-06'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68968
+  date: '2017-11-13'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68973
+  date: '2017-11-13'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68975
+  date: '2017-11-08'
+  time: '20:00'
+  band_name: 'Наталья Смирнова-Бутман: "Соло из Джаза, Классики и Поп-Музыки"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 68976
+  date: '2017-11-10'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68977
+  date: '2017-11-11'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68978
+  date: '2017-11-11'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68979
+  date: '2017-11-12'
+  time: '20:00'
+  band_name: Лаванда Джаз
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68980
+  date: '2017-11-12'
+  time: '20:00'
+  band_name: 'К. Арбельяни: "Bridges of Love"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68981
+  date: '2017-11-14'
+  time: '20:00'
+  band_name: 'Квартет Антона Румянцева: "Классика рока в джазе"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68982
+  date: '2017-11-15'
+  time: '20:00'
+  band_name: Алексей White Белов, Удачное приобретение и Андрей Макаревич
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 68983
+  date: '2017-11-15'
+  time: '20:00'
+  band_name: Daniil Kramer & Brill brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68984
+  date: '2017-11-16'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68985
+  date: '2017-11-16'
+  time: '20:00'
+  band_name: 'Иван Фармаковский и Epic Power: "Джазовые образы и безобразия"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 68986
+  date: '2017-11-17'
+  time: '20:00'
+  band_name: '"A New Generation" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 68987
+  date: '2017-11-17'
+  time: '20:00'
+  band_name: The Gracious
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68988
+  date: '2017-11-18'
+  time: '20:00'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68989
+  date: '2017-11-18'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68948
+  date: '2017-11-14'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68949
+  date: '2017-11-07'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68950
+  date: '2017-11-04'
+  time: '20:00'
+  band_name: Алик Сикорский и Михаил Меркулов в праздничной программе "The Good Life"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68953
+  date: '2017-11-25'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68954
+  date: '2017-11-18'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68955
+  date: '2017-11-04'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68956
+  date: '2017-11-11'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68957
+  date: '2017-11-25'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68958
+  date: '2017-11-18'
+  time: '15:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68959
+  date: '2017-11-05'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68960
+  date: '2017-11-12'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68961
+  date: '2017-11-19'
+  time: '14:00'
+  band_name: Brunch Manouche
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68963
+  date: '2017-11-26'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68964
+  date: '2017-11-19'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68965
+  date: '2017-11-12'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68966
+  date: '2017-11-05'
+  time: '15:00'
+  band_name: Sunday Ragtime brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68969
+  date: '2017-11-20'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68970
+  date: '2017-11-27'
+  time: '20:00'
+  band_name: Salsa Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68971
+  date: '2017-11-27'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68972
+  date: '2017-11-20'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68974
+  date: '2017-11-06'
+  time: '20:00'
+  band_name: Jam Club Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68990
+  date: '2017-11-19'
+  time: '20:00'
+  band_name: Константин Гевондян & Полина Касьянова с программой "Ties & Heels"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 68991
+  date: '2017-11-21'
+  time: '20:00'
+  band_name: Квартет Анатолия Осипова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68992
+  date: '2017-11-22'
+  time: '20:00'
+  band_name: Татьяна Колосова и Оркестр "Бельвиль" с программой "Песни старого Парижа"
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68993
+  date: '2017-11-22'
+  time: '20:00'
+  band_name: Rock. Our vision
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68994
+  date: '2017-11-23'
+  time: '20:00'
+  band_name: ХоронькОкунь
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68995
+  date: '2017-11-23'
+  time: '20:00'
+  band_name: Via del Corso
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68996
+  date: '2017-11-24'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68997
+  date: '2017-11-24'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 68998
+  date: '2017-11-25'
+  time: '20:00'
+  band_name: Алексей Попов (Санкт-Петербург) и трио Сергея Васильева
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68999
+  date: '2017-11-26'
+  time: '20:00'
+  band_name: Трио Юлии Перминовой
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69000
+  date: '2017-11-26'
+  time: '20:00'
+  band_name: FunQ
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68951
+  date: '2017-11-04'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 68952
+  date: '2017-11-11'
+  time: '14:00'
+  band_name: Saturday Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69153
+  date: '2017-11-19'
+  time: '20:00'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  price: 1000-1500
+- id: 69628
+  date: '2017-12-02'
+  time: '14:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69632
+  date: '2017-12-03'
+  time: '14:00'
+  band_name: Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69633
+  date: '2017-12-10'
+  time: '14:00'
+  band_name: Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69634
+  date: '2017-12-17'
+  time: '14:00'
+  band_name: Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69635
+  date: '2017-12-24'
+  time: '14:00'
+  band_name: Ragtime Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69636
+  date: '2017-12-24'
+  time: '14:00'
+  band_name: Manouche Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69637
+  date: '2017-12-17'
+  time: '17:00'
+  band_name: Manouche Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69653
+  date: '2017-12-06'
+  time: '20:00'
+  band_name: Анна Март
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69654
+  date: '2017-12-07'
+  time: '20:00'
+  band_name: 'Reflections Duo: Ольга Олейникова и Николай Добкин'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 595
+    name: Ольга Олейникова
+    token: olga-oleynikova
+  - id: 727
+    name: Reflections Duo
+    token: reflections-duo
+- id: 69655
+  date: '2017-12-08'
+  time: '20:00'
+  band_name: Dixie Providance Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69656
+  date: '2017-12-08'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69657
+  date: '2017-12-08'
+  time: '23:30'
+  band_name: 'JamClub Night: Блюз Бенд Сергея Пахомова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69658
+  date: '2017-12-15'
+  time: '23:30'
+  band_name: 'JamClub Night: Юрий Каверкин и Nothing Personal'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 69659
+  date: '2017-12-22'
+  time: '23:30'
+  band_name: 'JamClub Night: Beat Bombers'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69661
+  date: '2017-12-09'
+  time: '20:00'
+  band_name: 'Alex Davletshin: "Kiss and fly"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 69670
+  date: '2017-12-16'
+  time: '20:00'
+  band_name: Олег Киреев (саксофон)
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 69671
+  date: '2017-12-16'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69672
+  date: '2017-12-17'
+  time: '20:00'
+  band_name: Dariya & Jazz Masters
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69673
+  date: '2017-12-20'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69680
+  date: '2017-12-24'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69682
+  date: '2017-12-27'
+  time: '20:00'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 69683
+  date: '2017-12-29'
+  time: '20:00'
+  band_name: 'М. Меркулов и И. Родилес: "It''s the most wonderful time of the year"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69684
+  date: '2017-12-29'
+  time: '23:30'
+  band_name: 'JamClub Night: Aleksey Fetisov'' Rock-n-Roll Trio'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69695
+  date: '2017-12-28'
+  time: '20:00'
+  band_name: Джаз перед Новым Годом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69696
+  date: '2017-12-29'
+  time: '20:00'
+  band_name: Джаз перед Новым Годом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69621
+  date: '2017-12-01'
+  time: '20:00'
+  band_name: Marshmallows
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69622
+  date: '2017-12-01'
+  time: '23:30'
+  band_name: 'JamClub Night: My Baby''s Blues Band'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69623
+  date: '2017-12-02'
+  time: '12:30'
+  band_id: 198
+  band_name: Диана Поленова
+  band_token: diana-polenova
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69624
+  date: '2017-12-02'
+  time: '14:00'
+  band_name: Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69625
+  date: '2017-12-09'
+  time: '14:00'
+  band_name: Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69626
+  date: '2017-12-16'
+  time: '14:00'
+  band_name: Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69627
+  date: '2017-12-23'
+  time: '14:00'
+  band_name: Blues Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69629
+  date: '2017-12-09'
+  time: '14:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69630
+  date: '2017-12-16'
+  time: '14:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69631
+  date: '2017-12-23'
+  time: '14:00'
+  band_name: Jazz Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69638
+  date: '2017-12-10'
+  time: '14:00'
+  band_name: Manouche Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69639
+  date: '2017-12-03'
+  time: '14:00'
+  band_name: Manouche Brunch
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69640
+  date: '2017-12-02'
+  time: '20:00'
+  band_name: Полина Касьянова и Трио Дмитрия Купцова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 69641
+  date: '2017-12-02'
+  time: '20:00'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69642
+  date: '2017-12-04'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69643
+  date: '2017-12-11'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69644
+  date: '2017-12-18'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69645
+  date: '2017-12-25'
+  time: '20:00'
+  band_name: JAM Club JAM
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69646
+  date: '2017-12-05'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69647
+  date: '2017-12-12'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69648
+  date: '2017-12-19'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69649
+  date: '2017-12-26'
+  time: '20:00'
+  band_name: Tues Blues Jam
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69650
+  date: '2017-12-05'
+  time: '20:00'
+  band_name: 'М.Меркулов и А. Лютова: "It''s the most wonderful time of the year"'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69651
+  date: '2017-12-07'
+  time: '20:00'
+  band_name: Alina Filippova & The Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69652
+  date: '2017-12-06'
+  time: '20:00'
+  band_name: Petrovich-Jazz - Владимир Петрович Пресняков
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69660
+  date: '2017-12-09'
+  time: '20:00'
+  band_id: 478
+  band_name: Трио Олега Бутмана
+  band_token: o-butman-trio
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69662
+  date: '2017-12-10'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69663
+  date: '2017-12-10'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69664
+  date: '2017-12-12'
+  time: '20:00'
+  band_name: Квартет Антона Пуриц
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69665
+  date: '2017-12-13'
+  time: '20:00'
+  band_name: Django Friends
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69666
+  date: '2017-12-13'
+  time: '20:00'
+  band_name: Meydeleh
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69667
+  date: '2017-12-14'
+  time: '20:00'
+  band_name: Marina Volkova Jazz band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69668
+  date: '2017-12-15'
+  time: '20:00'
+  band_name: Moscow Trad Jazz Band
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69669
+  date: '2017-12-15'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69674
+  date: '2017-12-20'
+  time: '20:00'
+  band_name: Андрей Макаревич, Евгений Борец, Ирина Родилес, Полина Касьянова, Диана
+    Поленова, Тимур Некрасов, Сергей Хутас, Давид Ткебучава
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 198
+    name: Диана Поленова
+    token: diana-polenova
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+- id: 69675
+  date: '2017-12-21'
+  time: '20:00'
+  band_name: 'Jazz for Christmas: Андрей Солод, Таис Урумидис, Ирина Олифер, Денис
+    Хагба, Александр Рамус, Елена Качуровская, Павел Протасов'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69676
+  date: '2017-12-22'
+  time: '20:00'
+  band_name: '"A New Generetion" с Трио Михаила Кистанова'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 69677
+  date: '2017-12-23'
+  time: '20:00'
+  band_name: Lopez Brothers
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69678
+  date: '2017-12-23'
+  time: '20:00'
+  band_name: 'Saxophone Party: Александр Гуреев, Марина Дубина, Тимофей Хазанов, Евгений
+    Борец, Сергей Хутас и Давид Ткебучава'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+  extra_bands:
+  - id: 481
+    name: Александр Гуреев
+    token: a-gureev
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 69679
+  date: '2017-12-24'
+  time: '20:00'
+  band_name: Секстет Виктории Кауновой и Ильи Морозова
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69681
+  date: '2017-12-26'
+  time: '20:00'
+  band_name: '"Идиш-Джаз" с участием Андрея Макаревича'
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam
+- id: 69694
+  date: '2017-12-27'
+  time: '20:00'
+  band_name: Джаз перед Новым Годом
+  club_id: 832
+  club_name: JAM Club
+  club_token: jam

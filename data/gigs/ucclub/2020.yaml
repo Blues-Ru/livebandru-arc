@@ -1,0 +1,533 @@
+- id: 83108
+  date: '2020-03-29'
+  time: '20:30'
+  band_name: Анастасия Лютова и "Лютый Бэнд" с новой программой "The Antonio Carlos
+    Jobim Songbook"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83109
+  date: '2020-03-31'
+  time: '20:30'
+  band_name: Dixie Providance Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83039
+  date: '2020-01-10'
+  time: '20:30'
+  band_name: Сергей Галанин и СерьГа
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 2300 руб.
+- id: 83040
+  date: '2020-01-11'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83041
+  date: '2020-01-12'
+  time: '20:30'
+  band_name: Дмитрий Носков и Круглый Бенд Алексея Круглова с программой "Я буду петь
+    тебе, как Фрэнк" (посвящение Фрэнку Синатра)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 83042
+  date: '2020-01-14'
+  time: '20:30'
+  band_name: Алина Филиппова
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83043
+  date: '2020-01-15'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83045
+  date: '2020-01-21'
+  time: '20:30'
+  band_name: Swing Modern Project
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83047
+  date: '2020-01-22'
+  time: '20:30'
+  band_name: Backstage Girls Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+- id: 83049
+  date: '2020-01-23'
+  time: '20:30'
+  band_name: Whitney Shay & Laura Chaves (США) & The Jumping Cats (Россия)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 83051
+  date: '2020-01-24'
+  time: '20:30'
+  band_name: Пётр Подгородецкий и Бамбей
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83053
+  date: '2020-01-25'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83055
+  date: '2020-01-26'
+  time: '20:30'
+  band_name: Анастасия Лютова и "Лютый Бэнд" с новой программой "The Antonio Carlos
+    Jobim Songbook"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83057
+  date: '2020-01-29'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83060
+  date: '2020-01-30'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83062
+  date: '2020-01-31'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83064
+  date: '2020-02-02'
+  time: '20:30'
+  band_name: Charles Turner (США) И Cedric Hanriot Trio (Франция)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83066
+  date: '2020-02-04'
+  time: '20:30'
+  band_name: Арк Овруцкий
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83067
+  date: '2020-02-05'
+  time: '20:30'
+  band_name: Elliott Munnerlyn (США) и Трио Олега Бутмана
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 83068
+  date: '2020-02-06'
+  time: '20:30'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83069
+  date: '2020-02-08'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича и квартета
+    Евгения Борца
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 2300 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 83070
+  date: '2020-02-09'
+  time: '20:30'
+  band_name: Дмитрий Носков и Круглый Бенд Алексея Круглова с программой "Я буду петь
+    тебе, как Фрэнк" (посвящение Фрэнку Синатра)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+  extra_bands:
+  - id: 513
+    name: Круглый Бенд
+    token: krugliy-band
+- id: 83071
+  date: '2020-02-11'
+  time: '20:30'
+  band_name: Ladies band SHIK
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83072
+  date: '2020-02-12'
+  time: '20:30'
+  band_name: Наталья и Олег Бутман с программой "Джазовые портреты Стиви Уандера"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83073
+  date: '2020-02-15'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83074
+  date: '2020-02-19'
+  time: '20:30'
+  band_name: David Whitley (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 1000 руб.
+- id: 83075
+  date: '2020-02-20'
+  time: '20:30'
+  band_name: Анастасия Лютова и "Лютый Бэнд" с новой программой "The Antonio Carlos
+    Jobim Songbook"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83076
+  date: '2020-02-21'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83077
+  date: '2020-02-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83078
+  date: '2020-02-23'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83079
+  date: '2020-02-25'
+  time: '20:30'
+  band_name: Dani Yard Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83080
+  date: '2020-02-26'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83081
+  date: '2020-02-27'
+  time: '20:30'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83082
+  date: '2020-02-28'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83083
+  date: '2020-02-29'
+  time: '20:30'
+  band_id: 319
+  band_name: Виктор Зинчук
+  band_token: victor-zinchuk
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83084
+  date: '2020-03-01'
+  time: '20:30'
+  band_name: Imperialis Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83085
+  date: '2020-03-03'
+  time: '20:30'
+  band_name: Lezlie Harrison (США) и Сергей Васильев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83086
+  date: '2020-03-04'
+  time: '20:30'
+  band_name: Мaya Azucena (США) и Олег Бутман
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83087
+  date: '2020-03-05'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83088
+  date: '2020-03-06'
+  time: '20:30'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 2300 руб.
+- id: 83089
+  date: '2020-03-07'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83090
+  date: '2020-03-08'
+  time: '20:30'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83095
+  date: '2020-03-10'
+  time: '20:30'
+  band_name: Арк Овруцкий
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83096
+  date: '2020-03-11'
+  time: '20:30'
+  band_name: Ladies band SHIK
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83097
+  date: '2020-03-14'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83098
+  date: '2020-03-17'
+  time: '20:30'
+  band_name: Favorite Things
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83099
+  date: '2020-03-18'
+  time: '20:30'
+  band_id: 128
+  band_name: Cigar Hall
+  band_token: cigar-hall
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83100
+  date: '2020-03-19'
+  time: '20:30'
+  band_name: Elliott Munnerlyn (США) и Трио Олега Бутмана
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 1000 руб.
+  extra_bands:
+  - id: 478
+    name: Трио Олега Бутмана
+    token: o-butman-trio
+- id: 83101
+  date: '2020-03-20'
+  time: '20:30'
+  band_name: Сергей Галанин и СерьГа
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 2300 руб.
+- id: 83102
+  date: '2020-03-22'
+  time: '20:30'
+  band_name: Нани Ева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83103
+  date: '2020-03-24'
+  time: '20:30'
+  band_name: Chicago Groove
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.
+- id: 83104
+  date: '2020-03-25'
+  time: '20:30'
+  band_name: Фредерик Белинский
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 600 руб.
+- id: 83105
+  date: '2020-03-26'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83106
+  date: '2020-03-27'
+  time: '20:30'
+  band_name: The Beatles глазами звезд московского блюза. Проект Левана Ломидзе и
+    Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 83107
+  date: '2020-03-28'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 900 руб.
+- id: 83110
+  date: '2020-04-02'
+  time: '20:30'
+  band_name: My Baby's Blues Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: от 500 руб.

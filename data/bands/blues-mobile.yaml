@@ -1,0 +1,50 @@
+id: 515
+token: blues-mobile
+name: Blues Mobile Band
+alive: true
+url: http://www.bluesmobileband.co.cc
+city_id: 13
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Vova Mogeladze
+  instruments: guitar
+- name: Tim Bogert
+  instruments: bass
+- name: Carmine Appice
+  instruments: drums
+clips:
+- id: 2359
+  type: weblink
+  url: http://www.bluesmobileband.co.cc
+  name: Официальный сайт
+  sort_order: 0
+- id: 2367
+  type: photo
+  url: blues-mobile.jpg
+  name: Blues Mobile Band
+  sort_order: 0
+  width: 600
+  height: 600
+- id: 2365
+  type: youtube
+  url: http://www.youtube.com/?v=UH3UwVU0rR0
+  name: Blues Mobile Band "PROMO"
+  comments: 2011 PROMO BMB
+  sort_order: 0
+reviews:
+- id: 176
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: '"Music Without Borders"'
+  text: 'TIM BOGERT, CARMINE APPICE & VOVA MOGELADZE present BLUES MOBILE BAND with
+    new music project "MUSIC WITHOUT BORDERS", reinventing themselves in the blues-rock
+    genre, and basing their work on the principles of musical expression without any
+    political, military, racial, or religious limitations. While their sound is truly
+    original and reflects each member''s unique wealth of technical talents, it does
+    reflect deep respect towards musicians: Stevie Ray Vaughan, Jimi Hendrix, B. B.
+    King, Eric Clapton, Rory Gallagher, Alvin Lee, John Mayall and Johnny Winter.'
+  verified: true
+  created: '2011-08-02'
+  is_press_release: true

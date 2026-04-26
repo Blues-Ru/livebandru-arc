@@ -1,0 +1,17 @@
+- id: 47435
+  date: '2014-10-31'
+  time: '19:00'
+  band_name: 'Игорь Бриль. Юбилейный концерт "Джаз вчера, сегодня...": Игорь Бриль
+    (фортепиано), Яков Окунь (фортепиано, ударные), Евгений Онищенко (контрабас),
+    Алексей Кузнецов (гитара). Ведущий концерта - Владимир Фейертаг'
+  club_id: 628
+  club_name: Московская государственная консерватория имени П.И.Чайковского
+  club_token: moskovskaya-gosudarstvennaya-konservatoriya-imeni-p-i-chajkovskogo
+  price: 200 - 20000 руб.
+  extra_bands:
+  - id: 82
+    name: Алексей Кузнецов
+    token: alexey-kuznetsov
+  - id: 146
+    name: Bril Brothers
+    token: bril

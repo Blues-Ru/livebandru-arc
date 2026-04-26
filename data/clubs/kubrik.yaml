@@ -1,0 +1,15 @@
+id: 772
+token: kubrik
+name: Кубрик
+alive: true
+address: ул. Никольская, д. 25
+subway: Лубянка
+phone: +7(495)796-44-24
+city_id: 1
+comments: ТЦ "Наутилус", 5 этаж
+clips:
+- id: 5771
+  type: weblink
+  url: http://www.kubrikclub.ru/
+  name: Официальный сайт
+  sort_order: 0

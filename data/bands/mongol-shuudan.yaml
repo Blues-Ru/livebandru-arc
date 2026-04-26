@@ -1,0 +1,33 @@
+id: 358
+token: mongol-shuudan
+name: Монгол Шуудан
+alive: true
+url: http://www.mongolshuudan.ru
+city_id: 1
+genre_id: 15
+secondary_genre_id: 3
+musicians:
+- name: Валерий Скородед
+  instruments: вокал, гитара
+- name: Вадим Котельников
+  instruments: гитара
+- name: Вячеслав Ядриков
+  instruments: бас
+- name: Алексей Быков
+  instruments: ударные
+clips:
+- id: 1441
+  type: weblink
+  url: http://www.mongolshuudan.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1442
+  type: photo
+  url: mongol-shuudan.jpg
+  sort_order: 0
+  width: 750
+  height: 500
+- id: 1443
+  type: rss
+  url: http://community.livejournal.com/mongolshuudan/data/rss
+  sort_order: 99

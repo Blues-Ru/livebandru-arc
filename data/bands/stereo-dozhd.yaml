@@ -1,0 +1,24 @@
+id: 230
+token: stereo-dozhd
+name: Stereoдождь
+aliases: Blues A.D.
+alive: true
+url: http://vkontakte.ru/club7855206
+city_id: 40
+genre_id: 3
+secondary_genre_id: 16
+musicians:
+- name: Евгений Бойко
+  instruments: вокал, гитара, клавишные, губная гармоника, перкуссия
+- name: Евгений Мальцев
+  instruments: бас, бэк-вокал
+- name: Виктор Мальцев
+  instruments: ударные
+- name: Денис Чуфаров
+  instruments: гитара
+clips:
+- id: 719
+  type: weblink
+  url: http://vk.com/club7855206
+  name: Страница ВКонтакте
+  sort_order: 99

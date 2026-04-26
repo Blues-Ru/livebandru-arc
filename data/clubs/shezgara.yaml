@@ -1,0 +1,19 @@
+id: 528
+token: shezgara
+name: Shezgara
+aliases: Шезгара
+alive: true
+address: 50 лет Октября, 10
+phone: (3452) 55-22-22
+city_id: 95
+clips:
+- id: 2817
+  type: weblink
+  url: http://www.shezgara-club.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2818
+  type: weblink
+  url: http://vk.com/shezgaraclub
+  name: Страница ВКонтакте
+  sort_order: 100

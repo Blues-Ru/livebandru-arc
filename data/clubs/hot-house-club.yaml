@@ -1,0 +1,27 @@
+id: 780
+token: hot-house-club
+name: Hot House Club
+aliases: 'Hot House Music Club
+
+  Хот Хаус Клаб
+
+  Хот Хаус
+
+  Hot House'
+alive: true
+address: Садовая - Черногрязская, 10
+subway: Красные Ворота
+phone: (495) 607-61-16
+city_id: 1
+clips:
+- id: 6072
+  type: weblink
+  url: https://www.facebook.com/hothousemusicclub
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 6383
+  type: photo
+  url: hot-house-club.jpg
+  sort_order: 99
+  width: 720
+  height: 476

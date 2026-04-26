@@ -1,0 +1,13 @@
+id: 631
+token: segodnya-nochyu
+name: Сегодня Ночью
+alive: true
+url: http://segodnyanochyu.ru
+city_id: 2
+genre_id: 3
+clips:
+- id: 4635
+  type: weblink
+  url: http://segodnyanochyu.ru
+  name: Официальный сайт
+  sort_order: 0

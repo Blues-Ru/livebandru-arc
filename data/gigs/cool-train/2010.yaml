@@ -1,0 +1,265 @@
+- id: 13368
+  date: '2010-11-01'
+  time: '21:00'
+  band_name: Jazz Piano
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13369
+  date: '2010-11-02'
+  time: '21:00'
+  band_name: Haleo
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13381
+  date: '2010-11-03'
+  time: '21:00'
+  band_name: Эдельвейс
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13403
+  date: '2010-11-04'
+  time: '21:00'
+  band_name: Lex & Team, Вадим Капустин
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 13441
+  date: '2010-11-07'
+  time: '21:00'
+  band_id: 76
+  band_name: Анастасия Глазкова
+  band_token: nastya-glazkova
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13444
+  date: '2010-11-08'
+  time: '21:00'
+  band_id: 330
+  band_name: Jazz-Piano
+  band_token: jazz-piano
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13614
+  date: '2010-11-11'
+  time: '21:00'
+  band_name: Гарик Осипов
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13668
+  date: '2010-11-17'
+  time: '21:00'
+  band_name: Эдельвейс
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13677
+  date: '2010-11-19'
+  time: '21:00'
+  band_name: Татьяна Конькова, Сергей Манукян
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 13699
+  date: '2010-11-23'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13704
+  date: '2010-11-24'
+  time: '21:00'
+  band_name: Дуэт 2 Dreams
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13712
+  date: '2010-11-25'
+  time: '21:00'
+  band_name: Джаз из патефона
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13718
+  date: '2010-11-26'
+  time: '21:00'
+  band_name: Ivanov Vibe Band, Мариам и "Мирайф"
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13735
+  date: '2010-11-29'
+  time: '21:00'
+  band_name: Jazz Piano
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13415
+  date: '2010-11-05'
+  time: '21:00'
+  band_name: Ансамбль Алексея Кузнецова, Тамара Сидорова (скрипка), Юрий Матвеев (гитара)
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13431
+  date: '2010-11-06'
+  time: '21:00'
+  band_name: Квартет Олега Киреева, Chicago Groove
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 13656
+  date: '2010-11-16'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13632
+  date: '2010-11-13'
+  time: '23:00'
+  band_name: Мириам и "Мирайф"
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13597
+  date: '2010-11-09'
+  time: '21:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13625
+  date: '2010-11-12'
+  time: '21:00'
+  band_name: Ансамбль "Зеленая волна", Оркестр "Папоротник"
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 260
+    name: Оркестр "Папоротник"
+    token: paporotnik
+- id: 13648
+  date: '2010-11-14'
+  time: '21:00'
+  band_name: Fusion Quartet
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13654
+  date: '2010-11-15'
+  time: '21:00'
+  band_id: 330
+  band_name: Jazz-Piano
+  band_token: jazz-piano
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13682
+  date: '2010-11-20'
+  time: '21:00'
+  band_name: Latino Jazz Project, Вячеслав Горский
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 332
+    name: Вячеслав Горский
+    token: gorsky
+- id: 13692
+  date: '2010-11-21'
+  time: '21:00'
+  band_name: Таис Урумидис
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13697
+  date: '2010-11-22'
+  time: '21:00'
+  band_id: 330
+  band_name: Jazz-Piano
+  band_token: jazz-piano
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13725
+  date: '2010-11-27'
+  time: '21:00'
+  band_name: Полина Касьянова и Django Band, Moscow Ragtime Band
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband
+- id: 13728
+  date: '2010-11-28'
+  time: '21:00'
+  band_name: 'Два Рояля: Алексей "Lex" Блохин, Евгений "Alligator" Лепихин'
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13737
+  date: '2010-11-30'
+  time: '21:00'
+  band_name: Haleo
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 13874
+  date: '2010-12-22'
+  time: '21:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+  price: бесплатный
+- id: 11320
+  date: '2010-01-02'
+  time: '23:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train
+- id: 12320
+  date: '2010-07-30'
+  time: '23:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 72
+  club_name: Cool Train (см. Б2)
+  club_token: cool-train

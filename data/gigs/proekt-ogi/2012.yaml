@@ -1,0 +1,29 @@
+- id: 27098
+  date: '2012-04-03'
+  time: '22:00'
+  band_id: 167
+  band_name: Макс Таврический
+  band_token: max-tavrichesky
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  price: 250 руб.
+- id: 27652
+  date: '2012-05-06'
+  time: '21:00'
+  band_name: '"Feel Good Party"! (James Brown''s Birthday)! Участвуют: Алехин & Salt
+    Peanutz, Felix Lahuti & Funky Land, C.L.O.N.E., Димитрий Перец.'
+  club_id: 59
+  club_name: Проект О.Г.И.
+  club_token: proekt-ogi
+  price: 400 руб.
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+  - id: 77
+    name: Алехин & Salt Peanutz
+    token: salt-peanutz
+  - id: 262
+    name: C.L.O.N.E.
+    token: clone

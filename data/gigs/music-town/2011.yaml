@@ -1,0 +1,2095 @@
+- id: 13494
+  date: '2011-02-05'
+  time: '22:00'
+  band_name: Леонид Федоров и Владимир Волков
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 14440
+  date: '2011-01-03'
+  time: '22:00'
+  band_name: БоБРы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 14441
+  date: '2011-01-21'
+  time: '21:00'
+  band_name: Platinum Abba
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14513
+  date: '2011-01-24'
+  time: '21:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14507
+  date: '2011-01-02'
+  time: '21:00'
+  band_name: Индиго
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14508
+  date: '2011-01-04'
+  time: '21:00'
+  band_id: 158
+  band_name: HulaHoop
+  band_token: hula-hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 14509
+  date: '2011-01-12'
+  time: '22:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 14510
+  date: '2011-01-19'
+  time: '21:00'
+  band_name: 'Open-G Jam: Сергей Воронов, Дмитрий "Ветеран" Честных и Юрий Новгородский'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 14511
+  date: '2011-01-20'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 14512
+  date: '2011-01-22'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 14988
+  date: '2011-01-26'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15000
+  date: '2011-01-27'
+  time: '21:00'
+  band_name: Гоша Куценко
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15030
+  date: '2011-01-29'
+  time: '22:00'
+  band_name: SPb Ska-Jazz Review
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 15182
+  date: '2011-02-17'
+  time: '20:00'
+  band_id: 228
+  band_name: LoftyBand
+  band_token: loftyband
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: свободный
+- id: 15185
+  date: '2011-01-28'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15186
+  date: '2011-01-30'
+  time: '21:00'
+  band_name: Полюса, Кассандра, Демарш, Маша Кац, Sula
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+  extra_bands:
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 15187
+  date: '2011-01-31'
+  time: '21:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 15188
+  date: '2011-02-02'
+  time: '21:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15189
+  date: '2011-02-03'
+  time: '21:00'
+  band_name: Катя Гордон и Blondrock
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 15190
+  date: '2011-02-04'
+  time: '21:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 15191
+  date: '2011-02-04'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 15192
+  date: '2011-02-08'
+  time: '21:00'
+  band_name: 'Open-G Jam: Сергей Воронов, Дмитрий "Ветеран" Честных, Юрий Новгородский'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 15193
+  date: '2011-02-10'
+  time: '20:00'
+  band_name: Multi Climex (Финляндия), Beat Devils, Gagarin Brothers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+  extra_bands:
+  - id: 126
+    name: Gagarin Brothers
+    token: gagarin-brothers
+  - id: 360
+    name: Beat Devils
+    token: beat-devils
+- id: 15194
+  date: '2011-02-11'
+  time: '22:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 700 руб.
+- id: 15195
+  date: '2011-02-12'
+  time: '22:00'
+  band_name: Николай Михеев и NZ
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15196
+  date: '2011-02-13'
+  time: '21:00'
+  band_name: C-Jam Club Jazz Orchestra
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15197
+  date: '2011-02-14'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 15198
+  date: '2011-02-16'
+  time: '21:00'
+  band_name: Dipped in Purple
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15199
+  date: '2011-02-18'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 15200
+  date: '2011-02-22'
+  time: '21:00'
+  band_name: Анна Пингина
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15201
+  date: '2011-02-23'
+  time: '21:00'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15202
+  date: '2011-02-24'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 15203
+  date: '2011-02-25'
+  time: '22:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 15204
+  date: '2011-02-26'
+  time: '19:00'
+  band_name: Keri Kelli (Alice Cooper), Chris Holmes (W.A.S.P.), Chris Slade (AC/DC),
+    Easy Dizzy, M.R.C.
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+  extra_bands:
+  - id: 254
+    name: Easy Dizzy
+    token: easy-dizzy
+- id: 15229
+  date: '2011-02-15'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 15017
+  date: '2011-01-28'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15184
+  date: '2011-02-28'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 15349
+  date: '2011-02-07'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15364
+  date: '2011-02-09'
+  time: '21:00'
+  band_name: Андрей Храмов, Acoustic Band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15399
+  date: '2011-02-11'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15391
+  date: '2011-02-10'
+  time: '20:00'
+  band_name: 'Фестиваль WinterBilly: Multi Climex (Финляндия), Beat Devils, Gagarin
+    Brothers'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 126
+    name: Gagarin Brothers
+    token: gagarin-brothers
+  - id: 360
+    name: Beat Devils
+    token: beat-devils
+- id: 15354
+  date: '2011-02-08'
+  time: '21:00'
+  band_name: Сергей Воронов, Дмитрий Честных, Юрий Новгородский
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 15456
+  date: '2011-02-14'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15650
+  date: '2011-02-21'
+  time: '21:00'
+  band_name: Владимир Голоухов и Первое Солнце
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15694
+  date: '2011-02-25'
+  band_name: Час Пик
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 15746
+  date: '2011-03-01'
+  time: '21:00'
+  band_name: Сергей Воронов, Гия Дзагнидзе - джем
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 15760
+  date: '2011-03-02'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 16013
+  date: '2011-03-03'
+  time: '21:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16018
+  date: '2011-03-09'
+  time: '21:00'
+  band_id: 397
+  band_name: Dipped in Purple
+  band_token: dipped-in-purple
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16019
+  date: '2011-03-10'
+  time: '21:00'
+  band_name: Несчастный Случай
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 16020
+  date: '2011-03-11'
+  time: '22:00'
+  band_name: Воскресенье
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 1000 руб.
+- id: 16021
+  date: '2011-03-12'
+  time: '21:00'
+  band_name: Пилар, Олег Скрипка
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16022
+  date: '2011-03-16'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16023
+  date: '2011-03-17'
+  time: '22:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 16024
+  date: '2011-03-18'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 16025
+  date: '2011-03-19'
+  time: '22:00'
+  band_id: 359
+  band_name: Телевизор
+  band_token: televisor
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 16026
+  date: '2011-03-20'
+  time: '21:00'
+  band_name: Шашки
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16027
+  date: '2011-03-22'
+  time: '21:00'
+  band_id: 398
+  band_name: Юлия Смолянин
+  band_token: smolyanin
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16028
+  date: '2011-03-23'
+  time: '21:00'
+  band_name: Оскар Кучера и Band'R
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16029
+  date: '2011-03-24'
+  time: '20:00'
+  band_name: Eurosmith (Италия)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 16030
+  date: '2011-03-25'
+  time: '22:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 16031
+  date: '2011-03-25'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 16032
+  date: '2011-03-26'
+  time: '22:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 16033
+  date: '2011-03-30'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16014
+  date: '2011-03-05'
+  time: '22:00'
+  band_name: Balls of Fire, Маша Кац
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 16015
+  date: '2011-03-06'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16016
+  date: '2011-03-07'
+  time: '21:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 700 руб.
+- id: 16017
+  date: '2011-03-08'
+  time: '21:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 16104
+  date: '2011-03-06'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 16712
+  date: '2011-03-22'
+  time: '21:00'
+  band_id: 398
+  band_name: Юлия Смолянин
+  band_token: smolyanin
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 16773
+  date: '2011-03-25'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 16837
+  date: '2011-03-29'
+  time: '21:00'
+  band_name: Impact Fuze
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 17211
+  date: '2011-04-06'
+  time: '21:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17214
+  date: '2011-04-01'
+  time: '22:00'
+  band_name: Li'nard & The Many Moods (USA)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17215
+  date: '2011-04-02'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17217
+  date: '2011-04-07'
+  time: '21:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 17219
+  date: '2011-04-09'
+  time: '22:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17221
+  date: '2011-04-15'
+  time: '22:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 17222
+  date: '2011-04-16'
+  time: '22:00'
+  band_name: Balls of Fire и Маша Кац
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 17226
+  date: '2011-04-22'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 17228
+  date: '2011-04-23'
+  time: '22:00'
+  band_name: Омела
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 17232
+  date: '2011-04-29'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 17233
+  date: '2011-04-30'
+  time: '22:00'
+  band_name: Александр Кутиков и Нюанс
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 17202
+  date: '2011-04-05'
+  time: '21:00'
+  band_name: 'Grand Jam: Сергей Воронов и Гия Дзагнидзе'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 17229
+  date: '2011-04-23'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 17216
+  date: '2011-04-03'
+  time: '22:00'
+  band_name: '"Первое Солнце" Владимира Голоухова'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17218
+  date: '2011-04-08'
+  time: '22:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 17220
+  date: '2011-04-13'
+  time: '21:00'
+  band_name: Rock Box
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17223
+  date: '2011-04-17'
+  time: '18:00'
+  band_name: Kiss Forever Band (Венгрия), Moscow Town (Россия)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 17224
+  date: '2011-04-19'
+  time: '21:00'
+  band_name: 'Open G Jam: Сергей Воронов, Дмитрий "Ветеран" Честных, Юрий Новгородский'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 17225
+  date: '2011-04-21'
+  time: '21:00'
+  band_name: Евгений Федоров и Zorge
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 17227
+  date: '2011-04-22'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 17230
+  date: '2011-04-27'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 17231
+  date: '2011-04-29'
+  time: '22:00'
+  band_id: 166
+  band_name: Markscheider Kunst
+  band_token: mkunst
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 17608
+  date: '2011-04-16'
+  time: '22:00'
+  band_name: Маша Кац и Balls of Fire
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 18144
+  date: '2011-04-25'
+  time: '21:00'
+  band_name: Rawcats'88
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 18153
+  date: '2011-04-26'
+  time: '21:00'
+  band_name: Алексей Карпов, Вадим Кириченко, Stainless Blues Band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+- id: 18354
+  date: '2011-05-08'
+  time: '21:00'
+  band_id: 307
+  band_name: Фруктовый кефир
+  band_token: fryktoviykefir
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18358
+  date: '2011-05-14'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18359
+  date: '2011-05-18'
+  time: '22:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18360
+  date: '2011-05-20'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 18361
+  date: '2011-05-25'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18362
+  date: '2011-05-28'
+  time: '22:00'
+  band_name: Алексей "Уайт" Белов, Андрей Макаревич
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18350
+  date: '2011-04-28'
+  time: '20:00'
+  band_id: 104
+  band_name: Blast
+  band_token: blast
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: бесплатно
+- id: 18352
+  date: '2011-05-03'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18353
+  date: '2011-05-04'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18356
+  date: '2011-05-12'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 18351
+  date: '2011-05-02'
+  time: '21:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18355
+  date: '2011-05-09'
+  time: '21:00'
+  band_name: Коралловые Рифы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18357
+  date: '2011-05-13'
+  time: '22:00'
+  band_name: Александр Ф. Скляр
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18567
+  date: '2011-05-01'
+  time: '21:00'
+  band_name: Hula Hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 18568
+  date: '2011-05-05'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18577
+  date: '2011-05-24'
+  time: '21:00'
+  band_name: 'Open-G Jam: Сергей Воронов, Дмитрий "Ветеран" Честных, Юрий Новгородский'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 18874
+  date: '2011-05-10'
+  time: '21:00'
+  band_name: Сергей Воронов, Алексей Аграновский, Юрий Каверкин и Nothing Personal
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 18569
+  date: '2011-05-06'
+  time: '22:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 18570
+  date: '2011-05-06'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18571
+  date: '2011-05-11'
+  time: '21:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 18572
+  date: '2011-05-13'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18573
+  date: '2011-05-16'
+  time: '21:00'
+  band_name: Raw Cats'88
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 100 руб.
+- id: 18574
+  date: '2011-05-17'
+  time: '21:00'
+  band_name: Вадим Иващенко, джем
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 18575
+  date: '2011-05-20'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18576
+  date: '2011-05-21'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18578
+  date: '2011-05-28'
+  band_name: Beverly Hills
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 18579
+  date: '2011-05-31'
+  time: '21:00'
+  band_name: Grand Jam
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 19175
+  date: '2011-05-21'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19021
+  date: '2011-05-27'
+  band_name: Час Пик
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19019
+  date: '2011-05-19'
+  time: '21:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19020
+  date: '2011-05-21'
+  time: '22:00'
+  band_name: 7Б
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19189
+  date: '2011-05-22'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19429
+  date: '2011-06-04'
+  time: '22:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19430
+  date: '2011-06-10'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 19431
+  date: '2011-06-16'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 19432
+  date: '2011-06-23'
+  time: '21:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 19433
+  date: '2011-06-25'
+  time: '22:00'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19434
+  date: '2011-06-29'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19435
+  date: '2011-05-27'
+  time: '21:00'
+  band_name: Катя Гордон и Blondrock
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 19436
+  date: '2011-06-01'
+  time: '21:00'
+  band_name: Rock Box
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19437
+  date: '2011-06-02'
+  time: '21:00'
+  band_name: Городская Культура
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19438
+  date: '2011-06-03'
+  time: '22:00'
+  band_name: Some Velvet Morning (UK)
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19439
+  date: '2011-06-07'
+  time: '21:00'
+  band_name: Вадим Иващенко, джем
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 19440
+  date: '2011-06-08'
+  time: '21:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19441
+  date: '2011-06-09'
+  time: '21:00'
+  band_name: Людмила Петрушевская
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19442
+  date: '2011-06-11'
+  time: '22:00'
+  band_name: Бобры
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 19443
+  date: '2011-06-13'
+  time: '20:00'
+  band_name: Первое солнце, Владимир Голоухов
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 19444
+  date: '2011-06-15'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19445
+  date: '2011-06-24'
+  time: '22:00'
+  band_name: Парк Горького
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 19446
+  date: '2011-06-30'
+  time: '21:00'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 20041
+  date: '2011-06-18'
+  time: '22:00'
+  band_name: Серьга
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 20039
+  date: '2011-06-14'
+  time: '21:00'
+  band_id: 135
+  band_name: Gordo Rei Latino
+  band_token: gordo-rei-latino
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 20040
+  date: '2011-06-17'
+  time: '22:00'
+  band_name: Balls of Fire и Маша Кац
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+  extra_bands:
+  - id: 182
+    name: Balls of Fire
+    token: balls-of-fire
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz
+- id: 20128
+  date: '2011-06-04'
+  band_name: Beverly Hills
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20129
+  date: '2011-06-10'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20130
+  date: '2011-06-11'
+  band_name: Prime Time
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20131
+  date: '2011-06-17'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20132
+  date: '2011-06-18'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20133
+  date: '2011-06-21'
+  time: '21:00'
+  band_name: Борис Булкин, джем
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 20134
+  date: '2011-06-22'
+  time: '21:00'
+  band_name: Pulse
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 250 руб.
+- id: 20135
+  date: '2011-06-24'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20136
+  date: '2011-06-25'
+  band_name: Аризона
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20137
+  date: '2011-07-14'
+  time: '21:00'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 700 руб.
+- id: 20167
+  date: '2011-06-09'
+  time: '21:00'
+  band_id: 490
+  band_name: Кабаре Людмилы Петрушевской
+  band_token: petrushevskaya
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400-700 р.
+  comments: Программа "Петрушевский rock-n-roll"
+- id: 21177
+  date: '2011-08-19'
+  time: '22:00'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 21178
+  date: '2011-08-11'
+  time: '21:00'
+  band_name: Indies
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21124
+  date: '2011-08-23'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21359
+  date: '2011-08-29'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 250 руб.
+- id: 20763
+  date: '2011-07-08'
+  time: '22:00'
+  band_name: Алексей "White" Белов и Удачное приобретение, Андрей Макаревич
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+  extra_bands:
+  - id: 43
+    name: Алексей "White" Белов и Удачное Приобретение
+    token: white
+- id: 20623
+  date: '2011-07-19'
+  time: '21:00'
+  band_name: Вадим Иващенко и The Boneshakers, Николай Добкин
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+- id: 20762
+  date: '2011-07-07'
+  time: '20:00'
+  band_name: Мегаполис, Муха - акустика
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 700 руб.
+- id: 20912
+  date: '2011-07-25'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 250 руб.
+- id: 20940
+  date: '2011-07-26'
+  time: '21:00'
+  band_name: Grand Jam
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 20874
+  date: '2011-07-12'
+  time: '20:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20938
+  date: '2011-07-29'
+  time: '22:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 20941
+  date: '2011-07-27'
+  time: '21:00'
+  band_name: Оксана Кочубей и Life-n-Joy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 20939
+  date: '2011-08-05'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 20942
+  date: '2011-07-29'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21179
+  date: '2011-08-12'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21090
+  date: '2011-08-03'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+  comments: AC/DC-party
+- id: 21091
+  date: '2011-08-06'
+  time: '21:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21092
+  date: '2011-08-02'
+  time: '21:00'
+  band_name: 'Big Jam: Сергей Воронов, Дмитрий "Ветеран" Честных, Юрий Новгородский,
+    Дарья Ловать'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 109
+    name: The Backstage
+    token: backstage
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 21093
+  date: '2011-08-04'
+  time: '22:00'
+  band_name: Александр Ф. Скляр
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 21094
+  date: '2011-08-05'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21095
+  date: '2011-08-08'
+  time: '21:00'
+  band_name: Indies
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21096
+  date: '2011-08-18'
+  time: '21:00'
+  band_name: АукцЫон
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 1000 руб.
+  extra_bands:
+  - id: 152
+    name: Аукцыон
+    token: auktyon
+- id: 21097
+  date: '2011-08-29'
+  time: '21:00'
+  band_name: Квинтет Антона Горбунова
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21180
+  date: '2011-08-13'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+  comments: день рождения группы
+- id: 21543
+  date: '2011-09-22'
+  time: '21:00'
+  band_id: 136
+  band_name: Red Elvises
+  band_token: red-elvises
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 22150
+  date: '2011-10-08'
+  time: '21:00'
+  band_id: 307
+  band_name: Фруктовый кефир
+  band_token: fryktoviykefir
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 22151
+  date: '2011-10-12'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 22923
+  date: '2011-11-18'
+  time: '22:00'
+  band_name: Александр Ф. Скляр
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+  comments: Презентация нового аль­бома "Вася-совесть"
+- id: 23229
+  date: '2011-11-28'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 23153
+  date: '2011-11-17'
+  time: '21:00'
+  band_name: Impact Fuze
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: презентация дебютного альбома "Moscow"
+- id: 23154
+  date: '2011-11-19'
+  time: '22:00'
+  band_name: Сергей Воронов
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: Fifty/Fifty – юбилейный вечер
+  extra_bands:
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 23155
+  date: '2011-11-20'
+  time: '20:00'
+  band_name: Коралловые Рифы
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: 90 на троих
+- id: 23361
+  date: '2011-12-10'
+  time: '20:00'
+  band_name: 'Второй международный фестиваль Gypsy Jazz: Djangoband, Belleville, Full
+    Moon Jazz Band, Квартет Мануш, Трио Фредерика Белинского'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 21931
+  date: '2011-10-21'
+  time: '22:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22149
+  date: '2011-10-03'
+  time: '21:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 22152
+  date: '2011-10-14'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 22153
+  date: '2011-10-20'
+  time: '21:00'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 600 руб.
+- id: 22154
+  date: '2011-10-04'
+  time: '21:00'
+  band_name: '"Два рояля" Алексей Блохин и Евгений "Аллигатор" Лепихин'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 22155
+  date: '2011-10-05'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  comments: Black Sabbath Party
+- id: 22156
+  date: '2011-10-06'
+  time: '21:00'
+  band_name: Classy Jazz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 22157
+  date: '2011-10-07'
+  time: '22:00'
+  band_name: Музыканты группы "Парк Горького"
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 500 руб.
+- id: 22158
+  date: '2011-10-08'
+  time: '21:00'
+  band_name: Beverly Hills
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22159
+  date: '2011-10-10'
+  time: '21:00'
+  band_name: Hula Hoop
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+  extra_bands:
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop
+- id: 22160
+  date: '2011-10-14'
+  time: '21:00'
+  band_name: Кайман
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22161
+  date: '2011-10-15'
+  time: '22:00'
+  band_name: Музыкальная Группа Лиц
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 300 руб.
+- id: 22162
+  date: '2011-10-15'
+  time: '21:00'
+  band_name: Black Rocks
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22163
+  date: '2011-10-17'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 22651
+  date: '2011-10-24'
+  time: '21:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 24050
+  date: '2011-12-15'
+  time: '21:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 24051
+  date: '2011-12-17'
+  time: '21:30'
+  band_name: Дали
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22791
+  date: '2011-11-02'
+  time: '21:00'
+  band_id: 312
+  band_name: Jimmy C
+  band_token: jimmy-c
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 22919
+  date: '2011-11-05'
+  time: '22:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 400 руб.
+- id: 22920
+  date: '2011-11-09'
+  time: '21:00'
+  band_id: 133
+  band_name: Sabbath Inside
+  band_token: sabbath-inside
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 200 руб.
+- id: 22921
+  date: '2011-11-11'
+  time: '22:00'
+  band_name: Владимир Кузьмин
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 800 руб.
+- id: 22922
+  date: '2011-11-16'
+  time: '21:00'
+  band_name: Pulse
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  price: 250 руб.
+  comments: Tribute to Pink Floyd
+- id: 23416
+  date: '2011-11-26'
+  time: '19:00'
+  band_name: '"Наедине с Кальяном" Музыкальный фестиваль'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23417
+  date: '2011-12-04'
+  time: '21:00'
+  band_name: '"Jasper Lee" - 20 лет группе'
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23541
+  date: '2011-12-07'
+  time: '21:00'
+  band_id: 254
+  band_name: Easy Dizzy
+  band_token: easy-dizzy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: AC/DC-party
+- id: 23542
+  date: '2011-11-30'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23543
+  date: '2011-12-01'
+  time: '21:00'
+  band_id: 80
+  band_name: Lex & Team
+  band_token: lex-n-team
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: Концерт посвященный 5-летию клуба Music Town
+- id: 23544
+  date: '2011-12-02'
+  time: '22:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23545
+  date: '2011-12-08'
+  time: '22:00'
+  band_id: 253
+  band_name: Точка Росы
+  band_token: tochka-rosy
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+  comments: Презентация новой акустической программы
+- id: 23546
+  date: '2011-12-10'
+  time: '18:00'
+  band_name: Второй Международный фестиваль Gypsy Jazz
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23629
+  date: '2011-12-03'
+  time: '21:00'
+  band_id: 40
+  band_name: Blackmailers Rekord Orkestr
+  band_token: blackmailers
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23630
+  date: '2011-12-18'
+  time: '21:00'
+  band_id: 307
+  band_name: Фруктовый кефир
+  band_token: fryktoviykefir
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town
+- id: 23631
+  date: '2011-12-24'
+  time: '22:00'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 175
+  club_name: Music Town
+  club_token: music-town

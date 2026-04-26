@@ -1,0 +1,55 @@
+- id: 24868
+  date: '2012-02-02'
+  time: '21:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 426
+  club_name: The Tunnel
+  club_token: tunnel
+  price: бесплатный
+- id: 24867
+  date: '2012-01-17'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 426
+  club_name: The Tunnel
+  club_token: tunnel
+  price: бесплатный
+  comments: High School
+- id: 25900
+  date: '2012-02-28'
+  time: '21:00'
+  band_name: High School
+  club_id: 426
+  club_name: The Tunnel
+  club_token: tunnel
+  price: бесплатный
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 25993
+  date: '2012-02-25'
+  time: '21:00'
+  band_name: High School
+  club_id: 426
+  club_name: The Tunnel
+  club_token: tunnel
+  price: бесплатный
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 26437
+  date: '2012-03-20'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 426
+  club_name: The Tunnel
+  club_token: tunnel
+  price: бесплатный

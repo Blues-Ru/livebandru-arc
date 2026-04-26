@@ -1,0 +1,14 @@
+id: 227
+token: sobaka
+name: Бродячая собака
+alive: true
+address: Каменская, 32
+subway: Площадь Ленина
+phone: 218-80-70
+city_id: 19
+clips:
+- id: 537
+  type: weblink
+  url: http://www.sobaka.su/
+  name: Официальный сайт
+  sort_order: 0

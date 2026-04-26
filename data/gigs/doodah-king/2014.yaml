@@ -1,0 +1,98 @@
+- id: 40948
+  date: '2014-01-29'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 42772
+  date: '2014-03-26'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 43023
+  date: '2014-04-24'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 43418
+  date: '2014-05-28'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 44553
+  date: '2014-06-19'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 45877
+  date: '2014-08-28'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 46347
+  date: '2014-09-18'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 46510
+  date: '2014-10-30'
+  time: '21:30'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 47865
+  date: '2014-11-27'
+  time: '21:30'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 50000 бел/руб
+- id: 48398
+  date: '2014-12-18'
+  time: '20:00'
+  band_name: Cross B Band, Big Daddy Blues, Place to be, Louisiana Blue, The Blues
+    Case
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 50000 руб.
+  extra_bands:
+  - id: 647
+    name: Big Daddy Blues
+    token: big-daddy-blues
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band

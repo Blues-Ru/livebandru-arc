@@ -1,0 +1,24 @@
+id: 409
+token: defaqto
+name: DeFAQto
+alive: true
+address: Б. Лубянка, 30/2, стр. 1
+subway: Тургеневская, Чистые Пруды
+phone: (495) 624-4497
+city_id: 1
+clips:
+- id: 1818
+  type: weblink
+  url: http://www.defaqto.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1820
+  type: weblink
+  url: http://www.facebook.com/deFAQto.bar
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 1819
+  type: weblink
+  url: http://vk.com/club20507794
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,64 @@
+id: 357
+token: sunsay
+name: SunSay
+alive: true
+url: http://www.sunsay.name/
+city_id: 15
+genre_id: 5
+secondary_genre_id: 7
+musicians:
+- name: Андрей Запорожец
+  instruments: вокал
+- name: Андрей Кобылянский
+  instruments: гитара
+- name: Роман Кучеренко
+  instruments: бас
+- name: Сергей Балалаев
+  instruments: ударные
+- name: Ефим Чупахин
+  instruments: клавишные
+- name: Сергей Клевенский
+  instruments: духовые
+clips:
+- id: 1433
+  type: weblink
+  url: http://www.sunsay.name/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1434
+  type: rss
+  url: http://sunsay-promo.livejournal.com/data/rss
+  sort_order: 99
+- id: 1435
+  type: weblink
+  url: http://vk.com/club136837
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1437
+  type: weblink
+  url: http://myspace.com/sunsay5
+  name: Страница на MySpace
+  sort_order: 200
+- id: 1438
+  type: weblink
+  url: http://youtube.com/sunsaymusic
+  name: Ролики на YouTube
+  sort_order: 300
+- id: 1439
+  type: youtube
+  url: http://www.youtube.com/?v=hahNWO_nIuA
+  name: SunSay  - Немовля
+  comments: Spb, PlaceClub / 12.12.2010  by Ivan Goryachev
+  sort_order: 99
+- id: 1440
+  type: youtube
+  url: http://www.youtube.com/?v=duidgkBaTtU
+  name: SunSay - "Будь слабей меня"
+  comments: Режиссер - Егор Абраменко
+  sort_order: 199
+- id: 1436
+  type: photo
+  url: sunsay.jpg
+  sort_order: 0
+  width: 480
+  height: 320

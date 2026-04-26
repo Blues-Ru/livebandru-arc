@@ -1,0 +1,15 @@
+id: 487
+token: zavtra
+name: ZAVTRA
+aliases: Новые Пир.О.Г.И
+alive: true
+address: Москва, ул. Сретенка, д.26/1
+subway: Сухаревская
+phone: +7(495)607-0713
+city_id: 1
+clips:
+- id: 2462
+  type: weblink
+  url: http://www.ogipirogi.ru/sretenka
+  name: Официальный сайт
+  sort_order: 0

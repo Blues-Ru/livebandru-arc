@@ -1,0 +1,2535 @@
+- id: 32957
+  date: '2013-01-14'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 32958
+  date: '2013-01-15'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 32959
+  date: '2013-01-16'
+  time: '20:00'
+  band_name: Вечер блюза с Green Blues Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 150-250 руб.
+- id: 32960
+  date: '2013-01-17'
+  time: '20:00'
+  band_name: Old School Quartet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32961
+  date: '2013-01-18'
+  time: '19:00'
+  band_name: Джаз, проверенный временем...
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32962
+  date: '2013-01-18'
+  time: '22:00'
+  band_name: Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32963
+  date: '2013-01-19'
+  time: '19:00'
+  band_name: Даниил Федоров и резиденты EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32964
+  date: '2013-01-19'
+  time: '22:00'
+  band_name: Ирина Макарова & Джаз-Квинтет
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32965
+  date: '2013-01-20'
+  time: '19:00'
+  band_name: Блюзовый джем с группой Blues Doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-400 руб.
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 32966
+  date: '2013-01-21'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 32967
+  date: '2013-01-22'
+  time: '20:00'
+  band_name: Flos Florum
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32968
+  date: '2013-01-24'
+  time: '20:00'
+  band_name: Gypsy Jazz Band (Тюмень) & Аркадий Клейн
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32969
+  date: '2013-01-25'
+  time: '19:00'
+  band_name: Джаз, проверенный временем...
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32970
+  date: '2013-01-26'
+  time: '19:00'
+  band_name: UralSib JazzProject
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32971
+  date: '2013-01-26'
+  time: '22:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32972
+  date: '2013-01-28'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 32973
+  date: '2013-01-29'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 32974
+  date: '2013-01-30'
+  time: '20:00'
+  band_name: Блюзовые истории с Green Blues Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 150-250 руб.
+- id: 32975
+  date: '2013-01-31'
+  time: '20:00'
+  band_name: Insomnis и Илона Ребицкая
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32402
+  date: '2013-01-06'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32404
+  date: '2013-01-03'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32412
+  date: '2013-01-08'
+  time: '22:00'
+  band_name: New Age
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32417
+  date: '2013-01-12'
+  time: '22:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32419
+  date: '2013-01-04'
+  time: '22:00'
+  band_name: Balcan Music
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32401
+  date: '2013-01-05'
+  time: '22:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32405
+  date: '2013-01-03'
+  time: '22:00'
+  band_name: DO-UP
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32406
+  date: '2013-01-04'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32407
+  date: '2013-01-05'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32408
+  date: '2013-01-06'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32409
+  date: '2013-01-07'
+  time: '19:00'
+  band_name: Квартет Игоря Паращука
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32410
+  date: '2013-01-07'
+  time: '22:00'
+  band_name: Новогодняя программа "Jazz-express"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1000 руб.
+- id: 32411
+  date: '2013-01-08'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32413
+  date: '2013-01-10'
+  time: '20:00'
+  band_name: Николай Григорьев и Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32414
+  date: '2013-01-11'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32415
+  date: '2013-01-11'
+  time: '22:00'
+  band_name: Tribute to Erykah Badu
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32416
+  date: '2013-01-12'
+  time: '19:00'
+  band_name: 'Квинтет Сергея Чашкина: музыка Джо Хендерсона'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 32418
+  date: '2013-01-25'
+  time: '22:00'
+  band_name: Русское банджо (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-600 руб.
+- id: 33366
+  date: '2013-02-14'
+  time: '20:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33367
+  date: '2013-02-23'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-600 руб.
+- id: 33368
+  date: '2013-02-01'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33369
+  date: '2013-02-01'
+  time: '22:00'
+  band_name: Mandy Gaines (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1200 руб.
+- id: 33370
+  date: '2013-02-02'
+  time: '19:00'
+  band_name: Ignat Kravtsov Quintet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33371
+  date: '2013-02-02'
+  time: '22:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33372
+  date: '2013-02-04'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 33373
+  date: '2013-02-05'
+  time: '20:00'
+  band_name: Вечер блюза с Green Blues Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 150-250 руб.
+- id: 33374
+  date: '2013-02-07'
+  time: '20:00'
+  band_name: Квинтет Сергея Чашкина
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33375
+  date: '2013-02-09'
+  time: '19:00'
+  band_name: Григорий Файн (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-600 руб.
+- id: 33376
+  date: '2013-02-09'
+  time: '22:00'
+  band_name: Moby J и Солнцеворот
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33377
+  date: '2013-02-11'
+  time: '20:00'
+  band_name: Джем-сейшн с Владимиром Огоньковым
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 33378
+  date: '2013-02-12'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 33379
+  date: '2013-02-13'
+  time: '20:00'
+  band_name: 'Блюзовый джем: Blues Doctors'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-500 руб.
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 33380
+  date: '2013-02-16'
+  time: '19:00'
+  band_name: Данис Щербаков и Никита Савельев
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-600 руб.
+- id: 33381
+  date: '2013-02-16'
+  time: '22:00'
+  band_name: Анастасия Гаева и джазовое трио
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33382
+  date: '2013-02-18'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 33383
+  date: '2013-02-19'
+  time: '20:00'
+  band_name: Блюзовые истории с Green Blues Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 150-250 руб.
+- id: 33384
+  date: '2013-02-21'
+  time: '20:00'
+  band_name: Anat Fort Trio (Israel)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 33385
+  date: '2013-02-22'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 33386
+  date: '2013-02-22'
+  time: '22:00'
+  band_name: Clairdee (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1200 руб.
+- id: 33387
+  date: '2013-02-23'
+  time: '19:00'
+  band_name: Clairdee (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1200 руб.
+- id: 33388
+  date: '2013-02-25'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 33389
+  date: '2013-02-26'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 33390
+  date: '2013-02-28'
+  time: '20:00'
+  band_name: 'Jazz contemporaries: Давид Голощекин (Россия)'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 600-800 руб.
+- id: 34199
+  date: '2013-03-16'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34200
+  date: '2013-03-01'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34201
+  date: '2013-03-02'
+  time: '20:00'
+  band_name: Black Snow Experiment
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34217
+  date: '2013-03-25'
+  time: '20:00'
+  band_name: Jam session от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34218
+  date: '2013-03-27'
+  time: '20:00'
+  band_name: Блюзовый джем
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34219
+  date: '2013-03-28'
+  time: '20:00'
+  band_name: New Time Quintet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34202
+  date: '2013-03-03'
+  time: '19:00'
+  band_name: Борис Саволделли (Boris Savoldelli - вокал, Италия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34203
+  date: '2013-03-04'
+  time: '20:00'
+  band_name: Jam session от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34204
+  date: '2013-03-07'
+  time: '20:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34205
+  date: '2013-03-08'
+  time: '19:00'
+  band_name: Андрей Кондаков (фортепиано, Санкт-Петербург)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34206
+  date: '2013-03-11'
+  time: '20:00'
+  band_name: Jam session от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34207
+  date: '2013-03-14'
+  time: '20:00'
+  band_name: Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34208
+  date: '2013-03-15'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34209
+  date: '2013-03-15'
+  time: '22:00'
+  band_name: Виктор Третьяков
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34210
+  date: '2013-03-16'
+  time: '19:00'
+  band_name: Trilhos (Португалия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34211
+  date: '2013-03-18'
+  time: '20:00'
+  band_name: Jam session от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34212
+  date: '2013-03-19'
+  time: '20:00'
+  band_name: День Рождения джаз-клуба Ever Jazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34213
+  date: '2013-03-21'
+  time: '20:00'
+  band_name: Arthur Galishanin Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34893
+  date: '2013-04-05'
+  time: '19:00'
+  band_name: Alvon Johnson (США) и Blues Doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 34215
+  date: '2013-03-22'
+  time: '19:00'
+  band_name: Шарон Кларк (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34216
+  date: '2013-03-23'
+  time: '20:00'
+  band_name: Сергей Пронь и Сергей Чашкин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34220
+  date: '2013-03-29'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34221
+  date: '2013-03-29'
+  time: '22:00'
+  band_name: Ивонн Санчес (Yvonne Sanchez)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34222
+  date: '2013-03-30'
+  time: '20:00'
+  band_name: Проект "Pervoe Solnce" (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34886
+  date: '2013-03-23'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34887
+  date: '2013-03-26'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34888
+  date: '2013-03-30'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34889
+  date: '2013-04-06'
+  time: '17:00'
+  band_name: Moby-J
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34890
+  date: '2013-04-06'
+  time: '20:00'
+  band_name: Джаз-секстет ”HS German-French Connection”
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34891
+  date: '2013-04-13'
+  time: '20:00'
+  band_name: Kekko Fornarelli Trio
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 34892
+  date: '2013-04-25'
+  time: '20:00'
+  band_name: Лукас Имбириба (Бразилия) и Александр Виницкий
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35028
+  date: '2013-04-20'
+  time: '20:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35029
+  date: '2013-04-01'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35030
+  date: '2013-04-04'
+  time: '20:00'
+  band_name: Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35031
+  date: '2013-04-07'
+  time: '19:00'
+  band_name: Квинтет Юлии Перминовой
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35032
+  date: '2013-04-09'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35033
+  date: '2013-04-10'
+  time: '20:00'
+  band_name: Блюзовый джем
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35034
+  date: '2013-04-11'
+  time: '20:00'
+  band_name: BassBulatovBand
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35035
+  date: '2013-04-13'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35036
+  date: '2013-04-14'
+  time: '16:00'
+  band_name: Авторский проект Светланы Меркушиной "Игра в Jazz"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35037
+  date: '2013-04-15'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35038
+  date: '2013-04-18'
+  time: '20:00'
+  band_name: Николай Григорьев и Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35039
+  date: '2013-04-19'
+  time: '19:00'
+  band_name: Ольга Головина, Трио Дениса Галушко и Александр Клементьев
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35040
+  date: '2013-04-20'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35041
+  date: '2013-04-22'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35042
+  date: '2013-04-23'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35698
+  date: '2013-05-18'
+  time: '20:00'
+  band_name: Сергей Чашкин, Андрей Плетнев и Александр Булатов
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35699
+  date: '2013-06-04'
+  time: '20:00'
+  band_name: Верлис Бэнд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35496
+  date: '2013-04-27'
+  time: '20:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35497
+  date: '2013-05-02'
+  time: '20:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35498
+  date: '2013-05-09'
+  time: '20:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35499
+  date: '2013-04-18'
+  time: '18:00'
+  band_name: Михаэль Вольны и Тэо Блэкманн
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35500
+  date: '2013-04-27'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем..."
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35501
+  date: '2013-04-30'
+  time: '20:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35502
+  date: '2013-05-01'
+  time: '20:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35503
+  date: '2013-05-03'
+  time: '19:00'
+  band_name: Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35504
+  date: '2013-05-04'
+  time: '20:00'
+  band_name: Twinkle-band + Антон Дерябин (Тюмень)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35505
+  date: '2013-05-05'
+  time: '19:00'
+  band_name: Sun Salsa Band (Пермь)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35506
+  date: '2013-05-06'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35507
+  date: '2013-05-07'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35508
+  date: '2013-05-10'
+  time: '19:00'
+  band_name: Project Trio
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35509
+  date: '2013-05-11'
+  time: '20:00'
+  band_name: Straight Street Band (Тюмень)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35510
+  date: '2013-05-12'
+  time: '19:00'
+  band_name: Tradition and blues
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35511
+  date: '2013-05-13'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35512
+  date: '2013-05-14'
+  time: '20:00'
+  band_name: Блюзовый джем
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35513
+  date: '2013-05-16'
+  time: '20:00'
+  band_name: New Stars of America
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35514
+  date: '2013-05-17'
+  time: '19:00'
+  band_name: Трио Томаса Зиффлинга (Германия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 35515
+  date: '2013-05-19'
+  time: '19:00'
+  band_name: Three Fall
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36252
+  date: '2013-06-06'
+  time: '20:00'
+  band_name: Николай Григорьев и Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36250
+  date: '2013-06-21'
+  time: '19:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36251
+  date: '2013-06-03'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36253
+  date: '2013-06-07'
+  time: '19:00'
+  band_name: Chanda Rule (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36254
+  date: '2013-06-08'
+  time: '20:00'
+  band_name: Квинтет Андрея Плетнева
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36255
+  date: '2013-06-10'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36256
+  date: '2013-06-11'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36257
+  date: '2013-06-12'
+  time: '20:00'
+  band_name: Владимир Чекасин (Литва), Bruce Cox (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36258
+  date: '2013-06-13'
+  time: '20:00'
+  band_name: Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36259
+  date: '2013-06-14'
+  time: '19:00'
+  band_name: Омар Торрес (США-Мексика)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36260
+  date: '2013-06-15'
+  time: '20:00'
+  band_name: Омар Торрес (США-Мексика) и Blues Doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 36261
+  date: '2013-06-17'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36262
+  date: '2013-06-18'
+  time: '20:00'
+  band_name: Ekb jazz collective + Алена Поль (Сургут)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36263
+  date: '2013-06-19'
+  time: '20:00'
+  band_name: Puff Radio
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36264
+  date: '2013-06-20'
+  time: '20:00'
+  band_name: Cynthia Saunders (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36265
+  date: '2013-06-22'
+  time: '20:00'
+  band_name: Трио Дениса Галушко и Сергей Чашкин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36266
+  date: '2013-06-24'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36267
+  date: '2013-06-25'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36268
+  date: '2013-06-26'
+  time: '20:00'
+  band_name: Free Organ Trio и Юлия Дьячковская
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36269
+  date: '2013-06-27'
+  time: '20:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36270
+  date: '2013-06-28'
+  time: '19:00'
+  band_name: Квартет Сергея Чашкина
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 36271
+  date: '2013-06-29'
+  time: '14:00'
+  band_name: Джазовый open-air фестиваль "Everjazz"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37059
+  date: '2013-07-05'
+  time: '20:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37060
+  date: '2013-07-26'
+  time: '19:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37061
+  date: '2013-07-01'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37062
+  date: '2013-07-04'
+  time: '20:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37063
+  date: '2013-07-06'
+  time: '20:00'
+  band_name: Николай Григорьев и группа Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37064
+  date: '2013-07-08'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37065
+  date: '2013-07-09'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37066
+  date: '2013-07-11'
+  time: '20:00'
+  band_name: Квартет Сергея Чашкина и Сергей Пронь
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37067
+  date: '2013-07-12'
+  time: '19:00'
+  band_name: DO-UP
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37068
+  date: '2013-07-14'
+  time: '20:00'
+  band_name: Вероника Булычева и Стефани Акетт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37069
+  date: '2013-07-15'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37070
+  date: '2013-07-18'
+  time: '20:00'
+  band_name: Квинтет Андрея Плетнёва
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37071
+  date: '2013-07-19'
+  time: '19:00'
+  band_name: Moby J
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37072
+  date: '2013-07-20'
+  time: '20:00'
+  band_name: Сергей Чашкин, Александр Булатов и Юлия Дьячковская
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37073
+  date: '2013-07-22'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37074
+  date: '2013-07-23'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37075
+  date: '2013-07-24'
+  time: '20:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37076
+  date: '2013-07-25'
+  time: '20:00'
+  band_name: Twinkle-Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37077
+  date: '2013-07-27'
+  time: '20:00'
+  band_name: Dixie-Light Band и Ксения Панаева
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37078
+  date: '2013-07-29'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37429
+  date: '2013-08-22'
+  time: '20:00'
+  band_name: Balkan Musik
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37418
+  date: '2013-08-03'
+  time: '20:00'
+  band_name: Николай Григорьев и Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37420
+  date: '2013-08-06'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37426
+  date: '2013-08-16'
+  time: '19:00'
+  band_name: Ольга Головина и резиденты EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37415
+  date: '2013-08-02'
+  time: '19:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37416
+  date: '2013-08-17'
+  time: '20:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37417
+  date: '2013-08-01'
+  time: '20:00'
+  band_name: Антон Зубарев и Григорий Дягин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37419
+  date: '2013-08-05'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37421
+  date: '2013-08-08'
+  time: '20:00'
+  band_name: Denis Galushko Trio
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37422
+  date: '2013-08-09'
+  time: '19:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37423
+  date: '2013-08-10'
+  time: '10:00'
+  band_name: 'Фестиваль "UralTerraJazz" (бесплатные автобусы в г. Камышлов и обратно):
+    Дебора Пьер (вокал, США), Даниил Крамер (фортепиано, Москва), Blues Doctors (Екатеринбург),
+    квартет Сергея Проня (Екатеринбург), Muchachos band (Екатеринбург)'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  extra_bands:
+  - id: 574
+    name: Muchachos Band
+    token: muchachos-band
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 37424
+  date: '2013-08-12'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37425
+  date: '2013-08-15'
+  time: '20:00'
+  band_name: Квартет Андрея Плетнева
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37427
+  date: '2013-08-19'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37428
+  date: '2013-08-20'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37430
+  date: '2013-08-23'
+  time: '19:00'
+  band_name: Квартет Сергея Проня
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37431
+  date: '2013-08-24'
+  time: '20:00'
+  band_name: Квартет Сергея Чашкина
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37432
+  date: '2013-08-26'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37433
+  date: '2013-08-27'
+  time: '20:00'
+  band_name: New Time Trio и Дмитрий Коротовских(Санкт-Петербург)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37435
+  date: '2013-08-30'
+  time: '19:00'
+  band_name: BassBulatovBand
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37436
+  date: '2013-08-31'
+  time: '20:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 37434
+  date: '2013-08-29'
+  time: '20:00'
+  band_name: Straight street band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38175
+  date: '2013-09-07'
+  time: '20:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38176
+  date: '2013-09-01'
+  time: '20:00'
+  band_name: Carter Brothers Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38177
+  date: '2013-09-02'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38178
+  date: '2013-09-05'
+  time: '20:00'
+  band_name: Александр Булатов и Сергей Чашкин представляют
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38190
+  date: '2013-09-23'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38191
+  date: '2013-09-24'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38192
+  date: '2013-09-25'
+  time: '20:00'
+  band_name: Denis Galushko Quartet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38193
+  date: '2013-09-26'
+  time: '20:00'
+  band_name: Dixie-Light Band и Ксения Панаева
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38194
+  date: '2013-09-27'
+  time: '19:00'
+  band_name: DO-UP
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38195
+  date: '2013-09-28'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38196
+  date: '2013-09-28'
+  time: '20:00'
+  band_name: Scotch n Beer Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38197
+  date: '2013-10-11'
+  time: '19:00'
+  band_name: Deborah J. Carter (США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38198
+  date: '2013-10-19'
+  time: '20:00'
+  band_name: Carla Marciano Quartet (Италия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38199
+  date: '2013-10-20'
+  time: '20:00'
+  band_name: Александр Виницкий и Катерина Балыкбаева
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38179
+  date: '2013-09-06'
+  time: '19:00'
+  band_name: Трио Алексендра Титова и Владислав Талабуев (кларнет)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38180
+  date: '2013-09-09'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38181
+  date: '2013-09-10'
+  time: '20:00'
+  band_name: Проект КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38182
+  date: '2013-09-12'
+  time: '20:00'
+  band_name: Николай Григорьев и Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38183
+  date: '2013-09-13'
+  time: '19:00'
+  band_name: Иннокентий Иванов, Вячеслав Голиков (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38184
+  date: '2013-09-14'
+  time: '20:00'
+  band_name: Twinkle-Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38185
+  date: '2013-09-16'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38186
+  date: '2013-09-19'
+  time: '20:00'
+  band_name: BassBulatovBand
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38187
+  date: '2013-09-20'
+  time: '19:00'
+  band_name: Scheherazade Stone (Шехеразада Стоун - США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38188
+  date: '2013-09-21'
+  time: '17:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38189
+  date: '2013-09-21'
+  time: '20:00'
+  band_name: Трио Сергея Чашкина
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38200
+  date: '2013-09-30'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38201
+  date: '2013-10-17'
+  time: '20:00'
+  band_name: Сергей Летов и Трио Dikeman-Kugel-Van Der Weide (Амстердам, Голландия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38597
+  date: '2013-10-11'
+  time: '22:00'
+  band_name: Deborah J. Carter (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38598
+  date: '2013-10-18'
+  time: '22:00'
+  band_name: Сергей Летов & трио Dikeman-Kugel-Van Der Weide(Амстердам, Голландия)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38599
+  date: '2013-10-25'
+  time: '22:00'
+  band_name: Brenda Vaughn (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38600
+  date: '2013-10-26'
+  time: '19:00'
+  band_name: Brenda Vaughn (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38807
+  date: '2013-10-24'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38810
+  date: '2013-10-27'
+  time: '19:00'
+  band_name: Танцы под свинг и джаз с Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38811
+  date: '2013-10-28'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38812
+  date: '2013-10-29'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38813
+  date: '2013-10-30'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38814
+  date: '2013-10-31'
+  time: '19:00'
+  band_name: Gypsy Trio RoManouche
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38815
+  date: '2013-10-31'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38784
+  date: '2013-10-05'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38785
+  date: '2013-10-04'
+  time: '20:00'
+  band_name: Quartet The New Reflection
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38786
+  date: '2013-10-05'
+  time: '19:00'
+  band_name: Григорий Файн (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38787
+  date: '2013-10-06'
+  time: '19:00'
+  band_name: Блюзовый джем с группой Blues Doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 38788
+  date: '2013-10-07'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38789
+  date: '2013-10-08'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38790
+  date: '2013-10-09'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38791
+  date: '2013-10-10'
+  time: '19:00'
+  band_name: Трио Дениса Галушко и Александр Клементьев
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38792
+  date: '2013-10-10'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38793
+  date: '2013-10-12'
+  time: '19:00'
+  band_name: Deborah J. Carter (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38794
+  date: '2013-10-12'
+  time: '22:00'
+  band_name: Jazz Бezz Б
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38795
+  date: '2013-10-14'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38796
+  date: '2013-10-15'
+  time: '20:00'
+  band_name: Bluesовый вторник
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38797
+  date: '2013-10-16'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38798
+  date: '2013-10-17'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38799
+  date: '2013-10-18'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38800
+  date: '2013-10-19'
+  time: '22:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38801
+  date: '2013-10-20'
+  time: '16:00'
+  band_name: Проект Светланы Меркушиной "Игра в Jazz"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38802
+  date: '2013-10-21'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38803
+  date: '2013-10-22'
+  time: '20:00'
+  band_name: Bluesовый вторник
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38804
+  date: '2013-10-23'
+  time: '20:00'
+  band_name: Сергей Чашкин и Игнат Кравцов - Ekb Jazz Collective
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38805
+  date: '2013-10-23'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38806
+  date: '2013-10-24'
+  time: '19:00'
+  band_name: Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38808
+  date: '2013-10-25'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 38809
+  date: '2013-10-26'
+  time: '22:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39374
+  date: '2013-11-02'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39375
+  date: '2013-11-08'
+  time: '22:00'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39376
+  date: '2013-11-23'
+  time: '22:00'
+  band_id: 574
+  band_name: Muchachos Band
+  band_token: muchachos-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39377
+  date: '2013-11-02'
+  time: '19:00'
+  band_name: Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39378
+  date: '2013-11-03'
+  time: '19:00'
+  band_name: Буги-вечеринка с группой Столичный Твист
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39379
+  date: '2013-11-04'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39380
+  date: '2013-11-05'
+  time: '20:00'
+  band_name: Bluesовый вторник
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39381
+  date: '2013-11-06'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39382
+  date: '2013-11-07'
+  time: '19:00'
+  band_name: Квартет Сергея Чашкина
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39383
+  date: '2013-11-07'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39384
+  date: '2013-11-08'
+  time: '19:00'
+  band_name: Hyperactive Kid
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39385
+  date: '2013-11-09'
+  time: '19:00'
+  band_name: New Time Quintet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39386
+  date: '2013-11-09'
+  time: '22:00'
+  band_name: Funky Bizness Gang & Dos Buratinos
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39387
+  date: '2013-11-10'
+  time: '19:00'
+  band_name: Блюзовый джем
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39388
+  date: '2013-11-11'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39389
+  date: '2013-11-12'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39390
+  date: '2013-11-13'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39391
+  date: '2013-11-14'
+  time: '19:00'
+  band_name: James Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39393
+  date: '2013-11-15'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39394
+  date: '2013-11-15'
+  time: '22:00'
+  band_name: Русское банджо (Москва)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39163
+  date: '2013-11-01'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39164
+  date: '2013-11-01'
+  time: '22:00'
+  band_name: Marjorie Barnes (вокал, Нидерланды)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39409
+  date: '2013-11-21'
+  time: '22:00'
+  band_name: Jazz Бezz Б
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39410
+  date: '2013-11-22'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39411
+  date: '2013-11-22'
+  time: '22:00'
+  band_name: Дебора Дэвис (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39412
+  date: '2013-11-23'
+  time: '19:00'
+  band_name: Дебора Дэвис (вокал, США)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39413
+  date: '2013-11-25'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39414
+  date: '2013-11-26'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39415
+  date: '2013-11-27'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39396
+  date: '2013-11-16'
+  time: '19:00'
+  band_name: Global Village 2
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39397
+  date: '2013-11-17'
+  time: '19:00'
+  band_name: Буги-вечеринка с Сухов band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39398
+  date: '2013-11-18'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39399
+  date: '2013-11-19'
+  time: '20:00'
+  band_name: Happy55
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39400
+  date: '2013-11-20'
+  time: '20:00'
+  band_name: Ekb Jazz Collective и Алёна Поль
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39401
+  date: '2013-11-20'
+  time: '22:30'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39402
+  date: '2013-11-21'
+  time: '19:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39403
+  date: '2013-11-28'
+  time: '19:00'
+  band_name: Совместный проект Сергея Чашкина и Сергея Проня
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39404
+  date: '2013-11-28'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39405
+  date: '2013-11-29'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем…"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39406
+  date: '2013-11-29'
+  time: '22:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39407
+  date: '2013-11-30'
+  time: '19:00'
+  band_name: Ренцо Руджери и Паоло Ди Сабатино
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39408
+  date: '2013-11-30'
+  time: '22:00'
+  band_name: Karlsheff
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 39392
+  date: '2013-11-14'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40030
+  date: '2013-12-04'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800 руб.
+- id: 40079
+  date: '2013-12-02'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40080
+  date: '2013-12-01'
+  time: '19:00'
+  band_name: Блюзовый джем с Blues Doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  extra_bands:
+  - id: 52
+    name: Blues Doctors
+    token: blues-doctors
+- id: 40081
+  date: '2013-12-03'
+  time: '20:00'
+  band_name: Bluesовый вторник
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40082
+  date: '2013-12-17'
+  time: '20:00'
+  band_name: Bluesовый вторник
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40083
+  date: '2013-12-23'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40084
+  date: '2013-12-16'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40091
+  date: '2013-12-10'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40086
+  date: '2013-12-06'
+  time: '19:00'
+  band_name: Джаз, проверенный временем
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40087
+  date: '2013-12-04'
+  time: '22:30'
+  band_name: Джем-сейшн в стиле джаз-мануш
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40088
+  date: '2013-12-05'
+  time: '19:00'
+  band_name: Николай Григорьев
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40089
+  date: '2013-12-07'
+  time: '19:00'
+  band_name: Владислав Талабуев и трио Александра Титова
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40090
+  date: '2013-12-08'
+  time: '19:00'
+  band_name: Нелегалы
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40092
+  date: '2013-12-09'
+  time: '20:00'
+  band_name: Джем-сейшн от резидентов EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40093
+  date: '2013-12-12'
+  time: '19:00'
+  band_name: Андрей Кондаков
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40094
+  date: '2013-12-13'
+  time: '22:00'
+  band_name: Kaos Protokoll (Швейцария)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40095
+  date: '2013-12-14'
+  time: '19:00'
+  band_name: Квартет Сергея Проня
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40096
+  date: '2013-12-14'
+  time: '22:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40097
+  date: '2013-12-15'
+  time: '19:00'
+  band_name: Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40098
+  date: '2013-12-19'
+  time: '19:00'
+  band_name: Twinkle-Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40099
+  date: '2013-12-21'
+  time: '19:00'
+  band_name: Myrna Clayton
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40100
+  date: '2013-12-21'
+  time: '22:00'
+  band_name: Живые голоса
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40101
+  date: '2013-12-27'
+  time: '19:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40078
+  date: '2013-12-06'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40152
+  date: '2013-11-24'
+  time: '19:00'
+  band_name: Концерт-милонга
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40153
+  date: '2013-12-01'
+  time: '22:00'
+  band_name: Проект "В объятиях танго"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40154
+  date: '2013-12-15'
+  time: '22:00'
+  band_name: Проект "В объятиях танго"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40258
+  date: '2013-12-05'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40259
+  date: '2013-12-07'
+  time: '22:00'
+  band_name: Изумруд и…
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40261
+  date: '2013-12-13'
+  time: '19:00'
+  band_name: Джаз, проверенный временем…
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40262
+  date: '2013-12-18'
+  time: '22:30'
+  band_name: D#EZ feat. Boris Plotnikov Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40264
+  date: '2013-12-22'
+  time: '19:00'
+  band_name: Scotch ‘n’ Beer Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40265
+  date: '2013-12-24'
+  time: '20:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40266
+  date: '2013-12-25'
+  time: '19:00'
+  band_name: James Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40267
+  date: '2013-12-25'
+  time: '22:00'
+  band_name: Dixie-Light Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40268
+  date: '2013-12-27'
+  time: '22:00'
+  band_name: Тина Ли
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40269
+  date: '2013-12-29'
+  time: '20:00'
+  band_name: Flos Florum
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40260
+  date: '2013-12-12'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40263
+  date: '2013-12-19'
+  time: '22:00'
+  band_name: Let's ДуЭт
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40588
+  date: '2013-12-20'
+  time: '19:00'
+  band_name: Джаз, проверенный временем...
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40589
+  date: '2013-12-31'
+  time: '22:00'
+  band_name: Новый год с Биг-бэндом
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 40857
+  date: '2013-12-26'
+  time: '19:00'
+  band_name: Дуэт "Соловей"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz

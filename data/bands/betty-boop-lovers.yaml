@@ -1,0 +1,69 @@
+id: 276
+token: betty-boop-lovers
+name: Betty Boop Lovers
+alive: true
+url: http://www.bettylovers.ru
+city_id: 1
+genre_id: 9
+secondary_genre_id: 18
+musicians:
+- name: Владимир Гончаров
+  instruments: гитара, вокал
+- name: Евгений Ломакин
+  instruments: ударные, вокал
+- name: Дмитрий Корн
+  instruments: контрабас
+- name: Кирилл Демахин
+  instruments: тенор-саксофон
+- name: Александр Науменко
+  instruments: труба
+clips:
+- id: 906
+  type: youtube
+  url: http://www.youtube.com/?v=IkLF95hsSwk
+  name: Betty Boop Lovers - Pinstripe Suit
+  sort_order: 299
+- id: 904
+  type: youtube
+  url: http://www.youtube.com/?v=4kduyG_FIMo
+  name: Betty Boop Lovers - I'm Not Sleeping
+  sort_order: 99
+- id: 905
+  type: youtube
+  url: http://www.youtube.com/?v=-Di8CYqPZxI
+  name: Betty Boop Lovers - Happy Baby
+  sort_order: 199
+- id: 907
+  type: weblink
+  url: http://www.bettylovers.ru
+  name: Официальный сайт
+  sort_order: 99
+reviews:
+- id: 46
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Новое имя на профессиональной московской клубной сцене. Состав был создан
+    в 2008. Несмотря на то, что состав существует недавно, он состоит из музыкантов
+    с колоссальным опытом концертных выступлений, изысканным вкусом исполнительского
+    мастерства, подчеркнуто-педантичным отношением к собственному имиджу.
+
+
+    Избрав за эталон стиль исполнения и экспрессию лучших джазовых биг-бэндов 40-50
+    х. годов и ранних исполнителей рокабилли и рок-н-ролла, новый коллектив заявил
+    о себе как лучший в России джайв-оркестр.
+
+
+    Также "Betty Boop Lovers" являются организаторами самой популярной в Москве танцевальной
+    вечеринки, которая проходит каждый вторник в старейшем московском джаз клубе "Синяя
+    птица". В настоящее время "Betty Boop Lovers" усердно трудятся над своей первой
+    пластинкой, выпуск которой планируется в 2009 году.
+
+
+    Выступление "Betty Boop Lovers" - это всегда событие. Коллектив буквально потрясает
+    публику нескончаемой энергией и обаянием, а мастерство музыкантов раскрывается
+    с каждым концертом, завоевывая сердца не только любителей джайва и буги-вуги,
+    но и "неискушенной свингом" аудитории.'
+  verified: true
+  created: '2010-10-02'
+  is_press_release: true

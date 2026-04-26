@@ -1,0 +1,28 @@
+id: 523
+token: eve-cornelious
+name: Ив Корнелиус (Eve Cornelious)
+alive: true
+genre_id: 2
+musicians:
+- name: Ив Корнелиус
+  instruments: вокал
+clips:
+- id: 2412
+  type: photo
+  url: eve-cornelious.jpg
+  sort_order: 0
+  width: 200
+  height: 135
+reviews:
+- id: 186
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '"Голосу Ив присущи красивые, плавные переливы и чувство юмора, которые порой
+    глубоко трогают слушателя. Она искусно свингует и никогда не злоупотребляет техникой
+    скэта. Ив очень осторожно обращается с музыкальным материалом, не торопя лирическую
+    часть, позволяя мелодии литься, прекрасно ощущая всю композицию в целом." - джаз
+    критик Jazz Times.'
+  verified: true
+  created: '2011-08-11'
+  is_press_release: true

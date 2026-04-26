@@ -1,0 +1,18 @@
+id: 415
+token: barak-o-mama
+name: Barak O'Mama
+alive: true
+address: Проспект Революции, 35
+phone: (473) 255-00-99
+city_id: 7
+clips:
+- id: 1866
+  type: weblink
+  url: http://barakomama.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1865
+  type: weblink
+  url: http://vk.com/club5169624
+  name: Страница ВКонтакте
+  sort_order: 99

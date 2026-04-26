@@ -1,0 +1,17 @@
+id: 196
+token: africa
+name: Африка
+alive: true
+address: наб. Фонтанки, 130
+subway: Технологический институт
+city_id: 2
+clips:
+- id: 209
+  type: weblink
+  url: http://www.art-afrika.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 210
+  type: rss
+  url: http://community.livejournal.com/art_kafe_afrika/data/rss
+  sort_order: 99

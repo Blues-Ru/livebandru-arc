@@ -1,0 +1,13 @@
+id: 179
+token: rock-machine
+name: Rock Machine
+alive: true
+url: http://www.rock-machine.ru
+city_id: 1
+genre_id: 3
+clips:
+- id: 406
+  type: weblink
+  url: http://www.rock-machine.ru
+  name: Официальный сайт
+  sort_order: 0

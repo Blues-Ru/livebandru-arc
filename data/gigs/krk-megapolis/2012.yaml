@@ -1,0 +1,16 @@
+- id: 24876
+  date: '2012-02-09'
+  time: '19:00'
+  band_name: Гастарбайтер блюз, Дежа Вю, Just Like Haven
+  club_id: 558
+  club_name: КРК Мегаполис
+  club_token: krk-megapolis
+  price: 200 руб.
+  comments: Благотворительный концерт в помощь детям с онкологическими заболеваниями
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+  - id: 418
+    name: Дежа Вю
+    token: deja-vu

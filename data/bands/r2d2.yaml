@@ -1,0 +1,25 @@
+id: 593
+token: r2d2
+name: R.2.D.2.
+alive: true
+city_id: 54
+genre_id: 3
+musicians:
+- name: Мария Сидоренко
+  instruments: вокал
+- name: Алексей Шептухин
+  instruments: гитара
+- name: Алексей Кузнецов
+  instruments: бас
+- name: Кирилл Кирюхин
+  instruments: ударные
+clips:
+- id: 3475
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 3474
+  type: weblink
+  url: http://vk.com/club13295968
+  name: Страница ВКонтакте
+  sort_order: 99

@@ -1,0 +1,15 @@
+id: 346
+token: drednout
+name: Гарцующий Дредноут
+aliases: Клуб-кафе "Гарцующий Дредноут"
+alive: true
+address: Арбат, 22
+subway: Арбатская
+phone: (499) 252-88-33
+city_id: 1
+clips:
+- id: 1314
+  type: weblink
+  url: http://www.drednout.me
+  name: Официальный сайт
+  sort_order: 99

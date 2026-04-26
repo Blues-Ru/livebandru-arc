@@ -1,0 +1,20 @@
+id: 261
+token: pistols
+name: Pistols
+alive: true
+address: Союза Республик, 44а
+phone: (3852) 35-95-95
+city_id: 40
+comments: Развлекательный комплекс "Зенит"
+clips:
+- id: 614
+  type: photo
+  url: pistols.png
+  sort_order: 0
+  width: 170
+  height: 173
+- id: 613
+  type: weblink
+  url: http://kabakpistols.ru/
+  name: Официальный сайт
+  sort_order: 99

@@ -1,0 +1,339 @@
+- id: 41355
+  date: '2014-01-10'
+  time: '22:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+- id: 42942
+  date: '2014-03-26'
+  time: '20:00'
+  band_name: 'Среда Джаза: Неправильные Пчелы, Kate & Friends, Liola''s Band'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  comments: Фестиваль "Среда Джаза" - территория, где обитают такие разные направления
+    джазовой музыки, как свинг, бибоп, босса-нова и фанк
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+  - id: 637
+    name: Kate & Friends
+    token: ekaterina-ramzhaeva
+- id: 43036
+  date: '2014-04-04'
+  time: '20:00'
+  band_name: Hot Club de Berne (Швейцария)
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 43026
+  date: '2014-04-17'
+  time: '21:00'
+  band_name: Hugues Vincent, Goat's Notes Quartet
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 500 руб.
+  comments: "HUGUES VINCENT & Goat's Notes Quartet\r\n\r\nЮг Вансан (Hugues Vincent)\
+    \ - французский виолончелист-импровизатор, яркий представитель европейского андерграунда.\
+    \ Его небезосновательно сравнивают со знаменитым Томом Корой (Tom Cora) - небезынтересно,\
+    \ что Юг сотрудничал с музыкантами группы The Ex, с которой Том записал 2 альбома\
+    \ в начале 90-х. Вансан обладает собственной неподражаемой манерой и уникальным\
+    \ звуком. Его виолончель то поет, то воет, то скрипит и скрежещет. Игра Юга -\
+    \ это концентрированная эмоция, дышащая страстью и бешеным внутренним ритмом.\
+    \ При этом он порой оказывается необычайно тонок и вдумчив - как, например, в\
+    \ своих работах с танцевальными импровизаторами. Звуки его препарированного инструмента\
+    \ - особенно в сочетании с электроникой - словно мазки художника, его музыка сродни\
+    \ шедеврам абстрактной живописи.\r\nУдивительно разносторонний и интересующийся\
+    \ музыкант, Юг Вансан живет между Парижем и Берлином, между Японией и Марокко,\
+    \ Бельгией и Тайванем, выступая сольно как виолончелист, электронщик и object\
+    \ manipulator, играя в ска-группах и авант-роковых коллективах - в том числе и\
+    \ в качестве гитариста. На протяжении своей карьеры Вансан участвовал в проектах\
+    \ с Joelle Leandre, Otomo Yoshihide, David S Ware, выступал с Vincent Courtois,\
+    \  Jean Francois Pauvros, Luc Ex, Makoto Sato. Он постоянный участник авангардного\
+    \ дуэта Bobun и авант-ска группы \"Le pelican frise\". Большую долю творчества\
+    \ Юга занимает сотрудничество с исполнителями современного танца - это удивительные\
+    \ по красоте и глубине перформансы. \r\nЮг Вансан даст в Москве два абсолютно\
+    \ непохожих концерта, давая возможность ощутить разнообразие его талантов.\r\n\
+    17 апреля в Китайском Летчике Джао-Да Вансан предстанет в компании музыкантов\
+    \ Goat's Notes - непредсказуемого и энергичного московского коллектива свободной\
+    \ импровизации. Вас ждет бесшабашное струнное трио с участием Марии Логофет (скрипка)\
+    \ и Владимира Кудрявцева (контрабас), живущего последние годы в Париже, и в Москве\
+    \ появляющегося пару раз в год. Присоединятся к ним Григорий Сандомирский (клавишные)\
+    \ и Петр Талалай (барабаны)"
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 43414
+  date: '2014-04-18'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+- id: 43489
+  date: '2014-04-23'
+  time: '20:00'
+  band_name: 'Среда Джаза: Catherine''s Project, Неправильные Пчелы, Bukanero'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  extra_bands:
+  - id: 571
+    name: Catherine's project
+    token: catherines-project
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 43620
+  date: '2014-05-17'
+  time: '23:00'
+  band_id: 354
+  band_name: Карл Хламкин и ОгнеОпаснОркестр
+  band_token: hlamkin
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 400 руб.
+- id: 43621
+  date: '2014-05-19'
+  time: '22:00'
+  band_name: The Geordie Approach (Норвегия - Великобритания)
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 500 руб.
+- id: 43622
+  date: '2014-05-20'
+  time: '22:00'
+  band_id: 571
+  band_name: Catherine's project
+  band_token: catherines-project
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 43623
+  date: '2014-05-28'
+  time: '20:00'
+  band_name: Среда джаза
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+- id: 44207
+  date: '2014-05-28'
+  time: '20:00'
+  band_name: 'Среда Джаза: C-Jam Club, Неправильные Пчелы, Сто Ватт'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  comments: '"Среда Джаза" - территория, где обитают такие разные направления джазовой
+    музыки, как свинг, бибоп, босса-нова и фанк'
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 44365
+  date: '2014-06-03'
+  time: '20:00'
+  band_name: 'Музыкальная гостиная Анатолия Герасимова: Антон Буканов (фортепиано)'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 44366
+  date: '2014-06-10'
+  time: '20:00'
+  band_name: 'Музыкальная гостиная Анатолия Герасимова: Антон Буканов (фортепиано)'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 44367
+  date: '2014-06-17'
+  time: '20:00'
+  band_name: 'Музыкальная гостиная Анатолия Герасимова: Антон Буканов (фортепиано)'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 44368
+  date: '2014-06-24'
+  time: '20:00'
+  band_name: 'Музыкальная гостиная Анатолия Герасимова: Антон Буканов (фортепиано)'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 45475
+  date: '2014-08-05'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 45476
+  date: '2014-08-12'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 45822
+  date: '2014-08-07'
+  time: '21:00'
+  band_name: Jon Amor, special guest with Jumping Cats
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 671
+    name: Jon Amor
+    token: jon-amor
+- id: 45983
+  date: '2014-08-28'
+  time: '20:00'
+  band_name: Danny Giles - solo acoustic blues (Special guest - Hovik Gulishian)
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 600/800
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+  - id: 650
+    name: Danny Giles
+    token: danny-giles
+- id: 46210
+  date: '2014-08-30'
+  time: '22:00'
+  band_name: Foxy Jazz
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 46212
+  date: '2014-09-17'
+  time: '21:00'
+  band_name: Евгения Малахова & Сергей Загребнев и Vetok.net Jazz Quartet
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300/400 руб.
+- id: 46211
+  date: '2014-09-10'
+  time: '21:00'
+  band_name: 'Среда Джаза: Неправильные Пчелы, Layna Shery'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 46556
+  date: '2014-10-05'
+  time: '21:00'
+  band_id: 695
+  band_name: Ионов Band
+  band_token: ionovband
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  comments: Ионов Band - это шесть развеселых ковбоев. В их музыке мирно уживаются
+    зайдеко, блюз и рок-н-ролл. А классический блюзовый состав украсили аккордеон,
+    саксофон, балалайка и стиральная доска. На концертах этого компактного оркестра
+    всегда много позитива, разухабистых ритмов и танцев до упада.
+- id: 46662
+  date: '2014-10-07'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 46663
+  date: '2014-10-14'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 46664
+  date: '2014-10-21'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 46665
+  date: '2014-10-28'
+  time: '20:00'
+  band_name: Музыкальная гостиная Анатолия Герасимова
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: бесплатный
+- id: 46666
+  date: '2014-10-22'
+  time: '20:00'
+  band_name: Фестиваль "Среда Джаз"
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+- id: 47208
+  date: '2014-10-22'
+  time: '19:30'
+  band_name: 'Среда Джаза: Черный Хлеб и д-р Аграновский, Неправильные Пчелы, Heavy
+    Lime'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  extra_bands:
+  - id: 697
+    name: Heavy Lime
+    token: heavy-lime
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+- id: 47970
+  date: '2014-11-25'
+  time: '20:00'
+  band_name: 'Фестиваль Среда Джаза: Неправильные Пчелы, Smitanaband'
+  club_id: 23
+  club_name: Китайский летчик Джао Да
+  club_token: jao-da
+  price: 300 руб.
+  comments: День фанка
+  extra_bands:
+  - id: 540
+    name: Неправильные Пчелы
+    token: wrong-bees
+  - id: 261
+    name: Smitanaband
+    token: smitana-band

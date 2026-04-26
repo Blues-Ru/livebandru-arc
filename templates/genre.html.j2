@@ -1,0 +1,25 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ genre.name }} — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+{% if top_bands %}
+<h4 class="und">Группы</h4>
+<table class="wide">
+  <thead><tr><th>Группа</th><th style="width:4em;">Концерты</th></tr></thead>
+  <tbody>
+    {% for b in top_bands %}
+    <tr class="{{ 'odd' if loop.index is odd else 'even' }}">
+      <td><a href="/band/{{ b.token }}/">{{ b.name }}</a></td>
+      <td style="width:4em;" align="right"><span class="aux">{{ b.gig_count or '' }}</span></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% if has_all_bands %}
+<p class="more"><a class="more" href="{{ all_bands_url }}">Все группы жанра...</a></p>
+{% endif %}
+{% else %}
+<p class="main">Группы этого жанра не зарегистрированы.</p>
+{% endif %}
+{% endblock %}

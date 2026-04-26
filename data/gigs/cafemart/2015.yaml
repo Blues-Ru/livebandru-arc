@@ -1,0 +1,89 @@
+- id: 49299
+  date: '2015-02-05'
+  time: '21:00'
+  band_name: Moscow Composers Ensemble c программой "MC:E2" к 30-летию Оркестра Московских
+    Композиторов
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  price: 400 руб.
+- id: 49300
+  date: '2015-01-29'
+  time: '21:00'
+  band_name: Юлия Алимова и Jazz Forever Band
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 49301
+  date: '2015-02-12'
+  time: '21:00'
+  band_name: Ксения Рубан и Ruban's Band
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 49302
+  date: '2015-02-19'
+  time: '21:00'
+  band_name: Classy Jazz
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 49303
+  date: '2015-02-26'
+  time: '21:00'
+  band_name: Шметтерлинг
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 49710
+  date: '2015-02-13'
+  time: '20:30'
+  band_id: 704
+  band_name: Block[BASS]ter
+  band_token: block-bass-ter
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  price: 400 р. (предпр.)/500 р.
+- id: 50952
+  date: '2015-04-23'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 51298
+  date: '2015-05-21'
+  time: '21:00'
+  band_name: Федоров и Крузенштерн. Презентция альбома "Взрыв цветов"
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 52204
+  date: '2015-07-03'
+  time: '20:30'
+  band_name: Леонид Федоров (АукцЫон) и Владимир Волков
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  extra_bands:
+  - id: 152
+    name: Аукцыон
+    token: auktyon
+- id: 54370
+  date: '2015-10-16'
+  time: '20:30'
+  band_name: Леонид Федоров и Владимир Волков
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+- id: 55154
+  date: '2015-12-11'
+  time: '20:30'
+  band_name: Вежливый Отказ
+  club_id: 486
+  club_name: Кафе Март
+  club_token: cafemart
+  price: 1000-1200 руб.

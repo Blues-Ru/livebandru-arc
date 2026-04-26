@@ -1,0 +1,15 @@
+id: 334
+token: sepia-pub
+name: Паб Сепия
+aliases: Sepia Pub
+alive: true
+address: Петра Сагайдачного, 8/10
+subway: Почтовая Площадь
+phone: (044) 425-45-35
+city_id: 16
+comments: Подол
+clips:
+- id: 1223
+  type: rss
+  url: http://community.livejournal.com/sepiapub/data/rss
+  sort_order: 99

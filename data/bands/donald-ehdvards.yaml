@@ -1,0 +1,29 @@
+id: 534
+token: donald-ehdvards
+name: Дональд Эдвардс
+alive: true
+genre_id: 2
+musicians:
+- name: Дональд Эдвардс
+  instruments: ударные
+clips:
+- id: 2491
+  type: photo
+  url: donald-ehdvards.jpg
+  sort_order: 0
+  width: 213
+  height: 294
+reviews:
+- id: 202
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Барабанщик Дональд Эдвардс, постоянный участник мемориального оркестра легендарного
+    контрабасиста Чарли Мингуса Mingus Big Band и Mingus Dynasty, не раз выступал
+    в составе квартета Ивана Фармаковского. Музыканты сотрудничают с 2008 года - именно
+    тогда они впервые сыграли вместе на сцене известного нью-йоркского клуба Iridium.
+    Когда возник вопрос о записи второго альбома Ивана Фармаковского "The Way Home",
+    место барабанщика без обсуждений было отдано Дональду Эдвардсу.
+  verified: true
+  created: '2011-08-31'
+  is_press_release: true

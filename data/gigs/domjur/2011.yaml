@@ -1,0 +1,52 @@
+- id: 19413
+  date: '2011-05-24'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 300 руб.
+- id: 23191
+  date: '2011-11-24'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  price: 300 руб.
+- id: 22087
+  date: '2011-10-26'
+  time: '20:00'
+  band_id: 450
+  band_name: Большой Джазовый Оркестр п/у Петра Востокова
+  band_token: bdo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+- id: 22476
+  date: '2011-10-28'
+  time: '20:00'
+  band_id: 548
+  band_name: Shoo
+  band_token: shoo
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  comments: Дебютный концерт-визуализация и презентация сингла "Я вернусь".
+- id: 23326
+  date: '2011-12-10'
+  time: '19:30'
+  band_name: '17-й Международный фестиваль вокального джаза "Джазовые голоса": Марине
+    Григорян и квартет The Moscow Jazz Passengers, Иветта Уусталу и Тынис Тююр, Эра
+    Канн и Crazy Band'
+  club_id: 457
+  club_name: Центральный Дом журналиста
+  club_token: domjur
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev

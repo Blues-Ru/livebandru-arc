@@ -1,0 +1,88 @@
+- id: 56196
+  date: '2016-01-16'
+  time: '19:00'
+  band_name: Jam session
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 56197
+  date: '2016-01-23'
+  time: '19:00'
+  band_name: 'Дуэт "Protons": Игорь Горьковой (клавишные, вокал, аранжировки), Татьяна
+    Попова (вокал, перкуссия). Специальный гость - Леонид Минин (бас)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 56198
+  date: '2016-01-30'
+  time: '19:00'
+  band_name: Аrkhangelsr Jazz Friends
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 58920
+  date: '2016-06-01'
+  time: '19:00'
+  band_name: 'XI Arkhangelsk Blues Festival: We''Re Welcome (Северодвинск - Архангельск);
+    Freeky Cleen (Украина - Россия); Wolf Mail (гитара, вокал - Канада) & Blues Band
+    (Архангельск)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 516
+    name: Freeky Cleen
+    token: freeky-cleen
+  - id: 120
+    name: Wolf Mail
+    token: wolf-mail
+- id: 58921
+  date: '2016-06-02'
+  time: '19:00'
+  band_name: 'XI Arkhangelsk Blues Festival: Easp (Архангельск); Average Blues Band
+    (Санкт-Петербург); Arh.Blues Band (Архангельск) - Константин Седовин (вокал)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 229
+    name: Average Blues Band
+    token: average-bb
+- id: 59677
+  date: '2016-07-16'
+  time: '18:00'
+  band_name: Ансамбль Игоря Горькового и Виктор Хабаров (саксофон) с программой "What
+    Is Funk"
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 59678
+  date: '2016-07-23'
+  time: '18:00'
+  band_name: Джем - сейшен архангельских музыкантов
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 59679
+  date: '2016-07-30'
+  time: '18:00'
+  band_name: Ансамбль Ильи Федотова с программой "Tribute Jimi Hendrix"
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 59675
+  date: '2016-07-02'
+  time: '18:00'
+  band_name: Арт-ансамбль (Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Тим Дорофеев - гитара; Екатерина Зорина - вокал; Олег Юданов - барабаны;
+    Константин Седовин - вокал, флейта; Георгий Стрелков - бас
+- id: 59676
+  date: '2016-07-09'
+  time: '18:00'
+  band_name: Елена Сафонова (вокал, клавишные - Англия) & band (Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29

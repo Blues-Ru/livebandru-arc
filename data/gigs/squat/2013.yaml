@@ -1,0 +1,125 @@
+- id: 33105
+  date: '2013-01-10'
+  time: '21:00'
+  band_name: Heavy Lime
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: бесплатный
+- id: 33106
+  date: '2013-01-24'
+  time: '21:00'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: 300 руб.
+- id: 33107
+  date: '2013-01-26'
+  time: '21:00'
+  band_name: Foxy Jazz
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: 350 руб.
+- id: 33506
+  date: '2013-01-31'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 34119
+  date: '2013-02-20'
+  time: '21:00'
+  band_name: Open Jam с Анной Бутурлиной
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 34089
+  date: '2013-02-27'
+  time: '21:00'
+  band_name: Open Jam с Ольгой Олейниковой
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: бесплатный
+- id: 34090
+  date: '2013-02-28'
+  time: '21:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 34091
+  date: '2013-03-16'
+  time: '21:00'
+  band_name: Foxy Jazz
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: 350 руб.
+- id: 34092
+  date: '2013-03-29'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 34965
+  date: '2013-03-27'
+  time: '21:00'
+  band_name: Open Jam
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 34966
+  date: '2013-03-20'
+  time: '21:00'
+  band_name: 'Open Jam: Юлия Алимова'
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+- id: 35929
+  date: '2013-05-01'
+  time: '21:00'
+  band_name: Первомайский Open Jam
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: бесплатный
+- id: 35930
+  date: '2013-05-15'
+  time: '21:00'
+  band_name: 'Open Jam: Николай Массальский'
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: бесплатный
+- id: 35931
+  date: '2013-05-22'
+  time: '21:00'
+  band_name: Open Jam
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  price: бесплатный
+- id: 35932
+  date: '2013-05-29'
+  time: '21:00'
+  band_name: 'Open Jam: RawCats''88'
+  club_id: 319
+  club_name: Squat Cafe
+  club_token: squat
+  extra_bands:
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88

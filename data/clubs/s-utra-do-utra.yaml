@@ -1,0 +1,21 @@
+id: 482
+token: s-utra-do-utra
+name: Арт-кафе "С утра до утра"
+alive: true
+address: Тверская, 12, стр. 8
+subway: Чеховская
+phone: (495) 694-0229, +7-967-182-4342
+city_id: 1
+comments: Вход с Козицкого переулка
+clips:
+- id: 2368
+  type: weblink
+  url: http://www.sutracafe.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2369
+  type: photo
+  url: s-utra-do-utra.jpg
+  sort_order: 0
+  width: 447
+  height: 244

@@ -1,0 +1,55 @@
+id: 303
+token: blues-nephews
+name: The Blues Nephews
+alive: true
+city_id: 15
+genre_id: 1
+musicians:
+- name: Вета Козакова
+  instruments: вокал
+- name: Михаил Приз
+  instruments: гитара, вокал
+- name: Андрей Рахнин
+  instruments: губная гармоника
+clips:
+- id: 1075
+  type: photo
+  url: 1.jpg
+  name: Live @ Liverpool Club "From Chicago to Texas"
+  sort_order: 200
+  width: 604
+  height: 402
+- id: 1074
+  type: photo
+  url: 2.jpg
+  name: Арт-кафе Агата 09.09.2009
+  sort_order: 100
+  width: 604
+  height: 453
+- id: 1079
+  type: weblink
+  url: http://www.myspace.com/bluesnephews
+  name: Страница на MySpace
+  sort_order: 0
+- id: 1077
+  type: youtube
+  url: http://www.youtube.com/?v=evT8cVJ4H1Q
+  name: Can't Lose What You Never Had
+  comments: ''
+  sort_order: 199
+- id: 1078
+  type: weblink
+  url: http://vk.com/club4810471
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1076
+  type: youtube
+  url: http://www.youtube.com/?v=CmJ_zgzuH_4
+  name: Five Long Years
+  comments: ''
+  sort_order: 99
+- id: 1080
+  type: weblink
+  url: http://rosrock.ru/viewtopic.php?id=1042
+  name: страница из Российского Рок-форума
+  sort_order: 200

@@ -1,0 +1,59 @@
+id: 729
+token: beth-hart
+name: Beth Hart
+alive: true
+url: http://www.bethhart.com
+genre_id: 1
+secondary_genre_id: 3
+clips:
+- id: 8488
+  type: weblink
+  url: http://www.bethhart.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 8489
+  type: photo
+  url: beth-hart.jpg
+  sort_order: 0
+  width: 620
+  height: 413
+- id: 8490
+  type: youtube
+  url: https://www.youtube.com/watch?v=PMIZEol5Zkk
+  name: Beth Hart - Love Is A Lie (Official Music Video)
+  comments: Official music video for 'Love Is A Lie' from Beth Hart's new album "Fire
+    On The Floor"
+  sort_order: 0
+reviews:
+- id: 481
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Бут Харт, 1-2 августа 2017 в России
+  text: 'Бет Харт, американская богиня блюз-рока, номинированная на престижные премии
+    "Грэмми" и Blues Music Award, возвращается в Россию с новой программой "Fire On
+    The Floor".
+
+
+    "Fire On The Floor" вышел в октябре 2016 года, меньше, чем через два года после
+    предыдущего лонгплея Бет Харт "Better Than Home", который возглавил блюзовый чарт
+    iTunes и вошел в список лучших альбомов Billboard 200. Альбом оценили и поклонники
+    по всему миру, что позволило Бет выступить на таких легендарных площадках, как
+    лондонский Альберт Холл и Райман-Аудиториум в Нэшвилле, столице кантри.
+
+
+    "В это невозможно поверить", - говорит Бет. "В рамках нашего предыдущего тура
+    в США мы выступали на самых больших площадках в истории коллектива. И это были
+    солдауты".
+
+
+    Певица вернулась в студию всего через три недели после того, как завершила работу
+    над "Better Than Home". "Fire On The Floor" был записан всего за три дня, и вы
+    просто обязаны это услышать.
+
+
+    Концертная программа представит слушателям как старые любимые хиты певицы, так
+    и совершенно новые композиции. Let the fire on the dance floor!'
+  verified: true
+  created: '2017-07-18'
+  is_press_release: true

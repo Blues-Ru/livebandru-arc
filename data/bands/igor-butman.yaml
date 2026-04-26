@@ -1,0 +1,52 @@
+id: 141
+token: igor-butman
+name: Игорь Бутман
+aliases: 'Биг-бенд Игоря Бутмана
+
+  Биг-бэнд Игоря Бутмана
+
+  Джазовый оркестр Игоря Бутмана
+
+  Оркестр Игоря Бутмана
+
+  Московский джазовый оркестр п/у Игоря Бутмана
+
+  Игорь Бутман и Московский джазовый оркестр'
+alive: true
+url: http://www.igorbutman.com/
+city_id: 1
+genre_id: 2
+clips:
+- id: 167
+  type: weblink
+  url: http://www.igorbutman.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1491
+  type: photo
+  url: igor-butman.jpg
+  sort_order: 0
+  width: 665
+  height: 1000
+- id: 1495
+  type: weblink
+  url: http://www.facebook.com/people/Igor-Butman/100000526413874
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 1492
+  type: youtube
+  url: http://www.youtube.com/?v=4hK2MUffAWU
+  name: Ностальгия
+  sort_order: 99
+- id: 1493
+  type: youtube
+  url: http://www.youtube.com/?v=yJEU0S9WlHc
+  name: '"Some Skunk Funk", Igor Butman Big Band featuring Billy Cobham and Randy
+    Brecker'
+  comments: International festival "Triumph of Jazz", 2002, Moscow
+  sort_order: 199
+- id: 1496
+  type: weblink
+  url: http://www.myspace.com/butmanjazz
+  name: Страница на MySpace
+  sort_order: 200

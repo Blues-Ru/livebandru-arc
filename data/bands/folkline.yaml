@@ -1,0 +1,23 @@
+id: 580
+token: folkline
+name: Folkline
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Денис Назаров
+  instruments: вокал, гитара
+- name: Денис Шевченко
+  instruments: гитара, слайд-гитара
+- name: Михаил Данилов
+  instruments: перкуссия, варган, губная гармоника
+clips:
+- id: 3432
+  type: weblink
+  url: http://vk.com/public37390663
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 3433
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

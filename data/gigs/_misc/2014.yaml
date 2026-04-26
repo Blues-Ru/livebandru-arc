@@ -1,0 +1,1868 @@
+- id: 40777
+  date: '2014-01-25'
+  time: '20:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: Шоколадная фабрика, большой цех
+  city_id: 1
+  price: 350р
+- id: 40944
+  date: '2014-01-02'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT rock club
+  city_id: 17
+  price: бесплатный
+- id: 41001
+  date: '2014-01-04'
+  time: '18:00'
+  band_name: 'Фестиваль "Квартирники у Гороховского: 10 лет с вами": Александр Чернецкий
+    ("Разные Люди"), Инка "Ли" Лишенкевич, Саша Ветров, Анатолий Багрицкий, Антон
+    Духовской, Антон Спартаков, Дмитрий Максимачев, Александр Петерсон, Макс Иванов
+    ("Торба-на-круче"), "Ступени" и еще несколько любимых музыкантов'
+  club_name: Backstage
+  city_id: 2
+  price: 500-600 рублей
+- id: 41113
+  date: '2014-01-25'
+  time: '20:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Windsor Pub
+  city_id: 1
+  price: 250 руб.
+- id: 41116
+  date: '2014-02-22'
+  time: '21:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_name: Порт-Артур
+  city_id: 2
+- id: 41111
+  date: '2014-01-17'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Sadge-cafe
+  city_id: 1
+- id: 41393
+  date: '2014-02-20'
+  time: '20:00'
+  band_name: Cross B Band, Deluxe Blues Band
+  club_name: 7й Док Бульвар Шевченко 65
+  city_id: 70
+  extra_bands:
+  - id: 377
+    name: Deluxe Blues Band
+    token: deluxe-blues-band
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 41395
+  date: '2014-02-23'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Roxbury Б. Хмельницкого пр. 135 д
+  city_id: 86
+- id: 41426
+  date: '2014-01-25'
+  time: '21:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_name: Порт Артур
+  city_id: 2
+- id: 41392
+  date: '2014-02-13'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Арт-паб Бочка Верхний вал 22
+  city_id: 16
+- id: 41416
+  date: '2014-02-05'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club революционная, 9
+  city_id: 17
+- id: 42027
+  date: '2014-02-14'
+  time: '20:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: Усадьба FreeLabs
+  city_id: 1
+  price: 100р./час + Donations
+- id: 42120
+  date: '2014-02-12'
+  time: '20:00'
+  band_name: Умка & Броневик
+  club_name: Backstage
+  city_id: 2
+  price: от 400 рублей
+- id: 42128
+  date: '2014-04-10'
+  time: '20:00'
+  band_name: Фестиваль "Блюз Дельты Невы" - J.C. Smith и другие
+  club_name: Backstage
+  city_id: 2
+  price: от 500 рублей
+  extra_bands:
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith
+- id: 42151
+  date: '2014-02-14'
+  time: '18:30'
+  band_name: 'Free Jazz Festival "No Jazz No Love": Goat''s Notes, Бром, Godse'
+  club_name: Галерея "Пегас" на территории музея "Дом Бурганова"
+  city_id: 1
+  price: 300 руб.
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+- id: 42166
+  date: '2014-02-28'
+  time: '20:00'
+  band_id: 638
+  band_name: Som Band
+  band_token: som-band
+  club_name: Колизей(Воронеж)
+  city_id: 7
+  price: 150 руб.
+  comments: Как и было обещано, "Блюзовые Выходные" продолжаются! Приглашаем всех
+    провожать зиму и встречать весну в компании Som Band и Майла Band 28 февраля в
+    ночном клубе "Колизей"!
+- id: 42224
+  date: '2014-02-20'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack pub
+  city_id: 1
+  price: бесплатный
+- id: 42124
+  date: '2014-02-15'
+  time: '20:00'
+  band_name: Легион
+  club_name: Backstage
+  city_id: 2
+  price: от 450 рублей
+- id: 42125
+  date: '2014-02-22'
+  time: '20:00'
+  band_name: Ят-Ха
+  club_name: Backstage
+  city_id: 2
+  price: от 500 рублей
+- id: 42126
+  date: '2014-02-25'
+  time: '19:00'
+  band_name: Праздник Музыки The Beatles в День рождения Джорджа Харрисона
+  club_name: Backstage
+  city_id: 2
+  price: от 200 рублей
+- id: 42127
+  date: '2014-04-06'
+  time: '19:00'
+  band_name: Сергей Калугин (акустика)
+  club_name: Backstage
+  city_id: 2
+  price: от 500 рублей
+- id: 42129
+  date: '2014-04-12'
+  time: '18:00'
+  band_name: Маврин - Юбилейная программа "Запрещенная Реальность" и новые песни
+  club_name: Backstage
+  city_id: 2
+- id: 42130
+  date: '2014-04-18'
+  time: '20:00'
+  band_name: Abney Park (USA)
+  club_name: Backstage
+  city_id: 2
+  price: 900 рублей
+- id: 42308
+  date: '2014-03-29'
+  time: '21:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_name: Порт-Артур
+  city_id: 2
+- id: 42249
+  date: '2014-03-08'
+  time: '21:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_name: Рок паб
+  city_id: 1
+- id: 42299
+  date: '2014-03-01'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44
+  city_id: 1
+- id: 42443
+  date: '2014-03-22'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Клуб Рублев
+  city_id: 1
+  price: 300 руб.
+- id: 42604
+  date: '2014-03-05'
+  time: '20:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 43020
+  date: '2014-04-17'
+  time: '20:00'
+  band_name: Cross B Band, Гастарбайтер Блюз
+  club_name: Кафе Буфет Плеханова ул
+  city_id: 8
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 42761
+  date: '2014-03-13'
+  time: '21:00'
+  band_id: 134
+  band_name: Сабина Вартанова
+  band_token: sabina
+  club_name: Music Room
+  city_id: 1
+- id: 42762
+  date: '2014-03-28'
+  time: '22:00'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_name: Б2 (малый зал)
+  city_id: 1
+- id: 42771
+  date: '2014-03-19'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT rock club
+  city_id: 17
+  price: бесплатный
+- id: 42839
+  date: '2014-03-25'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 42835
+  date: '2014-03-20'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 42841
+  date: '2014-03-27'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 42830
+  date: '2014-03-22'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_name: Silver Rain
+  city_id: 64
+- id: 42855
+  date: '2014-04-24'
+  time: '19:00'
+  band_id: 684
+  band_name: Kamchatka
+  band_token: kamchatka
+  club_name: Volta
+  city_id: 1
+  price: 800 руб.
+  comments: "Шведское пауэр-трио KAMCHATKA на сегодняшний день является одной из самых\
+    \ интересных современных блюз-роковых команд старой школы. Музыка группы представляет\
+    \ собой сплав сочного психоделического тяжелого блюза времен Хендрикса и Cream\
+    \ со стоунер-роком от Kyuss и прогрессивом от King Crimson, записанный под впечатлением\
+    \ от суровой северной природы. \r\n\r\nРазнообразие жанров помогает Kamchatka\
+    \ создавать непохожие друг на друга альбомы и избегать самокопирования. На последней\
+    \ пластинке особенно заметен этот многостилистический микс, в котором каждый может\
+    \ найти что-то свое. Новый релиз, \"The Search Goes On\", был записан, по словам\
+    \ музыкантов, на одном дыхании. На альбоме много бородатого блюз-рока а-ля ZZ\
+    \ Top, тягучего стоунера, ярких риффов и, конечно же, свежих выразительных соло.\r\
+    \n\r\nНа российских концертах поклонники шведов смогут услышать не только композиции\
+    \ с нового альбома, но и лучшие песни Kamchatka. Любители тяжелого блюза и атмосферного\
+    \ психоделик-рока услышат и почувствуют все то, за что любят эту музыку."
+- id: 42854
+  date: '2014-04-02'
+  time: '21:00'
+  band_name: Cross B Band, Денис Балахонов, Erdemo (Россия, Турция)
+  club_name: Tnt rock club
+  city_id: 17
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 42856
+  date: '2014-04-25'
+  time: '19:00'
+  band_id: 684
+  band_name: Kamchatka
+  band_token: kamchatka
+  club_name: Backstage
+  city_id: 2
+  price: 600 руб.
+  comments: "Шведское пауэр-трио KAMCHATKA на сегодняшний день является одной из самых\
+    \ интересных современных блюз-роковых команд старой школы. Музыка группы представляет\
+    \ собой сплав сочного психоделического тяжелого блюза времен Хендрикса и Cream\
+    \ со стоунер-роком от Kyuss и прогрессивом от King Crimson, записанный под впечатлением\
+    \ от суровой северной природы. \r\n\r\nРазнообразие жанров помогает Kamchatka\
+    \ создавать непохожие друг на друга альбомы и избегать самокопирования. На последней\
+    \ пластинке особенно заметен этот многостилистический микс, в котором каждый может\
+    \ найти что-то свое. Новый релиз, \"The Search Goes On\", был записан, по словам\
+    \ музыкантов, на одном дыхании. На альбоме много бородатого блюз-рока а-ля ZZ\
+    \ Top, тягучего стоунера, ярких риффов и, конечно же, свежих выразительных соло.\r\
+    \n\r\nНа российских концертах поклонники шведов смогут услышать не только композиции\
+    \ с нового альбома, но и лучшие песни Kamchatka. Любители тяжелого блюза и атмосферного\
+    \ психоделик-рока услышат и почувствуют все то, за что любят эту музыку."
+- id: 42931
+  date: '2014-03-23'
+  time: '19:00'
+  band_name: '"Чувство времени" Татианы Долгополовой'
+  club_name: КЗ "Святодуховский"
+  city_id: 2
+- id: 42936
+  date: '2014-03-29'
+  time: '19:00'
+  band_name: Александр Городницкий
+  club_name: Концертный зал у Финляндского вокзала
+  city_id: 2
+- id: 43022
+  date: '2014-04-19'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Арт Студия Абырвалг Воробьева ул. ,7А
+  city_id: 54
+- id: 43029
+  date: '2014-04-27'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: Молодежный Театр Эстрады
+  city_id: 17
+- id: 42957
+  date: '2014-04-19'
+  time: '20:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Океан
+  city_id: 1
+  price: 300 руб.
+- id: 42958
+  date: '2014-04-04'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: John Martin's Pub
+  city_id: 1
+  price: бесплатный
+  comments: Теплый ламповый негромкий концерт в великолепном бельгийском пабе на Мичуринском
+    проспекте
+- id: 42959
+  date: '2014-04-18'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: John Martin's Pub
+  city_id: 1
+  price: бесплатный
+  comments: Теплый ламповый негромкий концерт в великолепном бельгийском пабе на Мичуринском
+    проспекте
+- id: 43021
+  date: '2014-04-18'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: O'hara Ирландский паб  ул. Хользунова,121Г
+  city_id: 7
+- id: 43300
+  date: '2014-04-10'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_name: Океан
+  city_id: 1
+  price: бесплатный
+- id: 43431
+  date: '2014-04-26'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: British Queen
+  city_id: 1
+- id: 43417
+  date: '2014-05-21'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+- id: 43409
+  date: '2014-04-12'
+  time: '22:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Jack Lives Here
+  city_id: 1
+  comments: "12 апреля Mishouris Blues Band открывает Ночь Рок-н-ролла в недавно открывшемся\
+    \ баре Jack Lives Here на Садовой-Черногрязской, 10. Это новая музыкальная площадка\
+    \ столицы, объединяющая ценителей качественного звука, ароматного дыма первоклассных\
+    \ сигар, хорошего виски и приятной компании. \r\nМы сыграем двухчасовой ударный\
+    \ гиг с 22:00 до 00:00"
+- id: 43410
+  date: '2014-04-10'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Паб Вобла Янки купалы 25
+  city_id: 17
+  price: бесплатный
+- id: 43415
+  date: '2014-04-11'
+  time: '20:00'
+  band_id: 396
+  band_name: Джек Лондон Бэнд
+  band_token: jack-london
+  club_name: КиллФиш
+  city_id: 31
+- id: 43493
+  date: '2014-04-26'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Jack Lives Here
+  city_id: 1
+  price: бесплатный
+  comments: "\"Jack Lives Here\" - это новый круглосуточный бар и музыкальный клуб\
+    \ на Садовом Кольце с хорошим звуком, уютной атмосферой и, конечно, первоклассным\
+    \ виски! 26-го апреля приглашаем зажечь с нами танцпол под отличный блюз!\r\n\
+    контакты: Садовая-Черногрязская, 10 www.jackliveshere.net"
+- id: 43429
+  date: '2014-04-17'
+  time: '21:00'
+  band_name: PsycheDELTA Birthday Party
+  club_name: Pure Cafe
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+- id: 43515
+  date: '2014-04-25'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 43549
+  date: '2014-04-29'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 43558
+  date: '2014-05-02'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Британская королева
+  city_id: 1
+- id: 43562
+  date: '2014-05-24'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44
+  city_id: 1
+- id: 43556
+  date: '2014-04-30'
+  time: '19:00'
+  band_name: Дарья Гузеева читает в "Музыкальной среде"
+  club_name: ОКЦ "На Пушкинской"
+  city_id: 2
+- id: 43557
+  date: '2014-05-01'
+  time: '17:00'
+  band_name: '"Нет-нет да и Фест" (экс-"ДрФест"). , гр. "Станция Мир" и Вовка Кожекин
+    (Москва), Алексей Вдовин (Чехов- Москва), Александр Сомов (Москва), Александр
+    Щербина (Москва), Сергей Федоров (Электросталь, Москва), Сергей Труханов (Москва),
+    Михаил Башаков (Питер-Москва), Борис Плотников (Екатеринбург-Москва), проект Absinthe
+    (Москва)'
+  club_name: клуб "Веселый барин"
+  city_id: 2
+  price: 500 рублей
+  extra_bands:
+  - id: 28
+    name: Станция Мир
+    token: st-mir
+- id: 43836
+  date: '2014-05-17'
+  time: '13:00'
+  band_name: Фестиваль "Свинговый бум 2014"
+  club_name: Парк Фили
+  city_id: 1
+  comments: "The Full Moon Jazz Band (свинг), The Facepalmers (свинг), The Moscow\
+    \ Ragtime Band (диксиленд), The Savoy Tando Stompers (свинг), Бигбэнд п/у А.Аверкина\
+    \ (свинг); возможно участие: The Big City Jazz Band (свинг), The Dancing Moose\
+    \ Band (свинг), The Trad Jazz Band (диксиленд), Lex & Team (джайв), The Blues\
+    \ Party Orchestra (джайв/свинг/ритм-н-блюз), Пижоны (свинг/буги), \r\nHula Hoop\
+    \ (свинг/серф), Свадьба В Малиновке (фолк-свинг), П.Козлов и Alrigth Band (джайв/свинг)"
+- id: 44057
+  date: '2014-05-24'
+  time: '17:00'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_name: Архангельск-Блюз Фест
+  city_id: 51
+- id: 44063
+  date: '2014-05-14'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 44076
+  date: '2014-06-13'
+  time: '17:00'
+  band_id: 654
+  band_name: Ian Siegal
+  band_token: ian-siegal
+  club_name: Посольство Великобритании
+  city_id: 1
+- id: 44097
+  date: '2014-05-22'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 44101
+  date: '2014-06-13'
+  time: '20:00'
+  band_id: 654
+  band_name: Ian Siegal
+  band_token: ian-siegal
+  club_name: Jack Lives Here - Bar&Club
+  city_id: 1
+- id: 44181
+  date: '2014-06-14'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44
+  city_id: 1
+- id: 44182
+  date: '2014-06-12'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Горького)
+  city_id: 1
+- id: 44054
+  date: '2014-05-10'
+  time: '21:00'
+  band_id: 650
+  band_name: Danny Giles
+  band_token: danny-giles
+  club_name: Порт-Артуръ
+  city_id: 2
+- id: 44081
+  date: '2014-05-15'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Pub
+  city_id: 1
+  price: бесплатный
+- id: 44086
+  date: '2014-05-20'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44088
+  date: '2014-05-22'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Pub
+  city_id: 1
+  price: бесплатный
+- id: 44091
+  date: '2014-05-27'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44093
+  date: '2014-05-29'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Pub
+  city_id: 1
+  price: бесплатный
+- id: 44211
+  date: '2014-06-28'
+  time: '17:00'
+  band_id: 669
+  band_name: Gwyn Ashton
+  band_token: gwyn-ashton
+  club_name: Suzdal Festival
+  city_id: 3
+- id: 44173
+  date: '2014-05-23'
+  time: '19:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: '''Колизей"'
+  city_id: 7
+  price: 200 руб.
+  comments: "Рады сообщить, что 23 мая к нам приезжает замечательная группа из Липецка\
+    \ - Гастарбайтер Блюз!\r\nhttp://vk.com/club4416354\r\n\r\nБудет море высокоэнергетического\
+    \ блюза, в котором сочетаются воедино авторские аранжировки с отголосками классического\
+    \ чикагского стиля!"
+- id: 44185
+  date: '2014-06-21'
+  time: '20:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Бар Borodach
+  city_id: 1
+  price: 300 руб.
+- id: 44180
+  date: '2014-05-23'
+  time: '23:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Мото-бар Дом
+  city_id: 1
+- id: 44186
+  date: '2014-06-19'
+  time: '20:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: Ресторан Чайковский
+  city_id: 1
+  price: свободный
+- id: 44189
+  date: '2014-06-03'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44191
+  date: '2014-06-05'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 44199
+  date: '2014-06-10'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44200
+  date: '2014-06-17'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44201
+  date: '2014-06-26'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 44205
+  date: '2014-06-12'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 44206
+  date: '2014-06-19'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 44353
+  date: '2014-06-11'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44356
+  date: '2014-06-04'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Сокольники)
+  city_id: 1
+- id: 45544
+  date: '2014-08-07'
+  time: '19:45'
+  band_name: Оргия праведников
+  club_name: Площадь Островского
+  city_id: 2
+  price: без билетов
+- id: 45558
+  date: '2014-08-01'
+  time: '21:00'
+  band_name: Roadhouse Night - долгожданная вечеринка "Дома у Дороги" в ожидании нового
+    помещения. Весь вечер на сцене музыканты Mishouris Blues Band, а также Джулиана
+    Стрейнджлав, Ольга Лисикова, Юрий Каверкин и другие
+  club_name: Pure Cafe
+  city_id: 1
+  price: pay what you want
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 44357
+  date: '2014-06-07'
+  time: '19:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Сад Баумана)
+  city_id: 1
+- id: 44551
+  date: '2014-06-27'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Pure cafe/Пюре кафе
+  city_id: 1
+- id: 44546
+  date: '2014-06-22'
+  time: '19:00'
+  band_name: '"Оргия праведников" (электричество)'
+  club_name: Backstage
+  city_id: 2
+  price: От 500 рублей
+- id: 44547
+  date: '2014-06-23'
+  time: '19:00'
+  band_name: '"Оргия праведников" (акустика)'
+  club_name: Backstage
+  city_id: 2
+  price: От 400 рублей
+- id: 44595
+  date: '2014-06-28'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni
+  city_id: 2
+  price: бесплатный
+- id: 44683
+  date: '2014-06-12'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: Муми кафе
+  city_id: 1
+- id: 44685
+  date: '2014-06-14'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_name: After7
+  city_id: 1
+- id: 44596
+  date: '2014-06-11'
+  time: '20:00'
+  band_name: Квартирники у Гороховского
+  club_name: Тимур Ведерников
+  city_id: 2
+- id: 44597
+  date: '2014-06-13'
+  time: '18:00'
+  band_name: Квартирник в Михайловском саду (фестиваль), , , Алина Симонова, Макс
+    Иванов (Торба-на-Круче) , Тимур Ведерников (Москва) , Александр Щербина (Москва)
+    , Алексей Чижик (вибрафон) , Александр Ветров
+  club_name: Михайловский дворец (Русский музей)
+  city_id: 2
+  price: От 50 до 425 рублей
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz
+- id: 44627
+  date: '2014-06-11'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 44628
+  date: '2014-06-20'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 44630
+  date: '2014-06-21'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 44765
+  date: '2014-06-02'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+- id: 44766
+  date: '2014-07-02'
+  time: '22:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+- id: 45169
+  date: '2014-07-03'
+  time: '21:00'
+  band_id: 656
+  band_name: Tom Attah
+  band_token: tom-attah
+  club_name: Dewar's PowerHouse
+  city_id: 1
+  price: 600 руб.
+- id: 45178
+  date: '2014-07-16'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 45236
+  date: '2014-08-02'
+  time: '23:30'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Hardy Bar
+  city_id: 36
+- id: 45161
+  date: '2014-07-11'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 45162
+  date: '2014-07-21'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Сокольники)
+  city_id: 1
+- id: 45163
+  date: '2014-07-18'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 45164
+  date: '2014-07-19'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Якиманка)
+  city_id: 1
+- id: 45165
+  date: '2014-07-24'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Горького)
+  city_id: 1
+- id: 45167
+  date: '2014-07-26'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Ордынка)
+  city_id: 1
+- id: 45168
+  date: '2014-07-31'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Горького)
+  city_id: 1
+- id: 45205
+  date: '2014-07-16'
+  time: '21:00'
+  band_name: блюз рок от The Road Dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 46049
+  date: '2014-08-23'
+  time: '20:00'
+  band_name: Mishouris Blues Band & Юрий Каверкин
+  club_name: Хот Хаус Club
+  city_id: 1
+  price: 500 руб.
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 45341
+  date: '2014-07-26'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_name: Муми кафе
+  city_id: 1
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 45342
+  date: '2014-07-26'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Ирландский Паб "Dublin"
+  city_id: 8
+- id: 45362
+  date: '2014-08-22'
+  time: '22:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 45364
+  date: '2014-08-01'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 45366
+  date: '2014-08-07'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Горького)
+  city_id: 1
+- id: 45369
+  date: '2014-08-29'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Якиманка)
+  city_id: 1
+- id: 45365
+  date: '2014-08-06'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Сокольники)
+  city_id: 1
+- id: 45368
+  date: '2014-08-28'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Ордынка)
+  city_id: 1
+- id: 45861
+  date: '2014-08-09'
+  time: '20:00'
+  band_id: 671
+  band_name: Jon Amor
+  band_token: jon-amor
+  club_name: Jimi Hendrix Blues Bar
+  city_id: 2
+- id: 45880
+  date: '2014-08-15'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Jack Lives Here bar&club
+  city_id: 1
+  price: 500 руб.
+- id: 45883
+  date: '2014-08-30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Международный фестиваль "Блюз Дельты Невы"
+  city_id: 2
+- id: 46348
+  date: '2014-09-24'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt Rock club
+  city_id: 17
+- id: 46055
+  date: '2014-09-19'
+  time: '18:30'
+  band_name: 'Leo Records Festival: дуэт Гебхард Ульманн - Алексей Круглов'
+  club_name: Кирха (Лютеранский храм святого Георга)
+  city_id: 12
+- id: 46056
+  date: '2014-09-18'
+  band_name: 'Leo Records Festival: дуэт Гебхард Ульманн - Алексей Круглов'
+  club_name: Блюз Хаус
+  city_id: 29
+- id: 46057
+  date: '2014-09-16'
+  band_name: 'Leo Records Festival: дуэт Гебхард Ульманн - Алексей Круглов'
+  club_name: Антикафе "Циферблат"
+  city_id: 11
+- id: 45985
+  date: '2014-08-30'
+  time: '17:00'
+  band_id: 650
+  band_name: Danny Giles
+  band_token: danny-giles
+  club_name: Rybinsk Jazz & Blues Festival
+  city_id: 114
+- id: 46092
+  date: '2014-08-27'
+  time: '21:00'
+  band_id: 638
+  band_name: Som Band
+  band_token: som-band
+  club_name: Bkwsk
+  city_id: 7
+  price: бесплатный
+- id: 46278
+  date: '2014-08-28'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46279
+  date: '2014-09-02'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Bud House
+  city_id: 1
+  price: бесплатный
+- id: 46281
+  date: '2014-09-04'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46292
+  date: '2014-09-04'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (Парк Горького)
+  city_id: 1
+- id: 46293
+  date: '2014-09-05'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Якиманка)
+  city_id: 1
+- id: 46294
+  date: '2014-09-14'
+  time: '17:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Меркато (парк Сокольники)
+  city_id: 1
+- id: 46295
+  date: '2014-09-12'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 46296
+  date: '2014-09-19'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 46298
+  date: '2014-09-26'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Ордынка)
+  city_id: 1
+- id: 46352
+  date: '2014-09-17'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+  comments: "TNT Rock Club\r\nhttp://tntrock.by/afisha/road-dogs-concert/\r\nАдрес:\
+    \ Революционная ул., Минск, Беларусь\r\nТелефон:+375 29 655-55-55\r\nВремя работы:\
+    \ Часы работы сегодня · 12:00-0:00"
+- id: 46359
+  date: '2014-09-11'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Серебряный дождь
+  city_id: 64
+- id: 46365
+  date: '2014-09-20'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_name: Кафе Подъезд
+  city_id: 1
+- id: 46345
+  date: '2014-09-04'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Hot House (Красные Ворота)
+  city_id: 1
+  price: 500 руб.
+  comments: "Первый осенний концерт в новом музыкальном клубе Хот Хаус на Садовой-Черногрязской,\
+    \ 10\r\nОтличный концертный звук, бар и танцпол, ну и, конечно, качественный чикагский\
+    \ блюз от команды Михаила Мишуриса."
+- id: 46350
+  date: '2014-09-26'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Ирландский паб Dublin Коммунальная, 9
+  city_id: 8
+- id: 46357
+  date: '2014-09-25'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_name: MezzoForte CLub Москва
+  city_id: 1
+- id: 46421
+  date: '2014-09-20'
+  time: '20:00'
+  band_id: 693
+  band_name: Whiskey Moon Face
+  band_token: whiskey-moon-face
+  club_name: МСДК
+  city_id: 1
+  price: 300 руб.
+- id: 46422
+  date: '2014-10-04'
+  time: '19:00'
+  band_id: 693
+  band_name: Whiskey Moon Face
+  band_token: whiskey-moon-face
+  club_name: Гиперион
+  city_id: 1
+  price: 400 руб.
+- id: 46436
+  date: '2014-09-20'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_name: Английский Паб Альбион Дурасовский переулок,7 (м. Курская)
+  city_id: 1
+  price: бесплатно
+- id: 46533
+  date: '2014-10-02'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46544
+  date: '2014-10-16'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46546
+  date: '2014-10-30'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46508
+  date: '2014-10-15'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 46525
+  date: '2014-09-26'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Пивной дом "Пожарский"
+  city_id: 8
+- id: 46529
+  date: '2014-09-25'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46543
+  date: '2014-10-09'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 46545
+  date: '2014-10-23'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack
+  city_id: 1
+  price: бесплатный
+- id: 47183
+  date: '2014-10-25'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack, Petrovka
+  city_id: 1
+  price: бесплатный
+- id: 47046
+  date: '2014-10-03'
+  time: '22:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Якиманка)
+  city_id: 1
+- id: 47051
+  date: '2014-10-24'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 47211
+  date: '2014-10-24'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+- id: 47047
+  date: '2014-10-04'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Папа Рома
+  city_id: 1
+- id: 47049
+  date: '2014-10-16'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 47050
+  date: '2014-10-18'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Папа Рома
+  city_id: 1
+- id: 47252
+  date: '2014-11-12'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 47253
+  date: '2014-11-30'
+  time: '20:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Jack club ул. Немига 12
+  city_id: 17
+- id: 47157
+  date: '2014-10-17'
+  time: '20:00'
+  band_name: 'Открытие нового сезона Kate & Friends с новой экстраординарной программой
+    в новом просторном месте FreeLabs. Адрес: м. Маяковская, Большая Садовая, д.10
+    (Дом Булгакова)'
+  club_name: Арт-центр FreeLabs
+  city_id: 1
+  price: 400 руб.
+  extra_bands:
+  - id: 637
+    name: Kate & Friends
+    token: ekaterina-ramzhaeva
+- id: 47160
+  date: '2014-10-17'
+  time: '21:00'
+  band_id: 688
+  band_name: Dani Wilde & Todd Sharpville
+  band_token: wilde-sharpville
+  club_name: Studio 21
+  city_id: 1
+  price: 1000 руб.
+- id: 47163
+  date: '2014-11-07'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: O'hara ул. Хользунова,121Г
+  city_id: 7
+- id: 47182
+  date: '2014-10-18'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack, Petrovka
+  city_id: 1
+  price: бесплатный
+- id: 47210
+  date: '2014-11-06'
+  time: '20:00'
+  band_name: Cross B Band, Гастарбайтер Блюз
+  club_name: Кафе буфет плеханова 61
+  city_id: 8
+  extra_bands:
+  - id: 411
+    name: Гастарбайтер Блюз
+    token: gastarbayter-blues
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 47239
+  date: '2014-11-02'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Концертный зал на Моховой
+  city_id: 1
+- id: 47240
+  date: '2014-10-22'
+  time: '19:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_name: Ивановская Филармония
+  city_id: 78
+  price: 300 руб.
+- id: 47353
+  date: '2014-11-08'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Заказ столиков: +7(812) 966-64-64\r\nАдрес: набережная Обводного канала,\
+    \ д.74 \r\n(Метро \"Фрунзенская\", \"Технологический Институт\", \"Обводный канал\"\
+    \ пешком 10-12 минут)"
+- id: 47344
+  date: '2014-11-03'
+  time: '19:00'
+  band_id: 698
+  band_name: Lazer Lloyd
+  band_token: lazer-lloyd
+  club_name: Brooklin club
+  city_id: 1
+  price: 1000 руб.
+  comments: "ТЕЛЕФОН ДЛЯ СПРАВОК: +7(926)360-63-08 СТ.М.БАРРИКАДНАЯ, КУДРИНСКАЯ ПЛОЩАДЬ\
+    \ Д.1.\r\nЛэйзер Ллойд в Москве! Приглашаю ВСЕХ посетить это событие уходящего\
+    \ 2014 года!"
+- id: 47330
+  date: '2014-11-01'
+  time: '22:00'
+  band_id: 698
+  band_name: Lazer Lloyd
+  band_token: lazer-lloyd
+  club_name: Red Stars Club
+  city_id: 1
+  price: от 1000 руб.
+- id: 47331
+  date: '2014-11-02'
+  time: '19:00'
+  band_id: 698
+  band_name: Lazer Lloyd
+  band_token: lazer-lloyd
+  club_name: Клуб 095
+  city_id: 1
+  price: от 600 руб.
+- id: 47350
+  date: '2014-10-30'
+  time: '20:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Кафе "Буфет"
+  city_id: 8
+- id: 47351
+  date: '2014-10-31'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Ирландский паб "Dublin"
+  city_id: 8
+- id: 47352
+  date: '2014-11-01'
+  time: '21:00'
+  band_id: 411
+  band_name: Гастарбайтер Блюз
+  band_token: gastarbayter-blues
+  club_name: Ирландский паб "Dublin"
+  city_id: 8
+- id: 47355
+  date: '2014-11-22'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Заказ столиков: +7(812) 966-64-64\r\nАдрес: набережная Обводного канала,\
+    \ д.74 \r\n(Метро \"Фрунзенская\", \"Технологический Институт\", \"Обводный канал\"\
+    \ пешком 10-12 минут)"
+- id: 47540
+  date: '2014-11-08'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 47539
+  date: '2014-11-01'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 47541
+  date: '2014-11-13'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 47542
+  date: '2014-11-22'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 47543
+  date: '2014-11-29'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 47838
+  date: '2014-11-09'
+  time: '19:00'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_name: КЗ Дружба
+  city_id: 128
+- id: 47842
+  date: '2014-11-16'
+  time: '20:00'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_name: Концертная студия "Серебряный дождь"
+  city_id: 64
+- id: 47843
+  date: '2014-11-19'
+  time: '20:00'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_name: Берлога
+  city_id: 129
+- id: 47844
+  date: '2014-11-20'
+  time: '20:00'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_name: Берлога
+  city_id: 66
+- id: 47923
+  date: '2014-11-19'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_name: club Forte
+  city_id: 1
+- id: 47862
+  date: '2014-11-22'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: John Martin's Pub
+  city_id: 1
+- id: 47972
+  date: '2014-11-29'
+  time: '19:30'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: Арт-Клуб Free Labs Большая Садовая, 10
+  city_id: 1
+  price: 300 руб.
+  comments: Презентация новой программы "Джазовое небо Бостона" (чай, кофе и сладости
+    wi-fi - бесплатно)
+- id: 47971
+  date: '2014-11-15'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Drunken Duck Pub
+  city_id: 1
+- id: 48637
+  date: '2014-12-24'
+  time: '20:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Drunken Duck Pub
+  city_id: 1
+- id: 47928
+  date: '2014-11-15'
+  time: '20:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_name: Бар 095
+  city_id: 1
+  price: бесплатный
+  comments: "Fly Mexican Airlines®\r\nАнглоязычная программа из песен собственного\
+    \ сочинения и кавер-версий на прекраснейшие рок композиции прошлого века\r\nСамоиграющие\
+    \ инструменты в руках безумно позитивных людей.\r\nТолько драйв и ничего лишнего\r\
+    \n\r\nСбор гостей - 19.00\r\nНачало - 20.00"
+- id: 47953
+  date: '2014-11-21'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 47955
+  date: '2014-11-28'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 48082
+  date: '2014-12-05'
+  time: '20:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_name: Machine Head Rock Club
+  city_id: 29
+  price: 400/500
+- id: 48145
+  date: '2014-12-13'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 48146
+  date: '2014-12-18'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 48147
+  date: '2014-12-30'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Union Jack Петровка
+  city_id: 1
+  price: бесплатный
+- id: 48407
+  date: '2014-12-20'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Drunken Duck Pub
+  city_id: 1
+- id: 48404
+  date: '2014-12-05'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 48405
+  date: '2014-12-06'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Drunken Duck Pub
+  city_id: 1
+- id: 48406
+  date: '2014-12-12'
+  time: '20:30'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Будвайзер Будвар
+  city_id: 1
+- id: 48497
+  date: '2014-12-18'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_name: Hop Head Pub
+  city_id: 1
+  price: бесплатный

@@ -1,0 +1,42 @@
+- id: 30688
+  date: '2012-10-21'
+  time: '19:00'
+  band_name: Аркадий Готесман с проектом "Percussion Postcards" и Андрей Разин (фортепиано,
+    Москва)
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 500 руб.
+- id: 31492
+  date: '2012-11-05'
+  time: '19:00'
+  band_name: Олег Бутман (барабаны, США) и Brianna Thomas (вокал, США)? Наталья Смирнова
+    (рояль, вокал), Сергей Хутас (контрабас)
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 1500 руб.
+  comments: Программа "Джазовая страсть"
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 31493
+  date: '2012-11-19'
+  time: '19:00'
+  band_name: 'Джаз-гостиная "Импровизация нового века": Леонид Сендерский (саксофоны,
+    флейта, Израиль) и Кадри Вооранд (вокал, Эстония), при уч. Евгения Лебедева (фортепиано,
+    США - Россия)'
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 500 руб., пенсионерам 250 руб.
+  comments: 'Ведущий: Михаил Митропольский'
+- id: 31494
+  date: '2012-12-20'
+  time: '20:00'
+  band_name: Brilliant Jazz Club
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  price: 2000-3000 руб.

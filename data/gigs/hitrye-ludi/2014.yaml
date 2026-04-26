@@ -1,0 +1,62 @@
+- id: 41353
+  date: '2014-01-10'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 43491
+  date: '2014-04-26'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  price: бесплатный
+- id: 44095
+  date: '2014-05-16'
+  time: '22:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+- id: 44352
+  date: '2014-06-06'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  price: бесплатный
+- id: 45177
+  date: '2014-07-26'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  price: бесплатный
+- id: 45267
+  date: '2014-07-19'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_id: 585
+  club_name: Хитрые Люди
+  club_token: hitrye-ludi
+  price: бесплатный
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev

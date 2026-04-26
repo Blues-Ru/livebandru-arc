@@ -1,0 +1,220 @@
+- id: 16035
+  date: '2011-03-03'
+  time: '20:00'
+  band_name: Парнас дыбом
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16070
+  date: '2011-03-05'
+  time: '21:00'
+  band_name: Глом
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16052
+  date: '2011-03-04'
+  time: '20:00'
+  band_name: Инструкция по выживанию
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16096
+  date: '2011-03-06'
+  time: '20:00'
+  band_name: Riff Action Family
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16299
+  date: '2011-03-11'
+  time: '20:00'
+  band_name: Потамучто
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16410
+  date: '2011-03-18'
+  time: '20:00'
+  band_name: Романс Павлюченко
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16356
+  date: '2011-03-13'
+  time: '20:00'
+  band_name: Валентин Тарасов
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16456
+  date: '2011-03-20'
+  time: '20:00'
+  band_name: DeepRessiЯ, Оскал Муравья, Rocket Jump, Red Grey, Третий Берег
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 16730
+  date: '2011-03-23'
+  time: '20:00'
+  band_name: 42, Алиса
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+  extra_bands:
+  - id: 241
+    name: Алиса
+    token: alisa
+- id: 16784
+  date: '2011-03-26'
+  time: '21:00'
+  band_name: Адаптация
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 17102
+  date: '2011-03-25'
+  time: '15:00'
+  band_id: 383
+  band_name: Искатели
+  band_token: iskateli
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+  price: 300 руб.
+- id: 17396
+  date: '2011-04-15'
+  time: '16:00'
+  band_name: Искатели, DMS
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+  price: 300 руб.
+  extra_bands:
+  - id: 383
+    name: Искатели
+    token: iskateli
+- id: 17886
+  date: '2011-05-13'
+  time: '21:00'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 18218
+  date: '2011-04-30'
+  time: '21:00'
+  band_name: Klezmasters, Exilados, Le Barra Brava, Blackmailers, Карл Хламкин, ОгнеОпасноОркестр,
+    DJs Pontell, Balkana
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+  extra_bands:
+  - id: 354
+    name: Карл Хламкин и ОгнеОпаснОркестр
+    token: hlamkin
+  - id: 40
+    name: Blackmailers Rekord Orkestr
+    token: blackmailers
+- id: 18933
+  date: '2011-05-28'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20043
+  date: '2011-06-17'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 19411
+  date: '2011-05-20'
+  time: '19:30'
+  band_id: 448
+  band_name: C-Jam Club Jazz Orchestra
+  band_token: cjc-jazz-orchestra
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20082
+  date: '2011-06-10'
+  time: '20:00'
+  band_id: 313
+  band_name: The Helsinki Cowboys
+  band_token: the-helsinki-cowboys
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+  price: 200 руб.
+- id: 20468
+  date: '2011-06-23'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20469
+  date: '2011-07-01'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20470
+  date: '2011-07-07'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20471
+  date: '2011-07-14'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20871
+  date: '2011-07-21'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 20873
+  date: '2011-07-28'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia
+- id: 21121
+  date: '2011-08-11'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 152
+  club_name: Демократия
+  club_token: demokratia

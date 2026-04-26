@@ -1,0 +1,3806 @@
+- id: 14523
+  date: '2011-01-01'
+  time: '17:00'
+  band_name: Виктор Матюхин, Евгений Гречищев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 14530
+  date: '2011-01-02'
+  time: '17:00'
+  band_name: Павел Тимофеев, Impulse Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14534
+  date: '2011-01-02'
+  time: '20:00'
+  band_name: Стиляги Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14542
+  date: '2011-01-03'
+  time: '20:00'
+  band_name: Олег Киреев и Sky Music
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14547
+  date: '2011-01-04'
+  time: '20:00'
+  band_name: 'The Beatles глазами звезд московского блюза: Леван Ломидзе'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 14550
+  date: '2011-01-05'
+  time: '20:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14578
+  date: '2011-01-08'
+  time: '22:45'
+  band_name: Шоу Ильи Покровского & Dance Party
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14587
+  date: '2011-01-08'
+  time: '20:00'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14588
+  date: '2011-01-09'
+  time: '17:00'
+  band_name: Юлия Алимова, Jazz Forever Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14596
+  date: '2011-01-09'
+  time: '20:00'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14703
+  date: '2011-01-11'
+  time: '20:30'
+  band_name: Олег Киреев и Sky Music
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14775
+  date: '2011-01-15'
+  time: '17:00'
+  band_name: 'Джазовая Лаборатория: Ануш Мальян'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14776
+  date: '2011-01-15'
+  time: '20:00'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 14799
+  date: '2011-01-20'
+  time: '20:30'
+  band_name: Азиза Миллер, Олег Киреев (саксофон), Евгений Гречищев (фортепиано),
+    Сергей Васильев (бас), Артем Федотов (ударные)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14564
+  date: '2011-01-06'
+  time: '20:00'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14567
+  date: '2011-01-07'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14573
+  date: '2011-01-07'
+  time: '22:45'
+  band_name: Кабаре "Нежность"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14730
+  date: '2011-01-12'
+  time: '20:30'
+  band_name: Venger Collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14750
+  date: '2011-01-14'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14740
+  date: '2011-01-13'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14935
+  date: '2011-01-21'
+  time: '20:30'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 14942
+  date: '2011-01-21'
+  time: '22:45'
+  band_name: Азиза Миллер, Олег Киреев (саксофон), Евгений Гречищев (фортепиано),
+    Сергей Васильев (бас), Артем Федотов (ударные)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14948
+  date: '2011-01-22'
+  time: '20:00'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 14955
+  date: '2011-01-22'
+  time: '22:45'
+  band_name: Азиза Миллер, Олег Киреев (саксофон), Евгений Гречищев (фортепиано),
+    Сергей Васильев (бас), Артем Федотов (ударные)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14975
+  date: '2011-01-25'
+  time: '20:30'
+  band_name: Олег Киреев и Sky Music
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 14979
+  date: '2011-01-26'
+  time: '20:00'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 15011
+  date: '2011-01-28'
+  time: '20:30'
+  band_name: Андрей Макаревич
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15163
+  date: '2011-02-10'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15413
+  date: '2011-02-12'
+  time: '20:00'
+  band_name: Александр Ф. Скляр
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15374
+  date: '2011-02-09'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15377
+  date: '2011-02-10'
+  time: '20:30'
+  band_name: Михаил "Петрович" Соколов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 15358
+  date: '2011-02-08'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15426
+  date: '2011-02-12'
+  time: '23:00'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15445
+  date: '2011-02-13'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15459
+  date: '2011-02-14'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15469
+  date: '2011-02-15'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15471
+  date: '2011-02-15'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15657
+  date: '2011-02-22'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15676
+  date: '2011-02-23'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15686
+  date: '2011-02-24'
+  time: '20:30'
+  band_name: Армен Мерабов, Мариам
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15740
+  date: '2011-02-27'
+  time: '17:00'
+  band_name: Moscow Jazz Passengers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15751
+  date: '2011-03-01'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15755
+  date: '2011-03-02'
+  time: '20:30'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15660
+  date: '2011-02-22'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов, Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 15732
+  date: '2011-02-27'
+  time: '20:30'
+  band_name: Шоу "Африканда"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15700
+  date: '2011-02-25'
+  time: '20:00'
+  band_name: Эдуард Хиль
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 15987
+  date: '2011-03-13'
+  time: '20:30'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 400 руб.
+- id: 16041
+  date: '2011-03-03'
+  time: '20:30'
+  band_name: Venger Collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16064
+  date: '2011-03-05'
+  time: '20:00'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 16066
+  date: '2011-03-05'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16073
+  date: '2011-03-05'
+  time: '23:00'
+  band_name: Кертис Робинсон (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16085
+  date: '2011-03-06'
+  time: '20:30'
+  band_name: Андрей Макаревич, Трио Евгения Борца, Полина Касьянова, Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 16055
+  date: '2011-03-04'
+  time: '20:30'
+  band_name: Кертис Робинсон (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16086
+  date: '2011-03-06'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16296
+  date: '2011-03-11'
+  time: '23:30'
+  band_name: Константин Гевондян, Макс Пиганов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16298
+  date: '2011-03-11'
+  time: '20:30'
+  band_id: 319
+  band_name: Виктор Зинчук
+  band_token: victor-zinchuk
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16321
+  date: '2011-03-12'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16324
+  date: '2011-03-12'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16138
+  date: '2011-03-08'
+  time: '20:00'
+  band_name: Стиляги Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16142
+  date: '2011-03-08'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16271
+  date: '2011-03-10'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 16257
+  date: '2011-03-09'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16370
+  date: '2011-03-15'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16373
+  date: '2011-03-15'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16388
+  date: '2011-03-16'
+  time: '20:30'
+  band_name: Трио Питера Битса
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16346
+  date: '2011-03-13'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16408
+  date: '2011-03-18'
+  time: '20:30'
+  band_name: Джордж Кейблс (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16426
+  date: '2011-03-19'
+  time: '23:00'
+  band_name: Джордж Кейблс (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16427
+  date: '2011-03-19'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16449
+  date: '2011-03-20'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16455
+  date: '2011-03-20'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16425
+  date: '2011-03-19'
+  time: '20:00'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 16721
+  date: '2011-03-22'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16734
+  date: '2011-03-23'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16750
+  date: '2011-03-24'
+  time: '20:30'
+  band_name: Левон Оганезов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16793
+  date: '2011-03-26'
+  time: '23:00'
+  band_name: Нанетт Франк (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16803
+  date: '2011-03-26'
+  time: '20:30'
+  band_name: Алексей Козлов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 16860
+  date: '2011-03-31'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов, Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 16890
+  date: '2011-04-01'
+  time: '23:30'
+  band_name: Стиляги Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16895
+  date: '2011-04-02'
+  time: '20:00'
+  band_name: Алексей Козлов и Новый Арсенал
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 16896
+  date: '2011-04-02'
+  time: '17:00'
+  band_name: Sahra-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16881
+  date: '2011-04-01'
+  time: '20:30'
+  band_name: Бобби Харден (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16907
+  date: '2011-04-03'
+  time: '17:00'
+  band_name: Павел Тимофеев, Impulse Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16909
+  date: '2011-04-03'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16723
+  date: '2011-03-22'
+  time: '20:30'
+  band_name: Олег Киреев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 16797
+  date: '2011-03-26'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16815
+  date: '2011-03-27'
+  time: '20:30'
+  band_name: Нанетт Франк (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16829
+  date: '2011-03-27'
+  time: '19:00'
+  band_name: Олег Киреев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 16774
+  date: '2011-03-25'
+  time: '23:00'
+  band_name: Нанетт Франк (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16776
+  date: '2011-03-25'
+  time: '20:30'
+  band_name: Владимир Кузьмин и "Динамик"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16843
+  date: '2011-03-29'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 16845
+  date: '2011-03-29'
+  time: '20:30'
+  band_name: Олег Киреев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 16819
+  date: '2011-03-27'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17244
+  date: '2011-04-07'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 17263
+  date: '2011-04-08'
+  time: '20:30'
+  band_name: Олег Киреев, Дмитрий Илугдин, Басиния Шульман
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 17270
+  date: '2011-04-08'
+  time: '23:30'
+  band_name: Чичерина
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17303
+  date: '2011-04-10'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17279
+  date: '2011-04-09'
+  time: '23:00'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17284
+  date: '2011-04-09'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17509
+  date: '2011-04-12'
+  time: '20:30'
+  band_id: 65
+  band_name: Николай Арутюнов и Funky Soul
+  band_token: nikolaj-arutyunov-i-funky-soul
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17514
+  date: '2011-04-13'
+  time: '20:30'
+  band_name: Алексей Козлов и Новый Арсенал
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 17196
+  date: '2011-04-05'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17200
+  date: '2011-04-05'
+  time: '23:00'
+  band_name: Анна Бутурлина, Ансамбль Олега Киреева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+  - id: 159
+    name: Анна Бутурлина
+    token: buturlina
+- id: 17206
+  date: '2011-04-06'
+  time: '20:30'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17309
+  date: '2011-04-10'
+  time: '17:00'
+  band_name: Черный квадрат
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17510
+  date: '2011-04-12'
+  time: '22:30'
+  band_id: 143
+  band_name: Евгений Гречищев
+  band_token: evgeny-gretchistchev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17296
+  date: '2011-04-09'
+  time: '17:00'
+  band_name: Наталия Власова
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17532
+  date: '2011-04-14'
+  time: '20:30'
+  band_name: Шон Джонс (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17553
+  date: '2011-04-15'
+  time: '23:30'
+  band_name: Шон Джонс (США)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17560
+  date: '2011-04-15'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов, Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 17578
+  date: '2011-04-16'
+  time: '23:00'
+  band_name: Laya Bam Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17581
+  date: '2011-04-16'
+  time: '17:00'
+  band_name: Max Dmitrieff & Katherine's Favorites
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17607
+  date: '2011-04-16'
+  time: '20:00'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17611
+  date: '2011-04-17'
+  time: '17:00'
+  band_name: Михаил Леванов, Точка сборки
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17617
+  date: '2011-04-17'
+  time: '20:30'
+  band_name: Андрей Макаревич, Трио Евгения Борца, Brill Brothers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 17734
+  date: '2011-04-19'
+  time: '20:30'
+  band_name: Марат Юлдыбаев, Рустем Галиуллин и ансамбль Олега Киреева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 17735
+  date: '2011-04-19'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17736
+  date: '2011-04-20'
+  time: '20:30'
+  band_name: Mila & La Fille
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17737
+  date: '2011-04-22'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17738
+  date: '2011-04-22'
+  time: '23:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17739
+  date: '2011-04-23'
+  time: '17:00'
+  band_name: Даниил Федоров и его Квартет
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17740
+  date: '2011-04-23'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17741
+  date: '2011-04-23'
+  time: '23:00'
+  band_name: Трио Марио Пармизано
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17742
+  date: '2011-04-24'
+  time: '17:00'
+  band_name: Трио Феликс Лахути и Ко
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 145
+    name: Felix Lahuti & Funky Land
+    token: felix-lahuti
+- id: 17743
+  date: '2011-04-24'
+  time: '20:30'
+  band_name: Aflamencados
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17744
+  date: '2011-04-26'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17745
+  date: '2011-04-26'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17746
+  date: '2011-04-27'
+  time: '20:30'
+  band_name: Мариам и Мирайф
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 353
+    name: Мариам и "Мирайф"
+    token: mariam-miraif
+- id: 17747
+  date: '2011-04-28'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17748
+  date: '2011-04-29'
+  time: '20:30'
+  band_name: Tammy McCann
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17749
+  date: '2011-04-29'
+  time: '23:30'
+  band_name: The ComonZ
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17750
+  date: '2011-04-30'
+  time: '17:00'
+  band_name: Armanjazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17751
+  date: '2011-04-30'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17752
+  date: '2011-04-30'
+  time: '23:00'
+  band_name: Tammy McCann
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17753
+  date: '2011-05-01'
+  time: '17:00'
+  band_name: Иван Рахманов и Евгений Гречищев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17754
+  date: '2011-05-01'
+  time: '20:30'
+  band_name: Tammy McCann
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17755
+  date: '2011-05-02'
+  time: '20:30'
+  band_name: Стиляги Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17756
+  date: '2011-05-03'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17757
+  date: '2011-05-03'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17758
+  date: '2011-05-04'
+  time: '20:30'
+  band_name: AksBand
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17759
+  date: '2011-05-05'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17760
+  date: '2011-05-06'
+  time: '20:30'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17761
+  date: '2011-05-06'
+  time: '23:30'
+  band_name: Олег Киреев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 17762
+  date: '2011-05-07'
+  time: '17:00'
+  band_name: Александр Шевцов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17763
+  date: '2011-05-07'
+  time: '20:30'
+  band_name: Carlos Johnson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17764
+  date: '2011-05-08'
+  time: '17:00'
+  band_name: Александр Осейчук, Жанна Ильмер, Ансамбль "Зелёная Волна"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17765
+  date: '2011-05-08'
+  time: '20:30'
+  band_name: Carlos Johnson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17766
+  date: '2011-05-09'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17767
+  date: '2011-05-10'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17769
+  date: '2011-05-11'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17770
+  date: '2011-05-12'
+  time: '20:30'
+  band_name: 'The Beatles глазами звезд московского блюза: Леван Ломидзе и Blues Cousins'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 17775
+  date: '2011-05-15'
+  time: '17:00'
+  band_name: Александр Мурашкин и Азат Баязитов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17776
+  date: '2011-05-15'
+  time: '20:30'
+  band_name: Джазовые Трансформации, Андрей Макаревич
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17777
+  date: '2011-05-17'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17778
+  date: '2011-05-17'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17779
+  date: '2011-05-18'
+  time: '20:30'
+  band_name: Venger Collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17780
+  date: '2011-05-19'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов, Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 17781
+  date: '2011-05-20'
+  time: '20:30'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17782
+  date: '2011-05-20'
+  time: '23:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17783
+  date: '2011-05-21'
+  time: '17:00'
+  band_id: 369
+  band_name: Алексей Рябухин
+  band_token: alexey-ryabykhin
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17784
+  date: '2011-05-21'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17785
+  date: '2011-05-22'
+  time: '17:00'
+  band_name: Дуэт AkClardeon
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17786
+  date: '2011-05-22'
+  time: '20:30'
+  band_name: Aflamencados
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17787
+  date: '2011-05-24'
+  time: '20:30'
+  band_name: Группа "Esh"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 162
+    name: Esh
+    token: esh
+- id: 17788
+  date: '2011-05-24'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17789
+  date: '2011-05-25'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17790
+  date: '2011-05-26'
+  time: '20:30'
+  band_name: James Weidman
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17791
+  date: '2011-05-27'
+  time: '20:30'
+  band_name: James Weidman
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17793
+  date: '2011-05-28'
+  time: '17:00'
+  band_name: Квинтет Валентина Островского и Алексея Дмитриева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17794
+  date: '2011-05-28'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17796
+  date: '2011-05-29'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17797
+  date: '2011-05-31'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17798
+  date: '2011-05-31'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17768
+  date: '2011-05-10'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 17771
+  date: '2011-05-13'
+  time: '20:30'
+  band_name: Игорь Саруханов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17773
+  date: '2011-05-14'
+  time: '17:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17774
+  date: '2011-05-14'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17792
+  date: '2011-05-27'
+  time: '23:30'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17795
+  date: '2011-05-29'
+  time: '17:00'
+  band_name: Ануш Мальян
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17799
+  date: '2011-06-17'
+  time: '20:30'
+  band_name: Владимир Кузьмин и "Динамик"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17800
+  date: '2011-07-01'
+  time: '20:30'
+  band_name: Александр Ф.Скляр
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 17930
+  date: '2011-04-21'
+  time: '20:30'
+  band_name: Venger Collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19016
+  date: '2011-06-01'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19022
+  date: '2011-06-02'
+  time: '20:30'
+  band_name: Venger Collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19023
+  date: '2011-06-03'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19024
+  date: '2011-06-03'
+  time: '23:30'
+  band_name: Алексей Гоман, Игорь Джавад-Заде
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19025
+  date: '2011-06-04'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19026
+  date: '2011-06-05'
+  time: '20:30'
+  band_name: Aflamencados
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19027
+  date: '2011-06-07'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19028
+  date: '2011-06-07'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19029
+  date: '2011-06-08'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19030
+  date: '2011-06-09'
+  time: '20:30'
+  band_name: Nicolas Bearde
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19031
+  date: '2011-06-10'
+  time: '20:30'
+  band_name: Nicolas Bearde
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19032
+  date: '2011-06-11'
+  time: '20:30'
+  band_name: Sharon Clark
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19033
+  date: '2011-06-12'
+  time: '20:30'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19034
+  date: '2011-06-13'
+  time: '20:30'
+  band_name: Sharon Clark
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19035
+  date: '2011-06-14'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19036
+  date: '2011-06-14'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19037
+  date: '2011-06-15'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19038
+  date: '2011-06-16'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19039
+  date: '2011-06-17'
+  time: '23:30'
+  band_name: Олег Киреев
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 19040
+  date: '2011-06-18'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19041
+  date: '2011-06-19'
+  time: '20:30'
+  band_name: Джазовые Трансформации, Андрей Макаревич
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19042
+  date: '2011-06-21'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19043
+  date: '2011-06-21'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19044
+  date: '2011-06-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19045
+  date: '2011-06-23'
+  time: '20:30'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19046
+  date: '2011-06-24'
+  time: '20:30'
+  band_name: Alvon Johnson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19047
+  date: '2011-06-25'
+  time: '20:30'
+  band_name: Alvon Johnson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19048
+  date: '2011-06-26'
+  time: '20:30'
+  band_name: Alvon Johnson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19049
+  date: '2011-06-28'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19050
+  date: '2011-06-28'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19051
+  date: '2011-06-29'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19052
+  date: '2011-06-30'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов и Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19053
+  date: '2011-07-15'
+  time: '20:30'
+  band_id: 137
+  band_name: Моральный Кодекс
+  band_token: moral-codex
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19448
+  date: '2011-06-04'
+  time: '17:00'
+  band_name: Петр Газаров
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19449
+  date: '2011-06-05'
+  time: '17:00'
+  band_name: Ансамбль PlayMod
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19450
+  date: '2011-06-11'
+  time: '17:00'
+  band_name: Марина Волкова и Perfect Me
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19451
+  date: '2011-06-18'
+  time: '17:00'
+  band_name: Квинтет Валентина Островского и Алексея Дмитриева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19452
+  date: '2011-06-19'
+  time: '17:00'
+  band_name: Анатолий Осипов и его ансамбль
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19453
+  date: '2011-06-25'
+  time: '17:00'
+  band_name: FX quartet
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19454
+  date: '2011-06-26'
+  time: '17:00'
+  band_name: Евгений Ревнюк и Laber Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 256
+    name: Laber Band
+    token: laber-band
+- id: 19455
+  date: '2011-07-02'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19456
+  date: '2011-07-03'
+  time: '20:30'
+  band_name: Себастьян Санчес (Sebastian Sanchez) & Aflamencados
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19457
+  date: '2011-07-04'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19458
+  date: '2011-07-05'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19459
+  date: '2011-07-05'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19460
+  date: '2011-07-06'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19461
+  date: '2011-07-07'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19462
+  date: '2011-07-08'
+  time: '20:30'
+  band_name: Eddie Henderson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19463
+  date: '2011-07-09'
+  time: '20:30'
+  band_name: Eddie Henderson
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19464
+  date: '2011-07-10'
+  time: '20:30'
+  band_name: Solо Tango Orquesta
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19465
+  date: '2011-07-11'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19466
+  date: '2011-07-12'
+  time: '20:30'
+  band_name: Анна Левшина
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19467
+  date: '2011-07-12'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19468
+  date: '2011-07-13'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19469
+  date: '2011-07-16'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19470
+  date: '2011-07-17'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19471
+  date: '2011-07-18'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19472
+  date: '2011-07-19'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19473
+  date: '2011-07-19'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19474
+  date: '2011-07-20'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19475
+  date: '2011-07-21'
+  time: '20:30'
+  band_name: Tecora Rogers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19476
+  date: '2011-07-22'
+  time: '20:30'
+  band_name: Tecora Rogers
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19477
+  date: '2011-07-23'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19478
+  date: '2011-07-24'
+  time: '20:30'
+  band_name: 'Джазовые Трансформации: Андрей Макаревич'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19479
+  date: '2011-07-25'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19480
+  date: '2011-07-26'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19481
+  date: '2011-07-26'
+  time: '22:30'
+  band_name: Евгений Гречищев, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 19482
+  date: '2011-07-27'
+  time: '20:30'
+  band_name: Pete Jason
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19483
+  date: '2011-07-28'
+  time: '20:30'
+  band_name: 'Леван Ломидзе и Blues Cousins: The Beatles глазами звезд московского
+    блюза'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 19484
+  date: '2011-07-29'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19485
+  date: '2011-07-30'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 19486
+  date: '2011-07-31'
+  time: '20:30'
+  band_name: Стиляги Band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21127
+  date: '2011-08-10'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21128
+  date: '2011-08-11'
+  time: '20:30'
+  band_id: 523
+  band_name: Ив Корнелиус (Eve Cornelious)
+  band_token: eve-cornelious
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21129
+  date: '2011-08-12'
+  time: '20:30'
+  band_id: 523
+  band_name: Ив Корнелиус (Eve Cornelious)
+  band_token: eve-cornelious
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21130
+  date: '2011-08-13'
+  time: '20:30'
+  band_id: 523
+  band_name: Ив Корнелиус (Eve Cornelious)
+  band_token: eve-cornelious
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21131
+  date: '2011-08-14'
+  time: '17:00'
+  band_name: '"Джазовая Лаборатория". Евгений Лебедев и WorldTrio'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21132
+  date: '2011-08-14'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21133
+  date: '2011-08-15'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21134
+  date: '2011-08-16'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Чарли Паркер и его музыка
+- id: 21135
+  date: '2011-08-16'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21136
+  date: '2011-08-17'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21137
+  date: '2011-08-18'
+  time: '20:30'
+  band_name: Норико Терагучи (Noriko Teraguchi & Aflamencados)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21138
+  date: '2011-08-19'
+  time: '20:30'
+  band_id: 197
+  band_name: Хоронько Оркестр
+  band_token: horonko
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21145
+  date: '2011-08-29'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21146
+  date: '2011-09-05'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21149
+  date: '2011-09-26'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21150
+  date: '2011-08-23'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Майлс Дэвис - Solar
+- id: 21152
+  date: '2011-09-20'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Чарли Паркер и его музыка
+- id: 21153
+  date: '2011-08-24'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21158
+  date: '2011-08-19'
+  time: '23:45'
+  band_name: Джаз в саду Эрмитаж
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Джем
+- id: 21159
+  date: '2011-08-20'
+  time: '23:45'
+  band_name: Джаз в саду Эрмитаж
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Джем
+- id: 21160
+  date: '2011-08-21'
+  time: '23:45'
+  band_name: Джаз в саду Эрмитаж
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Джем
+- id: 21161
+  date: '2011-08-20'
+  time: '20:30'
+  band_name: Леван Ломидзе, Дмитрий Четвергов и Дмитрий Малолетов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+  - id: 318
+    name: Дмитрий Малолетов
+    token: maloletov
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21162
+  date: '2011-08-25'
+  time: '20:30'
+  band_name: The Beatles - глазами звезд московского блюза
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21181
+  date: '2011-08-26'
+  time: '20:30'
+  band_id: 520
+  band_name: Джулиус Грин (Julius E.Green)
+  band_token: dzhulius-grin-julius-egreen
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21226
+  date: '2011-08-28'
+  time: '20:30'
+  band_id: 521
+  band_name: A'cappella Rain Drops
+  band_token: rain-drops
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21236
+  date: '2011-09-06'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21237
+  date: '2011-09-07'
+  time: '20:30'
+  band_name: Ансамбль "Mila & La Fille"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21238
+  date: '2011-09-08'
+  time: '20:30'
+  band_name: Д-р Аграновский, Юрий Каверкин, Вадим Иващенко и "Nothing Personal"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Большой блюзовый джем "61 Highway"
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 21239
+  date: '2011-09-09'
+  time: '20:30'
+  band_name: Джазовые Трансформации при уч. Андрея Макаревича
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21240
+  date: '2011-09-11'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21241
+  date: '2011-09-13'
+  time: '20:30'
+  band_id: 489
+  band_name: Квартет Анны Левшиной
+  band_token: anna-levshina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21247
+  date: '2011-09-23'
+  time: '20:30'
+  band_id: 524
+  band_name: Деннис Роуланд (Dennis Rowland)
+  band_token: dennis-rowland
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21248
+  date: '2011-09-23'
+  time: '23:45'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21249
+  date: '2011-09-24'
+  time: '20:30'
+  band_id: 524
+  band_name: Деннис Роуланд (Dennis Rowland)
+  band_token: dennis-rowland
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21250
+  date: '2011-09-25'
+  time: '20:00'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21251
+  date: '2011-09-27'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21252
+  date: '2011-09-27'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21253
+  date: '2011-09-28'
+  time: '20:30'
+  band_id: 521
+  band_name: A'cappella Rain Drops
+  band_token: rain-drops
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21254
+  date: '2011-09-30'
+  time: '20:30'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21255
+  date: '2011-09-30'
+  time: '23:45'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21256
+  date: '2011-10-01'
+  time: '20:30'
+  band_name: Александр Ф.Скляр
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21245
+  date: '2011-09-20'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21246
+  date: '2011-09-22'
+  time: '20:30'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21143
+  date: '2011-08-20'
+  time: '17:00'
+  band_name: '"Джазовая Лаборатория". Евгений Лебедев и WorldTrio'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21144
+  date: '2011-08-22'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21147
+  date: '2011-09-12'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21148
+  date: '2011-09-19'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 21151
+  date: '2011-09-06'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Мир Джона Колтрейна
+- id: 21199
+  date: '2011-08-27'
+  time: '20:30'
+  band_id: 520
+  band_name: Джулиус Грин (Julius E.Green)
+  band_token: dzhulius-grin-julius-egreen
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21227
+  date: '2011-08-30'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21228
+  date: '2011-08-23'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21229
+  date: '2011-08-26'
+  time: '23:45'
+  band_name: Aflamencados
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21231
+  date: '2011-08-30'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 21154
+  date: '2011-09-03'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21155
+  date: '2011-09-10'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21156
+  date: '2011-09-17'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21157
+  date: '2011-09-21'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21232
+  date: '2011-08-31'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21233
+  date: '2011-09-01'
+  time: '20:30'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21234
+  date: '2011-09-02'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21235
+  date: '2011-09-04'
+  time: '20:30'
+  band_name: Ансамбль "Solо Tango Orquestra"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21242
+  date: '2011-09-14'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21243
+  date: '2011-09-16'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21244
+  date: '2011-09-18'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 20376
+  date: '2011-07-14'
+  time: '20:00'
+  band_name: Imperial Tiger Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 21163
+  date: '2011-09-29'
+  time: '20:30'
+  band_name: The Beatles - глазами звезд московского блюза
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22280
+  date: '2011-10-15'
+  time: '20:30'
+  band_name: Алексей Козлов и трио Дмитрия Илугдина
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 500-4500 руб.
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov
+- id: 22284
+  date: '2011-10-29'
+  time: '20:30'
+  band_name: '"Джазовые Трансформации" Андрея Макаревича'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 6500-7500 руб.
+- id: 22285
+  date: '2011-11-02'
+  time: '21:30'
+  band_name: Мэнди Гейнс (Mandy Gaines)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 900-7500 руб.
+- id: 22289
+  date: '2011-10-15'
+  time: '17:00'
+  band_name: Джазовая Лаборатория
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 200-1200 руб.
+- id: 22290
+  date: '2011-10-09'
+  time: '20:30'
+  band_name: Ансамбль "Solо Tango Orquesta"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22291
+  date: '2011-10-10'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22294
+  date: '2011-10-12'
+  time: '20:30'
+  band_name: Ники Харис (Niki Haris)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22295
+  date: '2011-10-13'
+  time: '20:30'
+  band_name: Ники Харис (Niki Haris)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22296
+  date: '2011-10-14'
+  time: '20:30'
+  band_name: Ники Харис (Niki Haris)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22297
+  date: '2011-10-14'
+  time: '23:30'
+  band_name: Петрович, Юрий Каверкин и Д-р Аграновский в Большом Блюзовом Джеме "61
+    Highway"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+- id: 22323
+  date: '2011-11-05'
+  time: '23:30'
+  band_name: Барабанное шоу Маракату
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22334
+  date: '2011-11-16'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22335
+  date: '2011-11-17'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22336
+  date: '2011-11-18'
+  time: '20:30'
+  band_id: 352
+  band_name: Акапелла Экспресс
+  band_token: acapella-express
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22337
+  date: '2011-11-18'
+  time: '23:30'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22292
+  date: '2011-10-11'
+  time: '20:30'
+  band_id: 489
+  band_name: Квартет Анны Левшиной
+  band_token: anna-levshina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22293
+  date: '2011-10-11'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22298
+  date: '2011-10-15'
+  time: '23:30'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22299
+  date: '2011-10-16'
+  time: '15:00'
+  band_name: '"Джазовая Лаборатория". Антон Горбунов и Евгений Гречищев'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22300
+  date: '2011-10-16'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22301
+  date: '2011-10-17'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22302
+  date: '2011-10-18'
+  time: '20:30'
+  band_name: '"Чарли Паркер и его музыка". Ансамбль Олега Киреева'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 22303
+  date: '2011-10-18'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22304
+  date: '2011-10-19'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22305
+  date: '2011-10-20'
+  time: '20:30'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22306
+  date: '2011-10-21'
+  time: '20:30'
+  band_name: Александр Кутиков и "Нюанс"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22307
+  date: '2011-10-22'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22308
+  date: '2011-10-23'
+  time: '20:30'
+  band_name: Barana Quintet
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22309
+  date: '2011-10-24'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22310
+  date: '2011-10-25'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22311
+  date: '2011-10-25'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22312
+  date: '2011-10-26'
+  time: '20:00'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22313
+  date: '2011-10-27'
+  time: '20:30'
+  band_name: Джулиет Келли (Juliet Kelly)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22314
+  date: '2011-10-28'
+  time: '20:30'
+  band_name: Джулиет Келли (Juliet Kelly)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22315
+  date: '2011-10-29'
+  time: '17:00'
+  band_name: '"Джазовая Лаборатория". Квинтет Смирнова- Акатова'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22316
+  date: '2011-10-30'
+  time: '15:00'
+  band_name: '"Джазовая Лаборатория". Дмитрий Яковлев'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22317
+  date: '2011-10-30'
+  time: '20:30'
+  band_id: 144
+  band_name: Soledad Orquesta
+  band_token: soledad
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22318
+  date: '2011-10-31'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22319
+  date: '2011-11-01'
+  time: '20:30'
+  band_name: Джимми Си (Jimmy C)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 312
+    name: Jimmy C
+    token: jimmy-c
+- id: 22320
+  date: '2011-11-03'
+  time: '20:30'
+  band_name: Мэнди Гейнс (Mandy Gaines)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22321
+  date: '2011-11-04'
+  time: '20:30'
+  band_id: 118
+  band_name: Константин Никольский
+  band_token: nikolsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22322
+  date: '2011-11-05'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Этери Бериашвили и Александра Гуреева
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+- id: 22324
+  date: '2011-11-06'
+  time: '20:30'
+  band_name: Jazz Dance Orchestra
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22325
+  date: '2011-11-08'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22326
+  date: '2011-11-09'
+  time: '20:30'
+  band_name: Левон Оганезов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Программа "50 лет на сцене!"
+- id: 22327
+  date: '2011-11-09'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22328
+  date: '2011-11-10'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22329
+  date: '2011-11-11'
+  time: '20:30'
+  band_name: Квартал
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22330
+  date: '2011-11-12'
+  time: '20:30'
+  band_id: 94
+  band_name: Евгений Маргулис
+  band_token: margulis
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22331
+  date: '2011-11-13'
+  time: '20:30'
+  band_id: 522
+  band_name: Стиляги Band
+  band_token: stilyagi-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22332
+  date: '2011-11-15'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22333
+  date: '2011-11-16'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22338
+  date: '2011-11-19'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22339
+  date: '2011-11-19'
+  time: '23:30'
+  band_name: Д-р Аграновский, Юрий Каверкин и Вадим Иващенко в Большом Блюзовом Джеме
+    "61 Highway"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 22340
+  date: '2011-11-20'
+  time: '20:30'
+  band_name: Рон Уилкинс, Стенли Сван, Валерий Гроховский, Владимир Кольцов-Крутов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+- id: 22341
+  date: '2011-11-22'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22342
+  date: '2011-11-23'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22343
+  date: '2011-11-23'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22344
+  date: '2011-11-24'
+  time: '20:30'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22345
+  date: '2011-11-25'
+  time: '20:30'
+  band_name: Чанда Рул (Chanda Rule)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22346
+  date: '2011-11-25'
+  time: '23:30'
+  band_name: The Beatles - глазами звезд московского блюза. Проект Левана Ломидзе
+    и Blues Cousins
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22347
+  date: '2011-11-29'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22348
+  date: '2011-11-30'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22349
+  date: '2011-11-30'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22350
+  date: '2011-12-17'
+  time: '20:30'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22351
+  date: '2011-11-26'
+  time: '20:30'
+  band_name: Чанда Рул (Chanda Rule)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22352
+  date: '2011-11-27'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22246
+  date: '2011-10-03'
+  time: '20:30'
+  band_name: Леван Ломидзе, джем
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 400-1200 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 22247
+  date: '2011-10-04'
+  time: '20:30'
+  band_id: 140
+  band_name: Ансамбль Олега Киреева
+  band_token: kireyev
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  comments: Мир Джона Колтрейна
+- id: 22248
+  date: '2011-10-04'
+  time: '22:30'
+  band_name: Джем-сейшен с Евгением Гречищевым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+- id: 22249
+  date: '2011-10-05'
+  time: '20:30'
+  band_name: Кумико Андо (Kumiko Andoh)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 500-4500 руб.
+- id: 22250
+  date: '2011-10-06'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22251
+  date: '2011-10-07'
+  time: '21:00'
+  band_name: Владимир Кузьмин и "Динамик"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  price: 5600-7500 руб.
+- id: 22252
+  date: '2011-10-08'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 22933
+  date: '2011-12-01'
+  time: '20:30'
+  band_name: Таис Урумидис
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23020
+  date: '2011-12-02'
+  time: '20:30'
+  band_id: 138
+  band_name: Крематорий
+  band_token: crematory
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23021
+  date: '2011-12-03'
+  time: '20:30'
+  band_name: Владимир Кузьмин и "Динамик"
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23022
+  date: '2011-12-04'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23023
+  date: '2011-12-06'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 23024
+  date: '2011-12-07'
+  time: '20:30'
+  band_name: Анна Королёва
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23025
+  date: '2011-12-08'
+  time: '20:30'
+  band_id: 353
+  band_name: Мариам и "Мирайф"
+  band_token: mariam-miraif
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23026
+  date: '2011-12-09'
+  time: '20:30'
+  band_name: Шарени Вэйд (Charenee Wade)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23027
+  date: '2011-12-10'
+  time: '20:30'
+  band_name: Шарени Вэйд (Charenee Wade)
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23028
+  date: '2011-12-11'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23029
+  date: '2011-12-13'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 23030
+  date: '2011-12-14'
+  time: '20:30'
+  band_name: Джаз-квинтет «Эдельвейс»
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 350
+    name: Эдельвейс
+    token: edelveys
+- id: 23031
+  date: '2011-12-15'
+  time: '20:30'
+  band_id: 105
+  band_name: Шемякина Band
+  band_token: shemyakina-band
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23032
+  date: '2011-12-16'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23033
+  date: '2011-12-18'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23034
+  date: '2011-12-20'
+  time: '20:30'
+  band_name: Блюз Джем с Леваном Ломидзе
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 23035
+  date: '2011-12-21'
+  time: '20:30'
+  band_id: 159
+  band_name: Анна Бутурлина
+  band_token: buturlina
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23036
+  date: '2011-12-22'
+  time: '20:30'
+  band_id: 525
+  band_name: Venger Collective
+  band_token: venger-collective
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23037
+  date: '2011-12-24'
+  time: '20:30'
+  band_id: 319
+  band_name: Виктор Зинчук
+  band_token: victor-zinchuk
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23038
+  date: '2011-12-25'
+  time: '20:30'
+  band_id: 110
+  band_name: Алексей Козлов и Арсенал
+  band_token: alexey-kozlov
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23039
+  date: '2011-12-27'
+  time: '20:30'
+  band_name: Alissid Jazz
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23040
+  date: '2011-12-28'
+  time: '20:30'
+  band_name: Jazzmobile и Алина Ростоцкая
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+- id: 23041
+  date: '2011-12-29'
+  time: '20:30'
+  band_name: Закрытое мероприятие
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23042
+  date: '2011-12-30'
+  time: '20:30'
+  band_id: 162
+  band_name: Esh
+  band_token: esh
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23572
+  date: '2011-12-07'
+  time: '23:00'
+  band_name: Джем-сейшен с Романом Ивановым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23573
+  date: '2011-12-14'
+  time: '23:00'
+  band_name: Джем-сейшен с Романом Ивановым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23574
+  date: '2011-12-17'
+  time: '17:00'
+  band_name: '"Джазовая Лаборатория". Анастасия Шевченко'
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23575
+  date: '2011-12-18'
+  time: '14:00'
+  band_name: Новогодние приключения красной шапочки. В Концертном зале Дома Композиторов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23576
+  date: '2011-12-21'
+  time: '23:00'
+  band_name: Джем-сейшен с Романом Ивановым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23577
+  date: '2011-12-25'
+  time: '14:00'
+  band_name: Музыка зимы. В Концертном зале Дома Композиторов
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub
+- id: 23578
+  date: '2011-12-28'
+  time: '23:00'
+  band_name: Джем-сейшен с Романом Ивановым
+  club_id: 100
+  club_name: Союз Композиторов
+  club_token: ucclub

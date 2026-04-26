@@ -1,0 +1,20 @@
+id: 21
+token: krizis-zhanra
+name: Кризис Жанра
+aliases: Кафе, прежде известное как "Кризис жанра"
+alive: true
+address: Покровка, 16/16, стр. 1
+subway: Чистые Пруды, Тургеневская, Китай-город
+phone: (495) 623-2594
+city_id: 1
+clips:
+- id: 1192
+  type: weblink
+  url: http://www.myspace.com/kriziszhanra
+  name: Страница на MySpace
+  sort_order: 199
+- id: 1191
+  type: weblink
+  url: http://www.kriziszhanra.ru/
+  name: Официальный сайт
+  sort_order: 99

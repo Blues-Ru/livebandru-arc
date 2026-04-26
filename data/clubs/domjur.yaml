@@ -1,0 +1,22 @@
+id: 457
+token: domjur
+name: Центральный Дом журналиста
+aliases: Джаз-Клуб "Домжур"
+alive: true
+address: 119019, Никитский бульвар, д.8а
+subway: Арбатская (Филевская линия)
+phone: +7(495)697-2086
+city_id: 1
+comments: Центральный Дом журналиста
+clips:
+- id: 2140
+  type: photo
+  url: domjur.jpg
+  sort_order: 0
+  width: 375
+  height: 500
+- id: 2139
+  type: weblink
+  url: http://www.domjour.ru
+  name: Официальный сайт
+  sort_order: 0

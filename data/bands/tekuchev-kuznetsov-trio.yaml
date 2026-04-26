@@ -1,0 +1,18 @@
+id: 452
+token: tekuchev-kuznetsov-trio
+name: Трио Анатолия Текучева и Алексея Кузнецова
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Анатолий Текучев
+  instruments: вибрафон
+- name: Алексей Кузнецов
+  instruments: гитара
+clips:
+- id: 2150
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 340
+  height: 580

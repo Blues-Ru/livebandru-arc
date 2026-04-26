@@ -1,0 +1,29 @@
+id: 458
+token: daniil-kramer
+name: Даниил Крамер
+alive: true
+url: http://www.kramerdaniel.com
+city_id: 1
+genre_id: 2
+musicians:
+- name: Даниил Крамер
+  instruments: фортепиано
+clips:
+- id: 2164
+  type: weblink
+  url: http://www.kramerdaniel.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 2165
+  type: youtube
+  url: http://www.youtube.com/?v=oYTSoUFVy1k
+  name: Daniil Kramer (part of concert in Russia)
+  comments: Daniil Kramer is a famous Russian jazz pianist. This is a part of concert
+    from Russia.
+  sort_order: 99
+- id: 2166
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 624
+  height: 416

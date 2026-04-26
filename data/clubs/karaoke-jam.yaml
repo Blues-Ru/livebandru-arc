@@ -1,0 +1,14 @@
+id: 792
+token: karaoke-jam
+name: Караоке Джем
+alive: true
+address: Самокатная, 2, корп. 1
+subway: Курская, Площадь Ильича, Бауманская
+phone: (495) 632-55-38, +7 (495)7608547
+city_id: 1
+clips:
+- id: 6500
+  type: weblink
+  url: http://www.karaoke-jam.ru/
+  name: Официальный сайт
+  sort_order: 0

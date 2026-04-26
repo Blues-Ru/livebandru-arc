@@ -1,0 +1,87 @@
+- id: 13438
+  date: '2010-11-07'
+  time: '19:00'
+  band_name: Rhapsody of Fire (Италия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 13551
+  date: '2010-11-14'
+  time: '17:00'
+  band_name: 'Фестиваль "Бутылка Блюза": Still Smokin Band, Dirty Hands'' Band, Rhythm
+    & Blues Independent, The Broken Promises Blues Band'
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+  extra_bands:
+  - id: 325
+    name: The Broken Promises Blues Band
+    token: broken-promises
+  - id: 180
+    name: Rhythm & Blues Independent
+    token: rnb-independent
+- id: 13413
+  date: '2010-11-05'
+  time: '19:00'
+  band_name: Sodom (Германия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 13621
+  date: '2010-11-12'
+  time: '22:00'
+  band_name: Дельфин
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14034
+  date: '2010-12-09'
+  time: '20:00'
+  band_name: Male Factors, Скальпель
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14105
+  date: '2010-12-16'
+  time: '20:00'
+  band_name: Пикник
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14160
+  date: '2010-12-21'
+  time: '19:00'
+  band_name: New York Ska-Jazz Ensemble (США)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14071
+  date: '2010-12-11'
+  time: '19:00'
+  band_name: Korpiklaani (Финляндия)
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14095
+  date: '2010-12-15'
+  time: '19:00'
+  band_name: Soulfallen (Финляндия), Dis Pater, Sworn
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 14213
+  date: '2010-12-31'
+  time: '22:00'
+  band_id: 176
+  band_name: Приключения электроников
+  band_token: elektroniki
+  club_id: 29
+  club_name: Точка
+  club_token: tochka
+- id: 13598
+  date: '2010-11-09'
+  time: '18:30'
+  band_name: Эдем
+  club_id: 29
+  club_name: Точка
+  club_token: tochka

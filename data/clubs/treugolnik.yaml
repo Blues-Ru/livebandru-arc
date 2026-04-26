@@ -1,0 +1,13 @@
+id: 240
+token: treugolnik
+name: Треугольник
+alive: true
+address: Адлер, Кирова, 56
+phone: (8622) 40-37-83
+city_id: 35
+clips:
+- id: 556
+  type: weblink
+  url: http://www.treugolnik.biz/
+  name: Официальный сайт
+  sort_order: 0

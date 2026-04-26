@@ -1,0 +1,16 @@
+- id: 54441
+  date: '2015-10-18'
+  time: '19:00'
+  band_name: 'Джаз-гостиная "Импровизация нового века": Алекс Ростоцкий (синтезаторы,
+    вокал, декламация) представляет программу "Песни озера Виктория и Русских равнин"
+    при уч. Татьяны Шишковой (вокал, "Marimba Plus")'
+  club_id: 336
+  club_name: Еврейский культурный центр
+  club_token: jewish-culture-center
+  extra_bands:
+  - id: 328
+    name: Алекс Ростоцкий
+    token: alex-rostotsky
+  - id: 512
+    name: Marimba Plus
+    token: marimba-plus

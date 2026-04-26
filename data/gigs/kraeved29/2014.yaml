@@ -1,0 +1,307 @@
+- id: 41098
+  date: '2014-01-11'
+  time: '20:00'
+  band_name: Традиционный джем-сейшен
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41100
+  date: '2014-01-25'
+  time: '20:00'
+  band_name: The Break Orcherstra - Андрей Шабашев (клавишные), Николай Куликов (гитара),
+    Валерий Журавлев (барабаны)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41101
+  date: '2014-01-07'
+  time: '20:00'
+  band_name: 'Рождественский концерт (российско-норвежский проект): I отделение -
+    Exhale quartet (Норвегия), II отделение - Plan B - проект Игоря Горькового (Архангельск),
+    III отделение - Арт-ансамбль (Архангельск)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41099
+  date: '2014-01-18'
+  time: '20:00'
+  band_name: NBB - Тим Дорофеев (гитара), Константин Седовин (вокал, флейта), Николай
+    Клишин (бас), Николай Ковалев (гитара), Валерий Барандов (барабаны)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41639
+  date: '2014-02-22'
+  time: '20:00'
+  band_id: 604
+  band_name: OKASION / Андрей Барбашов
+  band_token: occasion
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: rnb, fusion - авторский ритм-н-блюз, фьюжн.
+- id: 41975
+  date: '2014-02-08'
+  time: '20:00'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 41976
+  date: '2014-02-15'
+  time: '20:00'
+  band_name: Проект Андрея Рогозина
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 42210
+  date: '2014-03-08'
+  time: '20:00'
+  band_id: 565
+  band_name: Ива Нова
+  band_token: iva-nova
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 42620
+  date: '2014-03-15'
+  time: '20:00'
+  band_name: Only Jazz Quartet (Ярославль - Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 42621
+  date: '2014-03-22'
+  time: '20:00'
+  band_name: Арт-ансамбль (Архангельск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 42622
+  date: '2014-03-29'
+  time: '20:00'
+  band_name: Трио A.Spel (Швейцария - Южная Африка)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 43329
+  date: '2014-04-12'
+  time: '20:00'
+  band_name: J.C.Smith (США) - гитара, вокал
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 627
+    name: J.C. Smith
+    token: j-c-smith
+- id: 43330
+  date: '2014-04-19'
+  time: '20:00'
+  band_name: Cool Jazz Trio
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 43331
+  date: '2014-04-26'
+  time: '20:00'
+  band_name: Джаз Классик Трио Андрея Зимовца (Санкт-Петербург)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 43639
+  date: '2014-05-16'
+  time: '20:00'
+  band_name: В поддержку IX международного фестиваля "Архангельск Блюз" - The New
+    Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 43640
+  date: '2014-05-24'
+  time: '17:00'
+  band_name: Татьяна Попова & Arkhangelsk Jazz Friends (Архангельск), Ron Sayer (Англия)
+    & Blues band (Архангельск), Ксения Федулова(Москва)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 600 руб.
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 43641
+  date: '2014-05-25'
+  time: '17:00'
+  band_name: PLAN "Б" (Архангельск); Guitar Summit & New Blues Band (Архангельск -
+    Москва)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 600 руб.
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 43637
+  date: '2014-05-03'
+  time: '20:00'
+  band_name: Олег Киреев (саксофон, Москва) - Евгений Гречищев (рояль, Москва); Олег
+    Юданов (барабаны) - Николай Клишин (контрабас) - Тим Дорофеев (гитара)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  price: 400 руб.
+  extra_bands:
+  - id: 143
+    name: Евгений Гречищев
+    token: evgeny-gretchistchev
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 43638
+  date: '2014-05-10'
+  time: '20:00'
+  band_name: Дуэт "ББ"
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 44619
+  date: '2014-06-07'
+  time: '20:00'
+  band_name: Дарья Орлова (вокал) & бэнд (Северодвинск)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 44620
+  date: '2014-06-14'
+  time: '20:00'
+  band_name: The Break Orchestra
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 44621
+  date: '2014-06-21'
+  time: '20:00'
+  band_name: Арт-ансамбль и Надежда Миронова (вокал)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 44622
+  date: '2014-06-28'
+  time: '20:00'
+  band_name: 'Дуэт "ББ": Федор Багрецов (гитара), Алексей Барандов (барабаны)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 46062
+  date: '2014-09-07'
+  time: '20:00'
+  band_name: 'Leo Records Festival: "Арт Ансамбль" и Алексей Круглов, приглашенные
+    гости фестиваля - трио Николая Куликова'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 46490
+  date: '2014-09-27'
+  time: '20:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 46491
+  date: '2014-09-20'
+  time: '20:00'
+  band_name: 'Баренц-перекресток п/у Кристин Холанд, Ансамбль п/у Терезы Ульван, участники
+    фестиваля Урбанд Кэмп в рамках международного кинофестиваля Тромсе: Аркадий Шилклопер,
+    Екатерина Ефремова, Бернт Симен Лунд, Эрик Штифьель, Арт-ансамбль и Надежда Миронова'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 47356
+  date: '2014-11-01'
+  time: '20:00'
+  band_name: 'Проект "Brige" (Россия-Германия): Helmut Schafer (саксофон, кларнет
+    - Германия), Андрей Мартыненко (рояль, Ярославль), Сергей Белоусов (гитара, Ярославль),
+    Денис Силенко (контрабас, Москва), Владимир Борисов (барабаны, Москва), Илья Ершов
+    (скрипка, Архангельск)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 47357
+  date: '2014-11-22'
+  time: '20:00'
+  band_name: 'Ultrasounds Quartet (Москва-Архангельск): Денис Шушков (контрабас),
+    Николай Куликов (гитара), Валерий Журавлев (барабаны), Игорь Горьковой (клавишные),
+    Константин Седовин (вокал)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 47358
+  date: '2014-11-15'
+  time: '20:00'
+  band_name: The New Blues Band
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 47977
+  date: '2014-11-29'
+  time: '20:00'
+  band_name: Джаз-оркестр - руководитель Владимир Федоровцев
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 48399
+  date: '2014-12-06'
+  time: '20:00'
+  band_name: Тим Дорофеев (гитара), Олег Юданов (барабаны), Николай Клишин (бас)
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 48400
+  date: '2014-12-13'
+  time: '20:00'
+  band_name: Ансамбль Игоря Горькового
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 48401
+  date: '2014-12-20'
+  time: '20:00'
+  band_name: 'Благотворительный концерт "Мы вместе": сбор средств на лечения - Мариев
+    Леша - 1 год (диагноз ДЦП). Участвуют архангельские музыканты - The New Blues
+    Band, Арт-ансамбль, ансамбль Игоря Горькового'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 48402
+  date: '2014-12-27'
+  time: '20:00'
+  band_name: 'I отделение: дуэт "ББ" - Федор Багрецов (гитара), Алексей Барандов (барабаны);
+    II отделение: джаз-квартет - Андрей Шабашев (клавишные), Илья Ершов (скрипка),
+    Николай Клишин (бас), Алексей Барандов (барабаны)'
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+- id: 48403
+  date: '2014-12-30'
+  time: '20:00'
+  band_name: Новогодний джаз-маскарад, кукольный спектакль для детей, конкурс костюмов
+  club_id: 443
+  club_name: Джаз-мастерская
+  club_token: kraeved29
+  comments: Вход строго в костюмах и масках!

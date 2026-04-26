@@ -1,0 +1,18 @@
+id: 401
+token: odnono
+name: ОдноНо
+alive: true
+url: http://odnono.ru/
+city_id: 1
+genre_id: 11
+clips:
+- id: 1811
+  type: weblink
+  url: http://odnono.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1812
+  type: weblink
+  url: http://vk.com/club4202498
+  name: Страница ВКонтакте
+  sort_order: 100

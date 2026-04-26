@@ -1,0 +1,15 @@
+name = "liveband-media"
+main = "media-worker.js"
+compatibility_date = "2025-01-01"
+
+[[routes]]
+pattern = "www.liveband.ru/band/*/images/*"
+zone_name = "liveband.ru"
+
+[[routes]]
+pattern = "www.liveband.ru/band/*/music/*.mp3"
+zone_name = "liveband.ru"
+
+[[routes]]
+pattern = "www.liveband.ru/club/*/images/*"
+zone_name = "liveband.ru"

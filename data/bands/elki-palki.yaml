@@ -1,0 +1,93 @@
+id: 220
+token: elki-palki
+name: Елки-Палки
+alive: true
+url: http://www.myspace.com/elkipalki
+city_id: 20
+genre_id: 4
+secondary_genre_id: 11
+musicians:
+- name: Павел Голенко
+  instruments: скрипка, аранжировки, худ. руководитель
+- name: Шурик Вайц
+  instruments: ирландская свирели, испанская волынка
+- name: Александр Лившиц
+  instruments: акустическая гитара, электрогитара
+- name: Илья Сильцов
+  instruments: бас
+- name: Эяль Бен-Симон
+  instruments: ударные
+clips:
+- id: 665
+  type: photo
+  url: elki-palki-2.jpg
+  name: Murfatlar
+  sort_order: 100
+  width: 150
+  height: 103
+- id: 666
+  type: photo
+  url: elki-palki-3.jpg
+  name: Hora Arnavot
+  sort_order: 200
+  width: 150
+  height: 100
+- id: 667
+  type: weblink
+  url: http://www.myspace.com/elkipalki
+  name: Страница на MySpace
+  sort_order: 0
+- id: 668
+  type: youtube
+  url: http://www.youtube.com/?v=W2J64y3gS8g
+  name: Murtafatlar-1
+  sort_order: 99
+- id: 662
+  type: weblink
+  url: http://tarbut.zahav.ru/cellcom/music/profile.php?elkipalki
+  name: tarbut.zahav.ru
+  sort_order: 99
+- id: 663
+  type: weblink
+  url: http://www.rock-club.org/~music/elki.html
+  name: http://www.rock-club.org
+  sort_order: 199
+- id: 671
+  type: youtube
+  url: http://www.youtube.com/?v=UqnDG1MYPtg
+  name: Elki Palki Manush Livsie
+  comments: Elki Palki 2009 Israel festival, Jerusalem Theatre feat. specila guests
+    - Boris Gammer, Oleg Noyman, Yakir Sasson http://www.myspace.com/elkipalki
+  sort_order: 299
+- id: 672
+  type: weblink
+  url: http://www.youtube.com/user/pashaaltist
+  name: youTube
+  comments: Канал pashaaltist
+  sort_order: 299
+- id: 664
+  type: photo
+  url: elki-palki.jpg
+  name: Old molly hare
+  sort_order: 0
+  width: 150
+  height: 100
+- id: 669
+  type: youtube
+  url: http://www.youtube.com/?v=rt-w2AKqod8
+  name: Mahala
+  comments: Elki Palki 2009 Israel festival, Jerusalem Theatre feat. specila guests
+    - Boris Gammer, Oleg Noyman, Yakir Sasson http://www.myspace.com/elkipalki
+  sort_order: 199
+- id: 670
+  type: youtube
+  url: http://www.youtube.com/?v=7hAyQLZkVr0
+  name: Murfatlar-2
+  comments: Elki Palki 2009 Israel festival, Jerusalem Theatre feat. specila guests
+    - Boris Gammer, Oleg Noyman, Yakir Sasson http://www.myspace.com/elkipalki
+  sort_order: 149
+- id: 673
+  type: weblink
+  url: http://community.livejournal.com/yolki_palki_jer/profile
+  name: livejournal.com
+  sort_order: 399

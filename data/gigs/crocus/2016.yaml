@@ -1,0 +1,25 @@
+- id: 60989
+  date: '2016-10-06'
+  time: '19:00'
+  band_name: 'Леван Ломидзе, 50! Юбилейный концерт "Дорогой блюза": Андрей Макаревич,
+    Алексей Романов, Николай Девлет-Кильдеев, Андрей Давидян, Этери Бериашвили, Николай
+    Арутюнов, Маша Кац, Chuck Register (США), Вячеслав Горский, Сергей Манукян, Фрэнд'
+  club_id: 215
+  club_name: Crocus City Hall
+  club_token: crocus
+  extra_bands:
+  - id: 332
+    name: Вячеслав Горский
+    token: gorsky
+  - id: 351
+    name: Этери Бериашвили
+    token: eteri
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 181
+    name: Маша Кац
+    token: masha-kaz

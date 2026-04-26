@@ -1,0 +1,54 @@
+id: 565
+token: iva-nova
+name: Ива Нова
+alive: true
+url: http://www.iva-nova.ru
+city_id: 2
+genre_id: 11
+secondary_genre_id: 15
+musicians:
+- name: Инка Лишенкевич
+  instruments: гитара, вокал
+- name: Катя Федорова
+  instruments: ударные
+- name: Анастасия Постникова
+  instruments: вокал
+- name: Наталия Потапенко
+  instruments: аккордеон
+- name: Наталия Назарова
+  instruments: бас
+- name: Павел Лазарев
+  instruments: звук
+clips:
+- id: 3072
+  type: photo
+  url: iva-nova.jpg
+  sort_order: 0
+  width: 600
+  height: 400
+- id: 3073
+  type: youtube
+  url: http://www.youtube.com/?v=24S80G6vDRg
+  name: IVA NOVA - YAGA. ИВА НОВА - ЯГА
+  comments: 'Режиссер:  Павел О. Семченко (инженерный театр АХЕ)
+
+    Оператор:  Владимир Убушиев
+
+    Монтаж: Георгий Маматов'
+  sort_order: 99
+- id: 3071
+  type: weblink
+  url: http://www.iva-nova.ru
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 267
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Ива Нова - это альтернативный этно-экстрим, который экспериментально сочетает
+    в себе славянские мотивы и панковский напор, танцевальные техно-ритмы и авангардные
+    шумовые эффекты.
+  verified: true
+  created: '2012-01-24'
+  is_press_release: true

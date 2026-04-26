@@ -1,0 +1,20 @@
+- id: 22148
+  date: '2011-10-13'
+  time: '20:00'
+  band_name: Ирина Родилес, Алина Ростоцкая, Полина Зизак и трио Якова Окуня
+  club_id: 508
+  club_name: Brilliant Jazz Club
+  club_token: brilliant-jazz-club
+  price: 2000-3000 руб. для членов Клуба
+  comments: С программой "Очарования джазом". Сбор гостей в 20:00, начало концерта
+    21:00.
+  extra_bands:
+  - id: 467
+    name: Алина Ростоцкая
+    token: alinarostotskaya
+  - id: 365
+    name: Ирина Родилес
+    token: irina-rodiles
+  - id: 468
+    name: Полина Зизак
+    token: polina-zizak

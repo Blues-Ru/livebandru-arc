@@ -1,0 +1,14 @@
+id: 710
+token: dom-kultury
+name: Дом культуры
+alive: true
+address: Кутузовский проезд, 4
+subway: Парк Победы
+phone: +7 (499)148-13-03
+city_id: 1
+clips:
+- id: 4618
+  type: weblink
+  url: http://www.domkultury.su
+  name: Официальный сайт
+  sort_order: 0

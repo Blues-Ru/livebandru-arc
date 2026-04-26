@@ -1,0 +1,14 @@
+id: 662
+token: niko
+name: Бар Нико
+alive: true
+address: ул. Коломенская, 9
+subway: Владимирская
+phone: +7(953)165-27-43, +7(921)961-14-95
+city_id: 2
+clips:
+- id: 4449
+  type: weblink
+  url: http://niko-pianobar.ru/
+  name: Официальный сайт
+  sort_order: 0

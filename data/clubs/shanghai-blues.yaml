@@ -1,0 +1,22 @@
+id: 156
+token: shanghai-blues
+name: Шанхай Блюз
+alive: true
+address: Измайловское ш., 71к3в
+subway: Партизанская
+phone: (495) 737-7935
+city_id: 1
+comments: гостиничный комплекс "Измайлово", корпус Вега, 1 этаж
+clips:
+- id: 514
+  type: photo
+  url: shanghai-blues-2.jpg
+  sort_order: 100
+  width: 600
+  height: 276
+- id: 513
+  type: photo
+  url: shanghai-blues.jpg
+  sort_order: 0
+  width: 640
+  height: 501

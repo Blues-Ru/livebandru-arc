@@ -1,0 +1,72 @@
+- id: 21668
+  date: '2011-09-15'
+  time: '21:00'
+  band_name: Cross B Band, Long Way, Денис Балахонов
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 15 000
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way
+- id: 22385
+  date: '2011-10-08'
+  time: '22:00'
+  band_name: Cleanhead Phil Speat (USA) & Евгений Ламба Трио (Россия), Cross B Band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  extra_bands:
+  - id: 547
+    name: Cleanhead Phil Speat
+    token: cleanhead-phil
+  - id: 493
+    name: Евгений Ламба Бэнд
+    token: lamba
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 22515
+  date: '2011-11-23'
+  time: '21:00'
+  band_name: Cross B Band, Long Way
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way
+- id: 23457
+  date: '2011-10-22'
+  time: '20:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+- id: 23465
+  date: '2011-12-22'
+  time: '20:00'
+  band_name: Cross B Band, Long Way, The Road Dogs и т.д.
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way

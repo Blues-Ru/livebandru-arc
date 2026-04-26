@@ -1,0 +1,74 @@
+id: 414
+token: pera-joe
+name: Pera Joe
+aliases: Пера Джо
+alive: true
+genre_id: 1
+musicians:
+- name: Pera Joe
+  instruments: губная гармоника
+clips:
+- id: 1920
+  type: youtube
+  url: http://www.youtube.com/?v=1GzjPnxy2NM
+  name: Pera Joe Blues Band - Messing with the kid
+  comments: Pera Joe in Moscow Roadhouse club. 09/02/2008 feat. Соловьев
+  sort_order: 199
+- id: 1900
+  type: weblink
+  url: http://www.myspace.com/perajoebluesband
+  name: Страница на MySpace
+  sort_order: 99
+- id: 1901
+  type: weblink
+  url: http://www.blues.ru/bluesmen/Pera_Joe/
+  name: Pera Joe на blues.ru
+  sort_order: 199
+- id: 1921
+  type: youtube
+  url: http://www.youtube.com/?v=gmiQTNVYdVo
+  name: Pera Joe blues band - Pera sings
+  comments: Pera Joe in Moscow Roadhouse club. 09/02/2008 Pera сам поет
+  sort_order: 299
+- id: 1919
+  type: youtube
+  url: http://www.youtube.com/?v=oIF_6BC_2zQ
+  name: Pera Joe Blues Band - Keep On Lovin' Me Baby
+  comments: 6-12-2008. Moscow Roadhouse blues club
+  sort_order: 99
+- id: 1922
+  type: photo
+  url: pera-joe.jpg
+  sort_order: 0
+  width: 209
+  height: 297
+- id: 1923
+  type: photo
+  url: pera-joe-2.jpg
+  sort_order: 100
+  width: 300
+  height: 268
+reviews:
+- id: 126
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Виртуоз блюзовой губной гармоники Петар Миладинович, известный как "Pera Joe",
+    - звезда европейской блюзовой сцены. Родился в 1961 г. в Крушеваце (Югославия),
+    начал играть на губной гармонике в 9 лет, а в 19 стал одним из первопроходцев
+    балканского блюза. Играл в многочисленных рок- и блюз-бэндах, а также в R'n'B
+    и поп-группах Сербии, за что его иногда называют "Pera Joe – the session man".
+    Одним из наиболее стабильных проектов в его музыкальной карьере был дуэт с гитаристом
+    Homesick Mac, не без юмора называвшийся "самое маленькое трио в мире". Пера Джо
+    выпустил несколько собственных CD альбомов и, кроме того, участвовал в многочисленных
+    сессионных записях и джемах, в том числе и с такими легендарными музыкантами,
+    как Луизиана Ред, Джон Хэммонд, Микки Уоллер, Шугар Блю, Боб Гелдоф, Анна Попович,
+    Джонни Марс, Сэм Митчелл. На протяжении 20 лет участвовал в блюзовых и джазовых
+    фестивалях в Германии, Швеции, Дании, Венгрии, Италии, Швейцарии. Его авторитет
+    в европейском блюзе настолько высок, что на фестивале губной гармоники в Троссингене
+    (Германия) Пера Джо постоянно приглашают участвовать в работе жюри, оценивающего
+    конкурсантов. Пера Джо дважды приезжал в Россию, его выступления привлекли большой
+    интерес московских ценителей блюза.
+  verified: true
+  created: '2011-03-30'
+  is_press_release: true

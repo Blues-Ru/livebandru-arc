@@ -1,0 +1,36 @@
+id: 320
+token: mikes-place-jerusalem
+name: Mike's Place (Jerusalem)
+alive: true
+address: Jaffa, 33
+phone: 054-531-5255
+city_id: 20
+clips:
+- id: 1066
+  type: weblink
+  url: http://www.mikesplacebars.com
+  name: Официальный сайт
+  sort_order: 99
+- id: 1072
+  type: weblink
+  url: http://www.youtube.com/view_play_list?p=60065BEDCD4F5237
+  name: Клипы на YouTube
+  sort_order: 299
+- id: 1069
+  type: weblink
+  url: http://www.facebook.com/group.php?gid=2354970241
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 1067
+  type: photo
+  url: mikes-place-jerusalem.jpg
+  sort_order: 0
+  width: 417
+  height: 102
+- id: 1068
+  type: photo
+  url: mikes-place-jerusalem-2.jpg
+  name: Mike's Place Jerusalem Reopening party
+  sort_order: 100
+  width: 446
+  height: 631

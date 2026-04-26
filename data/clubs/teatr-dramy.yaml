@@ -1,0 +1,13 @@
+id: 802
+token: teatr-dramy
+name: Рязанский государственный областной театр драмы
+alive: true
+address: Театральная пл., д. 7А
+phone: +7(4912)45-15-58
+city_id: 85
+clips:
+- id: 6622
+  type: weblink
+  url: http://www.rzndrama.ru
+  name: Официальный сайт
+  sort_order: 0

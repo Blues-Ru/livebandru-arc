@@ -1,0 +1,14 @@
+id: 759
+token: muzej-s-s-prokofeva
+name: Музей С.С. Прокофьева
+alive: true
+address: Камергерский пер., д.6
+subway: Охотный Ряд, Театральная
+phone: +7(495)692-0567
+city_id: 1
+clips:
+- id: 5405
+  type: weblink
+  url: http://www.glinka.museum/about/museum_of_prokofiev/
+  name: Официальный сайт
+  sort_order: 0

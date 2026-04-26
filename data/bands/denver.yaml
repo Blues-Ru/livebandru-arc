@@ -1,0 +1,44 @@
+id: 492
+token: denver
+name: Denver Band
+alive: true
+url: http://www.realmusic.ru/denverband/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 1
+musicians:
+- name: Валерий Анохин
+  instruments: Вокал
+- name: Вячеслав Капорин
+  instruments: Гитара
+- name: Николай Балакирев
+  instruments: Ударные
+- name: Андрей Байков
+  instruments: Бас Гитара
+clips:
+- id: 2286
+  type: weblink
+  url: http://vk.com/club27584195
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2287
+  type: weblink
+  url: http://www.realmusic.ru/denverband/
+  name: Страница на RealMusic
+  sort_order: 199
+- id: 2288
+  type: weblink
+  url: http://my.mail.ru/community/denver-band/
+  name: Сообщество на Mail.Ru
+  sort_order: 299
+- id: 2306
+  type: weblink
+  url: http://www.realmusic.ru/denverband/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2305
+  type: photo
+  url: denver.jpg
+  sort_order: 0
+  width: 800
+  height: 533

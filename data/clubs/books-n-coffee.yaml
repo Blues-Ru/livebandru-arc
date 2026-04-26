@@ -1,0 +1,23 @@
+id: 343
+token: books-n-coffee
+name: Книги и кофе
+alive: true
+address: Гагаринская улица, дом 20
+subway: '"Чернышевская", "Маяковская", "Гостиный двор"'
+phone: (812) 328-67-08
+city_id: 2
+clips:
+- id: 1242
+  type: weblink
+  url: http://www.bookcoffee.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 1243
+  type: rss
+  url: http://community.livejournal.com/bookcoffee_spb/data/rss
+  sort_order: 99
+- id: 1244
+  type: weblink
+  url: http://vk.com/club1194208
+  name: Страница ВКонтакте
+  sort_order: 199

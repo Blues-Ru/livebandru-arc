@@ -1,0 +1,14 @@
+id: 337
+token: kz-mir
+name: КЗ "Мир"
+alive: true
+address: Цветной бул., 11, стр. 2
+subway: Цветной Бульвар, Трубная
+phone: (495) 624-77-75
+city_id: 1
+clips:
+- id: 1236
+  type: weblink
+  url: http://www.mir-hall.ru
+  name: Официальный сайт
+  sort_order: 99

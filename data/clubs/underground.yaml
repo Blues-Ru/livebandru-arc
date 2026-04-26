@@ -1,0 +1,23 @@
+id: 229
+token: underground
+name: Underground
+alive: true
+address: Писарева, 121
+subway: Маршала Покрышкина
+phone: (383) 214-42-55
+city_id: 19
+clips:
+- id: 541
+  type: weblink
+  url: http://www.bar-underground.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 542
+  type: weblink
+  url: http://vk.com/club1480721
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 543
+  type: rss
+  url: http://bar-underground.ru/feed
+  sort_order: 99

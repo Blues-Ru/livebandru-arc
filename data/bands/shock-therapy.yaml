@@ -1,0 +1,17 @@
+id: 204
+token: shock-therapy
+name: Шоковая терапия
+alive: true
+city_id: 19
+genre_id: 3
+clips:
+- id: 544
+  type: weblink
+  url: http://www.myspace.com/shocktherapyband
+  name: Страница на MySpace
+  sort_order: 0
+- id: 545
+  type: weblink
+  url: http://vk.com/club2585034
+  name: Страница ВКонтакте
+  sort_order: 100

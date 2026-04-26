@@ -1,0 +1,22 @@
+id: 651
+token: sam-hare
+name: Sam Hare
+aliases: Sam Hare Band
+alive: true
+url: http://www.samhare.com
+city_id: 77
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Sam Hare
+  instruments: guitar/vocals
+- name: Сергей Чекмаренко
+  instruments: ударные
+- name: Виктор Шестак
+  instruments: бас-гитара/контрабас
+clips:
+- id: 5044
+  type: weblink
+  url: http://www.samhare.com
+  name: Официальный сайт
+  sort_order: 0

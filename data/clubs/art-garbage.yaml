@@ -1,0 +1,14 @@
+id: 136
+token: art-garbage
+name: Art Garbage
+alive: true
+address: Старосадский пер., 5, стр. 6
+subway: Китай-город
+phone: (495) 628 87 45
+city_id: 1
+clips:
+- id: 45
+  type: weblink
+  url: http://www.art-garbage.ru/
+  name: Официальный сайт
+  sort_order: 0

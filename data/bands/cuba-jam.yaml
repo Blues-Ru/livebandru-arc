@@ -1,0 +1,50 @@
+id: 618
+token: cuba-jam
+name: Cuba Jam
+alive: true
+url: http://www.cubajam.ru/
+city_id: 2
+genre_id: 13
+clips:
+- id: 4134
+  type: photo
+  url: cuba-jam.jpg
+  sort_order: 0
+  width: 1000
+  height: 667
+- id: 4135
+  type: photo
+  url: cuba-jam-2.jpg
+  sort_order: 100
+  width: 1000
+  height: 606
+- id: 4136
+  type: photo
+  url: cuba-jam-3.jpg
+  sort_order: 200
+  width: 1000
+  height: 667
+- id: 4137
+  type: photo
+  url: cuba-jam-4.jpg
+  sort_order: 300
+  width: 1000
+  height: 667
+- id: 4133
+  type: youtube
+  url: http://www.youtube.com/?v=zhSrZLaNbN8
+  name: CUBA JAM sa;sa band - ELLA
+  comments: ELLA - песня с дебютного альбома "Con alegria pa'lante", выпущенного группой
+    Cuba Jam в марте 2012 года. ELLA - the song from the debut album "Con alegria
+    pa'lante" which has been let out by Cuba Ja
+  sort_order: 0
+- id: 4120
+  type: weblink
+  url: http://www.cubajam.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4121
+  type: weblink
+  url: http://vk.com/cubajam
+  name: Страница ВКонтакте
+  sort_order: 100

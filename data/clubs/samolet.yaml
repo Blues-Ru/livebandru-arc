@@ -1,0 +1,14 @@
+id: 401
+token: samolet
+name: Самолет
+alive: true
+address: Пресненский Вал, 14/1
+subway: Улица 1905 года
+phone: (495) 234-18-18
+city_id: 1
+clips:
+- id: 1785
+  type: weblink
+  url: http://moscow.samolet-bowling.ru/
+  name: Официальный сайт
+  sort_order: 0

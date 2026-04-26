@@ -1,0 +1,75 @@
+id: 215
+token: yemenblues
+name: Yemen Blues
+alive: true
+url: http://www.myspace.com/yemenblues
+city_id: 21
+genre_id: 1
+secondary_genre_id: 11
+musicians:
+- name: Равид Кахлани
+  instruments: вокал, перкуссия, струнные
+- name: Омер Авиталь
+  instruments: бас, уд, вокал, аранжировки
+- name: Йони Коэн
+  instruments: перкуссия
+- name: Рони Иврит
+  instruments: перкуссия
+- name: Галия Хай
+  instruments: альт
+- name: Ила Эпштейн
+  instruments: виолончель
+- name: Ави Лейбович
+  instruments: тромбон
+- name: Нив Тоар
+  instruments: труба
+- name: Адар Нойберг
+  instruments: флейта
+clips:
+- id: 626
+  type: youtube
+  url: http://www.youtube.com/?v=SLrdfM_Y12c
+  name: Ravid Kahlani - Yemen Blues
+  comments: Yemen Blues
+  sort_order: 199
+- id: 627
+  type: youtube
+  url: http://www.youtube.com/?v=H7o8V0XAY-4
+  name: Ravid Kahalani in an amazing performance of his new single in New York City.
+    March 8, 2010
+  comments: Ravid Kahalani in an amazing performance of his new single in New York
+    City. March 8, 2010
+  sort_order: 299
+- id: 643
+  type: weblink
+  url: http://www.mouse.co.il/CM.articles_item,1021,209,49142,.aspx
+  name: Ахбар аИр (Городская мышь)
+  sort_order: 199
+- id: 644
+  type: weblink
+  url: http://www.myspace.com/yemenblues
+  name: Страница на MySpace
+  sort_order: 299
+- id: 646
+  type: weblink
+  url: http://www.yemenblues.com/
+  name: Официальный сайт-на данный момент в процессе реконструкции
+  sort_order: 499
+- id: 625
+  type: youtube
+  url: http://www.youtube.com/?v=YQ6gYWq3KRY
+  name: ravid kahalani -yemen blues introduction video
+  comments: 'yemen blues introduction video! recording the song "um min al yaman"
+    with: ravid kahalani, omer avital,avi lebovich, itamar borochov, hadar noiberg,
+    itamar doari, rony iwryn, hilla epstain, galia ha'
+  sort_order: 99
+- id: 645
+  type: weblink
+  url: http://yemen-blues.mondomix.com/fr/video5688.htm
+  name: Mondomix.com
+  sort_order: 399
+- id: 642
+  type: weblink
+  url: http://www.beraleberale.co.il/index.php/newsletter/yemen-blues
+  name: http://www.beraleberale.co.il
+  sort_order: 99

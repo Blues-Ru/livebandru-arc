@@ -1,0 +1,17 @@
+id: 494
+token: valband
+name: Valband
+alive: true
+city_id: 2
+genre_id: 3
+clips:
+- id: 2293
+  type: weblink
+  url: http://vk.com/club1035557
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2294
+  type: weblink
+  url: http://www.myspace.com/valbandex3
+  name: Страница на MySpace
+  sort_order: 199

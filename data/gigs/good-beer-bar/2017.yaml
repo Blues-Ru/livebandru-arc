@@ -1,0 +1,222 @@
+- id: 62979
+  date: '2017-01-13'
+  time: '21:30'
+  band_name: Юрий Каверкин и Nothing Personal, Lena Foreverjoy
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 62980
+  date: '2017-01-14'
+  time: '20:00'
+  band_name: the Gracious
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 62981
+  date: '2017-01-15'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63010
+  date: '2017-01-20'
+  time: '21:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63011
+  date: '2017-01-21'
+  time: '20:00'
+  band_name: Tomi Leino with the Jumping Cats
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 700/500
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 63012
+  date: '2017-01-22'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63013
+  date: '2017-01-27'
+  time: '21:00'
+  band_id: 28
+  band_name: Станция Мир
+  band_token: st-mir
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63014
+  date: '2017-01-28'
+  time: '20:00'
+  band_name: Chino with Folkline
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 600/400
+- id: 63015
+  date: '2017-01-29'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63471
+  date: '2017-02-03'
+  time: '21:30'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 300/200
+- id: 63472
+  date: '2017-02-04'
+  time: '20:00'
+  band_name: Salty Sea Dogs
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 400/200
+- id: 63473
+  date: '2017-02-05'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63474
+  date: '2017-02-10'
+  time: '21:30'
+  band_name: The Bluesheadz
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63475
+  date: '2017-02-11'
+  time: '20:00'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63476
+  date: '2017-02-12'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63477
+  date: '2017-02-17'
+  time: '21:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63478
+  date: '2017-02-18'
+  time: '20:00'
+  band_name: Sharon Lewis
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 1200/1000
+- id: 63479
+  date: '2017-02-19'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь
+- id: 63480
+  date: '2017-02-22'
+  time: '21:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63481
+  date: '2017-02-23'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63482
+  date: '2017-02-24'
+  time: '20:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63483
+  date: '2017-02-25'
+  time: '19:00'
+  band_name: Фестиваль Блюзовой Губной Гармоники
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: 500/300
+- id: 63484
+  date: '2017-02-26'
+  time: '19:00'
+  band_id: 224
+  band_name: Открытый блюзовый джем Дома у Дороги
+  band_token: roadhouse-jam
+  club_id: 854
+  club_name: Good Beer Bar
+  club_token: good-beer-bar
+  price: плати за концерт, сколько можешь

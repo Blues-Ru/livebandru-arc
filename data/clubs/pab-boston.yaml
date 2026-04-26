@@ -1,0 +1,14 @@
+id: 717
+token: pab-boston
+name: Паб Бостон
+alive: true
+address: ул. Сергия Радонежского, д.29-31
+subway: Римская, Площадь Ильича
+phone: +7(495)707-14-80
+city_id: 1
+clips:
+- id: 4625
+  type: weblink
+  url: http://www.bostonpub.ru/
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,283 @@
+id: 297
+token: new-day-blues-band
+name: New Day Blues Band
+aliases: 'New Day
+
+  Новый день
+
+  The New Day Blues Band
+
+  NDBB'
+alive: true
+city_id: 70
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Анастасия Зыкова
+  instruments: вокал
+- name: Андрей Бедношей
+  instruments: бас-гитара, администратор
+- name: Андрей Петренко
+  instruments: ударные, перкуссия
+- name: Василий Стахник
+  instruments: клавишные, вокал
+- name: Виталий
+  instruments: гитара, вокал
+- name: Алексей Медников
+  instruments: харп
+clips:
+- id: 1018
+  type: youtube
+  url: http://www.youtube.com/?v=KFhySPaje7M
+  name: New Day Blues Band - От Сэнт-Луиса до Чикаго
+  comments: New Day Blues Band - От Сэнт-Луиса до Чикаго
+  sort_order: 100
+- id: 1020
+  type: youtube
+  url: http://www.youtube.com/?v=g4zpasocNtk
+  name: New Day Blues Band - Day After Day
+  comments: New Day Blues Band - Day After Day
+  sort_order: 300
+- id: 2275
+  type: photo
+  url: new-day-blues-band-6.jpg
+  name: New Day Blues Band
+  sort_order: 275
+  width: 807
+  height: 606
+- id: 1013
+  type: mp3
+  url: new-day-blues-band-2.mp3
+  name: New Day Blues Band - Вокзальная (Formanta Studio by Сергей Шматов)
+  sort_order: 199
+- id: 1022
+  type: youtube
+  url: http://www.youtube.com/?v=LmXHzxWJlqs
+  name: New Day Blues Band - My Train Leaves The Station
+  comments: New Day Blues Band - My Train Leaves The Station
+  sort_order: 500
+- id: 1025
+  type: youtube
+  url: http://www.youtube.com/?v=4oV4d6d5fhc
+  name: New Day Blues Band - Когда погаснут все огни
+  comments: New Day Blues Band - Когда погаснут все огни
+  sort_order: 800
+- id: 1016
+  type: weblink
+  url: http://ps.org.ua/artist/new_day_blues_band2
+  name: Ps.org.ua
+  comments: Страничка на сайте ps.org.ua
+  sort_order: 399
+- id: 1024
+  type: youtube
+  url: http://www.youtube.com/?v=1U8ui1H1dWg
+  name: New Day Blues Band - Promo Video
+  comments: New Day Blues Band - Promo Video
+  sort_order: 700
+- id: 1026
+  type: youtube
+  url: http://www.youtube.com/?v=KNTfP-r00ag
+  name: New Day Blues Band - Hello Bartender
+  comments: New Day Blues Band - Hello Bartender
+  sort_order: 900
+- id: 1028
+  type: youtube
+  url: http://www.youtube.com/?v=c28fqDOdCQ8
+  name: New Day Blues Band - I've Found You
+  comments: New Day Blues Band - I've Found You
+  sort_order: 1100
+- id: 1031
+  type: youtube
+  url: http://www.youtube.com/?v=Syh-wWsX0UA
+  name: New Day Blues Band - Чтобы хотелось жить
+  comments: New Day Blues Band - Чтобы хотелось жить
+  sort_order: 1400
+- id: 1012
+  type: mp3
+  url: new-day-blues-band.mp3
+  name: New Day Blues Band - Двери в ночь (Formanta Studio by Сергей Шматов)
+  sort_order: 99
+- id: 1019
+  type: youtube
+  url: http://www.youtube.com/?v=t9fgg-ARB0g
+  name: New Day Blues Band - Вокзальная
+  comments: New Day Blues Band - Вокзальная
+  sort_order: 200
+- id: 1021
+  type: youtube
+  url: http://www.youtube.com/?v=cV_AbuNP0CI
+  name: New Day Blues Band - I've Got The Rain
+  comments: New Day Blues Band - I've Got The Rain
+  sort_order: 400
+- id: 1023
+  type: youtube
+  url: http://www.youtube.com/?v=9dinzhx-kzQ
+  name: New Day Blues Band - Close My Door
+  comments: New Day Blues Band - Close My Door
+  sort_order: 600
+- id: 1017
+  type: youtube
+  url: http://www.youtube.com/?v=Vk3a4uZCjM0
+  name: New Day Blues Band - On My Way
+  comments: Выступление на фестивале "Zaпорiг - 2010" в г. Запорожье, 25.09.2010 г.
+  sort_order: 0
+- id: 1027
+  type: youtube
+  url: http://www.youtube.com/?v=z2psqJ54Fk8
+  name: New Day Blues Band - Предрассветный блюз
+  comments: New Day Blues Band - Предрассветный блюз
+  sort_order: 1000
+- id: 1030
+  type: youtube
+  url: http://www.youtube.com/?v=-jPYT_X6cls
+  name: New Day Blues Band - Midnight Blues
+  comments: New Day Blues Band - Midnight Blues
+  sort_order: 1300
+- id: 1029
+  type: youtube
+  url: http://www.youtube.com/?v=VrInuhBQxkg
+  name: New Day Blues Band - Двери в ночь
+  comments: New Day Blues Band - Двери в ночь
+  sort_order: 1200
+- id: 2270
+  type: photo
+  url: new-day-blues-band.jpg
+  name: New Day Blues Band
+  sort_order: 0
+  width: 1024
+  height: 768
+- id: 2273
+  type: photo
+  url: new-day-blues-band-4.jpg
+  name: Алексей Медников
+  sort_order: 13
+  width: 321
+  height: 479
+- id: 2285
+  type: photo
+  url: new-day-blues-band-9.jpg
+  name: Сергей Шматов
+  sort_order: 325
+  width: 480
+  height: 640
+- id: 2284
+  type: photo
+  url: new-day-blues-band-8.jpg
+  name: Алексей Медников
+  sort_order: 10
+  width: 687
+  height: 1024
+- id: 2274
+  type: photo
+  url: new-day-blues-band-5.jpg
+  name: Андрей Петренко
+  sort_order: 175
+  width: 321
+  height: 479
+- id: 2098
+  type: weblink
+  url: http://vk.com/newdaybluesband
+  name: Страница ВКонтакте
+  comments: Официальная страница Запорожской Блюз-группы "New Day Blues Band"
+  sort_order: 499
+- id: 2271
+  type: photo
+  url: new-day-blues-band-2.jpg
+  name: Анастасия Зыкова
+  sort_order: 25
+  width: 1024
+  height: 688
+- id: 2272
+  type: photo
+  url: new-day-blues-band-3.jpg
+  name: Сергей Шматов
+  sort_order: 7
+  width: 604
+  height: 428
+- id: 2276
+  type: photo
+  url: new-day-blues-band-7.jpg
+  name: Андрей Бедношей
+  sort_order: 375
+  width: 505
+  height: 480
+- id: 2330
+  type: photo
+  url: new-day-blues-band-10.jpg
+  comments: New Day Blues Band all
+  sort_order: 475
+  width: 2178
+  height: 1781
+- id: 2564
+  type: youtube
+  url: http://www.youtube.com/?v=mXIK-9ZN9SY
+  name: New Day Blues Band - На кухне капает кран
+  sort_order: 50
+- id: 3329
+  type: photo
+  url: new-day-blues-band-11.jpg
+  name: all new
+  sort_order: 575
+  width: 2339
+  height: 1654
+- id: 3374
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 53
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: New Day Blues Band
+  text: 'Группа "New Day Blues Band" была основана 20 марта 2005 года из музыкантов
+    ранее уже игравших в различных коллективах города Запорожье. Уже был некоторый
+    наработанный материал - который и явился основой для творчества группы. Изначально
+    не ставилась идея играть только блюз. И как известно эта, музыка в нашей стране
+    не очень распространена. Ранее коллектив носил называние - "Новый день". История
+    данного названия столь необычная, сколько и символична и с течением времени лишь
+    укрепила и укоренила творческие взгляды всех участников коллектива.
+
+
+    "Усталый человек приходит домой, после неудачного дня, у него проблемы с личными
+    отношениями, предательство друзей, серый и злободневный быт, угнетающее окружение
+    окружающего мира; он садиться в одинокой комнате, наливает себе рюмочку дешевого
+    и терпкого коньяка, выпускает в пустоту, пронизанную отблеском луны, сизое облако
+    сигаретного дыма, берет в руки гитару и сочиняет настоящий блюз, до самого утра...
+    Рассвет - символ новой жизни, начала, развития, надежды на лучшее. Настает новый
+    день и жизнь меняется к лучшему, все сразу становится на свои места." Так и рождается
+    блюз - в предрассветной грусти или дорожной пыли, вселяющий надежду на лучшее.
+    Со временем блюз стал основным музыкальным направлением, на которое опирается
+    творчество коллектива. В январе 2009 года название коллектива сменилось на "New
+    Day Blues Band" и под этим названием группа продолжает работать.
+
+
+    В процессе существования группы менялось много участников - люди приходили и уходили,
+    кому-то не подходили мы, кто-то не подходил нам, но все оставляли частичку своей
+    души и мировоззрения в песнях коллектива. Менялись лица, имена, возраст участников,
+    инструментальный состав, аранжировки песен... Но однозначно было только одно:
+    все что делается - все к лучшему.
+
+
+    На текущий момент состав участников группы насчитывает 5 человек, а именно: Андрей
+    Бедношей (бас гитара, звукорежиссер и администратор группы), Андрей Петренко (ударные
+    инструменты, перкуссия), Сергей Шматов (гитара, бэк-вокал), Алексей Медников (губная
+    гармошка), Анастасия Зыкова (вокал).
+
+
+    Музыкальный стиль композиций - блюз, блюз-рок, ритм-н-блюз, русский рок, рок-н-рол,
+    кантри-блюз. Группа активно гастролирует, а так же принимает участие в различных
+    тематических мероприятиях, фестивалях и музыкальных конкурсах, является основателями
+    и организатором ежегодного всеукраинского блюзового фестиваля "Jammin'' Bluezzz".
+
+
+    "New Day Blues Band" продолжает выступать, ставить и реализовывать свои цели,
+    завоевывать сердца аудитории, развивать на просторах нашей страны такое музыкальное
+    направление, как блюз и радовать своих поклонников хорошими песнями.
+
+
+    P.S. На данный момент группа готовит новый музыкальный материал, и уже в ближайшие
+    время порадует своих слушателей, новой хорошей музыкой в стили Блюз.'
+  verified: true
+  created: '2010-10-18'
+  is_press_release: true

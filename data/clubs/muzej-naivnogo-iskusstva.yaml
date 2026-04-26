@@ -1,0 +1,14 @@
+id: 696
+token: muzej-naivnogo-iskusstva
+name: Музей наивного искусства
+alive: true
+address: Союзный проспект, 15а
+subway: Новогиреево
+phone: +7(495)301-03-48
+city_id: 1
+clips:
+- id: 4446
+  type: weblink
+  url: http://www.naive-museum.ru
+  name: Официальный сайт
+  sort_order: 0

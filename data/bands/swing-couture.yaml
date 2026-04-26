@@ -1,0 +1,39 @@
+id: 605
+token: swing-couture
+name: Swing Couture
+alive: true
+city_id: 2
+genre_id: 2
+secondary_genre_id: 25
+musicians:
+- name: Алексей Станков
+  instruments: гитара
+- name: Лина Колесник
+  instruments: скрипка
+- name: Максим Белицкий
+  instruments: гитара
+- name: Дмитрий Новицкий
+  instruments: контрабас
+- name: Сергей Петров
+  instruments: аккордеон
+- name: Сергей Зюзин
+  instruments: кларнет
+clips:
+- id: 3637
+  type: photo
+  url: swing-couture.jpg
+  sort_order: 0
+  width: 3888
+  height: 2592
+- id: 3635
+  type: youtube
+  url: http://www.youtube.com/?v=4SpkV8g5xIM
+  name: Ленинградское танго
+  comments: Автор музыки - Алексей Станков. Концерт в JFC jazz club 16.06.2011
+  sort_order: 99
+- id: 3636
+  type: weblink
+  url: http://vk.com/club224270
+  name: Страница ВКонтакте
+  comments: SWING COUTURE manouche, jazz, ragtime, dixieland
+  sort_order: 0

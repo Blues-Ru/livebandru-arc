@@ -1,0 +1,14 @@
+id: 216
+token: arena-moscow
+name: Arena Moscow
+alive: true
+address: Ленинградский просп., 31, стр. 4
+subway: Динамо
+phone: (495) 940-67-55
+city_id: 1
+clips:
+- id: 475
+  type: weblink
+  url: http://www.arenagroup.ru/
+  name: Официальный сайт
+  sort_order: 0

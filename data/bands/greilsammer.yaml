@@ -1,0 +1,41 @@
+id: 248
+token: greilsammer
+name: Michael Greilsammer
+alive: true
+url: http://www.myspace.com/mgsunshine/
+city_id: 20
+genre_id: 5
+secondary_genre_id: 3
+clips:
+- id: 811
+  type: youtube
+  url: http://www.youtube.com/?v=wXmJCJP8Ju0
+  name: Yalla Boy  -  Michael Greilsammer
+  comments: http://www.facebook.com/MGsunshine
+  sort_order: 99
+- id: 813
+  type: youtube
+  url: http://www.youtube.com/?v=PW5Xbb-Q2SI
+  name: Horay sheli
+  sort_order: 299
+- id: 814
+  type: youtube
+  url: http://www.youtube.com/?v=cXG1BDeQ3Mg
+  name: Mitorer
+  comments: ????? ????????? ?????? ?????? www.yosmusic.com
+  sort_order: 399
+- id: 809
+  type: weblink
+  url: http://www.facebook.com/MGsunshine
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 810
+  type: weblink
+  url: http://www.myspace.com/mgsunshine/
+  name: Страница на MySpace
+  sort_order: 199
+- id: 812
+  type: youtube
+  url: http://www.youtube.com/?v=VY7YpCnAO8k
+  name: HaEts ve-apri (boi iti)
+  sort_order: 199

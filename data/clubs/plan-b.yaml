@@ -1,0 +1,14 @@
+id: 393
+token: plan-b
+name: Plan B
+alive: true
+address: Советской Армии, 7
+subway: Достоевская, Новослободская
+phone: (495) 760-20-04
+city_id: 1
+clips:
+- id: 1725
+  type: weblink
+  url: http://www.planbclub.ru/
+  name: Официальный сайт
+  sort_order: 0

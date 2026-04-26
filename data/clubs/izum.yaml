@@ -1,0 +1,14 @@
+id: 231
+token: izum
+name: Изюм
+alive: true
+address: Гоголя, 15
+subway: Красный проспект, Сибирская
+phone: (383) 217-48-17
+city_id: 19
+clips:
+- id: 547
+  type: weblink
+  url: http://www.izum-club.ru
+  name: Официальный сайт
+  sort_order: 0

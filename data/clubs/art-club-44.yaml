@@ -1,0 +1,28 @@
+id: 424
+token: art-club-44
+name: Арт-Клуб "44"
+alive: true
+address: Крещатик, 44-Б
+subway: Театральная
+phone: (044) 279-41-37
+city_id: 16
+clips:
+- id: 1957
+  type: weblink
+  url: http://vk.com/club6731149
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1956
+  type: weblink
+  url: http://club44.com.ua/
+  name: Официальный сайт
+  sort_order: 0
+- id: 1958
+  type: weblink
+  url: http://www.facebook.com/pages/%D0%90%D0%A0%D0%A2-%D0%9A%D0%9B%D0%A3%D0%91-44/154600977892986
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 1959
+  type: rss
+  url: http://community.livejournal.com/44_art_club/data/rss
+  sort_order: 99

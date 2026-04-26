@@ -1,0 +1,15 @@
+id: 323
+token: lee-nee-boo
+name: Lee Nee Boo
+alive: true
+address: просп. Андропова, 8
+subway: Коломенская
+phone: 8-926-166-75-36, Дмитрий
+city_id: 1
+comments: 3 этаж ТЦ "Мегаполис"
+clips:
+- id: 1127
+  type: weblink
+  url: http://www.linibu.ru/
+  name: Официальный сайт
+  sort_order: 99

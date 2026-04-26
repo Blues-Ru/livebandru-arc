@@ -1,0 +1,35 @@
+id: 727
+token: reflections-duo
+name: Reflections Duo
+alive: true
+url: http://reflectionsduo.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Ольга Олейникова
+  instruments: вокал
+- name: Николай Добкин
+  instruments: клавишные
+references:
+- id: 595
+  name: Ольга Олейникова
+  token: olga-oleynikova
+clips:
+- id: 8379
+  type: weblink
+  url: http://reflectionsduo.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 8380
+  type: youtube
+  url: https://www.youtube.com/watch?v=9rJwsfrJQOU
+  name: Reflections Duo - Rock/Jazz/Rhythm'n'Blues Medley
+  comments: Live recorded jan 2017
+  sort_order: 0
+- id: 8381
+  type: photo
+  url: reflections-duo.jpg
+  sort_order: 0
+  width: 1996
+  height: 1200

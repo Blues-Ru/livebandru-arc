@@ -1,0 +1,47 @@
+id: 685
+token: the-mojoworkers
+name: The Mojoworkers
+alive: true
+url: http://vk.com/mojoworkers
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Don Hikaram
+  instruments: вокал, гитара
+- name: Михаил "Михалыч" Новиков
+  instruments: губная гармоника
+- name: Петр Рибуш
+  instruments: бас
+- name: Андрей Красилин
+  instruments: ударные
+clips:
+- id: 5588
+  type: weblink
+  url: http://vk.com/mojoworkers
+  name: Официальный сайт
+  sort_order: 0
+- id: 5589
+  type: photo
+  url: the-mojoworkers.jpg
+  name: The Mojoworkers
+  sort_order: 0
+  width: 2048
+  height: 2048
+- id: 5590
+  type: youtube
+  url: https://www.youtube.com/watch?v=b6I4WoNY0Is
+  name: The Mojoworkers - Foxy Lady (Jimi Hendrix cover)
+  sort_order: 99
+reviews:
+- id: 404
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: The Mojoworkers
+  text: The MojoWorkers - музыкальный коллектив из Санкт-Петербурга, объединивший
+    музыкантов, более 10 лет выступающих на клубной сцене Санкт-Петербурга и Москвы.
+    Стиль группы можно охарактеризовать, как blues rock с ярко выраженной губной гармоникой.
+  verified: true
+  created: '2014-03-28'
+  is_press_release: true

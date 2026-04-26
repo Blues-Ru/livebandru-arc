@@ -1,0 +1,21 @@
+id: 647
+token: big-daddy-blues
+name: Big Daddy Blues
+alive: true
+city_id: 17
+genre_id: 1
+musicians:
+- name: Денис Балахонов
+  instruments: вокал, гитара
+- name: Юрий Науменко
+  instruments: контрабас
+- name: Андрей Горохов
+  instruments: ударные
+- name: Виталий Волошин
+  instruments: губная гармоника
+clips:
+- id: 5038
+  type: weblink
+  url: http://vk.com/leto_blues
+  name: Страница ВКонтакте
+  sort_order: 99

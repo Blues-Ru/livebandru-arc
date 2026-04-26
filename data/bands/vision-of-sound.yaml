@@ -1,0 +1,42 @@
+id: 434
+token: vision-of-sound
+name: Vision Of Sound
+alive: true
+url: http://visionofsound.ru/
+city_id: 1
+genre_id: 2
+clips:
+- id: 2106
+  type: photo
+  url: vision-of-sound.jpg
+  sort_order: 0
+  width: 560
+  height: 526
+- id: 2054
+  type: weblink
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2055
+  type: weblink
+  url: http://www.myspace.com/visionsoundband
+  name: Страница на MySpace
+  sort_order: 200
+- id: 2053
+  type: weblink
+  url: http://visionofsound.ru/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 137
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Vision Of Sound – играет невероятную по красоте музыку фьюжн. Коллектив был
+    образован музыкантами легендарной группы "Арсенал" – Дмитрием Илугдиным и Евгением
+    Шариковым. Основой их нового проекта стала идея совместных выступлений с лучшими
+    отечественными музыкантами и с музыкантами всего мира на российской сцене. "Vision
+    of Sound"- это концертная лаборатория, где сочетается множество разных стилей
+    и направлений, но неизменной основой всегда является музыка Jazz, Funk и Fusion.
+  verified: true
+  created: '2011-04-23'
+  is_press_release: true

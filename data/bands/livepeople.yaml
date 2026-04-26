@@ -1,0 +1,45 @@
+id: 502
+token: livepeople
+name: Живые Люди
+aliases: 'Live People
+
+  Live People Ensemble'
+alive: true
+url: http://www.livepeopleband.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 2
+musicians:
+- name: Наталья Скворцова
+  instruments: клавишные
+- name: Юрий Севастьянов
+  instruments: саксофоны
+- name: Марк Гайдар
+  instruments: контрабас
+- name: Петр Талалай
+  instruments: ударные
+references:
+- id: 541
+  name: Priot Ensemble
+  token: priot
+- id: 543
+  name: Трио Одиссея
+  token: odysseytrio
+clips:
+- id: 2331
+  type: weblink
+  url: http://www.livepeopleband.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2701
+  type: youtube
+  url: http://www.youtube.com/?v=32XADvu4S1s
+  name: Живые люди - Алиса
+  comments: Видеоролик, снятый при помощи друзей Ансамбля из магазина духовых инструментов
+    Марьячи.
+  sort_order: 0
+- id: 3229
+  type: mp3
+  url: livepeople.mp3
+  name: Найдено
+  sort_order: 99

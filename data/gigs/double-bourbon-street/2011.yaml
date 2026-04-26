@@ -1,0 +1,315 @@
+- id: 15159
+  date: '2011-01-24'
+  time: '20:30'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: '200'
+- id: 15160
+  date: '2011-01-27'
+  time: '20:30'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 15162
+  date: '2011-01-31'
+  time: '20:30'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: '200'
+- id: 15905
+  date: '2011-02-24'
+  time: '20:00'
+  band_name: Dodger's Band, Специальный гость - Михаил Кистанов И Антон Бенеславский
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 15991
+  date: '2011-03-03'
+  time: '20:00'
+  band_name: Dodger's Band и Валерий Сеткин (Rawcats'88)
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+  - id: 101
+    name: RawCats'88
+    token: raw-cats-88
+- id: 16633
+  date: '2011-03-10'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 16655
+  date: '2011-03-17'
+  time: '20:00'
+  band_name: Dodger's Band - Jam session (Special guest- Вадим Иващенко)
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+  extra_bands:
+  - id: 63
+    name: Вадим Иващенко и The Boneshakers
+    token: ivaschenko
+  - id: 379
+    name: Dodger's Band
+    token: dodgers-band
+- id: 17151
+  date: '2011-03-31'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 17153
+  date: '2011-04-07'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 17160
+  date: '2011-04-21'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 17163
+  date: '2011-04-28'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 17158
+  date: '2011-04-14'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 17728
+  date: '2011-05-09'
+  time: '20:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.
+- id: 19789
+  date: '2011-05-25'
+  time: '20:00'
+  band_name: Bright Night
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+- id: 19812
+  date: '2011-05-27'
+  time: '20:00'
+  band_name: Алексей Миронов и Лобо
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+- id: 19956
+  date: '2011-05-28'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 300 руб.
+- id: 20342
+  date: '2011-06-17'
+  time: '22:00'
+  band_name: Mozaik
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатно
+- id: 20346
+  date: '2011-06-19'
+  time: '20:00'
+  band_name: The Eves
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.
+- id: 20337
+  date: '2011-06-13'
+  time: '17:00'
+  band_name: Фестиваль "Street music fest", отборочный этап фестиваля Rock Set в Парке
+    горького. Это фестиваль - состязание профессиональных но молодых коллективов за
+    право стать любимцами публики. приходите и поддержите их!)
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 150 руб.
+- id: 20339
+  date: '2011-06-15'
+  time: '20:00'
+  band_name: Bright Night
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатно
+- id: 20340
+  date: '2011-06-16'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатный
+- id: 20341
+  date: '2011-06-17'
+  time: '20:00'
+  band_name: Джинсы
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.
+- id: 20344
+  date: '2011-06-18'
+  time: '20:00'
+  band_name: Вельветовый оркестр, Д.Ж.А. кузи, Mr. Wonderful
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.
+  extra_bands:
+  - id: 107
+    name: The Soul Voyager
+    token: thesoulvoyager
+- id: 20336
+  date: '2011-06-12'
+  time: '20:00'
+  band_name: Surfin' Jaguars (http://vkontakte.ru/surfinjaguars) серф, серф-рок, хиты
+    и всем известные мелодии из фильмов, концерт в баре Double Bourbone. Вход свободный!
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: бесплатно
+- id: 20334
+  date: '2011-06-10'
+  time: '20:00'
+  band_name: SMOKIN'BLUES http://vkontakte.ru/club1566934 Гремучая и взрывоопасная
+    смесь из блюза, рока, свинга, серфа, рокабилли и конечно же рокенрола. Однако
+    рассуждения о стилях музыканты группы оставляют на суд своих слушателей и специалистов,
+    для них много важнее играть музыку, которая с первых нот пленяет любого человека
+    своей правдивостью и жизненностью.
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.
+- id: 20335
+  date: '2011-06-11'
+  time: '22:00'
+  band_name: Детишки, есть такие люди, которые носят косухи, ездят на байках и возят
+    с собой Свободу. Они называются Байкеры., Лапули, есть такая Группа, которая подрывает,
+    переворачивает и натягивает все представления землян о том, что такое рок-музыка
+    и рок-концерт., Говорят, раз в тысячелетие эти два явления сливаются в едином
+    экстазе в клубе Дабл-Бурбон близ метро Таганская., Приходи. Приезжай. Запомнишь
+    надолго., Девушкам на мотоциклах - вход бесплатный., , Влупим так, что мало не
+    покажется.
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250-300р.
+- id: 20338
+  date: '2011-06-14'
+  time: '20:00'
+  band_name: Фестиваль "Street music fest"
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 150 руб.
+  comments: Отборочный этап фестиваля Rock Set в Парке Горького
+- id: 20345
+  date: '2011-06-18'
+  time: '23:00'
+  band_name: Волчья Сотня
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250-300р.
+  comments: Вечеринка мото-клуба "Пираты ветров"
+- id: 20905
+  date: '2011-07-14'
+  time: '20:00'
+  band_id: 379
+  band_name: Dodger's Band
+  band_token: dodgers-band
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: Бесплатно
+- id: 23208
+  date: '2011-11-25'
+  time: '22:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+- id: 22598
+  date: '2011-10-27'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 127
+  club_name: Double Bourbon Street
+  club_token: double-bourbon-street
+  price: 250 руб.

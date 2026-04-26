@@ -1,0 +1,18 @@
+id: 217
+token: duma
+name: Дума
+alive: true
+address: Моховая, 11, стр. 3в
+subway: Охотный ряд
+phone: (495) 692-11-19
+city_id: 1
+clips:
+- id: 476
+  type: weblink
+  url: http://www.clubduma.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 477
+  type: rss
+  url: http://community.livejournal.com/duma_club/data/rss
+  sort_order: 99

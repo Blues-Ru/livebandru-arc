@@ -1,0 +1,34 @@
+- id: 34120
+  date: '2013-02-19'
+  time: '21:00'
+  band_name: Jazzlight
+  club_id: 116
+  club_name: Bilingua
+  club_token: bilingua
+- id: 36107
+  date: '2013-05-19'
+  time: '19:30'
+  band_name: 'Modern Jazz Fest II: All Eyes, Живые Люди, Osipov Friends, Павел Чекмаковский,
+    Fusion Port'
+  club_id: 116
+  club_name: Bilingua
+  club_token: bilingua
+  extra_bands:
+  - id: 454
+    name: Osipov Friends
+    token: osipov-friends
+  - id: 511
+    name: Fusion Port
+    token: fusion-port
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+- id: 36211
+  date: '2013-06-12'
+  time: '21:00'
+  band_id: 237
+  band_name: Tango Orchestra Misterioso
+  band_token: tango-misterioso
+  club_id: 116
+  club_name: Bilingua
+  club_token: bilingua

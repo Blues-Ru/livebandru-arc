@@ -1,0 +1,48 @@
+id: 289
+token: band-jamin
+name: Бэнджамин
+aliases: Веселый Дилижанс
+alive: true
+url: http://www.cheerfuldiligence.com
+city_id: 72
+genre_id: 6
+secondary_genre_id: 10
+musicians:
+- name: Мария Разумная
+  instruments: Вокал, гитара
+- name: Александра Разумная
+  instruments: Добро,  гитара, Мандолина, Лэп стилл,
+- name: Алексей Иванов
+  instruments: Банджо, Электрогитара, Фортепиано, Бэк вокал
+- name: Василий Косарев
+  instruments: Бас
+- name: Александр Дегтярев
+  instruments: Барабаны
+- name: Александр Красавцев
+  instruments: Звукорежиссер
+clips:
+- id: 961
+  type: weblink
+  url: http://www.rock-festival.ru/groups/detail.html?id=928
+  name: подробно о группе
+  sort_order: 0
+- id: 964
+  type: youtube
+  url: http://www.youtube.com/?v=4DH1UIlMhG4
+  name: Друг
+  sort_order: 99
+- id: 962
+  type: mp3
+  url: http://www.rock-festival.ru/files/user_files/928/Son.mp3
+  name: Сон
+  sort_order: 99
+- id: 963
+  type: mp3
+  url: cheerfuldiligence.mp3
+  name: Друг
+  sort_order: 199
+- id: 965
+  type: youtube
+  url: http://www.youtube.com/?v=EUYSa2H-B1k
+  name: Ритм & Блюз
+  sort_order: 199

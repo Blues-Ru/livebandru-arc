@@ -1,0 +1,431 @@
+- id: 6928
+  date: '2007-01-05'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 6929
+  date: '2007-01-06'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 6995
+  date: '2007-01-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 6999
+  date: '2007-01-26'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7002
+  date: '2007-01-28'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7100
+  date: '2007-02-11'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7102
+  date: '2007-02-23'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7105
+  date: '2007-02-18'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7140
+  date: '2007-02-09'
+  band_id: 64
+  band_name: Gadjes Band
+  band_token: gadjes-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7141
+  date: '2007-02-10'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7142
+  date: '2007-02-24'
+  band_id: 56
+  band_name: Svet Boogie Band
+  band_token: svet-boogie-band
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7143
+  date: '2007-03-03'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7151
+  date: '2007-03-10'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7203
+  date: '2007-03-11'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7206
+  date: '2007-03-24'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 7207
+  date: '2007-03-18'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7290
+  date: '2007-03-23'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7291
+  date: '2007-04-06'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7373
+  date: '2007-04-08'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7375
+  date: '2007-04-22'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7376
+  date: '2007-04-27'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 7477
+  date: '2007-05-06'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7482
+  date: '2007-05-20'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7484
+  date: '2007-05-26'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7583
+  date: '2007-06-10'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7586
+  date: '2007-06-17'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7587
+  date: '2007-06-23'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 7741
+  date: '2007-07-01'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7746
+  date: '2007-07-15'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7831
+  date: '2007-08-05'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7834
+  date: '2007-08-12'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7835
+  date: '2007-08-17'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 7838
+  date: '2007-08-26'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7942
+  date: '2007-09-01'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: 200 руб.
+- id: 7964
+  date: '2007-09-09'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 7968
+  date: '2007-09-16'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8015
+  date: '2007-09-21'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8027
+  date: '2007-10-12'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8082
+  date: '2007-10-20'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8113
+  date: '2007-10-07'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8116
+  date: '2007-10-21'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8122
+  date: '2007-10-27'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8143
+  date: '2007-10-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8161
+  date: '2007-11-10'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8262
+  date: '2007-11-04'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8265
+  date: '2007-11-16'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8272
+  date: '2007-12-23'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8303
+  date: '2007-11-18'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+  price: бесплатный
+- id: 8362
+  date: '2007-12-14'
+  band_id: 27
+  band_name: Scolder Blues
+  band_token: scolder-blues
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues
+- id: 8366
+  date: '2007-12-28'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 81
+  club_name: Кафе Блюз
+  club_token: cafe-blues

@@ -1,0 +1,39 @@
+id: 367
+token: eilenkrig
+name: Вадим Эйленкриг
+aliases: 'Вадим Эйленкриг (труба) и его группа
+
+  Вадим Эйленкриг и его группа'
+alive: true
+url: http://www.eilenkrig.ru
+city_id: 1
+genre_id: 2
+musicians:
+- name: Вадим Эйленкриг
+  instruments: труба
+clips:
+- id: 1481
+  type: photo
+  url: eilenkrig.jpg
+  sort_order: 0
+  width: 393
+  height: 274
+- id: 1479
+  type: weblink
+  url: http://www.eilenkrig.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 1480
+  type: rss
+  url: http://eilenkrig.ru/wps/?feed=rss2
+  sort_order: 99
+- id: 1482
+  type: youtube
+  url: http://www.youtube.com/?v=t38UJhIuXcE
+  name: You My Everything
+  sort_order: 99
+- id: 1483
+  type: youtube
+  url: http://www.youtube.com/?v=kmOS7Uu7lrw
+  name: Вадим Эйленкриг Vadim Eilenkrig и Игорь Бутман
+  sort_order: 199

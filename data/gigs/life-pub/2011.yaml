@@ -1,0 +1,23 @@
+- id: 21126
+  date: '2011-08-18'
+  time: '20:30'
+  band_name: Валерий Пономарев и Московские Посланцы Джаза
+  club_id: 474
+  club_name: Life Pub
+  club_token: life-pub
+  extra_bands:
+  - id: 519
+    name: Московские Посланцы Джаза
+    token: moscow-jazz-messengers
+  - id: 518
+    name: Валерий Пономарев
+    token: v-ponomarev
+- id: 20459
+  date: '2011-06-23'
+  time: '21:00'
+  band_id: 474
+  band_name: Laya Bam Band
+  band_token: laya-bam-band
+  club_id: 474
+  club_name: Life Pub
+  club_token: life-pub

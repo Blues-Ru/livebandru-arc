@@ -1,0 +1,17 @@
+- id: 22256
+  date: '2011-12-04'
+  time: '18:00'
+  band_name: Kirk Fletcher (USA) & The Jumping Cats, Mess'O'Blues
+  club_id: 208
+  club_name: Солнце
+  club_token: solnce
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 78
+    name: Mess o'blues
+    token: mess-o-blues
+  - id: 558
+    name: Kirk Fletcher
+    token: kirk-fletcher

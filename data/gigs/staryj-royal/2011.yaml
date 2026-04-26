@@ -1,0 +1,281 @@
+- id: 23183
+  date: '2011-11-17'
+  time: '20:00'
+  band_name: Евгений Соколов (саксофон), Олег Анохин (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23184
+  date: '2011-11-18'
+  time: '20:00'
+  band_name: Dynamit Jazz Quintet
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23173
+  date: '2011-11-07'
+  time: '20:00'
+  band_name: Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23174
+  date: '2011-11-08'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23175
+  date: '2011-11-09'
+  time: '20:00'
+  band_name: Дмитрий Забегаев (саксофон), Андрей Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23176
+  date: '2011-11-10'
+  time: '20:00'
+  band_name: Римма Шайхелова (вокал), Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23177
+  date: '2011-11-11'
+  time: '20:00'
+  band_name: Iron jazz trio
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23178
+  date: '2011-11-12'
+  time: '20:00'
+  band_name: Doctor Jazz
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23179
+  date: '2011-11-13'
+  time: '20:00'
+  band_name: Jazzia, Олег Анохин (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23180
+  date: '2011-11-14'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23181
+  date: '2011-11-15'
+  time: '20:00'
+  band_name: Андрей Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23182
+  date: '2011-11-16'
+  time: '20:00'
+  band_name: Джамиль Шарифуллин (скрипка), Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23185
+  date: '2011-11-19'
+  time: '20:00'
+  band_name: Ruden Jazz Quartet
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23186
+  date: '2011-11-20'
+  time: '20:00'
+  band_name: Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23187
+  date: '2011-11-21'
+  time: '20:00'
+  band_name: Олег Анохин (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23188
+  date: '2011-11-22'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 100 руб.
+- id: 23189
+  date: '2011-11-23'
+  time: '20:00'
+  band_name: Данис Щербаков (гитара), Андрей Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+- id: 23190
+  date: '2011-11-24'
+  time: '20:00'
+  band_name: Программа "Джазовые Трансформации" при уч. Андрея Макаревича, трио Евгения
+    Борца, Ирины Родилес и Brill Brothers
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  price: 150 руб.
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 23981
+  date: '2011-12-03'
+  time: '20:00'
+  band_name: Jazzia trio
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23982
+  date: '2011-12-04'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23983
+  date: '2011-12-05'
+  time: '20:00'
+  band_name: Олег Анохин (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23984
+  date: '2011-12-06'
+  time: '20:00'
+  band_name: Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23985
+  date: '2011-12-07'
+  time: '20:00'
+  band_name: Дмитрий Забегаев (саксофон), Андрея Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23986
+  date: '2011-12-08'
+  time: '20:00'
+  band_name: Джамиль Шарифуллин (скрипка), Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23987
+  date: '2011-12-09'
+  time: '20:00'
+  band_name: Jazzia trio
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23988
+  date: '2011-12-10'
+  time: '20:00'
+  band_name: Iron jazz quartet
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23989
+  date: '2011-12-11'
+  time: '20:00'
+  band_name: Андрей Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23990
+  date: '2011-12-12'
+  time: '20:00'
+  band_name: Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23991
+  date: '2011-12-13'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23992
+  date: '2011-12-14'
+  time: '20:00'
+  band_name: Дмитрий Забегаев (саксофон), Андрея Руденко (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 24114
+  date: '2011-12-18'
+  time: '20:00'
+  band_name: Наталья Железных (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 24115
+  date: '2011-12-19'
+  time: '20:00'
+  band_name: Владимир Штейнман (рояль)
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 23476
+  date: '2011-12-15'
+  time: '20:00'
+  band_id: 518
+  band_name: Валерий Пономарев
+  band_token: v-ponomarev
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 24262
+  date: '2011-12-23'
+  time: '20:00'
+  band_name: Новогодний вечер с Ruden Jazz Quartet
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 24263
+  date: '2011-12-24'
+  time: '20:00'
+  band_name: Новогодний вечер с Iron Jazz Quintet
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+- id: 24264
+  date: '2011-12-25'
+  time: '20:00'
+  band_name: Новогодний вечер с группой "Листья травы"
+  club_id: 531
+  club_name: Старый рояль
+  club_token: staryj-royal
+  extra_bands:
+  - id: 117
+    name: Листья Травы
+    token: leaves-of-grass

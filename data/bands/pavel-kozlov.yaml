@@ -1,0 +1,142 @@
+id: 334
+token: pavel-kozlov
+name: Павел Козлов & Alright Band
+aliases: Alright Band
+alive: true
+url: http://www.pavelkozlov.su/
+city_id: 1
+genre_id: 24
+secondary_genre_id: 6
+musicians:
+- name: Александо Соколов
+  instruments: гитара
+- name: Сергей Гордевский
+  instruments: клавишные
+- name: Владимир Смирнов
+  instruments: бас-гитара
+- name: Владимир Ткачев
+  instruments: ударные
+- name: Петр Макиенко
+  instruments: бас-гитара
+- name: Павел Козлов
+  instruments: вокал
+references:
+- id: 82
+  name: Алексей Кузнецов
+  token: alexey-kuznetsov
+clips:
+- id: 4322
+  type: mp3
+  url: pavel-kozlov-5.mp3
+  name: A Hard Day's Night (The Beatles cover)
+  comments: swing\ feat. A.Kuznetsov (guitar)
+  sort_order: 499
+- id: 4330
+  type: photo
+  url: pavel-kozlov-2.jpg
+  name: Павел Козлов
+  sort_order: 199
+  width: 533
+  height: 800
+- id: 4329
+  type: youtube
+  url: http://youtu.be/CKNE3Mcgwc4
+  name: Вспомни обо мне
+  comments: официальный видеоклип
+  sort_order: 399
+- id: 4325
+  type: mp3
+  url: pavel-kozlov-8.mp3
+  name: Плачет небо
+  comments: Поп.\ авторы О.Матылькова, В.Голубев
+  sort_order: 799
+- id: 1661
+  type: weblink
+  url: http://www.pavelkozlov.su/
+  name: Официальный сайт
+  sort_order: 0
+- id: 4320
+  type: mp3
+  url: pavel-kozlov-3.mp3
+  name: Enjoy the silence (DM cover)
+  comments: feat. A.Kuznetsov (guitar)
+  sort_order: 299
+- id: 4333
+  type: photo
+  url: pavel-kozlov-5.jpg
+  name: Павел Козлов
+  sort_order: 499
+  width: 495
+  height: 700
+- id: 3446
+  type: mp3
+  url: pavel-kozlov.mp3
+  name: The Lonesome Blues
+  sort_order: 99
+- id: 4319
+  type: mp3
+  url: pavel-kozlov-2.mp3
+  name: Standing at the window
+  comments: Блюз. автор Н.Садиков
+  sort_order: 199
+- id: 3447
+  type: photo
+  url: pavel-kozlov.jpg
+  name: Павел Козлов & Alright Band
+  sort_order: 99
+  width: 467
+  height: 700
+- id: 4327
+  type: youtube
+  url: http://youtu.be/P00H--F45NQ
+  name: Personal Jesus (DM cover)
+  sort_order: 199
+- id: 4328
+  type: youtube
+  url: http://youtu.be/_ej_GvSEof0
+  name: The Lonesome Blues (official video)
+  sort_order: 299
+- id: 4326
+  type: youtube
+  url: http://youtu.be/evs_2Zwt2QM
+  name: While my guitar gently weeps
+  sort_order: 99
+- id: 4321
+  type: mp3
+  url: pavel-kozlov-4.mp3
+  name: Yest' tolko mig
+  comments: Bossa/ feat. A.Kuznetsov (guitar)
+  sort_order: 399
+- id: 4323
+  type: mp3
+  url: pavel-kozlov-6.mp3
+  name: Вспомни обо мне
+  comments: Поп.\ автор И.Попов
+  sort_order: 599
+- id: 4324
+  type: mp3
+  url: pavel-kozlov-7.mp3
+  name: В сердце нежность
+  comments: Поп\ автор И.Попов
+  sort_order: 699
+- id: 4331
+  type: photo
+  url: pavel-kozlov-3.jpg
+  name: Павел Козлов
+  sort_order: 299
+  width: 402
+  height: 600
+- id: 4332
+  type: photo
+  url: pavel-kozlov-4.jpg
+  name: Павел Козлов
+  sort_order: 399
+  width: 399
+  height: 600
+- id: 4334
+  type: photo
+  url: pavel-kozlov-6.jpg
+  name: Павел Козлов - певец, актер, теле и радио ведущий
+  sort_order: 599
+  width: 945
+  height: 1417

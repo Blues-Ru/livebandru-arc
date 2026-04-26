@@ -1,0 +1,14 @@
+id: 524
+token: artplay
+name: Artplay
+alive: true
+address: Нижняя Сыромятническая, 10
+subway: Курская
+phone: +7(495)620-0882, 917-8204
+city_id: 1
+clips:
+- id: 2786
+  type: weblink
+  url: http://www.artplay.ru
+  name: Официальный сайт
+  sort_order: 0

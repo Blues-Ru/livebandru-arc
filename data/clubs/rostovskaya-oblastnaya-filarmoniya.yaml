@@ -1,0 +1,19 @@
+id: 562
+token: rostovskaya-oblastnaya-filarmoniya
+name: Ростовская областная филармония
+alive: true
+address: Большая Садовая, 170
+phone: +7(863)263-32-64, +7 (863)263-35-69
+city_id: 11
+clips:
+- id: 3121
+  type: weblink
+  url: http://rostfilarm.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 3122
+  type: photo
+  url: rostovskaya-oblastnaya-filarmoniya.jpg
+  sort_order: 0
+  width: 500
+  height: 164

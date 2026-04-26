@@ -1,0 +1,14 @@
+id: 805
+token: dom-romansa
+name: Дом романса
+alive: true
+address: Москва, ул. Расплетина, 2 / ул. Берзарина, 20
+subway: Октябрьское поле
+phone: +7(499)197-48-31, 197-48-86
+city_id: 1
+clips:
+- id: 6792
+  type: weblink
+  url: http://domromansa.ru/
+  name: Официальный сайт
+  sort_order: 0

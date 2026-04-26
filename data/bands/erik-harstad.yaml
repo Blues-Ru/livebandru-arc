@@ -1,0 +1,76 @@
+id: 491
+token: erik-harstad
+name: Erik Harstad
+aliases: 'Erik Harstad & The Buzz Brothers
+
+  Эрик Харстад'
+alive: true
+url: http://www.myspace.com/erikharstadthebuzzbrothers
+city_id: 62
+genre_id: 1
+musicians:
+- name: Эрик Харстад
+  instruments: гитара, вокал
+- name: Эйрик Бергене
+  instruments: бас
+- name: Ярослав Писарев
+  instruments: ударные
+clips:
+- id: 2264
+  type: youtube
+  url: http://www.youtube.com/?v=TsVDT7fdQoI
+  name: Shuffle
+  comments: Erik Harstad & Buzz Brothers at Sinus, 10 april 2010
+  sort_order: 0
+- id: 2247
+  type: weblink
+  url: http://www.myspace.com/erikharstadthebuzzbrothers
+  name: Страница на MySpace
+  sort_order: 99
+- id: 2267
+  type: youtube
+  url: http://www.youtube.com/?v=gbYWLWwOk6E
+  name: What's new in town
+  comments: Live fra klubbkvelden til Laugen Rock- og bluesklubb på Kvernflaten gård
+    i Ringebu 29.09.10
+  sort_order: 50
+- id: 2333
+  type: weblink
+  url: http://www.myspace.com/erikharstadthebuzzbrothers
+  name: Официальный сайт
+  sort_order: 0
+- id: 2268
+  type: photo
+  url: erik-harstad.jpg
+  name: Erik Harstad2
+  sort_order: 0
+  width: 600
+  height: 902
+reviews:
+- id: 170
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Эрик Харстад в Москве
+  text: 'По прошествии многих лет Эрик Харстад стал одним из передовых блюзовых музыкантов
+    Норвегии. Длинной музыкальной карьере сопутствовало большое число выступлений
+    во многих блюзовых клубах и фестивалях Норвегии, и сегодня он известен как ветеран
+    норвежской блюзовой сцены. За последние 20 лет Эрик Харстад был членом таких коллективов
+    как "Male Blues Band" и "The Buzz Brothers" и прочно занял место в истории норвежского
+    блюза. За это время он выпустил два собственных альбома.
+
+
+    Эрик Харстад в первый раз приедет в Россию. В составе его трио выступит еще один
+    опытный блюзовый музыкант, исполнитель на губной гармонике и басист Эйрик Бергене.
+    Бергене хорошо известен российским любителям блюза, а в Норвегии он закрепил за
+    собой звание одного из лучших гармонистов во всей стране. Вместе с ударником Ярославом
+    Писаревым из Санкт-Петербурга трио представит слушателям традиционный блюз и свинг
+    высочайшего качества.
+
+
+    Слушатели, которые еще не слышали музыку Харстада, могут приготовиться к уроку
+    блюзового чувства и музыкальной техники. Каждая сыгранная им нота полна смысла,
+    а сам он показывает необычайное уважение к музыке.'
+  verified: true
+  created: '2011-06-07'
+  is_press_release: true

@@ -1,0 +1,13 @@
+id: 606
+token: artist
+name: арт-кафе "Артист"
+alive: true
+address: пер.Университетский, 44
+phone: 2 (863) 263-17-57
+city_id: 11
+clips:
+- id: 3435
+  type: weblink
+  url: http://vk.com/art_artist
+  name: Официальный сайт
+  sort_order: 0

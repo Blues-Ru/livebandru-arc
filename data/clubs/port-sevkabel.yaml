@@ -1,0 +1,14 @@
+id: 903
+token: port-sevkabel
+name: Порт Севкабель
+alive: true
+address: Кожевенная линия, 40
+subway: Приморская, Василеостровская
+phone: +7(812)213-32-02
+city_id: 2
+clips:
+- id: 9171
+  type: weblink
+  url: http://www.sevcableport.ru
+  name: Официальный сайт
+  sort_order: 0

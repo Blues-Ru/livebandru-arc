@@ -1,0 +1,31 @@
+id: 470
+token: blues-gravity
+name: Blues Gravity
+alive: true
+city_id: 1
+genre_id: 1
+musicians:
+- name: Кирилл Гуцков
+  instruments: вокал, бас
+- name: Сергей Виноградов
+  instruments: гитара
+- name: Михаил Васильев
+  instruments: ударные
+clips:
+- id: 2192
+  type: weblink
+  url: http://vk.com/club11967487
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 2193
+  type: photo
+  url: blues-gravity.jpg
+  sort_order: 99
+  width: 604
+  height: 402
+- id: 2194
+  type: photo
+  url: blues-gravity-2.jpg
+  sort_order: 0
+  width: 200
+  height: 283

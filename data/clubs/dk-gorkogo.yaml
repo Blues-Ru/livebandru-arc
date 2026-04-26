@@ -1,0 +1,15 @@
+id: 358
+token: dk-gorkogo
+name: ДК им. Горького
+aliases: ДК им. А.М. Горького
+alive: true
+address: пл. Стачек, 4
+subway: Нарвская
+phone: (812) 252-75-13
+city_id: 2
+clips:
+- id: 1333
+  type: weblink
+  url: http://www.gorkogo.spb.ru
+  name: Официальный сайт
+  sort_order: 99

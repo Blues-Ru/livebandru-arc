@@ -1,0 +1,101 @@
+id: 743
+token: richard-townend
+name: Richard Townend
+alive: false
+url: https://www.richardtownend.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 10
+musicians:
+- name: Richard Townend
+  instruments: guitar, vocal
+- name: Антон Ильин
+  instruments: клавишные
+- name: Денис Назаров
+  instruments: бас
+- name: Данила Ленци
+  instruments: барабаны
+- name: Михаил Данилов
+  instruments: перкуссия, гармоника, слайд-гитара
+clips:
+- id: 8924
+  type: youtube
+  url: https://www.youtube.com/watch?v=n4lXhm1dzs8
+  name: Boiling Point - The Mighty Boss Cats
+  comments: This is one track from the four track session the band did for the Raven
+    & Blues radio show and podcast.
+  sort_order: 200
+- id: 8925
+  type: youtube
+  url: https://www.youtube.com/watch?v=iy_ohiYx0Vc
+  name: The Mighty Bosscats - Elvis Coming Home
+  comments: A video of a new song from an album we are releasing shortly - to pre-order
+    please email themightybosscats@hotmail.com
+  sort_order: 300
+- id: 8922
+  type: youtube
+  url: https://www.youtube.com/watch?v=vMMzi-DND3I
+  name: Goldfever - The Mighty Bosscats
+  comments: Here is the title track from GOLDFEVER album number 9 .........
+  sort_order: 0
+- id: 8923
+  type: youtube
+  url: https://www.youtube.com/watch?v=fETc03eyXHQ
+  name: The Mighty Bosscats - Blues
+  comments: 'Blog : http://blog.daum.net/bmj11'
+  sort_order: 100
+- id: 9261
+  type: weblink
+  url: https://www.richardtownend.com/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 487
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'RICHARD TOWNEND - гитарист и певец, лидер блюз-рок-группы The Mighty BossCats
+    и автор превосходного песенного материала. Выпускник Leeds College of Music по
+    классу гитары и композиции, Ричард много лет работал на телевидении, записывался
+    и гастролировал со многими британскими звездами музыкальной комедии Ронни Корбеттом,
+    Чарли Дрейком, Лесом Деннисом,Тони Кристи и др. 15 лет работы на телевидении принесли
+    доход, опыт и... разочарование. Ричард ушел с телевидения и с профессиональной
+    сцены и некоторое время играл в свое удовольствие, а позднее и вовсе, что называется,
+    повесил гитару на гвоздь.
+
+
+    Но талант и жажда писать и играть свои песни взяли свое - в 2005 году, накопив
+    песен-историй на два-три альбома, Ричард Таунэнд собрал пауэр-блюз-трио BossCats
+    и начал играть в жестком, прямолинейном техасском стиле, соперничая напором и
+    хлесткостью аранжировок с записями Джонни Винтера и Стиви Рэя Вона. Со временем
+    состав расширился до квартета, сменил название на The Mighty BossCats, стиль трансформировался
+    в более мягкий и утонченный под влиянием Эрика Клэптона и Джей.Джей.Кейла, а лирика
+    глубиной соперничала с творчеством Брюса Спрингстина.
+
+
+    Ричард отличается исключительной плодовитостью - к настоящему моменту он написал
+    более 200 песен. С конца 2010 года он выпустил 3 сольных альбома и 9 альбомов
+    с The Mighty BossCats, а также "живой" альбом "Live in Moscow". Критики справедливо
+    сравнивают стиль Ричарда с классиками - J.J. Cale, Dire Straits и Chris Rea. Его
+    шесть раз - в 2012, -13, -14, -15, -16 и -18 годах номинировались на British Blues
+    Awards в категории Best Original Song, а многие авторитетные блюзовые журналы
+    включали его работы в свои CD-сборники-приложения. Альбом 2017 года The Mighty
+    BossCats ''God Bless America'' высоко оценен критиками и плотно ротировался на
+    британских радиостанциях - альбом заслуженно получил №1 в декабрьском рейтинге
+    Ассоциации Британских Независимых Радиовещателей IBBA - Most Played Albums - Top40,
+    и, наряду с другими работами, принес Ричарду Таунэнду и The Mighty BossCats итоговое
+    14 место в рейтинге Most Played Artist Top 40 of 2017, а весной 2018 года - две
+    номинации на UK Blues Awards: Best Original Song и Best Album.
+
+
+    Первый визит Ричарда в Россию состоялся в апреле 2018 года. Чуть больше, чем через
+    год, в мае 2019 года Ричард Таунэнд вернулся в Россию и совершил третий тур. Один
+    из московских концертов был профессионально записан, а спустя год, в начале лета
+    2020 года эти записи составили основу "живого" альбома Live in Moscow.
+
+
+    В июле 2023 года Ричард Тоунэнд впервые приедет в Казахстан и выступит с концертами
+    в Алматинских клубах EverJazz и SoulMajor. Не пропустите!'
+  verified: true
+  created: '2018-01-16'
+  is_press_release: true

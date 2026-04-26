@@ -1,0 +1,18 @@
+id: 214
+token: m-club
+name: M-Club
+alive: true
+address: просп. Мира, 119, ВВЦ, пав. 70
+subway: ВДНХ
+city_id: 1
+clips:
+- id: 472
+  type: weblink
+  url: http://www.mclubm.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 473
+  type: weblink
+  url: http://vk.com/club17208894
+  name: Страница ВКонтакте
+  sort_order: 100

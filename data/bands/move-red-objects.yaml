@@ -1,0 +1,38 @@
+id: 387
+token: move-red-objects
+name: Move Red Objects
+alive: true
+city_id: 1
+genre_id: 3
+musicians:
+- name: Андрей Бессонов
+  instruments: кларнет, гитара, вокал
+- name: Мария Логофет
+  instruments: скрипка, электроника
+- name: Виктор Авсарагов
+  instruments: бас
+- name: Владимир Глушко
+  instruments: ударные
+clips:
+- id: 1706
+  type: weblink
+  url: http://ru-ru.facebook.com/pages/Move-Red-Objects/141477179202943
+  name: Страница на FaceBook
+  sort_order: 99
+- id: 1707
+  type: weblink
+  url: http://www.myspace.com/moveredobjects
+  name: Страница на MySpace
+  sort_order: 199
+reviews:
+- id: 107
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Московская группа Move Red Objects играет причудливую, интенсивную музыку,
+    которая, так уж случилось, приняла форму англоязычного рока. Наряду с обычным
+    для рок-музыки инструментарием у M.R.O. звучат на диво неакадемичные, неджазовые
+    и нефольклорные кларнет и скрипка.
+  verified: true
+  created: '2011-02-20'
+  is_press_release: true

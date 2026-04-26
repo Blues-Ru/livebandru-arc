@@ -1,0 +1,12 @@
+- id: 42043
+  date: '2014-02-14'
+  time: '21:00'
+  band_name: Александр Соловьев
+  club_id: 758
+  club_name: Lady Jane
+  club_token: lady-jane
+  price: бесплатный
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev

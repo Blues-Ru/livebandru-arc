@@ -1,0 +1,48 @@
+id: 528
+token: ivanov-vibe-band
+name: Ivanov Vibe Band
+alive: true
+url: http://ivanovband.com/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 11
+musicians:
+- name: Иннокентий Иванов
+  instruments: вибрафон
+- name: Антон Залетаев
+  instruments: саксофоны, флейта
+- name: Александр Горох
+  instruments: гитара
+- name: Вячеслав Ахметзянов
+  instruments: контрабас
+- name: Алексей Денисов
+  instruments: ударные
+clips:
+- id: 2464
+  type: photo
+  url: ivanov-vibe-band.jpg
+  sort_order: 0
+  width: 445
+  height: 295
+- id: 3947
+  type: weblink
+  url: http://ivanovband.com/
+  name: Официальный сайт
+  sort_order: 0
+reviews:
+- id: 195
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Ivanov Vibe Band - молодой и перспективный коллектив, представитель джазовых
+    музыкантов нового поколения. Каждый концерт проекта - это эмоциональный диалог
+    между "живым" вибрафоном, контрабасом, клавишными и барабанами. От концерта к
+    концерту команда успешно развивается и уже успела получить признание на площадках
+    таких фестивалей, как "До.дж" (Украина, Донецк) и "Этносфера" (Россия, Москва).
+
+
+    Автором музыки является вибрафонист Иннокентий Иванов, его композиции несут в
+    себе яркую смесь стилей и направлений (этно-фьюжн, латина и джаз-рок).'
+  verified: true
+  created: '2011-08-23'
+  is_press_release: true

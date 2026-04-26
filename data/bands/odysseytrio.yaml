@@ -1,0 +1,35 @@
+id: 543
+token: odysseytrio
+name: Трио Одиссея
+aliases: Odyssey Trio
+alive: true
+url: http://www.bogusevich.ru/trioodyssey/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 2
+musicians:
+- name: Одиссей Богусевич
+  instruments: фортепиано, электроника
+- name: Марк Гайдар
+  instruments: контрабас
+- name: Петр Талалай
+  instruments: ударные
+references:
+- id: 502
+  name: Живые Люди
+  token: livepeople
+- id: 541
+  name: Priot Ensemble
+  token: priot
+clips:
+- id: 2669
+  type: weblink
+  url: http://www.bogusevich.ru/trioodyssey/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2670
+  type: youtube
+  url: http://www.youtube.com/?v=siTzw4YOHes
+  name: Odyssey Trio mix.mpg
+  comments: концертные записи..видео-микс Трио Одиссея
+  sort_order: 99

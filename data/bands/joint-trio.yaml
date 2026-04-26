@@ -1,0 +1,12 @@
+id: 583
+token: joint-trio
+name: Joint Trio
+alive: true
+city_id: 11
+musicians:
+- name: Виктор Левченко
+  instruments: бас, вокал, клавиши
+- name: Максим Кабальскис
+  instruments: барабаны
+- name: Евгений Луценко
+  instruments: гитара

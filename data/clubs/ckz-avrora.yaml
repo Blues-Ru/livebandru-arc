@@ -1,0 +1,20 @@
+id: 340
+token: ckz-avrora
+name: ЦКЗ "Аврора"
+aliases: Центральный концертный зал "Аврора"
+alive: true
+address: Пироговская наб., 5/2
+subway: Площадь Ленина
+phone: (812) 907-19-17
+city_id: 2
+clips:
+- id: 1237
+  type: weblink
+  url: http://avrora-zal.ru/
+  name: Официальный сайт
+  sort_order: 99
+- id: 1238
+  type: weblink
+  url: http://vk.com/club20367021
+  name: Страница ВКонтакте
+  sort_order: 199

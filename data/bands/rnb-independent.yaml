@@ -1,0 +1,135 @@
+id: 180
+token: rnb-independent
+name: Rhythm & Blues Independent
+alive: true
+url: http://www.youtube.com/user/MrSoulMike?feature=mhsn
+city_id: 1
+genre_id: 1
+secondary_genre_id: 23
+musicians:
+- name: Михаил Рыжиков
+  instruments: гитара, вокал
+- name: Виктор Бурмистров
+  instruments: ударные, губная гармоника
+- name: Игорь Островский
+  instruments: клавишные
+- name: Алексей Шалпегин
+  instruments: бас-гитара
+- name: Егор Ведерников
+  instruments: альт и баритон саксофоны
+- name: Александр Тупицын
+  instruments: перкуссионные, губная гармоника
+clips:
+- id: 4297
+  type: photo
+  url: rnb-independent-6.jpg
+  name: Rhythm & Blues Independent ноябрь 2009
+  sort_order: 500
+  width: 1280
+  height: 853
+- id: 407
+  type: weblink
+  url: http://www.youtube.com/user/MrSoulMike?feature=mhsn
+  name: Официальный сайт
+  sort_order: 0
+- id: 4285
+  type: youtube
+  url: http://www.youtube.com/?v=pffNaLVwaZk
+  name: Please Send Me Someone To Love (Percy Mayfield)
+  comments: Выступление Rhythm & Blues Independent 27.01.13. в арт- кафе San Marino.
+  sort_order: 99
+- id: 4286
+  type: youtube
+  url: http://www.youtube.com/?v=1jBRHmerKTg
+  name: Sail On Little Girl (Aaron 'T-Bone' Walker)
+  comments: Rhythm & Blues Independent. B.B.King blues club. Moscow 12.04.12.
+  sort_order: 199
+- id: 4287
+  type: youtube
+  url: http://www.youtube.com/?v=pF62UYTrBx4
+  name: T-Bone Shuffle (Aaron 'T-Bone' Walker)
+  comments: Rhythm & Blues Independent. B.B.King blues club. Moscow 12.04.12.
+  sort_order: 299
+- id: 4291
+  type: photo
+  url: rnb-independent.jpg
+  name: Rhythm & Blues Independent в клубе B.B.King 27.03.13
+  sort_order: 0
+  width: 2560
+  height: 1920
+- id: 4292
+  type: photo
+  url: rnb-independent-2.jpg
+  name: Rhythm & Blues Independent в клубе B.B.King. июль 2012
+  sort_order: 100
+  width: 960
+  height: 640
+- id: 4293
+  type: photo
+  url: rnb-independent-3.jpg
+  name: Rhythm & Blues Independent в клубе B.B.King. июль 2012
+  sort_order: 200
+  width: 1280
+  height: 853
+- id: 4294
+  type: photo
+  url: rnb-independent-4.jpg
+  name: Rhythm & Blues Independent в клубе B.B.King. июль 2012
+  sort_order: 300
+  width: 1280
+  height: 853
+- id: 4296
+  type: photo
+  url: rnb-independent-5.jpg
+  name: Rhythm & Blues Independent с Антоном Хабибулиным (гитара) в клубе B.B.King.
+    ноябрь 2011
+  sort_order: 400
+  width: 807
+  height: 538
+- id: 4834
+  type: photo
+  url: rnb-independent-7.jpg
+  name: Rhythm & Blues Independent в клубе Гегель сентябрь 2013
+  sort_order: 600
+  width: 1280
+  height: 853
+- id: 4835
+  type: photo
+  url: rnb-independent-8.jpg
+  name: Rhythm & Blues Independent в клубе Гегель сентябрь 2013
+  sort_order: 700
+  width: 1280
+  height: 853
+- id: 4836
+  type: photo
+  url: rnb-independent-9.jpg
+  name: Rhythm & Blues Independent в клубе Гегель сентябрь 2013
+  sort_order: 800
+  width: 1280
+  height: 853
+- id: 8033
+  type: rss
+  url: http://sobesednik.ru/poster/20161003-rhythm-blues-independent
+  name: Rhythm & Blues Independent в клубе B.B.King 12 октября
+  sort_order: 99
+- id: 8034
+  type: photo
+  url: rnb-independent-10.jpg
+  name: Rhythm & Blues Independent в клубе B.B.King
+  sort_order: 900
+  width: 1280
+  height: 956
+reviews:
+- id: 356
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Ритм 'н' блюзовый коллектив ориентирован на "черный" саунд Америки 60-70 годов.
+    В репертуар группы помимо своих композиций входят кавер-версии на музыку таких
+    исполнителей как T-Bone Walker, Johnny"Guitar"Watson, Bobby Womack,а так же на
+    материал легендарного Мемфисского лейбла STAX. Rhythm & Blues Independent намеренно
+    старается обойти клише заштампованного электроблюза, представив слушателям уникальный
+    материал фанка, блюза и соул музыки.
+  verified: true
+  created: '2013-03-31'
+  is_press_release: true

@@ -1,0 +1,15 @@
+id: 455
+token: smolnysobor
+name: Концертно-выставочный центр "Смольный собор"
+aliases: Смольный собор
+alive: true
+address: Площадь Растрелли, 3/1
+subway: Чернышевская
+phone: +7(812)577-1421
+city_id: 2
+clips:
+- id: 2126
+  type: weblink
+  url: http://www.cathedral.ru/
+  name: Официальный сайт
+  sort_order: 0

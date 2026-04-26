@@ -1,0 +1,48 @@
+id: 700
+token: blues-encore
+name: Blues Encore
+aliases: 'Блюз на бис
+
+  Блюз анкор'
+alive: true
+city_id: 6
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Анна Рогозина
+  instruments: вокал
+- name: Александр Волостников
+  instruments: гитара, вокал
+- name: Кирилл Попов
+  instruments: бас-гитара
+- name: Федо Шампаров
+  instruments: губная гармоника
+- name: Евгений Юдин
+  instruments: ударные, вокал
+references:
+- id: 701
+  name: Scotch 'n' Beer Band
+  token: scotch-n-beer
+clips:
+- id: 6509
+  type: mp3
+  url: blues-encore.mp3
+  sort_order: 99
+- id: 6510
+  type: photo
+  url: blues-encore.jpg
+  sort_order: 0
+  width: 1280
+  height: 850
+- id: 6511
+  type: youtube
+  url: http://www.youtube.com/?v=rZGPyEfBOcQ
+  name: Blues Encore - Rock Around The Clock - 60th Anniversary Tribute Video
+  comments: 'Blues Encore. Rock Around The Clock. Авторы песни: Макс Фридман и Джеймс
+    Майерс.В клипе звучат фрагменты песен "Tainted Love" и "Мурка".Blues Encore в
+    Контакте: http://vk.com/bluesencoreBlues Enco'
+  sort_order: 99
+- id: 6890
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

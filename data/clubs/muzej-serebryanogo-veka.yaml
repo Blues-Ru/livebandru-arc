@@ -1,0 +1,14 @@
+id: 564
+token: muzej-serebryanogo-veka
+name: Музей Серебряного Века
+alive: true
+address: Проспект Мира, д.30
+subway: Проспект Мира (кольцевая)
+phone: +7(495)680-8683
+city_id: 1
+clips:
+- id: 3156
+  type: weblink
+  url: http://www.silverage.ru/muzei/muzei.html
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,102 @@
+id: 120
+token: wolf-mail
+name: Wolf Mail
+aliases: 'Вульф Мэйл
+
+  Волф Мэйл
+
+  Уолф Мэйл'
+alive: true
+url: http://www.wolf-mail.com
+genre_id: 1
+secondary_genre_id: 2
+musicians:
+- name: Wolf Mail
+  instruments: гитара, вокал
+- name: Алексей Сечин
+  instruments: hammond
+- name: Илья Липатов
+  instruments: ударные
+- name: Роман Гринев
+  instruments: бас
+clips:
+- id: 94
+  type: weblink
+  url: http://www.wolf-mail.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 3590
+  type: photo
+  url: wolf-mail.jpg
+  sort_order: 0
+  width: 284
+  height: 393
+- id: 5469
+  type: youtube
+  url: http://www.youtube.com/?v=2v2NAQN7LBk
+  name: Solid Ground
+  comments: Wolf Mail - Solid ground - live at Blues moose caf?, recorded for bluesmoose
+    radio (NL) @ caf? bar de comm Groesbeek, Wolf Mail Guitar vocals, John Rinkevich
+    (bas), Alex Polovinkin (drums) en Alexei S
+  sort_order: 399
+- id: 5470
+  type: youtube
+  url: http://www.youtube.com/?v=9dP7m-v7mvg
+  name: Wolf Mail (Blue Fix 2007) - Slow down
+  sort_order: 499
+- id: 5471
+  type: youtube
+  url: http://www.youtube.com/?v=LyuYsQGjOuQ
+  name: Wolf Mail - Exclusive Interview Durov Hall Center
+  comments: Documentary special on Canadian guitarist Blues and soul man Wolf Mail.
+    This was filmed during his "Above The Influence" promotional world tour, on location
+    in Moscow, Russia by Global TV Star.
+  sort_order: 299
+- id: 5472
+  type: youtube
+  url: http://www.youtube.com/?v=7vfBeFxBegs
+  name: Wolf Mail - Hello - Live in Moscow, Russia
+  comments: Live footage recorded at the jazz town theater in Moscow , Russia
+  sort_order: 599
+reviews:
+- id: 320
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Вульф родился 29 марта 1967 года в Монреале, Канада. Отрочество провел на
+    юге Франции. Свой первый концерт Вульф исполнил в возрасте 14 лет. В 17 лет он
+    убежал из дома, чтобы совершить первое турне со своей группой. В тот же год Вульф
+    встретил Теда Ньюджета (Ted Nugent), после чего гастролировал с Тэдом некоторое
+    время. Встреча с Тэдом произвела большое впечатление на Вульфа. Вульф решил переехать
+    в Калифорнию.
+
+
+    В 19 лет Вульф познакомился с Рэнди Кастилло (Randy Castillo, Рэнди являлся также
+    барабанщиком еще пока неизвестного Ozzy Osbourne). После джема в клубе Troubadour
+    club в Лос-Анджелесе Рэнди пригласил Вульфа в свою группу. В это же время Вульф
+    получил приглашение от известного английского рок-музыканта Билли Айдола.
+
+
+    Вульф много гастролирует. Дает более 100 концертов в год. Грамотно спланированный
+    гастрольный график позволяет Вульфу охватить США, Канаду, Австралию, Европу, Японию
+    и Россию. Музыкальная программа Вульфа практически полностью состоит из авторских
+    композиций. На счету Вульфа 5 CD с авторским материалом.
+
+
+    Его стиль можно определить как смесь традиционного блюза и классического соула.
+    В манере игры Вульфа чувствуется влияние как блюзовых гитаристов Albert Collins
+    и Roy Buchanan, так и соул исполнителей таких как, Curtis Mayfield и Otis Redding.
+    Вульф создает мощный и в то же время чистый звук. По мнению журнала Guitar Player
+    - Japan, Вульф является бесспорным мастером игры на телекастере.
+
+
+    В течение 20 лет он постоянно гастролирует и регулярно выпускает альбомы. Выпуск
+    его "Live Blues in Red Square" в Москве, и его классической песни "Hello", поднявшейся
+    в чартах до 10 места - примеры его большой популярности. Его страсть к настоящему
+    глубокому блюзу и к соулу породила очень харизматического и яркого музыканта.
+    Том Брэмсон, критик журнала Blues Rockers описывает его "таким образом, исполнение
+    на гитаре возвращает нас к Хендриксу и Клэптону. И хотя он, очевидно, был под
+    влиянием "богов гитары", он не похож ни на одного из них."'
+  verified: true
+  created: '2012-10-01'
+  is_press_release: true

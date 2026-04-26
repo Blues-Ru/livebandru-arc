@@ -1,0 +1,18 @@
+id: 184
+token: zapoy
+name: Запой
+alive: true
+url: http://www.zapoy.org/
+city_id: 28
+genre_id: 11
+clips:
+- id: 426
+  type: weblink
+  url: http://www.zapoy.org/
+  name: Официальный сайт
+  sort_order: 0
+- id: 427
+  type: weblink
+  url: http://vk.com/club834436
+  name: Страница ВКонтакте
+  sort_order: 100

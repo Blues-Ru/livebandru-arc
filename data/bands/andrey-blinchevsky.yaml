@@ -1,0 +1,15 @@
+id: 282
+token: andrey-blinchevsky
+name: Квартет Андрея Блинчевского
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Андрей Блинчевский
+  instruments: саксофон
+- name: Алексей Беккер
+  instruments: фортепиано
+- name: Макар Новиков
+  instruments: контрабас
+- name: Александр Машин
+  instruments: ударные

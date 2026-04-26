@@ -1,0 +1,43 @@
+id: 453
+token: jazzelectro-i-nadezhda-rafailidi
+name: Jazzеlectro и Надежда Рафаилиди
+alive: true
+url: http://www.mtvn.ru
+city_id: 1
+genre_id: 2
+musicians:
+- name: Надежда Рафаилиди
+  instruments: вокал
+- name: Олег Агеев
+  instruments: тенор-саксофон, сопрано-саксофон, бас-кларнет, флейта
+- name: Аркадий Баклагин
+  instruments: ударные инструменты
+- name: Олег Соколов
+  instruments: контрабас
+- name: Андрей Бубнов
+  instruments: фортепиано
+clips:
+- id: 2151
+  type: weblink
+  url: http://www.mtvn.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2152
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 555
+  height: 1059
+reviews:
+- id: 147
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: '29.05.11
+
+
+    Аркадий Баклагин представляет: проект Jazzеlectro (музыканты ансамбля Левона Оганезова)
+    и певица Надежда Рафаилиди. Презентация программы "Джазовый Калейдоскоп".'
+  verified: true
+  created: '2011-05-20'
+  is_press_release: true

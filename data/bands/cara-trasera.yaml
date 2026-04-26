@@ -1,0 +1,51 @@
+id: 617
+token: cara-trasera
+name: Обратная сторона
+aliases: Cara Trasera
+alive: true
+city_id: 1
+genre_id: 3
+secondary_genre_id: 4
+musicians:
+- name: Ришат Борисов
+  instruments: вокал
+- name: Олег Родригес Гарсиа
+  instruments: лидер гитара
+- name: Александр Лапаев
+  instruments: гитара
+- name: Максим Евдокимов
+  instruments: гитара
+- name: Евгений Бакрин
+  instruments: бас
+- name: Николай Николаев
+  instruments: ударные
+clips:
+- id: 4119
+  type: weblink
+  url: http://vk.com/cara_trasera
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 4127
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 4126
+  type: mp3
+  url: cara-trasera.mp3
+  name: Если ты с нами
+  sort_order: 99
+- id: 4128
+  type: youtube
+  url: http://youtu.be/AlxrU41KE0A
+  name: Мужичек
+  sort_order: 99
+- id: 4129
+  type: youtube
+  url: http://youtu.be/Ygc_eB4vqFs
+  name: Если ты с нами
+  sort_order: 0
+- id: 4130
+  type: mp3
+  url: cara-trasera-2.mp3
+  name: Белый сон
+  sort_order: 199

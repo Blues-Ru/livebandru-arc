@@ -1,0 +1,13 @@
+id: 200
+token: joy-pub
+name: Joy Pub
+alive: true
+address: Щербакова, 4
+phone: (343) 269-06-07
+city_id: 6
+clips:
+- id: 213
+  type: weblink
+  url: http://www.joypub.ru/
+  name: Официальный сайт
+  sort_order: 0

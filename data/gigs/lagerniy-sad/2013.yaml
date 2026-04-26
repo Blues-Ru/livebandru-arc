@@ -1,0 +1,24 @@
+- id: 36876
+  date: '2013-07-06'
+  time: '18:00'
+  band_name: 'III международный фестивал Jazz Picnic: джаз-оркестр ТГУ-62 (Томск),
+    Разноцветье (Томск), Рэгтайм (Томск), Сибирский диксиленд (Новосибирск)'
+  club_id: 704
+  club_name: Лагерный сад
+  club_token: lagerniy-sad
+  price: бесплатный
+  comments: Ведущий - Кирилл Мошков
+- id: 36877
+  date: '2013-07-07'
+  time: '18:00'
+  band_name: 'III международный фестивал Jazz Picnic: Johnny Rodgers Band (США), Moscow
+    Ragtime Band (Москва), Маркелловы голоса (Новосибирск)'
+  club_id: 704
+  club_name: Лагерный сад
+  club_token: lagerniy-sad
+  price: бесплатный
+  comments: Ведущий - Кирилл Мошков
+  extra_bands:
+  - id: 171
+    name: Moscow Ragtime Band
+    token: mrband

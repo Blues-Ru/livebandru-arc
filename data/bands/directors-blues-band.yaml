@@ -1,0 +1,18 @@
+id: 371
+token: directors-blues-band
+name: Director's Blues Band
+alive: true
+city_id: 19
+genre_id: 1
+reviews:
+- id: 98
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: Director's Blues Band – это то, что нужно сейчас любителям блюза! Самая веселая
+    и заводная блюзовая команда города! Возьмите чуть-чуть джамп-блюза, немного фанк-
+    и кантри-блюза, каплю мемфиского блюза, приправьте неосвингом – и получите несравнимый
+    саунд DIRECTOR'S BLUES BAND!
+  verified: true
+  created: '2011-01-07'
+  is_press_release: true

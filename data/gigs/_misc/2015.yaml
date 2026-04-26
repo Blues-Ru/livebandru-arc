@@ -1,0 +1,801 @@
+- id: 48498
+  date: '2015-01-07'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: tnt rock club
+  city_id: 17
+- id: 48895
+  date: '2015-01-24'
+  time: '19:00'
+  band_name: Оргия праведников (электричество)
+  club_name: Phoenix Concert Hall
+  city_id: 2
+  price: От 600 рублей
+- id: 48949
+  date: '2015-01-30'
+  time: '21:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_name: Union Jack
+  city_id: 1
+- id: 49084
+  date: '2015-02-04'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT rock club
+  city_id: 17
+  price: бесплатный
+- id: 49087
+  date: '2015-01-24'
+  time: '19:00'
+  band_name: Умка
+  club_name: Gypsy Tapas Bar
+  city_id: 2
+- id: 49088
+  date: '2015-01-25'
+  time: '20:00'
+  band_name: Умка
+  club_name: Union Bar
+  city_id: 2
+- id: 48896
+  date: '2015-01-25'
+  time: '19:00'
+  band_name: Оргия праведников (акустика)
+  club_name: Phoenix Concert Hall
+  city_id: 2
+  price: От 600 рублей
+- id: 48975
+  date: '2015-01-30'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 49086
+  date: '2015-01-24'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: John Martin's Pub
+  city_id: 1
+  price: бесплатный
+  comments: Концерт в нетрадиционном для банды Михаила Мишуриса формате "тихо, но
+    весело" в эксклюзивном бельгийском пабе John Martin's на Мичуринском проспекте,
+    22к1
+- id: 49091
+  date: '2015-01-28'
+  time: '20:00'
+  band_name: Умка
+  club_name: Либерти
+  city_id: 2
+- id: 49145
+  date: '2015-01-24'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+- id: 49146
+  date: '2015-01-23'
+  time: '21:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: Кафе Планетарий, Радищева, 55, 6 этаж
+  city_id: 6
+  price: 200 руб.
+- id: 49150
+  date: '2015-01-24'
+  time: '23:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: Kollbasoff, ул. Вайнера 9а
+  city_id: 6
+  price: бесплатный
+- id: 49151
+  date: '2015-01-31'
+  time: '23:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: Harat's pub, ул. Попова, 2
+  city_id: 6
+  price: 100 руб.
+- id: 49155
+  date: '2015-02-28'
+  time: '23:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: In Touch Cocktail Bar, ул. Розы Люксембург, 23
+  city_id: 6
+  price: бесплатный
+- id: 49347
+  date: '2015-02-01'
+  time: '19:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_name: Бар (095)
+  city_id: 1
+  price: 300 руб.
+- id: 49331
+  date: '2015-01-28'
+  time: '18:00'
+  band_name: Bob Stroger
+  club_name: Calypso Hall
+  city_id: 1
+  price: 500-700 руб.
+- id: 49326
+  date: '2015-01-25'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Пироги на Маросейке
+  city_id: 1
+  price: бесплатный
+- id: 49336
+  date: '2015-01-23'
+  time: '18:30'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_name: Кафе (095)
+  city_id: 1
+  price: бесплатный
+- id: 49498
+  date: '2015-02-07'
+  time: '19:30'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_name: Бар (095)
+  city_id: 1
+  price: 500 руб.
+- id: 49500
+  date: '2015-02-20'
+  time: '20:00'
+  band_name: Waterbreak
+  club_name: Английский паб "Альбион"
+  city_id: 1
+  price: 350 руб.
+- id: 49335
+  date: '2015-01-24'
+  time: '20:00'
+  band_name: Клягин&Терешина Band
+  club_name: Кафе-бар 095
+  city_id: 1
+  price: 300 руб.
+- id: 49351
+  date: '2015-01-29'
+  time: '19:00'
+  band_name: Джаз-квартет "Просто джаз"
+  club_name: Бар (095)
+  city_id: 1
+- id: 49352
+  date: '2015-01-29'
+  time: '21:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_name: Union Jack
+  city_id: 1
+- id: 49490
+  date: '2015-01-30'
+  time: '20:00'
+  band_id: 682
+  band_name: Cross-Eyed Cats
+  band_token: crosseyed-cats
+  club_name: Альбион Паб Дурасовский переулок,7
+  city_id: 1
+  price: бесплатно
+- id: 49484
+  date: '2015-02-06'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Адрес клуба: набережная Обводного канала, д.74 \r\n(Метро \"Фрунзенская\"\
+    , \"Технологический Институт\", \"Обводный канал\" пешком 10-12 минут)"
+- id: 49707
+  date: '2015-02-19'
+  time: '21:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Union Jack
+  city_id: 1
+- id: 49493
+  date: '2015-02-05'
+  time: '20:00'
+  band_id: 212
+  band_name: Plumbum Dreams
+  band_token: plumbum-dreams
+  club_name: Red Stars Club
+  city_id: 1
+  price: бесплатный
+- id: 49716
+  date: '2015-02-13'
+  time: '21:00'
+  band_id: 86
+  band_name: Dans Ramblers
+  band_token: dans-ramblers
+  club_name: Ромашка
+  city_id: 1
+  price: 500 руб.
+- id: 49496
+  date: '2015-02-07'
+  time: '20:00'
+  band_name: Coffin Wheels
+  club_name: Подъезд
+  city_id: 1
+  price: 200 руб.
+- id: 49723
+  date: '2015-02-20'
+  time: '21:00'
+  band_name: Jeans N' Roses (Guns N' Roses Show)
+  club_name: Red Stars Club
+  city_id: 1
+  price: бесплатный
+- id: 49731
+  date: '2015-03-04'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 49715
+  date: '2015-02-11'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 49826
+  date: '2015-02-21'
+  time: '21:00'
+  band_name: ГКЧП
+  club_name: Red Stars Club
+  city_id: 1
+  price: бесплатный
+- id: 49717
+  date: '2015-02-12'
+  time: '21:00'
+  band_name: Rocking Sun (The Doors Party)
+  club_name: Ромашка
+  city_id: 1
+  price: 400 руб.
+- id: 50200
+  date: '2015-03-05'
+  time: '20:00'
+  band_name: Петрович Бэнд featuring Павел Зибров (Soul Mate)
+  club_name: Rothschild
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 232
+    name: Петрович Бэнд
+    token: petrovich-band
+  - id: 53
+    name: Soul Mate
+    token: soulmate
+- id: 49871
+  date: '2015-02-27'
+  time: '20:30'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: '"Квартира 44" Малая Ордынка, 24'
+  city_id: 1
+  price: бесплатный
+- id: 49876
+  date: '2015-03-12'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: HopHead Craft Beer Pub
+  city_id: 1
+- id: 50189
+  date: '2015-03-13'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 50199
+  date: '2015-03-05'
+  time: '20:00'
+  band_name: Ladies First featuring Ксения Федулова
+  club_name: Океан
+  city_id: 1
+  price: 700р + депозит
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 50381
+  date: '2015-03-19'
+  time: '20:00'
+  band_name: Петрович & Hot Rod Band, в гостях Ксения Федулова
+  club_name: Rothschild
+  city_id: 1
+  price: бесплатный
+  extra_bands:
+  - id: 60
+    name: Петрович & Hot Rod Band
+    token: petrovich
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 50328
+  date: '2015-03-28'
+  time: '19:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: кафе "Аист" Большая Серпуховская, 13 стр.5
+  city_id: 1
+  price: 600 руб.
+- id: 50392
+  date: '2015-03-24'
+  time: '20:00'
+  band_id: 706
+  band_name: Марракеш блюз бэнд
+  band_token: marrakesh
+  club_name: клуб "Швайн"
+  city_id: 1
+  price: играем даром
+- id: 50471
+  date: '2015-04-08'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: Tnt rock club
+  city_id: 17
+  price: бесплатный
+- id: 50430
+  date: '2015-03-31'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_name: Machine Head
+  city_id: 29
+- id: 50431
+  date: '2015-04-02'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_name: Авеню
+  city_id: 40
+- id: 50451
+  date: '2015-03-26'
+  time: '20:00'
+  band_name: Блюз-вечеринка с Петровичем
+  club_name: Rothschild
+  city_id: 1
+  price: бесплатный
+- id: 50449
+  date: '2015-04-03'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Обводный д.74, начало в 21-00. Вход свободный!\r\nБронирование:телефон\
+    \ для связи +7(812) 9666464"
+- id: 50450
+  date: '2015-03-26'
+  time: '20:00'
+  band_name: Bacstage
+  club_name: Маска
+  city_id: 1
+  price: бесплатный
+- id: 50956
+  date: '2015-04-25'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: клуб Ротшильд
+  city_id: 1
+- id: 50953
+  date: '2015-04-24'
+  time: '21:00'
+  band_id: 635
+  band_name: The Boogie Message
+  band_token: boogie-message
+  club_name: Квартира 44 (Малая Ордынка)
+  city_id: 1
+- id: 51157
+  date: '2015-05-28'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Маска
+  city_id: 1
+  price: бесплатный
+- id: 51072
+  date: '2015-04-25'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: Обводный д.74'
+- id: 51151
+  date: '2015-05-14'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Маска
+  city_id: 1
+  price: бесплатный
+- id: 51153
+  date: '2015-05-21'
+  time: '21:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_name: Маска
+  city_id: 1
+  price: бесплатный
+- id: 51463
+  date: '2015-05-16'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "BASHNI Live Music Club\r\nОбводный д.74, начало в 21-00. Вход свободный!\r\
+    \nБронирование:телефон для связи +7(812) 9666464"
+- id: 51559
+  date: '2015-05-15'
+  time: '21:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: Гороховое поле
+  city_id: 1
+- id: 51471
+  date: '2015-05-13'
+  time: '21:00'
+  band_id: 708
+  band_name: The Blues Case
+  band_token: blues-case
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 51574
+  date: '2015-05-14'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Бар "Бумага"
+  city_id: 1
+  comments: Бар "Бумага", Варшавское шоссе, д.9, стр. 1. Территория Даниловской мануфактуры
+- id: 51710
+  date: '2015-06-19'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: паб Брюгге
+  city_id: 1
+  price: бесплатно
+  comments: Бельгийский паб "Брюгге" ул.Бауманская 48/13
+- id: 51667
+  date: '2015-06-05'
+  time: '22:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_name: Шемрок
+  city_id: 1
+  price: бесплатный
+  comments: Московская обл., Королев, микрорайон Костино, просп. Космонавтов, 27б.ТЦ
+    Корабль. 3 этаж. +7 (495) 628-08-99.   http://pubshamrock.ru/
+- id: 51708
+  date: '2015-05-30'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: Обводный 74'
+- id: 51669
+  date: '2015-05-29'
+  time: '19:00'
+  band_id: 637
+  band_name: Kate & Friends
+  band_token: ekaterina-ramzhaeva
+  club_name: Кафе "Аист" Осетинские Пироги м. Серпуховская
+  city_id: 1
+  price: 500 руб.
+- id: 52175
+  date: '2015-06-07'
+  time: '18:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_name: Площадь Милютина
+  city_id: 87
+  price: '-'
+- id: 52142
+  date: '2015-06-05'
+  time: '20:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: Daddy bar
+  city_id: 6
+  price: бесплатный
+- id: 52143
+  date: '2015-06-12'
+  time: '21:00'
+  band_id: 700
+  band_name: Blues Encore
+  band_token: blues-encore
+  club_name: Daddy bar
+  city_id: 6
+  price: бесплатный
+- id: 52200
+  date: '2015-06-13'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Заказ столиков: +7(812) 966-64-64\r\nАдрес: набережная Обводного канала,\
+    \ д.74"
+- id: 52201
+  date: '2015-06-12'
+  time: '20:00'
+  band_name: Овик Гулишьян - презентация альбома
+  club_name: Let's Twist Bar
+  city_id: 1
+  price: 600 руб.
+  extra_bands:
+  - id: 114
+    name: Gulishian Trio
+    token: hovikgulishian
+- id: 52366
+  date: '2015-06-27'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: Адрес клуба наб. Обводного канала д.74
+- id: 52368
+  date: '2015-06-28'
+  time: '21:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_name: Let's Twist Bar
+  city_id: 1
+- id: 52385
+  date: '2015-07-11'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 52387
+  date: '2015-07-25'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 52628
+  date: '2015-07-11'
+  time: '16:00'
+  band_name: Chino Swingslide (Spain) with The Jumping Cats
+  club_name: Ля Буль в Парке Культуры
+  city_id: 1
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 53276
+  date: '2015-08-18'
+  time: '20:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 53277
+  date: '2015-08-29'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 53380
+  date: '2015-09-12'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 53381
+  date: '2015-09-26'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 53718
+  date: '2015-09-16'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_name: TNT rock club
+  city_id: 17
+  price: бесплатный
+- id: 53637
+  date: '2015-09-23'
+  time: '21:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+  price: бесплатный
+- id: 54349
+  date: '2015-10-16'
+  time: '20:00'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_name: Leroy (Одинцово)
+  city_id: 1
+- id: 54504
+  date: '2015-10-23'
+  time: '22:00'
+  band_id: 415
+  band_name: The Sound Trail
+  band_token: the-sound-trail
+  club_name: Brugge pub
+  city_id: 1
+  price: бесплатный
+- id: 54506
+  date: '2015-10-30'
+  time: '20:00'
+  band_name: Вячеслав Горский. Концерт "Соло на белом рояле"
+  club_name: Арт-центр Exposed
+  city_id: 1
+  extra_bands:
+  - id: 332
+    name: Вячеслав Горский
+    token: gorsky
+- id: 54611
+  date: '2015-11-14'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 54612
+  date: '2015-11-28'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: 'Адрес клуба: наб. Обводного канала д.74'
+- id: 55016
+  date: '2015-11-27'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_name: Плотников паб
+  city_id: 1
+- id: 55147
+  date: '2015-11-29'
+  time: '20:00'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_name: Музпаб
+  city_id: 1
+  price: 300 руб.
+  comments: 'Вместе с нами на сцене будут наши друзья - Гия Дзагнидзе, перкуссионист
+    Сергей Мардоян и бас-гитаристы: Александр Солич, Дмитрий "Ветеран" Честных и Полина
+    Новикова, дочь Андрея.'
+- id: 55207
+  date: '2015-12-11'
+  time: '21:00'
+  band_id: 685
+  band_name: The Mojoworkers
+  band_token: the-mojoworkers
+  club_name: Bashni Live Music Club
+  city_id: 2
+  price: бесплатный
+  comments: "Бронируйте столики +7(921) 966-64-64\r\nНаб. Обводного канала д.74"
+- id: 55631
+  date: '2015-12-19'
+  time: '22:00'
+  band_name: The Road Dogs, специальный гость Илья Малиновский
+  club_name: TNT Rock Club
+  city_id: 17
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 55629
+  date: '2015-12-30'
+  time: '22:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_name: TNT Rock Club
+  city_id: 17
+- id: 55707
+  date: '2015-12-28'
+  time: '19:00'
+  band_name: Blues'n'Road (Александр Смирнов и подельники)
+  club_name: Байконур
+  city_id: 2
+  price: 100 рублей

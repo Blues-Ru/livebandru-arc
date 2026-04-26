@@ -1,0 +1,150 @@
+- id: 59903
+  date: '2016-07-12'
+  time: '20:00'
+  band_name: Ураганный квинтет Павла Тимофеева
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 60483
+  date: '2016-09-08'
+  time: '20:00'
+  band_name: Анна Левшина и Jazz Heads
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+  comments: Евгений Гречищев - фортепиано, Юрий Щеткин - гитара, Сергей Хутас - контрабас,
+    Анна Левшина - вокал
+  extra_bands:
+  - id: 489
+    name: Квартет Анны Левшиной
+    token: anna-levshina
+- id: 60486
+  date: '2016-09-23'
+  time: '20:00'
+  band_name: Нани Ева и Мария Арт + LRK Trio
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 60487
+  date: '2016-09-24'
+  time: '20:00'
+  band_name: The Kikipickles
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 60488
+  date: '2016-09-30'
+  time: '20:00'
+  band_name: Квинтет Матвея Григорьева - трибьют Майлсу Дейвису
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+  comments: Матвей Григорьев - фортепиано, Иван Акатов - труба, Виктор Потемкин -
+    тенор-саксофон, Роман Плотников - контрабас, Александр Ахмаев - ударные
+- id: 60481
+  date: '2016-09-03'
+  time: '20:00'
+  band_name: Даниил Никитин и трио 21 pm
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+  comments: Даниил Никитин - саксофон; Юлия Перминова - хаммонд орган; Антон Кузнецов
+    - барабаны
+- id: 60482
+  date: '2016-09-04'
+  time: '20:00'
+  band_name: Квинтет Павла Тимофеева. Ураганный джаз
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+  comments: Сергей Головня - тенор-саксофон, Олег Бородин - тромбон, Алексей Иванников
+    - фортепиано, Сергей Васильев - контрабас, Павел Тимофеев - барабаны
+- id: 60484
+  date: '2016-09-09'
+  time: '20:00'
+  band_name: Трио Яковенко-Окунь-Шестак
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+  comments: Игорь Яковенко - фортепиано, Яков Окунь - ударные, Виктор Шестак - контрабас
+- id: 60485
+  date: '2016-09-16'
+  time: '20:00'
+  band_name: Шоукейс "Усадьба Джаз" M.A Beat / FR. Live
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61071
+  date: '2016-10-03'
+  time: '20:00'
+  band_name: Big Jazz Jam
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61072
+  date: '2016-10-17'
+  time: '20:00'
+  band_name: Big Jazz Jam
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61073
+  date: '2016-10-10'
+  time: '20:00'
+  band_name: Big Jazz Jam
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61074
+  date: '2016-10-31'
+  time: '20:00'
+  band_name: Big Jazz Jam
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61075
+  date: '2016-10-24'
+  time: '20:00'
+  band_name: Big Jazz Jam
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61076
+  date: '2016-10-28'
+  time: '20:00'
+  band_name: Miriam Sekhon Jazz Band
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61077
+  date: '2016-10-21'
+  time: '20:00'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61078
+  date: '2016-10-19'
+  time: '20:00'
+  band_name: Alexey Leon-Reyes Quartet
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61079
+  date: '2016-10-15'
+  time: '20:00'
+  band_name: Квинтет Матвея Григорьева - Ornette Coleman Tribute
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse
+- id: 61080
+  date: '2016-10-07'
+  time: '20:00'
+  band_id: 171
+  band_name: Moscow Ragtime Band
+  band_token: mrband
+  club_id: 791
+  club_name: Dewar's Powerhouse
+  club_token: dewar-s-powerhouse

@@ -1,0 +1,209 @@
+- id: 82594
+  date: '2020-01-17'
+  time: '20:30'
+  band_name: Леван Ломидзе & Blues Cousins
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 82596
+  date: '2020-01-24'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82597
+  date: '2020-01-30'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82609
+  date: '2020-02-28'
+  time: '20:30'
+  band_name: Шарон Кларк (вокал, США) и Маттиас Нильссон (фортепиано, Швеция)
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82614
+  date: '2020-03-05'
+  time: '20:30'
+  band_name: Олег Киреев. Romantic Sax
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 82590
+  date: '2020-01-02'
+  time: '20:00'
+  band_name: Дмитрий Носков. Трибьют Фрэнку Синатре
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82593
+  date: '2020-03-12'
+  time: '20:30'
+  band_id: 181
+  band_name: Маша Кац
+  band_token: masha-kaz
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82601
+  date: '2020-03-20'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82602
+  date: '2020-03-21'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82604
+  date: '2020-03-08'
+  time: '19:30'
+  band_name: Олег Киреев (саксофон) и Дмитрий Носков (вокал). Трибьют Фрэнку Синатре
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 82591
+  date: '2020-01-03'
+  time: '20:00'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82592
+  date: '2020-01-16'
+  time: '20:30'
+  band_id: 181
+  band_name: Маша Кац
+  band_token: masha-kaz
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82595
+  date: '2020-01-18'
+  time: '20:30'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82598
+  date: '2020-01-31'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82599
+  date: '2020-02-01'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82600
+  date: '2020-03-19'
+  time: '20:30'
+  band_name: Рой Янг. Трибьют Джеймсу Брауну
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82603
+  date: '2020-02-05'
+  time: '20:30'
+  band_name: Джаз и Кино. Олег Киреев
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 82605
+  date: '2020-02-13'
+  time: '20:30'
+  band_name: Алла Рид
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82606
+  date: '2020-02-14'
+  time: '20:30'
+  band_name: Андрей Макаревич и Трио Евгения Борца. "Джазовые Трансформации"
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+  extra_bands:
+  - id: 147
+    name: Евгений Борец
+    token: evgeny-borets
+- id: 82607
+  date: '2020-02-23'
+  time: '20:30'
+  band_id: 92
+  band_name: Петр Подгородецкий
+  band_token: podgorodetsky
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82608
+  date: '2020-02-27'
+  time: '20:30'
+  band_name: Шарон Кларк (вокал, США) и Маттиас Нильссон (фортепиано, Швеция)
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82610
+  date: '2020-02-29'
+  time: '20:30'
+  band_name: Шарон Кларк (вокал, США) и Маттиас Нильссон (фортепиано, Швеция)
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 82616
+  date: '2020-03-14'
+  time: '20:30'
+  band_id: 154
+  band_name: Billy's Band
+  band_token: billys-band
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 83396
+  date: '2020-02-06'
+  time: '20:30'
+  band_name: Полина Орбах
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz
+- id: 83397
+  date: '2020-02-15'
+  time: '19:30'
+  band_name: Театр в стиле джаз
+  club_id: 911
+  club_name: Академ Джаз Клуб
+  club_token: academ-jazz

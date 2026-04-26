@@ -1,0 +1,13 @@
+id: 94
+token: margulis
+name: Евгений Маргулис
+alive: true
+url: http://www.margulis.ru
+city_id: 1
+genre_id: 3
+clips:
+- id: 6
+  type: weblink
+  url: http://www.margulis.ru
+  name: Официальный сайт
+  sort_order: 0

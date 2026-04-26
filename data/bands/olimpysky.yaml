@@ -1,0 +1,28 @@
+id: 308
+token: olimpysky
+name: Олимпийский
+alive: true
+url: http://vkontakte.ru/club18140092
+city_id: 1
+genre_id: 8
+secondary_genre_id: 15
+musicians:
+- name: Александр Огурцов
+  instruments: человек-оркестр
+- name: Руслан Маркусьян
+  instruments: бас, вокал
+- name: Серж Ковганов
+  instruments: вокал
+- name: Максим Нелюбов
+  instruments: ударные
+clips:
+- id: 1104
+  type: weblink
+  url: http://vk.com/club18140092
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 1105
+  type: weblink
+  url: http://www.rocklab.ru/view/groups/23531.html
+  name: страницы на Rocklab.ru
+  sort_order: 199

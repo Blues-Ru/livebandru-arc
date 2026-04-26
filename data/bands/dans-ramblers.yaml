@@ -1,0 +1,37 @@
+id: 86
+token: dans-ramblers
+name: Dans Ramblers
+alive: true
+url: http://www.dansramblers.ru/
+city_id: 1
+genre_id: 8
+secondary_genre_id: 1
+musicians:
+- name: Кирилл Гуцков
+  instruments: бас, вокал
+- name: Дмитрий Степанов
+  instruments: гитара
+- name: Михаил Киселев
+  instruments: ударные
+- name: Дмитрий Юрченко
+  instruments: гитара, губная гармоника
+- name: Вячеслав Троценко
+  instruments: гитара, вокал
+clips:
+- id: 126
+  type: weblink
+  url: http://www.dansramblers.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 357
+  type: youtube
+  url: http://www.youtube.com/?v=_2Epmz1bAXo
+  name: Twist And Shaut
+  comments: в Доме у Дороги
+  sort_order: 99
+- id: 358
+  type: youtube
+  url: http://www.youtube.com/?v=p30EPj_o1mU
+  name: I've Got A Feeling
+  comments: в Доме у Дороги
+  sort_order: 199

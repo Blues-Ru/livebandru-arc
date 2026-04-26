@@ -1,0 +1,15 @@
+id: 523
+token: zhurfak
+name: Журфак
+aliases: Кафе Журфак
+alive: true
+address: Большой Афанасьевский пер., 3
+subway: Кропоткинская
+phone: (495) 737-32-38
+city_id: 1
+clips:
+- id: 2766
+  type: weblink
+  url: http://www.jurfak-cafe.ru
+  name: Официальный сайт
+  sort_order: 0

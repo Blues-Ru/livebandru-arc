@@ -1,0 +1,14 @@
+id: 510
+token: emporio-jazz-club
+name: Emporio Jazz Club
+alive: true
+address: 1-ый Тверской-Ямской пер., 18
+subway: Маяковская, Новослободская
+phone: +7(495)989-4447, 233-83 69
+city_id: 1
+clips:
+- id: 2676
+  type: weblink
+  url: http://www.emporiocafe.ru
+  name: Официальный сайт
+  sort_order: 0

@@ -1,0 +1,40 @@
+- id: 77406
+  date: '2019-03-07'
+  time: '19:30'
+  band_name: 'Джазовый фестиваль "Сириуса": Энтони Стронг и его трио (Великобритания)'
+  club_id: 915
+  club_name: Парк науки и искусства "Сириус"
+  club_token: park-nauki-i-iskusstva-sirius
+- id: 77407
+  date: '2019-03-08'
+  time: '19:30'
+  band_name: 'Джазовый фестиваль "Сириуса". Highlands Project (Балеарские острова,
+    Испания): Sergio Llopis - клавишные, Pep Garau - труба, Toni Rios - саксофон,
+    Xema Borras - тромбон, Joan Colom - гитара, Jordi Tugores - гитара, Juanjo Amengual
+    - бас, Teo Salva - барабаны, Pep Lluis Garcia - перкуссия'
+  club_id: 915
+  club_name: Парк науки и искусства "Сириус"
+  club_token: park-nauki-i-iskusstva-sirius
+- id: 77408
+  date: '2019-03-09'
+  time: '19:30'
+  band_name: 'Джазовый фестиваль "Сириуса". Квартет Игоря Бутмана при уч. Олега Аккуратова
+    (фортепиано, вокал): Игорь Бутман - саксофон, Сергей Корчагин - контрабас, Евгений
+    Побожий - гитара, Эдуард Зизак - барабаны'
+  club_id: 915
+  club_name: Парк науки и искусства "Сириус"
+  club_token: park-nauki-i-iskusstva-sirius
+  extra_bands:
+  - id: 463
+    name: Квартет Игоря Бутмана
+    token: igor-butman-kvartet
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 80745
+  date: '2019-08-02'
+  time: '19:30'
+  band_name: 'X Sochi Jazz Festival: Квартет Олега Бутмана'
+  club_id: 915
+  club_name: Парк науки и искусства "Сириус"
+  club_token: park-nauki-i-iskusstva-sirius

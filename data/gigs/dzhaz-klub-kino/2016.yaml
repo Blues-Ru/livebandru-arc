@@ -1,0 +1,162 @@
+- id: 56583
+  date: '2016-02-10'
+  time: '20:30'
+  band_name: Московский квинтет саксофонистов
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56584
+  date: '2016-02-11'
+  time: '20:30'
+  band_name: ХоронькОкунь
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56585
+  date: '2016-02-13'
+  time: '20:30'
+  band_name: Ярослав Сапожинский и группа Jeo
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56586
+  date: '2016-02-14'
+  time: '20:00'
+  band_name: Арутюнов & Quorum
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56587
+  date: '2016-02-18'
+  time: '20:30'
+  band_id: 255
+  band_name: Ирина Сурина
+  band_token: irina-surina
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56588
+  date: '2016-02-20'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56589
+  date: '2016-02-23'
+  time: '20:00'
+  band_name: Андрей Сапунов
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56590
+  date: '2016-02-25'
+  time: '20:30'
+  band_name: Music Travel
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56591
+  date: '2016-03-08'
+  time: '18:30'
+  band_name: Шуня Балашова и группа Shoo
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56592
+  date: '2016-03-11'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+- id: 56593
+  date: '2016-03-26'
+  time: '20:30'
+  band_name: FunCOOLio (Латвия)
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  extra_bands:
+  - id: 714
+    name: FunCOOlio
+    token: funcoolio
+- id: 57552
+  date: '2016-04-26'
+  time: '20:30'
+  band_name: Gwyn Ashton + Rollo Markee
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 600-2000
+  extra_bands:
+  - id: 648
+    name: Rollo Markee
+    token: rollo-markee
+  - id: 669
+    name: Gwyn Ashton
+    token: gwyn-ashton
+- id: 60003
+  date: '2016-08-30'
+  time: '20:00'
+  band_id: 653
+  band_name: Julian Burdock
+  band_token: julian-burdock
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 600-1200
+- id: 61051
+  date: '2016-10-09'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 700 руб.
+- id: 61514
+  date: '2016-11-02'
+  time: '20:00'
+  band_id: 643
+  band_name: Giles Robson
+  band_token: giles-robson
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 800-1000
+- id: 61972
+  date: '2016-11-24'
+  time: '20:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: 1000 руб.
+- id: 61977
+  date: '2016-12-01'
+  time: '20:00'
+  band_id: 719
+  band_name: Big City Jazz Show
+  band_token: big-city-jazz-show
+  club_id: 804
+  club_name: Джаз-клуб "Кино"
+  club_token: dzhaz-klub-kino
+  price: от 700 р.
+  comments: "Проведите зимний вечер вместе с умопомрачительном джаз-бендом столицы!\r\
+    \n\r\nШоу, вдохновленное эпохой Великого Гэтсби, бродвейскими мюзиклами, искрометными\
+    \ джазовыми импровизациями и, конечно, современными популярными направлениями!\
+    \ \r\n\r\nЯркие костюмы, незабываемые эмоции, танцы и безостановочный драйв! \r\
+    \n\r\nПосле выступления BIG CITY JAZZ SHOW на Ваших лицах будет сиять улыбка,\
+    \ а в памяти еще долгое время будут всплывать песни из их репертуара! \r\nУютная\
+    \ предновогодняя атмосфера Джаз-клуба КИНО и ПОДАРКИ оставят у Вас невероятные\
+    \ впечатления!\r\n___________________________________\r\n\r\nНачало: в 20:00\r\
+    \nАдрес: Москва, м. Проспект Мира, \r\nОлимпийский пр., 16\r\n\r\nЗаказ столиков:\
+    \ +7 (926) 555 14 15\r\n\r\nСсылка на видео BIG CITY JAZZ SHOW: \r\nhttps://youtu.be/7NJ6z2IXnx4"

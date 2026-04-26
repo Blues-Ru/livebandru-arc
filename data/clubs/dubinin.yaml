@@ -1,0 +1,15 @@
+id: 581
+token: dubinin
+name: Дубинин
+aliases: Пивной ресторан Дубинин
+alive: true
+address: Кожевническая, 7, стр. 1
+subway: Павелецкая
+phone: (499) 235-31-08
+city_id: 1
+clips:
+- id: 3282
+  type: weblink
+  url: http://www.r-dubinin.ru/
+  name: Официальный сайт
+  sort_order: 0

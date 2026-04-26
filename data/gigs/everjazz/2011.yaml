@@ -1,0 +1,826 @@
+- id: 21505
+  date: '2011-09-01'
+  time: '20:00'
+  band_id: 529
+  band_name: AirJazz Quintet
+  band_token: airjazz-quintet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Screenplay
+- id: 21508
+  date: '2011-09-03'
+  time: '19:00'
+  band_name: Moby-J
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21509
+  date: '2011-09-03'
+  time: '22:00'
+  band_name: Денис Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: The Beatles & The Best
+- id: 21514
+  date: '2011-09-09'
+  time: '19:00'
+  band_name: Александр Титов, Сергей Пронь, Виталий Владимиров, Игорь Паращук, Юрий
+    Ковалевский, Александр Доброславин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Джаз, проверенный временем.  Луи Армстронг и его Музыка...
+- id: 21519
+  date: '2011-09-12'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21520
+  date: '2011-09-17'
+  time: '16:00'
+  band_name: Сергей Пронь
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300 руб.
+  comments: '"Мысли о джазе..." - это слова и музыка, это живое общение с музыкантами,
+    это джаз и размышления для тех, кто любит джаз.'
+- id: 21521
+  date: '2011-09-17'
+  time: '19:00'
+  band_name: Ирина Макарова и Квартет Jazz and Drive
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21522
+  date: '2011-09-17'
+  time: '22:00'
+  band_name: Do-Up
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Birthday Jazz
+- id: 21523
+  date: '2011-09-18'
+  time: '19:00'
+  band_name: Городские Бродяги
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-400 руб.
+- id: 21524
+  date: '2011-09-19'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21526
+  date: '2011-09-23'
+  time: '19:00'
+  band_name: Александр Титов, Сергей Пронь, Виталий Владимиров, Игорь Паращук, Юрий
+    Ковалевский, Александр Доброславин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Джаз, проверенный временем.  Луи Армстронг и его Музыка...
+- id: 21527
+  date: '2011-09-23'
+  time: '22:00'
+  band_name: Давид Бюрштейн (David Bursztein) и джазовый оркестр из Франции "Life
+    is not a Picnic"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+- id: 21528
+  date: '2011-09-24'
+  time: '19:00'
+  band_name: Давид Бюрштейн (David Bursztein) и джазовый оркестр из Франции "Life
+    is not a Picnic"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+- id: 21529
+  date: '2011-09-24'
+  time: '22:00'
+  band_name: Funky Bizness Gang
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21510
+  date: '2011-09-04'
+  time: '19:00'
+  band_name: The Ways
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21512
+  date: '2011-09-06'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+  comments: Проект "КиноДжаз" - объединит в себе шедевры мирового немого кино в музыкальном
+    сопровождении уральских джазовых коллективов.
+- id: 21513
+  date: '2011-09-08'
+  time: '20:00'
+  band_name: Сергей Чашкин и Андрей Злоян
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21515
+  date: '2011-09-09'
+  time: '22:00'
+  band_name: JazzTangeros
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21516
+  date: '2011-09-10'
+  time: '19:00'
+  band_name: Квартет Сергея Проня
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Жизнь в ритме джаза
+- id: 21517
+  date: '2011-09-10'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21518
+  date: '2011-09-11'
+  time: '19:00'
+  band_name: Dr. Joy
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-400 руб.
+- id: 20360
+  date: '2011-06-18'
+  time: '20:00'
+  band_name: Lush life
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 20359
+  date: '2011-06-16'
+  time: '20:00'
+  band_name: Twinkle-band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 20906
+  date: '2011-08-19'
+  time: '20:00'
+  band_id: 385
+  band_name: Александр Паклин & Boogie Mix
+  band_token: boogie-mix
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300 руб.
+- id: 21506
+  date: '2011-09-02'
+  time: '19:00'
+  band_name: Александр Титов, Сергей Пронь, Виталий Владимиров, Игорь Паращук, Юрий
+    Ковалевский, Александр Доброславин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Джаз, проверенный временем.  Луи Армстронг и его Музыка...
+- id: 21507
+  date: '2011-09-02'
+  time: '22:00'
+  band_name: Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: На вершине мира (Возвращение с Монблана)
+- id: 21511
+  date: '2011-09-05'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21525
+  date: '2011-09-20'
+  time: '20:00'
+  band_name: КиноДжаз
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+  comments: Проект "КиноДжаз" - объединит в себе шедевры мирового немого кино в музыкальном
+    сопровождении уральских джазовых коллективов.
+- id: 21530
+  date: '2011-09-25'
+  time: '16:00'
+  band_name: Джазовая АБВГДейка
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  comments: "Концерт № 1 \"С чего начинается джаз?\" Ритмы джаза\r\nДжаз-клуб \"EverJazz\"\
+    \ и Центр творческих проектов \"Камертон\" представляют: авторский культурно-просветительский\
+    \ проект Светланы Меркушиной - \"Игра в JAZZ\".\r\n\r\nКонцерт № 1 \"С чего начинается\
+    \ джаз?\" - 25 сентября 2011г.\r\nКонцерт № 2 \"Азбука джазового вокала\" - 27\
+    \ ноября 2011г.\r\nКонцерт № 3 \"Медные голоса джаза\" - январь 2012г.\r\nКонцерт\
+    \ № 4 \"Танцевальные ритмы джаза\" - апрель 2012г.\r\n\r\nСтоимость абонемента\
+    \ для ребенка с одним взрослым - 1400руб., для ребенка с двумя взрослыми - 2200руб.\
+    \ Стоимость разового детского билета для ребенка с одним взрослым - 450 руб.,\
+    \ для ребенка с двумя взрослыми - 700 р."
+- id: 21531
+  date: '2011-09-25'
+  time: '19:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21532
+  date: '2011-09-25'
+  time: '21:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21533
+  date: '2011-09-26'
+  time: '20:00'
+  band_name: Давид Бюрштейн (David Bursztein) и джазовый оркестр из Франции "Life
+    is not a Picnic"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 21534
+  date: '2011-09-27'
+  time: '20:00'
+  band_name: Давид Бюрштейн (David Bursztein) и джазовый оркестр из Франции "Life
+    is not a Picnic"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 21535
+  date: '2011-09-29'
+  time: '20:00'
+  band_name: Квартет Ивана Фармаковского (Ральф Бауэн, Дэррил Холл, Дональд Эдвардс)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+  comments: Звезды нью-йоркской джазовой сцены
+  extra_bands:
+  - id: 533
+    name: Дэррил Холл
+    token: dehrril-kholl
+  - id: 532
+    name: Ральф Бауэн
+    token: ralf-bauehn
+  - id: 534
+    name: Дональд Эдвардс
+    token: donald-ehdvards
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 21536
+  date: '2011-09-30'
+  time: '19:00'
+  band_name: Александр Титов, Сергей Пронь, Виталий Владимиров, Игорь Паращук, Юрий
+    Ковалевский, Александр Доброславин
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Джаз, проверенный временем.  Луи Армстронг и его Музыка...
+- id: 21537
+  date: '2011-09-30'
+  time: '22:00'
+  band_name: Квартет Ивана Фармаковского (Ральф Бауэн, Дэррил Холл, Дональд Эдвардс)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+  comments: Звезды нью-йоркской джазовой сцены
+  extra_bands:
+  - id: 534
+    name: Дональд Эдвардс
+    token: donald-ehdvards
+  - id: 533
+    name: Дэррил Холл
+    token: dehrril-kholl
+  - id: 532
+    name: Ральф Бауэн
+    token: ralf-bauehn
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 23363
+  date: '2011-12-02'
+  time: '20:00'
+  band_name: КиноДжаз. Фильм "Соль Сванетии" и музыка в рамках фестиваля "Кинопроба"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 23364
+  date: '2011-12-05'
+  time: '20:00'
+  band_name: Jamie Davis (USA)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+- id: 23368
+  date: '2011-12-10'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23369
+  date: '2011-12-11'
+  time: '16:00'
+  band_name: Проект С. Меркушиной "Игра в Jazz". Камертон-сейшн
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 23370
+  date: '2011-12-11'
+  time: '19:00'
+  band_name: Сухов Band. Снежная буги-вечеринка
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23371
+  date: '2011-12-11'
+  time: '21:30'
+  band_name: 'Jam-session: blues + rhythm''n''blues. Сухов band'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 23372
+  date: '2011-12-12'
+  time: '20:00'
+  band_name: Jam-session с Д. Галушко и А. Плетневым
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 23373
+  date: '2011-12-15'
+  time: '20:00'
+  band_name: Сергей Пронь и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23374
+  date: '2011-12-16'
+  time: '19:00'
+  band_name: Джаз, проверенный временем... Ольга Головина (вокал), Антон Зубарев (фортепиано),
+    Игнат Кравцов (ударные), Александр Булатов (бас)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23375
+  date: '2011-12-16'
+  time: '22:00'
+  band_name: Виктор Третьяков "БАРДовый вечер"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1500 руб.
+- id: 23376
+  date: '2011-12-17'
+  time: '19:00'
+  band_name: Jessie Jones (USA), Владимир Нестеренко, Александр Зингер
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+- id: 23377
+  date: '2011-12-17'
+  time: '22:00'
+  band_name: Funky Bizness Gang "Heavy Traffic Funk"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23378
+  date: '2011-12-18'
+  time: '19:00'
+  band_name: Новогодняя буги-вечеринка. Kingsback (г. Ижевск)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23379
+  date: '2011-12-21'
+  time: '20:00'
+  band_name: 'Black snow experiment. Черная музыка с белым лицом: Игнат Кравцов (барабаны),
+    Антон Зубарев (клавиши, вокодер), Александр Булатов (бас)'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23380
+  date: '2011-12-23'
+  time: '19:00'
+  band_name: Джаз, проверенный временем... Ольга Головина (вокал), Антон Зубарев (фортепиано),
+    Игнат Кравцов (ударные), Александр Булатов (бас)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23381
+  date: '2011-12-23'
+  time: '22:00'
+  band_name: Новогодняя программа "Jazz-express" - Merry Christmas
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 800-1000 руб.
+- id: 21944
+  date: '2011-10-06'
+  time: '20:00'
+  band_name: Andey Pletnev Quartet
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21945
+  date: '2011-10-07'
+  time: '19:00'
+  band_name: '"Уральский Диксиленд" Игоря Бурко (г. Челябинск)'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21946
+  date: '2011-10-07'
+  time: '22:00'
+  band_name: Black snow experiment
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21947
+  date: '2011-10-08'
+  time: '19:00'
+  band_name: ProJazz глазами Mobi-J
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21948
+  date: '2011-10-08'
+  time: '22:00'
+  band_name: Dj проект Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21949
+  date: '2011-10-09'
+  time: '16:00'
+  band_name: Проект Светланы Меркушиной "Игра в Jazz", детский джазовый ансамбль "Hot-Ton"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 21950
+  date: '2011-10-09'
+  time: '19:00'
+  band_name: Sunday Dance "Twist & Shake". The Stockmen
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-400 руб.
+- id: 21951
+  date: '2011-10-10'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21952
+  date: '2011-10-11'
+  time: '20:00'
+  band_name: КиноДжаз. Запрещенная советская сатира.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 21954
+  date: '2011-10-14'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем. Музыка Дюка Эллингтона". От резидентов
+    клуба EverJazz.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21955
+  date: '2011-10-14'
+  time: '22:00'
+  band_name: Muchachos Band
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21956
+  date: '2011-10-15'
+  time: '16:00'
+  band_name: Сергей Пронь представляет проект "Мысли о джазе..." Дюк Эллингтон.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300 руб.
+- id: 21957
+  date: '2011-10-15'
+  time: '19:00'
+  band_name: Ольга Головина и Трио Дениса Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21958
+  date: '2011-10-15'
+  time: '22:00'
+  band_id: 52
+  band_name: Blues Doctors
+  band_token: blues-doctors
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21959
+  date: '2011-10-16'
+  time: '19:00'
+  band_name: Sunday Dance "Twist & Shake". The Apples
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21960
+  date: '2011-10-17'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21975
+  date: '2011-10-30'
+  time: '16:00'
+  band_name: Проект Светланы Меркушиной "Игра в Jazz", "Юниджаз".
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 21976
+  date: '2011-10-30'
+  time: '19:00'
+  band_name: Sunday Dance "Twist & Shake". Blues Line
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  extra_bands:
+  - id: 156
+    name: Blues Line
+    token: blues-line
+- id: 21977
+  date: '2011-10-30'
+  time: '22:00'
+  band_name: 'Jam-Session: Blues + Rhythm''n''Blues. Blues Line'
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+  extra_bands:
+  - id: 156
+    name: Blues Line
+    token: blues-line
+- id: 22028
+  date: '2011-11-05'
+  time: '22:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+- id: 21963
+  date: '2011-10-21'
+  time: '22:00'
+  band_name: Игорь Захаров, Сергей Манукян, Игорь Паращук. Global Village-2
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 21966
+  date: '2011-10-23'
+  time: '19:00'
+  band_name: Sunday Dance "Twist & Shake". Diddley Dogs (ex. Marx & Angels)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200-400 руб.
+- id: 21969
+  date: '2011-10-27'
+  time: '20:00'
+  band_name: David-Jazz-Trio
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21971
+  date: '2011-10-28'
+  time: '22:00'
+  band_name: Бернард Швентер (Швейцария). "Rags'n Jazz"
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 21978
+  date: '2011-10-31'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21953
+  date: '2011-10-13'
+  time: '20:00'
+  band_name: Insomnis
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 21961
+  date: '2011-10-20'
+  time: '20:00'
+  band_name: Djanglers
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+  comments: Джипси-свинг
+- id: 21962
+  date: '2011-10-21'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем. Музыка Дюка Эллингтона". От резидентов
+    клуба EverJazz.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21964
+  date: '2011-10-22'
+  time: '19:00'
+  band_name: Игорь Захаров, Сергей Манукян, Игорь Паращук. Global Village-2
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 500-1200 руб.
+  extra_bands:
+  - id: 132
+    name: Сергей Манукян
+    token: manukyan
+- id: 21965
+  date: '2011-10-22'
+  time: '22:00'
+  band_name: New Age
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21967
+  date: '2011-10-24'
+  time: '20:00'
+  band_name: Джем-сейшн с Андреем Плетневым и Денисом Галушко
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: бесплатный
+- id: 21968
+  date: '2011-10-25'
+  time: '20:00'
+  band_name: КиноДжаз. "Три мушкетера" в немом кино.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 200 руб.
+- id: 21970
+  date: '2011-10-28'
+  time: '19:00'
+  band_name: Проект "Джаз, проверенный временем. Музыка Дюка Эллингтона". От резидентов
+    клуба EverJazz
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 21972
+  date: '2011-10-29'
+  time: '16:00'
+  band_name: Сергей Пронь представляет проект "Мысли о джазе...". Майлс Дэвис.
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300 руб.
+- id: 21973
+  date: '2011-10-29'
+  time: '19:00'
+  band_name: Бернард Швентер (Швейцария). "Rags'n Jazz".
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 21974
+  date: '2011-10-29'
+  time: '22:00'
+  band_name: Вероника Булычева (Франция) и Изумруд
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 400-800 руб.
+- id: 23365
+  date: '2011-12-08'
+  time: '20:00'
+  band_name: Between the Notes
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23366
+  date: '2011-12-09'
+  time: '19:00'
+  band_name: Джаз, проверенный временем... Ольга Головина (вокал), Антон Зубарев (фортепиано),
+    Игнат Кравцов (ударные), Александр Булатов (бас)
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.
+- id: 23367
+  date: '2011-12-10'
+  time: '19:00'
+  band_name: Old School Quartet и Юлия Дьячковская "Billie Holiday посвящается..."
+  club_id: 164
+  club_name: EverJazz
+  club_token: everjazz
+  price: 300-500 руб.

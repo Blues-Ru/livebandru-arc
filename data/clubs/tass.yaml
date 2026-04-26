@@ -1,0 +1,13 @@
+id: 370
+token: tass
+name: ТАСС
+alive: true
+address: Ленина, 8
+phone: 65-80-46
+city_id: 40
+clips:
+- id: 1404
+  type: weblink
+  url: http://vk.com/club10507042
+  name: Страница ВКонтакте
+  sort_order: 99

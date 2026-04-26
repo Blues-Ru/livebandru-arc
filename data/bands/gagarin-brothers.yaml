@@ -1,0 +1,19 @@
+id: 126
+token: gagarin-brothers
+name: Gagarin Brothers
+alive: true
+url: http://www.gagarinbrothers.ru/
+city_id: 1
+genre_id: 9
+secondary_genre_id: 4
+clips:
+- id: 108
+  type: weblink
+  url: http://www.gagarinbrothers.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 109
+  type: weblink
+  url: http://www.myspace.com/gagarinbrothers
+  name: Страница на MySpace
+  sort_order: 100

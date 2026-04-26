@@ -1,0 +1,25 @@
+id: 241
+token: alisa
+name: Алиса
+aliases: Константин Кинчев
+alive: true
+url: http://www.AlisA.net
+city_id: 1
+genre_id: 3
+clips:
+- id: 753
+  type: weblink
+  url: http://www.AlisA.net
+  name: Официальный сайт
+  sort_order: 99
+- id: 754
+  type: weblink
+  url: http://www.myspace.com/kinchev
+  name: Страница на MySpace
+  sort_order: 199
+- id: 757
+  type: photo
+  url: alisa.jpg
+  sort_order: 0
+  width: 827
+  height: 878

@@ -1,0 +1,24 @@
+id: 379
+token: xo
+name: XO
+aliases: 'Х.О.
+
+  X.O.
+
+  X.O'
+alive: true
+address: Вавилова, 65
+subway: Профсоюзная
+phone: (499) 125-53-49
+city_id: 1
+clips:
+- id: 1599
+  type: weblink
+  url: http://vk.com/club7964234
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1598
+  type: weblink
+  url: http://www.xoclub.ru
+  name: Официальный сайт
+  sort_order: 0

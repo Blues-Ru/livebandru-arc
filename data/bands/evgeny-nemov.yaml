@@ -1,0 +1,51 @@
+id: 250
+token: evgeny-nemov
+name: Cpt.Nemoff Blues Trio
+aliases: 'Cpt.Nemoff Trio
+
+  Евгений Немов
+
+  Капитан Немов
+
+  Трио Евгения Немова
+
+  Трио Капитана Немова'
+alive: true
+url: http://www.evgenynemov.ru/
+city_id: 1
+genre_id: 1
+secondary_genre_id: 8
+musicians:
+- name: Евгений Немов
+  instruments: гитара, вокал
+- name: Денис Овчинников
+  instruments: бас
+- name: Андрей Филиппов
+  instruments: ударные
+clips:
+- id: 829
+  type: weblink
+  url: http://www.evgenynemov.ru/
+  name: Официальный сайт
+  comments: Оффициальный сайт Евгения Немова
+  sort_order: 99
+- id: 998
+  type: photo
+  url: evgeny-nemov-2.jpg
+  name: Cpt.Nemoff
+  comments: Cpt.Nemoff
+  sort_order: 0
+  width: 540
+  height: 540
+- id: 868
+  type: photo
+  url: evgeny-nemov.jpg
+  sort_order: 200
+  width: 200
+  height: 356
+- id: 999
+  type: youtube
+  url: http://www.youtube.com/?v=DYy5PsgUPG8
+  name: Cpt Nemoff - Japaneese Boogie
+  comments: www.evgenynemov.ru
+  sort_order: 0

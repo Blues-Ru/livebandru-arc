@@ -1,0 +1,64 @@
+- id: 16006
+  date: '2011-03-03'
+  time: '21:00'
+  band_name: Suvorov Blues Band, джем
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: бесплатный
+  extra_bands:
+  - id: 399
+    name: Suvorov Blues Band
+    token: suvorov-blues
+- id: 17150
+  date: '2011-03-31'
+  time: '20:00'
+  band_name: 'Blues Jam: Ольга Пономарева'
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: бесплатный
+- id: 17079
+  date: '2011-03-24'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: бесплатный
+- id: 17438
+  date: '2011-04-07'
+  time: '20:00'
+  band_name: Spb Blues Jam. Марат Карапетян (Тверь) исполняет песни Doors; Dynamic
+    James (Москва).
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: 200 руб.
+- id: 17725
+  date: '2011-04-14'
+  time: '20:00'
+  band_id: 223
+  band_name: Saint Petes Blues
+  band_token: spb-blues
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: 200 руб.
+- id: 18009
+  date: '2011-04-20'
+  time: '19:00'
+  band_name: Враги, Plastic Tunes (Москва)
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+- id: 19359
+  date: '2011-05-21'
+  time: '19:30'
+  band_name: Lizard Band, BlinBlues.com
+  club_id: 402
+  club_name: Акакао
+  club_token: akakao
+  price: 300 руб.

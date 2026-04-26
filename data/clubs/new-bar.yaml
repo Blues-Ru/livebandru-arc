@@ -1,0 +1,14 @@
+id: 875
+token: new-bar
+name: New Bar
+alive: true
+address: ул. 8 Марта, 8д, ТЦ "Мытный двор", 3 этаж
+subway: Площадь 1905 года
+phone: +7(953)606-7684
+city_id: 6
+clips:
+- id: 8338
+  type: weblink
+  url: http://www.new-bar.ru
+  name: Официальный сайт
+  sort_order: 0

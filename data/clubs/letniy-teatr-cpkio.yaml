@@ -1,0 +1,13 @@
+id: 777
+token: letniy-teatr-cpkio
+name: Летний театр ЦПКиО
+alive: true
+address: пр. Победы, 1
+phone: +7(4012)99-99-30
+city_id: 69
+clips:
+- id: 5914
+  type: weblink
+  url: http://www.jazzfestival.ru/
+  name: Официальный сайт
+  sort_order: 0

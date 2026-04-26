@@ -1,0 +1,76 @@
+- id: 82067
+  date: '2019-10-11'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra п/у Кирилла Бубякина (саксофон)
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82068
+  date: '2019-10-13'
+  time: '12:00'
+  band_name: Тематический концерт для школьников "Инструменты в джазе". Кирилл Бубякин
+    (тенор-саксофон) и его ансамбль
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82069
+  date: '2019-10-20'
+  time: '19:00'
+  band_id: 361
+  band_name: Ленинградский диксиленд п/у Олега Кувайцева
+  band_token: oleg-kuvaev
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82413
+  date: '2019-11-04'
+  time: '19:00'
+  band_name: Эльвира Трафова (вокал) и ансамбль Петра Корнева (фортепиано) в программе
+    "Вспоминая Дюка Эллингтона"
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82414
+  date: '2019-11-10'
+  time: '12:00'
+  band_name: 'Тематический концерт для школьников "Инструменты в джазе": Кирилл Бубякин
+    (тенор-саксофон) и его ансамбль'
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82415
+  date: '2019-11-27'
+  time: '19:00'
+  band_name: Jazz Philharmonic Orchestra п/у Кирилла Бубякина (саксофон)
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82926
+  date: '2019-12-28'
+  time: '19:00'
+  band_name: 'Новогодний концерт "От диксиленда к свингу": Ансамбль Давида Голощекина,
+    Юлия Касьян (вокал); Ленинградский диксиленд п/у Олега Кувайцева'
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+  extra_bands:
+  - id: 361
+    name: Ленинградский диксиленд п/у Олега Кувайцева
+    token: oleg-kuvaev
+- id: 82927
+  date: '2019-12-21'
+  time: '19:00'
+  band_name: 'Ансамбль солистов Jazz Philharmonic Orchestra: Кирилл Бубякин (саксофон),
+    Евгений Соколов (труба), Вячеслав Лисаченко (тромбон), Дмитрий Братухин (фортепиано),
+    Николай Затолочный (контрабас), Егор Крюковских (ударные)'
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok
+- id: 82928
+  date: '2019-12-15'
+  time: '12:00'
+  band_name: 'Тематический концерт для школьников "Инструменты в джазе": Кирилл Бубякин
+    (тенор-саксофон) и его ансамбль. Тема встречи - "Медные духовые инструменты"'
+  club_id: 931
+  club_name: Открытая киностудия "ЛенДок"
+  club_token: otkrytaya-kinostudiya-lendok

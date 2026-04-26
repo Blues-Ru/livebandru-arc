@@ -1,0 +1,109 @@
+id: 730
+token: zebrawood
+name: ZebraWood Blues Band
+alive: true
+url: https://vk.com/zebrawood
+city_id: 2
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Василий Трифонов
+  instruments: vocal/guitar
+- name: Рамиль Басыров
+  instruments: guitar
+- name: Петр Рибуш
+  instruments: bass
+- name: Алексей Мишин
+  instruments: drums
+clips:
+- id: 8508
+  type: youtube
+  url: https://www.youtube.com/watch?v=-yDb-mcFPgk
+  name: ZebraWood Blues Band | Voodoo Chile (Jimi Hendrix Cover)
+  comments: Live in MNHTN Art Club 07/28/2017
+  sort_order: 99
+- id: 8509
+  type: youtube
+  url: https://www.youtube.com/watch?v=yhFV6hgaN8o
+  name: ZebraWood Blues Band | The Thrill Is Gone (B.B. King cover)
+  comments: Live in MNHTN Art Club 07/28/2017
+  sort_order: 199
+- id: 8491
+  type: weblink
+  url: https://vk.com/zebrawood
+  name: Официальный сайт
+  sort_order: 0
+- id: 9391
+  type: photo
+  url: zebrawood.jpg
+  name: The ZebraWood Blues Band
+  sort_order: 0
+  width: 4760
+  height: 3602
+- id: 9392
+  type: youtube
+  url: https://www.youtube.com/watch?v=YfwfB4MtO8A
+  name: ZebraWood | Hard Luck Woman (Sean Costello cover)
+  comments: 'The ZebraWood Blues Bandhttps://vk.com/zebrawood12/16/2018 White Night
+    Music Joint #TheZebraWood #ZebraWood #ZebraWoodBlues#Blues #BluesRock #SpbBlues
+    #SpbBluesRu'
+  sort_order: 0
+- id: 9393
+  type: youtube
+  url: https://www.youtube.com/watch?v=U1k6NK7Pa1k
+  name: ZebraWood | Voodoo Child (Jimi Hendrix cover)
+  comments: Live in White Night Music Joint 01/07/2019The ZebraWood Blues Bandhttps://vk.com/zebrawood
+  sort_order: 50
+- id: 9394
+  type: youtube
+  url: https://www.youtube.com/watch?v=9T-OT_pRiM8
+  name: ZebraWood Blues Band | Cold Black Night (Gary Moore cover)
+  comments: ZebraWood Blues Band, White Night Music Joint 09.09.2018https://vk.com/zebrawood
+  sort_order: 75
+- id: 9395
+  type: youtube
+  url: https://www.youtube.com/watch?v=osEHQuWHQms
+  name: ZebraWood | Cocaine (J.J. Cale cover)
+  comments: 'The ZebraWood Blues Band
+
+    https://vk.com/zebrawood
+
+    Live in White Night Music Joint
+
+    01/07/2019
+
+    #TheZebraWood #ZebraWood #ZebraWoodBlues
+
+    #Blues #BluesRock #SpbBlues #SpbBluesRu'
+  sort_order: 87
+- id: 11220
+  type: youtube
+  url: https://youtu.be/w6RfsaqLDfU
+  name: ZebraWood | No Shame (Sean Costello cover)
+  sort_order: 25
+- id: 11234
+  type: youtube
+  url: https://youtu.be/RFYVMUQWdvM
+  name: ZebraWood Blues Band & Friends
+  comments: ZebraWood - по настоящему классная группа, в исполнении которой даже самые
+    привычные хиты 60х-70х обретают абсолютно новое звучание. Драйв и энергетика этих
+    парней завораживает и их хочется слушать сн
+  sort_order: 13
+reviews:
+- id: 482
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: ZebraWood Blues Band
+  text: 'The ZebraWood - по-настоящему классная группа, в исполнении которой даже
+    самые привычные хиты 60х-70х обретают абсолютно новое звучание. Драйв и энергетика
+    этих парней завораживает и их хочется слушать снова и снова!
+
+
+    Группа основана в 2017 году музыкантами выступавших на клубной сцене Санкт-Петербурга
+    и России. В основу репертуара положены хиты стиля блюз-рок таких исполнителей
+    как: Jimi Hendrix, Stevie Ray Vaughan, Gary Moore, Eric Clapton, B.B. King и новых
+    течений Rival Sons, Radio Moscow.'
+  verified: true
+  created: '2017-07-27'
+  is_press_release: true

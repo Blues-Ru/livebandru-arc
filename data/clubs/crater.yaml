@@ -1,0 +1,17 @@
+id: 387
+token: crater
+name: Кратер
+alive: true
+address: Льва Толстого, 97
+city_id: 12
+clips:
+- id: 1684
+  type: weblink
+  url: http://vk.com/club19205183
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1683
+  type: weblink
+  url: http://www.kratersamara.com/
+  name: Официальный сайт
+  sort_order: 0

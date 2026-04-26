@@ -1,0 +1,382 @@
+- id: 14535
+  date: '2011-01-02'
+  time: '20:00'
+  band_name: Китай
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 14790
+  date: '2011-01-19'
+  time: '19:00'
+  band_name: ПоФакту, Страна Идиотов, Nитро, Z.O.J.
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 14951
+  date: '2011-01-22'
+  time: '21:00'
+  band_id: 360
+  band_name: Beat Devils
+  band_token: beat-devils
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 15010
+  date: '2011-01-28'
+  time: '22:00'
+  band_name: Черный кофе
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 15026
+  date: '2011-01-29'
+  time: '22:00'
+  band_id: 344
+  band_name: С.О.К.
+  band_token: s-o-k
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 14993
+  date: '2011-01-27'
+  time: '19:00'
+  band_name: Арда
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 15401
+  date: '2011-02-11'
+  time: '22:00'
+  band_name: Safety Magic
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 15642
+  date: '2011-02-20'
+  time: '16:00'
+  band_name: Небо здесь, The Glue, Joy Juice
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16079
+  date: '2011-03-05'
+  time: '22:00'
+  band_name: Lюк
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16059
+  date: '2011-03-04'
+  time: '20:00'
+  band_name: Данко
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16102
+  date: '2011-03-06'
+  time: '19:00'
+  band_name: ЭF5
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16317
+  date: '2011-03-12'
+  time: '20:00'
+  band_name: Eklektika, Teufelstanz
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16338
+  date: '2011-03-12'
+  time: '21:00'
+  band_name: Каникулы маленькой панды, MantrA, Myelene, My Aprils
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16343
+  date: '2011-03-13'
+  time: '19:00'
+  band_name: Der Steikopf, Газон
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16384
+  date: '2011-03-16'
+  time: '19:00'
+  band_name: Точка отрыва
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16409
+  date: '2011-03-18'
+  time: '19:00'
+  band_name: Арда, Мое сердце справа
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16354
+  date: '2011-03-13'
+  time: '18:00'
+  band_name: Тени Свободы, Т-34
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16636
+  date: '2011-04-09'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+  price: '300'
+- id: 16701
+  date: '2011-03-25'
+  time: '20:00'
+  band_name: Blues Enclave, LoftyBand, Бабушкины Сказки, Юкон, The Bible, Мадера Хард
+    Блюз, Алексей Колосов и Аура
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+  price: 300 руб.
+  extra_bands:
+  - id: 340
+    name: Blues Enclave
+    token: blues-enclave
+  - id: 228
+    name: LoftyBand
+    token: loftyband
+- id: 16739
+  date: '2011-03-23'
+  time: '20:00'
+  band_name: Магнитная аномалия
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16884
+  date: '2011-04-01'
+  time: '21:00'
+  band_name: Керамика
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16838
+  date: '2011-03-29'
+  time: '18:30'
+  band_name: Внутренние дела, Полковник Пупов, The VB, Оранжерея, Саня Ха, Буга-бенд
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 16852
+  date: '2011-03-30'
+  time: '20:00'
+  band_name: Ингрессия, Stereo Z, Crimson Blue
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17275
+  date: '2011-04-08'
+  time: '20:00'
+  band_name: Триада
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17203
+  date: '2011-04-05'
+  time: '19:00'
+  band_name: Kurt Cobain Memory Day
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17551
+  date: '2011-04-15'
+  time: '20:00'
+  band_name: Игорь Буланов, Игорь Лучин, Стаж
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17588
+  date: '2011-04-16'
+  time: '19:00'
+  band_name: Блондинка Ксю
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17628
+  date: '2011-04-17'
+  time: '18:00'
+  band_name: Pipes and Pints (Чехия), Zuname, The Poseurs, Choix, Mad Sox
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17941
+  date: '2011-04-21'
+  time: '19:00'
+  band_name: Тени Свободы, Маски Долой
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17968
+  date: '2011-04-22'
+  time: '20:00'
+  band_name: The Chemodan
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17984
+  date: '2011-04-23'
+  time: '21:00'
+  band_name: Mordor
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 17995
+  date: '2011-04-24'
+  time: '19:00'
+  band_name: Samati
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18163
+  date: '2011-04-27'
+  time: '20:00'
+  band_name: Истерия Orchestra
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18139
+  date: '2011-04-25'
+  time: '19:00'
+  band_name: MantrA, Tombstone Piledriver, Каникулы Маленькой Панды, Sons Live For
+    Battle, Seven7Steps
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18181
+  date: '2011-04-28'
+  time: '21:00'
+  band_name: Корней
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18200
+  date: '2011-04-29'
+  time: '19:00'
+  band_name: Теплые дни
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18878
+  date: '2011-05-11'
+  time: '19:00'
+  band_name: 8 Bit
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18887
+  date: '2011-05-14'
+  time: '18:00'
+  band_name: Киро и Шин (GER)
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18581
+  date: '2011-05-02'
+  time: '19:00'
+  band_name: Real Jam
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18583
+  date: '2011-05-02'
+  time: '15:00'
+  band_name: Черный обелиск
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18636
+  date: '2011-05-04'
+  time: '19:00'
+  band_name: Велес
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18637
+  date: '2011-05-04'
+  time: '18:00'
+  band_name: Миллион градусов Солнца (Украина)
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18644
+  date: '2011-05-05'
+  time: '19:00'
+  band_name: My Victory, Bona Fides, Broken Fist, Death Creepy Bastards, The Crhyme
+    Scene, Ближний бой
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18651
+  date: '2011-05-06'
+  time: '19:00'
+  band_name: Пилигрим, Вольная стая, Stereo Z, Эпоха танца, M.A.D. Band
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18664
+  date: '2011-05-09'
+  time: '19:00'
+  band_name: Cash You
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 18720
+  date: '2011-05-13'
+  time: '20:00'
+  band_name: Таке-Тшо, П.П.К.Б.
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 19159
+  date: '2011-05-20'
+  time: '22:00'
+  band_name: Черный кофе
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 19176
+  date: '2011-05-22'
+  time: '17:00'
+  band_name: Харизма
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 19153
+  date: '2011-05-20'
+  time: '20:00'
+  band_name: Михаил Anticvar Антипов
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 19163
+  date: '2011-05-21'
+  time: '19:00'
+  band_name: Оркестр Че
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 19164
+  date: '2011-05-21'
+  time: '19:30'
+  band_name: Фестиваль Eklektika
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa
+- id: 20189
+  date: '2011-06-11'
+  time: '18:00'
+  band_name: Glam-On 3
+  club_id: 11
+  club_name: Tabula Rasa
+  club_token: tabula-rasa

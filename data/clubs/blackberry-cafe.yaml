@@ -1,0 +1,14 @@
+id: 601
+token: blackberry-cafe
+name: BlackBerry cafe
+alive: true
+address: просп. Академика Сахарова, 10
+subway: Сретенский Бульвар, Тургеневская, Чистые Пруды, Красные Ворота
+phone: +7(495)926-1640
+city_id: 1
+clips:
+- id: 3422
+  type: weblink
+  url: http://www.blackberrys.ru/news/1199.html
+  name: Официальный сайт
+  sort_order: 0

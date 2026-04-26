@@ -1,0 +1,15 @@
+id: 371
+token: sunduk
+name: Сундук
+aliases: Арт-кафе "Сундук"
+alive: true
+address: Фурштадская, 42
+subway: Чернышевская
+phone: (812) 272-31-00
+city_id: 2
+clips:
+- id: 1459
+  type: weblink
+  url: http://www.cafesunduk.ru
+  name: Официальный сайт
+  sort_order: 0

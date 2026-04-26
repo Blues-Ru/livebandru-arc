@@ -1,0 +1,609 @@
+- id: 69910
+  date: '2018-01-03'
+  time: '20:00'
+  band_name: Юрий Иванов и Acoustic Rain
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 69912
+  date: '2018-01-04'
+  time: '20:00'
+  band_name: Rock Band. Сергей Каширин
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 69839
+  date: '2018-01-06'
+  time: '20:00'
+  band_name: Рождество в Форте. Святослав Текучёв & Good Sound Men Orchestra
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 69906
+  date: '2018-01-02'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 69907
+  date: '2018-01-05'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 69908
+  date: '2018-01-07'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70284
+  date: '2018-01-07'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71100
+  date: '2018-03-02'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70706
+  date: '2018-02-20'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70709
+  date: '2018-02-27'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70711
+  date: '2018-02-02'
+  time: '20:00'
+  band_name: Блюзовый Джем. Петрович, Гия Дзагнидзе и Modern Blues Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 70713
+  date: '2018-02-08'
+  time: '20:00'
+  band_name: Юрий Нугманов (гитарист-виртуоз)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70715
+  date: '2018-02-14'
+  time: '20:00'
+  band_name: День всех Влюбленных. Федулова
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70700
+  date: '2018-02-03'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70703
+  date: '2018-02-11'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70705
+  date: '2018-02-18'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70707
+  date: '2018-02-24'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70708
+  date: '2018-02-25'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70714
+  date: '2018-02-10'
+  time: '20:00'
+  band_name: Квадро Вячеслава Горского при уч. Маши Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70716
+  date: '2018-02-17'
+  time: '20:00'
+  band_name: Андрей Храмов
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70701
+  date: '2018-02-04'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70702
+  date: '2018-02-06'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70704
+  date: '2018-02-13'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70710
+  date: '2018-02-01'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70712
+  date: '2018-02-07'
+  time: '20:00'
+  band_name: Юрий Иванов и Acoustic Rain
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 70717
+  date: '2018-02-21'
+  time: '20:00'
+  band_name: Юрий Иванов и Acoustic Rain
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71103
+  date: '2018-03-11'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71109
+  date: '2018-03-07'
+  time: '20:00'
+  band_name: Квадро Вячеслава Горского при уч. Маши Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71112
+  date: '2018-03-17'
+  time: '20:00'
+  band_name: Alex Davletshin Project
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 709
+    name: Алексей Давлетшин
+    token: aleksej-davletshin
+- id: 71114
+  date: '2018-03-23'
+  time: '20:00'
+  band_name: Квинтет Святослава Текучёва
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71102
+  date: '2018-03-10'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71104
+  date: '2018-03-13'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71105
+  date: '2018-03-18'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71108
+  date: '2018-03-25'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71111
+  date: '2018-03-15'
+  time: '20:00'
+  band_name: Арам Зурабян и Джазпром при уч. Дениса и Тимура Хагба
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71662
+  date: '2018-04-22'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71663
+  date: '2018-04-24'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71664
+  date: '2018-03-31'
+  time: '20:00'
+  band_name: Мурад Булатов (гитара)
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71666
+  date: '2018-04-13'
+  time: '20:00'
+  band_name: Олег Киреев. Exotic Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  extra_bands:
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 71668
+  date: '2018-04-27'
+  time: '20:00'
+  band_name: Квадро Вячеслава Горского при уч. Маши Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71669
+  date: '2018-04-29'
+  time: '20:00'
+  band_name: Nash Albert Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71655
+  date: '2018-04-03'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71656
+  date: '2018-04-08'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71657
+  date: '2018-04-10'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71659
+  date: '2018-04-15'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71660
+  date: '2018-04-17'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71654
+  date: '2018-04-01'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71658
+  date: '2018-04-14'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71661
+  date: '2018-04-19'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71665
+  date: '2018-04-07'
+  time: '20:00'
+  band_name: Артем Айвазян (труба) & the Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71667
+  date: '2018-04-20'
+  time: '20:00'
+  band_name: Святослав Текучёв & Good Sound Men Orchestra
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71106
+  date: '2018-03-20'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71107
+  date: '2018-03-24'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71110
+  date: '2018-03-09'
+  time: '20:00'
+  band_name: Жан Осян
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71113
+  date: '2018-03-22'
+  time: '20:00'
+  band_name: Музыкальная гостиная Марии Кац
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71101
+  date: '2018-03-06'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71465
+  date: '2018-03-04'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71466
+  date: '2018-03-27'
+  time: '20:00'
+  band_id: 331
+  band_name: Haleo
+  band_token: haleo
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71467
+  date: '2018-03-30'
+  time: '20:00'
+  band_name: Nash Albert Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 71606
+  date: '2018-03-30'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 750 руб.
+- id: 71540
+  date: '2018-04-05'
+  time: '20:00'
+  band_name: Real Russian Bluegrass Band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72208
+  date: '2018-05-06'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72209
+  date: '2018-05-13'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72210
+  date: '2018-05-20'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72211
+  date: '2018-05-18'
+  time: '20:00'
+  band_name: Федулова. Концерт в День Рождения
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72251
+  date: '2018-05-27'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72577
+  date: '2018-05-19'
+  time: '20:00'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72633
+  date: '2018-05-12'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.
+- id: 72644
+  date: '2018-05-31'
+  time: '20:00'
+  band_id: 132
+  band_name: Сергей Манукян
+  band_token: manukyan
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72648
+  date: '2018-05-24'
+  time: '20:00'
+  band_name: Квартет Насти Родной NRjazz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 72646
+  date: '2018-05-23'
+  time: '20:00'
+  band_name: Трио Павла Чекмаковского
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+- id: 74625
+  date: '2018-09-09'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 1
+  club_name: Forte
+  club_token: forte
+  price: 500 руб.

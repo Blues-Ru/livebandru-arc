@@ -1,0 +1,18 @@
+id: 152
+token: auktyon
+name: Аукцыон
+alive: true
+url: http://www.auktyon.ru/
+city_id: 1
+genre_id: 3
+clips:
+- id: 180
+  type: weblink
+  url: http://www.leonidfedorov.ru
+  name: Сайт Леонида Федорова
+  sort_order: 200
+- id: 181
+  type: weblink
+  url: http://www.auktyon.ru/
+  name: Официальный сайт
+  sort_order: 0

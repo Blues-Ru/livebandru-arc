@@ -1,0 +1,675 @@
+- id: 14874
+  date: '2011-01-13'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 14913
+  date: '2011-01-22'
+  time: '20:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 14914
+  date: '2011-01-28'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 14915
+  date: '2011-01-29'
+  time: '20:00'
+  band_name: Дорога на Миссисипи
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15170
+  date: '2011-02-03'
+  time: '20:00'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: 200 руб.
+- id: 15208
+  date: '2011-02-04'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: '300'
+- id: 15211
+  date: '2011-02-10'
+  time: '20:00'
+  band_id: 63
+  band_name: Вадим Иващенко и The Boneshakers
+  band_token: ivaschenko
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15212
+  date: '2011-02-12'
+  time: '20:00'
+  band_id: 89
+  band_name: Кукуруза
+  band_token: kukuruza
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15213
+  date: '2011-02-20'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15221
+  date: '2011-02-26'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15183
+  date: '2011-02-11'
+  time: '20:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15207
+  date: '2011-01-30'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15209
+  date: '2011-02-05'
+  time: '20:00'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: '300'
+- id: 15214
+  date: '2011-02-13'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15215
+  date: '2011-02-23'
+  time: '20:00'
+  band_name: Концерт отменен
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 15216
+  date: '2011-02-17'
+  time: '20:00'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15218
+  date: '2011-02-19'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15219
+  date: '2011-02-24'
+  time: '20:00'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15220
+  date: '2011-02-25'
+  time: '20:00'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: '500'
+- id: 15223
+  date: '2011-02-27'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15224
+  date: '2011-02-06'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15140
+  date: '2011-01-21'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 15210
+  date: '2011-02-09'
+  time: '20:00'
+  band_name: Квартет Ильи Алехина
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 15217
+  date: '2011-02-18'
+  time: '20:00'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 15610
+  date: '2011-03-12'
+  time: '20:00'
+  band_name: Павел Козлов и Alright Band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+  extra_bands:
+  - id: 334
+    name: Павел Козлов & Alright Band
+    token: pavel-kozlov
+- id: 16221
+  date: '2011-03-18'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 16256
+  date: '2011-03-13'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 16246
+  date: '2011-03-06'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17086
+  date: '2011-03-25'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17128
+  date: '2011-04-08'
+  time: '20:00'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17175
+  date: '2011-04-01'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17401
+  date: '2011-04-28'
+  time: '20:00'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17398
+  date: '2011-04-09'
+  time: '20:30'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17497
+  date: '2011-05-14'
+  time: '21:00'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17498
+  date: '2011-05-27'
+  time: '21:00'
+  band_id: 272
+  band_name: Inna World
+  band_token: inna-world
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17387
+  date: '2011-04-03'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17389
+  date: '2011-04-29'
+  time: '20:00'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17450
+  date: '2011-04-10'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17727
+  date: '2011-04-17'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17495
+  date: '2011-04-14'
+  time: '21:00'
+  band_id: 423
+  band_name: H-bar
+  band_token: h-bar
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 17726
+  date: '2011-04-24'
+  time: '19:00'
+  band_name: Greenwich Pub Open Jam
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 18545
+  date: '2011-05-06'
+  time: '20:00'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 18549
+  date: '2011-09-02'
+  time: '20:00'
+  band_id: 336
+  band_name: Юрий Максимов & B.B.Max
+  band_token: b-b-max
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 18932
+  date: '2011-05-20'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 18996
+  date: '2011-05-13'
+  time: '20:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 20044
+  date: '2011-06-19'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20042
+  date: '2011-06-05'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  comments: High School
+- id: 21355
+  date: '2011-08-14'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21356
+  date: '2011-08-21'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21357
+  date: '2011-08-28'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20583
+  date: '2011-06-26'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20584
+  date: '2011-07-03'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20585
+  date: '2011-07-10'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20911
+  date: '2011-07-31'
+  time: '20:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21650
+  date: '2011-09-09'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 20870
+  date: '2011-07-17'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 20872
+  date: '2011-07-24'
+  time: '20:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21120
+  date: '2011-08-07'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21664
+  date: '2011-09-16'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 21700
+  date: '2011-09-02'
+  time: '21:00'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 21701
+  date: '2011-09-08'
+  time: '21:00'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 21824
+  date: '2011-09-18'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 23148
+  date: '2011-12-02'
+  time: '21:00'
+  band_id: 461
+  band_name: Boogie Child
+  band_token: boogie-child
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 23227
+  date: '2011-11-18'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 23228
+  date: '2011-11-25'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 23231
+  date: '2011-12-09'
+  time: '21:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 23301
+  date: '2011-12-10'
+  time: '21:00'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 23334
+  date: '2011-12-09'
+  time: '21:00'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 22023
+  date: '2011-10-07'
+  time: '21:00'
+  band_id: 98
+  band_name: Bossa Bravo Club
+  band_token: bossa-bravo
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 22025
+  date: '2011-10-02'
+  time: '21:00'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+- id: 24161
+  date: '2011-12-23'
+  time: '22:00'
+  band_id: 285
+  band_name: Richie's Blues Band
+  band_token: richies-blues-band
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub
+  price: бесплатный
+- id: 22634
+  date: '2011-10-21'
+  time: '22:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 374
+  club_name: Greenwich Pub
+  club_token: greenwich-pub

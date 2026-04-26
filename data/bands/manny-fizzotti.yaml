@@ -1,0 +1,80 @@
+id: 662
+token: manny-fizzotti
+name: Emanuele "Manny" Fizzotti
+aliases: Manny Fizzotti
+alive: true
+url: http://www.emanuelefizzotti.com/english/english.htm
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Manny Rizzotti
+  instruments: guitar/vocals
+- name: Петр Митрюхин
+  instruments: бас-гитара/бэк-вокал
+- name: Сегрей Чекмаренко
+  instruments: ударные
+clips:
+- id: 5151
+  type: weblink
+  url: http://www.emanuelefizzotti.com/english/english.htm
+  name: Официальный сайт
+  sort_order: 0
+- id: 5152
+  type: youtube
+  url: http://www.youtube.com/?v=tR4Ear2wLo8
+  name: Manny Fizzoty & Psychedelic Sunrise - FOXY LADY
+  sort_order: 99
+- id: 5153
+  type: youtube
+  url: http://www.youtube.com/?v=fzosGSOv86c
+  name: Manny Fizzoty & Psychedelic Sunrise - VOODOO CHILD (Slight Return)
+  comments: "Check out this Hendrix cover live at Charlotte Street Blues - London.\
+    \ Celebrating Jimi Hendrix's birthday 27th November 2009.\r\nwww.emanuelefizzotti.com"
+  sort_order: 199
+- id: 5154
+  type: youtube
+  url: http://www.youtube.com/?v=UwUOeVQcXUw
+  name: Manny Fizzoty & MELODY MAKERS Blues Band - Shake Your Money Maker
+  comments: 'My blues band "Melody Makers" with guest Silvio Sansone on blues harp
+    playing "Shake Your Money Maker" by Elmore James at Dragon''s Pub - Crevacuore
+    (BI) - Italy - 21/11/2009
+
+    www.emanuelefizzotti.com'
+  sort_order: 0
+- id: 5155
+  type: youtube
+  url: http://www.youtube.com/?v=60hroJlqA4M
+  name: Manny Fizzoty & MELODY MAKERS blues band - You can't always get what you want
+  comments: "My blues band \"Melody Makers\"  with guest Silvio Sansone on blues harp\
+    \ playing The Stones' \"You can't always get what you want\" at Dragon's Pub -\
+    \ Crevacuore (BI) - Italy - 21/11/2009\r\nwww.emanuelefizz"
+  sort_order: 50
+- id: 5156
+  type: youtube
+  url: http://www.youtube.com/?v=CN7WMN8JPBM
+  name: Manny Fizzoty & MELODY MAKERS - Medley (Mistery train/My generation blues/Everybody
+    needs somebody)
+  comments: My blues band "Melody Makers" jamming at Dragon's Pub - Crevacuore (BI)
+    - Italy - 21/11/2009www.emanuelefizzotti.com
+  sort_order: 25
+reviews:
+- id: 391
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Итальянец по рождению, гражданин Мира и житель Лондона - певец, гитарист
+    и сонграйтер Эмануэль МЭННИ ФИЦОТТИ - редкий виртуоз-многотаночник, прекрасно
+    управляющийся и с акустикой, добро и слайдом, и с перегруженной эффектами электрогитарой.
+
+
+    Известен не только как автор-исполнитель, но и как основатель и участник успешных
+    трибьют-проектов на творчество таких легенд классического рока 60-70-х, как JIMI
+    HENDRIX и LED ZEPPELIN. Иногда работает дуэтом со своим другом Уиллом Джонсом.
+
+
+    На регулярные гастроли по континентальной Европе ездит со своей "стaрой" итальянской
+    группой, а России сыграет c лучшей ритм-секцией столицы.'
+  verified: true
+  created: '2014-01-12'
+  is_press_release: true

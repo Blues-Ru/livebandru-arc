@@ -1,0 +1,12 @@
+- id: 20903
+  date: '2011-07-15'
+  time: '20:00'
+  band_name: Main Road, Дрова, Мир Нави
+  club_id: 239
+  club_name: Подвал
+  club_token: podval
+  price: 150 руб.
+  extra_bands:
+  - id: 386
+    name: Main Road
+    token: main-road

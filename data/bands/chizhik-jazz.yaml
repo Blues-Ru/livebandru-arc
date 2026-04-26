@@ -1,0 +1,35 @@
+id: 329
+token: chizhik-jazz
+name: Chizhik Jazz Quartet
+aliases: 'Чижик джаз квартет
+
+  Чижик-Джаз-Квартет
+
+  Алексей Чижик
+
+  Сhizhik Jazz Quartet'
+alive: true
+url: http://www.chizhik.ru
+city_id: 2
+genre_id: 2
+musicians:
+- name: Алексей Чижик
+  instruments: вибрафон
+- name: Олег Белов
+  instruments: клавишные
+- name: Виктор Савич
+  instruments: бас
+- name: Петр Михеев
+  instruments: ударные
+clips:
+- id: 1250
+  type: weblink
+  url: http://www.chizhik.ru
+  name: Официальный сайт
+  sort_order: 99
+- id: 1251
+  type: photo
+  url: chizhik-jazz.jpg
+  sort_order: 0
+  width: 600
+  height: 406

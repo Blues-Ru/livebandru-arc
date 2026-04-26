@@ -1,0 +1,29 @@
+id: 190
+token: azagra-blues
+name: Azagra Blues Band
+aliases: 'Azagra Blues
+
+  Азагра Блюз'
+alive: true
+url: http://www.azagra.ru/
+city_id: 1
+genre_id: 1
+musicians:
+- name: Михаил Журавлев
+  instruments: гитара, вокал
+- name: Сергей Галли
+  instruments: гитара
+- name: Павел Протасов
+  instruments: бас, вокал
+clips:
+- id: 434
+  type: weblink
+  url: http://www.azagra.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2103
+  type: photo
+  url: azagra-blues.jpg
+  sort_order: 0
+  width: 560
+  height: 372

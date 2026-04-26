@@ -1,0 +1,204 @@
+- id: 16011
+  date: '2011-04-09'
+  time: '19:00'
+  band_id: 394
+  band_name: Long Way
+  band_token: long-way
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 16225
+  date: '2011-04-02'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 16646
+  date: '2011-03-26'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 17404
+  date: '2011-04-30'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 17445
+  date: '2011-05-28'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 17435
+  date: '2011-04-23'
+  time: '19:00'
+  band_name: Пять Пенсов (Белгород), Cross B Band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 17496
+  date: '2011-05-21'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 20045
+  date: '2011-06-25'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  price: 20 000
+  comments: Экспрессивный блюз-рок, не оставляющий никого равнодушными. Два с лишним
+    часа зажигательных и печальных песен от THE ROAD DOGS!
+- id: 20379
+  date: '2011-07-23'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  comments: Специальны гость Андрей Зыль (труба)
+- id: 21352
+  date: '2011-09-17'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  price: жизнь покажет
+  comments: Одна из лучших блюзовых групп Беларуси, участники минских блюзовых фестивалей,
+    исполняющие песни на трех языках! Зажигательный блюз-рок с вкраплениями настоящего
+    фанка и госпел. Приходи!
+- id: 20358
+  date: '2011-07-16'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  comments: Искренние и открытые в своих эмоциях,  THE ROAD DOGS BLUES BAND со дня
+    своего первого выступления три года назад не оставляют никого равнодушным к своим
+    песням.
+- id: 20947
+  date: '2011-08-27'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 20913
+  date: '2011-08-12'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 21669
+  date: '2011-09-24'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 21835
+  date: '2011-09-24'
+  time: '20:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  price: 30 000
+- id: 23214
+  date: '2011-11-13'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 23215
+  date: '2011-11-26'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 22388
+  date: '2011-10-29'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 22399
+  date: '2011-10-22'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 22855
+  date: '2011-12-03'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 23456
+  date: '2011-12-30'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  comments: Концерт, завершающий год блюзовых концертов в Граффити

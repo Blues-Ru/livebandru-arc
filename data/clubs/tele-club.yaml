@@ -1,0 +1,13 @@
+id: 220
+token: tele-club
+name: Tele Club
+alive: true
+address: Карьерная, 16
+phone: 8-(912)-609-44-44
+city_id: 6
+clips:
+- id: 520
+  type: weblink
+  url: http://www.tele-club.ru/
+  name: Официальный сайт
+  sort_order: 0

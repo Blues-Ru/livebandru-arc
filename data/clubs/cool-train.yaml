@@ -1,0 +1,15 @@
+id: 72
+token: cool-train
+name: Cool Train (см. Б2)
+alive: false
+address: Большая Садовая, 8
+subway: Маяковская
+phone: 209-9918
+city_id: 1
+comments: В здании клуба Б-2
+clips:
+- id: 145
+  type: weblink
+  url: http://www.b2club.ru/jazz
+  name: Официальный сайт
+  sort_order: 0

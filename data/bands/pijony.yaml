@@ -1,0 +1,24 @@
+id: 172
+token: pijony
+name: Пижоны
+aliases: Группа "Пижоны"
+alive: true
+url: http://www.pijony.ru
+city_id: 1
+genre_id: 18
+secondary_genre_id: 8
+clips:
+- id: 382
+  type: weblink
+  url: http://www.pijony.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2352
+  type: photo
+  url: pijony-2
+  sort_order: 0
+- id: 2351
+  type: weblink
+  url: http://vk.com/club17464402
+  name: Страница ВКонтакте
+  sort_order: 100

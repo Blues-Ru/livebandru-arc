@@ -1,0 +1,30 @@
+id: 773
+token: the-hat-jazz-jam
+name: Jazz Jam @ Шляпа
+aliases: The Hat Jazz Jam
+alive: true
+url: https://vk.com/thehatbar
+city_id: 2
+genre_id: 2
+clips:
+- id: 9712
+  type: weblink
+  url: https://vk.com/thehatbar
+  name: Официальный сайт
+  sort_order: 0
+- id: 9713
+  type: weblink
+  url: http://hatgroup.ru/live/
+  name: Трансляция
+  sort_order: 100
+reviews:
+- id: 504
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Классический американский джаз-бар образца 50-х. Джемы каждую ночь c 22:00
+    до 2:00 ночи в баре Шляпа на Белинского, 9: Be-bop, Cool, Swing. В топ-150 лучших
+    джаз-клубов мира 2013 (Downbeat).'
+  verified: true
+  created: '2019-02-03'
+  is_press_release: true

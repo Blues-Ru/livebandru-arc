@@ -1,0 +1,12 @@
+- id: 43334
+  date: '2014-04-08'
+  time: '19:00'
+  band_name: Даниил Крамер
+  club_id: 549
+  club_name: Центр Павла Слободкина
+  club_token: centr-pavla-slobodkina
+  price: 1000-2000 руб.
+  extra_bands:
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer

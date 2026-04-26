@@ -1,0 +1,375 @@
+- id: 82986
+  date: '2020-01-09'
+  time: '20:00'
+  band_name: Алиса Кокова
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82987
+  date: '2020-01-10'
+  time: '20:00'
+  band_name: Ольга Абдуллина
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82988
+  date: '2020-01-11'
+  time: '20:00'
+  band_name: Suvorov 's Blues Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82989
+  date: '2020-01-16'
+  time: '20:00'
+  band_name: Cash_n_fun
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82990
+  date: '2020-01-17'
+  time: '20:00'
+  band_name: The Todd Herbert Quartet (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82991
+  date: '2020-01-18'
+  time: '20:00'
+  band_name: Bitter Candy
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82993
+  date: '2020-01-24'
+  time: '20:00'
+  band_name: The Jumping Cats, Whitney Shay, Laura Chavez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 700 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 82995
+  date: '2020-01-25'
+  time: '20:00'
+  band_name: Bluesin' Jacks
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82996
+  date: '2020-01-30'
+  time: '20:00'
+  band_name: Nadya & Lesha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82997
+  date: '2020-01-31'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 82981
+  date: '2020-01-03'
+  time: '20:00'
+  band_name: Александр Фрэд & Neva-Da band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82982
+  date: '2020-01-04'
+  time: '20:00'
+  band_name: Intuitive Project & Yoel Gonzalez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82983
+  date: '2020-01-05'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82984
+  date: '2020-01-06'
+  time: '20:00'
+  band_name: Jazz Cats & Anastasia Andrianova
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82985
+  date: '2020-01-07'
+  time: '20:00'
+  band_name: Инесса Надирова
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82992
+  date: '2020-01-23'
+  time: '20:00'
+  band_name: Jazz Wave
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82994
+  date: '2020-01-24'
+  time: '20:00'
+  band_name: The Jumping Cats, Whitney Shay, Laura Chavez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 700 руб.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 83421
+  date: '2020-02-01'
+  time: '20:00'
+  band_name: Elina Duchovnaya & Jam Session Community
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83422
+  date: '2020-02-06'
+  time: '20:00'
+  band_name: MoonShineDuo
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83424
+  date: '2020-02-08'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83426
+  date: '2020-02-14'
+  time: '20:00'
+  band_name: Трио Аллы Туровской
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83427
+  date: '2020-02-15'
+  time: '20:00'
+  band_name: City Funk
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83428
+  date: '2020-02-16'
+  time: '20:00'
+  band_name: Dreamflyers
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 450 руб.
+- id: 83429
+  date: '2020-02-20'
+  time: '20:00'
+  band_name: Трио EasyTone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83430
+  date: '2020-02-21'
+  time: '20:00'
+  band_name: The Southern Comfort
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83431
+  date: '2020-02-23'
+  time: '20:00'
+  band_name: That Zeppelin
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83432
+  date: '2020-02-27'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 700 руб.
+- id: 83433
+  date: '2020-02-28'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 83434
+  date: '2020-02-29'
+  time: '20:00'
+  band_name: Smooth Kats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83423
+  date: '2020-02-07'
+  time: '20:00'
+  band_name: Алиса Кокова и Сергей Белоусов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83425
+  date: '2020-02-13'
+  time: '20:00'
+  band_name: Cash_n_fun
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83988
+  date: '2020-03-08'
+  time: '20:00'
+  band_name: Fire Ladies
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83989
+  date: '2020-03-12'
+  time: '20:00'
+  band_name: Алиса Кокова и Сергей Белоусов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83990
+  date: '2020-03-13'
+  time: '20:00'
+  band_name: Ellina Duchovnaya & Jam Session Community
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83994
+  date: '2020-03-21'
+  time: '20:00'
+  band_name: Трио EasyTone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83995
+  date: '2020-03-26'
+  time: '20:00'
+  band_name: Soulmade Stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83985
+  date: '2020-03-05'
+  time: '20:00'
+  band_name: Cash_n_fun
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83986
+  date: '2020-03-06'
+  time: '20:00'
+  band_name: The Jazz Cats & Ксения Стриж
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83987
+  date: '2020-03-07'
+  time: '20:00'
+  band_name: Jackie Gage (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 83991
+  date: '2020-03-14'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 83992
+  date: '2020-03-19'
+  time: '20:00'
+  band_name: MoonShineDuo
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83993
+  date: '2020-03-20'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83996
+  date: '2020-03-27'
+  time: '20:00'
+  band_name: Samba De Maria
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 83997
+  date: '2020-03-28'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный

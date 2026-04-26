@@ -1,0 +1,1356 @@
+- id: 76507
+  date: '2019-01-10'
+  time: '20:00'
+  band_name: Анастасия Сазонова и Макс Соболев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76509
+  date: '2019-01-12'
+  time: '20:00'
+  band_name: Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76510
+  date: '2019-01-13'
+  time: '20:00'
+  band_name: Стая Полетели
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76513
+  date: '2019-01-19'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76514
+  date: '2019-01-24'
+  time: '20:00'
+  band_name: Трио Станислава Майнугина
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76516
+  date: '2019-01-26'
+  time: '20:00'
+  band_name: Suvorov 's Blues Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76517
+  date: '2019-01-31'
+  time: '20:00'
+  band_name: Soulmade Stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76508
+  date: '2019-01-11'
+  time: '20:00'
+  band_name: Julie Jarre
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76511
+  date: '2019-01-17'
+  time: '20:00'
+  band_name: Дуэт Никиты Арефьева и Эльмиры Ильясовой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76515
+  date: '2019-01-25'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 76512
+  date: '2019-01-18'
+  time: '20:00'
+  band_name: City Funk
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76976
+  date: '2019-02-01'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76977
+  date: '2019-02-02'
+  time: '20:00'
+  band_name: Julie Jarre
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76978
+  date: '2019-02-07'
+  time: '20:00'
+  band_name: Zara Arshakian & Artem Klimov
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76979
+  date: '2019-02-09'
+  time: '20:00'
+  band_name: Вова Че Морале и Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 76980
+  date: '2019-02-15'
+  time: '20:00'
+  band_name: Mylah (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 800 руб.
+  comments: 'Майла (Mylah), рожденная в штате Индиана, сочинять и исполнять песни
+    начала с 17-ти лет и за годы карьеры, выступая на фестивалях США и Канады, накопила
+    опыт работы со многими артистами, чье творчество ограничено рамками какого-либо
+    стиля. Это стало и прекрасной школой, и своего рода вызовом: Майла поставила перед
+    собой задачу мастерски сочетать жанры - и блестяще с ней справилась!'
+- id: 76981
+  date: '2019-02-14'
+  time: '20:00'
+  band_name: Квинтет Дениса Кузьмина и Полины Ильиной
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76982
+  date: '2019-02-16'
+  time: '20:00'
+  band_name: Виктор Виталий
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 500 руб.
+- id: 76983
+  date: '2019-02-22'
+  time: '20:00'
+  band_name: Southern Comfort
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76984
+  date: '2019-02-23'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 76985
+  date: '2019-02-28'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77823
+  date: '2019-03-09'
+  time: '20:00'
+  band_name: Acoustic Live & Борис Левкоев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77827
+  date: '2019-03-21'
+  time: '20:00'
+  band_name: Анастасия Сазонова и Максим Соболев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77828
+  date: '2019-03-22'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77829
+  date: '2019-03-23'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77830
+  date: '2019-03-24'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77819
+  date: '2019-03-01'
+  time: '20:00'
+  band_name: Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77820
+  date: '2019-03-02'
+  time: '20:00'
+  band_name: Bitter Candy
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77821
+  date: '2019-03-07'
+  time: '20:00'
+  band_name: Remey Williams
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 800 руб.
+- id: 77822
+  date: '2019-03-08'
+  time: '20:00'
+  band_name: ECO Jazz
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77824
+  date: '2019-03-14'
+  time: '20:00'
+  band_name: Soulmade stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77825
+  date: '2019-03-15'
+  time: '20:00'
+  band_id: 125
+  band_name: Jazz Sisters
+  band_token: jazz-sisters
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77826
+  date: '2019-03-16'
+  time: '20:00'
+  band_name: Сонце-Хмари
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77831
+  date: '2019-03-28'
+  time: '20:00'
+  band_name: Viktoria Winer
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77832
+  date: '2019-03-29'
+  time: '20:00'
+  band_name: The Ilya Lushtak Quartet
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77833
+  date: '2019-03-31'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77834
+  date: '2019-03-17'
+  time: '20:00'
+  band_name: That Zeppelin
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 77960
+  date: '2019-03-30'
+  time: '20:00'
+  band_name: Jackie Gage( USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 600 руб.
+- id: 78324
+  date: '2019-04-04'
+  time: '20:00'
+  band_name: MoonShine Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78325
+  date: '2019-04-05'
+  time: '20:00'
+  band_name: Swing Gitan Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78326
+  date: '2019-04-06'
+  time: '20:00'
+  band_name: Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78327
+  date: '2019-04-11'
+  time: '20:00'
+  band_name: Трио Наташи Хомулло
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78328
+  date: '2019-04-12'
+  time: '20:00'
+  band_name: Quentin Moore (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 600 руб.
+- id: 78329
+  date: '2019-04-13'
+  time: '20:00'
+  band_name: Suvorov 's Blues Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78330
+  date: '2019-04-14'
+  time: '20:00'
+  band_name: Teya
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 400 руб.
+- id: 78331
+  date: '2019-04-18'
+  time: '20:00'
+  band_name: Gdecoda Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78332
+  date: '2019-04-19'
+  time: '20:00'
+  band_name: Smooth Kats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78333
+  date: '2019-04-20'
+  time: '20:00'
+  band_name: DanisAcousticBand
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78334
+  date: '2019-04-21'
+  time: '20:00'
+  band_name: Альтависта
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 500 руб.
+- id: 78335
+  date: '2019-04-25'
+  time: '20:00'
+  band_name: Анастасия Сазонова и Максим Соболев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78338
+  date: '2019-04-30'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78336
+  date: '2019-04-26'
+  time: '20:00'
+  band_name: The Bitter Candy
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78337
+  date: '2019-04-27'
+  time: '20:00'
+  band_name: City Fusion Orchestra
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78832
+  date: '2019-05-11'
+  time: '20:00'
+  band_name: Питер бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78839
+  date: '2019-05-25'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 78840
+  date: '2019-05-30'
+  time: '20:00'
+  band_name: Viktoria Winer
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78833
+  date: '2019-05-16'
+  time: '20:00'
+  band_name: Zara Arshakian & Artem Klimov
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78841
+  date: '2019-05-31'
+  time: '20:00'
+  band_name: Nadya & Lеsha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78827
+  date: '2019-05-01'
+  time: '20:00'
+  band_name: Buongiorno Italia
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78828
+  date: '2019-05-02'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78829
+  date: '2019-05-03'
+  time: '20:00'
+  band_name: Django Friends
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78830
+  date: '2019-05-09'
+  time: '20:00'
+  band_name: Квартет Анастасии Сазоновой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78831
+  date: '2019-05-10'
+  time: '20:00'
+  band_name: Smooth Kats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78834
+  date: '2019-05-17'
+  time: '20:00'
+  band_name: City Funk
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78835
+  date: '2019-05-18'
+  time: '20:00'
+  band_name: Eco Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78836
+  date: '2019-05-22'
+  time: '20:00'
+  band_name: The Jumping Cats, Chris Bergson (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+- id: 78837
+  date: '2019-05-23'
+  time: '20:00'
+  band_name: Jungle
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 78838
+  date: '2019-05-24'
+  time: '20:00'
+  band_name: Jazz Cats & Yana Uspenskaya (Moscow)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79580
+  date: '2019-06-01'
+  time: '20:00'
+  band_name: Suvorov 's Blues Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79581
+  date: '2019-06-02'
+  time: '20:00'
+  band_name: Современная почта
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79583
+  date: '2019-06-05'
+  time: '20:00'
+  band_name: Мифы
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79584
+  date: '2019-06-06'
+  time: '20:00'
+  band_name: Jazz wave
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79590
+  date: '2019-06-14'
+  time: '20:00'
+  band_name: David Post quartet
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79591
+  date: '2019-06-15'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79592
+  date: '2019-06-20'
+  time: '20:00'
+  band_name: Юлия Михайловская
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79585
+  date: '2019-06-07'
+  time: '20:00'
+  band_name: Gregg Kofi Brown
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 800 руб.
+  comments: Грегг Кофи Браун - человек многих талантов и удивительной судьбы. Автор
+    запоминающих хитовых песен, исполняемых такими звездами, как Стинг, Билли Кобэм,
+    Стэнли Джордан, Патти Остин, Дэннис Чэмберс и многими другими, и яркий музыкант,
+    чьи выступления наполнены необыкновенным драйвом.
+- id: 79586
+  date: '2019-06-08'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79587
+  date: '2019-06-09'
+  time: '20:00'
+  band_name: That Zeppelin
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 250 руб.
+- id: 79588
+  date: '2019-06-11'
+  time: '20:00'
+  band_name: Юлия Лийер и Константин Кесов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79589
+  date: '2019-06-13'
+  time: '20:00'
+  band_name: Zara Arshakian & Artem Klimov
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79595
+  date: '2019-06-21'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 79596
+  date: '2019-06-22'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79597
+  date: '2019-06-27'
+  time: '20:00'
+  band_name: Nadя & Lesha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79598
+  date: '2019-06-28'
+  time: '20:00'
+  band_name: DanisAcousticBand
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79599
+  date: '2019-06-29'
+  time: '20:00'
+  band_name: Southern comfort
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 79582
+  date: '2019-06-05'
+  time: '20:00'
+  band_name: Мифы
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80322
+  date: '2019-07-04'
+  time: '20:00'
+  band_name: Nadya & Lesha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80323
+  date: '2019-07-05'
+  time: '20:00'
+  band_name: Эка Джанелидзе и Артем Климов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80324
+  date: '2019-07-06'
+  time: '20:00'
+  band_name: Intuitive Project & Tanel Ruben (Estonia)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80326
+  date: '2019-07-12'
+  time: '20:00'
+  band_name: SPb Ramblers
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80327
+  date: '2019-07-13'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80334
+  date: '2019-07-27'
+  time: '20:00'
+  band_name: Трио Анастасии Сазоновой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80332
+  date: '2019-07-25'
+  time: '20:00'
+  band_name: Soulmade Stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80333
+  date: '2019-07-26'
+  time: '20:00'
+  band_name: Трио Юлии Михайловской
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80325
+  date: '2019-07-11'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80330
+  date: '2019-07-19'
+  time: '20:00'
+  band_name: Mango Band Acoustic quartet
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80331
+  date: '2019-07-20'
+  time: '20:00'
+  band_name: Инесса Надирова и Константин Поляков
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80328
+  date: '2019-07-10'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80329
+  date: '2019-07-18'
+  time: '20:00'
+  band_name: Jazz wave
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80787
+  date: '2019-08-01'
+  time: '20:00'
+  band_name: JazzyDay
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80788
+  date: '2019-08-02'
+  time: '20:00'
+  band_name: Eco Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80789
+  date: '2019-08-03'
+  time: '20:00'
+  band_name: Инесса Надирова & Максим Соболев
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80790
+  date: '2019-08-08'
+  time: '20:00'
+  band_name: Юлия Лийер и Константин Кесов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80792
+  date: '2019-08-10'
+  time: '20:00'
+  band_name: Suvorov 's Blues Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80793
+  date: '2019-08-15'
+  time: '20:00'
+  band_name: MoonShine Duo
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80794
+  date: '2019-08-16'
+  time: '20:00'
+  band_name: Intuitive Project feat. Yoel Gonzalez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80795
+  date: '2019-08-17'
+  time: '20:00'
+  band_name: SPb Ramblers
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80796
+  date: '2019-08-18'
+  time: '20:00'
+  band_name: That Zeppelin
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 400 руб.
+- id: 80797
+  date: '2019-08-22'
+  time: '20:00'
+  band_name: Nadya & Lesha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80798
+  date: '2019-08-23'
+  time: '20:00'
+  band_name: Jazz Cats & Alisa Kokova
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80799
+  date: '2019-08-29'
+  time: '20:00'
+  band_name: Soulmade Stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80800
+  date: '2019-08-30'
+  time: '20:00'
+  band_name: The Todd Herbert Quartet
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80801
+  date: '2019-08-31'
+  time: '20:00'
+  band_name: Трио Ксении Ельниковой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80791
+  date: '2019-08-09'
+  time: '20:00'
+  band_name: DanisAcousticBand
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 80890
+  date: '2019-08-24'
+  time: '20:00'
+  band_name: Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81499
+  date: '2019-09-05'
+  time: '20:00'
+  band_name: MoonShine Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81500
+  date: '2019-09-06'
+  time: '20:00'
+  band_name: Трио Анастасии Сазоновой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81501
+  date: '2019-09-07'
+  time: '20:00'
+  band_name: Трио Юлии Михайловской
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81502
+  date: '2019-09-12'
+  time: '20:00'
+  band_name: Jazz Wave
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81503
+  date: '2019-09-13'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81504
+  date: '2019-09-14'
+  time: '20:00'
+  band_name: Dreamflyers
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 400 руб.
+- id: 81505
+  date: '2019-09-19'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81506
+  date: '2019-09-20'
+  time: '20:00'
+  band_name: The John Marshall Quartet
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81507
+  date: '2019-09-21'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 81508
+  date: '2019-09-26'
+  time: '20:00'
+  band_name: Инесса Надирова
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81509
+  date: '2019-09-27'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81512
+  date: '2019-09-28'
+  time: '20:00'
+  band_name: Lee Mays (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 81774
+  date: '2019-10-04'
+  time: '20:00'
+  band_name: Intuitive Project & Yoel Gonzalez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81775
+  date: '2019-10-05'
+  time: '20:00'
+  band_id: 23
+  band_name: Forrest Gump
+  band_token: forrest-gump
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81776
+  date: '2019-10-10'
+  time: '20:00'
+  band_name: Алиса Кокова
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81777
+  date: '2019-10-11'
+  time: '20:00'
+  band_name: Greta Panettieri(Italy)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 81778
+  date: '2019-10-12'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81779
+  date: '2019-10-17'
+  time: '20:00'
+  band_name: Юлия Михайловская
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81780
+  date: '2019-10-18'
+  time: '20:00'
+  band_name: ЯR Project
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81781
+  date: '2019-10-19'
+  time: '20:00'
+  band_name: The Ilya Lushtak Quartet (USA)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81782
+  date: '2019-10-24'
+  time: '20:00'
+  band_name: Smooth Kats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81783
+  date: '2019-10-25'
+  time: '20:00'
+  band_name: Jazz Cats & Yana Uspenskaya (Moscow)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 81784
+  date: '2019-10-26'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 81773
+  date: '2019-10-03'
+  time: '20:00'
+  band_name: MoonShine Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82070
+  date: '2019-10-31'
+  time: '20:00'
+  band_name: Soulmade Stories
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82205
+  date: '2019-11-08'
+  time: '20:00'
+  band_name: Julie Jarre
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82206
+  date: '2019-11-22'
+  time: '20:00'
+  band_name: Jazz Cats & Anastasia Andrianova
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82207
+  date: '2019-11-30'
+  time: '20:00'
+  band_name: Intuitive Project & Yoel Gonzalez
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82196
+  date: '2019-11-03'
+  time: '20:00'
+  band_name: MoonShineDuo
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82208
+  date: '2019-11-29'
+  time: '20:00'
+  band_name: Orisha Sound
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82194
+  date: '2019-11-01'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82195
+  date: '2019-11-02'
+  time: '20:00'
+  band_name: '"ECO Jazz" Галины Клокарь'
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82197
+  date: '2019-11-07'
+  time: '20:00'
+  band_name: Jazz Wave
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82198
+  date: '2019-11-09'
+  time: '20:00'
+  band_name: Neks Breezy, (Zambia)
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82199
+  date: '2019-11-14'
+  time: '20:00'
+  band_name: Nadya & Lesha
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82200
+  date: '2019-11-15'
+  time: '20:00'
+  band_name: Tom Van Der Zaal &, Richie Reichgelt , Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82201
+  date: '2019-11-16'
+  time: '20:00'
+  band_name: Easy Tone
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82202
+  date: '2019-11-21'
+  time: '20:00'
+  band_name: Алиса Кокова и Сергей Белоусов
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82203
+  date: '2019-11-23'
+  time: '20:00'
+  band_name: Вова Че Морале &, Sweet Hot Jazz Band
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+  extra_bands:
+  - id: 566
+    name: Че Морале
+    token: che-morale
+- id: 82204
+  date: '2019-11-28'
+  time: '20:00'
+  band_name: Юлия Михайловская
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82628
+  date: '2019-12-01'
+  time: '20:00'
+  band_name: That Zeppelin
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 400 руб.
+- id: 82629
+  date: '2019-12-05'
+  time: '20:00'
+  band_name: Cash_n_fun
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82631
+  date: '2019-12-07'
+  time: '20:00'
+  band_name: Russell Taylor
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+- id: 82632
+  date: '2019-12-08'
+  time: '20:00'
+  band_name: The Earlybird
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: 500 руб.
+- id: 82633
+  date: '2019-12-13'
+  time: '20:00'
+  band_name: Питер Бэнд
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82630
+  date: '2019-12-06'
+  time: '20:00'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82980
+  date: '2019-12-21'
+  time: '20:00'
+  band_name: Diana Oganezova & DanisAcousticBand
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82978
+  date: '2019-12-19'
+  time: '20:00'
+  band_name: MoonShine Duo
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный
+- id: 82979
+  date: '2019-12-20'
+  time: '20:00'
+  band_name: Квартет Марины Малышевой
+  club_id: 775
+  club_name: Портъ Артуръ
+  club_token: port-artur
+  price: бесплатный

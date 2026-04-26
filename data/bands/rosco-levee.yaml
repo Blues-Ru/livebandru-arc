@@ -1,0 +1,106 @@
+id: 690
+token: rosco-levee
+name: Rosco Levee
+aliases: Rosco Levee & the South Slide
+alive: true
+url: http://roscolevee.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Rosco Levee
+  instruments: guitar/vocals
+- name: Антон Ильин
+  instruments: keyboards
+- name: Денис Назаров
+  instruments: bass
+- name: Данила Ленци
+  instruments: drums
+- name: Михаил Данилов
+  instruments: prcussion/harp/slide guitar
+clips:
+- id: 6058
+  type: weblink
+  url: http://roscolevee.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 6059
+  type: photo
+  url: rosco-levee.jpg
+  sort_order: 0
+  width: 720
+  height: 960
+- id: 10205
+  type: youtube
+  url: https://www.youtube.com/watch?v=ju_n2BEurWs
+  name: ROSCO LEVEE and the SOUTHERN SLIDE - GAMBLIN' MAN
+  comments: 'BROADSTAIRS BLUES BASH
+
+    THE PAVILLION
+
+    20.2.2015'
+  sort_order: 200
+- id: 10206
+  type: youtube
+  url: https://www.youtube.com/watch?v=ul7zGcSxXDI
+  name: Rosco Levee and the Southern Slide - Mean Woman Blues
+  comments: Rosco Levee and the Southern Slide - Mean Woman Blues, at the Eemland
+    RTV studio, Baarn, The Netherlands, June 4th 2012
+  sort_order: 300
+- id: 10207
+  type: youtube
+  url: https://www.youtube.com/watch?v=WxAasSHT2wY
+  name: My Gospel - Rosco Levee & the Southern Slide
+  comments: Part of a great live session from Rosco and the band for the Raven and
+    Blues radio show and podcast - more information at http://www.raven.dj
+  sort_order: 400
+- id: 10204
+  type: youtube
+  url: https://www.youtube.com/watch?v=1MOyRedlUn8
+  name: Rosco Levee and the Southern Slide - Back To The Banks (RTV Baarn 2013)
+  comments: "Rosco Levee and the Southern Slide - Back To The Banks. Recorded at the\
+    \ RTV Baarn Studio - 30 November 2013. \n\nRosco Levee and the Southern Slide:\n\
+    Vox, Lead Guitar, Sunglasses: Rosco Levee\nBass Guitar"
+  sort_order: 100
+reviews:
+- id: 421
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Мульти-номинант на British Blues Awards, обласканный критиками и обожаемый
+    публикой и колегами-музыкантами гитарист и певц Rosco Levee - лидер Rosco Levee
+    Band, Rosco Levee & The Southern Slide и проекта Walrus (совместно с Mike Ross
+    и др.) последние 4 года сотрудничает с британской гитаристкой, певицей и автором
+    песен Rosalie Cunningham, в прошлом фронтвуман рог-роковой группы Purson.
+
+
+    Яркий фронтмен-харизматик, Rosco смело замешивает в фирменный крепкий коктейль
+    блюз-рок 70-х в духе Роллингов и Цеппелинов, психоделию и соул 60-х, и в этом
+    огненном напитке и свингующий Лондон, и корневой Миссиссиппи, и приправлено это
+    все хорошей долей Южного саунда. Не раз в обзорах журналистов, пишущих о блюзе,
+    Rosco Levee выдерживал сравнения с великими гитаристами прошлго и настоящего -
+    в диапазоне от Эрика Клэптона до Пола Коссоффа, а его альбом 2013 года "Get It
+    While You Can" получил в обзоре журнала Classic ROCK 9/10! Авторитетный журнал
+    The BLUES, "младший брат" Classic ROCK, поставил альбом ''Rosco Levee and The
+    Southern Slide'' на 1 место среди блюзовых альбомов Top 50 Albums 2013.
+
+
+    Сам Роско Леви, его группа и его альбомы получили несколько номинаций на British
+    Blues Awards в категориях Best Band, Best Album, Best male vocalist, Best Guitarist.
+
+
+    Впервые Rosco Levee гастролировал в России в октябре 2017 года и отыграл три аншлаговых
+    концерта в Москве. Второй раз он приезжал с концертами в июне 2018. Ровно через
+    год, в начале июня 2019 он приезжал в третий раз с серией аншлаговых концертов.
+
+
+    С весны 2019 года Роско сосредоточился а творческом сотрудничестве со своей избранницей
+    Розали Каннингем. резаултатом их партнерства стали два сольных альбома Rosalie
+    Cunningham 2019 и 2022 года. Летом 2022 года Роско приедет вновь, на этот раз
+    с новой программой.
+
+
+    Не пропустите триумфальное возвращение Роско в Россию!'
+  verified: true
+  created: '2014-08-28'
+  is_press_release: true

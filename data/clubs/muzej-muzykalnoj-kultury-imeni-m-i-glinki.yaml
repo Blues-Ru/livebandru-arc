@@ -1,0 +1,14 @@
+id: 623
+token: muzej-muzykalnoj-kultury-imeni-m-i-glinki
+name: Центральный музей музыкальной культуры имени М.И. Глинки
+alive: true
+address: ул. Фадеева, 4
+subway: Маяковская, Новослободская
+phone: +7(495)739-62-26
+city_id: 1
+clips:
+- id: 3589
+  type: weblink
+  url: http://www.glinka.museum
+  name: Официальный сайт
+  sort_order: 0

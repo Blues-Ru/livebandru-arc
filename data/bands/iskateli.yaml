@@ -1,0 +1,54 @@
+id: 383
+token: iskateli
+name: Искатели
+alive: true
+url: http://iskateli.org
+city_id: 1
+genre_id: 3
+secondary_genre_id: 4
+musicians:
+- name: Андрей Власов
+  instruments: вокал
+clips:
+- id: 1664
+  type: weblink
+  url: http://iskateli.org
+  name: Официальный сайт
+  sort_order: 0
+- id: 1665
+  type: weblink
+  url: http://vk.com/club3254889
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 1666
+  type: weblink
+  url: http://youtube.com/misterSearcher
+  name: Ролики на YouTube
+  sort_order: 200
+- id: 1667
+  type: weblink
+  url: http://www.realmusic.ru/searchers
+  name: Страница на RealMusic
+  sort_order: 300
+- id: 1735
+  type: mp3
+  url: iskateli.mp3
+  name: По земле
+  sort_order: 99
+- id: 1738
+  type: photo
+  url: pb01.jpg
+  sort_order: 0
+  width: 1640
+  height: 1640
+- id: 1737
+  type: youtube
+  url: http://www.youtube.com/?v=4rGitNBBrKE
+  name: По земле
+  comments: ''
+  sort_order: 99
+- id: 1736
+  type: mp3
+  url: vesna.mp3
+  name: Идет Весна
+  sort_order: 199

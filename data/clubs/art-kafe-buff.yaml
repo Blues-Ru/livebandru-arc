@@ -1,0 +1,14 @@
+id: 633
+token: art-kafe-buff
+name: Арт-кафе Буфф
+alive: true
+address: Москва, ул. Лесная, 59, стр.1
+subway: Менделеевская
+phone: +7(499)250-18-99, +7(925)518-40-63
+city_id: 1
+clips:
+- id: 3744
+  type: weblink
+  url: http://www.artcafe-buff.ru
+  name: Официальный сайт
+  sort_order: 0

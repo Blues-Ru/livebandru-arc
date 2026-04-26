@@ -1,0 +1,57 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ list_title }} — LiveBand.Ru{% endblock %}
+{% block content %}
+
+{% if alpha_ru or alpha_latin %}
+<div id="alfaBit" class="nopr">
+  {% if alpha_ru %}
+  <table><tbody><tr>
+    {% for letter in alpha_ru %}
+    <td><a href="{{ base_url }}/{{ letter.enc }}/">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+  {% if alpha_latin %}
+  <table><tbody><tr>
+    {% for letter in alpha_latin %}
+    <td><a href="{{ base_url }}/{{ letter.enc }}/">{{ letter.char }}</a></td>
+    {% endfor %}
+  </tr></tbody></table>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if top_items %}
+<h3 class="und">{{ top_label }}</h3>
+<table class="packless">
+  <thead>
+    <tr>
+      <th>{{ list_title }}</th>
+      <th class="w33"></th>
+      <th style="width:4em;">Концерты</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in top_items %}
+    <tr>
+      <td>
+        <p class="main"><a href="{{ item.url }}/">{{ item.title }}</a></p>
+      </td>
+      <td>
+        {% for cat in item.categories %}
+        <a href="{{ cat.url }}/">{{ cat.title }}</a>&#160;
+        {% endfor %}
+      </td>
+      <td style="width:4em;" align="right">
+        {% if item.gig_count %}<span class="aux">{{ item.gig_count }}</span>{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% if first_letter %}
+<p class="more"><a class="more" href="{{ base_url }}/{{ first_letter }}/">Все {{ list_title | lower }}...</a></p>
+{% endif %}
+{% endif %}
+
+{% endblock %}

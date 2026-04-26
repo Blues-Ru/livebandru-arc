@@ -1,0 +1,24 @@
+id: 149
+token: ark
+name: Ольга Арефьева и "Ковчег"
+aliases: Ольга Арефьева
+alive: true
+url: http://www.ark.ru
+city_id: 1
+genre_id: 4
+secondary_genre_id: 3
+clips:
+- id: 175
+  type: weblink
+  url: http://www.ark.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 467
+  type: rss
+  url: http://olga-arefieva.livejournal.com/data/rss
+  name: ЖЖ Ольги Арефьевой
+  sort_order: 99
+- id: 468
+  type: rss
+  url: http://community.livejournal.com/ru_ark/data/rss
+  sort_order: 199

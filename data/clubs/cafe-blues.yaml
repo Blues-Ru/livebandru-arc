@@ -1,0 +1,24 @@
+id: 81
+token: cafe-blues
+name: Кафе Блюз
+aliases: 'Cafe Blues
+
+  Blues Cafe
+
+  Блюз Кафе'
+alive: false
+address: Пролетарский просп., 20 стр. 1
+subway: Кантемировская
+phone: 8 (499)218-15-81
+city_id: 1
+clips:
+- id: 21
+  type: weblink
+  url: http://www.cafeblues.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2062
+  type: weblink
+  url: http://vk.com/club20846078
+  name: Страница ВКонтакте
+  sort_order: 100

@@ -1,0 +1,93 @@
+id: 699
+token: romanov
+name: Трио Романов, Китаев, Макиенко
+aliases: Романов, Китаев, Макиенко
+alive: true
+city_id: 1
+genre_id: 3
+secondary_genre_id: 1
+musicians:
+- name: Алексей Романов
+  instruments: гитара
+- name: Петр Макиенко
+  instruments: бас
+- name: Юрий Китаев
+  instruments: ударные
+clips:
+- id: 6275
+  type: weblink
+  url: https://www.facebook.com/profile.php?id=100001807993257&fref=ts
+  name: Страница на FaceBook
+  sort_order: 199
+- id: 6276
+  type: weblink
+  url: https://www.facebook.com/groups/635883726520873/?fref=ts
+  name: Страница на FaceBook
+  sort_order: 299
+- id: 6277
+  type: mp3
+  url: romanov.mp3
+  sort_order: 99
+- id: 6278
+  type: mp3
+  url: romanov-2.mp3
+  sort_order: 199
+- id: 6267
+  type: weblink
+  url: https://vk.com/club75809463
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 6273
+  type: photo
+  url: romanov-5.jpg
+  sort_order: 400
+  width: 275
+  height: 183
+- id: 6274
+  type: photo
+  url: romanov-6.jpg
+  sort_order: 500
+  width: 5616
+  height: 3744
+- id: 6281
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 6268
+  type: youtube
+  url: http://www.youtube.com/?v=UVv-ATHf1Aw
+  name: Романов, Китаев, Макиенко - "Рожденные в СССР"
+  comments: 24.06.2014.(HD-720)
+  sort_order: 99
+- id: 6269
+  type: photo
+  url: romanov.jpg
+  sort_order: 0
+  width: 600
+  height: 343
+- id: 6270
+  type: photo
+  url: romanov-2.jpg
+  sort_order: 100
+  width: 640
+  height: 960
+- id: 6271
+  type: photo
+  url: romanov-3.jpg
+  sort_order: 200
+  width: 640
+  height: 960
+- id: 6272
+  type: photo
+  url: romanov-4.jpg
+  sort_order: 300
+  width: 600
+  height: 449
+- id: 6279
+  type: mp3
+  url: romanov-3.mp3
+  sort_order: 299
+- id: 6280
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0

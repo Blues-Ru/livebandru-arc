@@ -1,0 +1,127 @@
+id: 680
+token: hakon-hoye
+name: Hakon Hoye & The HoneyTones
+aliases: 'Хокон Хойе
+
+  Hakon Hoye
+
+  Hakon Hoye & The Honey Tones'
+alive: true
+url: http://www.hakonhoye.com
+city_id: 62
+genre_id: 1
+musicians:
+- name: Hakon Hoye
+  instruments: гитара, вокал
+- name: Bill Troiani
+  instruments: бас
+- name: Ian Fredrick Johannessen
+  instruments: гитара
+- name: Alexander Pettersen
+  instruments: ударные
+references:
+- id: 679
+  name: Billy T Band
+  token: billy-t-band
+clips:
+- id: 5314
+  type: weblink
+  url: http://www.hakonhoye.com
+  name: Официальный сайт
+  sort_order: 0
+- id: 5319
+  type: photo
+  url: hakon-hoye-2.jpg
+  name: Hakon Hoye - promo-photo
+  sort_order: 100
+  width: 2292
+  height: 2408
+- id: 5322
+  type: mp3
+  url: hakon-hoye.mp3
+  name: That Girl
+  sort_order: 99
+- id: 5323
+  type: mp3
+  url: hakon-hoye-2.mp3
+  name: Spicy Tuna
+  sort_order: 199
+- id: 5324
+  type: mp3
+  url: hakon-hoye-3.mp3
+  name: Hoodoo Party
+  sort_order: 299
+- id: 5326
+  type: weblink
+  url: https://itunes.apple.com/no/album/bout-time/id736150780
+  name: '''Bout Time (2013)'
+  comments: диск Hakon Hoye на iTunes
+  sort_order: 200
+- id: 5315
+  type: photo
+  url: hakon-hoye.jpg
+  name: Hakon Hoye
+  sort_order: 0
+  width: 1200
+  height: 960
+- id: 5316
+  type: youtube
+  url: http://www.youtube.com/?v=SLmCMmI5EGk
+  name: Hakon Hoye & The HoneyTones - "Just Like A Woman"
+  sort_order: 0
+- id: 5317
+  type: youtube
+  url: http://www.youtube.com/?v=ZO9GynEXqmg
+  name: 'Hakon Hoye & The HoneyTones: "Is It True"'
+  sort_order: 199
+- id: 5318
+  type: weblink
+  url: https://www.facebook.com/hakonhoye
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 5382
+  type: weblink
+  url: http://www.blues.ru/club/
+  name: Клуб Blues.Ru
+  sort_order: 300
+reviews:
+- id: 396
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Хокон Хэйе и его сны о Калифорнии
+  text: 'Норвежский гитарист Hakon "The Hawk" Hoye (Хокон Хэйе) родился в Осло в 1971
+    году. Его отец был музыкантом, поэтому сам Хокон начал играть на саксофоне в 9
+    лет, но вскорости переключился на гитару. Блюз всегда был у Хокона любимым жанром,
+    и с начала 2000-х он стал активнейшим участником главной блюзовой тусовки Норвегии,
+    образовавшейся вокруг клуба Muddy Waters.
+
+
+    Хокон - мастер традиции, свинга, р-н-б и вест-коаст блюза. Он помешан на Калифорнии,
+    говорят, тратит все свои сбережения на то, чтобы пожить там каждый год несколько
+    недель. Хокон коллекционирует крутые винтажные гитары и ламповые усилители и знает
+    все о старом звуке 50-х.
+
+
+    У Хокона отличный вкус и чувство стиля, умеренность и умение не спешить, он мастер
+    гитарного аккомпанемента, поэтому его все время приглашают популярные солисты
+    в качестве сайдмена. Партия Хокона обычно - основа аранжировки, но во многих песнях
+    он выходит вперед и тогда, хоть и ненадолго, становится по-калифонийски жарко.
+    Во многих составах Хокон сотрудничал с Биллом Трояни, включая постоянное участие
+    в Billy T Band с 2007 года. За записанные при участии Хокона Хэйе две пластинки
+    Билли Ти Бэнд получил норвежские Грэмми - Spellemannprisen 2010 и 2012.
+
+
+    Параллельно выступлению в различных группах Хокон получал особое удовольствие,
+    играя свои самые любимые песни в собственной The HoneyTones. Вершина этого проекта
+    на сегодняшний день - выпущенная в конце 2013 года в соавторстве с Биллом Трояни
+    яркая пластинка "''Bout Time". Большинство вещей Хокон и Билл написали вместе,
+    и только пара треков - кавера ритм-н-блюза. Пластинка только-только вышла, еще
+    горяча и будет представлена 7-го февраля в Москве в Доме у Дороги.
+
+
+    Концерты Hakon Hoyey и Billy T Band 7-8 февраля 2014 в <a href="http://www.blueshouse.ru">Доме
+    у Дороги</a> организованы <a href="http://www.blues.ru/club/">Клубом Blues.Ru</a>.'
+  verified: true
+  created: '2014-01-23'
+  is_press_release: true

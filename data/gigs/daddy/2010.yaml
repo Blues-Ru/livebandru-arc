@@ -1,0 +1,38 @@
+- id: 13105
+  date: '2010-10-08'
+  time: '19:30'
+  band_name: Mishouris Blues Band, Владислав Графиянов & Friends, Gordo Rei Latino
+  club_id: 290
+  club_name: Daddy
+  club_token: daddy
+  price: бесплатный
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 135
+    name: Gordo Rei Latino
+    token: gordo-rei-latino
+- id: 13281
+  date: '2010-10-30'
+  time: '19:30'
+  band_name: Django band,Vladimir Musaelyan & friends, Ksenia Fedulova & Blues 'n'
+    Roads
+  club_id: 290
+  club_name: Daddy
+  club_token: daddy
+  price: бесплатный
+  extra_bands:
+  - id: 99
+    name: Полина Касьянова и Django Band
+    token: django-band
+- id: 13553
+  date: '2010-11-05'
+  time: '20:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 290
+  club_name: Daddy
+  club_token: daddy
+  price: бесплатный

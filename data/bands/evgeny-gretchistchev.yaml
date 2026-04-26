@@ -1,0 +1,58 @@
+id: 143
+token: evgeny-gretchistchev
+name: Евгений Гречищев
+aliases: 'The Moscow Jazz Passengers
+
+  Ансамбль Евгения Гречищева
+
+  Евгением Гречищевым
+
+  Трио Евгения Гречищева'
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Евгений Гречищев
+  instruments: фортепиано
+clips:
+- id: 169
+  type: weblink
+  url: http://jazzpass.narod.ru/
+  name: The Moscow Jazz Passengers
+  sort_order: 0
+- id: 1497
+  type: youtube
+  url: http://www.youtube.com/?v=nmu8TidXY9w
+  name: Евгений Гречищев, Владимир Голоухов играют.
+  comments: Джаз
+  sort_order: 99
+- id: 1498
+  type: youtube
+  url: http://www.youtube.com/?v=YQDPF3s94Ps
+  name: Евгений Гречищев. Олег Киреев. Прелюдия N 1
+  comments: запись 10.12.2010
+  sort_order: 199
+- id: 1494
+  type: photo
+  url: evgeny-gretchistchev.jpg
+  sort_order: 0
+  width: 560
+  height: 420
+reviews:
+- id: 92
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Евгений Гречищев - выпускник джазового факультета МГУК, джазовый пианист,
+    аранжировщик, композитор, лауреат нескольких джазовых фестивалей, Пианист Евгений
+    Гречищев педагог, воспитавший не одно поколение джазовых пианистов, автор учебника
+    для джазовых пианистов "Jazz Continuo".
+
+
+    Евгений Гречищев много концертирует в составе собственного трио и последние 8
+    лет является лидером джазового ансамбля "The Moscow Jazz Passengers". Пишет музыку
+    для фортепиано, малых ансамблей, а так же музыку для театра (одна из наиболее
+    известных работ - музыка к пьесе "Антимиры" по А. Вознесенскому).'
+  verified: true
+  created: '2011-01-06'
+  is_press_release: true

@@ -1,0 +1,21 @@
+- id: 47073
+  date: '2014-12-05'
+  time: '19:00'
+  band_id: 368
+  band_name: Трио Даниила Крамера
+  band_token: daniel-kramer
+  club_id: 787
+  club_name: КЗ "Филармония-2"
+  club_token: kz-filarmoniya-2
+  comments: Тестовый акустический концерт, количество мест ограничено
+- id: 47076
+  date: '2014-12-23'
+  time: '19:00'
+  band_name: Посвящения. Выдающимся музыкантам джаза. Алексей Козлов и Арсенал
+  club_id: 787
+  club_name: КЗ "Филармония-2"
+  club_token: kz-filarmoniya-2
+  extra_bands:
+  - id: 110
+    name: Алексей Козлов и Арсенал
+    token: alexey-kozlov

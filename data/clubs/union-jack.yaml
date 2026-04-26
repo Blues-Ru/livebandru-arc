@@ -1,0 +1,17 @@
+id: 803
+token: union-jack
+name: Union Jack Pub
+aliases: 'Union Jack
+
+  Union Jack English Pub'
+alive: true
+address: Петровка 23/10, стр. 5
+subway: Чеховская, Тверская, Пушкинская
+phone: (495) 6945626
+city_id: 1
+clips:
+- id: 6669
+  type: weblink
+  url: http://unionj.su/
+  name: Официальный сайт
+  sort_order: 0

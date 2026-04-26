@@ -1,0 +1,46 @@
+- id: 49083
+  date: '2015-01-29'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 50000 руб.
+- id: 49730
+  date: '2015-02-26'
+  time: '21:00'
+  band_name: Cross B Band&Louisiana Blue
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 50000 руб.
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+- id: 50203
+  date: '2015-03-26'
+  time: '21:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  price: 50000 руб.
+- id: 50935
+  date: '2015-04-23'
+  time: '21:00'
+  band_name: Cross B Band&Алексей Гудимов (Long Way)
+  club_id: 491
+  club_name: Doodah King
+  club_token: doodah-king
+  extra_bands:
+  - id: 390
+    name: Cross B Band
+    token: cross-b-band
+  - id: 394
+    name: Long Way
+    token: long-way

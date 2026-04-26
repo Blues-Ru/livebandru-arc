@@ -1,0 +1,14 @@
+id: 129
+token: ikra
+name: Ikra
+alive: true
+address: Казакова, 8, в здании Театра им. Гоголя
+subway: Курская
+phone: (495) 778 56 51
+city_id: 1
+clips:
+- id: 36
+  type: weblink
+  url: http://ikraclub.ru/
+  name: Официальный сайт
+  sort_order: 0

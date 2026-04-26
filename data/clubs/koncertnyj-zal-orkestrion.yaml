@@ -1,0 +1,14 @@
+id: 721
+token: koncertnyj-zal-orkestrion
+name: Концертный зал Оркестрион
+alive: true
+address: Гарибальди, 19
+subway: Новые Черемушки
+phone: +7(495)504-07-85
+city_id: 1
+clips:
+- id: 4640
+  type: weblink
+  url: http://www.rno.ru
+  name: Официальный сайт
+  sort_order: 0

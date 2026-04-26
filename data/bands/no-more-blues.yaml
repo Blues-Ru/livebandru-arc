@@ -1,0 +1,39 @@
+id: 711
+token: no-more-blues
+name: No More Blues
+alive: true
+url: http://nomoreblues.ru/
+city_id: 1
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Елена Ковалевская
+  instruments: вокал
+- name: Александр Селиванов
+  instruments: гитара
+- name: Анатолий Владимирович
+  instruments: бас
+- name: Алексей Баринов
+  instruments: барабаны
+- name: Илья Гиверц
+  instruments: губная гармоника
+- name: Олег Штыров
+  instruments: клавишные
+- name: Иван Мартынов
+  instruments: саксофон
+clips:
+- id: 7119
+  type: youtube
+  url: https://www.youtube.com/watch?v=zjeUfn7JFz0
+  sort_order: 99
+- id: 7112
+  type: weblink
+  url: http://nomoreblues.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 7120
+  type: photo
+  url: no-more-blues.jpg
+  sort_order: 0
+  width: 900
+  height: 606

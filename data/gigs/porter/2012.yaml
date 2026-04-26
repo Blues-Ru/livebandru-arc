@@ -1,0 +1,28 @@
+- id: 26466
+  date: '2012-04-08'
+  time: '19:00'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 458
+  club_name: Портер
+  club_token: porter
+- id: 30080
+  date: '2012-09-23'
+  time: '19:00'
+  band_name: 'IV Киевский международный блюз фестиваль: Ivan Blues (UA), Сергей Курек
+    и Mystic Rive (BY), Bob Margolin (US) & The Jumping Cats (RU)'
+  club_id: 458
+  club_name: Портер
+  club_token: porter
+  price: 100 грн.
+  extra_bands:
+  - id: 46
+    name: The Jumping Cats
+    token: jumping-cats
+  - id: 598
+    name: Bob Margolin
+    token: bob-margolin
+  - id: 291
+    name: Ivan Блюz
+    token: ivan-blyuz

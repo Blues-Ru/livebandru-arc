@@ -1,0 +1,18 @@
+- id: 14514
+  date: '2010-12-30'
+  time: '19:00'
+  band_name: "Psychedelta, Drunken Sailors Band,\r\nMishouris Blues Band"
+  club_id: 213
+  club_name: The Grease Club (Бриолин)
+  club_token: briolin
+  price: 150 руб.
+  extra_bands:
+  - id: 199
+    name: PsycheDelta Blues Band
+    token: psychedelta
+  - id: 69
+    name: Drunken Sailors Band
+    token: drunken-sailors-band
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris

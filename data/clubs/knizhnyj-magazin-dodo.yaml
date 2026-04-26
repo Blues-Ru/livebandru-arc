@@ -1,0 +1,15 @@
+id: 699
+token: knizhnyj-magazin-dodo
+name: Книжный магазин Додо
+alive: true
+address: ул. Таганская, 31/22
+subway: Таганская, Марксистская, Крестьянская застава
+phone: +7(495)912-30-88
+city_id: 1
+comments: ул. Большая Андроньевская, 22/31
+clips:
+- id: 4453
+  type: weblink
+  url: http://www.dodo-space.ru/#dodo
+  name: Официальный сайт
+  sort_order: 0

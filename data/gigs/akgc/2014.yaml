@@ -1,0 +1,60 @@
+- id: 46500
+  date: '2014-09-20'
+  time: '20:00'
+  band_name: 'Концерт джазового фестиваля UrBand Camp: дуэт "Джазовые виртуозы" -
+    Dominique Di Piazza (бас-гитара, Франция) и Hallgeir Pedersen (гитара, Норвегия).
+    Mara and the Inner Strangeness (Норвегия)'
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc
+- id: 46501
+  date: '2014-09-20'
+  time: '22:00'
+  band_name: Jam session
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc
+- id: 46502
+  date: '2014-09-21'
+  time: '18:00'
+  band_name: Аркадий Шилклопер (духовые инструменты, Германия/Россия). Dominique Di
+    Piazza (бас), Therese Ulvan (вокал), Hallgeir Pedersen (гитара), Игорь Горьковой
+    (клавишные) - Kristin Holand (танцы, перформанс) - Hakon Skog Erlandsen (саксофон)
+    - Oyvind Braekke (тромбон) - Jens Fossum (бас) - Jakop Janssonn (ударные) - Christo
+    Stangness (бас) - Mara and the Inner Strangeness
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc
+- id: 46503
+  date: '2014-10-17'
+  time: '19:00'
+  band_name: 'IV фестиваль Владимира Резицкого: ансамбль Игоря Горькового "Акустический
+    проект", дуэт "ББ" - Федор Багрецов, Алексей Барандов, Arkhangelsk Jazz Friends,
+    Арт-ансамбль'
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc
+- id: 46504
+  date: '2014-10-18'
+  time: '17:00'
+  band_name: 'IV фестиваль Владимира Резицкого: Олег Киреев и "Орлан" (Москва-Уфа),
+    Владимир Тарасов (Литва) & Архангельские музыканты, Goat''s Notes (Москва)'
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc
+  extra_bands:
+  - id: 546
+    name: Goat's Notes
+    token: goatsnotes
+  - id: 140
+    name: Ансамбль Олега Киреева
+    token: kireyev
+- id: 46505
+  date: '2014-10-19'
+  time: '17:00'
+  band_name: 'IV фестиваль Владимира Резицкого: Леонид Винцкевич, Николай Винцкевич
+    (Курск); Сигрид Молдестад (Норвегия); Владимир Миллер (Англия), Алексей Круглов
+    (Москва), Олег Юданов (Архангельск), Николай Клишин (Архангельск)'
+  club_id: 781
+  club_name: АКГЦ
+  club_token: akgc

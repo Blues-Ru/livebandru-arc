@@ -1,0 +1,14 @@
+- id: 16649
+  date: '2011-03-20'
+  time: '19:00'
+  band_name: Mishouris Blues Band, Bullet Blues Band, Трио Макса Ватутина
+  club_id: 418
+  club_name: Бочка
+  club_token: bochka
+  extra_bands:
+  - id: 18
+    name: MISHOURIS Blues
+    token: mishouris
+  - id: 139
+    name: Bullet Blues Band
+    token: bullet-blues-band

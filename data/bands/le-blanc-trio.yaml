@@ -1,0 +1,21 @@
+id: 323
+token: le-blanc-trio
+name: Le Blanc trio
+alive: true
+city_id: 14
+genre_id: 2
+secondary_genre_id: 6
+musicians:
+- name: Дарья Лышенко
+  instruments: вокал
+- name: Михаил Лышенко
+  instruments: клавишные, гитара
+- name: Виталий Рудковский
+  instruments: барабаны
+clips:
+- id: 1220
+  type: photo
+  url: 1.jpg
+  sort_order: 0
+  width: 2000
+  height: 3008

@@ -1,0 +1,78 @@
+id: 630
+token: jambo-jazz-quintet
+name: Jambo Jazz Quintet
+alive: true
+url: http://vk.com/jambojazz
+city_id: 16
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Ярослав Чаус
+  instruments: saxophone
+- name: Сергей Пархоменко
+  instruments: guitar
+- name: Роман Басюк
+  instruments: piano
+- name: Дмитрий Коваль
+  instruments: bass/double-bass
+- name: Иван Воронков
+  instruments: drums
+clips:
+- id: 4597
+  type: weblink
+  url: http://vk.com/jambojazz
+  name: Официальный сайт
+  sort_order: 0
+- id: 4599
+  type: weblink
+  url: http://vk.com/jambojazzmusic_clockface
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 4601
+  type: youtube
+  url: http://www.youtube.com/?v=IbXBNw6LfUs
+  name: JJQ at Blues Session 15/07/13
+  comments: ''
+  sort_order: 99
+- id: 4653
+  type: photo
+  url: jambo-jazz-quintet-2.jpg
+  sort_order: 100
+  width: 1280
+  height: 853
+- id: 4654
+  type: photo
+  url: jambo-jazz-quintet-3.jpg
+  sort_order: 200
+  width: 682
+  height: 1024
+- id: 4656
+  type: photo
+  url: jambo-jazz-quintet-5.jpg
+  sort_order: 400
+  width: 1280
+  height: 853
+- id: 4659
+  type: photo
+  url: jambo-jazz-quintet-7.jpg
+  sort_order: 600
+  width: 682
+  height: 1024
+- id: 4655
+  type: photo
+  url: jambo-jazz-quintet-4.jpg
+  sort_order: 300
+  width: 682
+  height: 1024
+- id: 4657
+  type: youtube
+  url: http://www.youtube.com/?v=GGhWNevXdT4
+  name: '2'
+  comments: ''
+  sort_order: 199
+- id: 4658
+  type: photo
+  url: jambo-jazz-quintet-6.jpg
+  sort_order: 500
+  width: 1280
+  height: 853

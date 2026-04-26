@@ -1,0 +1,3331 @@
+- id: 40951
+  date: '2014-01-01'
+  time: '20:30'
+  band_id: 636
+  band_name: Juliana Strangelove
+  band_token: juliana-strangelove
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40952
+  date: '2014-01-02'
+  time: '20:30'
+  band_id: 467
+  band_name: Алина Ростоцкая
+  band_token: alinarostotskaya
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40953
+  date: '2014-01-03'
+  time: '20:30'
+  band_name: Klezmasters
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40954
+  date: '2014-01-04'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40955
+  date: '2014-01-05'
+  time: '20:30'
+  band_id: 26
+  band_name: Dr. Agranovsky & The Blues Spinners
+  band_token: dr-agranovsky-the-blues-spinners
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40956
+  date: '2014-01-06'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40957
+  date: '2014-01-08'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40958
+  date: '2014-01-09'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40959
+  date: '2014-01-10'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40960
+  date: '2014-01-11'
+  time: '20:30'
+  band_id: 85
+  band_name: Старая Гвардия
+  band_token: staraya-guardia
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40961
+  date: '2014-01-12'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40962
+  date: '2014-01-13'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40963
+  date: '2014-01-14'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40968
+  date: '2014-01-19'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40970
+  date: '2014-01-21'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40975
+  date: '2014-01-26'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40976
+  date: '2014-01-27'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41612
+  date: '2014-02-01'
+  time: '20:30'
+  band_name: Мария Дмитриева. Презентация клипа.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40964
+  date: '2014-01-15'
+  time: '20:30'
+  band_name: Boghie Wooghie Party c Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40965
+  date: '2014-01-16'
+  time: '20:30'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40966
+  date: '2014-01-17'
+  time: '20:30'
+  band_name: Леван Ломидзе & Blues Cousins, гость Константин Никольский
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 118
+    name: Константин Никольский
+    token: nikolsky
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 40967
+  date: '2014-01-18'
+  time: '20:30'
+  band_id: 4
+  band_name: Stainless Blues Band
+  band_token: stainless
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40969
+  date: '2014-01-20'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40971
+  date: '2014-01-22'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40972
+  date: '2014-01-23'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40973
+  date: '2014-01-24'
+  time: '20:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40974
+  date: '2014-01-25'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40977
+  date: '2014-01-28'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40978
+  date: '2014-01-29'
+  time: '20:30'
+  band_name: Jacknife Rockabilly Trio
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 40980
+  date: '2014-01-31'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41114
+  date: '2014-02-20'
+  time: '21:00'
+  band_id: 645
+  band_name: Bex Marshall
+  band_token: bex-marshall
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800/1000
+- id: 41404
+  date: '2014-01-17'
+  time: '22:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41405
+  date: '2014-01-25'
+  time: '22:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41569
+  date: '2014-01-30'
+  time: '20:30'
+  band_name: Eddie Martin + Юрий Каверкин & Noting Personal
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+  - id: 661
+    name: Eddie Martin
+    token: eddie-martin
+- id: 41616
+  date: '2014-02-05'
+  time: '20:30'
+  band_name: Boogie Woogie party c Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41617
+  date: '2014-02-06'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41618
+  date: '2014-02-07'
+  time: '20:30'
+  band_id: 636
+  band_name: Juliana Strangelove
+  band_token: juliana-strangelove
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41619
+  date: '2014-02-08'
+  time: '20:30'
+  band_name: Dr.Endo & Dream Team
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 634
+    name: Дмитрий Dr. Endo Казачков & Dreamteam
+    token: dr-endo
+- id: 41620
+  date: '2014-02-09'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41621
+  date: '2014-02-11'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41622
+  date: '2014-02-10'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41623
+  date: '2014-02-12'
+  time: '20:30'
+  band_name: Los Barrancos
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41624
+  date: '2014-02-13'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41629
+  date: '2014-02-18'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41630
+  date: '2014-02-19'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41631
+  date: '2014-02-21'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41632
+  date: '2014-02-22'
+  time: '20:30'
+  band_name: Алексей Романов, Юрий Китаев, Петр Макиенко
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41633
+  date: '2014-02-23'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41634
+  date: '2014-02-24'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41635
+  date: '2014-02-25'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41636
+  date: '2014-02-26'
+  time: '20:30'
+  band_id: 659
+  band_name: Dani Wilde
+  band_token: dani-wilde
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41637
+  date: '2014-02-27'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41638
+  date: '2014-02-28'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41613
+  date: '2014-02-02'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41614
+  date: '2014-02-03'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41615
+  date: '2014-02-04'
+  time: '20:30'
+  band_id: 114
+  band_name: Gulishian Trio
+  band_token: hovikgulishian
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41625
+  date: '2014-02-14'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41626
+  date: '2014-02-15'
+  time: '20:30'
+  band_id: 414
+  band_name: Pera Joe
+  band_token: pera-joe
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41627
+  date: '2014-02-16'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41628
+  date: '2014-02-17'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 41640
+  date: '2014-01-31'
+  time: '22:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 43317
+  date: '2014-04-20'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43321
+  date: '2014-04-24'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 42221
+  date: '2014-03-06'
+  time: '20:30'
+  band_id: 608
+  band_name: Big Joe Louis
+  band_token: big-joe-louis
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 42300
+  date: '2014-03-20'
+  time: '20:00'
+  band_id: 648
+  band_name: Rollo Markee
+  band_token: rollo-markee
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 42303
+  date: '2014-03-13'
+  time: '20:00'
+  band_id: 662
+  band_name: Emanuele "Manny" Fizzotti
+  band_token: manny-fizzotti
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 42306
+  date: '2014-03-26'
+  time: '20:00'
+  band_id: 657
+  band_name: Will Johns
+  band_token: will-johns
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 42393
+  date: '2014-02-28'
+  time: '22:30'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 42575
+  date: '2014-03-01'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42576
+  date: '2014-03-02'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42577
+  date: '2014-03-03'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42578
+  date: '2014-03-04'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42579
+  date: '2014-03-05'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42580
+  date: '2014-03-07'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42581
+  date: '2014-03-08'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42582
+  date: '2014-03-09'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42583
+  date: '2014-03-10'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42584
+  date: '2014-03-11'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42586
+  date: '2014-03-12'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42587
+  date: '2014-03-15'
+  time: '20:30'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42588
+  date: '2014-03-14'
+  time: '20:30'
+  band_id: 74
+  band_name: Old Fashion Blues Project
+  band_token: old-fashion
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42589
+  date: '2014-03-15'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42590
+  date: '2014-03-16'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42591
+  date: '2014-03-17'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42592
+  date: '2014-03-18'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42593
+  date: '2014-03-19'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42594
+  date: '2014-03-21'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42595
+  date: '2014-03-22'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42596
+  date: '2014-03-23'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42597
+  date: '2014-03-24'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42598
+  date: '2014-03-25'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42599
+  date: '2014-03-27'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42600
+  date: '2014-03-28'
+  time: '20:30'
+  band_id: 683
+  band_name: Deitra Farr
+  band_token: deitra-farr
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42601
+  date: '2014-03-29'
+  time: '20:30'
+  band_name: Старая Гвардия, оригинальный состав
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 85
+    name: Старая Гвардия
+    token: staraya-guardia
+- id: 42602
+  date: '2014-03-30'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 42603
+  date: '2014-03-31'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 43301
+  date: '2014-04-03'
+  time: '20:30'
+  band_id: 87
+  band_name: Мистер Твистер
+  band_token: mister-twister
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44053
+  date: '2014-05-08'
+  time: '20:00'
+  band_name: Blues Cousins feat. Danny Giles
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 650
+    name: Danny Giles
+    token: danny-giles
+- id: 43302
+  date: '2014-04-04'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43303
+  date: '2014-04-05'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43304
+  date: '2014-04-07'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43305
+  date: '2014-04-08'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43306
+  date: '2014-04-09'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43307
+  date: '2014-04-10'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43308
+  date: '2014-04-11'
+  time: '20:30'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 43309
+  date: '2014-04-12'
+  time: '20:30'
+  band_name: День рождения Рок-н-Ролла с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+- id: 43310
+  date: '2014-04-13'
+  time: '20:30'
+  band_id: 164
+  band_name: Михаил Кистанов и Blues'n'Roads
+  band_token: blues-n-roads
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43311
+  date: '2014-04-14'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43312
+  date: '2014-04-15'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43313
+  date: '2014-04-16'
+  time: '20:30'
+  band_name: Boogie Woogie Party с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+- id: 43314
+  date: '2014-04-17'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43315
+  date: '2014-04-18'
+  time: '20:30'
+  band_name: Дарья Ловать. Авторская программа "Сны Москвы"
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43316
+  date: '2014-04-19'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 43319
+  date: '2014-04-22'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43327
+  date: '2014-04-30'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43318
+  date: '2014-04-21'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43323
+  date: '2014-04-26'
+  time: '20:30'
+  band_id: 655
+  band_name: Marcus Bonfanti
+  band_token: marcus-bonfanti
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 43324
+  date: '2014-04-27'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43325
+  date: '2014-04-28'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43326
+  date: '2014-04-29'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43320
+  date: '2014-04-23'
+  time: '20:30'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  comments: "Одна из первых российских групп, ориентирующихся на формат джем-бэнда\
+    \ (jam bands) - то есть на синтез блюза, фанка, соула, рока и т.п. с ярко выраженным\
+    \ импровизационным началом.\r\n\r\nВ 2007 году в составе группы Николая Арутюнова\
+    \ Backstage аккомпанировали легенде британского рока Питу Брауну в ходе его московских\
+    \ гастролей. (Браун - соавтор таких хитов Cream, как White Room, Politician и\
+    \ Sunshine Of Your Love, а также бессменный соратник Джека Брюса, продюсер и музыкант).\r\
+    \n\r\nВ 2008 году Backstage записали альбом Take Cover, где хорошенько \"оторвались\"\
+    \ на любимых каверах :) Недавно группа к великой всеобщей радости добавила в состав\
+    \ клавишника и в настоящее время работает над оригинальным материалом для второй\
+    \ пластинки.\r\nСостав:\r\nЮрий Новгородский - гитара, вокал \r\nЕвгений Глухов\
+    \ - бас, вокал\r\nДмитрий Фролов - ударные, перкуссия"
+- id: 43322
+  date: '2014-04-25'
+  time: '20:30'
+  band_id: 364
+  band_name: Валерий Каримов
+  band_token: valery-karimov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  comments: 'Валерий Каримов родился в городе Кыштыме Челябинской области, расположенном
+    в окружении Уральских гор и живописных озер. Свою музыкальную карьру Валерий начал
+    в качестве бас-гитариста в местной любительской группе. Вскоре он получил приглашение
+    работать в профессиональной группе "Сплав" Владимира Батракова (г.Челябинск),
+    которая играла джаз-рок и фьюжн, и по духу была близка творчеству американских
+    групп "CHICAGO" и "EARTH, WIND & FIRE". Именно в этот период времени Валерий стал
+    лауреатом международного телевизионного конкурса в г.Юрмале. Одновременно в душе
+    музыканта зрело желание петь в эстетике рока, поскольку именно этот жанр был всегда
+    ближе ему по духу. Это стремление Валерий отчасти реализовал, работая в известной
+    московской группе "РОК-АТЕЛЬЕ" Криса Кельми. В начале 90-х годов часть музыкантов
+    иммигрировали за рубеж. Вскоре Валерий создает свою группу и записывает с ней
+    альбом "Как пламя и лед", который соединил в себе 2 направления: блюз-рок и прогрессив-рок.
+    За рамками альбома группа экспериментировала в области фанка и альтернативы. Последующие
+    6 лет Валерий работал в качестве вокалиста в легендарном джаз-роковом ансамбле
+    "АРСЕНАЛ" Алексея Козлова, где исполнял композиции в стилях: прогрессив-рок, фьюжн,
+    фанк и джаз. Параллельно с работой в "АРСЕНАЛЕ" Валерий создает новую группу -
+    Группу Валерия Каримова Специально для клуба "ФОРТЕ" коллективом были подготовлены
+    три различные программы: "АКУСТИКА" ,"ДЖАЗ", "БЛЮЗ & РОК". Джаз-программа включает
+    песни, которые исполняли FRANK SINATRA, ROAD STEWART, GEORGE MICHAEL, рок-программа
+    - LED ZEPPELIN, КING СRIMSON, DEEP PURPLE, QEEN, PAUL McCARTNEY, WALLFLOWERS ,
+    AUDIOSLAVE, RADIOHEAD, COLD PLAY, A-HA, EXTREME, блюз - ERIC CLAPTON, JOHNNY LANG
+    и другие мировые звезды. Кроме этого, группа исполняет свои авторские русско-
+    и англоязычные произведения.'
+- id: 43490
+  date: '2014-04-19'
+  time: '23:00'
+  band_id: 68
+  band_name: Эд Губайдуллин
+  band_token: edison
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 43516
+  date: '2014-05-02'
+  time: '20:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43517
+  date: '2014-05-03'
+  time: '20:30'
+  band_name: д-р Аграновский и De Blues Spinners
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 13
+    name: Черный Хлеб и д-р Аграновский
+    token: agranovsky
+- id: 43518
+  date: '2014-05-04'
+  time: '20:30'
+  band_name: Михаил Кистанов и его Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43519
+  date: '2014-05-05'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43520
+  date: '2014-05-06'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43521
+  date: '2014-05-07'
+  time: '20:30'
+  band_name: Эд Губайдуллин, Михаил Головин
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 68
+    name: Эд Губайдуллин
+    token: edison
+- id: 43522
+  date: '2014-05-08'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43523
+  date: '2014-05-09'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43524
+  date: '2014-05-10'
+  time: '20:30'
+  band_name: Степан Юрлов и Тори (акустика)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 43525
+  date: '2014-05-11'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43526
+  date: '2014-05-12'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43527
+  date: '2014-05-13'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43528
+  date: '2014-05-14'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43529
+  date: '2014-05-15'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 43530
+  date: '2014-05-16'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 43531
+  date: '2014-05-17'
+  time: '20:30'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43532
+  date: '2014-05-18'
+  time: '20:30'
+  band_name: Михаил Кистанов
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43533
+  date: '2014-05-19'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43534
+  date: '2014-05-20'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43550
+  date: '2014-05-01'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 350 руб.
+  comments: Спец.гости STiLL SmOKin' BaND и Сергей Баршак
+- id: 43492
+  date: '2014-05-02'
+  time: '21:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 43535
+  date: '2014-05-21'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 43536
+  date: '2014-05-22'
+  time: '20:30'
+  band_id: 665
+  band_name: Ron Sayer Jr.
+  band_token: ron-sayer-jr
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 43537
+  date: '2014-05-23'
+  time: '20:30'
+  band_name: Tanel Padar Blues Band, Эстония
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+  extra_bands:
+  - id: 686
+    name: Tanel Padar Blues Band
+    token: tanel-padar
+- id: 43538
+  date: '2014-05-24'
+  time: '20:30'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+- id: 43539
+  date: '2014-05-25'
+  time: '20:30'
+  band_name: Михаил Кистанов
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 43540
+  date: '2014-05-26'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: бесплатный
+- id: 43541
+  date: '2014-05-27'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 43542
+  date: '2014-05-28'
+  time: '20:30'
+  band_name: Буги-Вуги с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+- id: 43543
+  date: '2014-05-29'
+  time: '20:30'
+  band_name: Пятый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 43544
+  date: '2014-05-30'
+  time: '20:30'
+  band_name: Старая Гвардия. Оригинальный состав.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 600 руб.
+  extra_bands:
+  - id: 85
+    name: Старая Гвардия
+    token: staraya-guardia
+- id: 43545
+  date: '2014-05-31'
+  time: '20:30'
+  band_name: Bad Bimbos. Акустика.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 633
+    name: Bad Bimbos
+    token: bad-bimbos
+- id: 44073
+  date: '2014-06-11'
+  time: '20:30'
+  band_id: 654
+  band_name: Ian Siegal
+  band_token: ian-siegal
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 44632
+  date: '2014-06-12'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 44633
+  date: '2014-06-13'
+  time: '20:30'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44634
+  date: '2014-06-14'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44635
+  date: '2014-06-15'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 44636
+  date: '2014-06-16'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 44637
+  date: '2014-06-17'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 44638
+  date: '2014-06-18'
+  time: '20:30'
+  band_name: Буги-вуги с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+- id: 44639
+  date: '2014-06-19'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 44640
+  date: '2014-06-20'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44641
+  date: '2014-06-21'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44642
+  date: '2014-06-22'
+  time: '20:30'
+  band_name: День Рождения Алексея Аграновского
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  comments: Блюзовый джем в честь дня рождения музыканта
+- id: 44643
+  date: '2014-06-23'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 44644
+  date: '2014-06-24'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 44645
+  date: '2014-06-25'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44646
+  date: '2014-06-26'
+  time: '20:30'
+  band_id: 634
+  band_name: Дмитрий Dr. Endo Казачков & Dreamteam
+  band_token: dr-endo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44647
+  date: '2014-06-27'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 44648
+  date: '2014-06-28'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44649
+  date: '2014-06-29'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 44650
+  date: '2014-06-30'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 44687
+  date: '2014-07-26'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 44768
+  date: '2014-07-01'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 44770
+  date: '2014-07-03'
+  time: '20:30'
+  band_id: 46
+  band_name: The Jumping Cats
+  band_token: jumping-cats
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44774
+  date: '2014-07-08'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 44778
+  date: '2014-07-11'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44769
+  date: '2014-07-02'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 44771
+  date: '2014-07-04'
+  time: '20:30'
+  band_id: 656
+  band_name: Tom Attah
+  band_token: tom-attah
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 44772
+  date: '2014-07-05'
+  time: '20:30'
+  band_name: Степан Юрлов
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44773
+  date: '2014-07-07'
+  time: '20:30'
+  band_name: Михаил Кистанов
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 44775
+  date: '2014-07-09'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 44776
+  date: '2014-07-09'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 44777
+  date: '2014-07-10'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 45238
+  date: '2014-07-12'
+  time: '20:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45239
+  date: '2014-07-13'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45240
+  date: '2014-07-14'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45241
+  date: '2014-07-15'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45242
+  date: '2014-07-16'
+  time: '20:30'
+  band_id: 81
+  band_name: Rattlesnakes
+  band_token: rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45243
+  date: '2014-07-17'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 45244
+  date: '2014-07-18'
+  time: '20:30'
+  band_name: Благотворительный концерт фонда "Жизнь, как чудо" (Д. Ловать, Т. Ведерников
+    и др.)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45246
+  date: '2014-07-20'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45247
+  date: '2014-07-21'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45248
+  date: '2014-07-22'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45249
+  date: '2014-07-23'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45250
+  date: '2014-07-24'
+  time: '20:30'
+  band_name: Четвертый Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 45251
+  date: '2014-07-25'
+  time: '20:30'
+  band_name: Клягин&Терешина Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45252
+  date: '2014-07-27'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45253
+  date: '2014-07-28'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45254
+  date: '2014-07-29'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45255
+  date: '2014-07-30'
+  time: '20:30'
+  band_name: Буги-Вуги с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+- id: 45256
+  date: '2014-07-31'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45257
+  date: '2014-08-01'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45258
+  date: '2014-08-02'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45259
+  date: '2014-08-03'
+  time: '20:30'
+  band_name: Михаил Кистанов Трио
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45260
+  date: '2014-08-04'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45261
+  date: '2014-08-05'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45262
+  date: '2014-08-06'
+  time: '20:30'
+  band_id: 97
+  band_name: Alex Soloviev
+  band_token: alex-soloviev
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45263
+  date: '2014-08-07'
+  time: '20:30'
+  band_id: 43
+  band_name: Алексей "White" Белов и Удачное Приобретение
+  band_token: white
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45264
+  date: '2014-08-08'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45265
+  date: '2014-08-09'
+  time: '20:30'
+  band_name: Влад Листков и Листья Травы
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 117
+    name: Листья Травы
+    token: leaves-of-grass
+- id: 45266
+  date: '2014-08-10'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45298
+  date: '2014-07-19'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45882
+  date: '2014-09-26'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45884
+  date: '2014-08-14'
+  time: '20:30'
+  band_name: Алексей Блохин
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+- id: 45885
+  date: '2014-08-15'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45886
+  date: '2014-08-16'
+  time: '20:30'
+  band_name: Борис Булкин и Stainless Blues Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+- id: 45887
+  date: '2014-08-17'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45888
+  date: '2014-08-18'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45889
+  date: '2014-08-19'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45890
+  date: '2014-08-20'
+  time: '20:30'
+  band_name: Гия Дзагнидзе и Modern Blues Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 45891
+  date: '2014-08-21'
+  time: '20:30'
+  band_name: Третий Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 45892
+  date: '2014-08-22'
+  time: '20:30'
+  band_id: 58
+  band_name: Юрий Каверкин и Nothing Personal
+  band_token: kaverkin
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45893
+  date: '2014-08-23'
+  time: '20:30'
+  band_name: Bad Bimbos. Акустика
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 633
+    name: Bad Bimbos
+    token: bad-bimbos
+- id: 45894
+  date: '2014-08-24'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 45895
+  date: '2014-08-25'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 45896
+  date: '2014-08-26'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 45897
+  date: '2014-08-27'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45898
+  date: '2014-08-28'
+  time: '20:30'
+  band_name: Ольга Лисикова и The Gracious
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 45899
+  date: '2014-08-29'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 45900
+  date: '2014-08-30'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+- id: 45901
+  date: '2014-08-31'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 46093
+  date: '2014-08-31'
+  time: '20:30'
+  band_id: 650
+  band_name: Danny Giles
+  band_token: danny-giles
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46075
+  date: '2014-08-29'
+  time: '20:30'
+  band_name: Danny Giles spesial guest appearance with CrossroadZ
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 650
+    name: Danny Giles
+    token: danny-giles
+  - id: 7
+    name: Crossroadz
+    token: crossroadz
+- id: 46307
+  date: '2014-09-03'
+  time: '20:30'
+  band_id: 180
+  band_name: Rhythm & Blues Independent
+  band_token: rnb-independent
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 300 руб.
+  comments: Ритм-н-блюз и соул в духе 60-70 годов
+- id: 46363
+  date: '2014-09-18'
+  time: '20:00'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46367
+  date: '2014-09-11'
+  time: '20:30'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46368
+  date: '2014-09-10'
+  time: '20:30'
+  band_name: The Rattlesnakes
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 81
+    name: Rattlesnakes
+    token: rattlesnakes
+- id: 46369
+  date: '2014-09-11'
+  time: '20:30'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  comments: "Robert Lighthouse - это американский блюзмен, творчество которого престижный\
+    \ журнал Blues Review охарактеризовал как \"совершенное мастерство\".\r\n\r\n\
+    На сегодняшний день Lighthouse является одним из самых ярких представителей дельта\
+    \ блюза* на североатлантическом побережье океана.\r\n\r\nНа уникальный стиль музыканта\
+    \ оказали сильное влияние Muddy Waters, Dr. Ross, Elmore James, John Lee Hooker\
+    \ и Jimmy Hendrix. Любопытно, что многие зарубежные критики в своих отзывах не\
+    \ раз писали о Robert'е \"Творчество Lighthous'а - это то, что делал бы сегодня\
+    \ Jimmy Hendrix, будь он жив\".\r\n\r\nСвои первые гастроли по США и Европе Robert\
+    \ Lighthouse проехал в составе группы легендарного гармошечника Charlie Sayles.\
+    \ Через некоторое время после начала сольной карьеры Lighthouse попал в поле зрения\
+    \ лидера музыкальной индустрии Вашингтона Wayne Kahn, который помог записать первый\
+    \ альбом музыканта \"Drive - Thru Love\".\r\n\r\nПоследний альбом Robert'а (\"\
+    Democracy BLVD\") вышел в 2009 году, и так же как \"Deep Down In The Mud\" 2007-го\
+    \ года получил очень хорошие рецензии от самых влиятельных зарубежных музыкальных\
+    \ критиков.\r\n\r\nRobert Lighthouse - постоянный участник престижных блюзовых\
+    \ фестивалей в Скандинавии и США. За свою долгую творческую жизнь успел поработать\
+    \ со многими выдающимися блюзовами музыкантами, среди них такие звезды, как Robert\
+    \ Cray, Taj Mahal, Mick Fleetfood, David Lindley, John Hammond, музыканты Muddy\
+    \ Waters и Howlin Wolf.\r\n\r\nRobert Lighthouse успешно выступает в Америке и\
+    \ Европе. Первый его тур в России состоялся в 2008 году, а уже в мае 2012 он отыграл\
+    \ в нашей стране свой 100-й, юбилейный, концерт.\r\n\r\nRobert Lighthouse выступал\
+    \ в России на блюзовых фестивалях - фестиваль в клубе Jagger (Спб, январь 2010\
+    \ г.), фестиваль \"Архангельск - блюз\" (май 2010 г, 2011 г., 2012 г.).\r\n\r\n\
+    Более полную информацию о музыканте можно найти на сайте www.robertlighthouse.com"
+- id: 46370
+  date: '2014-09-12'
+  time: '20:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 46371
+  date: '2014-09-13'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 46372
+  date: '2014-09-14'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 46373
+  date: '2014-09-15'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46374
+  date: '2014-09-16'
+  time: '20:30'
+  band_name: B.B.King's Birthday Jam с участием С.Воронова, Г. Дзагнидзе, Л. Ломидзе
+    и Петровича
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 46375
+  date: '2014-09-17'
+  time: '20:30'
+  band_name: Boogie Woogie Party с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46376
+  date: '2014-09-18'
+  time: '20:30'
+  band_id: 153
+  band_name: SOBO
+  band_token: sobo
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46377
+  date: '2014-09-19'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46378
+  date: '2014-09-20'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46379
+  date: '2014-09-21'
+  time: '20:30'
+  band_name: YourLove&Tori. Акустика
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46381
+  date: '2014-09-23'
+  time: '20:30'
+  band_name: Open Jam с Петровичем и Гией Дзагнидзе
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 46382
+  date: '2014-09-24'
+  time: '20:30'
+  band_name: Дарья Ловать и Countryside Blues Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46383
+  date: '2014-09-25'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 46384
+  date: '2014-09-27'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46385
+  date: '2014-09-28'
+  time: '20:30'
+  band_name: Борис Булкин. Акустика.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 46386
+  date: '2014-09-29'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46387
+  date: '2014-09-30'
+  time: '20:30'
+  band_name: Open Jam с Петровичем и Гией Дзагнидзе
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 46380
+  date: '2014-09-22'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 46549
+  date: '2014-10-11'
+  time: '20:00'
+  band_id: 19
+  band_name: Dr. Nick
+  band_token: dr-nick
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 47131
+  date: '2014-10-07'
+  time: '20:30'
+  band_name: OPEN JAM с Гией Дзагнидзе, Петровичем и Neal Harper
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 47132
+  date: '2014-10-08'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47133
+  date: '2014-10-09'
+  time: '20:30'
+  band_name: Ольга Лисикова и The Gracious
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47134
+  date: '2014-10-10'
+  time: '20:30'
+  band_id: 13
+  band_name: Черный Хлеб и д-р Аграновский
+  band_token: agranovsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47135
+  date: '2014-10-12'
+  time: '20:30'
+  band_name: Юрий Каверкин и Nothing Personal. Акустика.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 47136
+  date: '2014-10-13'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47137
+  date: '2014-10-14'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47138
+  date: '2014-10-15'
+  time: '20:30'
+  band_id: 573
+  band_name: Shaky Jake
+  band_token: shaky-jake
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47139
+  date: '2014-10-16'
+  time: '20:30'
+  band_name: Третий Четверг Четвергова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 96
+    name: Дмитрий Четвергов
+    token: chetvergov
+- id: 47140
+  date: '2014-10-17'
+  time: '20:30'
+  band_name: '2 рояля: Денис Мажуков и Алексей Блохин'
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 80
+    name: Lex & Team
+    token: lex-n-team
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 47141
+  date: '2014-10-18'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 47142
+  date: '2014-10-18'
+  time: '23:00'
+  band_name: Dany Wilde & Todd Sharpville (UK). Unplugged
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 687
+    name: Todd Sharpville
+    token: todd-sharpville
+- id: 47143
+  date: '2014-10-19'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 47144
+  date: '2014-10-20'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47145
+  date: '2014-10-21'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 47146
+  date: '2014-10-22'
+  time: '20:30'
+  band_name: Boogie Woogie Party с Денисом Мажуковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 800 руб.
+- id: 47147
+  date: '2014-10-23'
+  time: '20:30'
+  band_id: 107
+  band_name: The Soul Voyager
+  band_token: thesoulvoyager
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 47148
+  date: '2014-10-24'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 47149
+  date: '2014-10-25'
+  time: '20:30'
+  band_name: Stone Shades
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 47150
+  date: '2014-10-26'
+  time: '20:30'
+  band_name: Трио Михаила Кистанова
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 164
+    name: Михаил Кистанов и Blues'n'Roads
+    token: blues-n-roads
+- id: 47151
+  date: '2014-10-27'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47152
+  date: '2014-10-27'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47153
+  date: '2014-10-28'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 47154
+  date: '2014-10-29'
+  time: '20:30'
+  band_name: Дарья Ловать. Birthday Party.
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 47155
+  date: '2014-10-30'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 47156
+  date: '2014-10-31'
+  time: '20:30'
+  band_name: Halloween c Drunken Sailors Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+  extra_bands:
+  - id: 69
+    name: Drunken Sailors Band
+    token: drunken-sailors-band
+- id: 47161
+  date: '2014-10-18'
+  time: '22:30'
+  band_id: 688
+  band_name: Dani Wilde & Todd Sharpville
+  band_token: wilde-sharpville
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: PWYW
+- id: 47247
+  date: '2014-12-05'
+  time: '20:30'
+  band_id: 61
+  band_name: 26 Герц
+  band_token: 26herz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47343
+  date: '2014-11-14'
+  time: '20:00'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  comments: День Рождения Группы
+- id: 47837
+  date: '2014-11-07'
+  time: '20:30'
+  band_id: 627
+  band_name: J.C. Smith
+  band_token: j-c-smith
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47845
+  date: '2014-11-05'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47846
+  date: '2014-11-06'
+  time: '20:30'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47847
+  date: '2014-11-08'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47849
+  date: '2014-11-12'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47852
+  date: '2014-11-16'
+  time: '20:30'
+  band_name: Акустика с Андреем Бутузовым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47855
+  date: '2014-11-22'
+  time: '20:30'
+  band_id: 60
+  band_name: Петрович & Hot Rod Band
+  band_token: petrovich
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47857
+  date: '2014-11-26'
+  time: '20:30'
+  band_id: 77
+  band_name: Алехин & Salt Peanutz
+  band_token: salt-peanutz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47860
+  date: '2014-11-29'
+  time: '20:30'
+  band_name: The Bastards
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47864
+  date: '2014-12-27'
+  time: '20:30'
+  band_id: 18
+  band_name: MISHOURIS Blues
+  band_token: mishouris
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 47848
+  date: '2014-11-09'
+  time: '20:30'
+  band_name: Акустика с Алексом Соловьевым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 97
+    name: Alex Soloviev
+    token: alex-soloviev
+- id: 47850
+  date: '2014-11-13'
+  time: '20:30'
+  band_id: 1
+  band_name: Blues Cousins
+  band_token: blues-cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47851
+  date: '2014-11-15'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 47853
+  date: '2014-11-19'
+  time: '20:30'
+  band_id: 109
+  band_name: The Backstage
+  band_token: backstage
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47854
+  date: '2014-11-21'
+  time: '20:30'
+  band_name: Клягин & Терешина Band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47856
+  date: '2014-11-23'
+  time: '20:30'
+  band_name: Акустика со Степаном Юрловым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47858
+  date: '2014-11-27'
+  time: '20:30'
+  band_id: 648
+  band_name: Rollo Markee
+  band_token: rollo-markee
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47859
+  date: '2014-11-28'
+  time: '20:30'
+  band_id: 12
+  band_name: Денис Мажуков и Off Beat
+  band_token: offbeat
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 47861
+  date: '2014-11-30'
+  time: '20:30'
+  band_name: Акустика со Владом Листковым
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 48325
+  date: '2014-12-02'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48326
+  date: '2014-12-03'
+  time: '20:30'
+  band_name: Los Barrancos
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48327
+  date: '2014-12-04'
+  time: '20:30'
+  band_id: 261
+  band_name: Smitanaband
+  band_token: smitana-band
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48328
+  date: '2014-12-06'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 48329
+  date: '2014-12-07'
+  time: '20:30'
+  band_name: 'Акустические хулиганы: Воронов и Дзагнидзе'
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+  extra_bands:
+  - id: 15
+    name: Modern Blues Band
+    token: modern-blues-band
+- id: 48330
+  date: '2014-12-09'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48331
+  date: '2014-12-10'
+  time: '20:30'
+  band_id: 595
+  band_name: Ольга Олейникова
+  band_token: olga-oleynikova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 48332
+  date: '2014-12-11'
+  time: '20:30'
+  band_name: Daniel Paterok Trio (Germany)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+- id: 48333
+  date: '2014-12-12'
+  time: '20:30'
+  band_id: 53
+  band_name: Soul Mate
+  band_token: soulmate
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 48334
+  date: '2014-12-13'
+  time: '20:30'
+  band_name: Sharon Lewis (USA)
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 48339
+  date: '2014-12-17'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 48340
+  date: '2014-12-18'
+  time: '20:30'
+  band_id: 96
+  band_name: Дмитрий Четвергов
+  band_token: chetvergov
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48341
+  date: '2014-12-19'
+  time: '20:30'
+  band_id: 7
+  band_name: Crossroadz
+  band_token: crossroadz
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+- id: 48342
+  date: '2014-12-20'
+  time: '20:30'
+  band_id: 438
+  band_name: Ксения Федулова
+  band_token: ksenia-fedulova
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 48343
+  date: '2014-12-21'
+  time: '20:30'
+  band_name: Дарья Ловать
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 48344
+  date: '2014-12-22'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 48345
+  date: '2014-12-23'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48335
+  date: '2014-12-14'
+  time: '20:30'
+  band_name: Борис Булкин
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  extra_bands:
+  - id: 35
+    name: Борис Булкин Бэнд
+    token: boris-bulkin
+- id: 48336
+  date: '2014-12-15'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 48337
+  date: '2014-12-16'
+  time: '20:30'
+  band_id: 590
+  band_name: 'Петрович и Гия: Delta Blues'
+  band_token: bbking-delta-blues
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48338
+  date: '2014-12-17'
+  time: '20:30'
+  band_name: Денис Мажуков
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 1000 руб.
+  extra_bands:
+  - id: 12
+    name: Денис Мажуков и Off Beat
+    token: offbeat
+- id: 48346
+  date: '2014-12-24'
+  time: '20:30'
+  band_id: 537
+  band_name: Дмитрий Новокольский
+  band_token: dmitry-novokolsky
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 400 руб.
+- id: 48347
+  date: '2014-12-25'
+  time: '20:30'
+  band_name: Ольга Лисикова и The Gracious
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+- id: 48348
+  date: '2014-12-26'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 700 руб.
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 48349
+  date: '2014-12-28'
+  time: '20:30'
+  band_name: Юрий Каверкин
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.
+  extra_bands:
+  - id: 58
+    name: Юрий Каверкин и Nothing Personal
+    token: kaverkin
+- id: 48350
+  date: '2014-12-29'
+  time: '20:30'
+  band_id: 470
+  band_name: Blues Gravity
+  band_token: blues-gravity
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+- id: 48352
+  date: '2014-12-30'
+  time: '20:30'
+  band_id: 101
+  band_name: RawCats'88
+  band_token: raw-cats-88
+  club_id: 5
+  club_name: B.B.King
+  club_token: bbking
+  price: 500 руб.

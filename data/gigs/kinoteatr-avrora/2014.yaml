@@ -1,0 +1,13 @@
+- id: 42681
+  date: '2014-03-09'
+  time: '18:30'
+  band_name: 'Музыкальные вечера немого кино. Таперы: Алексей Чижик (фортепиано, синтезатор,
+    вибрафон) и Григорий Воскобойник (бас гитара, стик-бас)'
+  club_id: 763
+  club_name: Кинотеатр "Аврора"
+  club_token: kinoteatr-avrora
+  price: 400 руб.
+  extra_bands:
+  - id: 329
+    name: Chizhik Jazz Quartet
+    token: chizhik-jazz

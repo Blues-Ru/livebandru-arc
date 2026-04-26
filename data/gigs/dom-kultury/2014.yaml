@@ -1,0 +1,16 @@
+- id: 43547
+  date: '2014-05-10'
+  time: '17:30'
+  band_name: 'IV Джаз-фестиваль "Настроение": The Sounds Of Silence, Live People Quartet,
+    Andrew Dre, Lil'' Mary Brick, The Melodies, 1/2 Orchestra, Найк Борзов, Hula Hoop'
+  club_id: 768
+  club_name: Дом культуры
+  club_token: dom-kultury
+  price: Вход свободный
+  extra_bands:
+  - id: 502
+    name: Живые Люди
+    token: livepeople
+  - id: 158
+    name: HulaHoop
+    token: hula-hoop

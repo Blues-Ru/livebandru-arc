@@ -1,0 +1,16 @@
+id: 549
+token: trio-olega-dobrotina
+name: Трио Олега Добротина
+alive: true
+url: http://olegdobrotin.com/
+city_id: 1
+genre_id: 2
+musicians:
+- name: Олег Добротин
+  instruments: аккордеон
+clips:
+- id: 2723
+  type: weblink
+  url: http://olegdobrotin.com/
+  name: Официальный сайт
+  sort_order: 0

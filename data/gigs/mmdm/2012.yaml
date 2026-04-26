@@ -1,0 +1,352 @@
+- id: 25317
+  date: '2012-02-25'
+  time: '19:00'
+  band_name: 'Триумф джаза 2012: Trombone Shorty & New Orleans Avenue (США); New York
+    Encounter - Яков Окунь (рояль), Бен Стрит (контрабас, США), Билли Драммонд (барабаны,
+    США); группа Николая Винцкевича при уч. Ив Корнелиус (вокал, США), Джоэла Тейлора
+    (барабаны, США) и Джеффа Янга (вокал/гитара, США)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 25318
+  date: '2012-02-26'
+  time: '19:00'
+  band_name: 'Триумф джаза 2012: David Garfield Group (США); Антон Баронин (рояль)
+    и Orchestra 2.0 при уч. Грегори Хатчинсона (барабаны, США); Оркестр Игоря Бутмана;
+    Kazumi Watanabe (гитара, Япония) и Minako Yosida (вокал, Япония)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 24917
+  date: '2012-02-27'
+  time: '19:00'
+  band_name: Оркестр Гленна Миллера
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1200-7000 руб.
+- id: 25446
+  date: '2012-04-05'
+  time: '20:00'
+  band_name: Крис Ботти (труба, США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 2200-16500 руб.
+- id: 25942
+  date: '2012-03-08'
+  time: '19:00'
+  band_name: Олег Бутман (барабаны), Наталья Смирнова (фортепиано, вокал), Wayne Escoffery
+    (саксофон, США), Joe Magnarelli (труба, США), Danton Boller (контрабас, США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 26746
+  date: '2012-05-25'
+  time: '19:00'
+  band_name: De Phazz
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1200-6000 руб.
+- id: 27324
+  date: '2012-05-31'
+  time: '19:00'
+  band_name: Симфонический джаз, Нина Шацкая "Just Jazz"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-1500 руб.
+  comments: Нина Шацкая в сопровождении симфонического оркестра МВД под управлением
+    Феликса Арановского. Театральный зал
+- id: 29907
+  date: '2012-11-11'
+  time: '19:00'
+  band_name: 'IX фестиваль "Российские звезды мирового джаза". К 90-летию джаза в
+    России: "Коррида биг-бэндов и Double Band"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 200-1200 руб.
+- id: 29895
+  date: '2012-09-20'
+  time: '19:00'
+  band_name: Тромбон-шоу Максима Пиганова "Джаз, кино и фантазия"
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 200-900 руб.
+- id: 29896
+  date: '2012-09-29'
+  time: '19:30'
+  band_name: Джейн Монхайт (вокал, США) и Биг-бэнд Игоря Бутмана
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 1500-6800 руб.
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 29897
+  date: '2012-10-13'
+  time: '19:00'
+  band_id: 367
+  band_name: Вадим Эйленкриг
+  band_token: eilenkrig
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 100-1200 руб.
+- id: 29898
+  date: '2012-10-15'
+  time: '19:00'
+  band_name: 'Джазовый оркестр имени О.Лундстрема: Куба-Россия - "Ностальгия", при
+    уч. Педрито Кальво (вокал, Куба), Армине Саркисян (вокал), Рэй Монтесинос (дирижер,
+    Куба)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 300-2000 руб.
+- id: 29899
+  date: '2012-10-18'
+  time: '19:00'
+  band_name: Барбара Хендрикс и ее блюз-бэнд (США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 300-4000 руб.
+- id: 29900
+  date: '2012-10-19'
+  time: '19:00'
+  band_name: 'Абонемент "Джаз со всеми остановками": Оркестр им. Олега Лундстрема
+    - "Нет джаза без свинга"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29901
+  date: '2012-10-30'
+  time: '19:00'
+  band_name: 'Ансамбль классического джаза Валерия Киселева: "Harlem Nocturne" - посвящение
+    Дюку Эллингтону'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-1000 руб.
+  extra_bands:
+  - id: 601
+    name: Ансамбль классического джаза Валерия Киселева
+    token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva
+- id: 29902
+  date: '2012-11-02'
+  time: '19:00'
+  band_name: 'Абонемент "Валерий Гроховский представляет": сольная программа "От Баха
+    до Битлз"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 400-1000 руб.
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+- id: 29903
+  date: '2012-11-03'
+  time: '19:00'
+  band_name: Таня Мария (вокал, фортепиано) и ее джазовый квартет (Бразилия)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29904
+  date: '2012-11-06'
+  time: '19:00'
+  band_name: Jazz-фейерверк братьев Ивановых
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 400-1000 руб.
+- id: 29905
+  date: '2012-11-09'
+  time: '19:00'
+  band_name: 'IX фестиваль "Российские звезды мирового джаза". К 90-летию джаза в
+    России: "Праздник забытого джаза"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 400-1200 руб.
+- id: 29906
+  date: '2012-11-10'
+  time: '19:00'
+  band_name: 'IX фестиваль "Российские звезды мирового джаза". К 90-летию джаза в
+    России: "Гранды джазового рояля"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 200-1200 руб.
+- id: 29911
+  date: '2012-12-06'
+  time: '19:00'
+  band_id: 601
+  band_name: Ансамбль классического джаза Валерия Киселева
+  band_token: ansambl-klassicheskogo-dzhaza-valeriya-kiseleva
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-1000 руб.
+- id: 29912
+  date: '2012-12-08'
+  time: '19:00'
+  band_name: 'Абонемент "Игорь Бутман представляет": Soweto Gospel Choir (ЮАР)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 29913
+  date: '2012-12-09'
+  time: '19:00'
+  band_name: 'Звезды госпела: Soweto Gospel Choir (ЮАР)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29914
+  date: '2012-12-12'
+  time: '19:00'
+  band_name: Эл Джарро (вокал)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-5000 руб.
+- id: 29915
+  date: '2012-12-16'
+  time: '19:00'
+  band_name: Рене Мари (вокал) и ее джазовое трио (США)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29916
+  date: '2012-12-19'
+  time: '19:00'
+  band_name: Абонемент "Сергей Жилин & Фонограф-Джаз-Бэнд" - Let It Snow!
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29917
+  date: '2012-12-21'
+  time: '19:00'
+  band_name: 'Абонемент "Джаз со всеми остановками": Оркестр джазовой музыки им. Олега
+    Лундстрема'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29918
+  date: '2012-12-23'
+  time: '19:00'
+  band_name: 'Абонемент "Валерий Гроховский представляет": "Рождественский джаз" -
+    Валерий Гроховский (фортепиано), Даниил Крамер (фортепиано)'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 500-1500 руб.
+  extra_bands:
+  - id: 459
+    name: Валерий Гроховский
+    token: valeri-grohovski
+  - id: 368
+    name: Трио Даниила Крамера
+    token: daniel-kramer
+- id: 29919
+  date: '2012-12-25'
+  time: '19:00'
+  band_name: 'Абонемент "Игорь Бутман представляет": Фантине (вокал, Австралия) и
+    джазовый оркестр Игоря Бутмана'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 700-2500 руб.
+  extra_bands:
+  - id: 141
+    name: Игорь Бутман
+    token: igor-butman
+- id: 29908
+  date: '2012-11-14'
+  time: '19:00'
+  band_name: 'Абонемент "Сергей Жилин & Фонограф-Джаз-Бэнд": день рождения Фонограф-Джаз-Бэнда'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 29909
+  date: '2012-11-26'
+  time: '19:00'
+  band_name: Олег Бутман, Наталья Смирнова - концерт-презентация нового альбома
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 400-2000 руб.
+  extra_bands:
+  - id: 503
+    name: Наталья Смирнова
+    token: natalia-smirnova
+- id: 29910
+  date: '2012-12-02'
+  time: '19:00'
+  band_name: 'Абонемент "Джазовые истории от Алексея Козлова": "Инструменты в музыке
+    XX века, саксофон в джазе"'
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 30439
+  date: '2012-10-02'
+  time: '19:00'
+  band_id: 366
+  band_name: Роман Мирошниченко
+  band_token: roman-miro
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 30696
+  date: '2012-10-22'
+  time: '19:00'
+  band_name: Hiromi Uehara (фортепиано, Япония)
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+- id: 30867
+  date: '2012-10-29'
+  time: '19:00'
+  band_id: 15
+  band_name: Modern Blues Band
+  band_token: modern-blues-band
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  comments: Юбилейный концерт Гии Дзагнидзе при участии звезд, виртуозов, тузов и
+    патриархов!
+- id: 31866
+  date: '2012-11-30'
+  time: '19:00'
+  band_name: Кэнди Далфер (саксофон, Нидерланды) & Band
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  price: 2500-9000 руб.
+  comments: Candy Dulfer (саксофон, вокал), Ulco Bed (гитара), Сhance Howard (клавиши,
+    вокал), Arjen Mooijer (клавиши), Oscar Kraal (ударные), Manuel Hugas (бас-гитара),
+    Ricardo Burgrust (вокал), Jan van Duikeren (труба)
+- id: 32283
+  date: '2012-12-18'
+  time: '19:00'
+  band_name: Jaleel Shaw (саксофон, США) и трио Ивана Фармаковского
+  club_id: 96
+  club_name: Московский Международный Дом Музыки
+  club_token: mmdm
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky

@@ -1,0 +1,226 @@
+- id: 41274
+  date: '2014-01-05'
+  band_name: Jazztown
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41275
+  date: '2014-01-06'
+  band_name: IN Folio (Москва)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41276
+  date: '2014-01-07'
+  band_name: Северо-восток (Москва)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41277
+  date: '2014-01-10'
+  band_name: Gentoo
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41278
+  date: '2014-01-12'
+  band_name: Leo "Bass" Funky-jazz Project
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41279
+  date: '2014-01-25'
+  band_name: Группа Марии Корель
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41280
+  date: '2014-02-08'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41281
+  date: '2014-02-14'
+  band_name: Корица
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41471
+  date: '2014-01-31'
+  band_id: 234
+  band_name: New Blues Band
+  band_token: new-bb
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41472
+  date: '2014-02-07'
+  band_id: 39
+  band_name: Banderas Blues Band
+  band_token: banderas
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41473
+  date: '2014-02-08'
+  band_name: Candy Beat (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 41474
+  date: '2014-03-04'
+  band_name: Schnellertollermeier (Швейцария)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42207
+  date: '2014-02-20'
+  band_name: Трио Ильича (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42208
+  date: '2014-03-01'
+  band_name: We're Welcome (Северодвинск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42209
+  date: '2014-03-02'
+  band_id: 91
+  band_name: Dynamic James
+  band_token: dynamic-james
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42623
+  date: '2014-03-08'
+  band_name: Корица (Архангельск
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42624
+  date: '2014-03-23'
+  band_name: Candy Beat (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42625
+  date: '2014-03-28'
+  band_name: Екатерина Унгвари & Матвей Байдиков (Омск - Москва)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 42626
+  date: '2014-04-13'
+  band_name: Трио Ильича (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43642
+  date: '2014-05-04'
+  band_id: 234
+  band_name: New Blues Band
+  band_token: new-bb
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43643
+  date: '2014-05-07'
+  band_name: Корица (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43644
+  date: '2014-05-08'
+  band_name: Candy Beat (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43645
+  date: '2014-05-09'
+  band_name: Сполохи (Архангельск) фолк Каждому на входе фронтовые 50 гр. за нашу
+    Победу!
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43646
+  date: '2014-05-10'
+  band_name: 'The Beatles Tribute: New Blues Band, Виниловый Соус, Polaris'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  extra_bands:
+  - id: 234
+    name: New Blues Band
+    token: new-bb
+- id: 43647
+  date: '2014-05-11'
+  band_name: Акимова И Клякса (Архангельск)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43648
+  date: '2014-05-22'
+  band_name: Концерт участников международного фестиваля "Архангельск-блюз"
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43649
+  date: '2014-05-23'
+  band_name: 'Участники международного фестиваля "Архангельск-блюз-2014": Ксения Федулова
+    & Jam Duet (Москва)'
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  extra_bands:
+  - id: 438
+    name: Ксения Федулова
+    token: ksenia-fedulova
+- id: 43650
+  date: '2014-05-24'
+  band_name: Концерт участников международного фестиваля "Архангельск-блюз"
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43651
+  date: '2014-05-25'
+  band_name: Концерт участников международного фестиваля "Архангельск-блюз"
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 43652
+  date: '2014-06-07'
+  band_name: Break Orchestra (Архангельск), Николай Куликов (гитара, вокал); Андрей
+    Шабашёв (клавишные), Валерий Журавлёв (ударные)
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 45612
+  date: '2014-08-02'
+  band_id: 234
+  band_name: New Blues Band
+  band_token: new-bb
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 45613
+  date: '2014-09-14'
+  band_id: 251
+  band_name: Robert Lighthouse
+  band_token: robert-lighthouse
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+- id: 47833
+  date: '2014-11-14'
+  band_id: 120
+  band_name: Wolf Mail
+  band_token: wolf-mail
+  club_id: 272
+  club_name: Колесо
+  club_token: koleso
+  price: 400 руб.

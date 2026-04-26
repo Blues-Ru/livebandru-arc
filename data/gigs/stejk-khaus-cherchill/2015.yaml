@@ -1,0 +1,17 @@
+- id: 53926
+  date: '2015-10-01'
+  time: '20:00'
+  band_name: Джазовый четверг
+  club_id: 817
+  club_name: Стейк-хаус "Черчилль"
+  club_token: stejk-khaus-cherchill
+- id: 53927
+  date: '2015-11-08'
+  band_name: Kenny Blues Boss Wayne Russian Tour 2015 (feat. Jose Luis Pardo)
+  club_id: 817
+  club_name: Стейк-хаус "Черчилль"
+  club_token: stejk-khaus-cherchill
+  extra_bands:
+  - id: 561
+    name: Jose Luis Pardo
+    token: jose-luis-pardo

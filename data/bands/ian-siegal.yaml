@@ -1,0 +1,90 @@
+id: 654
+token: ian-siegal
+name: Ian Siegal
+aliases: Ian Siegal Band
+alive: true
+url: http://iansiegal.com/
+city_id: 77
+genre_id: 1
+secondary_genre_id: 18
+musicians:
+- name: Ian Siegal
+  instruments: guitar/vocals
+- name: Вадим Иващенко
+  instruments: guitar
+- name: Юрий Горелов
+  instruments: бас-гитара/контрабас
+- name: Михаил Юдин
+  instruments: ударные
+clips:
+- id: 5098
+  type: youtube
+  url: http://www.youtube.com/?v=_GXcnQ8Vzvg
+  name: I'd Rather Go Blind;..Ian Siegal
+  comments: 'Varga Laca: bass
+
+    Gyenge Lajos: drums
+
+    ---
+
+    [25.0]'
+  sort_order: 100
+- id: 5096
+  type: weblink
+  url: http://iansiegal.com/
+  name: Официальный сайт
+  sort_order: 0
+- id: 5130
+  type: photo
+  url: ian-siegal.jpg
+  sort_order: 0
+  width: 2000
+  height: 1429
+- id: 5097
+  type: youtube
+  url: http://www.youtube.com/?v=pjdnweEzxjc
+  name: Ian Siegal & The Mississippi Mudbloods - She Got The Devil In Her, London
+  comments: '...Ian and band detail on this link: http://iansiegal.com'
+  sort_order: 0
+- id: 5099
+  type: youtube
+  url: http://www.youtube.com/?v=h0KfCgdvbio
+  name: Ian Siegal - In Concert at Fareham, 1h16min
+  comments: "Highlights from an intimate solo concert by Ian at his home town of Fareham\
+    \ on 11th May 2013. Ashcroft Arts Centre. iansiegal.com \nAll rights reserved.\
+    \ © 2013 LiveArtPresents"
+  sort_order: 200
+- id: 5211
+  type: youtube
+  url: http://www.youtube.com/?v=7NmLIsnqf6Q
+  name: Ian Siegal & MIssissippi Mudbloods
+  comments: Ian and the Mudbloods play the Belgium Rhythm & Blues Festival 2011. The
+    Mudbloods is an occasional project through which Ian and musicians from Mississippi
+    and Tennessee collaborate. This line up fea
+  sort_order: 50
+- id: 7466
+  type: youtube
+  url: http://www.youtube.com/?v=jTHOe7t3Fr0
+  name: IAN SIEGAL на фестивале УСАДЬБА JAZZ
+  sort_order: 25
+reviews:
+- id: 387
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Коренной Лондонец, певец, гитарист, сонграйтер и сторителлер - ИЭН СИГАЛ
+    достиг всем мыслимых для представителей своего поколения британских блюзменов
+    высот: неоднократный номинант и обладатель British Blues Awards "Best Male Vocalist",
+    "Best Blues Album", "Best Original Blues Song", "Best Acoustic Artist", а его
+    группа - "Best Blues Band". Его альбомы (в октябре 2013 вышел новый, шестой по
+    счету) сразу после выхода разлетаются, как горячие пирожки и стремительно взлетают
+    к вершинам чартов, а на концерты билетов не достать.
+
+
+    Иэн Сигал - участник знакового The LONDON BLUES Festival''13 в лондонском Альберт-Холле
+    и хэдлайнер еще двух дюжин самых представительных фестивалей. Концерты Иэна Сигала
+    из разряда событий, которые ни за что не хотелось бы пропустить... Позаботьтесь
+    о покупке билетов заблаговременно и не говорите потом, что вас не предупредили!!!'
+  verified: true
+  created: '2013-12-25'
+  is_press_release: true

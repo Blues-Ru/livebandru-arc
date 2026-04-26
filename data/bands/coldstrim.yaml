@@ -1,0 +1,125 @@
+id: 552
+token: coldstrim
+name: Колдстрим
+alive: true
+url: http://www.coldstrim.ru/
+city_id: 1
+genre_id: 3
+secondary_genre_id: 6
+clips:
+- id: 2762
+  type: youtube
+  url: http://www.youtube.com/?v=i_ZtG3wL1Sk
+  name: Колдстрим - Доктор (Live)
+  comments: ''
+  sort_order: 199
+- id: 2738
+  type: weblink
+  url: http://www.coldstrim.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2739
+  type: weblink
+  url: http://vk.com/coldstrim
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 2756
+  type: photo
+  url: coldstrim.jpg
+  sort_order: 0
+  width: 5616
+  height: 3980
+- id: 2757
+  type: mp3
+  url: coldstrim.mp3
+  name: Колдстрим_Брось
+  sort_order: 99
+- id: 2758
+  type: mp3
+  url: coldstrim-2.mp3
+  name: Колдстрим_Знаю и Так
+  sort_order: 199
+- id: 2759
+  type: mp3
+  url: coldstrim-3.mp3
+  name: Колдстрим_Я улетаю
+  sort_order: 299
+- id: 2760
+  type: weblink
+  url: http://www.facebook.com/coldstrim
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 2764
+  type: mp3
+  url: coldstrim-4.mp3
+  name: Колдстрим - Утром
+  sort_order: 399
+- id: 2761
+  type: youtube
+  url: http://www.youtube.com/?v=7Xt14GESwFY
+  name: Колдстрим на ТВ "Столица" - Ночной молодежный канал
+  comments: "группа КОЛДСТРИМ в программе \"Ночной молодежный канал\" (телеканал \"\
+    Столица\"). Тема программы - \"Заморский брак: как выйти замуж за иностранца\"\
+    . \r\nЭфир состоялся 13.07.2011"
+  sort_order: 99
+- id: 2948
+  type: photo
+  url: coldstrim-2.jpg
+  sort_order: 100
+  width: 3508
+  height: 4961
+- id: 2946
+  type: weblink
+  url: http://www.youtube.com/coldstrim
+  name: Канал на Youtube
+  sort_order: 150
+- id: 2947
+  type: youtube
+  url: http://www.youtube.com/?v=i2sj6yjHaaI
+  name: Колдстрим - Встречай меня (репетиция)
+  comments: Встречай меня                     (С.Карева)  Встречай меня, лови мои
+    конверты - Я пишу тебе на белых облаках. Прости меня, я потерялась где-то В далеких
+    странах и в чужих мирах. Читай мои письма и жд
+  sort_order: 75
+- id: 2949
+  type: youtube
+  url: http://www.youtube.com/?v=Fc0ly071AJQ
+  name: Колдстрим - Я улетаю (видеоклип 2010)
+  comments: дебютное видео группы (2010 г.)
+  sort_order: 50
+- id: 2984
+  type: photo
+  url: coldstrim-3.jpg
+  name: Концерт КОЛДСТРИМ в FM Club - 12 января 20.00
+  sort_order: 200
+  width: 339
+  height: 480
+- id: 3286
+  type: youtube
+  url: http://www.youtube.com/?v=b6bf8yycz3I
+  name: Колдстрим среди участников Большого весеннего Фестиваля "А.Л.А.Р.М.!" (репортаж
+    O2TV)
+  comments: Муха, Пилар, Wag the Dog (USA), Колдстрим и другие команды на фестивале
+    АЛАРМ в клубе Гранд Бурбон Стрит (репортаж телеканала О2ТВ)  © О2ТВ @ Sergey Kozlov
+  sort_order: 25
+- id: 3287
+  type: youtube
+  url: http://www.youtube.com/?v=IaW72BunDIo
+  name: Концерт-презентация Колдстрим в Media Markt. Видео-анонс
+  comments: 'Концерт-Презентация дебютного альбома группы Колдстрим "Здесь и теперь"!
+    Встреча ВКонтакте: http://vk.com/coldstrim_mediamarkt  31 Марта 14.00 - Media
+    Markt на Каширке (Москва, ТЦ Капитолий, Каширс'
+  sort_order: 13
+reviews:
+- id: 242
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  header: Пресс-релиз
+  text: Группа КОЛДСТРИМ - это необычный сплав женственности и бескомпромиссности,
+    приправленный изящной мелодикой и жесткой ритм-секцией. А голос вокалистки - то
+    трепетно-застенчивый, то брутально-агрессивный - попадает точно в цель, в зале
+    не остается равнодушных...
+  verified: true
+  created: '2011-10-19'
+  is_press_release: true

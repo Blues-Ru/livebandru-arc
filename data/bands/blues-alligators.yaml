@@ -1,0 +1,18 @@
+id: 430
+token: blues-alligators
+name: The Blues Alligators
+alive: true
+url: http://thebluesalligators.narod.ru/
+city_id: 2
+genre_id: 1
+clips:
+- id: 2029
+  type: weblink
+  url: http://thebluesalligators.narod.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2030
+  type: weblink
+  url: http://vk.com/club2439205
+  name: Страница ВКонтакте
+  sort_order: 100

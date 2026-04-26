@@ -1,0 +1,18 @@
+id: 649
+token: archaeology
+name: Археология
+alive: true
+address: Новорязанская, 29 стр. 3
+subway: Бауманская, Красносельская
+city_id: 1
+clips:
+- id: 3855
+  type: weblink
+  url: http://vk.com/club472701
+  name: Страница ВКонтакте
+  sort_order: 99
+- id: 3856
+  type: weblink
+  url: http://www.arheo-club.com
+  name: Официальный сайт
+  sort_order: 0

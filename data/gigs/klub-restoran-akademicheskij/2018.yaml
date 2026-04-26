@@ -1,0 +1,63 @@
+- id: 71401
+  date: '2018-02-28'
+  time: '20:30'
+  band_name: Владимир Пресняков-старший
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+- id: 71402
+  date: '2018-03-01'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 71403
+  date: '2018-03-07'
+  time: '20:30'
+  band_id: 632
+  band_name: Real Jam
+  band_token: real-jam
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+- id: 71404
+  date: '2018-03-08'
+  time: '20:30'
+  band_name: Леван Ломидзе и Blues Cousins
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+  extra_bands:
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+- id: 71405
+  date: '2018-03-10'
+  time: '20:30'
+  band_id: 327
+  band_name: Софи Окран
+  band_token: sofi-okran
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+- id: 71406
+  date: '2018-03-17'
+  time: '20:30'
+  band_id: 351
+  band_name: Этери Бериашвили
+  band_token: eteri
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij
+- id: 71407
+  date: '2018-03-18'
+  time: '20:00'
+  band_name: Intuitive Project
+  club_id: 770
+  club_name: Джаз-клуб "Академический"
+  club_token: klub-restoran-akademicheskij

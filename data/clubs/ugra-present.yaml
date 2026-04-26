@@ -1,0 +1,13 @@
+id: 540
+token: ugra-present
+name: Центр культуры "Югра-презент"
+alive: true
+address: Спортивная, 6
+phone: +7(34675)710-44, факс 702-73
+city_id: 103
+clips:
+- id: 2888
+  type: weblink
+  url: http://ugra-prezent.ru
+  name: Официальный сайт
+  sort_order: 0

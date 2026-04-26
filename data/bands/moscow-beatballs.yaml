@@ -1,0 +1,124 @@
+id: 744
+token: moscow-beatballs
+name: Moscow Beatballs
+aliases: modern blues'n'billy
+alive: true
+url: http://www.moscowbeatballs.ru
+city_id: 1
+genre_id: 1
+secondary_genre_id: 9
+musicians:
+- name: Сергей Арнаутов
+  instruments: вокал, барабаны
+- name: Юрий Кривошеин
+  instruments: гитара
+- name: Тимур Поповкин
+  instruments: бас-балалайка
+- name: Moscow Beatballs
+  instruments: это своеобразная реставрация музыки, пропущенная одновременно через
+    призму времени и здорового юмора, чтобы исполнять любимые песни с использованием
+    всего технического арсенала современного джаза, блю
+clips:
+- id: 8754
+  type: weblink
+  url: https://www.facebook.com/moscowbeatballs/
+  name: Страница на FaceBook
+  sort_order: 0
+- id: 8756
+  type: weblink
+  url: https://www.facebook.com/moscowbeatballs/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 10296
+  type: youtube
+  url: https://www.youtube.com/watch?v=XPPm-JICYpQ
+  name: Moscow Beatballs at Vala&#353;sk&#253; &#353;pal&#237;&#269;ek 2018 Czech
+    Republic
+  comments: http://valasskyspalicek.kzvalmez.cz/
+  sort_order: 100
+- id: 10297
+  type: youtube
+  url: https://www.youtube.com/watch?v=T9i2PnmPJQs
+  name: 'Moscow Beatballs # Gdynia Blues Festival 2018 Poland'
+  comments: https://www.bluesclub.pl/
+  sort_order: 200
+- id: 8757
+  type: weblink
+  url: http://www.moscowbeatballs.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 8758
+  type: photo
+  url: moscow-beatballs.jpg
+  sort_order: 0
+  width: 1400
+  height: 1400
+- id: 10298
+  type: youtube
+  url: https://www.youtube.com/watch?v=iWVnY5YRfzs
+  name: 'Moscow Beatballs # Suwa&#322;ki Blues Festival 2018 Poland'
+  comments: http://suwalkiblues.com http://rozmarino.pl
+  sort_order: 300
+- id: 10295
+  type: youtube
+  url: https://www.youtube.com/watch?v=GGTUUeis4xE
+  name: Moscow Beatballs @10 Blues Festival Frauenfeld 2019 (Switzerland)
+  comments: 16.03.2019http://www.bluesfestival-frauenfeld.ch/http://www.moscowbeatballs.ru
+  sort_order: 0
+- id: 11198
+  type: mp3
+  url: moscow-beatballs-3.mp3
+  name: Fastest Boy (Live at Radio RUSA)
+  sort_order: 299
+- id: 11199
+  type: mp3
+  url: moscow-beatballs-4.mp3
+  name: Boobs (Live at Radio RUSA)
+  sort_order: 399
+- id: 11196
+  type: mp3
+  url: moscow-beatballs.mp3
+  name: It Don't Mean A Thing
+  sort_order: 99
+- id: 11197
+  type: mp3
+  url: moscow-beatballs-2.mp3
+  name: Giant Steps
+  sort_order: 199
+reviews:
+- id: 505
+  reviewer_id: 7
+  reviewer_name: Дом у Дороги
+  reviewer_token: roadhouseclub
+  header: '"Микс-коктейль для гурманов"'
+  text: http://www.heavymusic.ru/article/281/
+  verified: true
+  created: '2019-05-09'
+  is_press_release: false
+- id: 512
+  reviewer_id: 7
+  reviewer_name: Дом у Дороги
+  reviewer_token: roadhouseclub
+  header: Moscow Beatballs in British Rock and Roll magazine Maggie's Blue Suede News
+  text: Спасибо Ричард Хьюм за отличную статью! www.bluesuedenews.co.uk https://www.facebook.com/moscowbeatballs/photos/a.1937017986621089/2667392293583651/
+  verified: true
+  created: '2020-05-08'
+  is_press_release: false
+- id: 507
+  reviewer_id: 7
+  reviewer_name: Дом у Дороги
+  reviewer_token: roadhouseclub
+  header: 'Moscow Beatballs #Вшоубизе24нн'
+  text: https://vk.com/wall-145431998_321
+  verified: true
+  created: '2019-05-09'
+  is_press_release: false
+- id: 506
+  reviewer_id: 7
+  reviewer_name: Дом у Дороги
+  reviewer_token: roadhouseclub
+  header: статья о CD Jazz Deformation
+  text: https://jazzquad.ru/index.pl?act=PRODUCT&id=5079
+  verified: true
+  created: '2019-05-09'
+  is_press_release: false

@@ -1,0 +1,91 @@
+- id: 57972
+  date: '2016-04-10'
+  time: '20:00'
+  band_name: Наталья Кривовяз (вокал), Игорь Байбуров (гитара), Владимир Писанко (барабан
+    и вокал), Павел Писанко (тромбон), Виктор Буланов (фортепиано)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 56615
+  date: '2016-02-11'
+  time: '20:00'
+  band_name: Наталья Фефелова (вокал) и друзья. Концерт в честь дня рождения.
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 57255
+  date: '2016-03-09'
+  time: '20:00'
+  band_name: Eve Cornelious (вокал, США) и трио Ивана Фармаковского (фортепиано, Москва)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+  extra_bands:
+  - id: 150
+    name: Трио Ивана Фармаковского
+    token: farmakovsky
+- id: 57743
+  date: '2016-04-14'
+  time: '20:00'
+  band_id: 716
+  band_name: Corey Harris
+  band_token: corey-harris
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 60590
+  date: '2016-09-02'
+  time: '20:00'
+  band_name: Сергей Долженков (тромбон, Москва), Георгий Фефелов (фортепиано), Алексей
+    Пиоттух (контрабас)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 62220
+  date: '2016-12-02'
+  time: '20:00'
+  band_name: Влад Сухих (саксофон), Игорь Байбуров (бас-гитара), Георгий Фефелов (рояль)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 62221
+  date: '2016-12-03'
+  time: '20:00'
+  band_name: Влад Сухих (саксофон), Николай Иванов (труба), Алексей Пиоттух (контрабас),
+    Георгий Фефелов (рояль)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 61776
+  date: '2016-11-16'
+  time: '20:00'
+  band_name: 'Real Illusions Quartet: Godwin Louis (альт-саксофон, Нью-Йорк), Алексей
+    Подымкин (фортепиано, Москва), Макар Новиков (контрабас, Москва), Саша Машин (ударные,
+    Москва)'
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 61777
+  date: '2016-11-12'
+  time: '20:00'
+  band_name: Аркадий Шилклопер (валторна, Россия/Австрия) и Вадим Неселовский (рояль,
+    США)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 61778
+  date: '2016-11-05'
+  time: '20:00'
+  band_name: Наталья Фефелова (вокал), Михаил Талейко (гитара), Алексей Пиоттух (контрабас),
+    Георгий Фефелов (рояль)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz
+- id: 61779
+  date: '2016-11-04'
+  time: '20:00'
+  band_name: Николай Иванов (труба), Владимир Денде (барабаны), Алексей Пиоттух (контрабас),
+    Георгий Фефелов (рояль)
+  club_id: 277
+  club_name: Джаз Кафе Underground
+  club_token: underground-jazz

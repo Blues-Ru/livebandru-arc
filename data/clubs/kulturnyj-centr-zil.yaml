@@ -1,0 +1,14 @@
+id: 867
+token: kulturnyj-centr-zil
+name: Культурный центр "ЗИЛ"
+alive: true
+address: ул. Восточная, д. 4, корп. 1
+subway: Автозаводская
+phone: +7(495)675-1636
+city_id: 1
+clips:
+- id: 8201
+  type: weblink
+  url: http://zilcc.ru/
+  name: Официальный сайт
+  sort_order: 0

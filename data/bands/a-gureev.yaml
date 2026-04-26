@@ -1,0 +1,16 @@
+id: 481
+token: a-gureev
+name: Александр Гуреев
+alive: true
+city_id: 1
+genre_id: 2
+musicians:
+- name: Александр Гуреев
+  instruments: тенор и сопрано саксофоны
+clips:
+- id: 2215
+  type: photo
+  url: a-gureev.jpg
+  sort_order: 0
+  width: 200
+  height: 295

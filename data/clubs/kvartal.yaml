@@ -1,0 +1,20 @@
+id: 430
+token: kvartal
+name: Kvartal
+aliases: Квартал
+alive: true
+address: Казанская, 7
+subway: Гостиный Двор, Невский Проспект
+city_id: 2
+comments: Вход через арку между домами 5 и 7
+clips:
+- id: 2007
+  type: weblink
+  url: http://www.kvartal.in/
+  name: Официальный сайт
+  sort_order: 0
+- id: 2008
+  type: weblink
+  url: http://vk.com/club14370530
+  name: Страница ВКонтакте
+  sort_order: 100

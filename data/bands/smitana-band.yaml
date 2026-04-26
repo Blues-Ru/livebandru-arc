@@ -1,0 +1,121 @@
+id: 261
+token: smitana-band
+name: Smitanaband
+aliases: 'Smitana
+
+  Smitana Band'
+alive: true
+url: http://www.smitanaband.ru
+city_id: 1
+genre_id: 2
+secondary_genre_id: 1
+musicians:
+- name: Наташа "Смитана"
+  instruments: вокал
+- name: Павел "Паштет" Мартыненко
+  instruments: гитара
+- name: Асия Шакирова
+  instruments: клавишные
+- name: Андрей Шило / Денис "Питон"
+  instruments: бас
+- name: Александр "Урфин" Мельник
+  instruments: ударные
+references:
+- id: 262
+  name: C.L.O.N.E.
+  token: clone
+clips:
+- id: 870
+  type: weblink
+  url: http://www.myspace.com/smitanaband
+  name: Страница на MySpace
+  sort_order: 99
+- id: 871
+  type: weblink
+  url: http://www.smitanaband.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 873
+  type: weblink
+  url: http://vk.com/club17330728
+  name: Страница ВКонтакте
+  sort_order: 299
+- id: 874
+  type: weblink
+  url: http://www.youtube.com/smitanaband
+  name: Ролики на YouTube
+  sort_order: 399
+- id: 1271
+  type: youtube
+  url: http://www.youtube.com/?v=NXAg3nFuHuY
+  name: SMITANABAND @ mstrsk | "DO YOUR THING"
+  comments: Премьера песни "Do your thing" на happy b-day party группы SMITANABAND
+    в "Мастерской" 21/10
+  sort_order: 299
+- id: 1272
+  type: youtube
+  url: http://www.youtube.com/?v=nFUY0zGgdcU
+  name: SMITANABAND @ mstrsk | "DR. FEELGOOD"
+  comments: Легендарный хит Ариты Франклин (Aretha Franklin) "Dr. Feelgood" (фрагмент)
+    в исполнении группы SMITANABAND
+  sort_order: 0
+- id: 1273
+  type: youtube
+  url: http://www.youtube.com/?v=bc4QosyHHUw
+  name: SMITANABAND @ mstrsk | "PAINT A PICTURE"
+  comments: Новая песня "Paint a picture" группы SMITANABAND, исполненная на happy
+    b-day party в клубе "Мастерская" 21 октября
+  sort_order: 399
+reviews:
+- id: 39
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'группа "SMITANABAND" исполняет собственные funk/blues/neo-soul вещи, не обходя
+    вниманием jazz&blues каноны (aretha franklin, ella fitzgerald, duke ellington,
+    telonius monk), а также композиции икон фанка (chaka khan, roy ayers, anita backer),
+    создавая для них стильные авторские аранжировки.
+
+
+    сегодня у группы 2 программы – лаунжевая, мягкая, которая служит прекрасным фоном
+    для беседы, и самодостаточные, яркие сеты в стиле jazz&funk, на которые трудно
+    не обратить внимание, и очень хочется танцевать. обе программы преимущественно
+    на английском языке с редкими вкраплениями русского.
+
+
+    в 70-х песню "dr. feelgood" пела королева соула и r''n''b – aretha franklin. cпустя
+    40 лет группа "SMITANABAND" сделала почти невозможное. вновь подняв песню на отчаянную
+    высоту по исполнению и аранжировке, они заставляют публику на своих концертах
+    буквально неистовствовать под "д-р все-хорошо".'
+  verified: false
+  created: '2010-10-01'
+  is_press_release: true
+- id: 38
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'наташа "смитана" | лидер и основательница группы. главная девушка российского
+    фанка, но в этом проекте поет кроме него jazz, blues и neo-soul, и тогда случается
+    удивительное. звучат непререкаемые джазовые каноны – ella fitzgerald, duke ellington,
+    aretha franklin, telonius monk – но в весьма смелых интерпретациях, где соул стремительно
+    переходит в фанк, а в ритм''н''блюз вдруг врывается хип-хоп. это смешение стилей
+    легко управляется вокалом смитаны и поддерживается ее пластичностью. на сцене
+    смитана с 16 лет, начинала с рэпа и рагга-мафина, став в конце 90-х одной из первых
+    девочек-mc в России, прозвучав на радиостанции 106. 8 fm вместе с группой "da
+    budz". солистка и автор песен фанк-проекта "C.L.O.N.E."
+
+
+    александр "урфин" | еще один лидер и основатель группы "smitanaband". ритм и мозг
+    группы. до этого создал группы "positive vibrators", "люди собрались" (где пела
+    и смитана), "clean tone", является основателем фанк-группы "C.L.O.N.E." и вообще
+    продвигал "фанк" как музыкальное направление, когда в россии о нем еще никто не
+    знал. играл в проектах "ДаБац" и со многими исполнителями "рэггей" – филиппом
+    никаноровым из "карибасов", с герой моралесом, мс звонким и пр., в группе "МАО"
+    дюши фанки, с американским саксофонистомс майком эллисом в группе "afromama".
+    последние пару лет работал с музыкантами джорджа клинтона, в результате чего вышел
+    сингл "regenerator" с участием их покойного вокалиста garry shider и клавишником
+    danny bedrosian. они записали вместе 5 треков, 4 из которых вышли в 2010 на его
+    альбоме "monsterpeace".'
+  verified: false
+  created: '2010-10-01'
+  is_press_release: true

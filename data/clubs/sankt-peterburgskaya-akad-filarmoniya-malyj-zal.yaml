@@ -1,0 +1,14 @@
+id: 849
+token: sankt-peterburgskaya-akad-filarmoniya-malyj-zal
+name: Санкт-Петербургская Акад. Филармония. Малый зал
+alive: true
+address: Невский проспект, дом 30
+subway: Невский проспект
+phone: +7(812)571-83-33
+city_id: 2
+clips:
+- id: 7914
+  type: weblink
+  url: http://www.philharmonia.spb.ru
+  name: Официальный сайт
+  sort_order: 0

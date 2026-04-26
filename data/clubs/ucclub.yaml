@@ -1,0 +1,70 @@
+id: 100
+token: ucclub
+name: Союз Композиторов
+aliases: Джаз-клуб "Союз композиторов"
+alive: true
+address: Брюсов пер., 8/10, стр. 2
+subway: Охотный ряд, Пушкинская
+phone: 629-6563
+city_id: 1
+clips:
+- id: 33
+  type: weblink
+  url: http://www.ucclub.ru
+  name: Официальный сайт
+  sort_order: 0
+- id: 2975
+  type: photo
+  url: ucclub.jpg
+  sort_order: 0
+  width: 1200
+  height: 758
+- id: 2976
+  type: photo
+  url: ucclub-2.jpg
+  sort_order: 100
+  width: 528
+  height: 353
+- id: 2977
+  type: photo
+  url: ucclub-3.jpg
+  sort_order: 200
+  width: 528
+  height: 353
+- id: 2980
+  type: weblink
+  url: http://www.facebook.com/ucclub
+  name: страница клуба на Facebook
+  sort_order: 100
+- id: 2981
+  type: weblink
+  url: http://vk.com/ucclub
+  name: страница клуба ВКонтакте
+  sort_order: 200
+- id: 2978
+  type: photo
+  url: ucclub-4.jpg
+  sort_order: 300
+  width: 528
+  height: 353
+reviews:
+- id: 262
+  reviewer_id: 1
+  reviewer_name: пресс-релиз
+  reviewer_token: press-release
+  text: 'Музыкальная Москва уже знает, что такое джаз клуб "Союз композиторов": это
+    не просто клуб, это самая авторитетная джазовая площадка столицы на сегодняшний
+    день.
+
+
+    Интерьеры клуба - работа дизайнера Сергея Третьяка, известного такими работами,
+    как ресторан "Театро", "Огни", кафе "Скромное обаяние буржуазии", "Black October"
+    и многими другими. Великолепная кухня - гастрономическая эклектика с учетом этно-герграфических
+    кулинарных трендов. Стоит отметить, что большинство блюд - диетические, они создавались
+    вместе со специалистами по рациональному питанию. Клуб располагает богатой коллекцией
+    вин и сигар. Клуб оснащен современным звуковым оборудованием с возможностью записи
+    живого выступления. Более 110 гостей могут комфортно разместиться в клубе в режиме
+    концерта.'
+  verified: true
+  created: '2011-12-27'
+  is_press_release: true

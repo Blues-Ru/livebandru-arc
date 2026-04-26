@@ -1,0 +1,25 @@
+id: 826
+token: lets-twist
+name: Let's Twist Bar
+alive: true
+address: Комсомольский просп., 28
+subway: Фрунзенская
+phone: (495) 276-21-91
+city_id: 1
+comments: в здании МДМ
+clips:
+- id: 7341
+  type: weblink
+  url: http://twist-bar.ru/
+  name: Официальный сайт
+  sort_order: 0
+- id: 7342
+  type: weblink
+  url: https://www.facebook.com/vbaretwist/
+  name: Страница на FaceBook
+  sort_order: 100
+- id: 7343
+  type: weblink
+  url: https://vk.com/vbaretwist
+  name: Страница ВКонтакте
+  sort_order: 200

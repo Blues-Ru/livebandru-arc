@@ -1,0 +1,19 @@
+id: 137
+token: durov
+name: Арт-кафе ДуровЪ
+aliases: 'Арт-кафе "Дуровъ"
+
+  Дуровъ
+
+  Дуров'
+alive: true
+address: Павловская, 6
+subway: Добрынинская, Серпуховская, Тульская
+phone: (495) 952 32 10, 952 20 64
+city_id: 1
+clips:
+- id: 46
+  type: weblink
+  url: http://www.art-durov.ru/
+  name: Официальный сайт
+  sort_order: 0

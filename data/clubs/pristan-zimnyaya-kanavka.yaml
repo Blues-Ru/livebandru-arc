@@ -1,0 +1,15 @@
+id: 841
+token: pristan-zimnyaya-kanavka
+name: Пристань "Зимняя канавка"
+aliases: Джаз-клуб "Квадрат"
+alive: true
+address: Дворцовая наб., 32
+subway: Адмиралтейская, Невский проспект
+phone: +7(812)681-8099, +7(921)332-0615
+city_id: 2
+clips:
+- id: 7703
+  type: weblink
+  url: http://www.jckvadrat.ru/
+  name: Официальный сайт
+  sort_order: 0

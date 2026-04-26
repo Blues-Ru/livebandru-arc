@@ -1,0 +1,208 @@
+- id: 23562
+  date: '2012-01-01'
+  time: '17:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  comments: Первый концерт Года !
+- id: 24287
+  date: '2012-01-28'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 24407
+  date: '2012-01-21'
+  time: '18:00'
+  band_name: Горячие The Road Dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  comments: http://www.graffiti.by/2012/the-road-dogs/
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 24591
+  date: '2012-02-17'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 25359
+  date: '2012-02-25'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 24590
+  date: '2012-02-04'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 25611
+  date: '2012-03-31'
+  time: '18:00'
+  band_name: Невероятные The Road Dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 26958
+  date: '2012-04-07'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 26880
+  date: '2012-04-21'
+  time: '18:00'
+  band_name: Блюзовые The Road Dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 26881
+  date: '2012-05-19'
+  time: '18:00'
+  band_name: Неповторимые The Road Dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+  extra_bands:
+  - id: 400
+    name: The Road Dogs
+    token: road-dogs
+- id: 27860
+  date: '2012-05-26'
+  time: '19:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 28577
+  date: '2012-06-23'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 28677
+  date: '2012-07-28'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 29229
+  date: '2012-08-25'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 29109
+  date: '2012-09-01'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 29110
+  date: '2012-09-15'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 29387
+  date: '2012-09-22'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 30069
+  date: '2012-10-13'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 30624
+  date: '2012-10-20'
+  time: '18:00'
+  band_id: 390
+  band_name: Cross B Band
+  band_token: cross-b-band
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 30830
+  date: '2012-11-10'
+  time: '19:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 30863
+  date: '2012-12-01'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti
+- id: 30865
+  date: '2012-12-29'
+  time: '18:00'
+  band_id: 400
+  band_name: The Road Dogs
+  band_token: road-dogs
+  club_id: 170
+  club_name: Граффити
+  club_token: graffiti

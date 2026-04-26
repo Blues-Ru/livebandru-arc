@@ -1,0 +1,61 @@
+id: 778
+token: companets
+name: Companets & Co
+alive: true
+city_id: 1
+genre_id: 1
+secondary_genre_id: 3
+musicians:
+- name: Алена Компанец
+  instruments: вокал
+- name: Юрий Новгородский
+  instruments: соло-гитара
+- name: Василий Мотылец
+  instruments: бас-гитара
+- name: Данила Ленци
+  instruments: барабаны
+clips:
+- id: 11200
+  type: youtube
+  name: Companets & Co "Save Me" (cover)
+  sort_order: 0
+- id: 11201
+  type: youtube
+  url: https://youtu.be/HeQr2qP-Brw
+  name: Companets & Co "Voodoo Woman" (cover)
+  sort_order: 100
+- id: 11202
+  type: weblink
+  url: Companets_official
+  name: Instagram
+  sort_order: 0
+- id: 11203
+  type: weblink
+  url: https://vk.com/alena_kompanets
+  name: Страница ВКонтакте
+  sort_order: 100
+- id: 11205
+  type: youtube
+  url: https://youtu.be/TRsW1zPbmAI
+  name: Companets Alena "Pretty Woman" (cover)
+  sort_order: 200
+- id: 11206
+  type: youtube
+  url: https://youtu.be/SwNM7KwSgYI
+  name: Companets Alena "Hot Spell" (cover)
+  sort_order: 300
+- id: 11204
+  type: weblink
+  url: https://www.facebook.com/profile.php?id=100023874923199
+  name: Страница на FaceBook
+  sort_order: 200
+- id: 11207
+  type: weblink
+  name: Официальный сайт
+  sort_order: 0
+- id: 11218
+  type: photo
+  url: companets.png
+  sort_order: 0
+  width: 1413
+  height: 1999

@@ -1,0 +1,68 @@
+- id: 36109
+  date: '2013-06-08'
+  time: '21:00'
+  band_id: 594
+  band_name: Yet No Name
+  band_token: 1582ma
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+  price: 250 руб.
+- id: 39114
+  date: '2013-10-23'
+  time: '19:00'
+  band_name: Борис Булкин и Stainless Blues Band, Юрий Мирошниченко и Peps Division,
+    Леван Ломидзе и Blues Cousins, Wild Traffic, Вячеслав Капорин, Петр Красов, Андрей
+    Цехер, Анна Сухоставская, Jackob Blues Band (Одесса, UA)
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+  comments: Вечер памяти Грегори Мошеля
+  extra_bands:
+  - id: 4
+    name: Stainless Blues Band
+    token: stainless
+  - id: 1
+    name: Blues Cousins
+    token: blues-cousins
+  - id: 382
+    name: Wild Traffic
+    token: wild-traffic
+- id: 40832
+  date: '2013-12-27'
+  time: '20:00'
+  band_name: Fly Mexican Airlines®, Blues Gravity
+  club_id: 79
+  club_name: Mezzo Forte
+  club_token: mezzo-forte
+  price: 400 руб.
+  comments: "Друзья !\r\n\r\nПриглашаем Вас на завершительную вечеринку 2013 г. ,\
+    \ фестиваль МОСКОВСКИЙ BEAT , что пройдет 27 декабря (пятница) в клубе Mezzoforte!\r\
+    \n\r\nВсе самые известные песни в стилях Rock-n-Roll, Beat , Blues, Classic Rock!\r\
+    \nТолько самое веселое настроение и самая праздничная атмосфера для Вас!\r\n\r\
+    \nВсех с Наступающим!\r\n\r\nHEARTBEAT http://vk.com/heartbeatband - исполняет\
+    \ кавер-версии песен The Beatles, The Kinks, The Who, Gerry and The Pacemakers,\
+    \ The Hollies и многих других ретро-рок-групп, а также ряд собственных песен в\
+    \ стиле золотой эпохи 60-х!\r\n\r\nВ этот раз коллектив приготовил специальную\
+    \ unplugged программу.\r\n\r\nSTONE SHADES http://vk.com/club889262 - (Rolling\
+    \ Stones, Chuck Berry, Elvis Presley, Dire Straits)\r\n\r\nСпециальный гость Дмитрий\
+    \ Юрченко из Heartbeat выступит в качестве электрического гитариста .\r\n\r\n\
+    BLUES GRAVITY http://vk.com/blues_gravity- Супер power rock trio! Кирилл Гуцков\
+    \ из Dans Ramblers , Сергей Виноградов из Julia Strangelove , Александр Половинкин\
+    \ из... практически всех хороших московских групп!) (The Beatles, The Rolling\
+    \ Stones, Led Zeppelin, Deep Purple, Queen, The Doors, ZZTop, AC/DC, Jimi Hendrix)\r\
+    \n\r\nROCKING SUN http://vk.com/rocking_sun - - московский The Doors tribute и\
+    \ не только ! ( Doors, Beatles, John Lennon)\r\n\r\nFLY MEXICAN AIRLINES® http://vk.com/flymexicanairlines\
+    \ - группу организовал Дмитрий Соленов , он же , когда то давно вместе с Кириллом\
+    \ Гуцковым организовал Dans Ramblers! а также .....Rolling Stones, Kinks, Chuck\
+    \ Berry,Beatles, Mick Jagger, Black Crowes :)\r\n\r\nначало в 20.00\r\n\r\nвход\
+    \ 500 и 400р. по флаеру\r\n\r\nКлуб Mezzoforte:Бронирование столиков: 8(495) 602\
+    \ 2446\r\n\r\nАдрес клуба: Москва, Ул. 1-я Останкинская стр. 53 (Торговый Центр)\
+    \ метро \"ВДНХ\""
+  extra_bands:
+  - id: 594
+    name: Yet No Name
+    token: 1582ma
+  - id: 470
+    name: Blues Gravity
+    token: blues-gravity

@@ -1,0 +1,15 @@
+id: 404
+token: shantil
+name: Шантиль
+aliases: Шантиль на Большой Грузинской
+alive: true
+address: Б. Грузинская, 57
+subway: Белорусская
+phone: (499) 766-71-73
+city_id: 1
+clips:
+- id: 1802
+  type: weblink
+  url: http://www.shantil.ru
+  name: Официальный сайт
+  sort_order: 0
