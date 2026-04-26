@@ -769,7 +769,9 @@ def generate_lists(env, bands, clubs, cities, genres):
         write_html(SITE / 'all' / 'clubs' / letter / 'index.html', tmpl_alpha.render(**lctx))
 
     # ---- City list ----
-    cities_sorted = sorted(cities, key=lambda c: cyrillic_sort_key(c['name']))
+    cities_sorted = sorted(
+        [c for c in cities if c.get('token')],
+        key=lambda c: cyrillic_sort_key(c['name']))
     items_ctx = [
         {'title': c['name'], 'url': f"/city/{c['token']}", 'categories': [],
          'description': f"{c['band_count']} групп, {c['club_count']} клубов" if c['band_count'] or c['club_count'] else None,
