@@ -888,6 +888,7 @@ def copy_static():
             shutil.copytree(s, d, dirs_exist_ok=True)
         else:
             shutil.copy2(s, d)
+    shutil.copy2(TMPL / '404.html', dst / '404.html')
 
 
 def generate_search(bands, clubs, cities, genres):
