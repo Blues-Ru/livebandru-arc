@@ -254,10 +254,10 @@ def weblink_label(url: str) -> str:
         return url
 
 
-def build_item_pages(token, base_url, has_gigs, has_music,
+def build_item_pages(name, base_url, has_gigs, has_music,
                      has_press_release, has_reviews, has_photos):
     """Build the contextMenu pages list for a band."""
-    pages = [{'url': base_url + '/', 'title': 'О себе', 'order': 0}]
+    pages = [{'url': base_url + '/', 'title': name, 'order': 0}]
     if has_reviews:
         pages.append({'url': base_url + '/reviews/', 'title': 'О группе', 'order': 1})
     if has_photos:
@@ -269,8 +269,8 @@ def build_item_pages(token, base_url, has_gigs, has_music,
     return pages
 
 
-def build_club_pages(token, base_url, has_gigs, has_reviews):
-    pages = [{'url': base_url + '/', 'title': 'О клубе', 'order': 0}]
+def build_club_pages(name, base_url, has_gigs, has_reviews):
+    pages = [{'url': base_url + '/', 'title': name, 'order': 0}]
     if has_gigs:
         pages.append({'url': base_url + '/gigs/', 'title': 'Концерты', 'order': 1})
     if has_reviews:
@@ -406,7 +406,7 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
         web_links = [{**lnk, 'label': weblink_label(lnk.get('url', ''))}
                      for lnk in web_links]
 
-        item_pages = build_item_pages(token, base_url, has_gigs, has_music,
+        item_pages = build_item_pages(band['name'], base_url, has_gigs, has_music,
                                       has_press_release, has_reviews, has_photos)
 
         top_clubs = compute_top_clubs_for_band(bid, gigs_by_band, clubs_by_id)
@@ -507,7 +507,7 @@ def generate_clubs(env, clubs, gigs_by_club, bands_by_id):
         has_gigs    = club['gig_count'] > 0
         has_reviews = bool(club.get('reviews'))
 
-        item_pages = build_club_pages(token, base_url, has_gigs, has_reviews)
+        item_pages = build_club_pages(club['name'], base_url, has_gigs, has_reviews)
         top_bands  = compute_top_bands_for_club(cid, gigs_by_club, bands_by_id)
 
         first_rev, all_revs = first_review_sample(club.get('reviews') or [])
@@ -592,7 +592,7 @@ def generate_cities(env, cities, bands, clubs):
             'item_type_name': 'Город',
             'item_alive': True,
             'item_categories': [],
-            'item_pages': [{'url': f'/city/{token}/', 'title': 'О городе', 'order': 0}],
+            'item_pages': [{'url': f'/city/{token}/', 'title': city['name'], 'order': 0}],
             'current_page_url': f'/city/{token}/',
             'web_links': web_links,
             'top_bands': city_bands_top[:TOP_LIST_COUNT],
@@ -663,7 +663,7 @@ def generate_genres(env, genres, bands):
             'item_type_name': 'Жанр',
             'item_alive': True,
             'item_categories': [],
-            'item_pages': [{'url': f'/genre/{token}/', 'title': 'О жанре', 'order': 0}],
+            'item_pages': [{'url': f'/genre/{token}/', 'title': genre['name'], 'order': 0}],
             'current_page_url': f'/genre/{token}/',
             'top_bands': genre_bands_top[:TOP_LIST_COUNT],
             'all_bands_url': f'/genre/{token}/bands/',

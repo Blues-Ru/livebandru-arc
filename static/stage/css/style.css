@@ -329,8 +329,6 @@
 	#lcol #fastsearchForm input {position: static;}
 	#lcol #fastsearchForm .txt {display: block;width: 100%;height: 13px;padding: 2px 6px;box-sizing: border-box;border: 1px solid #c4a98a;border-radius: 8px;background-color: #eee8e1;color: #404040;font: 11px/13px 'Tahoma', sans-serif;}
 	#lcol #fastsearchForm .txt:focus {outline: 1px solid #8b6347;border-color: #8b6347;background-color: #faf7f3;}
-	/* nav sections — visible by default; JS may hide when search yields no results */
-	#rubricator .nav-section.hidden {display: none;}
 	/* nav list items — plain links, no pick icon */
 	#rubricator ul li a {padding-left: 8px;}
 	#rubricator ul li a.more {padding-left: 8px;}

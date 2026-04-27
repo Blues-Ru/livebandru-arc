@@ -47,10 +47,9 @@
 
   function restoreAll() {
     SECTIONS.forEach(function (s) {
-      if (s.wrap) s.wrap.className = 'nav-section';
-      // Restore original baked-in list by removing any search-injected content.
-      // The baked HTML is stored in s.origHTML (set on first search).
-      if (s.origHTML !== undefined && s.ul) s.ul.innerHTML = s.origHTML;
+      if (!s.ul) return;
+      s.ul.style.display = '';
+      if (s.origHTML !== undefined) s.ul.innerHTML = s.origHTML;
     });
   }
 
@@ -81,9 +80,9 @@
       list = list.slice(0, 5);
 
       if (list.length === 0) {
-        s.wrap.className = 'nav-section hidden';
+        s.ul.style.display = 'none';
       } else {
-        s.wrap.className = 'nav-section';
+        s.ul.style.display = '';
         s.ul.innerHTML = list.map(function (e) {
           return '<li><a href="' + e.url + '">' + e.title + '</a></li>';
         }).join('');
