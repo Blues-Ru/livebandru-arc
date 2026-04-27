@@ -1,0 +1,20 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ band.name }} — Фото — LiveBand.Ru{% endblock %}
+{% block content %}
+{% include "item_nav.html.j2" %}
+
+<div class="photoGallery">
+{% for clip in photo_clips %}
+<div class="photoItem">
+  <a href="/band/{{ band.token }}/images/{{ clip.url }}" target="_blank">
+    <img src="/band/{{ band.token }}/images/{{ clip.url }}" title="{{ clip.name or band.name }}" />
+  </a>
+  {% if clip.name or clip.comments %}
+  <p class="photoCaption">{{ clip.name }}{% if clip.name and clip.comments %} — {% endif %}{{ clip.comments }}</p>
+  {% endif %}
+</div>
+{% else %}
+<p class="main">Фотографии не добавлены.</p>
+{% endfor %}
+</div>
+{% endblock %}

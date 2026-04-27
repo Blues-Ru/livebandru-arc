@@ -54,6 +54,11 @@
 	.contentZone blockquote p {margin: 0;}
 	.contentZone p.more {margin: -15px 0 7px !important;text-align: right !important;font: 12px/15px 'Georgia', serif !important;}
 	.contentZone div.photo {float: left;margin: 5px 20px 10px 0;}
+	.contentZone div.photo img {max-width: 200px;height: auto;}
+	.photoGallery {display: flex;flex-wrap: wrap;gap: 12px;padding: 10px 0;}
+	.photoGallery .photoItem {flex: 0 0 auto;}
+	.photoGallery .photoItem img {max-width: 200px;height: auto;display: block;}
+	.photoGallery .photoCaption {font-size: 11px;color: #666;margin: 3px 0 0;max-width: 200px;}
 	.contentZone h3 {xxclear: both;margin: 20px 0px 10px 0px;font: 18px 'Georgia',sans-serif;}
 	.contentZone .forward,
 	.contentZone .backward {margin: 0px 0px 10px 0px;font: 13px/19px 'Georgia', serif;}
@@ -184,7 +189,7 @@
 	#tags small {font: 11px 'Tahoma', sans-serif;color: #404040;}
 	#tags a:hover {text-decoration: underline;}
 	
-	#contextMenu {border-top: 7px solid #000;width: 100%;}
+	#contextMenu {border-top: 7px solid #000;width: 100%;border-collapse: collapse;margin: 0;}
 	#contextMenu td {background: url(/stage/img/937964.dot.gif) repeat-x center bottom;}
 		#contextMenu td a,
 		#contextMenu td b
@@ -319,3 +324,9 @@
 	#photosBox div.thumbnail a.thumblink {display: block;margin: 0px 0px 5px 0px;}
 	#photosBox div.thumbnail a.subj {}
 	
+	#siteSearch {position: relative;margin: 0 0 10px;}
+	#searchInput {width: 100%;box-sizing: border-box;padding: 3px 5px;font: 11px 'Tahoma', sans-serif;border: 1px solid #cfc8c2;}
+	#searchResults {display: none;position: absolute;top: 100%;left: 0;right: 0;z-index: 100;margin: 0;padding: 0;list-style: none;background: #fff;border: 1px solid #cfc8c2;border-top: 0;max-height: 200px;overflow-y: auto;}
+	#searchResults li {border-bottom: 1px solid #f0ebe6;}
+	#searchResults li a {display: block;padding: 4px 7px;font: 11px 'Tahoma', sans-serif;color: #7a4430;}
+	#searchResults li a:hover {background: #f4f0ec;text-decoration: none;}

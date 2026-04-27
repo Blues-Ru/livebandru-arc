@@ -1,21 +1,18 @@
 {% extends "base.html.j2" %}
-{% block title %}{{ band.name }} — Рецензии — LiveBand.Ru{% endblock %}
+{% block title %}{{ band.name }} — О группе — LiveBand.Ru{% endblock %}
 {% block content %}
 {% include "item_nav.html.j2" %}
 
 {% for review in reviews %}
 <h3>
-  <a name="{{ review.reviewer_token }}">
-    {% if not review.is_press_release %}{{ review.reviewer_name }} — {% endif %}
-    {{ band.name }}
-    {% if review.is_press_release %} — пресс-релиз{% endif %}
-    {% if review.header %}: {{ review.header }}{% endif %}
+  <a name="{{ review.reviewer_token or 'review-' ~ loop.index }}">
+    {{ review.reviewer_name }} — {{ band.name }}{% if review.header %}: {{ review.header }}{% endif %}
   </a>
 </h3>
 <div class="main">
   {% if loop.first and main_photo %}
   <div class="photo">
-    <img src="/band/{{ band.token }}/images/{{ main_photo.thumb_url }}" title="{{ band.name }}" />
+    <img src="/band/{{ band.token }}/images/{{ main_photo.url }}" title="{{ band.name }}" />
   </div>
   {% endif %}
   {{ review.text | safe }}

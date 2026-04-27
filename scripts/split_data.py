@@ -76,6 +76,8 @@ def split_entities(name: str, key: str = "token"):
     seen: set[str] = set()
     for item in items:
         slug = item[key]
+        if not slug:
+            raise ValueError(f"{name} id={item['id']} has no {key!r} — fix source data before splitting")
         if slug in seen:
             slug = f"{slug}-{item['id']}"
         seen.add(slug)

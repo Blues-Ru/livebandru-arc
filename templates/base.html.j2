@@ -4,6 +4,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>{% block title %}LiveBand.Ru{% endblock %}</title>
+    <script src="/stage/js/search.js" defer></script>
     <link type="text/css" rel="stylesheet" href="/stage/favstyle.css">
     <link rel="shortcut icon" href="/images/liveband.ico" />
     <link rel="stylesheet" type="text/css" href="/stage/css/defaults.css" media="screen">
@@ -24,6 +25,10 @@
       <div class="nopr" id="lcol">
         <div id="rubricator">
           {% block nav %}
+          <div id="siteSearch">
+            <input type="text" id="searchInput" placeholder="Поиск..." autocomplete="off" />
+            <ul id="searchResults"></ul>
+          </div>
           <h4><a href="/all/bands">Группы</a></h4>
           <h4><a href="/all/clubs">Клубы</a></h4>
           <h4><a href="/all/cities">Города</a></h4>

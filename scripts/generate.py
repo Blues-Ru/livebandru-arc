@@ -241,15 +241,31 @@ def get_main_photo(clips_list):
     return None
 
 
-def build_item_pages(token, base_url, has_gigs, has_music, has_reviews):
+def weblink_label(url: str) -> str:
+    """arsenshomakhov.ca  or  arsenshomakhov.ca/...  (no www.)"""
+    try:
+        p = urlparse(url)
+        host = p.netloc.lower()
+        if host.startswith('www.'):
+            host = host[4:]
+        path = p.path.rstrip('/')
+        return host + '/...' if path else host
+    except Exception:
+        return url
+
+
+def build_item_pages(token, base_url, has_gigs, has_music,
+                     has_press_release, has_reviews, has_photos):
     """Build the contextMenu pages list for a band."""
-    pages = [{'url': base_url + '/', 'title': 'О группе', 'order': 0}]
-    if has_gigs:
-        pages.append({'url': base_url + '/gigs/', 'title': 'Концерты', 'order': 1})
-    if has_music:
-        pages.append({'url': base_url + '/music/', 'title': 'Музыка', 'order': 2})
+    pages = [{'url': base_url + '/', 'title': 'О себе', 'order': 0}]
     if has_reviews:
-        pages.append({'url': base_url + '/reviews/', 'title': 'Рецензии', 'order': 3})
+        pages.append({'url': base_url + '/reviews/', 'title': 'О группе', 'order': 1})
+    if has_photos:
+        pages.append({'url': base_url + '/photo/', 'title': 'Фото', 'order': 2})
+    if has_gigs:
+        pages.append({'url': base_url + '/gigs/', 'title': 'Концерты', 'order': 3})
+    if has_music:
+        pages.append({'url': base_url + '/music/', 'title': 'Музыка', 'order': 4})
     return pages
 
 
@@ -366,6 +382,7 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
     tmpl_gigs    = env.get_template('band_gigs.html.j2')
     tmpl_reviews = env.get_template('band_reviews.html.j2')
     tmpl_music   = env.get_template('band_music.html.j2')
+    tmpl_photo   = env.get_template('band_photo.html.j2')
 
     for band in bands:
         token    = band['token']
@@ -375,16 +392,29 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
         web_links, youtube_clips, audio_clips, photo_clips = clips_for_band(band)
         main_photo = get_main_photo(photo_clips)
 
-        has_gigs    = band['gig_count'] > 0
-        has_music   = bool(youtube_clips or audio_clips)
-        has_reviews = bool(band.get('reviews'))
+        all_reviews     = band.get('reviews') or []
+        press_reviews   = [r for r in all_reviews if r.get('is_press_release')]
+        other_reviews   = [r for r in all_reviews if not r.get('is_press_release')]
 
-        item_pages = build_item_pages(token, base_url, has_gigs, has_music, has_reviews)
+        has_gigs          = band['gig_count'] > 0
+        has_music         = bool(youtube_clips or audio_clips)
+        has_press_release = bool(press_reviews)
+        has_reviews       = bool(other_reviews)
+        has_photos        = bool(photo_clips)
+
+        # Enrich web links with display label (hostname without www.)
+        web_links = [{**lnk, 'label': weblink_label(lnk.get('url', ''))}
+                     for lnk in web_links]
+
+        item_pages = build_item_pages(token, base_url, has_gigs, has_music,
+                                      has_press_release, has_reviews, has_photos)
 
         top_clubs = compute_top_clubs_for_band(bid, gigs_by_band, clubs_by_id)
 
-        first_rev, all_revs = first_review_sample(band.get('reviews') or [])
-        other_revs = [r for r in (all_revs or []) if r != first_rev] if first_rev else []
+        # First press release shown on О себе page; other reviews listed separately
+        first_press = ({**press_reviews[0],
+                        'text': format_review_text(press_reviews[0].get('text') or '')}
+                       if press_reviews else None)
 
         main_yt = youtube_clips[0]['youtube_id'] if youtube_clips else None
         music_clips_nav = []
@@ -410,9 +440,7 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
             'web_links': web_links,
             'main_photo': main_photo,
             'top_clubs': top_clubs,
-            'first_review': first_rev,
-            'first_review_section_title': 'В прессе' if first_rev and first_rev.get('is_press_release') else 'О группе',
-            'other_reviews': other_revs,
+            'press_review': first_press,
             'main_youtube': main_yt,
             'music_clips': music_clips_nav,
             'year_stats': year_stats,
@@ -422,7 +450,26 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
 
         write_html(SITE / 'band' / token / 'index.html', tmpl_main.render(**ctx))
 
-        # Gigs history page
+        # О группе — non-press-release reviews
+        if has_reviews:
+            rev_ctx = {
+                **ctx,
+                'current_page_url': base_url + '/reviews/',
+                'reviews': [{**r, 'text': format_review_text(r.get('text') or '')}
+                            for r in sorted(other_reviews, key=lambda r: -(r.get('id') or 0))],
+            }
+            write_html(SITE / 'band' / token / 'reviews' / 'index.html', tmpl_reviews.render(**rev_ctx))
+
+        # Фото — photo gallery
+        if has_photos:
+            photo_ctx = {
+                **ctx,
+                'current_page_url': base_url + '/photo/',
+                'photo_clips': photo_clips,
+            }
+            write_html(SITE / 'band' / token / 'photo' / 'index.html', tmpl_photo.render(**photo_ctx))
+
+        # Концерты
         if has_gigs:
             gig_ctx = {
                 **ctx,
@@ -431,18 +478,7 @@ def generate_bands(env, bands, gigs_by_band, gigs_by_club, clubs_by_id, bands_by
             }
             write_html(SITE / 'band' / token / 'gigs' / 'index.html', tmpl_gigs.render(**gig_ctx))
 
-        # Reviews page
-        if has_reviews:
-            rev_ctx = {
-                **ctx,
-                'current_page_url': base_url + '/reviews/',
-                'reviews': [{**r, 'text': format_review_text(r.get('text') or '')}
-                            for r in sorted(band.get('reviews') or [], key=lambda r: -(r.get('id') or 0))],
-                'main_photo': main_photo,
-            }
-            write_html(SITE / 'band' / token / 'reviews' / 'index.html', tmpl_reviews.render(**rev_ctx))
-
-        # Music page
+        # Музыка и видео
         if has_music:
             mus_ctx = {
                 **ctx,
@@ -854,6 +890,34 @@ def copy_static():
             shutil.copy2(s, d)
 
 
+def generate_search(bands, clubs, cities, genres):
+    index = []
+    for b in bands:
+        if not b.get('token'):
+            continue
+        entry = {'title': b['name'], 'url': f"/band/{b['token']}/", 'type': 'band'}
+        if b.get('aliases'):
+            entry['alt'] = b['aliases']
+        index.append(entry)
+    for c in clubs:
+        if not c.get('token'):
+            continue
+        entry = {'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'}
+        index.append(entry)
+    for city in cities:
+        if not city.get('token'):
+            continue
+        index.append({'title': city['name'], 'url': f"/city/{city['token']}/", 'type': 'city'})
+    for g in genres:
+        if not g.get('token'):
+            continue
+        index.append({'title': g['name'], 'url': f"/genre/{g['token']}/", 'type': 'genre'})
+    out = SITE / 'data' / 'search.json'
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f"  search.json: {len(index)} entries")
+
+
 def main():
     print("Loading data...")
     bands  = load_entities('bands')
@@ -894,6 +958,7 @@ def main():
     generate_cities(env, cities, bands, clubs)
     generate_genres(env, genres, bands)
     generate_lists(env, bands, clubs, cities, genres)
+    generate_search(bands, clubs, cities, genres)
 
     # Count output
     html_count = sum(1 for _ in SITE.rglob('*.html'))

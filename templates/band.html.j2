@@ -6,8 +6,8 @@
 <div id="aboutBox">
   {% if main_photo %}
   <div class="photo">
-    <a href="/band/{{ band.token }}/photo#{{ main_photo.url }}">
-      <img src="/band/{{ band.token }}/images/{{ main_photo.thumb_url }}" title="{{ band.name }}" />
+    <a href="/band/{{ band.token }}/photo/">
+      <img src="/band/{{ band.token }}/images/{{ main_photo.url }}" title="{{ band.name }}" />
     </a>
   </div>
   {% endif %}
@@ -15,7 +15,7 @@
   {% if web_links %}
   <p class="main">
     {% for link in web_links %}
-    <a href="{{ link.url }}" target="_blank"><bx>{{ link.name }}</bx></a>{% if link.comments %} - {{ link.comments }}{% endif %}<br />
+    <a href="{{ link.url }}" target="_blank"><bx>{{ link.label }}</bx></a>{% if link.comments %} - {{ link.comments }}{% endif %}<br />
     {% endfor %}
   </p>
   {% endif %}
@@ -55,29 +55,11 @@
   {% endif %}
 </div>
 
-{% if first_review %}
+{% if press_review %}
 <div id="groupReview">
-  <h4 class="und">{{ first_review_section_title }}</h4>
-  <h4>
-    <a href="/band/{{ band.token }}/reviews#{{ first_review.reviewer_token }}">
-      {% if first_review.header %}{{ first_review.header }} - {% endif %}{{ first_review.reviewer_name }}
-    </a>
-  </h4>
-  <p class="main">{{ first_review.text_sample }}</p>
-  <p class="more">
-    <a class="more" href="/band/{{ band.token }}/reviews#{{ first_review.reviewer_token }}">Читать далее...</a>
-  </p>
+  <h4 class="und">О группе</h4>
+  <div class="main">{{ press_review.text | safe }}</div>
 </div>
-{% if other_reviews %}
-<blockquote>
-  <p>
-    <b><ix>Другие тексты: </ix></b>&#32;
-    {% for r in other_reviews %}
-    <a href="/band/{{ band.token }}/reviews#{{ r.reviewer_token }}">{{ r.reviewer_name }}{% if r.header %}: {{ r.header }}{% endif %}</a>{% if not loop.last %}; {% endif %}
-    {% endfor %}
-  </p>
-</blockquote>
-{% endif %}
 {% endif %}
 
 {% if main_youtube %}
