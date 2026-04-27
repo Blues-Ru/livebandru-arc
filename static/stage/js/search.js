@@ -1,36 +1,26 @@
 (function () {
-  var SECTIONS = {
-    bands:  { key: 'bands',  all: '/all/bands',  label: 'все группы' },
-    clubs:  { key: 'clubs',  all: '/all/clubs',  label: 'все клубы'  },
-    cities: { key: 'cities', all: '/all/cities', label: 'все города' },
-    genres: { key: 'genres', all: '/all/genres', label: 'все жанры'  },
-  };
-  var ORDER = ['bands', 'clubs', 'cities', 'genres'];
+  var SECTIONS = [
+    { key: 'bands',  all: '/all/bands',  label: 'все группы' },
+    { key: 'clubs',  all: '/all/clubs',  label: 'все клубы'  },
+    { key: 'cities', all: '/all/cities', label: 'все города' },
+    { key: 'genres', all: '/all/genres', label: 'все жанры'  },
+  ];
 
-  var topData   = null;
   var searchIdx = null;
 
   function init() {
     var input = document.getElementById('searchInput');
     if (!input) return;
 
-    // Resolve DOM refs
-    ORDER.forEach(function (key) {
-      var s = SECTIONS[key];
-      s.ul   = document.getElementById('nav-' + key);
-      s.wrap = document.getElementById('nav-section-' + key);
-    });
-
-    // Load top list on startup
-    loadJson('/data/top.json', function (data) {
-      topData = data;
-      restoreTop();
+    SECTIONS.forEach(function (s) {
+      s.ul   = document.getElementById('nav-' + s.key);
+      s.wrap = document.getElementById('nav-section-' + s.key);
     });
 
     input.addEventListener('input', function () {
       var q = input.value.trim();
       if (!q) {
-        restoreTop();
+        restoreAll();
         return;
       }
       if (!searchIdx) {
@@ -48,36 +38,19 @@
     var xhr = new XMLHttpRequest();
     xhr.open('GET', url, true);
     xhr.onreadystatechange = function () {
-      if (xhr.readyState === 4) {
-        if (xhr.status === 200) {
-          try { cb(JSON.parse(xhr.responseText)); } catch (e) {}
-        }
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        try { cb(JSON.parse(xhr.responseText)); } catch (e) {}
       }
     };
     xhr.send();
   }
 
-  function setSection(key, items, showAll) {
-    var s = SECTIONS[key];
-    if (!s.ul || !s.wrap) return;
-    if (items.length === 0 && !showAll) {
-      s.wrap.style.display = 'none';
-      return;
-    }
-    s.wrap.style.display = '';
-    var html = items.map(function (e) {
-      return '<li><a href="' + e.url + '">' + e.title + '</a></li>';
-    }).join('');
-    if (showAll) {
-      html += '<li><a href="' + s.all + '" class="more">' + s.label + '</a></li>';
-    }
-    s.ul.innerHTML = html;
-  }
-
-  function restoreTop() {
-    if (!topData) return;
-    ORDER.forEach(function (key) {
-      setSection(key, topData[key] || [], true);
+  function restoreAll() {
+    SECTIONS.forEach(function (s) {
+      if (s.wrap) s.wrap.className = 'nav-section';
+      // Restore original baked-in list by removing any search-injected content.
+      // The baked HTML is stored in s.origHTML (set on first search).
+      if (s.origHTML !== undefined && s.ul) s.ul.innerHTML = s.origHTML;
     });
   }
 
@@ -91,17 +64,30 @@
       var bucket = typeMap[e.type];
       if (!bucket) continue;
       var hay = (e.title + ' ' + (e.alt || '')).toLowerCase();
-      var match = true;
+      var ok = true;
       for (var j = 0; j < words.length; j++) {
-        if (hay.indexOf(words[j]) === -1) { match = false; break; }
+        if (hay.indexOf(words[j]) === -1) { ok = false; break; }
       }
-      if (match) buckets[bucket].push(e);
+      if (ok) buckets[bucket].push(e);
     }
 
-    ORDER.forEach(function (key) {
-      var list = buckets[key];
+    SECTIONS.forEach(function (s) {
+      if (!s.ul || !s.wrap) return;
+      // Save original HTML the first time we touch this section.
+      if (s.origHTML === undefined) s.origHTML = s.ul.innerHTML;
+
+      var list = buckets[s.key] || [];
       list.sort(function (a, b) { return (b.n || 0) - (a.n || 0); });
-      setSection(key, list.slice(0, 5), false);
+      list = list.slice(0, 5);
+
+      if (list.length === 0) {
+        s.wrap.className = 'nav-section hidden';
+      } else {
+        s.wrap.className = 'nav-section';
+        s.ul.innerHTML = list.map(function (e) {
+          return '<li><a href="' + e.url + '">' + e.title + '</a></li>';
+        }).join('');
+      }
     });
   }
 

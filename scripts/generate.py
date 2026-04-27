@@ -971,6 +971,19 @@ def main():
         autoescape=False,
     )
 
+    def _top5(items, sort_key, url_prefix):
+        ranked = sorted([i for i in items if i.get('token')],
+                        key=lambda x: -(x.get(sort_key) or 0))[:5]
+        return [{'title': i['name'], 'url': f"/{url_prefix}/{i['token']}/"}
+                for i in ranked]
+
+    env.globals['nav_top'] = {
+        'bands':  _top5(bands,  'gig_count',  'band'),
+        'clubs':  _top5(clubs,  'gig_count',  'club'),
+        'cities': _top5(cities, 'band_count', 'city'),
+        'genres': _top5(genres, 'band_count', 'genre'),
+    }
+
     SITE.mkdir(parents=True, exist_ok=True)
 
     copy_static()

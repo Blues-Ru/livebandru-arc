@@ -28,22 +28,21 @@
           <form id="fastsearchForm" action="/search" onsubmit="return false;" autocomplete="off">
             <input type="text" class="txt" id="searchInput" placeholder="Поиск..." autofocus />
           </form>
-          <div class="nav-section" id="nav-section-bands">
-            <h4><a href="/all/bands">Группы</a></h4>
-            <ul id="nav-bands"></ul>
+          {% for key, label, all_url in [
+              ('bands',  'Группы', '/all/bands'),
+              ('clubs',  'Клубы',  '/all/clubs'),
+              ('cities', 'Города', '/all/cities'),
+              ('genres', 'Жанры',  '/all/genres')] %}
+          <div class="nav-section" id="nav-section-{{ key }}">
+            <h4><a href="{{ all_url }}">{{ label }}</a></h4>
+            <ul id="nav-{{ key }}">
+              {% for item in nav_top[key] %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              {% endfor %}
+              <li><a href="{{ all_url }}" class="more">все {{ label | lower }}</a></li>
+            </ul>
           </div>
-          <div class="nav-section" id="nav-section-clubs">
-            <h4><a href="/all/clubs">Клубы</a></h4>
-            <ul id="nav-clubs"></ul>
-          </div>
-          <div class="nav-section" id="nav-section-cities">
-            <h4><a href="/all/cities">Города</a></h4>
-            <ul id="nav-cities"></ul>
-          </div>
-          <div class="nav-section" id="nav-section-genres">
-            <h4><a href="/all/genres">Жанры</a></h4>
-            <ul id="nav-genres"></ul>
-          </div>
+          {% endfor %}
           {% endblock %}
         </div>
       </div>
@@ -57,10 +56,10 @@
         <table>
           <tr>
             <td class="first"><a href="/about/">О проекте</a></td>
-            <td><a href="http://www.blues.ru">Blues.Ru</a></td>
+            <td><a href="https://www.blues.ru">Blues.Ru</a></td>
           </tr>
         </table>
-        <p class="copyright">&copy; LiveBand. Архив 2001–2024.</p>
+        <p class="copyright">&copy; LiveBand. Архив 2001–2020.</p>
       </div>
     </div>
   </body>
