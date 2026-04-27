@@ -49,9 +49,9 @@
   function fillList(ul, items, allUrl, allLabel) {
     if (!ul) return;
     var html = items.map(function (e) {
-      return '<li><em><a href="' + e.url + '">' + e.title + '</a></em></li>';
+      return '<li><a href="' + e.url + '">' + e.title + '</a></li>';
     }).join('');
-    html += '<li><em><a href="' + allUrl + '" class="more">' + allLabel + '</a></em></li>';
+    html += '<li><a href="' + allUrl + '" class="more">' + allLabel + '</a></li>';
     ul.innerHTML = html;
   }
 

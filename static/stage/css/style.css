@@ -324,9 +324,12 @@
 	#photosBox div.thumbnail a.thumblink {display: block;margin: 0px 0px 5px 0px;}
 	#photosBox div.thumbnail a.subj {}
 	
-	/* lcol search box — reuses fastsearchForm visuals, adapted for 138px, no button */
-	#lcol #fastsearchForm {margin: 0 0 4px -1px;width: 138px;height: auto;background: none;}
+	/* lcol search — pill shape matching fastsearch.bg.png look, no button */
+	#lcol #fastsearchForm {margin: 0 0 6px 0;width: 138px;height: auto;background: none;}
 	#lcol #fastsearchForm p {margin: 0;}
-	#lcol #fastsearchForm input {position: static;border: 1px solid #b0a090;}
-	#lcol #fastsearchForm .txt {width: 130px;height: auto;padding: 2px 3px;background-color: #eee8e1;color: #404040;font: 11px/13px 'Tahoma', sans-serif;}
-	#lcol #fastsearchForm .txt:focus {outline: none;background-color: #fff;}
+	#lcol #fastsearchForm input {position: static;}
+	#lcol #fastsearchForm .txt {display: block;width: 122px;height: 13px;padding: 2px 6px;border: 1px solid #c4a98a;border-radius: 8px;background-color: #eee8e1;color: #404040;font: 11px/13px 'Tahoma', sans-serif;}
+	#lcol #fastsearchForm .txt:focus {outline: none;border-color: #8b6347;background-color: #faf7f3;}
+	/* nav list items — plain links, no pick icon */
+	#rubricator ul li a {padding-left: 8px;}
+	#rubricator ul li a.more {padding-left: 8px;}

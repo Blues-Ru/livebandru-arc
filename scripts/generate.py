@@ -902,7 +902,10 @@ def generate_search(bands, clubs, cities, genres):
     for c in clubs:
         if not c.get('token'):
             continue
-        index.append({'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'})
+        entry = {'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'}
+        if c.get('aliases'):
+            entry['alt'] = c['aliases']
+        index.append(entry)
     for city in cities:
         if not city.get('token'):
             continue
