@@ -895,25 +895,29 @@ def generate_search(bands, clubs, cities, genres):
     for b in bands:
         if not b.get('token'):
             continue
-        entry = {'title': b['name'], 'url': f"/band/{b['token']}/", 'type': 'band'}
+        entry = {'title': b['name'], 'url': f"/band/{b['token']}/", 'type': 'band',
+                 'n': b.get('gig_count') or 0}
         if b.get('aliases'):
             entry['alt'] = b['aliases']
         index.append(entry)
     for c in clubs:
         if not c.get('token'):
             continue
-        entry = {'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'}
+        entry = {'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club',
+                 'n': c.get('gig_count') or 0}
         if c.get('aliases'):
             entry['alt'] = c['aliases']
         index.append(entry)
     for city in cities:
         if not city.get('token'):
             continue
-        index.append({'title': city['name'], 'url': f"/city/{city['token']}/", 'type': 'city'})
+        index.append({'title': city['name'], 'url': f"/city/{city['token']}/", 'type': 'city',
+                      'n': city.get('band_count') or 0})
     for g in genres:
         if not g.get('token'):
             continue
-        index.append({'title': g['name'], 'url': f"/genre/{g['token']}/", 'type': 'genre'})
+        index.append({'title': g['name'], 'url': f"/genre/{g['token']}/", 'type': 'genre',
+                      'n': g.get('band_count') or 0})
     out = SITE / 'data' / 'search.json'
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding='utf-8')

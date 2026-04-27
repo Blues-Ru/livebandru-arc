@@ -189,7 +189,7 @@
 	#tags small {font: 11px 'Tahoma', sans-serif;color: #404040;}
 	#tags a:hover {text-decoration: underline;}
 	
-	#contextMenu {border-top: 7px solid #000;width: 100%;border-collapse: collapse;margin: 0;}
+	#contextMenu {border-top: 7px solid #000;width: 100%;border-collapse: collapse;margin: 0 !important;font: 11px 'Tahoma', sans-serif;}
 	#contextMenu td {background: url(/stage/img/937964.dot.gif) repeat-x center bottom;}
 		#contextMenu td a,
 		#contextMenu td b

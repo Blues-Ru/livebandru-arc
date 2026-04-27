@@ -71,12 +71,17 @@
     for (var i = 0; i < searchIdx.length; i++) {
       var e = searchIdx[i];
       var bucket = typeMap[e.type];
-      if (!bucket || buckets[bucket].length >= 5) continue;
+      if (!bucket) continue;
       var hay = (e.title + ' ' + (e.alt || '')).toLowerCase();
       if (words.every(function (w) { return hay.indexOf(w) !== -1; })) {
         buckets[bucket].push(e);
       }
     }
+
+    Object.keys(buckets).forEach(function (key) {
+      buckets[key].sort(function (a, b) { return (b.n || 0) - (a.n || 0); });
+      buckets[key] = buckets[key].slice(0, 5);
+    });
 
     Object.keys(NAV).forEach(function (key) {
       var n = NAV[key];
