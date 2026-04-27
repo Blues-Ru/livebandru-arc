@@ -26,16 +26,24 @@
         <div id="rubricator">
           {% block nav %}
           <form id="fastsearchForm" action="/search" onsubmit="return false;" autocomplete="off">
-            <p><input type="text" class="txt" id="searchInput" placeholder="Поиск..." /></p>
+            <input type="text" class="txt" id="searchInput" placeholder="Поиск..." autofocus />
           </form>
-          <h4><a href="/all/bands">Группы</a></h4>
-          <ul id="nav-bands"></ul>
-          <h4><a href="/all/clubs">Клубы</a></h4>
-          <ul id="nav-clubs"></ul>
-          <h4><a href="/all/cities">Города</a></h4>
-          <ul id="nav-cities"></ul>
-          <h4><a href="/all/genres">Жанры</a></h4>
-          <ul id="nav-genres"></ul>
+          <div class="nav-section" id="nav-section-bands">
+            <h4><a href="/all/bands">Группы</a></h4>
+            <ul id="nav-bands"></ul>
+          </div>
+          <div class="nav-section" id="nav-section-clubs">
+            <h4><a href="/all/clubs">Клубы</a></h4>
+            <ul id="nav-clubs"></ul>
+          </div>
+          <div class="nav-section" id="nav-section-cities">
+            <h4><a href="/all/cities">Города</a></h4>
+            <ul id="nav-cities"></ul>
+          </div>
+          <div class="nav-section" id="nav-section-genres">
+            <h4><a href="/all/genres">Жанры</a></h4>
+            <ul id="nav-genres"></ul>
+          </div>
           {% endblock %}
         </div>
       </div>
