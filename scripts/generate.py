@@ -902,8 +902,7 @@ def generate_search(bands, clubs, cities, genres):
     for c in clubs:
         if not c.get('token'):
             continue
-        entry = {'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'}
-        index.append(entry)
+        index.append({'title': c['name'], 'url': f"/club/{c['token']}/", 'type': 'club'})
     for city in cities:
         if not city.get('token'):
             continue
@@ -916,6 +915,23 @@ def generate_search(bands, clubs, cities, genres):
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f"  search.json: {len(index)} entries")
+
+    def top5(items, sort_key, url_prefix):
+        ranked = sorted(
+            [i for i in items if i.get('token')],
+            key=lambda x: -(x.get(sort_key) or 0)
+        )[:5]
+        return [{'title': i['name'], 'url': f"/{url_prefix}/{i['token']}/"} for i in ranked]
+
+    top = {
+        'bands':  top5(bands,  'gig_count',  'band'),
+        'clubs':  top5(clubs,  'gig_count',  'club'),
+        'cities': top5(cities, 'band_count', 'city'),
+        'genres': top5(genres, 'band_count', 'genre'),
+    }
+    top_out = SITE / 'data' / 'top.json'
+    top_out.write_text(json.dumps(top, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f"  top.json written")
 
 
 def main():

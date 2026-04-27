@@ -324,9 +324,9 @@
 	#photosBox div.thumbnail a.thumblink {display: block;margin: 0px 0px 5px 0px;}
 	#photosBox div.thumbnail a.subj {}
 	
-	#siteSearch {position: relative;margin: 0 0 10px;}
-	#searchInput {width: 100%;box-sizing: border-box;padding: 3px 5px;font: 11px 'Tahoma', sans-serif;border: 1px solid #cfc8c2;}
-	#searchResults {display: none;position: absolute;top: 100%;left: 0;right: 0;z-index: 100;margin: 0;padding: 0;list-style: none;background: #fff;border: 1px solid #cfc8c2;border-top: 0;max-height: 200px;overflow-y: auto;}
-	#searchResults li {border-bottom: 1px solid #f0ebe6;}
-	#searchResults li a {display: block;padding: 4px 7px;font: 11px 'Tahoma', sans-serif;color: #7a4430;}
-	#searchResults li a:hover {background: #f4f0ec;text-decoration: none;}
+	/* lcol search box — reuses fastsearchForm visuals, adapted for 138px, no button */
+	#lcol #fastsearchForm {margin: 0 0 4px -1px;width: 138px;height: auto;background: none;}
+	#lcol #fastsearchForm p {margin: 0;}
+	#lcol #fastsearchForm input {position: static;border: 1px solid #b0a090;}
+	#lcol #fastsearchForm .txt {width: 130px;height: auto;padding: 2px 3px;background-color: #eee8e1;color: #404040;font: 11px/13px 'Tahoma', sans-serif;}
+	#lcol #fastsearchForm .txt:focus {outline: none;background-color: #fff;}
