@@ -13,8 +13,8 @@ export async function onRequest(context) {
 
   if (!match) return context.next();
 
-  const [, kind, token, , file] = match;
-  const mediaUrl = `${MEDIA_BASE}/${kind}/${token}/${file}`;
+  const [, kind, token, subdir, file] = match;
+  const mediaUrl = `${MEDIA_BASE}/${kind}/${token}/${subdir}/${file}`;
 
   return fetch(mediaUrl, {
     method: context.request.method,
