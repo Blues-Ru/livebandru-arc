@@ -889,6 +889,9 @@ def copy_static():
         else:
             shutil.copy2(s, d)
     shutil.copy2(TMPL / '404.html', dst / '404.html')
+    robots = ARC / 'robots.txt'
+    if robots.exists():
+        shutil.copy2(robots, dst / 'robots.txt')
 
 
 def generate_search(bands, clubs, cities, genres):
