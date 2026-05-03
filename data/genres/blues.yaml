@@ -9,7 +9,7 @@ aliases: 'blues
 clips:
 - id: 73
   type: rss
-  url: http://www.blues.ru/news/rss.aspx
+  url: https://blues.ru/news/rss.aspx
   name: Blues.Ru - блюзовые новости
   sort_order: 0
 - id: 131
@@ -46,7 +46,7 @@ clips:
   sort_order: 300
 - id: 351
   type: weblink
-  url: http://www.blues.ru
+  url: https://blues.ru
   name: Блюз в России
   sort_order: 0
 - id: 355

@@ -2,7 +2,7 @@ id: 290
 token: andrey-kozlovsky
 name: Андрей Козловский
 alive: true
-url: http://kozlovsky.blues.ru
+url: https://kozlovsky.blues.ru
 city_id: 1
 genre_id: 1
 secondary_genre_id: 17
@@ -12,7 +12,7 @@ musicians:
 clips:
 - id: 966
   type: weblink
-  url: http://kozlovsky.blues.ru
+  url: https://kozlovsky.blues.ru
   name: Официальный сайт
   sort_order: 99
 - id: 970
