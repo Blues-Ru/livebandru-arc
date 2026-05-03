@@ -29,7 +29,7 @@ export default {
       return fetch(request);
     }
 
-    const [, kind, token, file] = match;
+    const [, kind, token, , file] = match;
     const mediaUrl = `${MEDIA_BASE}/${kind}/${token}/${file}`;
 
     // Forward original headers so Range, If-None-Match, etc. pass through.
