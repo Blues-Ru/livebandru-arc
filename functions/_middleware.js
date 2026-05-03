@@ -9,6 +9,17 @@ const MEDIA_RE = new RegExp('^/(band|club)/([^/]+)/(images|music)/([^/]+)$');
 
 export async function onRequest(context) {
   const url = new URL(context.request.url);
+
+  // ── Canonical host redirect: www → bare, http → https ────────────────────
+  const isWww = url.hostname.startsWith("www.");
+  const isHttp = url.protocol === "http:";
+  if (isWww || isHttp) {
+    const canonical = new URL(context.request.url);
+    canonical.protocol = "https:";
+    if (isWww) canonical.hostname = url.hostname.slice(4);
+    return Response.redirect(canonical.toString(), 301);
+  }
+
   const match = url.pathname.match(MEDIA_RE);
 
   if (!match) return context.next();
